@@ -17,7 +17,7 @@ export default function Page() {
     <main className="flex flex-col gap-8 sm:gap-16">
       <section className="flex flex-col items-start gap-3 sm:gap-4">
         <h1 className="mb-0">Bin Diving</h1>
-        <p className="text-lg">We've curated selections of products to help you find quality items on Amazon</p>
+        <p className="text-lg">We have curated selections of products to help you find quality items on Amazon</p>
       </section>
       {!!products?.length && (
         <section className="flex flex-col gap-4">
