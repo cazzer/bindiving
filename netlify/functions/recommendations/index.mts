@@ -1,6 +1,6 @@
 import { Config, Context } from '@netlify/functions'
 
-const CAPTCHA_SECRET_KEY = { process.env }
+const CAPTCHA_SECRET_KEY = process.env.CAPTCHA_SECRET_KEY
 
 export default async (req: Request, context: Context) => {
   const url = new URL(req.url)
