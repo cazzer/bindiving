@@ -11,6 +11,7 @@ export function Header() {
       <Link href="/">
         <Image src={logo} alt="Bin Diving Logo" width="48" />
       </Link>
+      <h1 className="mb-0">Bin Diving</h1>
     </nav>
   )
 }
