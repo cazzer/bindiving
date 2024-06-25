@@ -41,8 +41,8 @@ export default function Page() {
       {!recResponse?.recommendations?.length && (
         <section className="flex flex-col items-start gap-3 sm:gap-4">
           <p className="text-lg">
-            There is a lot of content on Amazon. Describe what you're looking for and we'll use some AI magic to find a
-            few recommentations.
+            There is a lot of content on Amazon. Describe what you&apos;re looking for and we&apos;ll use some AI magic
+            to find a few recommentations.
           </p>
         </section>
       )}

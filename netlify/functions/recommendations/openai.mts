@@ -15,9 +15,9 @@ export async function queryOpenAI(query) {
       {
         role: 'user',
         content: `
-Respond with a JSON aray of products, each containing only the following fields: {product_name, pros[], cons[], price, amazon_id}.
+Respond with a JSON aray of products, each containing only the following fields: {product_name, pros[], cons[], price, amazon_id, amazon_full_url}.
 
-Ensure that the Amazon ID is valid by checking the link.
+Ensure that the Amazon ID is valid by checking the full URLs. If they lead to "not found" pages try finding updated URLs.
 
 What are three good options for ${query} that people recommend?
       `
