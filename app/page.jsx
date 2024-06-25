@@ -1,13 +1,9 @@
 'use client'
 
-const SITE_RECAPTCHA_KEY = process.env.SITE_RECAPTCHA_KEY
-
 import { useState } from 'react'
-import { getNetlifyContext } from 'utils'
 
+const SITE_RECAPTCHA_KEY = process.env.NEXT_PUBLIC_SITE_RECAPTCHA_KEY
 const ASSOCIATE_ID = 'bindiving-20'
-
-const ctx = getNetlifyContext()
 
 export default function Page() {
   const [query, setQuery] = useState('')
@@ -32,18 +28,21 @@ export default function Page() {
       <section className="flex flex-col items-start gap-3 sm:gap-4">
         <p className="text-lg">We have curated selections of products to help you find quality items on Amazon</p>
       </section>
-      <form className="grow join text-base-content" onSubmit={onSearch} data-netlify-recaptcha="true">
-        <input
-          type="text"
-          placeholder="Seach"
-          className="input input-bordered w-full"
-          value={query}
-          onChange={onQueryUpdate}
-        />
-        <button type="submit" className="btn btn-primary g-recaptcha" onClick={onSearch}>
-          Search
-        </button>
-        <div data-netlify-recaptcha="true"></div>
+      <form className="text-base-content" onSubmit={onSearch} data-netlify-recaptcha="true">
+        <div className="flex grow join">
+          <input
+            type="text"
+            placeholder="Seach"
+            className="input input-bordered w-full"
+            value={query}
+            onChange={onQueryUpdate}
+          />
+          <button type="submit" className="btn btn-primary" onClick={onSearch}>
+            Search
+          </button>
+        </div>
+        {/* <div className="g-recaptcha" data-sitekey={SITE_RECAPTCHA_KEY} /> */}
+        <div data-netlify-recaptcha="true" />
       </form>
       {!!products?.length && (
         <section className="flex flex-col gap-4">
