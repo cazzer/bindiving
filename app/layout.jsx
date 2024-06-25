@@ -1,6 +1,9 @@
 import '../styles/globals.css'
 import { Footer } from '../components/footer'
 import { Header } from '../components/header'
+import { GoogleReCaptchaProvider } from 'react-google-recaptcha-v3'
+
+const SITE_RECAPTCHA_KEY = process.env.NEXT_PUBLIC_SITE_RECAPTCHA_KEY
 
 export const metadata = {
   title: {
@@ -14,13 +17,14 @@ export default function RootLayout({ children }) {
     <html lang="en" data-theme="lofi">
       <head>
         <link rel="icon" href="/favicon.svg" sizes="any" />
-        <script src="https://www.google.com/recaptcha/api.js" async />
       </head>
       <body className="antialiased text-white bg-blue-900">
         <div className="flex flex-col min-h-screen px-6 bg-grid-pattern sm:px-12">
           <div className="flex flex-col w-full max-w-5xl mx-auto grow">
             <Header />
-            <div className="grow">{children}</div>
+            <GoogleReCaptchaProvider reCaptchaKey={SITE_RECAPTCHA_KEY}>
+              <div className="grow">{children}</div>
+            </GoogleReCaptchaProvider>
             <Footer />
           </div>
         </div>

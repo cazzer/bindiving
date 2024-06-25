@@ -1,15 +1,25 @@
 'use client'
 
 import { useState } from 'react'
+import { GoogleReCaptcha } from 'react-google-recaptcha-v3'
 
-const SITE_RECAPTCHA_KEY = process.env.NEXT_PUBLIC_SITE_RECAPTCHA_KEY
 const ASSOCIATE_ID = 'bindiving-20'
 
 export default function Page() {
   const [query, setQuery] = useState('')
+  const [captchaToken, setCaptchaToken] = useState('')
 
   function onQueryUpdate(event) {
     setQuery(event.target.value)
+  }
+
+  function onCaptchaChange(value) {
+    setCaptchaValue(value)
+  }
+
+  function handleCaptchaVerify(token) {
+    console.log('captcha verify called', token)
+    setCaptchaToken(token)
   }
 
   async function onSearch(event) {
@@ -28,7 +38,7 @@ export default function Page() {
       <section className="flex flex-col items-start gap-3 sm:gap-4">
         <p className="text-lg">We have curated selections of products to help you find quality items on Amazon</p>
       </section>
-      <form className="text-base-content" onSubmit={onSearch} data-netlify-recaptcha="true">
+      <form className="text-base-content" onSubmit={onSearch}>
         <div className="flex grow join">
           <input
             type="text"
@@ -41,8 +51,7 @@ export default function Page() {
             Search
           </button>
         </div>
-        {/* <div className="g-recaptcha" data-sitekey={SITE_RECAPTCHA_KEY} /> */}
-        <div data-netlify-recaptcha="true" />
+        <GoogleReCaptcha onVerify={handleCaptchaVerify} />
       </form>
       {!!products?.length && (
         <section className="flex flex-col gap-4">
