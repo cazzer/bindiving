@@ -31,9 +31,17 @@ export default function Page() {
       method: 'POST'
     })
 
-    const result = await response.json()
-    setApiRequestState('resolved')
-    setRecResponse(result)
+    try {
+      const result = await response.json()
+      setApiRequestState('resolved')
+      setRecResponse(result)
+    } catch (error) {
+      setApiRequestState('rejected')
+      setRecResponse({
+        valid: false,
+        message: error.message
+      })
+    }
   }
 
   return (
@@ -97,7 +105,6 @@ export default function Page() {
                       ))}
                     </ul>
                   </td>
-                  <td>{maybeAdd$(product.price)}</td>
                   <td>
                     <a href={makeAmazonLink(product.amazon_id)} className="btn" target="_blank">
                       View on Amazon

@@ -1,3 +1,5 @@
+import ReactGA from 'react-ga4'
+
 import '../styles/globals.css'
 import { Footer } from '../components/footer'
 import { Header } from '../components/header'
@@ -8,6 +10,8 @@ export const metadata = {
     default: 'Bin Diving'
   }
 }
+
+ReactGA.initialize('G-JZ9YSG1L4D')
 
 export default function RootLayout({ children }) {
   return (

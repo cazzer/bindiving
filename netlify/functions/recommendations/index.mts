@@ -1,7 +1,7 @@
 import { Config, Context } from '@netlify/functions'
 import { queryOpenAI } from './openai.mjs'
 import { processCaptcha } from './recatpcha.mjs'
-import { resolveAmazonLink } from './resolve-links.mjs'
+import { resolveAmazonLink } from './brave-resolver.mjs'
 
 export default async (req: Request, context: Context) => {
   const url = new URL(req.url)
@@ -34,8 +34,6 @@ export default async (req: Request, context: Context) => {
     recommendations = JSON.parse(rawRecommendations)
 
     const resolvedProducts = await Promise.all(recommendations.products.map(resolveAmazonLink))
-
-    console.log(resolvedProducts)
 
     return new Response(
       JSON.stringify({
