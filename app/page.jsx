@@ -3,8 +3,10 @@
 import { useRef, useState } from 'react'
 import ReCAPTCHA from 'react-google-recaptcha'
 
+import ProductCard from '../components/product-card'
+import SearchBox from '../components/search'
+
 const SITE_RECAPTCHA_KEY = process.env.NEXT_PUBLIC_SITE_RECAPTCHA_KEY
-const ASSOCIATE_ID = 'bindiving-20'
 
 export default function Page() {
   const [query, setQuery] = useState('')
@@ -12,6 +14,8 @@ export default function Page() {
   const [captchaValue, setCaptchaValue] = useState(null)
   const [recResponse, setRecResponse] = useState(null)
   const captcha = useRef()
+
+  const randomPlaceholder = getRandomPlaceholder()
 
   function onQueryUpdate(event) {
     setQuery(event.target.value)
@@ -49,21 +53,22 @@ export default function Page() {
       {!recResponse?.recommendations?.length && (
         <section className="flex flex-col items-start gap-3 sm:gap-4">
           <p className="text-lg">
-            There is a lot of content on Amazon. Describe what you&apos;re looking for and we&apos;ll use some AI magic
-            to find a few recommentations.
+            There is a lot to dig through on Amazon. Describe what you&apos;re looking for and we&apos;ll use some AI
+            magic to find a few recommentations.
           </p>
         </section>
       )}
       {apiRequestState !== 'pending' ? (
         <form className="text-base-content" onSubmit={onSearch}>
           <div className="container flex grow join">
-            <input
+            <SearchBox placeholder={randomPlaceholder} value={query} onChange={onQueryUpdate} />
+            {/* <input
               type="text"
-              placeholder="Seach"
+              placeholder={placeholder}
               className="input input-bordered w-full"
               value={query}
               onChange={onQueryUpdate}
-            />
+            /> */}
             <button type="submit" className="btn btn-primary" onClick={onSearch}>
               Search
             </button>
@@ -83,47 +88,31 @@ export default function Page() {
       )}
       {apiRequestState !== 'pending' && recResponse?.valid == true && (
         <section className="flex flex-col gap-4">
-          <h2 className="mb-1">
-            Links to Amazon are affiliate links. Using these links to purchase products supports for this website.
-          </h2>
-          <table className="table-lg">
-            <tbody>
-              {recResponse.recommendations.map((product, index) => (
-                <tr key={index}>
-                  <td>{product.product_name}</td>
-                  <td>
-                    <ul className="list-disc">
-                      {product.pros.map((pro, index) => (
-                        <li key={index}>{pro}</li>
-                      ))}
-                    </ul>
-                  </td>
-                  <td>
-                    <ul className="list-disc">
-                      {product.cons.map((con, index) => (
-                        <li key={index}>{con}</li>
-                      ))}
-                    </ul>
-                  </td>
-                  <td>
-                    <a href={makeAmazonLink(product.amazon_id)} className="btn" target="_blank">
-                      View on Amazon
-                    </a>
-                  </td>
-                </tr>
-              ))}
-            </tbody>
-          </table>
+          <em className="mb-1">
+            Notice: I earn commission if you use these links to make a purchase, which helps to keep this website
+            running.
+          </em>
+          {recResponse.recommendations.map((product, index) => (
+            <ProductCard product={product} key={index} />
+          ))}
         </section>
       )}
     </main>
   )
 }
 
-function maybeAdd$(price) {
-  return price.toString()[0] === '$' ? price : `$${price}`
-}
+function getRandomPlaceholder() {
+  const placeholders = [
+    `running socks that won't give me blisters`,
+    `extra durable plunger`,
+    `hotel-quality pillows`,
+    `fake flowers that my partner will think are real`,
+    `typewriter that can connect to my printer`,
+    `toe-less socks for sweaty feet`,
+    `lightbulbs that make the room darker`,
+    `headphones that only play music outward`,
+    `dress shoes without soles`
+  ]
 
-function makeAmazonLink(asin) {
-  return `https://www.amazon.com/dp/${asin}/?tag=${ASSOCIATE_ID}`
+  return placeholders[Math.floor(Math.random() * placeholders.length)]
 }

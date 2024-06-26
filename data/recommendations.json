@@ -1,0 +1,32 @@
+[
+  {
+    "product_name": "ASICS Gel-Kayano 27",
+    "pros": ["Excellent cushioning", "Durable", "Good arch support"],
+    "cons": ["A bit heavy", "Higher price point"],
+    "price": "$159.95",
+    "amazon_id": "B082D82F11",
+    "amazon_full_url": "https://www.amazon.com/dp/B08DYPBNGL",
+    "amazon_url": "https://www.amazon.com/ASICS-Mens-Gel-Kayano-Running-Shoes/dp/B082D82F11",
+    "image_url": "https://imgs.search.brave.com/FCUnESg6bR8ppf8M-Sfl_r-lrnXkf-3FBfrX0rcFabc/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvODYwYzA4NzE1/OTE2NzM1YTQ1OWNj/Zjg0MmI0Y2U2YzI2/ODE5NmZhNGZjODA4/N2Y0NmI1ZmU4ZWQy/ZmM2MjdmMS93d3cu/YW1hem9uLmNvbS8"
+  },
+  {
+    "product_name": "Brooks Ghost 14",
+    "pros": ["Comfortable fit", "Good for long runs", "Breathable", "Stylish design"],
+    "cons": ["Slightly expensive", "Limited color options"],
+    "price": "$129.95",
+    "amazon_id": "B0C699QDPJ",
+    "amazon_full_url": "https://www.amazon.com/dp/B08FB34XK1",
+    "amazon_url": "https://www.amazon.com/Brooks-Mens-Ghost-Neutral-Running/dp/B0C699QDPJ",
+    "image_url": "https://imgs.search.brave.com/FCUnESg6bR8ppf8M-Sfl_r-lrnXkf-3FBfrX0rcFabc/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvODYwYzA4NzE1/OTE2NzM1YTQ1OWNj/Zjg0MmI0Y2U2YzI2/ODE5NmZhNGZjODA4/N2Y0NmI1ZmU4ZWQy/ZmM2MjdmMS93d3cu/YW1hem9uLmNvbS8"
+  },
+  {
+    "product_name": "Nike Air Zoom Pegasus 38",
+    "pros": ["Responsive cushioning", "Versatile use", "Lightweight"],
+    "cons": ["Not as durable", "Narrow fit"],
+    "price": "$119.95",
+    "amazon_id": "B09NN2XRLQ",
+    "amazon_full_url": "https://www.amazon.com/dp/B091BVP5SR",
+    "amazon_url": "https://www.amazon.com/Nike-AIR-Zoom-Pegasus-38/dp/B09NN2XRLQ",
+    "image_url": "https://imgs.search.brave.com/FCUnESg6bR8ppf8M-Sfl_r-lrnXkf-3FBfrX0rcFabc/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvODYwYzA4NzE1/OTE2NzM1YTQ1OWNj/Zjg0MmI0Y2U2YzI2/ODE5NmZhNGZjODA4/N2Y0NmI1ZmU4ZWQy/ZmM2MjdmMS93d3cu/YW1hem9uLmNvbS8"
+  }
+]

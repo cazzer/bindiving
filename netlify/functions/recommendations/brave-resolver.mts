@@ -15,15 +15,21 @@ export async function resolveAmazonLink(product) {
 
   const result = await response.json()
 
-  const match = result.web.results.find((result) =>
+  const productMatch = result.web.results.find((result) =>
     result.url.match(/https:\/\/www.amazon.com\/[^\/]*\/dp\/[A-Z0-9]{10}/)
   )
 
-  const amazon_id = match.url.match(/dp\/([A-Z0-9]{10})/)
+  const imageMatch = result.web.results.find(
+    (result) => result.profile?.name !== 'Amazon' && result.thumbnail?.original
+  )
+
+  console.log(imageMatch)
+
+  const amazon_id = productMatch.url.match(/dp\/([A-Z0-9]{10})/)
 
   return Object.assign(product, {
-    amazon_url: match.url,
+    amazon_url: productMatch.url,
     amazon_id: amazon_id.length > 1 ? amazon_id[1] : null,
-    image_url: match.profile.img
+    image_url: imageMatch?.thumbnail?.original
   })
 }
