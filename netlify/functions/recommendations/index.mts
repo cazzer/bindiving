@@ -1,6 +1,7 @@
 import { Config, Context } from '@netlify/functions'
 import { queryOpenAI } from './openai.mjs'
 import { processCaptcha } from './recatpcha.mjs'
+import { resolveAmazonLink } from './resolve-links.mjs'
 
 export default async (req: Request, context: Context) => {
   const url = new URL(req.url)
@@ -31,11 +32,15 @@ export default async (req: Request, context: Context) => {
   let recommendations
   try {
     recommendations = JSON.parse(rawRecommendations)
-    console.log(recommendations.products)
+
+    const resolvedProducts = await Promise.all(recommendations.products.map(resolveAmazonLink))
+
+    console.log(resolvedProducts)
+
     return new Response(
       JSON.stringify({
         valid: true,
-        recommendations: recommendations.products
+        recommendations: resolvedProducts
       })
     )
   } catch (error) {
