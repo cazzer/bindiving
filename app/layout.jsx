@@ -1,5 +1,3 @@
-import ReactGA from 'react-ga4'
-
 import '../styles/globals.css'
 import { Footer } from '../components/footer'
 import { Header } from '../components/header'
@@ -12,7 +10,6 @@ export const metadata = {
 }
 
 export default function RootLayout({ children }) {
-  ReactGA.initialize('G-JZ9YSG1L4D')
   return (
     <html lang="en" data-theme="lofi">
       <head>
