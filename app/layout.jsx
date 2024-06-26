@@ -11,9 +11,8 @@ export const metadata = {
   }
 }
 
-ReactGA.initialize('G-JZ9YSG1L4D')
-
 export default function RootLayout({ children }) {
+  ReactGA.initialize('G-JZ9YSG1L4D')
   return (
     <html lang="en" data-theme="lofi">
       <head>
