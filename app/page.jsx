@@ -103,14 +103,14 @@ export default function Page() {
 
 function getRandomPlaceholder() {
   const placeholders = [
-    `running socks that won't give me blisters`,
+    `blister-proof running socks`,
     `extra durable plunger`,
     `hotel-quality pillows`,
-    `fake flowers that my partner will think are real`,
-    `typewriter that can connect to my printer`,
+    `flowers that don't need water`,
+    `bluetooth typewriter`,
     `toe-less socks for sweaty feet`,
-    `lightbulbs that make the room darker`,
-    `headphones that only play music outward`,
+    `dark lightbulbs`,
+    `annoyingly loud headphones`,
     `dress shoes without soles`
   ]
 
