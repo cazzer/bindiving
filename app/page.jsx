@@ -2,6 +2,7 @@
 
 import { useRef, useState } from 'react'
 import ReCAPTCHA from 'react-google-recaptcha'
+import { sendGAEvent } from '@next/third-parties/google'
 
 import ProductCard from '../components/product-card'
 import SearchBox from '../components/search'
@@ -27,6 +28,7 @@ export default function Page() {
 
   async function onSearch(event) {
     event.preventDefault()
+    sendGAEvent({ event: 'search', value: query })
 
     // captcha.current?.reset()
 
@@ -49,7 +51,7 @@ export default function Page() {
   }
 
   return (
-    <main className="flex flex-col gap-8 sm:gap-16">
+    <main className="flex flex-col gap-6 sm:gap-6">
       {!recResponse?.recommendations?.length && (
         <section className="flex flex-col items-start gap-3 sm:gap-4">
           <p className="text-lg">
@@ -89,8 +91,8 @@ export default function Page() {
       {apiRequestState !== 'pending' && recResponse?.valid == true && (
         <section className="flex flex-col gap-4">
           <em className="mb-1">
-            Notice: I earn commission if you use these links to make a purchase, which helps to keep this website
-            running.
+            Notice and disclaimer: I earn commission if you use these links to make a purchase, which helps to keep this
+            website running. Results are AI generated and may contain fabricated statements and broken links.
           </em>
           {recResponse.recommendations.map((product, index) => (
             <ProductCard product={product} key={index} />
