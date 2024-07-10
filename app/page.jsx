@@ -43,8 +43,6 @@ export default function Page() {
     let threadResult
     try {
       threadResult = await threadResponse.json()
-      console.log('thread')
-      console.log(threadResult)
     } catch (error) {
       setApiRequestState('rejected')
       setRecResponse({
@@ -65,8 +63,6 @@ export default function Page() {
 
     try {
       const messageResult = await messageResponse.json()
-      console.log('message')
-      console.log(messageResult)
       setApiRequestState('resolved')
       setRecResponse(messageResult)
     } catch (error) {
