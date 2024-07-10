@@ -17,6 +17,7 @@ export default async (req: Request, context: Context) => {
     return new Response(JSON.stringify({ valid: false, message: 'Invalid reCaptcha' }))
   }
 
+  console.log('Querying OpenAI')
   let rawRecommendations
   try {
     rawRecommendations = await queryOpenAI(query)

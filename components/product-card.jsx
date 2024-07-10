@@ -33,7 +33,7 @@ export default function ProductCard({ product }) {
         <div className="container flex grow">
           <p className="text-xs text-slate-600">
             Sources:{' '}
-            {product.source_urls.map((source, index) => {
+            {product.sources.map((source, index) => {
               const url = new URL(source)
               return (
                 <a href={source} key={index} className="px-1" target="_blank">

@@ -23,7 +23,7 @@ What are the three best options for ${query} that people recommend?
       `
       }
     ],
-    model: 'gpt-4o'
+    model: 'gpt-4-turbo'
   })
 
   return response.choices[0].message.content
