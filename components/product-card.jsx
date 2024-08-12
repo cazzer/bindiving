@@ -1,8 +1,15 @@
 import { sendGAEvent } from '@next/third-parties/google'
+import { useImage } from 'react-image'
+
+import placeholderImage from 'public/images/no-image-available.png'
 
 const ASSOCIATE_ID = 'bindiving-20'
 
 export default function ProductCard({ product }) {
+  const { src } = useImage({
+    srcList: [product.image_url, placeholderImage.src]
+  })
+
   function onLinkClick() {
     sendGAEvent({ event: 'amazon-link-clicked', value: product })
   }
@@ -10,7 +17,7 @@ export default function ProductCard({ product }) {
   return (
     <div className="text-base-content card md:card-side bg-base-100 shadow-xl">
       <figure className="max-h-60 w-80 self-center">
-        <img src={product.image_url} alt={`Image of ${product.product_name}`} />
+        <img src={src} alt={`Image of ${product.product_name}`} />
       </figure>
       <div className="card-body">
         <h2 className="card-title">{product.product_name}</h2>

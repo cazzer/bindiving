@@ -4,7 +4,7 @@ import OpenAI from 'openai'
 import { processCaptcha } from '../recommendations/recatpcha.mjs'
 
 const OPEN_AI_KEY = process.env.OPEN_AI_KEY
-const ASSISTANT_ID = 'asst_Tj9GwcIo68JqkHU2er86erZ3'
+const ASSISTANT_ID = 'asst_UIMk44UySAA4eBMQO9IZAHGQ'
 
 const openai = new OpenAI({
   organization: 'org-t125kCvFULIVCLilC1zVFW3r',

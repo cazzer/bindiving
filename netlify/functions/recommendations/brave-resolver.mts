@@ -23,13 +23,12 @@ export async function resolveAmazonLink(product) {
     (result) => result.profile?.name !== 'Amazon' && result.thumbnail?.original
   )
 
-  console.log(imageMatch)
-
   const amazon_id = productMatch.url.match(/dp\/([A-Z0-9]{10})/)
 
   return Object.assign(product, {
     amazon_url: productMatch.url,
     amazon_id: amazon_id.length > 1 ? amazon_id[1] : null,
+    gpt_azn: product.amazon_id,
     image_url: imageMatch?.thumbnail?.original
   })
 }

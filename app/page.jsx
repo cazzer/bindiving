@@ -76,7 +76,7 @@ export default function Page() {
 
   return (
     <main className="flex flex-col gap-6 sm:gap-6">
-      {!recResponse?.recommendations?.length && (
+      {!recResponse?.recommendations?.length && apiRequestState !== 'pending' && (
         <section className="flex flex-col items-start gap-3 sm:gap-4">
           <p className="text-lg">
             There is a lot to dig through on Amazon. Describe what you&apos;re looking for and we&apos;ll use some AI
@@ -132,7 +132,9 @@ function getRandomPlaceholder() {
     `toe-less socks for sweaty feet`,
     `dark lightbulbs`,
     `annoyingly loud headphones`,
-    `dress shoes without soles`
+    `dress shoes without soles`,
+    `dog leash but for children`,
+    `helium-filled dumbbells`
   ]
 
   return placeholders[Math.floor(Math.random() * placeholders.length)]

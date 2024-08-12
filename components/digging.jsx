@@ -5,7 +5,7 @@ export default function Digging() {
 
   useEffect(() => {
     const diggingInterval = setTimeout(() => {
-      setDiggingInfo('Digging...this dumpster is deep, give me a moment...')
+      setDiggingInfo('Parsing results...')
     }, 5000)
 
     return () => clearInterval(diggingInterval)
