@@ -1,22 +1,19 @@
 'use client'
 
-import { useRef, useState } from 'react'
-import ReCAPTCHA from 'react-google-recaptcha'
+import { useState } from 'react'
 import { sendGAEvent } from '@next/third-parties/google'
+import { useGoogleReCaptcha } from 'react-google-recaptcha-v3'
 
 import ProductCard from '../components/product-card'
 import SearchBox from '../components/search'
 import Digging from 'components/digging'
 import ErrorResponseParser from 'components/error-response-parser'
 
-const SITE_RECAPTCHA_KEY = process.env.NEXT_PUBLIC_SITE_RECAPTCHA_KEY
-
 export default function Page() {
   const [query, setQuery] = useState('')
   const [apiRequestState, setApiRequestState] = useState(null)
-  const [captchaValue, setCaptchaValue] = useState(null)
   const [recResponse, setRecResponse] = useState(null)
-  const captcha = useRef()
+  const { executeRecaptcha } = useGoogleReCaptcha()
 
   const randomPlaceholder = getRandomPlaceholder()
 
@@ -24,19 +21,14 @@ export default function Page() {
     setQuery(event.target.value)
   }
 
-  function onCaptchaChange(value) {
-    setCaptchaValue(value)
-  }
-
   async function onSearch(event) {
     event.preventDefault()
+    const recaptchaToken = await executeRecaptcha('search')
     sendGAEvent({ event: 'search', value: query })
-
-    // captcha.current?.reset()
 
     setApiRequestState('pending')
     // initiate thread
-    const threadResponse = await fetch(`${location.origin}/api/assistant?query=${query}&recaptcha=${captchaValue}`, {
+    const threadResponse = await fetch(`${location.origin}/api/assistant?query=${query}&recaptcha=${recaptchaToken}`, {
       method: 'POST'
     })
 
@@ -89,18 +81,15 @@ export default function Page() {
           <div className="container flex grow join">
             <SearchBox placeholder={randomPlaceholder} value={query} onChange={onQueryUpdate} />
             {/* <input
-              type="text"
-              placeholder={placeholder}
-              className="input input-bordered w-full"
-              value={query}
-              onChange={onQueryUpdate}
-            /> */}
+                type="text"
+                placeholder={placeholder}
+                className="input input-bordered w-full"
+                value={query}
+                onChange={onQueryUpdate}
+              /> */}
             <button type="submit" className="btn btn-primary" onClick={onSearch}>
               Search
             </button>
-          </div>
-          <div className="pt-4 flex container justify-center">
-            {query.length > 0 && <ReCAPTCHA sitekey={SITE_RECAPTCHA_KEY} onChange={onCaptchaChange} ref={captcha} />}
           </div>
         </form>
       ) : (

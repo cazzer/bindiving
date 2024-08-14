@@ -9,5 +9,6 @@ export async function processCaptcha(token) {
   )
 
   const rawResponse = await new Response(captchaResponse.body).text()
+  console.log(rawResponse)
   return JSON.parse(rawResponse)
 }
