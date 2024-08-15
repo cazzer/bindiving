@@ -1,4 +1,4 @@
-export default function ErrorResponseParse({ valid, message }) {
+export default function ErrorResponseParser({ valid, message }) {
   return (
     <div className="flex justify-center">
       <div className="card bg-secondary text-neutral-content w-96">
@@ -13,7 +13,9 @@ export default function ErrorResponseParse({ valid, message }) {
 
 function ErrorMessage(message) {
   if (message.indexOf('Timeout') > -1) {
-    return `Request timed out. Feel free to try again, (or try using a shorter query if the problem persists).`
+    return `Request timed out. Feel free to try again, (and try being less specific if the problem persists).`
+  } else if (message.indexOf('No results') > -1) {
+    return `No recommendations returned. Try using different search terms without being too specific, (e.g. "bamboo bathmat", and not "bamboo bathmat with .5 inch beveled edges").`
   }
 
   return message

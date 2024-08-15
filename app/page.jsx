@@ -41,9 +41,11 @@ export default function Page() {
         valid: false,
         message: error.message
       })
+
+      return
     }
 
-    await sleep(3000)
+    await sleep(8000)
 
     // retrieve messages
     const messageResponse = await fetch(
@@ -80,13 +82,6 @@ export default function Page() {
         <form className="text-base-content" onSubmit={onSearch}>
           <div className="container flex grow join">
             <SearchBox placeholder={randomPlaceholder} value={query} onChange={onQueryUpdate} />
-            {/* <input
-                type="text"
-                placeholder={placeholder}
-                className="input input-bordered w-full"
-                value={query}
-                onChange={onQueryUpdate}
-              /> */}
             <button type="submit" className="btn btn-primary" onClick={onSearch}>
               Search
             </button>
@@ -102,6 +97,7 @@ export default function Page() {
             Notice and disclaimer: I earn commission if you use these links to make a purchase, which helps to keep this
             website running. Results are AI generated and may contain fabricated statements and broken links.
           </em>
+          {recResponse.recommendations.legnth == 0 && ErrorResponseParser({ valid: true, message: 'No results' })}
           {recResponse.recommendations.map((product, index) => (
             <ProductCard product={product} key={index} />
           ))}

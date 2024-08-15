@@ -52,7 +52,7 @@ export default async function assistant(req: Request, context: Context) {
       return new Response(
         JSON.stringify({
           valid: false,
-          message: 'Failed to parse recommendations'
+          message: "Failed to parse recommendations, please try again later in hopes I've fixed this issue."
         })
       )
     }
@@ -60,7 +60,8 @@ export default async function assistant(req: Request, context: Context) {
     return new Response(
       JSON.stringify({
         valid: false,
-        message: 'No recommendations returned'
+        message:
+          'No recommendations returned. Try using different search terms without being too specific, (e.g. "bamboo bathmat", and not "bamboo bathmat with .5 inch beveled edges").'
       })
     )
   }
