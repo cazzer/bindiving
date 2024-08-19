@@ -9,13 +9,25 @@ import SearchBox from '../components/search'
 import Digging from 'components/digging'
 import ErrorResponseParser from 'components/error-response-parser'
 
+const PLACEHOLDERS = [
+  `blister-proof running socks`,
+  `extra durable plunger`,
+  `hotel-quality pillows`,
+  `flowers that don't need water`,
+  `bluetooth typewriter`,
+  `toe-less socks for sweaty feet`,
+  `dark lightbulbs`,
+  `annoyingly loud headphones`,
+  `dress shoes without soles`,
+  `dog leash but for children`,
+  `helium-filled dumbbells`
+].sort((a, b) => 0.5 - Math.random())
+
 export default function Page() {
   const [query, setQuery] = useState('')
   const [apiRequestState, setApiRequestState] = useState(null)
   const [recResponse, setRecResponse] = useState(null)
   const { executeRecaptcha } = useGoogleReCaptcha()
-
-  const randomPlaceholder = getRandomPlaceholder()
 
   function onQueryUpdate(event) {
     setQuery(event.target.value)
@@ -81,7 +93,7 @@ export default function Page() {
       {apiRequestState !== 'pending' ? (
         <form className="text-base-content" onSubmit={onSearch}>
           <div className="container flex grow join">
-            <SearchBox placeholder={randomPlaceholder} value={query} onChange={onQueryUpdate} />
+            <SearchBox placeholders={PLACEHOLDERS} value={query} onChange={onQueryUpdate} />
             <button type="submit" className="btn btn-primary" onClick={onSearch}>
               Search
             </button>
@@ -105,24 +117,6 @@ export default function Page() {
       )}
     </main>
   )
-}
-
-function getRandomPlaceholder() {
-  const placeholders = [
-    `blister-proof running socks`,
-    `extra durable plunger`,
-    `hotel-quality pillows`,
-    `flowers that don't need water`,
-    `bluetooth typewriter`,
-    `toe-less socks for sweaty feet`,
-    `dark lightbulbs`,
-    `annoyingly loud headphones`,
-    `dress shoes without soles`,
-    `dog leash but for children`,
-    `helium-filled dumbbells`
-  ]
-
-  return placeholders[Math.floor(Math.random() * placeholders.length)]
 }
 
 function sleep(ms) {
