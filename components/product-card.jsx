@@ -21,6 +21,7 @@ export default function ProductCard({ product }) {
       </figure>
       <div className="card-body">
         <h2 className="card-title">{product.product_name}</h2>
+        {product.price && <h3>{product.price}</h3>}
         <div className="container flex row">
           <div className="container flex grow px-4">
             <ul className="list-disc">
@@ -62,8 +63,4 @@ export default function ProductCard({ product }) {
 
 function makeAmazonLink(asin) {
   return `https://www.amazon.com/dp/${asin}/?tag=${ASSOCIATE_ID}`
-}
-
-function maybeAdd$(price) {
-  return price.toString()[0] === '$' ? price : `$${price}`
 }

@@ -12,6 +12,8 @@
         "@netlify/blobs": "^7.3.0",
         "@netlify/functions": "^2.8.0",
         "@next/third-parties": "^14.2.4",
+        "amazon-paapi": "^1.0.7",
+        "amazon-paapi-laurens": "^1.0.8",
         "blobshape": "^1.0.0",
         "bright": "^0.8.5",
         "markdown-to-jsx": "^7.4.5",

@@ -1,6 +1,7 @@
 import { Config, Context } from '@netlify/functions'
 import OpenAI from 'openai'
 import { resolveAmazonLink } from '../recommendations/brave-resolver.mjs'
+import resolveAmazonProduct from '../recommendations/amazon-resolver.mjs'
 
 const OPEN_AI_KEY = process.env.OPEN_AI_KEY
 
@@ -38,7 +39,7 @@ export default async function assistant(req: Request, context: Context) {
 
     try {
       const recommendations = JSON.parse(rawRecommendations)
-      const resolvedProducts = await Promise.all(recommendations.map(resolveAmazonLink))
+      const resolvedProducts = await Promise.all(recommendations.map(resolveAmazonProduct))
 
       return new Response(
         JSON.stringify({
@@ -47,6 +48,19 @@ export default async function assistant(req: Request, context: Context) {
         })
       )
     } catch (error) {
+      if (error.message === 'Too Many Requests') {
+        try {
+          const recommendations = JSON.parse(rawRecommendations)
+          const resolvedProducts = await Promise.all(recommendations.map(resolveAmazonLink))
+
+          return new Response(
+            JSON.stringify({
+              valid: true,
+              recommendations: resolvedProducts
+            })
+          )
+        } catch (error) {}
+      }
       console.error(`ERROR: ${error.message}`)
       console.error(rawRecommendations)
       return new Response(

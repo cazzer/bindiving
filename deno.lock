@@ -68,6 +68,8 @@
         "npm:@netlify/blobs@^7.3.0",
         "npm:@netlify/functions@^2.8.0",
         "npm:@next/third-parties@^14.2.4",
+        "npm:amazon-paapi-laurens@^1.0.8",
+        "npm:amazon-paapi@^1.0.7",
         "npm:autoprefixer@^10.4.18",
         "npm:blobshape@^1.0.0",
         "npm:bright@^0.8.5",
