@@ -44,6 +44,7 @@ export async function resolveAmazonLink(product) {
     amazon_url: productMatch.url,
     amazon_id: amazon_id.length > 1 ? amazon_id[1] : null,
     gpt_azn: product.amazon_id,
-    image_url: imageMatch
+    image_url: imageMatch,
+    resolver: 'brave'
   })
 }

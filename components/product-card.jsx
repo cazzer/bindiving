@@ -1,5 +1,6 @@
 import { sendGAEvent } from '@next/third-parties/google'
 import { useImage } from 'react-image'
+import { Carousel } from 'flowbite-react'
 
 import placeholderImage from 'public/images/no-image-available.png'
 
@@ -16,12 +17,20 @@ export default function ProductCard({ product }) {
 
   return (
     <div className="text-base-content card md:card-side bg-base-100 shadow-xl">
-      <figure className="max-h-60 w-80 self-center">
-        <img src={src} alt={`Image of ${product.product_name}`} />
+      <figure className="h-60 w-80 self-center">
+        {product.resolver == 'amazon' ? (
+          <Carousel slide={false}>
+            {product.images.map((image, index) => (
+              <img key={index} src={image} alt={`Image ${index + 1} of ${product.product_name}`} />
+            ))}
+          </Carousel>
+        ) : (
+          <img src={src} alt={`Image of ${product.product_name}`} />
+        )}
       </figure>
       <div className="card-body">
         <h2 className="card-title">{product.product_name}</h2>
-        {product.price && <h3>{product.price}</h3>}
+        {product.resolver == 'amazon' && <h3>{product.price}</h3>}
         <div className="container flex row">
           <div className="container flex grow px-4">
             <ul className="list-disc">

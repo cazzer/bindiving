@@ -34,6 +34,7 @@ export default async function resolveAmazonProduct(product) {
     amazon_url: results.SearchResult.Items[0].DetailPageURL,
     gpt_azn: product.amazon_id,
     price: results.SearchResult.Items[0].Offers.Listings[0].Price.DisplayAmount,
-    amazon_id: results.SearchResult.Items[0].ASIN
+    amazon_id: results.SearchResult.Items[0].ASIN,
+    resolver: 'amazon'
   })
 }
