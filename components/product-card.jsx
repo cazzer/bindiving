@@ -1,6 +1,8 @@
 import { sendGAEvent } from '@next/third-parties/google'
 import { useImage } from 'react-image'
-import { Carousel } from 'flowbite-react'
+// import { Carousel } from 'flowbite-react'
+import 'react-responsive-carousel/lib/styles/carousel.min.css' // requires a loader
+import { Carousel } from 'react-responsive-carousel'
 
 import placeholderImage from 'public/images/no-image-available.png'
 
@@ -17,9 +19,9 @@ export default function ProductCard({ product }) {
 
   return (
     <div className="text-base-content card md:card-side bg-base-100 shadow-xl">
-      <figure className="h-60 w-80 self-center">
-        {product.resolver == 'amazon' ? (
-          <Carousel slide={false}>
+      <figure className="max-h-60 w-80 self-center">
+        {product.resolver == 'amazon' && product.images?.length ? (
+          <Carousel dynamicHeight={false} showThumbs={false}>
             {product.images.map((image, index) => (
               <img key={index} src={image} alt={`Image ${index + 1} of ${product.product_name}`} />
             ))}

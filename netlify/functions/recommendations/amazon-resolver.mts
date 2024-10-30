@@ -25,12 +25,13 @@ export default async function resolveAmazonProduct(product) {
     ]
   })
 
+  const imageVariants = results.SearchResult.Items[0].Images.Variants?.length
+    ? results.SearchResult.Items[0].Images.Variants
+    : []
+
   return Object.assign(product, {
     image_url: results.SearchResult.Items[0].Images.Primary.Large.URL,
-    images: [
-      results.SearchResult.Items[0].Images.Primary.Large.URL,
-      ...results.SearchResult.Items[0].Images.Variants.map((image) => image.Large.URL)
-    ],
+    images: [results.SearchResult.Items[0].Images.Primary.Large.URL, ...imageVariants.map((image) => image.Large.URL)],
     amazon_url: results.SearchResult.Items[0].DetailPageURL,
     gpt_azn: product.amazon_id,
     price: results.SearchResult.Items[0].Offers.Listings[0].Price.DisplayAmount,

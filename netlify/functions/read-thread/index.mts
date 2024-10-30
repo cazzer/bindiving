@@ -62,6 +62,7 @@ export default async function assistant(req: Request, context: Context) {
         } catch (error) {}
       }
       console.error(`ERROR: ${error.message}`)
+      console.error(error)
       console.error(rawRecommendations)
       return new Response(
         JSON.stringify({

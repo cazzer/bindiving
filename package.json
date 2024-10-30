@@ -16,7 +16,6 @@
         "amazon-paapi-laurens": "^1.0.8",
         "blobshape": "^1.0.0",
         "bright": "^0.8.5",
-        "flowbite-react": "^0.10.2",
         "markdown-to-jsx": "^7.4.5",
         "next": "14.2.3",
         "openai": "^4.52.0",
@@ -25,6 +24,7 @@
         "react-google-recaptcha": "^3.1.0",
         "react-google-recaptcha-v3": "^1.10.1",
         "react-image": "^4.1.0",
+        "react-responsive-carousel": "^3.2.23",
         "scrapfly-sdk": "^0.5.1",
         "unique-names-generator": "^4.7.1"
     },
