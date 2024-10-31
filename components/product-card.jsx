@@ -1,6 +1,5 @@
 import { sendGAEvent } from '@next/third-parties/google'
 import { useImage } from 'react-image'
-// import { Carousel } from 'flowbite-react'
 import 'react-responsive-carousel/lib/styles/carousel.min.css' // requires a loader
 import { Carousel } from 'react-responsive-carousel'
 

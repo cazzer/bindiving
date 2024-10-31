@@ -15,6 +15,7 @@
         "amazon-paapi": "^1.0.7",
         "amazon-paapi-laurens": "^1.0.8",
         "blobshape": "^1.0.0",
+        "bottleneck": "^2.19.5",
         "bright": "^0.8.5",
         "markdown-to-jsx": "^7.4.5",
         "next": "14.2.3",
