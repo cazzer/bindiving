@@ -36,8 +36,6 @@ export default async (req: Request, context: Context) => {
 
     const resolvedProducts = await Promise.all(recommendations.products.map(resolveAmazonLink))
 
-    console.log(resolvedProducts)
-
     return new Response(
       JSON.stringify({
         valid: true,

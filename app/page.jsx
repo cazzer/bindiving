@@ -57,7 +57,7 @@ export default function Page() {
       return
     }
 
-    await sleep(6000)
+    await sleep(8000)
 
     // retrieve messages
     const messageResponse = await fetch(

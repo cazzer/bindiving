@@ -19,14 +19,5 @@ export default function SearchBox({ value, onChange, placeholders }) {
     return () => clearInterval(placeholderInterval)
   })
 
-  return (
-    <input
-      autoFocus
-      type="text"
-      placeholder={placeholderValue}
-      className="input input-bordered w-full"
-      value={value}
-      onChange={onChange}
-    />
-  )
+  return <input autoFocus type="text" className="input input-bordered w-full" value={value} onChange={onChange} />
 }
