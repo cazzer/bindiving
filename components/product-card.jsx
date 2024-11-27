@@ -7,6 +7,11 @@ import placeholderImage from 'public/images/no-image-available.png'
 
 const ASSOCIATE_ID = 'bindiving-20'
 
+const imageStyle = {
+  objectFit: 'contain',
+  maxHeight: '100%'
+}
+
 export default function ProductCard({ product }) {
   const { src } = useImage({
     srcList: [product.image_url, placeholderImage.src]
@@ -18,20 +23,25 @@ export default function ProductCard({ product }) {
 
   return (
     <div className="text-base-content card md:card-side bg-base-100 shadow-xl">
-      <figure className="max-h-60 w-80 self-center">
+      <figure className="max-h-60 w-80 self-center" style={{ alignItems: 'normal' }}>
         {product.resolver == 'amazon' && product.images?.length ? (
           <Carousel dynamicHeight={false} showThumbs={false}>
             {product.images.map((image, index) => (
-              <img key={index} src={image} alt={`Image ${index + 1} of ${product.product_name}`} />
+              <img style={imageStyle} key={index} src={image} alt={`Image ${index + 1} of ${product.product_name}`} />
             ))}
           </Carousel>
         ) : (
-          <img src={src} alt={`Image of ${product.product_name}`} />
+          <img style={imageStyle} src={src} alt={`Image of ${product.product_name}`} />
         )}
       </figure>
       <div className="card-body">
         <h2 className="card-title">{product.product_name}</h2>
-        {product.resolver == 'amazon' && <h3>{product.price}</h3>}
+        {product.brand && <h3>Sold by: {product.brand}</h3>}
+        {product.resolver != 'brave' && (
+          <h3>
+            {product.price} {product.blackFriday && <em>Black Friday deal!</em>}
+          </h3>
+        )}
         <div className="container flex row">
           <div className="container flex grow px-4">
             <ul className="list-disc">

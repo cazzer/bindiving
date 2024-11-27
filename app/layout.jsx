@@ -26,7 +26,6 @@ export default function RootLayout({ children }) {
             <GoogleCaptchaWrapper>
               <div className="grow">{children}</div>
             </GoogleCaptchaWrapper>
-            <Footer />
           </div>
         </div>
       </body>

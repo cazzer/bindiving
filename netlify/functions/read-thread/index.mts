@@ -1,12 +1,13 @@
 import { Config, Context } from '@netlify/functions'
 import OpenAI from 'openai'
 import Bottleneck from 'bottleneck'
-import { resolveAmazonLink } from '../recommendations/brave-resolver.mjs'
+import { resolveAmazonLink as resolveBraveProcuct } from '../recommendations/brave-resolver.mjs'
 import resolveAmazonProduct from '../recommendations/amazon-resolver.mjs'
 import { queryPerplexity } from '../recommendations/perplexity-resolver.mjs'
+import resolveViaCheerio from '../recommendations/cheerio-resolver.mjs'
 
 const OPEN_AI_KEY = process.env.OPEN_AI_KEY
-const limiter = new Bottleneck({ maxConcurrent: 1, minTime: 1000 })
+const limiter = new Bottleneck({ maxConcurrent: 2, minTime: 1000 })
 
 type OpenAiProduct = {
   product_name: string
@@ -57,6 +58,7 @@ export default async function readThread(req: Request, context: Context) {
       const recommendations = JSON.parse(rawRecommendations)
       const resolvedProducts = await Promise.all(recommendations.map(resolveProduct))
 
+      console.log(resolvedProducts)
       const validProducts = resolvedProducts.filter((product) => product.valid)
 
       if (validProducts.length === 0) {
@@ -75,7 +77,6 @@ export default async function readThread(req: Request, context: Context) {
       )
     } catch (error) {
       console.error(`ERROR: ${error.message}`)
-      console.error(error)
       console.error(rawRecommendations)
       return new Response(
         JSON.stringify({
@@ -102,7 +103,7 @@ export const config: Config = {
 async function resolveProduct(product: OpenAiProduct) {
   try {
     console.log(`Resolving product: ${product.product_name}`)
-    const amazonProduct = await limiter.schedule(() => resolveAmazonProduct(product))
+    const amazonProduct = await limiter.schedule(() => resolveViaCheerio(product))
     const perplexityProduct = await queryPerplexity(product)
 
     return Object.assign(product, {
@@ -111,10 +112,13 @@ async function resolveProduct(product: OpenAiProduct) {
       sources: [...(perplexityProduct.valid ? perplexityProduct.articles : []), ...product.sources]
     })
   } catch (error) {
-    console.error(error)
+    console.error(`error resolving product
+      product: ${product.product_name}
+      error: ${error.message}`)
   }
 
   return {
+    product_name: product.product_name,
     valid: false
   }
 }

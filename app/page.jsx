@@ -8,6 +8,7 @@ import ProductCard from '../components/product-card'
 import SearchBox from '../components/search'
 import Digging from 'components/digging'
 import ErrorResponseParser from 'components/error-response-parser'
+import { Footer } from 'components/footer'
 
 const PLACEHOLDERS = [
   `blister-proof running socks`,
@@ -113,6 +114,7 @@ export default function Page() {
           {recResponse.recommendations.map((product, index) => (
             <ProductCard product={product} key={index} />
           ))}
+          {recResponse.recommendations.length > 0 && <Footer />}
         </section>
       )}
     </main>
