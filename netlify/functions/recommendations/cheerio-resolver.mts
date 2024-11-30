@@ -1,17 +1,19 @@
 import * as cheerio from 'cheerio'
+import UserAgent from 'user-agents'
 
 export default async function resolveViaCheerio(product) {
+  const userAgent = new UserAgent()
   const url = `https://www.amazon.com/s?k=${encodeURI(product.product_name)}`
   const response = await fetch(url, {
     headers: {
-      'User-Agent':
-        'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36'
+      'User-Agent': userAgent.toString()
     }
   })
   const html = await response.text()
   const $ = cheerio.load(html)
 
   const result = $('.s-result-item:not(.AdHolder)').get()[1]
+
   const imageSet = $(result).find('img').first().attr('srcset').split(', ')
   const image = imageSet[imageSet.length - 1].split(' ')[0]
   const titles = $(result).find(`[data-cy="title-recipe"] h2`)
