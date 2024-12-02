@@ -58,7 +58,6 @@ export default async function readThread(req: Request, context: Context) {
       const recommendations = JSON.parse(rawRecommendations)
       const resolvedProducts = await Promise.all(recommendations.map(resolveProduct))
 
-      console.log(resolvedProducts)
       const validProducts = resolvedProducts.filter((product) => product.valid)
 
       if (validProducts.length === 0) {
@@ -103,13 +102,14 @@ export const config: Config = {
 async function resolveProduct(product: OpenAiProduct) {
   try {
     console.log(`Resolving product: ${product.product_name}`)
-    const amazonProduct = await limiter.schedule(() => resolveViaCheerio(product))
-    const perplexityProduct = await queryPerplexity(product)
+    const amazonProduct = await limiter.schedule(() => resolveBraveProcuct(product))
+    // const perplexityProduct = await queryPerplexity(product)
 
     return Object.assign(product, {
       valid: true,
       ...amazonProduct,
-      sources: [...(perplexityProduct.valid ? perplexityProduct.articles : []), ...product.sources]
+      // sources: [...(perplexityProduct.valid ? perplexityProduct.articles : []), ...product.sources]
+      sources: product.sources
     })
   } catch (error) {
     console.error(`error resolving product

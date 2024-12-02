@@ -37,11 +37,10 @@ export default function ProductCard({ product }) {
       <div className="card-body">
         <h2 className="card-title">{product.product_name}</h2>
         {product.brand && <h3>Sold by: {product.brand}</h3>}
-        {product.resolver != 'brave' && (
-          <h3>
-            {product.price} {product.blackFriday && <em>Black Friday deal!</em>}
-          </h3>
-        )}
+        <h3>
+          {product.price} {product.blackFriday && <em>Black Friday deal!</em>}
+          {product.resolver == 'brave' ? <em>(AI estimate)</em> : null}
+        </h3>
         <div className="container flex row">
           <div className="container flex grow px-4">
             <ul className="list-disc">

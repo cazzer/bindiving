@@ -3,7 +3,7 @@ const BRAVE_API_KEY = process.env.BRAVE_API_KEY
 export async function resolveAmazonLink(product) {
   console.log(`searching brave for ${product.product_name}`)
   const response = await fetch(
-    `https://api.search.brave.com/res/v1/web/search?q=${encodeURI(`amazon ${product.product_name}`)}`,
+    `https://api.search.brave.com/res/v1/web/search?q=${encodeURI(`amazon.com ${product.product_name}`)}`,
     {
       headers: new Headers({
         Accept: 'application/json',

@@ -126,7 +126,8 @@
         "npm:react@18.3.1",
         "npm:scrapfly-sdk@^0.5.1",
         "npm:tailwindcss@^3.4.1",
-        "npm:unique-names-generator@^4.7.1"
+        "npm:unique-names-generator@^4.7.1",
+        "npm:user-agents@^1.1.374"
       ]
     }
   }
