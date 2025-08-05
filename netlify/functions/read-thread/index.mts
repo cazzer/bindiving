@@ -1,7 +1,7 @@
 import { Config, Context } from '@netlify/functions'
 import OpenAI from 'openai'
 import Bottleneck from 'bottleneck'
-import { resolveAmazonLink as resolveBraveProcuct } from '../recommendations/brave-resolver.mjs'
+import { resolveAmazonLink as resolveBraveProduct } from '../recommendations/brave-resolver.mjs'
 import resolveAmazonProduct from '../recommendations/amazon-resolver.mjs'
 import { queryPerplexity } from '../recommendations/perplexity-resolver.mjs'
 import resolveViaCheerio from '../recommendations/cheerio-resolver.mjs'
@@ -56,7 +56,9 @@ export default async function readThread(req: Request, context: Context) {
 
     try {
       const recommendations = JSON.parse(rawRecommendations)
-      const resolvedProducts = await Promise.all(recommendations.map(resolveProduct))
+      const resolvedProducts = await Promise.all(
+        recommendations.map((rec) => resolveProduct(rec, resolveAmazonProduct))
+      )
 
       const validProducts = resolvedProducts.filter((product) => product.valid)
 
@@ -99,12 +101,13 @@ export const config: Config = {
   path: '/api/read-thread'
 }
 
-async function resolveProduct(product: OpenAiProduct) {
+async function resolveProduct(product: OpenAiProduct, resolver = resolveAmazonProduct, attempt = 1) {
   try {
     console.log(`Resolving product: ${product.product_name}`)
-    const amazonProduct = await limiter.schedule(() => resolveBraveProcuct(product))
+    const amazonProduct = await limiter.schedule(() => resolver(product))
     // const perplexityProduct = await queryPerplexity(product)
 
+    console.log(`Resolved product: ${product.product_name} via ${resolver.name}`)
     return Object.assign(product, {
       valid: true,
       ...amazonProduct,
@@ -112,6 +115,10 @@ async function resolveProduct(product: OpenAiProduct) {
       sources: product.sources
     })
   } catch (error) {
+    if (attempt == 1) {
+      console.log(`Retrying with Brave resolver for product: ${product.product_name}`)
+      return resolveProduct(product, resolveBraveProduct, 2)
+    }
     console.error(`error resolving product
       product: ${product.product_name}
       error: ${error.message}`)
