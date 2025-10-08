@@ -26,19 +26,19 @@ const openai = new OpenAI({
 
 export default async function readThread(req: Request, context: Context) {
   const url = new URL(req.url)
-  const threadId = url.searchParams.get('thread-id')
-  const runId = url.searchParams.get('run-id')
+  const responseId = url.searchParams.get('response-id')
 
-  if (!threadId || !runId) {
-    return new Response(JSON.stringify({ valid: false, message: 'Thread and Run ID must be provided' }))
+  if (!responseId) {
+    return new Response(JSON.stringify({ valid: false, message: 'Response ID must be provided' }))
   }
 
   let complete = false
   const start = performance.now()
 
+  let response
   while (!complete) {
-    const run = await openai.beta.threads.runs.retrieve(threadId, runId)
-    if (run.status === 'completed') {
+    response = await openai.responses.retrieve(responseId)
+    if (response.status === 'completed') {
       complete = true
     }
   }
@@ -46,16 +46,11 @@ export default async function readThread(req: Request, context: Context) {
   const end = performance.now()
   console.log(`Wasted ${end - start}ms waiting for the run to finish`)
 
-  const threadMessages = await openai.beta.threads.messages.list(threadId)
-  const response = threadMessages.data.find((message) => message.run_id === runId)
-
-  if (response && response.content) {
+  console.log(JSON.stringify(response, null, 2))
+  if (response && response.output_text) {
     complete = true
-    const contentType = response.content[0]?.type
-    const rawRecommendations = response.content[0][contentType].value
-
     try {
-      const recommendations = JSON.parse(rawRecommendations)
+      const recommendations = JSON.parse(response.output_text)
       const resolvedProducts = await Promise.all(
         recommendations.map((rec) => resolveProduct(rec, resolveAmazonProduct))
       )
@@ -78,7 +73,7 @@ export default async function readThread(req: Request, context: Context) {
       )
     } catch (error) {
       console.error(`ERROR: ${error.message}`)
-      console.error(rawRecommendations)
+      console.error(response.output_text)
       return new Response(
         JSON.stringify({
           valid: false,

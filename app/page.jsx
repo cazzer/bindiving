@@ -41,13 +41,13 @@ export default function Page() {
 
     setApiRequestState('pending')
     // initiate thread
-    const threadResponse = await fetch(`${location.origin}/api/assistant?query=${query}&recaptcha=${recaptchaToken}`, {
+    const rawResponse = await fetch(`${location.origin}/api/assistant?query=${query}&recaptcha=${recaptchaToken}`, {
       method: 'POST'
     })
 
-    let threadResult
+    let responseJson
     try {
-      threadResult = await threadResponse.json()
+      responseJson = await rawResponse.json()
     } catch (error) {
       setApiRequestState('rejected')
       setRecResponse({
@@ -58,15 +58,22 @@ export default function Page() {
       return
     }
 
-    await sleep(8000)
+    if (responseJson?.response.id == null) {
+      setApiRequestState('rejected')
+      setRecResponse({
+        valid: false,
+        message: 'No response ID returned from assistant'
+      })
+
+      return
+    }
+
+    await sleep(60000)
 
     // retrieve messages
-    const messageResponse = await fetch(
-      `${location.origin}/api/read-thread?thread-id=${threadResult.threadId}&run-id=${threadResult.runId}`,
-      {
-        method: 'POST'
-      }
-    )
+    const messageResponse = await fetch(`${location.origin}/api/read-thread?response-id=${responseJson.response.id}`, {
+      method: 'POST'
+    })
 
     try {
       const messageResult = await messageResponse.json()

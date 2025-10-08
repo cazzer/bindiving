@@ -2,9 +2,9 @@ import { Config, Context } from '@netlify/functions'
 import OpenAI from 'openai'
 
 import { processCaptcha } from '../recommendations/recatpcha.mjs'
+import { basePrompt } from './prompt.mjs'
 
 const OPEN_AI_KEY = process.env.OPEN_AI_KEY
-const ASSISTANT_ID = 'asst_bxlOOqt9hOZjDiCRI9ChVok1'
 
 const openai = new OpenAI({
   organization: 'org-t125kCvFULIVCLilC1zVFW3r',
@@ -27,23 +27,40 @@ export default async function assistant(req: Request, context: Context) {
     return new Response(JSON.stringify({ valid: false, message: 'Invalid reCaptcha' }))
   }
 
-  const thread = await openai.beta.threads.create()
-  const message = await openai.beta.threads.messages.create(thread.id, {
-    role: 'user',
-    content: query
-  })
-  const run = await openai.beta.threads.runs.create(thread.id, {
-    assistant_id: ASSISTANT_ID
-  })
+  try {
+    // Use chat completions with imported base prompt
+    const response = await openai.responses.create({
+      background: true,
+      input: [
+        {
+          role: 'system',
+          content: basePrompt
+        },
+        {
+          role: 'user',
+          content: `What are the three best options for ${query} that people recommend?`
+        }
+      ],
 
-  return new Response(
-    JSON.stringify({
-      success: true,
-      threadId: thread.id,
-      runId: run.id,
-      message: message.id
+      model: 'gpt-5-nano'
     })
-  )
+
+    return new Response(
+      JSON.stringify({
+        success: true,
+        valid: true,
+        response
+      })
+    )
+  } catch (error) {
+    console.error('OpenAI API error:', error)
+    return new Response(
+      JSON.stringify({
+        valid: false,
+        message: 'Failed to generate recommendations. Please try again.'
+      })
+    )
+  }
 }
 
 export const config: Config = {
