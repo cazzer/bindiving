@@ -47,7 +47,7 @@ function getSearchMode() {
   const params = new URLSearchParams(window.location.search)
   if (params.get('stream') === '1') return 'streaming'
   if (params.get('stream') === '0') return 'polling'
-  return (localStorage.getItem(SEARCH_MODE_KEY) || 'polling')
+  return localStorage.getItem(SEARCH_MODE_KEY) || 'polling'
 }
 
 // Map OpenAI stream event types to short UI messages
@@ -69,13 +69,14 @@ export default function Page() {
   const [apiRequestState, setApiRequestState] = useState(null)
   const [recResponse, setRecResponse] = useState(null)
   const [streamStatus, setStreamStatus] = useState(null)
+  const [lastResponseId, setLastResponseId] = useState(null)
   const { executeRecaptcha } = useGoogleReCaptcha()
 
   function onQueryUpdate(event) {
     setQuery(event.target.value)
   }
 
-  async function runPolling(responseId) {
+  async function runPolling(responseId, { append = false } = {}) {
     const url = `${location.origin}/api/read-thread?response-id=${encodeURIComponent(responseId)}`
     for (;;) {
       const res = await fetch(url, { method: 'GET' })
@@ -85,8 +86,39 @@ export default function Page() {
         continue
       }
       setApiRequestState('resolved')
-      setRecResponse(data)
+      if (append && data.valid && data.recommendations?.length) {
+        setRecResponse((prev) => ({
+          ...data,
+          recommendations: [...(prev?.recommendations ?? []), ...data.recommendations]
+        }))
+      } else {
+        setRecResponse(data)
+      }
       return
+    }
+  }
+
+  async function onMoreOptions() {
+    if (!lastResponseId) return
+    const recaptchaToken = await executeRecaptcha('more_options')
+    setApiRequestState('pending')
+    try {
+      const res = await fetch(`${location.origin}/api/more-options`, {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify({ previous_response_id: lastResponseId, recaptcha: recaptchaToken })
+      })
+      const data = await res.json()
+      if (!data?.response?.id) {
+        setApiRequestState('rejected')
+        setRecResponse({ valid: false, message: data?.message ?? 'No response from server' })
+        return
+      }
+      setLastResponseId(data.response.id)
+      await runPolling(data.response.id, { append: true })
+    } catch (err) {
+      setApiRequestState('rejected')
+      setRecResponse({ valid: false, message: err?.message ?? 'Failed to get more options' })
     }
   }
 
@@ -108,6 +140,7 @@ export default function Page() {
       const decoder = new TextDecoder()
       let buffer = ''
       let responseId = null
+      let outputText = ''
       while (true) {
         const { done, value } = await reader.read()
         if (done) break
@@ -122,8 +155,15 @@ export default function Page() {
               const event = JSON.parse(payload)
               const msg = streamEventToMessage(event?.type)
               if (msg) setStreamStatus(msg)
+              if (event?.type === 'response.output_text.delta' && typeof event?.delta === 'string') {
+                outputText += event.delta
+              }
               if (event?.type === 'response.completed' || event?.type === 'response.created') {
-                responseId = event?.response?.id ?? event?.id ?? responseId
+                const id = event?.response?.id ?? event?.id
+                if (id) {
+                  responseId = id
+                  setLastResponseId(id)
+                }
               }
             } catch (_) {
               // ignore parse errors for non-JSON lines
@@ -131,18 +171,31 @@ export default function Page() {
           }
         }
       }
-      if (!responseId) {
-        setStreamStatus(null)
-        setApiRequestState('rejected')
-        setRecResponse({ valid: false, message: 'Stream ended without response id' })
-        return
-      }
       setStreamStatus('Resolving products...')
-      const final = await fetch(
-        `${location.origin}/api/read-thread?response-id=${encodeURIComponent(responseId)}`,
-        { method: 'GET' }
-      )
-      const data = await final.json()
+      let data
+      let recommendations = null
+      try {
+        if (outputText.trim()) recommendations = JSON.parse(outputText.trim())
+      } catch (_) {}
+      if (Array.isArray(recommendations) && recommendations.length > 0) {
+        const resolveRes = await fetch(`${location.origin}/api/resolve-products`, {
+          method: 'POST',
+          headers: { 'Content-Type': 'application/json' },
+          body: JSON.stringify({ recommendations })
+        })
+        data = await resolveRes.json()
+      } else {
+        if (!responseId) {
+          setStreamStatus(null)
+          setApiRequestState('rejected')
+          setRecResponse({ valid: false, message: 'Stream ended without response id' })
+          return
+        }
+        const final = await fetch(`${location.origin}/api/read-thread?response-id=${encodeURIComponent(responseId)}`, {
+          method: 'GET'
+        })
+        data = await final.json()
+      }
       setStreamStatus(null)
       setApiRequestState('resolved')
       setRecResponse(data)
@@ -160,6 +213,7 @@ export default function Page() {
 
     setStreamStatus(null)
     setApiRequestState('pending')
+    setLastResponseId(null)
     const mode = getSearchMode()
 
     if (mode === 'streaming') {
@@ -190,12 +244,15 @@ export default function Page() {
       return
     }
 
+    setLastResponseId(responseJson.response.id)
     await runPolling(responseJson.response.id)
   }
 
   return (
     <main className="flex flex-col gap-8 sm:gap-10">
-      {apiRequestState !== 'pending' ? (
+      {apiRequestState === 'pending' && !recResponse?.recommendations?.length ? (
+        <Digging streamStatus={streamStatus} />
+      ) : (
         <>
           {!recResponse?.recommendations?.length && (
             <section className="flex flex-col items-center gap-6 text-center">
@@ -234,24 +291,31 @@ export default function Page() {
             />
           )}
         </>
-      ) : (
-        <Digging streamStatus={streamStatus} />
       )}
       {apiRequestState !== 'pending' && recResponse?.valid == false && ErrorResponseParser(recResponse)}
-      {apiRequestState !== 'pending' && recResponse?.valid == true && (
+      {recResponse?.valid === true && recResponse.recommendations?.length > 0 && (
         <section className="flex flex-col gap-4">
-          <em className="mb-1">
-            Notice and disclaimer: I earn commission if you use these links to make a purchase, which helps to keep this
-            website running. Results are AI generated and may contain fabricated statements and broken links.
-          </em>
+          <em className="mb-1">Results are AI generated and may contain fabricated statements and broken links.</em>
           {recResponse.recommendations.length === 0 && ErrorResponseParser({ valid: true, message: 'No results' })}
           {recResponse.recommendations.map((product, index) => (
             <ProductCard product={product} key={index} />
           ))}
-          {recResponse.recommendations.length > 0 && <Footer />}
+          {recResponse.recommendations.length > 0 && (
+            <div className="flex flex-col items-center gap-4 pt-4">
+              <button
+                type="button"
+                onClick={onMoreOptions}
+                disabled={apiRequestState === 'pending' || !lastResponseId}
+                className="btn btn-outline btn-primary"
+              >
+                Give me more options
+              </button>
+              {apiRequestState === 'pending' && <Digging streamStatus={streamStatus} />}
+              <Footer />
+            </div>
+          )}
         </section>
       )}
     </main>
   )
 }
-

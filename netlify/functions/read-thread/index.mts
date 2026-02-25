@@ -1,22 +1,8 @@
 import { Config, Context } from '@netlify/functions'
 import OpenAI from 'openai'
-import Bottleneck from 'bottleneck'
-import { resolveAmazonLink as resolveBraveProduct } from '../recommendations/brave-resolver.mjs'
-import resolveAmazonProduct from '../recommendations/amazon-resolver.mjs'
-import { queryPerplexity } from '../recommendations/perplexity-resolver.mjs'
-import resolveViaCheerio from '../recommendations/cheerio-resolver.mjs'
+import { resolveRecommendations } from '../recommendations/resolve-recommendations.mjs'
 
 const OPEN_AI_KEY = process.env.OPEN_AI_KEY
-const limiter = new Bottleneck({ maxConcurrent: 2, minTime: 1000 })
-
-type OpenAiProduct = {
-  product_name: string
-  amazon_id: string
-  pros: string[]
-  cons: string[]
-  sources: string[]
-  price: string
-}
 
 const openai = new OpenAI({
   organization: 'org-t125kCvFULIVCLilC1zVFW3r',
@@ -47,28 +33,11 @@ export default async function readThread(req: Request, context: Context) {
   if (response && response.output_text) {
     try {
       const recommendations = JSON.parse(response.output_text)
-      const resolvedProducts = await Promise.all(
-        recommendations.map((rec) => resolveProduct(rec, resolveAmazonProduct))
-      )
-
-      const validProducts = resolvedProducts.filter((product) => product.valid)
-
-      if (validProducts.length === 0) {
-        return new Response(
-          JSON.stringify({
-            valid: false,
-            message:
-              "Couldn't resolve any products...probably because too many people are bin diving right now. Try again later. Or don't, I don't care."
-          })
-        )
+      const result = await resolveRecommendations(recommendations)
+      if (!result.valid) {
+        return new Response(JSON.stringify(result))
       }
-
-      return new Response(
-        JSON.stringify({
-          valid: true,
-          recommendations: validProducts
-        })
-      )
+      return new Response(JSON.stringify(result))
     } catch (error) {
       console.error(`ERROR: ${error.message}`)
       console.error(response.output_text)
@@ -92,33 +61,4 @@ export default async function readThread(req: Request, context: Context) {
 
 export const config: Config = {
   path: '/api/read-thread'
-}
-
-async function resolveProduct(product: OpenAiProduct, resolver = resolveAmazonProduct, attempt = 1) {
-  try {
-    console.log(`Resolving product: ${product.product_name}`)
-    const amazonProduct = await limiter.schedule(() => resolver(product))
-    // const perplexityProduct = await queryPerplexity(product)
-
-    console.log(`Resolved product: ${product.product_name} via ${resolver.name}`)
-    return Object.assign(product, {
-      valid: true,
-      ...amazonProduct,
-      // sources: [...(perplexityProduct.valid ? perplexityProduct.articles : []), ...product.sources]
-      sources: product.sources
-    })
-  } catch (error) {
-    if (attempt == 1) {
-      console.log(`Retrying with Brave resolver for product: ${product.product_name}`)
-      return resolveProduct(product, resolveBraveProduct, 2)
-    }
-    console.error(`error resolving product
-      product: ${product.product_name}
-      error: ${error.message}`)
-  }
-
-  return {
-    product_name: product.product_name,
-    valid: false
-  }
 }

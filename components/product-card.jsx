@@ -61,12 +61,17 @@ export default function ProductCard({ product }) {
           <p className="text-xs text-slate-600">
             Sources:{' '}
             {product.sources.map((source, index) => {
-              const url = new URL(source)
-              return (
-                <a href={source} key={index} className="px-1" target="_blank">
-                  {url.host.replace('www.', '')}
-                </a>
-              )
+              try {
+                if (!source || typeof source !== 'string') return null
+                const url = new URL(source)
+                return (
+                  <a href={source} key={index} className="px-1" target="_blank" rel="noreferrer">
+                    {url.host.replace('www.', '')}
+                  </a>
+                )
+              } catch {
+                return <span key={index} className="px-1">{source}</span>
+              }
             })}
           </p>
         </div>
