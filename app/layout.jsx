@@ -6,10 +6,25 @@ import { Header } from '../components/header'
 import { SearchUIProvider } from '../contexts/search-ui-context'
 import GoogleCaptchaWrapper from 'components/google-recaptcha-provider'
 
+const siteUrl = process.env.NEXT_PUBLIC_SITE_URL || 'https://bindiving.com'
+
 export const metadata = {
   title: {
     template: '%s | Bin Diving',
     default: 'Bin Diving'
+  },
+  description: 'AI-powered product recommendations from the depths of the internet. Describe what you want and we’ll dig it up.',
+  openGraph: {
+    title: 'Bin Diving',
+    description: 'AI-powered product recommendations from the depths of the internet. Describe what you want and we’ll dig it up.',
+    url: siteUrl,
+    siteName: 'Bin Diving',
+    type: 'website'
+  },
+  twitter: {
+    card: 'summary_large_image',
+    title: 'Bin Diving',
+    description: 'AI-powered product recommendations from the depths of the internet. Describe what you want and we’ll dig it up.'
   }
 }
 

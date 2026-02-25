@@ -1,6 +1,6 @@
 'use client'
 
-import { useState, useEffect, useCallback, useRef } from 'react'
+import { useState, useEffect, useCallback, useRef, useMemo } from 'react'
 import { sendGAEvent } from '@next/third-parties/google'
 import { useGoogleReCaptcha } from 'react-google-recaptcha-v3'
 
@@ -12,7 +12,7 @@ import { Footer } from 'components/footer'
 import { useSearchUI } from '../contexts/search-ui-context'
 import { STREAM_ENABLED } from '../config'
 
-const PLACEHOLDERS = [
+const PLACEHOLDER_LIST = [
   `blister-proof running socks`,
   `extra durable plunger`,
   `hotel-quality pillows`,
@@ -37,9 +37,7 @@ const PLACEHOLDERS = [
   `single chopstick`,
   `mood ring for your fridge`,
   `edible candle`
-].sort((a, b) => 0.5 - Math.random())
-
-const SUGGESTED = PLACEHOLDERS.slice(0, 4)
+]
 
 const POLL_INTERVAL_MS = 3000
 
@@ -79,6 +77,14 @@ function streamEventToMessage(event) {
 }
 
 const POLL_STATUS_MESSAGES = ['Checking for results...', 'Still digging...', 'Almost there...']
+
+// Strip optional markdown code fence so we can parse e.g. "```json\n[]\n```"
+function stripJsonCodeFence(s) {
+  if (!s || typeof s !== 'string') return s
+  const trimmed = s.trim()
+  const match = trimmed.match(/^```(?:json)?\s*\n?([\s\S]*?)\n?```$/m)
+  return match ? match[1].trim() : trimmed
+}
 
 // Extract complete product objects from partial JSON array string (streaming).
 function parsePartialRecommendations(buffer) {
@@ -144,6 +150,12 @@ export default function Page() {
   const [lastResponseId, setLastResponseId] = useState(null)
   const { executeRecaptcha } = useGoogleReCaptcha()
   const { setHasResults, setSearchProps } = useSearchUI()
+
+  const placeholders = useMemo(
+    () => [...PLACEHOLDER_LIST].sort((a, b) => 0.5 - Math.random()),
+    []
+  )
+  const suggested = useMemo(() => placeholders.slice(0, 4), [placeholders])
 
   const hasResults = Boolean(recResponse?.recommendations?.length)
   useEffect(() => {
@@ -320,9 +332,13 @@ export default function Page() {
 
     if (currentRun.length === 0 && outputText.trim()) {
       let rawList = []
+      let parseSucceeded = false
+      const toParse = stripJsonCodeFence(outputText)
       try {
-        const parsed = JSON.parse(outputText.trim())
-        rawList = Array.isArray(parsed) ? parsed : (parsed?.recommendations && Array.isArray(parsed.recommendations) ? parsed.recommendations : [])
+        const parsed = JSON.parse(toParse)
+        parseSucceeded = true
+        const arr = Array.isArray(parsed) ? parsed : (parsed?.recommendations && Array.isArray(parsed.recommendations) ? parsed.recommendations : [])
+        rawList = arr.filter((x) => x && typeof x === 'object' && x.product_name != null)
       } catch (_) {}
       if (rawList.length > 0) {
         setStreamStatus('Resolving products...')
@@ -337,10 +353,24 @@ export default function Page() {
           setTimeout(() => resolveOneProduct(resolveStartIdx + i, raw, setRecResponse), 0)
         })
       } else {
-        setRecResponse({ valid: false, message: 'Could not get recommendations from stream.' })
+        // Parsed as empty/invalid items → "No results"; parse failed → show API text
+        const message = parseSucceeded
+          ? 'No results'
+          : (() => {
+              const apiMessage = outputText.trim()
+              return apiMessage.length > 0 ? (apiMessage.length > 500 ? apiMessage.slice(0, 500) + '…' : apiMessage) : 'Could not get recommendations from stream.'
+            })()
+        setRecResponse({ valid: false, message })
       }
     } else if (currentRun.length === 0) {
-      setRecResponse({ valid: false, message: responseId ? 'Could not get recommendations from stream.' : 'Stream ended without response id' })
+      const apiMessage = outputText.trim()
+      const message =
+        apiMessage.length > 0
+          ? (apiMessage.length > 500 ? apiMessage.slice(0, 500) + '…' : apiMessage)
+          : responseId
+            ? 'Could not get recommendations from stream.'
+            : 'Stream ended without response id'
+      setRecResponse({ valid: false, message })
     }
 
     await new Promise((r) => setTimeout(r, 800))
@@ -458,13 +488,13 @@ export default function Page() {
                 value={query}
                 onChange={onQueryUpdate}
                 onSubmit={onSearch}
-                placeholders={PLACEHOLDERS}
+                placeholders={placeholders}
                 autoFocus
               />
               <div className="flex flex-col items-center gap-3">
                 <p className="text-sm text-neutral-600">Try searching for:</p>
                 <div className="flex flex-wrap justify-center gap-2">
-                  {SUGGESTED.map((term) => (
+                  {suggested.map((term) => (
                     <button
                       key={term}
                       type="button"

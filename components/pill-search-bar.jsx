@@ -60,7 +60,8 @@ export default function PillSearchBar({
     return () => clearInterval(interval)
   }, [placeholders])
 
-  const placeholder = isHero && placeholders?.length ? animatedPlaceholder || 'Search for anything...' : placeholderProp
+  const fallback = isHero && placeholders?.length ? placeholders[0].slice(0, 1) : ''
+  const placeholder = isHero && placeholders?.length ? animatedPlaceholder || fallback : placeholderProp
 
   return (
     <form onSubmit={onSubmit} className={cn(s.form, formClassName)}>

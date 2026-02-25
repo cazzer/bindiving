@@ -10,7 +10,7 @@ Key requirements:
 - cons: Array of strings. Each string is a key drawback or negative feature (leave empty if not available).
 - price: String. Price with currency symbol (e.g., "$49.99"), or null if unavailable.
 - amazon_id: String. The Amazon ASIN identifier, or null if not available.
-- sources: Array of strings. URLs to external articles or discussions, prefer non-Amazon sources. If none, leave empty.
+- sources: Array of strings. Each string must be a valid URL (http or https) to an external article or discussion. Prefer non-Amazon sources. If none, leave empty.
 - Order the returned products primarily by recency, then rating and review quality.
 - If fewer than three products meet criteria, return as many as found (maximum three).
 - Your output must be valid, standalone JSON—no leading or trailing text, comments, or markdown formatting.

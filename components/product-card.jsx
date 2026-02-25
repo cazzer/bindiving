@@ -4,6 +4,7 @@ import 'react-responsive-carousel/lib/styles/carousel.min.css' // requires a loa
 import { Carousel } from 'react-responsive-carousel'
 
 import placeholderImage from 'public/images/no-image-available.png'
+import SourceCard from './source-card'
 
 const ASSOCIATE_ID = 'bindiving-20'
 
@@ -26,12 +27,6 @@ function parseMarkdownLinks(text) {
     result.push({ type: 'text', value: text.slice(lastIndex) })
   }
   return result.length ? result : [{ type: 'text', value: text }]
-}
-
-function getFirstMarkdownLinkUrl(text) {
-  if (text == null || typeof text !== 'string') return null
-  const match = text.match(/\[[^\]]+\]\((https?:\/\/[^)]+)\)/)
-  return match ? match[1] : null
 }
 
 function renderWithMarkdownLinks(str, keyPrefix) {
@@ -145,50 +140,15 @@ export default function ProductCard({ product: item }) {
           <p className="text-xs text-slate-600">
             Sources:
             {product.sources.length ? (
-              <ul className="mt-1 list-disc list-inside space-y-0.5">
-                {product.sources.map((source, index) => {
-                  const link = source?.link ?? ''
-                  const descLink = getFirstMarkdownLinkUrl(source?.description)
-                  const faviconSource = descLink || link
-                  if (!faviconSource && !link) return null
-                  try {
-                    const displayLink = link || descLink
-                    const displayUrl = new URL(displayLink)
-                    let faviconHostname = displayUrl.hostname
-                    if (descLink) {
-                      try {
-                        faviconHostname = new URL(descLink).hostname
-                      } catch (_) {}
-                    }
-                    const faviconUrl = `https://www.google.com/s2/favicons?domain=${faviconHostname}&sz=16`
-                    return (
-                      <li key={index} className="pl-2 -indent-2">
-                        <img
-                          src={faviconUrl}
-                          alt=""
-                          className="mr-1.5 inline-block h-4 w-4 align-middle"
-                          width={16}
-                          height={16}
-                        />
-                        <a href={displayLink} target="_blank" rel="noreferrer" className="align-middle">
-                          {displayUrl.host.replace('www.', '')}
-                        </a>
-                        {source.description ? (
-                          <em className="text-slate-500 italic"> {renderWithMarkdownLinks(source.description, `src-${index}`)}</em>
-                        ) : null}
-                      </li>
-                    )
-                  } catch {
-                    return (
-                      <li key={index} className="pl-2 -indent-2">
-                        {link}
-                        {source.description ? (
-                          <em className="text-slate-500 italic"> {renderWithMarkdownLinks(source.description, `src-${index}`)}</em>
-                        ) : null}
-                      </li>
-                    )
-                  }
-                })}
+              <ul className="mt-1.5 space-y-1.5">
+                {product.sources.map((source, index) => (
+                  <SourceCard
+                    key={index}
+                    source={source}
+                    index={index}
+                    origin={typeof location !== 'undefined' ? location.origin : ''}
+                  />
+                ))}
               </ul>
             ) : (
               ' —'
