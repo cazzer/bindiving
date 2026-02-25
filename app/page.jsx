@@ -64,6 +64,8 @@ function streamEventToMessage(type) {
   return null
 }
 
+const POLL_STATUS_MESSAGES = ['Checking for results...', 'Still digging...', 'Almost there...']
+
 export default function Page() {
   const [query, setQuery] = useState('')
   const [apiRequestState, setApiRequestState] = useState(null)
@@ -76,15 +78,38 @@ export default function Page() {
     setQuery(event.target.value)
   }
 
+  async function getResolvedRecommendations({ recommendations = null, responseId = null }) {
+    const origin = typeof location !== 'undefined' ? location.origin : ''
+    if (Array.isArray(recommendations) && recommendations.length > 0) {
+      const res = await fetch(`${origin}/api/resolve-products`, {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify({ recommendations })
+      })
+      return res.json()
+    }
+    if (responseId) {
+      const res = await fetch(`${origin}/api/read-thread?response-id=${encodeURIComponent(responseId)}`, {
+        method: 'GET'
+      })
+      return res.json()
+    }
+    return { valid: false, message: 'No recommendations or response id' }
+  }
+
   async function runPolling(responseId, { append = false } = {}) {
     const url = `${location.origin}/api/read-thread?response-id=${encodeURIComponent(responseId)}`
+    let pollCount = 0
     for (;;) {
+      setStreamStatus(POLL_STATUS_MESSAGES[pollCount % POLL_STATUS_MESSAGES.length])
+      pollCount += 1
       const res = await fetch(url, { method: 'GET' })
       const data = await res.json()
       if (data.status === 'pending' || res.status === 202) {
         await new Promise((r) => setTimeout(r, POLL_INTERVAL_MS))
         continue
       }
+      setStreamStatus(null)
       setApiRequestState('resolved')
       if (append && data.valid && data.recommendations?.length) {
         setRecResponse((prev) => ({
@@ -98,111 +123,138 @@ export default function Page() {
     }
   }
 
-  async function onMoreOptions() {
-    if (!lastResponseId) return
-    const recaptchaToken = await executeRecaptcha('more_options')
-    setApiRequestState('pending')
-    try {
-      const res = await fetch(`${location.origin}/api/more-options`, {
-        method: 'POST',
-        headers: { 'Content-Type': 'application/json' },
-        body: JSON.stringify({ previous_response_id: lastResponseId, recaptcha: recaptchaToken })
-      })
-      const data = await res.json()
-      if (!data?.response?.id) {
-        setApiRequestState('rejected')
-        setRecResponse({ valid: false, message: data?.message ?? 'No response from server' })
-        return
+  async function consumeStreamAndResolve(res, append) {
+    if (!res.body) throw new Error('No response body')
+    const reader = res.body.getReader()
+    const decoder = new TextDecoder()
+    let buffer = ''
+    let responseId = null
+    let outputText = ''
+    while (true) {
+      const { done, value } = await reader.read()
+      if (done) break
+      buffer += decoder.decode(value, { stream: true })
+      const lines = buffer.split('\n')
+      buffer = lines.pop() ?? ''
+      for (const line of lines) {
+        if (line.startsWith('data: ')) {
+          const payload = line.slice(6).trim()
+          if (payload === '[DONE]') continue
+          try {
+            const event = JSON.parse(payload)
+            const msg = streamEventToMessage(event?.type)
+            if (msg) setStreamStatus(msg)
+            if (event?.type === 'response.output_text.delta' && typeof event?.delta === 'string') {
+              outputText += event.delta
+            }
+            if (event?.type === 'response.completed' || event?.type === 'response.created') {
+              const id = event?.response?.id ?? event?.id
+              if (id) {
+                responseId = id
+                setLastResponseId(id)
+              }
+            }
+          } catch (_) {}
+        }
       }
-      setLastResponseId(data.response.id)
-      await runPolling(data.response.id, { append: true })
-    } catch (err) {
-      setApiRequestState('rejected')
-      setRecResponse({ valid: false, message: err?.message ?? 'Failed to get more options' })
+    }
+    setStreamStatus('Resolving products...')
+    let recommendations = null
+    try {
+      if (outputText.trim()) recommendations = JSON.parse(outputText.trim())
+    } catch (_) {}
+    const data =
+      Array.isArray(recommendations) && recommendations.length > 0
+        ? await getResolvedRecommendations({ recommendations })
+        : responseId
+          ? await getResolvedRecommendations({ responseId })
+          : { valid: false, message: 'Stream ended without response id' }
+    setStreamStatus(null)
+    setApiRequestState('resolved')
+    if (append && data.valid && data.recommendations?.length) {
+      setRecResponse((prev) => ({
+        ...data,
+        recommendations: [...(prev?.recommendations ?? []), ...data.recommendations]
+      }))
+    } else {
+      setRecResponse(data)
     }
   }
 
-  async function runStreaming(recaptchaToken) {
-    const streamUrl = `${location.origin}/api/stream-search`
-    try {
-      setStreamStatus('Connecting to stream...')
-      const res = await fetch(streamUrl, {
-        method: 'POST',
-        headers: { 'Content-Type': 'application/json' },
-        body: JSON.stringify({ query, recaptcha: recaptchaToken })
-      })
-      if (!res.ok) {
-        const errBody = await res.json().catch(() => ({}))
-        throw new Error(errBody?.error || res.statusText || 'Stream failed')
-      }
-      if (!res.body) throw new Error('No response body')
-      const reader = res.body.getReader()
-      const decoder = new TextDecoder()
-      let buffer = ''
-      let responseId = null
-      let outputText = ''
-      while (true) {
-        const { done, value } = await reader.read()
-        if (done) break
-        buffer += decoder.decode(value, { stream: true })
-        const lines = buffer.split('\n')
-        buffer = lines.pop() ?? ''
-        for (const line of lines) {
-          if (line.startsWith('data: ')) {
-            const payload = line.slice(6).trim()
-            if (payload === '[DONE]') continue
-            try {
-              const event = JSON.parse(payload)
-              const msg = streamEventToMessage(event?.type)
-              if (msg) setStreamStatus(msg)
-              if (event?.type === 'response.output_text.delta' && typeof event?.delta === 'string') {
-                outputText += event.delta
-              }
-              if (event?.type === 'response.completed' || event?.type === 'response.created') {
-                const id = event?.response?.id ?? event?.id
-                if (id) {
-                  responseId = id
-                  setLastResponseId(id)
-                }
-              }
-            } catch (_) {
-              // ignore parse errors for non-JSON lines
-            }
-          }
-        }
-      }
-      setStreamStatus('Resolving products...')
-      let data
-      let recommendations = null
+  async function runSearch({ intent, recaptchaToken }) {
+    const mode = getSearchMode()
+    const append = intent === 'more'
+    const origin = typeof location !== 'undefined' ? location.origin : ''
+
+    if (mode === 'streaming') {
       try {
-        if (outputText.trim()) recommendations = JSON.parse(outputText.trim())
-      } catch (_) {}
-      if (Array.isArray(recommendations) && recommendations.length > 0) {
-        const resolveRes = await fetch(`${location.origin}/api/resolve-products`, {
+        setStreamStatus('Opening the dumpster...')
+        const body =
+          intent === 'more'
+            ? { previous_response_id: lastResponseId, recaptcha: recaptchaToken }
+            : { query, recaptcha: recaptchaToken }
+        const res = await fetch(`${origin}/api/stream-search`, {
           method: 'POST',
           headers: { 'Content-Type': 'application/json' },
-          body: JSON.stringify({ recommendations })
+          body: JSON.stringify(body)
         })
-        data = await resolveRes.json()
-      } else {
-        if (!responseId) {
-          setStreamStatus(null)
+        if (!res.ok) {
+          const errBody = await res.json().catch(() => ({}))
+          throw new Error(errBody?.error || res.statusText || 'Stream failed')
+        }
+        await consumeStreamAndResolve(res, append)
+      } catch (err) {
+        setStreamStatus(null)
+        setApiRequestState('rejected')
+        setRecResponse({ valid: false, message: err?.message || 'Streaming failed' })
+      }
+      return
+    }
+
+    // Polling mode
+    if (intent === 'more') {
+      try {
+        const res = await fetch(`${origin}/api/more-options`, {
+          method: 'POST',
+          headers: { 'Content-Type': 'application/json' },
+          body: JSON.stringify({ previous_response_id: lastResponseId, recaptcha: recaptchaToken })
+        })
+        const data = await res.json()
+        if (!data?.response?.id) {
           setApiRequestState('rejected')
-          setRecResponse({ valid: false, message: 'Stream ended without response id' })
+          setRecResponse({ valid: false, message: data?.message ?? 'No response from server' })
           return
         }
-        const final = await fetch(`${location.origin}/api/read-thread?response-id=${encodeURIComponent(responseId)}`, {
-          method: 'GET'
-        })
-        data = await final.json()
+        setLastResponseId(data.response.id)
+        await runPolling(data.response.id, { append: true })
+      } catch (err) {
+        setStreamStatus(null)
+        setApiRequestState('rejected')
+        setRecResponse({ valid: false, message: err?.message ?? 'Failed to get more options' })
       }
-      setStreamStatus(null)
-      setApiRequestState('resolved')
-      setRecResponse(data)
+      return
+    }
+
+    try {
+      const rawResponse = await fetch(
+        `${origin}/api/assistant?query=${encodeURIComponent(query)}&recaptcha=${recaptchaToken}`,
+        { method: 'POST' }
+      )
+      const responseJson = await rawResponse.json()
+      if (responseJson?.response?.id == null) {
+        setApiRequestState('rejected')
+        setRecResponse({
+          valid: false,
+          message: responseJson?.message ?? 'No response ID returned from assistant'
+        })
+        return
+      }
+      setLastResponseId(responseJson.response.id)
+      await runPolling(responseJson.response.id)
     } catch (err) {
       setStreamStatus(null)
       setApiRequestState('rejected')
-      setRecResponse({ valid: false, message: err?.message || 'Streaming failed' })
+      setRecResponse({ valid: false, message: err?.message ?? 'Request failed' })
     }
   }
 
@@ -210,42 +262,17 @@ export default function Page() {
     event.preventDefault()
     const recaptchaToken = await executeRecaptcha('search')
     sendGAEvent({ event: 'search', value: query })
-
     setStreamStatus(null)
     setApiRequestState('pending')
     setLastResponseId(null)
-    const mode = getSearchMode()
+    await runSearch({ intent: 'initial', recaptchaToken })
+  }
 
-    if (mode === 'streaming') {
-      await runStreaming(recaptchaToken)
-      return
-    }
-
-    const rawResponse = await fetch(
-      `${location.origin}/api/assistant?query=${encodeURIComponent(query)}&recaptcha=${recaptchaToken}`,
-      { method: 'POST' }
-    )
-
-    let responseJson
-    try {
-      responseJson = await rawResponse.json()
-    } catch (error) {
-      setApiRequestState('rejected')
-      setRecResponse({ valid: false, message: error.message })
-      return
-    }
-
-    if (responseJson?.response?.id == null) {
-      setApiRequestState('rejected')
-      setRecResponse({
-        valid: false,
-        message: responseJson?.message ?? 'No response ID returned from assistant'
-      })
-      return
-    }
-
-    setLastResponseId(responseJson.response.id)
-    await runPolling(responseJson.response.id)
+  async function onMoreOptions() {
+    if (!lastResponseId) return
+    const recaptchaToken = await executeRecaptcha('more_options')
+    setApiRequestState('pending')
+    await runSearch({ intent: 'more', recaptchaToken })
   }
 
   return (

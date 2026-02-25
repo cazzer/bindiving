@@ -1,8 +1,11 @@
 /**
  * Stream from OpenAI Responses API by creating with stream: true (no background).
- * Real-time events (web_search, output_text.delta) instead of keepalives only.
- * POST body: { query, recaptcha }. Returns SSE stream; client calls read-thread on response.completed.
+ * Handles both initial search (query + recaptcha) and more options (previous_response_id + recaptcha).
+ * POST body: { query?, previous_response_id?, recaptcha }. Returns SSE stream.
  */
+const MORE_INPUT =
+  'Give me 3 more product recommendations in the same JSON format (product_name, pros, cons, price, amazon_id, sources). Return only the JSON array, no other text.'
+
 const BASE_PROMPT = `You are the backend API for an Amazon product recommendation website. Your task is to receive product queries and return up to three of the best product recommendations available on Amazon, based on review quality, ratings, recency, and content from online sources.
 Begin with a concise checklist (3-7 bullets) of the steps you will take before forming recommendations.
 Key requirements:
@@ -32,7 +35,7 @@ export default async (request: Request) => {
     return new Response(JSON.stringify({ error: 'Server configuration error' }), { status: 500 })
   }
 
-  let body: { query?: string; recaptcha?: string }
+  let body: { query?: string; previous_response_id?: string; recaptcha?: string }
   try {
     body = await request.json()
   } catch {
@@ -40,9 +43,14 @@ export default async (request: Request) => {
   }
 
   const query = body?.query?.trim()
+  const previousResponseId = body?.previous_response_id?.trim()
   const recaptchaToken = body?.recaptcha
-  if (!query || !recaptchaToken) {
-    return new Response(JSON.stringify({ error: 'query and recaptcha required' }), { status: 400 })
+  const isMoreOptions = Boolean(previousResponseId)
+  if (!recaptchaToken) {
+    return new Response(JSON.stringify({ error: 'recaptcha required' }), { status: 400 })
+  }
+  if (!isMoreOptions && !query) {
+    return new Response(JSON.stringify({ error: 'query required for initial search' }), { status: 400 })
   }
 
   const verifyRes = await fetch(
@@ -54,15 +62,23 @@ export default async (request: Request) => {
     return new Response(JSON.stringify({ error: 'Invalid reCAPTCHA' }), { status: 400 })
   }
 
-  const openaiBody = {
-    stream: true,
-    model: 'gpt-4o',
-    tools: [{ type: 'web_search' }],
-    input: [
-      { role: 'system', content: BASE_PROMPT },
-      { role: 'user', content: `What are the three best options for ${query} that people recommend?` }
-    ]
-  }
+  const openaiBody = isMoreOptions
+    ? {
+        stream: true,
+        model: 'gpt-4o',
+        tools: [{ type: 'web_search' }],
+        previous_response_id: previousResponseId,
+        input: MORE_INPUT
+      }
+    : {
+        stream: true,
+        model: 'gpt-4o',
+        tools: [{ type: 'web_search' }],
+        input: [
+          { role: 'system', content: BASE_PROMPT },
+          { role: 'user', content: `What are the three best options for ${query} that people recommend?` }
+        ]
+      }
 
   const openaiRes = await fetch('https://api.openai.com/v1/responses', {
     method: 'POST',
