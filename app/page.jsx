@@ -84,9 +84,16 @@ function normalizeSource(source) {
   return { link: s, description: undefined }
 }
 
+function nextRecId() {
+  return typeof crypto !== 'undefined' && crypto.randomUUID
+    ? crypto.randomUUID()
+    : `rec-${Date.now()}-${Math.random().toString(36).slice(2)}`
+}
+
 function wrapAsRecommendationItem(raw, status = 'pending') {
   return {
     ...raw,
+    _id: nextRecId(),
     pros: Array.isArray(raw.pros) ? raw.pros : [],
     cons: Array.isArray(raw.cons) ? raw.cons : [],
     sources: Array.isArray(raw.sources) ? raw.sources.map(normalizeSource).filter((s) => s.link && isValidSourceUrl(s.link)) : [],
@@ -150,7 +157,7 @@ export default function Page() {
     return { valid: false, message: 'No recommendations or response id' }
   }
 
-  async function resolveOneProduct(index, rawProduct, setRecResponse) {
+  async function resolveOneProduct(recId, rawProduct, setRecResponse) {
     const origin = typeof location !== 'undefined' ? location.origin : ''
     try {
       const res = await fetch(`${origin}/api/resolve-product`, {
@@ -161,9 +168,10 @@ export default function Page() {
       const data = await res.json()
       setRecResponse((prev) => {
         const recs = [...(prev?.recommendations ?? [])]
-        if (recs[index] == null) return prev
-        recs[index] = {
-          ...recs[index],
+        const idx = recs.findIndex((r) => r._id === recId)
+        if (idx === -1) return prev
+        recs[idx] = {
+          ...recs[idx],
           _resolveStatus: data.valid ? 'resolved' : 'error',
           _resolved: data.valid ? data.product : undefined,
           _error: data.valid ? undefined : (data.message || "Couldn't load link")
@@ -173,8 +181,9 @@ export default function Page() {
     } catch (_) {
       setRecResponse((prev) => {
         const recs = [...(prev?.recommendations ?? [])]
-        if (recs[index] == null) return prev
-        recs[index] = { ...recs[index], _resolveStatus: 'error', _error: "Couldn't load link" }
+        const idx = recs.findIndex((r) => r._id === recId)
+        if (idx === -1) return prev
+        recs[idx] = { ...recs[idx], _resolveStatus: 'error', _error: "Couldn't load link" }
         return { ...prev, valid: true, recommendations: recs }
       })
     }
@@ -210,14 +219,12 @@ export default function Page() {
       }
       sendGAEvent({ event: 'search_results', value: rawList.length })
       const wrapped = rawList.map((r) => wrapAsRecommendationItem(r, 'pending'))
-      let startIdx = 0
       setRecResponse((prev) => {
         const base = append ? (prev?.recommendations ?? []) : []
-        startIdx = base.length
         return { valid: true, recommendations: [...base, ...wrapped] }
       })
-      rawList.forEach((raw, i) => {
-        setTimeout(() => resolveOneProduct(startIdx + i, raw, setRecResponse), 0)
+      wrapped.forEach((w, i) => {
+        setTimeout(() => resolveOneProduct(w._id, rawList[i], setRecResponse), 0)
       })
       return
     }
@@ -273,15 +280,14 @@ export default function Page() {
         if (currentRun.length === 0 && newRaws[0]?.product_name) {
           setStreamStatus(`Pulled out: ${newRaws[0].product_name}`)
         }
-        newRaws.forEach((raw) => currentRun.push(wrapAsRecommendationItem(raw, 'pending')))
-        let resolveStartIdx = 0
+        const newWrapped = newRaws.map((raw) => wrapAsRecommendationItem(raw, 'pending'))
+        newWrapped.forEach((w) => currentRun.push(w))
         setRecResponse((prev) => {
           const base = append ? (prev?.recommendations ?? []) : []
-          resolveStartIdx = base.length
           return { valid: true, recommendations: [...base, ...currentRun] }
         })
-        newRaws.forEach((raw, i) => {
-          setTimeout(() => resolveOneProduct(resolveStartIdx + i, raw, setRecResponse), 0)
+        newWrapped.forEach((w, i) => {
+          setTimeout(() => resolveOneProduct(w._id, newRaws[i], setRecResponse), 0)
         })
       }
     }
@@ -293,14 +299,12 @@ export default function Page() {
         setStreamStatus('Checking the finds...')
         sendGAEvent({ event: 'search_results', value: listToUse.length })
         const wrapped = listToUse.map((r) => wrapAsRecommendationItem(r, 'pending'))
-        let resolveStartIdx = 0
         setRecResponse((prev) => {
           const base = append ? (prev?.recommendations ?? []) : []
-          resolveStartIdx = base.length
           return { valid: true, recommendations: [...base, ...wrapped] }
         })
-        listToUse.forEach((raw, i) => {
-          setTimeout(() => resolveOneProduct(resolveStartIdx + i, raw, setRecResponse), 0)
+        wrapped.forEach((w, i) => {
+          setTimeout(() => resolveOneProduct(w._id, listToUse[i], setRecResponse), 0)
         })
       } else {
         const apiMessage = outputText.trim()
@@ -330,9 +334,10 @@ export default function Page() {
     setApiRequestState('resolved')
   }
 
-  async function runSearch({ intent, recaptchaToken }) {
+  async function runSearch({ intent, recaptchaToken, query: queryOverride }) {
     const mode = STREAM_ENABLED ? 'streaming' : 'polling'
     const append = intent === 'more'
+    const searchQuery = queryOverride !== undefined ? queryOverride : query
     const origin = typeof location !== 'undefined' ? location.origin : ''
 
     if (mode === 'streaming') {
@@ -341,7 +346,7 @@ export default function Page() {
         const body =
           intent === 'more'
             ? { previous_response_id: lastResponseId, recaptcha: recaptchaToken }
-            : { query, recaptcha: recaptchaToken }
+            : { query: searchQuery, recaptcha: recaptchaToken }
         const res = await fetch(`${origin}/api/stream-search`, {
           method: 'POST',
           headers: { 'Content-Type': 'application/json' },
@@ -386,7 +391,7 @@ export default function Page() {
 
     try {
       const rawResponse = await fetch(
-        `${origin}/api/assistant?query=${encodeURIComponent(query)}&recaptcha=${recaptchaToken}`,
+        `${origin}/api/assistant?query=${encodeURIComponent(searchQuery)}&recaptcha=${recaptchaToken}`,
         { method: 'POST' }
       )
       const responseJson = await rawResponse.json()
@@ -407,15 +412,17 @@ export default function Page() {
     }
   }
 
-  async function onSearch(event) {
-    event.preventDefault()
+  async function onSearch(event, queryOverride) {
+    event?.preventDefault?.()
     setRecResponse(null)
     setStreamStatus(null)
     setApiRequestState('pending')
     setLastResponseId(null)
     const recaptchaToken = await executeRecaptcha('search')
-    sendGAEvent({ event: 'search', value: query })
-    await runSearch({ intent: 'initial', recaptchaToken })
+    const q = queryOverride !== undefined ? queryOverride : query
+    setQuery(q)
+    sendGAEvent({ event: 'search', value: q })
+    await runSearch({ intent: 'initial', recaptchaToken, query: q })
   }
 
   onSearchRef.current = onSearch
@@ -451,7 +458,7 @@ export default function Page() {
                     <button
                       key={term}
                       type="button"
-                      onClick={() => setQuery(term)}
+                      onClick={() => onSearchRef.current?.({ preventDefault: () => {} }, term)}
                       className="px-4 py-2 rounded-full text-sm font-medium text-neutral-700 bg-neutral-100 hover:bg-neutral-200 transition-colors"
                     >
                       {term}
@@ -468,8 +475,8 @@ export default function Page() {
         <section className="flex flex-col gap-4">
           <em className="mb-1 block text-center">Results are AI generated and may contain fabricated statements and broken links.</em>
           {recResponse.recommendations.length === 0 && ErrorResponseParser({ valid: true, message: 'No results' })}
-          {recResponse.recommendations.map((product, index) => (
-            <ProductCard product={product} key={index} />
+          {recResponse.recommendations.map((product) => (
+            <ProductCard product={product} key={product._id} />
           ))}
           {recResponse.recommendations.length > 0 && (
             <div className="flex flex-col items-center gap-4 pt-4">
