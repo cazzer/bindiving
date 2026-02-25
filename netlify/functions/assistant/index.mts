@@ -2,7 +2,7 @@ import { Config, Context } from '@netlify/functions'
 import OpenAI from 'openai'
 
 import { processCaptcha } from '../recommendations/recatpcha.mjs'
-import { basePrompt } from './prompt.mjs'
+import { BASE_SYSTEM_PROMPT, getUserMessage } from '../recommendations/recommendation-prompt.mjs'
 
 const OPEN_AI_KEY = process.env.OPEN_AI_KEY
 
@@ -32,14 +32,8 @@ export default async function assistant(req: Request, context: Context) {
     const response = await openai.responses.create({
       background: true,
       input: [
-        {
-          role: 'system',
-          content: basePrompt
-        },
-        {
-          role: 'user',
-          content: `What are the three best options for ${query} that people recommend?`
-        }
+        { role: 'system', content: BASE_SYSTEM_PROMPT },
+        { role: 'user', content: getUserMessage(query) }
       ],
       model: 'gpt-4o',
       tools: [{ type: 'web_search' }]

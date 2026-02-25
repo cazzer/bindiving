@@ -2,6 +2,7 @@ import { Config, Context } from '@netlify/functions'
 import OpenAI from 'openai'
 
 import { processCaptcha } from '../recommendations/recatpcha.mjs'
+import { MORE_OPTIONS_INPUT } from '../recommendations/recommendation-prompt.mjs'
 
 const OPEN_AI_KEY = process.env.OPEN_AI_KEY
 
@@ -10,9 +11,6 @@ const openai = new OpenAI({
   project: 'proj_TSZaJWtjqeTKTkVwHfRKP36z',
   apiKey: OPEN_AI_KEY
 })
-
-const MORE_INPUT =
-  'Give me 3 more product recommendations in the same JSON format (product_name, pros, cons, price, amazon_id, sources). Return only the JSON array, no other text.'
 
 export default async function moreOptions(req: Request, context: Context) {
   if (req.method !== 'POST') {
@@ -39,7 +37,7 @@ export default async function moreOptions(req: Request, context: Context) {
   try {
     const response = await openai.responses.create({
       previous_response_id: previousResponseId,
-      input: MORE_INPUT,
+      input: MORE_OPTIONS_INPUT,
       model: 'gpt-4o',
       tools: [{ type: 'web_search' }],
       background: true

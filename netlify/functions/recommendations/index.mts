@@ -1,3 +1,8 @@
+/**
+ * @deprecated Use POST /api/stream-search + GET /api/read-thread (streaming) or
+ * POST /api/assistant + GET /api/read-thread (polling) instead.
+ * This endpoint uses a different schema (chat completions, products/source_urls) and is not used by the app.
+ */
 import { Config, Context } from '@netlify/functions'
 import { queryOpenAI } from './openai.mjs'
 import { processCaptcha } from './recatpcha.mjs'

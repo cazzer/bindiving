@@ -2,6 +2,9 @@
  * Stream from OpenAI Responses API by creating with stream: true (no background).
  * Handles both initial search (query + recaptcha) and more options (previous_response_id + recaptcha).
  * POST body: { query?, previous_response_id?, recaptcha }. Returns SSE stream.
+ *
+ * Keep MORE_INPUT and BASE_PROMPT in sync with netlify/functions/recommendations/recommendation-prompt.mts
+ * (edge runtime cannot import from functions).
  */
 const MORE_INPUT =
   'Give me 3 more product recommendations in the same JSON format (product_name, pros, cons, price, amazon_id, sources). Return only the JSON array, no other text.'

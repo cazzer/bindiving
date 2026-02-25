@@ -11,6 +11,11 @@ import ErrorResponseParser from 'components/error-response-parser'
 import { Footer } from 'components/footer'
 import { useSearchUI } from '../contexts/search-ui-context'
 import { STREAM_ENABLED } from '../config'
+import {
+  parsePartialRecommendations,
+  parseFinalRecommendations,
+  streamEventToMessage
+} from './lib/stream-recommendations'
 
 const PLACEHOLDER_LIST = [
   `blister-proof running socks`,
@@ -41,78 +46,7 @@ const PLACEHOLDER_LIST = [
 
 const POLL_INTERVAL_MS = 3000
 
-// Map OpenAI stream events to short UI messages (pass full event for richer feedback)
-function streamEventToMessage(event) {
-  if (!event || typeof event !== 'object') return null
-  const type = event.type
-  if (!type || typeof type !== 'string') return null
-  if (type === 'keepalive') return 'Waiting for response...'
-  if (type === 'response.output_item.added') {
-    const itemType = event.item?.type
-    if (itemType === 'web_search_call') return 'Searching the web...'
-    if (itemType === 'message') return 'Writing recommendations...'
-  }
-  if (type === 'response.output_item.done' && event.item?.type === 'web_search_call') {
-    const query = event.item?.action?.query || event.item?.action?.queries?.[0]
-    if (query) return `Searched: ${query}`
-    return 'Found sources.'
-  }
-  if (type.includes('web_search_call')) {
-    if (type.includes('searching')) return 'Searching the web...'
-    if (type.includes('completed')) return 'Found sources.'
-  }
-  if (type === 'response.output_text.annotation.added' && event.annotation?.type === 'url_citation') {
-    const title = event.annotation?.title
-    if (title) return `Source: ${title}`
-  }
-  if (type === 'response.output_text.delta') return null
-  if (type === 'response.output_text.done') return 'Almost there...'
-  if (type === 'response.completed') {
-    const outTokens = event.response?.usage?.output_tokens
-    if (outTokens != null) return `Complete (${outTokens} tokens)`
-    return 'Complete'
-  }
-  if (type === 'response.created' || type === 'response.in_progress') return 'Starting...'
-  return null
-}
-
 const POLL_STATUS_MESSAGES = ['Checking for results...', 'Still digging...', 'Almost there...']
-
-// Strip optional markdown code fence so we can parse e.g. "```json\n[]\n```"
-function stripJsonCodeFence(s) {
-  if (!s || typeof s !== 'string') return s
-  const trimmed = s.trim()
-  const match = trimmed.match(/^```(?:json)?\s*\n?([\s\S]*?)\n?```$/m)
-  return match ? match[1].trim() : trimmed
-}
-
-// Extract complete product objects from partial JSON array string (streaming).
-function parsePartialRecommendations(buffer) {
-  if (!buffer || typeof buffer !== 'string') return []
-  const s = buffer.trim()
-  if (!s.startsWith('[')) return []
-  let arr = null
-  if (s.endsWith(']')) {
-    try {
-      arr = JSON.parse(s)
-    } catch (_) {}
-  }
-  if (!arr && s.includes(']')) {
-    try {
-      arr = JSON.parse(s + ']')
-    } catch (_) {}
-  }
-  if (!arr) {
-    const last = s.lastIndexOf('},{')
-    if (last !== -1) {
-      try {
-        arr = JSON.parse(s.substring(0, last + 1) + ']')
-      } catch (_) {}
-    }
-  }
-  if (!Array.isArray(arr)) return []
-  return arr.filter((x) => x && typeof x === 'object' && x.product_name != null)
-}
 
 function normalizeSource(source) {
   if (source && typeof source === 'object' && source.link != null) {
@@ -253,6 +187,7 @@ export default function Page() {
         setRecResponse(data)
         return
       }
+      sendGAEvent({ event: 'search_results', value: rawList.length })
       const wrapped = rawList.map((r) => wrapAsRecommendationItem(r, 'pending'))
       let startIdx = 0
       setRecResponse((prev) => {
@@ -331,17 +266,10 @@ export default function Page() {
     }
 
     if (currentRun.length === 0 && outputText.trim()) {
-      let rawList = []
-      let parseSucceeded = false
-      const toParse = stripJsonCodeFence(outputText)
-      try {
-        const parsed = JSON.parse(toParse)
-        parseSucceeded = true
-        const arr = Array.isArray(parsed) ? parsed : (parsed?.recommendations && Array.isArray(parsed.recommendations) ? parsed.recommendations : [])
-        rawList = arr.filter((x) => x && typeof x === 'object' && x.product_name != null)
-      } catch (_) {}
+      const { list: rawList, parseSucceeded } = parseFinalRecommendations(outputText)
       if (rawList.length > 0) {
         setStreamStatus('Resolving products...')
+        sendGAEvent({ event: 'search_results', value: rawList.length })
         const wrapped = rawList.map((r) => wrapAsRecommendationItem(r, 'pending'))
         let resolveStartIdx = 0
         setRecResponse((prev) => {
@@ -353,13 +281,12 @@ export default function Page() {
           setTimeout(() => resolveOneProduct(resolveStartIdx + i, raw, setRecResponse), 0)
         })
       } else {
-        // Parsed as empty/invalid items → "No results"; parse failed → show API text
+        const apiMessage = outputText.trim()
         const message = parseSucceeded
           ? 'No results'
-          : (() => {
-              const apiMessage = outputText.trim()
-              return apiMessage.length > 0 ? (apiMessage.length > 500 ? apiMessage.slice(0, 500) + '…' : apiMessage) : 'Could not get recommendations from stream.'
-            })()
+          : apiMessage.length > 0
+            ? (apiMessage.length > 500 ? apiMessage.slice(0, 500) + '…' : apiMessage)
+            : 'Could not get recommendations from stream.'
         setRecResponse({ valid: false, message })
       }
     } else if (currentRun.length === 0) {
@@ -371,6 +298,9 @@ export default function Page() {
             ? 'Could not get recommendations from stream.'
             : 'Stream ended without response id'
       setRecResponse({ valid: false, message })
+    }
+    if (currentRun.length > 0) {
+      sendGAEvent({ event: 'search_results', value: currentRun.length })
     }
 
     await new Promise((r) => setTimeout(r, 800))
@@ -470,6 +400,7 @@ export default function Page() {
 
   async function onMoreOptions() {
     if (!lastResponseId) return
+    sendGAEvent({ event: 'more_options', value: recResponse?.recommendations?.length ?? 0 })
     const recaptchaToken = await executeRecaptcha('more_options')
     setApiRequestState('pending')
     await runSearch({ intent: 'more', recaptchaToken })
@@ -513,7 +444,7 @@ export default function Page() {
       {apiRequestState !== 'pending' && recResponse?.valid == false && ErrorResponseParser(recResponse)}
       {recResponse?.valid === true && recResponse.recommendations?.length > 0 && (
         <section className="flex flex-col gap-4">
-          <em className="mb-1">Results are AI generated and may contain fabricated statements and broken links.</em>
+          <em className="mb-1 block text-center">Results are AI generated and may contain fabricated statements and broken links.</em>
           {recResponse.recommendations.length === 0 && ErrorResponseParser({ valid: true, message: 'No results' })}
           {recResponse.recommendations.map((product, index) => (
             <ProductCard product={product} key={index} />
