@@ -32,23 +32,19 @@ export default async function readThread(req: Request, context: Context) {
     return new Response(JSON.stringify({ valid: false, message: 'Response ID must be provided' }))
   }
 
-  let complete = false
-  const start = performance.now()
+  const response = await openai.responses.retrieve(responseId, {
+    // API supports this; SDK ResponseIncludable type omits it
+    include: ['web_search_call.action.sources'] as never[]
+  })
 
-  let response
-  while (!complete) {
-    response = await openai.responses.retrieve(responseId)
-    if (response.status === 'completed') {
-      complete = true
-    }
+  if (response.status !== 'completed') {
+    return new Response(JSON.stringify({ status: 'pending' }), {
+      status: 202,
+      headers: { 'Content-Type': 'application/json' }
+    })
   }
 
-  const end = performance.now()
-  console.log(`Wasted ${end - start}ms waiting for the run to finish`)
-
-  console.log(JSON.stringify(response, null, 2))
   if (response && response.output_text) {
-    complete = true
     try {
       const recommendations = JSON.parse(response.output_text)
       const resolvedProducts = await Promise.all(
@@ -58,11 +54,13 @@ export default async function readThread(req: Request, context: Context) {
       const validProducts = resolvedProducts.filter((product) => product.valid)
 
       if (validProducts.length === 0) {
-        JSON.stringify({
-          valid: false,
-          message:
-            "Couldn't resolve any products...probably because too many people are bin diving right now. Try again later. Or don't, I don't care."
-        })
+        return new Response(
+          JSON.stringify({
+            valid: false,
+            message:
+              "Couldn't resolve any products...probably because too many people are bin diving right now. Try again later. Or don't, I don't care."
+          })
+        )
       }
 
       return new Response(

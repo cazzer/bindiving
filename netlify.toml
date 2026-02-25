@@ -1,6 +1,22 @@
 [build]
   publish = ".next"
   command = "npm run build"
+  edge_functions = "netlify/edge-functions"
 
 [build.environment]
   NODE_VERSION = "24"
+
+# Edge functions (run before redirects)
+[[edge_functions]]
+  path = "/api/stream-response"
+  function = "stream-response"
+
+[[edge_functions]]
+  path = "/api/stream-search"
+  function = "stream-search"
+
+# Route /api/* to Netlify Functions (needed for netlify dev and production)
+[[redirects]]
+  from = "/api/*"
+  to = "/.netlify/functions/:splat"
+  status = 200

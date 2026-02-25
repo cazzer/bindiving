@@ -182,6 +182,7 @@
         "npm:bottleneck@^2.19.5",
         "npm:bright@^1.0.0",
         "npm:cheerio@^1.1.2",
+        "npm:clsx@^2.1.1",
         "npm:daisyui@^4.0.5",
         "npm:eslint-config-next@14.2.3",
         "npm:eslint@8.57.0",
@@ -198,6 +199,7 @@
         "npm:react-responsive-carousel@^3.2.23",
         "npm:react@19.2.0",
         "npm:scrapfly-sdk@^0.6.9",
+        "npm:tailwind-merge@^3.5.0",
         "npm:tailwindcss@^3.4.1",
         "npm:unique-names-generator@^4.7.1",
         "npm:user-agents@^1.1.668"

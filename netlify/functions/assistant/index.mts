@@ -41,8 +41,8 @@ export default async function assistant(req: Request, context: Context) {
           content: `What are the three best options for ${query} that people recommend?`
         }
       ],
-
-      model: 'gpt-5-nano'
+      model: 'gpt-4o',
+      tools: [{ type: 'web_search' }]
     })
 
     return new Response(

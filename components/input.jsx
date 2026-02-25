@@ -1,13 +1,18 @@
-/**
- * Reusable styled input. Use this (or the .search-input class) anywhere
- * you want the same look. Pass className to add or override styles.
- */
-export default function Input({ className = '', ...props }) {
+import { forwardRef } from 'react'
+import { cn } from '../lib/utils'
+
+const baseClasses =
+  'input input-bordered w-full rounded-lg focus:outline-none focus:ring-2 focus:ring-primary focus:border-transparent'
+
+const Input = forwardRef(function Input({ className, ...props }, ref) {
   return (
     <input
+      ref={ref}
       type="text"
-      className={`input input-bordered w-full rounded-lg focus:outline-none focus:ring-2 focus:ring-primary focus:border-transparent ${className}`.trim()}
+      className={cn(baseClasses, className)}
       {...props}
     />
   )
-}
+})
+
+export default Input
