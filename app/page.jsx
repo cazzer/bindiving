@@ -10,6 +10,7 @@ import Digging from 'components/digging'
 import ErrorResponseParser from 'components/error-response-parser'
 import { Footer } from 'components/footer'
 import { useSearchUI } from '../contexts/search-ui-context'
+import { isValidSourceUrl } from '../lib/utils'
 import { STREAM_ENABLED } from '../config'
 import {
   parsePartialRecommendations,
@@ -65,7 +66,7 @@ const SUGGESTED = PLACEHOLDERS.slice(0, 4)
 
 const POLL_INTERVAL_MS = 3000
 
-const POLL_STATUS_MESSAGES = ['Checking for results...', 'Still digging...', 'Almost there...']
+const POLL_STATUS_MESSAGES = ['Checking the bin...', 'Still digging...', 'Almost there...']
 
 function normalizeSource(source) {
   if (source && typeof source === 'object' && source.link != null) {
@@ -88,7 +89,7 @@ function wrapAsRecommendationItem(raw, status = 'pending') {
     ...raw,
     pros: Array.isArray(raw.pros) ? raw.pros : [],
     cons: Array.isArray(raw.cons) ? raw.cons : [],
-    sources: Array.isArray(raw.sources) ? raw.sources.map(normalizeSource) : [],
+    sources: Array.isArray(raw.sources) ? raw.sources.map(normalizeSource).filter((s) => s.link && isValidSourceUrl(s.link)) : [],
     _resolveStatus: status,
     _resolved: undefined,
     _error: undefined
@@ -248,9 +249,9 @@ export default function Page() {
             if (event?.type === 'response.output_text.delta' && typeof event?.delta === 'string') {
               outputText += event.delta
               if (!msg && outputText.includes('"steps"') && parsePartialRecommendations(outputText).length === 0) {
-                setStreamStatus('Building plan…')
+                setStreamStatus('Mapping the dumpster…')
               } else if (!msg) {
-                setStreamStatus('Writing recommendations...')
+                setStreamStatus('Tossing out suggestions...')
               }
             }
             if (event?.type === 'response.output_text.done' && typeof event?.text === 'string') {
@@ -270,7 +271,7 @@ export default function Page() {
       if (partial.length > currentRun.length) {
         const newRaws = partial.slice(currentRun.length)
         if (currentRun.length === 0 && newRaws[0]?.product_name) {
-          setStreamStatus(`Found: ${newRaws[0].product_name}`)
+          setStreamStatus(`Pulled out: ${newRaws[0].product_name}`)
         }
         newRaws.forEach((raw) => currentRun.push(wrapAsRecommendationItem(raw, 'pending')))
         let resolveStartIdx = 0
@@ -287,17 +288,18 @@ export default function Page() {
 
     if (currentRun.length === 0 && outputText.trim()) {
       const { list: rawList, parseSucceeded } = parseFinalRecommendations(outputText)
-      if (rawList.length > 0) {
-        setStreamStatus('Resolving products...')
-        sendGAEvent({ event: 'search_results', value: rawList.length })
-        const wrapped = rawList.map((r) => wrapAsRecommendationItem(r, 'pending'))
+      const listToUse = rawList.length > 0 ? rawList : parsePartialRecommendations(outputText)
+      if (listToUse.length > 0) {
+        setStreamStatus('Checking the finds...')
+        sendGAEvent({ event: 'search_results', value: listToUse.length })
+        const wrapped = listToUse.map((r) => wrapAsRecommendationItem(r, 'pending'))
         let resolveStartIdx = 0
         setRecResponse((prev) => {
           const base = append ? (prev?.recommendations ?? []) : []
           resolveStartIdx = base.length
           return { valid: true, recommendations: [...base, ...wrapped] }
         })
-        rawList.forEach((raw, i) => {
+        listToUse.forEach((raw, i) => {
           setTimeout(() => resolveOneProduct(resolveStartIdx + i, raw, setRecResponse), 0)
         })
       } else {

@@ -4,6 +4,7 @@ import Image from 'next/image'
 import Link from 'next/link'
 
 import { useSearchUI } from '../contexts/search-ui-context'
+import { ThemeSwitcher } from './theme-switcher'
 import PillSearchBar from './pill-search-bar'
 import logo from 'public/images/bin-diving.svg'
 
@@ -19,44 +20,59 @@ export function Header() {
         hasResults ? 'flex-row py-4' : 'flex-col pt-12 pb-8 sm:pt-16 sm:pb-12'
       }`}
     >
-      <Link
-        href="/"
-        className={`flex items-center gap-2 shrink-0 transition-all duration-300 ease-in ${
-          hasResults ? 'flex-row' : 'flex-col items-center gap-4 text-center'
-        }`}
-      >
-        <Image
-          src={logo}
-          alt="Bin Diving"
-          width={hasResults ? 32 : 56}
-          height={hasResults ? 32 : 56}
-          className="transition-all duration-300 ease-in"
-        />
-        <h1
-          className={`font-bold tracking-tight text-neutral-900 transition-all duration-300 ease-in m-0 ${
-            hasResults ? 'text-xl' : 'text-3xl sm:text-4xl'
-          }`}
-        >
-          Bin Diving
-        </h1>
-      </Link>
-
-      {hasResults && (
-        <div className="flex-1 flex justify-center min-w-0 px-4 animate-search-in">
-          <PillSearchBar
-            size="compact"
-            value={searchProps.query}
-            onChange={searchProps.onQueryUpdate}
-            onSubmit={searchProps.onSubmit}
-            placeholder={searchProps.placeholder}
-          />
-        </div>
-      )}
-
-      {!hasResults && (
-        <p className="mt-4 max-w-xl text-sm text-neutral-600 sm:text-base text-center animate-fade-in">
-          {TAGLINE}
-        </p>
+      {hasResults ? (
+        <>
+          <Link
+            href="/"
+            className="flex items-center gap-2 shrink-0 transition-all duration-300 ease-in flex-row"
+          >
+            <Image
+              src={logo}
+              alt="Bin Diving"
+              width={32}
+              height={32}
+              className="transition-all duration-300 ease-in"
+            />
+            <h1 className="hidden md:block font-bold tracking-tight text-base-content transition-all duration-300 ease-in m-0 text-xl">
+              Bin Diving
+            </h1>
+          </Link>
+          <div className="flex-1 flex justify-center min-w-0 px-4 animate-search-in">
+            <PillSearchBar
+              size="compact"
+              value={searchProps.query}
+              onChange={searchProps.onQueryUpdate}
+              onSubmit={searchProps.onSubmit}
+              placeholder={searchProps.placeholder}
+            />
+          </div>
+          <ThemeSwitcher className="shrink-0" />
+        </>
+      ) : (
+        <>
+          <div className="flex justify-between items-start w-full">
+            <div className="flex-1" />
+            <Link
+              href="/"
+              className="flex flex-col items-center gap-4 text-center shrink-0"
+            >
+              <Image
+                src={logo}
+                alt="Bin Diving"
+                width={56}
+                height={56}
+                className="transition-all duration-300 ease-in"
+              />
+              <h1 className="font-bold tracking-tight text-base-content text-3xl sm:text-4xl m-0">
+                Bin Diving
+              </h1>
+            </Link>
+            <ThemeSwitcher className="shrink-0 flex-1 justify-end" />
+          </div>
+          <p className="mt-4 max-w-xl text-sm text-base-content/70 sm:text-base text-center animate-fade-in">
+            {TAGLINE}
+          </p>
+        </>
       )}
     </header>
   )

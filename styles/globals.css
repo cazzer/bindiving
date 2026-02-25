@@ -4,9 +4,30 @@
 @tailwind components;
 @tailwind utilities;
 
+/* Top-level theme variables (light by default; dark theme overrides via [data-theme="lofi-dark"]). */
+:root {
+  --page-bg: theme('colors.white');
+  --page-text: theme('colors.neutral.800');
+  --hero-gradient: radial-gradient(ellipse 80% 50% at 0% 0%, rgb(241 245 249), transparent 50%), radial-gradient(ellipse 80% 50% at 100% 100%, rgb(226 232 240), transparent 50%);
+}
+
+[data-theme="lofi-dark"] {
+  --page-bg: #171717;
+  --page-text: #e5e5e5;
+  --hero-gradient: radial-gradient(ellipse 80% 50% at 0% 0%, rgb(38 38 38), transparent 50%), radial-gradient(ellipse 80% 50% at 100% 100%, rgb(23 23 23), transparent 50%);
+}
+
+.theme-page {
+  background-color: var(--page-bg);
+  color: var(--page-text);
+}
+
 @layer components {
   .search-input {
     @apply input input-bordered w-full rounded-lg focus:outline-none focus:ring-2 focus:ring-primary focus:border-transparent;
+  }
+  .bg-hero-gradient {
+    background-image: var(--hero-gradient);
   }
 }
 

@@ -13,8 +13,7 @@ module.exports = {
       backgroundImage: {
         'grid-pattern':
           "linear-gradient(to bottom, theme('colors.neutral.950 / 0%'), theme('colors.neutral.950 / 100%')), url('/images/noise.png')",
-        'hero-gradient':
-          'radial-gradient(ellipse 80% 50% at 0% 0%, rgb(241 245 249), transparent 50%), radial-gradient(ellipse 80% 50% at 100% 100%, rgb(226 232 240), transparent 50%)'
+        'hero-gradient': 'var(--hero-gradient)'
       },
       colors: {
         neutral: colors.neutral
@@ -34,6 +33,21 @@ module.exports = {
           secondary: '#016968',
           info: '#2bdcd2',
           'info-content': '#171717'
+        }
+      },
+      {
+        'lofi-dark': {
+          primary: '#2bdcd2',
+          'primary-content': '#0c0c0c',
+          secondary: '#016968',
+          'base-100': '#171717',
+          'base-200': '#262626',
+          'base-300': '#404040',
+          'base-content': '#e5e5e5',
+          neutral: '#262626',
+          'neutral-content': '#e5e5e5',
+          'info': '#2bdcd2',
+          'info-content': '#0c0c0c'
         }
       }
     ]

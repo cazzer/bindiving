@@ -9,14 +9,14 @@ export default function Digging({ streamStatus }) {
 
   useEffect(() => {
     if (streamStatus) return
-    const t = setTimeout(() => setDiggingInfo('This will quite literally take a minute...hang tight!'), 5000)
+    const t = setTimeout(() => setDiggingInfo('This bin is deep... give it a sec!'), 5000)
     return () => clearTimeout(t)
   }, [streamStatus])
 
   useEffect(() => {
     if (streamStatus) return
     const t = setTimeout(
-      () => setDiggingInfo(`I'm still thinking...or at least asking ChatGPT to think for me`),
+      () => setDiggingInfo('Still digging... the good stuff is buried in there.'),
       20000
     )
     return () => clearTimeout(t)
@@ -24,7 +24,7 @@ export default function Digging({ streamStatus }) {
 
   useEffect(() => {
     if (streamStatus) return
-    const t = setTimeout(() => setDiggingInfo(`We're almost there fam, hold on!`), 45000)
+    const t = setTimeout(() => setDiggingInfo('Almost there... one more scoop!'), 45000)
     return () => clearTimeout(t)
   }, [streamStatus])
 

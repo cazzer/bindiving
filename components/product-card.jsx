@@ -3,6 +3,7 @@ import { useImage } from 'react-image'
 import 'react-responsive-carousel/lib/styles/carousel.min.css' // requires a loader
 import { Carousel } from 'react-responsive-carousel'
 
+import { isValidSourceUrl } from '../lib/utils'
 import placeholderImage from 'public/images/no-image-available.png'
 import SourceCard from './source-card'
 
@@ -47,9 +48,48 @@ const imageStyle = {
   maxHeight: '100%'
 }
 
+function CheckIcon() {
+  return (
+    <svg
+      width="16"
+      height="16"
+      viewBox="0 0 24 24"
+      fill="none"
+      stroke="currentColor"
+      strokeWidth="2.5"
+      strokeLinecap="round"
+      strokeLinejoin="round"
+      aria-hidden
+    >
+      <path d="M20 6L9 17l-5-5" />
+    </svg>
+  )
+}
+
+function MinusIcon() {
+  return (
+    <svg
+      width="16"
+      height="16"
+      viewBox="0 0 24 24"
+      fill="none"
+      stroke="currentColor"
+      strokeWidth="2.5"
+      strokeLinecap="round"
+      strokeLinejoin="round"
+      aria-hidden
+    >
+      <path d="M5 12h14" />
+    </svg>
+  )
+}
+
 function normalizeSource(source) {
   if (source && typeof source === 'object' && source.link != null) {
-    return { link: String(source.link), description: source.description != null ? String(source.description) : undefined }
+    return {
+      link: String(source.link),
+      description: source.description != null ? String(source.description) : undefined
+    }
   }
   const s = typeof source === 'string' ? source.trim() : ''
   if (!s) return { link: '', description: undefined }
@@ -68,7 +108,9 @@ function normalizeProduct(p) {
     ...p,
     pros: Array.isArray(p?.pros) ? p.pros : [],
     cons: Array.isArray(p?.cons) ? p.cons : [],
-    sources: Array.isArray(p?.sources) ? p.sources.map(normalizeSource).filter((s) => s.link) : []
+    sources: Array.isArray(p?.sources)
+      ? p.sources.map(normalizeSource).filter((s) => s.link && isValidSourceUrl(s.link))
+      : []
   }
 }
 
@@ -90,7 +132,7 @@ export default function ProductCard({ product: item }) {
       <figure className="max-h-60 w-80 self-center" style={{ alignItems: 'normal' }}>
         {isPending ? (
           <div className="flex h-48 w-80 items-center justify-center bg-base-200 text-sm text-base-content/60">
-            Resolving…
+            Checking the find…
           </div>
         ) : isError ? (
           <div className="flex h-48 w-80 items-center justify-center bg-base-200 text-sm text-warning">
@@ -106,41 +148,49 @@ export default function ProductCard({ product: item }) {
           <img style={imageStyle} src={src} alt={`Image of ${product.product_name}`} />
         )}
       </figure>
-      <div className="card-body">
+      <div className="card-body p-3 sm:p-6">
         <h2 className="card-title">{product.product_name}</h2>
         {product.brand && <h3>Sold by: {product.brand}</h3>}
         <h3>
           {product.price != null && product.price !== '' ? (
-              product.price
-            ) : (
-              <em className="text-neutral-500">We could not estimate the price</em>
-            )}{' '}
-            {product.blackFriday && <em>Black Friday deal!</em>}
+            product.price
+          ) : (
+            <em className="text-neutral-500">We could not estimate the price</em>
+          )}{' '}
+          {product.blackFriday && <em>Black Friday deal!</em>}
           {product.resolver === 'brave' && product.price != null && product.price !== '' ? (
-              <em>(AI estimate)</em>
-            ) : null}
+            <em>(AI estimate)</em>
+          ) : null}
         </h3>
-        <div className="container flex row">
-          <div className="container flex grow px-4">
-            <ul className="list-disc">
+        <div className="flex flex-col gap-4 sm:flex-row sm:flex-wrap min-w-0">
+          <div className="flex min-w-0 flex-col gap-1.5 sm:grow">
+            <p className="flex items-center gap-1.5 text-sm font-medium text-success" aria-hidden>
+              <CheckIcon />
+              Pros
+            </p>
+            <ul className="list-disc list-inside space-y-1">
               {product.pros.map((pro, index) => (
-                <li key={index}>{renderWithMarkdownLinks(pro, `pro-${index}`)}</li>
+                <li key={index} className="pl-[22px] [text-indent:-22px]">{renderWithMarkdownLinks(pro, `pro-${index}`)}</li>
               ))}
             </ul>
           </div>
-          <div className="container flex grow px-4">
-            <ul className="list-disc">
+          <div className="flex min-w-0 flex-col gap-1.5 sm:grow">
+            <p className="flex items-center gap-1.5 text-sm font-medium text-warning" aria-hidden>
+              <MinusIcon />
+              Cons
+            </p>
+            <ul className="list-disc list-inside space-y-1">
               {product.cons.map((con, index) => (
-                <li key={index}>{renderWithMarkdownLinks(con, `con-${index}`)}</li>
+                <li key={index} className="pl-[22px] [text-indent:-22px]">{renderWithMarkdownLinks(con, `con-${index}`)}</li>
               ))}
             </ul>
           </div>
         </div>
-        <div className="container flex grow">
+        <div className="container flex min-w-0 grow flex-col">
           <p className="text-xs text-slate-600">
             Sources:
             {product.sources.length ? (
-              <ul className="mt-1.5 space-y-1.5">
+              <ul className="mt-1.5 min-w-0 space-y-1.5">
                 {product.sources.map((source, index) => (
                   <SourceCard
                     key={index}
@@ -157,7 +207,7 @@ export default function ProductCard({ product: item }) {
         </div>
         <div className="card-actions justify-end">
           {isPending ? (
-            <span className="btn btn-primary btn-disabled">Resolving…</span>
+            <span className="btn btn-primary btn-disabled">Checking the find…</span>
           ) : isError ? (
             <span className="btn btn-ghost btn-disabled text-warning">Couldn&apos;t load link</span>
           ) : product.amazon_id ? (

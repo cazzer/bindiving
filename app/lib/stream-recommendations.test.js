@@ -92,13 +92,13 @@ describe('streamEventToMessage', () => {
     expect(streamEventToMessage({ type: 123 })).toBe(null)
   })
   it('maps known event types to messages', () => {
-    expect(streamEventToMessage({ type: 'keepalive' })).toBe('Waiting for response...')
-    expect(streamEventToMessage({ type: 'response.completed' })).toBe('Complete')
+    expect(streamEventToMessage({ type: 'keepalive' })).toBe('Rummaging...')
+    expect(streamEventToMessage({ type: 'response.completed' })).toBe('Done digging.')
     expect(
       streamEventToMessage({
         type: 'response.output_item.added',
         item: { type: 'web_search_call' }
       })
-    ).toBe('Searching the web...')
+    ).toBe('Digging through the web...')
   })
 })

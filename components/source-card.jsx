@@ -136,7 +136,7 @@ export default function SourceCard({ source, index, origin }) {
         href={preview.url || link}
         target="_blank"
         rel="noreferrer"
-        className="flex overflow-hidden rounded-lg border border-base-300 bg-base-200/50 text-left no-underline shadow-sm transition hover:border-base-content/20 hover:shadow"
+        className="flex max-w-full min-w-0 overflow-hidden rounded-lg border border-base-300 bg-base-200/50 text-left no-underline shadow-sm transition hover:border-base-content/20 hover:shadow"
       >
         {preview.image ? (
           <div className="h-20 w-24 shrink-0 bg-base-300">
