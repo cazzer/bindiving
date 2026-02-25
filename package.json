@@ -28,7 +28,7 @@
     "markdown-to-jsx": "^7.7.15",
     "netlify": "^23.9.1",
     "netlify-cli": "^23.9.1",
-    "next": "^15.3.2",
+    "next": "15.5.9",
     "openai": "^6.2.0",
     "react": "19.2.0",
     "react-dom": "19.2.0",
