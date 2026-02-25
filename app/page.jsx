@@ -44,6 +44,25 @@ const PLACEHOLDER_LIST = [
   `edible candle`
 ]
 
+// Seeded shuffle so order is random but deterministic (same on SSR and client = no flash). Seed by UTC minute so refreshes after a minute get new order.
+function seededShuffle(arr, seed) {
+  const out = [...arr]
+  let s = seed
+  const next = () => {
+    s = (s * 1103515245 + 12345) & 0x7fffffff
+    return s / 0x7fffffff
+  }
+  for (let i = out.length - 1; i > 0; i--) {
+    const j = Math.floor(next() * (i + 1));
+    [out[i], out[j]] = [out[j], out[i]]
+  }
+  return out
+}
+
+const MINUTE_SEED = typeof Date !== 'undefined' ? Math.floor(Date.now() / 60000) : 0
+const PLACEHOLDERS = seededShuffle(PLACEHOLDER_LIST, MINUTE_SEED)
+const SUGGESTED = PLACEHOLDERS.slice(0, 4)
+
 const POLL_INTERVAL_MS = 3000
 
 const POLL_STATUS_MESSAGES = ['Checking for results...', 'Still digging...', 'Almost there...']
@@ -85,15 +104,13 @@ export default function Page() {
   const { executeRecaptcha } = useGoogleReCaptcha()
   const { setHasResults, setSearchProps } = useSearchUI()
 
-  const placeholders = useMemo(
-    () => [...PLACEHOLDER_LIST].sort((a, b) => 0.5 - Math.random()),
-    []
-  )
-  const suggested = useMemo(() => placeholders.slice(0, 4), [placeholders])
+  const placeholders = PLACEHOLDERS
+  const suggested = SUGGESTED
 
   const hasResults = Boolean(recResponse?.recommendations?.length)
   useEffect(() => {
-    setHasResults(hasResults)
+    const id = requestAnimationFrame(() => setHasResults(hasResults))
+    return () => cancelAnimationFrame(id)
   }, [hasResults, setHasResults])
 
   const onQueryUpdate = useCallback((event) => {
@@ -102,12 +119,15 @@ export default function Page() {
 
   const onSearchRef = useRef(() => {})
   useEffect(() => {
-    setSearchProps({
-      query,
-      onQueryUpdate,
-      onSubmit: (e) => onSearchRef.current(e),
-      placeholder: 'Search again...'
+    const id = requestAnimationFrame(() => {
+      setSearchProps({
+        query,
+        onQueryUpdate,
+        onSubmit: (e) => onSearchRef.current(e),
+        placeholder: 'Search again...'
+      })
     })
+    return () => cancelAnimationFrame(id)
   }, [query, onQueryUpdate, setSearchProps])
 
   async function getResolvedRecommendations({ recommendations = null, responseId = null }) {
