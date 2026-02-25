@@ -1,4 +1,5 @@
 import { useEffect, useState } from 'react'
+import Input from './input'
 
 export default function SearchBox({ value, onChange, placeholders }) {
   const [placeholderValue, setPlaceholderValue] = useState('')
@@ -19,5 +20,5 @@ export default function SearchBox({ value, onChange, placeholders }) {
     return () => clearInterval(placeholderInterval)
   })
 
-  return <input autoFocus type="text" className="input input-bordered w-full" value={value} onChange={onChange} />
+  return <Input autoFocus value={value} onChange={onChange} />
 }

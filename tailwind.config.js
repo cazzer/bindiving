@@ -12,7 +12,9 @@ module.exports = {
     extend: {
       backgroundImage: {
         'grid-pattern':
-          "linear-gradient(to bottom, theme('colors.neutral.950 / 0%'), theme('colors.neutral.950 / 100%')), url('/images/noise.png')"
+          "linear-gradient(to bottom, theme('colors.neutral.950 / 0%'), theme('colors.neutral.950 / 100%')), url('/images/noise.png')",
+        'hero-gradient':
+          'radial-gradient(ellipse 80% 50% at 0% 0%, rgb(241 245 249), transparent 50%), radial-gradient(ellipse 80% 50% at 100% 100%, rgb(226 232 240), transparent 50%)'
       },
       colors: {
         neutral: colors.neutral

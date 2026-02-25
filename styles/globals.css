@@ -4,6 +4,12 @@
 @tailwind components;
 @tailwind utilities;
 
+@layer components {
+  .search-input {
+    @apply input input-bordered w-full rounded-lg focus:outline-none focus:ring-2 focus:ring-primary focus:border-transparent;
+  }
+}
+
 @layer base {
   :not(pre) > code {
     @apply px-1 py-0.5 font-mono rounded bg-neutral-900 text-yellow-200;
