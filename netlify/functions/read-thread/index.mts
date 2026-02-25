@@ -13,6 +13,7 @@ const openai = new OpenAI({
 export default async function readThread(req: Request, context: Context) {
   const url = new URL(req.url)
   const responseId = url.searchParams.get('response-id')
+  const raw = url.searchParams.get('raw') === '1'
 
   if (!responseId) {
     return new Response(JSON.stringify({ valid: false, message: 'Response ID must be provided' }))
@@ -32,7 +33,14 @@ export default async function readThread(req: Request, context: Context) {
 
   if (response && response.output_text) {
     try {
-      const recommendations = JSON.parse(response.output_text)
+      const parsed = JSON.parse(response.output_text)
+      const recommendations = Array.isArray(parsed) ? parsed : [parsed]
+      if (raw) {
+        return new Response(
+          JSON.stringify({ valid: true, recommendations }),
+          { headers: { 'Content-Type': 'application/json' } }
+        )
+      }
       const result = await resolveRecommendations(recommendations)
       if (!result.valid) {
         return new Response(JSON.stringify(result))

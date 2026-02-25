@@ -40,3 +40,31 @@ a {
 .btn:disabled {
   @apply text-neutral-400 bg-neutral-700;
 }
+
+@keyframes search-in {
+  from {
+    opacity: 0;
+    transform: translateY(-8px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+@keyframes fade-in {
+  from {
+    opacity: 0;
+  }
+  to {
+    opacity: 1;
+  }
+}
+
+.animate-search-in {
+  animation: search-in 0.35s ease-in forwards;
+}
+
+.animate-fade-in {
+  animation: fade-in 0.3s ease-in forwards;
+}

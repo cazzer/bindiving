@@ -1,6 +1,6 @@
 'use client'
 
-import { useState } from 'react'
+import { useState, useEffect, useCallback, useRef } from 'react'
 import { sendGAEvent } from '@next/third-parties/google'
 import { useGoogleReCaptcha } from 'react-google-recaptcha-v3'
 
@@ -9,6 +9,8 @@ import PillSearchBar from '../components/pill-search-bar'
 import Digging from 'components/digging'
 import ErrorResponseParser from 'components/error-response-parser'
 import { Footer } from 'components/footer'
+import { useSearchUI } from '../contexts/search-ui-context'
+import { STREAM_ENABLED } from '../config'
 
 const PLACEHOLDERS = [
   `blister-proof running socks`,
@@ -40,31 +42,99 @@ const PLACEHOLDERS = [
 const SUGGESTED = PLACEHOLDERS.slice(0, 4)
 
 const POLL_INTERVAL_MS = 3000
-const SEARCH_MODE_KEY = 'bindiving_search_mode'
 
-function getSearchMode() {
-  if (typeof window === 'undefined') return 'polling'
-  const params = new URLSearchParams(window.location.search)
-  if (params.get('stream') === '1') return 'streaming'
-  if (params.get('stream') === '0') return 'polling'
-  return localStorage.getItem(SEARCH_MODE_KEY) || 'polling'
-}
-
-// Map OpenAI stream event types to short UI messages
-function streamEventToMessage(type) {
+// Map OpenAI stream events to short UI messages (pass full event for richer feedback)
+function streamEventToMessage(event) {
+  if (!event || typeof event !== 'object') return null
+  const type = event.type
   if (!type || typeof type !== 'string') return null
   if (type === 'keepalive') return 'Waiting for response...'
+  if (type === 'response.output_item.added') {
+    const itemType = event.item?.type
+    if (itemType === 'web_search_call') return 'Searching the web...'
+    if (itemType === 'message') return 'Writing recommendations...'
+  }
+  if (type === 'response.output_item.done' && event.item?.type === 'web_search_call') {
+    const query = event.item?.action?.query || event.item?.action?.queries?.[0]
+    if (query) return `Searched: ${query}`
+    return 'Found sources.'
+  }
   if (type.includes('web_search_call')) {
     if (type.includes('searching')) return 'Searching the web...'
     if (type.includes('completed')) return 'Found sources.'
   }
-  if (type === 'response.output_text.delta') return 'Writing recommendations...'
-  if (type === 'response.completed') return 'Almost there...'
+  if (type === 'response.output_text.annotation.added' && event.annotation?.type === 'url_citation') {
+    const title = event.annotation?.title
+    if (title) return `Source: ${title}`
+  }
+  if (type === 'response.output_text.delta') return null
+  if (type === 'response.output_text.done') return 'Almost there...'
+  if (type === 'response.completed') {
+    const outTokens = event.response?.usage?.output_tokens
+    if (outTokens != null) return `Complete (${outTokens} tokens)`
+    return 'Complete'
+  }
   if (type === 'response.created' || type === 'response.in_progress') return 'Starting...'
   return null
 }
 
 const POLL_STATUS_MESSAGES = ['Checking for results...', 'Still digging...', 'Almost there...']
+
+// Extract complete product objects from partial JSON array string (streaming).
+function parsePartialRecommendations(buffer) {
+  if (!buffer || typeof buffer !== 'string') return []
+  const s = buffer.trim()
+  if (!s.startsWith('[')) return []
+  let arr = null
+  if (s.endsWith(']')) {
+    try {
+      arr = JSON.parse(s)
+    } catch (_) {}
+  }
+  if (!arr && s.includes(']')) {
+    try {
+      arr = JSON.parse(s + ']')
+    } catch (_) {}
+  }
+  if (!arr) {
+    const last = s.lastIndexOf('},{')
+    if (last !== -1) {
+      try {
+        arr = JSON.parse(s.substring(0, last + 1) + ']')
+      } catch (_) {}
+    }
+  }
+  if (!Array.isArray(arr)) return []
+  return arr.filter((x) => x && typeof x === 'object' && x.product_name != null)
+}
+
+function normalizeSource(source) {
+  if (source && typeof source === 'object' && source.link != null) {
+    return { link: String(source.link), description: source.description != null ? String(source.description) : undefined }
+  }
+  const s = typeof source === 'string' ? source.trim() : ''
+  if (!s) return { link: '', description: undefined }
+  const idx = s.indexOf(' (')
+  if (idx > 0 && s.includes(')', idx)) {
+    return {
+      link: s.slice(0, idx).trim(),
+      description: s.slice(idx + 2, s.lastIndexOf(')')).trim()
+    }
+  }
+  return { link: s, description: undefined }
+}
+
+function wrapAsRecommendationItem(raw, status = 'pending') {
+  return {
+    ...raw,
+    pros: Array.isArray(raw.pros) ? raw.pros : [],
+    cons: Array.isArray(raw.cons) ? raw.cons : [],
+    sources: Array.isArray(raw.sources) ? raw.sources.map(normalizeSource) : [],
+    _resolveStatus: status,
+    _resolved: undefined,
+    _error: undefined
+  }
+}
 
 export default function Page() {
   const [query, setQuery] = useState('')
@@ -73,10 +143,26 @@ export default function Page() {
   const [streamStatus, setStreamStatus] = useState(null)
   const [lastResponseId, setLastResponseId] = useState(null)
   const { executeRecaptcha } = useGoogleReCaptcha()
+  const { setHasResults, setSearchProps } = useSearchUI()
 
-  function onQueryUpdate(event) {
+  const hasResults = Boolean(recResponse?.recommendations?.length)
+  useEffect(() => {
+    setHasResults(hasResults)
+  }, [hasResults, setHasResults])
+
+  const onQueryUpdate = useCallback((event) => {
     setQuery(event.target.value)
-  }
+  }, [])
+
+  const onSearchRef = useRef(() => {})
+  useEffect(() => {
+    setSearchProps({
+      query,
+      onQueryUpdate,
+      onSubmit: (e) => onSearchRef.current(e),
+      placeholder: 'Search again...'
+    })
+  }, [query, onQueryUpdate, setSearchProps])
 
   async function getResolvedRecommendations({ recommendations = null, responseId = null }) {
     const origin = typeof location !== 'undefined' ? location.origin : ''
@@ -97,8 +183,47 @@ export default function Page() {
     return { valid: false, message: 'No recommendations or response id' }
   }
 
+  async function resolveOneProduct(index, rawProduct, setRecResponse) {
+    const origin = typeof location !== 'undefined' ? location.origin : ''
+    try {
+      const res = await fetch(`${origin}/api/resolve-product`, {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify({ recommendation: rawProduct })
+      })
+      const data = await res.json()
+      setRecResponse((prev) => {
+        const recs = [...(prev?.recommendations ?? [])]
+        if (recs[index] == null) return prev
+        recs[index] = {
+          ...recs[index],
+          _resolveStatus: data.valid ? 'resolved' : 'error',
+          _resolved: data.valid ? data.product : undefined,
+          _error: data.valid ? undefined : (data.message || "Couldn't load link")
+        }
+        return { ...prev, valid: true, recommendations: recs }
+      })
+    } catch (_) {
+      setRecResponse((prev) => {
+        const recs = [...(prev?.recommendations ?? [])]
+        if (recs[index] == null) return prev
+        recs[index] = { ...recs[index], _resolveStatus: 'error', _error: "Couldn't load link" }
+        return { ...prev, valid: true, recommendations: recs }
+      })
+    }
+  }
+
+  async function getRawRecommendations(responseId) {
+    const origin = typeof location !== 'undefined' ? location.origin : ''
+    const res = await fetch(
+      `${origin}/api/read-thread?response-id=${encodeURIComponent(responseId)}&raw=1`,
+      { method: 'GET' }
+    )
+    return res.json()
+  }
+
   async function runPolling(responseId, { append = false } = {}) {
-    const url = `${location.origin}/api/read-thread?response-id=${encodeURIComponent(responseId)}`
+    const url = `${location.origin}/api/read-thread?response-id=${encodeURIComponent(responseId)}&raw=1`
     let pollCount = 0
     for (;;) {
       setStreamStatus(POLL_STATUS_MESSAGES[pollCount % POLL_STATUS_MESSAGES.length])
@@ -111,14 +236,21 @@ export default function Page() {
       }
       setStreamStatus(null)
       setApiRequestState('resolved')
-      if (append && data.valid && data.recommendations?.length) {
-        setRecResponse((prev) => ({
-          ...data,
-          recommendations: [...(prev?.recommendations ?? []), ...data.recommendations]
-        }))
-      } else {
+      const rawList = data.valid && Array.isArray(data.recommendations) ? data.recommendations : []
+      if (rawList.length === 0 && !data.valid) {
         setRecResponse(data)
+        return
       }
+      const wrapped = rawList.map((r) => wrapAsRecommendationItem(r, 'pending'))
+      let startIdx = 0
+      setRecResponse((prev) => {
+        const base = append ? (prev?.recommendations ?? []) : []
+        startIdx = base.length
+        return { valid: true, recommendations: [...base, ...wrapped] }
+      })
+      rawList.forEach((raw, i) => {
+        setTimeout(() => resolveOneProduct(startIdx + i, raw, setRecResponse), 0)
+      })
       return
     }
   }
@@ -130,6 +262,8 @@ export default function Page() {
     let buffer = ''
     let responseId = null
     let outputText = ''
+    const currentRun = []
+
     while (true) {
       const { done, value } = await reader.read()
       if (done) break
@@ -142,10 +276,18 @@ export default function Page() {
           if (payload === '[DONE]') continue
           try {
             const event = JSON.parse(payload)
-            const msg = streamEventToMessage(event?.type)
+            const msg = streamEventToMessage(event)
             if (msg) setStreamStatus(msg)
             if (event?.type === 'response.output_text.delta' && typeof event?.delta === 'string') {
               outputText += event.delta
+              if (!msg && outputText.includes('"steps"') && parsePartialRecommendations(outputText).length === 0) {
+                setStreamStatus('Building plan…')
+              } else if (!msg) {
+                setStreamStatus('Writing recommendations...')
+              }
+            }
+            if (event?.type === 'response.output_text.done' && typeof event?.text === 'string') {
+              outputText = event.text
             }
             if (event?.type === 'response.completed' || event?.type === 'response.created') {
               const id = event?.response?.id ?? event?.id
@@ -157,32 +299,57 @@ export default function Page() {
           } catch (_) {}
         }
       }
+      const partial = parsePartialRecommendations(outputText)
+      if (partial.length > currentRun.length) {
+        const newRaws = partial.slice(currentRun.length)
+        if (currentRun.length === 0 && newRaws[0]?.product_name) {
+          setStreamStatus(`Found: ${newRaws[0].product_name}`)
+        }
+        newRaws.forEach((raw) => currentRun.push(wrapAsRecommendationItem(raw, 'pending')))
+        let resolveStartIdx = 0
+        setRecResponse((prev) => {
+          const base = append ? (prev?.recommendations ?? []) : []
+          resolveStartIdx = base.length
+          return { valid: true, recommendations: [...base, ...currentRun] }
+        })
+        newRaws.forEach((raw, i) => {
+          setTimeout(() => resolveOneProduct(resolveStartIdx + i, raw, setRecResponse), 0)
+        })
+      }
     }
-    setStreamStatus('Resolving products...')
-    let recommendations = null
-    try {
-      if (outputText.trim()) recommendations = JSON.parse(outputText.trim())
-    } catch (_) {}
-    const data =
-      Array.isArray(recommendations) && recommendations.length > 0
-        ? await getResolvedRecommendations({ recommendations })
-        : responseId
-          ? await getResolvedRecommendations({ responseId })
-          : { valid: false, message: 'Stream ended without response id' }
+
+    if (currentRun.length === 0 && outputText.trim()) {
+      let rawList = []
+      try {
+        const parsed = JSON.parse(outputText.trim())
+        rawList = Array.isArray(parsed) ? parsed : (parsed?.recommendations && Array.isArray(parsed.recommendations) ? parsed.recommendations : [])
+      } catch (_) {}
+      if (rawList.length > 0) {
+        setStreamStatus('Resolving products...')
+        const wrapped = rawList.map((r) => wrapAsRecommendationItem(r, 'pending'))
+        let resolveStartIdx = 0
+        setRecResponse((prev) => {
+          const base = append ? (prev?.recommendations ?? []) : []
+          resolveStartIdx = base.length
+          return { valid: true, recommendations: [...base, ...wrapped] }
+        })
+        rawList.forEach((raw, i) => {
+          setTimeout(() => resolveOneProduct(resolveStartIdx + i, raw, setRecResponse), 0)
+        })
+      } else {
+        setRecResponse({ valid: false, message: 'Could not get recommendations from stream.' })
+      }
+    } else if (currentRun.length === 0) {
+      setRecResponse({ valid: false, message: responseId ? 'Could not get recommendations from stream.' : 'Stream ended without response id' })
+    }
+
+    await new Promise((r) => setTimeout(r, 800))
     setStreamStatus(null)
     setApiRequestState('resolved')
-    if (append && data.valid && data.recommendations?.length) {
-      setRecResponse((prev) => ({
-        ...data,
-        recommendations: [...(prev?.recommendations ?? []), ...data.recommendations]
-      }))
-    } else {
-      setRecResponse(data)
-    }
   }
 
   async function runSearch({ intent, recaptchaToken }) {
-    const mode = getSearchMode()
+    const mode = STREAM_ENABLED ? 'streaming' : 'polling'
     const append = intent === 'more'
     const origin = typeof location !== 'undefined' ? location.origin : ''
 
@@ -260,13 +427,16 @@ export default function Page() {
 
   async function onSearch(event) {
     event.preventDefault()
-    const recaptchaToken = await executeRecaptcha('search')
-    sendGAEvent({ event: 'search', value: query })
+    setRecResponse(null)
     setStreamStatus(null)
     setApiRequestState('pending')
     setLastResponseId(null)
+    const recaptchaToken = await executeRecaptcha('search')
+    sendGAEvent({ event: 'search', value: query })
     await runSearch({ intent: 'initial', recaptchaToken })
   }
+
+  onSearchRef.current = onSearch
 
   async function onMoreOptions() {
     if (!lastResponseId) return
@@ -307,15 +477,6 @@ export default function Page() {
                 </div>
               </div>
             </section>
-          )}
-          {recResponse?.recommendations?.length > 0 && (
-            <PillSearchBar
-              size="compact"
-              value={query}
-              onChange={onQueryUpdate}
-              onSubmit={onSearch}
-              placeholder="Search again..."
-            />
           )}
         </>
       )}

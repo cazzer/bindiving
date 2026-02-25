@@ -1,6 +1,6 @@
 /**
  * Edge function: stream OpenAI Responses API events to the client.
- * Used when search mode is "streaming" (toggle via ?stream=1 or localStorage bindiving_search_mode).
+ * Used when search mode is "streaming" (see config.js STREAM_ENABLED).
  * Keeps connection open until OpenAI stream ends, then client calls read-thread for final resolved list.
  */
 

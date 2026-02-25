@@ -3,7 +3,7 @@ import { GoogleAnalytics } from '@next/third-parties/google'
 import '../styles/globals.css'
 import { Footer } from '../components/footer'
 import { Header } from '../components/header'
-import { StreamModeBadge } from '../components/stream-mode-badge'
+import { SearchUIProvider } from '../contexts/search-ui-context'
 import GoogleCaptchaWrapper from 'components/google-recaptcha-provider'
 
 export const metadata = {
@@ -21,13 +21,14 @@ export default function RootLayout({ children }) {
       </head>
       <GoogleAnalytics gaId="G-JZ9YSG1L4D" />
       <body className="antialiased text-neutral-800 bg-white bg-hero-gradient min-h-screen">
-        <StreamModeBadge />
         <div className="flex flex-col min-h-screen px-6 sm:px-12">
           <div className="flex flex-col w-full max-w-5xl mx-auto grow">
-            <Header />
-            <GoogleCaptchaWrapper>
-              <div className="grow">{children}</div>
-            </GoogleCaptchaWrapper>
+            <SearchUIProvider>
+              <Header />
+              <GoogleCaptchaWrapper>
+                <div className="grow">{children}</div>
+              </GoogleCaptchaWrapper>
+            </SearchUIProvider>
           </div>
         </div>
       </body>

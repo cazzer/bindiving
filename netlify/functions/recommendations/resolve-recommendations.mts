@@ -49,3 +49,13 @@ export async function resolveRecommendations(recommendations: OpenAiProduct[]): 
   }
   return { valid: true, recommendations: validProducts }
 }
+
+export type ResolveOneResult = { valid: true; product: OpenAiProduct & { valid: true } } | { valid: false; message?: string }
+
+export async function resolveOne(recommendation: OpenAiProduct): Promise<ResolveOneResult> {
+  const result = await resolveProduct(recommendation, resolveAmazonProduct)
+  if (result.valid) {
+    return { valid: true, product: result }
+  }
+  return { valid: false, message: "Couldn't resolve this product." }
+}
