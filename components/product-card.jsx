@@ -181,7 +181,7 @@ export default function ProductCard({ product: item }) {
         </h3>
         <div className="flex flex-col gap-4 sm:flex-row sm:flex-wrap min-w-0">
           <div className="flex min-w-0 flex-col gap-1.5 sm:grow">
-            <p className="flex items-center gap-1.5 text-sm font-bold text-success" aria-hidden>
+            <p className="flex items-center gap-1.5 text-sm font-bold text-emerald-800 dark:text-emerald-400" aria-hidden>
               <CheckIcon />
               Pros
             </p>
@@ -194,7 +194,7 @@ export default function ProductCard({ product: item }) {
             </ul>
           </div>
           <div className="flex min-w-0 flex-col gap-1.5 sm:grow">
-            <p className="flex items-center gap-1.5 text-sm font-bold text-warning" aria-hidden>
+            <p className="flex items-center gap-1.5 text-sm font-bold text-amber-800 dark:text-amber-400" aria-hidden>
               <MinusIcon />
               Cons
             </p>
