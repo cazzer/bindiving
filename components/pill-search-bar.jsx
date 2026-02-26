@@ -39,7 +39,7 @@ export default function PillSearchBar({
   autoFocus = false
 }) {
   const [animatedPlaceholder, setAnimatedPlaceholder] = useState('')
-  const indexRef = useRef(0)
+  const indexRef = useRef(4)
   const isHero = size === 'hero'
   const s = sizes[size] || sizes.hero
 
@@ -90,7 +90,7 @@ export default function PillSearchBar({
         <button
           type="submit"
           className={cn(
-            'shrink-0 bg-primary text-primary-content hover:bg-primary/90 font-medium transition-colors border-0 border-l-2 border-[var(--retro-border)]',
+            'shrink-0 bg-primary text-primary-content hover:bg-primary/90 font-medium transition-colors',
             s.button
           )}
         >
