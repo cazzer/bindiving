@@ -31,7 +31,7 @@ export function Header() {
               alt="Bin Diving"
               width={32}
               height={32}
-              className="transition-all duration-300 ease-in"
+              className="site-logo transition-all duration-300 ease-in"
             />
             <h1 className="hidden md:block font-bold tracking-tight text-base-content transition-all duration-300 ease-in m-0 text-xl">
               Bin Diving
@@ -54,14 +54,14 @@ export function Header() {
             <div className="flex-1" />
             <Link
               href="/"
-              className="flex flex-col items-center gap-4 text-center shrink-0"
+              className="flex flex-row items-center gap-3 text-center shrink-0"
             >
               <Image
                 src={logo}
                 alt="Bin Diving"
                 width={56}
                 height={56}
-                className="transition-all duration-300 ease-in"
+                className="site-logo transition-all duration-300 ease-in"
               />
               <h1 className="font-bold tracking-tight text-base-content text-3xl sm:text-4xl m-0">
                 Bin Diving

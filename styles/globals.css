@@ -17,6 +17,10 @@
   --hero-gradient: radial-gradient(ellipse 80% 50% at 0% 0%, rgb(38 38 38), transparent 50%), radial-gradient(ellipse 80% 50% at 100% 100%, rgb(23 23 23), transparent 50%);
 }
 
+[data-theme="lofi-dark"] .site-logo {
+  filter: brightness(0) invert(1);
+}
+
 .theme-page {
   background-color: var(--page-bg);
   color: var(--page-text);
