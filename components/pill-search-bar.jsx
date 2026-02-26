@@ -67,7 +67,7 @@ export default function PillSearchBar({
     <form onSubmit={onSubmit} className={cn(s.form, formClassName)}>
       <div
         className={cn(
-          'flex rounded-full bg-white border border-neutral-200 overflow-hidden focus-within:ring-2 focus-within:ring-blue-500 focus-within:border-blue-500',
+          'flex rounded-2xl bg-white border-2 overflow-hidden focus-within:ring-2 focus-within:ring-primary focus-within:border-primary border-[var(--retro-border,theme(colors.neutral.300))]',
           s.wrapper
         )}
       >
@@ -82,7 +82,7 @@ export default function PillSearchBar({
             onChange={onChange}
             placeholder={placeholder}
             className={cn(
-              'w-full border-0 rounded-l-full bg-transparent text-neutral-900 placeholder:text-neutral-400 focus:ring-0 focus:outline-none',
+              'w-full border-0 rounded-l-2xl bg-transparent text-neutral-900 placeholder:text-neutral-400 focus:ring-0 focus:outline-none',
               s.input
             )}
           />
@@ -90,7 +90,7 @@ export default function PillSearchBar({
         <button
           type="submit"
           className={cn(
-            'shrink-0 rounded-r-full bg-blue-500 hover:bg-blue-600 text-white font-medium transition-colors',
+            'shrink-0 bg-primary text-primary-content hover:bg-primary/90 font-medium transition-colors border-0 border-l-2 border-[var(--retro-border)]',
             s.button
           )}
         >

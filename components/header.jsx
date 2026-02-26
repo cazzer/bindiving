@@ -16,7 +16,7 @@ export function Header() {
 
   return (
     <header
-      className={`flex items-center transition-all duration-300 ease-in ${
+      className={`flex items-center transition-all duration-300 ease-in border-b-2 border-[var(--retro-border)] ${
         hasResults ? 'flex-row py-4' : 'flex-col pt-12 pb-8 sm:pt-16 sm:pb-12'
       }`}
     >
@@ -69,7 +69,7 @@ export function Header() {
             </Link>
             <ThemeSwitcher className="shrink-0 flex-1 justify-end" />
           </div>
-          <p className="mt-4 max-w-xl text-sm text-base-content/70 sm:text-base text-center animate-fade-in">
+          <p className="mt-4 max-w-xl text-sm text-base-content/70 sm:text-base text-center animate-fade-in font-display">
             {TAGLINE}
           </p>
         </>

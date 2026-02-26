@@ -436,7 +436,7 @@ export default function Page() {
   }
 
   return (
-    <main className="flex flex-col gap-8 sm:gap-10">
+    <main className="mt-6 sm:mt-8 flex flex-col gap-8 sm:gap-10">
       {apiRequestState === 'pending' && !recResponse?.recommendations?.length ? (
         <Digging streamStatus={streamStatus} />
       ) : (
@@ -452,14 +452,14 @@ export default function Page() {
                 autoFocus
               />
               <div className="flex flex-col items-center gap-3">
-                <p className="text-sm text-neutral-600">Try searching for:</p>
+                <p className="text-sm text-base-content/70 font-display">Try searching for:</p>
                 <div className="flex flex-wrap justify-center gap-2">
                   {suggested.map((term) => (
                     <button
                       key={term}
                       type="button"
                       onClick={() => onSearchRef.current?.({ preventDefault: () => {} }, term)}
-                      className="px-4 py-2 rounded-full text-sm font-medium text-neutral-700 bg-neutral-100 hover:bg-neutral-200 transition-colors"
+                      className="px-4 py-2 rounded-lg text-sm font-medium border-2 border-[var(--retro-border)] bg-base-100 hover:bg-base-200 transition-colors font-display"
                     >
                       {term}
                     </button>

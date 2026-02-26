@@ -44,8 +44,9 @@ function renderWithMarkdownLinks(str, keyPrefix) {
 }
 
 const imageStyle = {
-  objectFit: 'cover',
-  maxHeight: '100%'
+  objectFit: 'contain',
+  width: '100%',
+  height: '100%'
 }
 
 function CheckIcon() {
@@ -129,27 +130,43 @@ export default function ProductCard({ product: item }) {
 
   return (
     <div className="text-base-content card md:card-side bg-base-100 shadow-xl">
-      <figure className="max-h-60 w-80 self-center md:max-h-80 md:w-96 md:min-w-96 md:pl-4 md:pt-4 md:pb-4" style={{ alignItems: 'normal' }}>
-        {isPending ? (
-          <div className="flex h-48 w-80 md:h-64 md:w-96 items-center justify-center bg-base-200 text-sm text-base-content/60">
-            Checking the find…
-          </div>
-        ) : isError ? (
-          <div className="flex h-48 w-80 md:h-64 md:w-96 items-center justify-center bg-base-200 text-sm text-warning">
-            Couldn&apos;t load link
-          </div>
-        ) : product.resolver === 'amazon' && product.images?.length ? (
-          <Carousel dynamicHeight={false} showThumbs={false}>
-            {product.images.map((image, index) => (
-              <img style={imageStyle} key={index} src={image} alt={`Image ${index + 1} of ${product.product_name}`} />
-            ))}
-          </Carousel>
-        ) : (
-          <img style={imageStyle} src={src} alt={`Image of ${product.product_name}`} />
-        )}
+      <figure
+        className="w-full p-4 md:w-96 md:min-w-96 md:shrink-0 md:pl-6 md:pt-6 md:pb-6 md:pr-4"
+        style={{ alignItems: 'normal' }}
+      >
+        <div className="aspect-[4/3] w-full overflow-hidden rounded-lg flex items-center justify-center border border-[var(--image-frame-border)]">
+          {isPending ? (
+            <div className="flex h-full w-full items-center justify-center text-sm text-base-content/60">
+              Checking the find…
+            </div>
+          ) : isError ? (
+            <div className="flex h-full w-full items-center justify-center text-sm font-bold text-warning">
+              Couldn&apos;t load link
+            </div>
+          ) : product.resolver === 'amazon' && product.images?.length ? (
+            <Carousel
+              dynamicHeight={false}
+              showThumbs={false}
+              className="h-full w-full [&_.carousel]:!h-full [&_.carousel-slider]:!h-full [&_.slider-wrapper]:!h-full [&_.slide]:!h-full [&_.slide]:!flex [&_.slide]:!items-center [&_.slide]:!justify-center"
+            >
+              {product.images.map((image, index) => (
+                <div key={index} className="h-full w-full flex items-center justify-center">
+                  <img style={imageStyle} src={image} alt={`Image ${index + 1} of ${product.product_name}`} />
+                </div>
+              ))}
+            </Carousel>
+          ) : (
+            <img
+              style={imageStyle}
+              src={src}
+              alt={`Image of ${product.product_name}`}
+              className="max-h-full max-w-full"
+            />
+          )}
+        </div>
       </figure>
-      <div className="card-body p-3 sm:p-6">
-        <h2 className="card-title">{product.product_name}</h2>
+      <div className="card-body p-3 sm:p-6 min-w-0">
+        <h2 className="card-title break-words">{product.product_name}</h2>
         {product.brand && <h3>Sold by: {product.brand}</h3>}
         <h3>
           {product.price != null && product.price !== '' ? (
@@ -164,24 +181,28 @@ export default function ProductCard({ product: item }) {
         </h3>
         <div className="flex flex-col gap-4 sm:flex-row sm:flex-wrap min-w-0">
           <div className="flex min-w-0 flex-col gap-1.5 sm:grow">
-            <p className="flex items-center gap-1.5 text-sm font-medium text-success" aria-hidden>
+            <p className="flex items-center gap-1.5 text-sm font-bold text-success" aria-hidden>
               <CheckIcon />
               Pros
             </p>
-            <ul className="list-disc list-inside space-y-1">
+            <ul className="list-disc list-inside space-y-1 min-w-0 break-words">
               {product.pros.map((pro, index) => (
-                <li key={index} className="pl-[22px] [text-indent:-22px]">{renderWithMarkdownLinks(pro, `pro-${index}`)}</li>
+                <li key={index} className="pl-[22px] [text-indent:-22px] break-words">
+                  {renderWithMarkdownLinks(pro, `pro-${index}`)}
+                </li>
               ))}
             </ul>
           </div>
           <div className="flex min-w-0 flex-col gap-1.5 sm:grow">
-            <p className="flex items-center gap-1.5 text-sm font-medium text-warning" aria-hidden>
+            <p className="flex items-center gap-1.5 text-sm font-bold text-warning" aria-hidden>
               <MinusIcon />
               Cons
             </p>
-            <ul className="list-disc list-inside space-y-1">
+            <ul className="list-disc list-inside space-y-1 min-w-0 break-words">
               {product.cons.map((con, index) => (
-                <li key={index} className="pl-[22px] [text-indent:-22px]">{renderWithMarkdownLinks(con, `con-${index}`)}</li>
+                <li key={index} className="pl-[22px] [text-indent:-22px] break-words">
+                  {renderWithMarkdownLinks(con, `con-${index}`)}
+                </li>
               ))}
             </ul>
           </div>

@@ -7,17 +7,26 @@
 
 /* Top-level theme variables (light by default; dark theme overrides via [data-theme="lofi-dark"]). */
 :root {
-  --page-bg: #faf8f5;
-  --page-text: #3f3f3f;
-  --hero-gradient: radial-gradient(ellipse 80% 50% at 0% 0%, rgb(250 248 245), transparent 50%), radial-gradient(ellipse 80% 50% at 100% 100%, rgb(235 232 226), transparent 50%);
+  --page-bg: #f5f0e8;
+  --page-text: #3d3832;
+  --hero-gradient: radial-gradient(ellipse 80% 50% at 0% 0%, rgb(245 240 232), transparent 50%), radial-gradient(ellipse 80% 50% at 100% 100%, rgb(228 222 210), transparent 50%);
   --retro-heading: 'Fraunces', Georgia, serif;
+  --retro-border: #c4b8a8;
+  --retro-shadow: 3px 3px 0 rgba(0, 0, 0, 0.08);
+  /* Slightly warm off-white for product image frames so white-background photos don't clash */
+  --image-frame-bg: #faf8f4;
+  --image-frame-border: rgba(196, 184, 168, 0.5);
 }
 
 [data-theme="lofi-dark"] {
-  --page-bg: #171717;
-  --page-text: #e5e5e5;
-  --hero-gradient: radial-gradient(ellipse 80% 50% at 0% 0%, rgb(38 38 38), transparent 50%), radial-gradient(ellipse 80% 50% at 100% 100%, rgb(23 23 23), transparent 50%);
+  --page-bg: #1a1814;
+  --page-text: #e8e4dc;
+  --hero-gradient: radial-gradient(ellipse 80% 50% at 0% 0%, rgb(26 24 20), transparent 50%), radial-gradient(ellipse 80% 50% at 100% 100%, rgb(22 20 16), transparent 50%);
   --retro-heading: 'Fraunces', Georgia, serif;
+  --retro-border: #3d3832;
+  --retro-shadow: 3px 3px 0 rgba(0, 0, 0, 0.3);
+  --image-frame-bg: #252220;
+  --image-frame-border: rgba(61, 56, 50, 0.6);
 }
 
 [data-theme="lofi-dark"] .site-logo {
@@ -27,17 +36,41 @@
 .theme-page {
   background-color: var(--page-bg);
   color: var(--page-text);
+  position: relative;
+}
+
+/* Subtle paper grain overlay */
+.theme-page::after {
+  content: '';
+  position: fixed;
+  inset: 0;
+  pointer-events: none;
+  z-index: 9999;
+  opacity: 0.04;
+  background-image: url("data:image/svg+xml,%3Csvg viewBox='0 0 256 256' xmlns='http://www.w3.org/2000/svg'%3E%3Cfilter id='n'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.9' numOctaves='4' stitchTiles='stitch'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23n)'/%3E%3C/svg%3E");
 }
 
 @layer components {
   .search-input {
-    @apply input input-bordered w-full rounded-lg focus:outline-none focus:ring-2 focus:ring-primary focus:border-transparent;
+    @apply input w-full rounded-lg border-2 focus:outline-none focus:ring-2 focus:ring-primary focus:border-transparent;
+    border-color: var(--retro-border);
   }
   .bg-hero-gradient {
     background-image: var(--hero-gradient);
   }
-  .card {
-    @apply border border-base-300/80;
+  .theme-page .card {
+    border: 2px solid var(--retro-border);
+    border-radius: 0.5rem;
+    box-shadow: var(--retro-shadow);
+  }
+  .theme-page .btn {
+    border-radius: 0.5rem;
+    font-family: var(--retro-heading);
+    font-weight: 700;
+    border-width: 2px;
+  }
+  .theme-page .card-title {
+    font-family: var(--retro-heading);
   }
 }
 
@@ -54,7 +87,9 @@
 }
 
 a {
-  @apply underline;
+  text-decoration: underline;
+  text-underline-offset: 0.15em;
+  text-decoration-thickness: 1.5px;
 }
 
 .markdown {
