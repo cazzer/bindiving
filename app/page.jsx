@@ -1,6 +1,7 @@
 'use client'
 
 import { useState, useEffect, useCallback, useRef, useMemo } from 'react'
+import * as Sentry from '@sentry/nextjs'
 import { sendGAEvent } from '@next/third-parties/google'
 import { useGoogleReCaptcha } from 'react-google-recaptcha-v3'
 
@@ -128,6 +129,30 @@ export default function Page() {
   }, [setSearchProps])
 
   const onSearchRef = useRef(() => {})
+  const lastAwwShucksSignatureRef = useRef(null)
+
+  useEffect(() => {
+    if (apiRequestState === 'pending') return
+    if (recResponse?.valid !== false) return
+
+    const message = typeof recResponse?.message === 'string' ? recResponse.message : 'unknown_error'
+    const signature = `${message}::${lastResponseId || 'no_response_id'}::${query || 'no_query'}`
+    if (lastAwwShucksSignatureRef.current === signature) return
+    lastAwwShucksSignatureRef.current = signature
+
+    Sentry.withScope((scope) => {
+      scope.setLevel('error')
+      scope.setTag('ui_state', 'aww_shucks')
+      scope.setTag('error_surface', 'search_results')
+      scope.setContext('aww_shucks', {
+        apiRequestState,
+        message,
+        query,
+        hasResponseId: Boolean(lastResponseId)
+      })
+      Sentry.captureMessage('Aww Shucks screen shown')
+    })
+  }, [apiRequestState, lastResponseId, query, recResponse])
   useEffect(() => {
     const id = requestAnimationFrame(() => {
       setSearchProps({
@@ -315,6 +340,21 @@ export default function Page() {
           : apiMessage.length > 0
             ? (apiMessage.length > 500 ? apiMessage.slice(0, 500) + '…' : apiMessage)
             : 'Could not get recommendations from stream.'
+        if (!parseSucceeded) {
+          Sentry.withScope((scope) => {
+            scope.setLevel('error')
+            scope.setTag('error_kind', 'parse_failure')
+            scope.setTag('source', 'stream_output')
+            scope.setContext('parse_failure', {
+              outputLength: outputText.length,
+              outputPreview: apiMessage.slice(0, 500),
+              responseId: responseId || null,
+              append,
+              query
+            })
+            Sentry.captureMessage('Failed to parse streamed recommendations')
+          })
+        }
         setRecResponse({ valid: false, message })
       }
     } else if (currentRun.length === 0) {

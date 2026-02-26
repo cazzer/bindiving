@@ -40,4 +40,15 @@ netlify dev
 
 If your browser doesn't navigate to the site automatically, visit [localhost:8888](http://localhost:8888).
 
+## Error Monitoring (Sentry)
+
+This project supports Sentry for client/server/edge error capture.
+
+Set one or both of the following environment variables:
+
+- `NEXT_PUBLIC_SENTRY_DSN` (required for client-side/browser errors)
+- `SENTRY_DSN` (optional server/edge DSN override)
+
+When `NEXT_PUBLIC_SENTRY_DSN` is present, uncaught runtime exceptions and explicitly reported parsing failures are sent to Sentry.
+
 
