@@ -44,7 +44,7 @@ function renderWithMarkdownLinks(str, keyPrefix) {
 }
 
 const imageStyle = {
-  objectFit: 'contain',
+  objectFit: 'cover',
   maxHeight: '100%'
 }
 
@@ -129,13 +129,13 @@ export default function ProductCard({ product: item }) {
 
   return (
     <div className="text-base-content card md:card-side bg-base-100 shadow-xl">
-      <figure className="max-h-60 w-80 self-center" style={{ alignItems: 'normal' }}>
+      <figure className="max-h-60 w-80 self-center md:max-h-80 md:w-96 md:min-w-96 md:pl-4 md:pt-4 md:pb-4" style={{ alignItems: 'normal' }}>
         {isPending ? (
-          <div className="flex h-48 w-80 items-center justify-center bg-base-200 text-sm text-base-content/60">
+          <div className="flex h-48 w-80 md:h-64 md:w-96 items-center justify-center bg-base-200 text-sm text-base-content/60">
             Checking the find…
           </div>
         ) : isError ? (
-          <div className="flex h-48 w-80 items-center justify-center bg-base-200 text-sm text-warning">
+          <div className="flex h-48 w-80 md:h-64 md:w-96 items-center justify-center bg-base-200 text-sm text-warning">
             Couldn&apos;t load link
           </div>
         ) : product.resolver === 'amazon' && product.images?.length ? (

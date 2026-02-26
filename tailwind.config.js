@@ -19,7 +19,8 @@ module.exports = {
         neutral: colors.neutral
       },
       fontFamily: {
-        sans: ['Inter', ...defaultTheme.fontFamily.sans]
+        sans: ['Inter', ...defaultTheme.fontFamily.sans],
+        display: ['Fraunces', 'Georgia', 'serif']
       }
     }
   },

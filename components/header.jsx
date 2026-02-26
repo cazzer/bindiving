@@ -33,7 +33,7 @@ export function Header() {
               height={32}
               className="site-logo transition-all duration-300 ease-in"
             />
-            <h1 className="hidden md:block font-bold tracking-tight text-base-content transition-all duration-300 ease-in m-0 text-xl">
+            <h1 className="hidden md:block font-display font-bold tracking-tight text-base-content transition-all duration-300 ease-in m-0 text-xl">
               Bin Diving
             </h1>
           </Link>
@@ -63,7 +63,7 @@ export function Header() {
                 height={56}
                 className="site-logo transition-all duration-300 ease-in"
               />
-              <h1 className="font-bold tracking-tight text-base-content text-3xl sm:text-4xl m-0">
+              <h1 className="font-display font-bold tracking-tight text-base-content text-3xl sm:text-4xl m-0">
                 Bin Diving
               </h1>
             </Link>
