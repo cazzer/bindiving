@@ -122,8 +122,10 @@ export default function Page() {
   }, [hasResults, setHasResults])
 
   const onQueryUpdate = useCallback((event) => {
-    setQuery(event.target.value)
-  }, [])
+    const v = event.target.value
+    setQuery(v)
+    setSearchProps({ query: v })
+  }, [setSearchProps])
 
   const onSearchRef = useRef(() => {})
   useEffect(() => {

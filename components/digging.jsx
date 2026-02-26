@@ -28,5 +28,11 @@ export default function Digging({ streamStatus }) {
     return () => clearTimeout(t)
   }, [streamStatus])
 
-  return <p className="center">{diggingInfo}</p>
+  return (
+    <div className="w-full text-center py-8 sm:py-10">
+      <p className="text-lg sm:text-xl font-display font-medium text-base-content">
+        {diggingInfo}
+      </p>
+    </div>
+  )
 }
