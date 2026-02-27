@@ -31,6 +31,7 @@
     "netlify-cli": "^23.9.1",
     "next": "15.5.9",
     "openai": "^6.2.0",
+    "posthog-js": "^1.356.1",
     "react": "19.2.0",
     "react-dom": "19.2.0",
     "react-google-recaptcha": "^3.1.0",

@@ -4,6 +4,7 @@ import { useState, useEffect, useCallback, useRef, useMemo } from 'react'
 import * as Sentry from '@sentry/nextjs'
 import { sendGAEvent } from '@next/third-parties/google'
 import { useGoogleReCaptcha } from 'react-google-recaptcha-v3'
+import posthog from 'posthog-js'
 
 import ProductCard from '../components/product-card'
 import PillSearchBar from '../components/pill-search-bar'
@@ -245,6 +246,12 @@ export default function Page() {
         return
       }
       sendGAEvent({ event: 'search_results', value: rawList.length })
+      posthog.capture('search_results_received', {
+        result_count: rawList.length,
+        mode: 'polling',
+        append,
+        response_id: responseId,
+      })
       const wrapped = rawList.map((r) => wrapAsRecommendationItem(r, 'pending'))
       setRecResponse((prev) => {
         const base = append ? (prev?.recommendations ?? []) : []
@@ -325,6 +332,12 @@ export default function Page() {
       if (listToUse.length > 0) {
         setStreamStatus('Checking the finds...')
         sendGAEvent({ event: 'search_results', value: listToUse.length })
+        posthog.capture('search_results_received', {
+          result_count: listToUse.length,
+          mode: 'streaming',
+          append,
+          response_id: responseId,
+        })
         const wrapped = listToUse.map((r) => wrapAsRecommendationItem(r, 'pending'))
         setRecResponse((prev) => {
           const base = append ? (prev?.recommendations ?? []) : []
@@ -369,6 +382,12 @@ export default function Page() {
     }
     if (currentRun.length > 0) {
       sendGAEvent({ event: 'search_results', value: currentRun.length })
+      posthog.capture('search_results_received', {
+        result_count: currentRun.length,
+        mode: 'streaming',
+        append,
+        response_id: responseId,
+      })
     }
 
     await new Promise((r) => setTimeout(r, 800))
@@ -403,6 +422,11 @@ export default function Page() {
         setStreamStatus(null)
         setApiRequestState('rejected')
         setRecResponse({ valid: false, message: err?.message || 'Streaming failed' })
+        posthog.capture('search_error', {
+          error_message: err?.message || 'Streaming failed',
+          mode: 'streaming',
+          query: searchQuery,
+        })
       }
       return
     }
@@ -427,6 +451,11 @@ export default function Page() {
         setStreamStatus(null)
         setApiRequestState('rejected')
         setRecResponse({ valid: false, message: err?.message ?? 'Failed to get more options' })
+        posthog.capture('search_error', {
+          error_message: err?.message ?? 'Failed to get more options',
+          mode: 'polling',
+          intent: 'more',
+        })
       }
       return
     }
@@ -451,6 +480,12 @@ export default function Page() {
       setStreamStatus(null)
       setApiRequestState('rejected')
       setRecResponse({ valid: false, message: err?.message ?? 'Request failed' })
+      posthog.capture('search_error', {
+        error_message: err?.message ?? 'Request failed',
+        mode: 'polling',
+        intent: 'initial',
+        query: searchQuery,
+      })
     }
   }
 
@@ -464,6 +499,10 @@ export default function Page() {
     const q = queryOverride !== undefined ? queryOverride : query
     setQuery(q)
     sendGAEvent({ event: 'search', value: q })
+    posthog.capture('search_submitted', {
+      query: q,
+      is_suggested: queryOverride !== undefined,
+    })
     await runSearch({ intent: 'initial', recaptchaToken, query: q })
   }
 
@@ -471,7 +510,12 @@ export default function Page() {
 
   async function onMoreOptions() {
     if (!lastResponseId) return
-    sendGAEvent({ event: 'more_options', value: recResponse?.recommendations?.length ?? 0 })
+    const currentCount = recResponse?.recommendations?.length ?? 0
+    sendGAEvent({ event: 'more_options', value: currentCount })
+    posthog.capture('more_options_requested', {
+      existing_result_count: currentCount,
+      response_id: lastResponseId,
+    })
     const recaptchaToken = await executeRecaptcha('more_options')
     setApiRequestState('pending')
     await runSearch({ intent: 'more', recaptchaToken })
@@ -500,7 +544,10 @@ export default function Page() {
                     <button
                       key={term}
                       type="button"
-                      onClick={() => onSearchRef.current?.({ preventDefault: () => {} }, term)}
+                      onClick={() => {
+                        posthog.capture('suggested_search_clicked', { term })
+                        onSearchRef.current?.({ preventDefault: () => {} }, term)
+                      }}
                       className="px-4 py-2 rounded-lg text-sm font-medium border-2 border-[var(--retro-border)] bg-base-100 hover:bg-base-200 transition-colors font-display"
                     >
                       {term}

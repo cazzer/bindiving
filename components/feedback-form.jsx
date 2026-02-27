@@ -1,6 +1,7 @@
 'use client';
 
 import { useState } from 'react';
+import posthog from 'posthog-js';
 import { Card } from './card';
 import Input from './input';
 
@@ -22,9 +23,11 @@ export function FeedbackForm() {
             });
             if (res.status === 200) {
                 setStatus('ok');
+                posthog.capture('feedback_submitted', { success: true });
             } else {
                 setStatus('error');
                 setError(`${res.status} ${res.statusText}`);
+                posthog.capture('feedback_submitted', { success: false, error: `${res.status} ${res.statusText}` });
             }
         } catch (e) {
             setStatus('error');
