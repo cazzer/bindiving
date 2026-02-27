@@ -135,11 +135,7 @@ export function streamEventToMessage(event) {
   }
   if (type === 'response.output_text.delta') return null
   if (type === 'response.output_text.done') return 'Almost there...'
-  if (type === 'response.completed') {
-    const outTokens = event.response?.usage?.output_tokens
-    if (outTokens != null) return `Done (${outTokens} tokens)`
-    return 'Done digging.'
-  }
+  if (type === 'response.completed') return 'Done digging.'
   if (type === 'response.created' || type === 'response.in_progress') return 'Opening the dumpster...'
   return null
 }

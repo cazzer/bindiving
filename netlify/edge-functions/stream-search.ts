@@ -2,29 +2,12 @@
  * Stream from OpenAI Responses API by creating with stream: true (no background).
  * Handles both initial search (query + recaptcha) and more options (previous_response_id + recaptcha).
  * POST body: { query?, previous_response_id?, recaptcha }. Returns SSE stream.
- *
- * Keep MORE_INPUT and BASE_PROMPT in sync with netlify/functions/recommendations/recommendation-prompt.mts
- * (edge runtime cannot import from functions).
  */
-const MORE_INPUT =
-  'Give me 3 more product recommendations in the same JSON format (product_name, pros, cons, price, amazon_id, sources). Return only the JSON array, no other text.'
-
-const BASE_PROMPT = `You are the backend API for an Amazon product recommendation website. Your task is to receive product queries and return up to three of the best product recommendations available on Amazon, based on review quality, ratings, recency, and content from online sources.
-Begin with a concise checklist (3-7 bullets) of the steps you will take before forming recommendations.
-Key requirements:
-- Focus on recent reviews (within the last year) and recommend only products currently available on Amazon.
-- For each recommended product, provide the sources used in evaluation. Prefer external (non-Amazon) sources such as articles or review sites when possible. Only include Amazon URLs when necessary to confirm a product's availability.
-- The response must be strictly formatted as a pure JSON array (not wrapped in markdown or extraneous text). Each item in the array should be a JSON object with the following fields:
-- product_name: String. The full product name.
-- pros: Array of strings. Each string is a key advantage or positive feature (leave empty if not available).
-- cons: Array of strings. Each string is a key drawback or negative feature (leave empty if not available).
-- price: String. Price with currency symbol (e.g., "$49.99"), or null if unavailable.
-- amazon_id: String. The Amazon ASIN identifier, or null if not available.
-- sources: Array of strings. Each string must be a valid URL (http or https) to an external article or discussion. Prefer non-Amazon sources. If none, leave empty.
-- Order the returned products primarily by recency, then rating and review quality.
-- If fewer than three products meet criteria, return as many as found (maximum three).
-- Your output must be valid, standalone JSON—no leading or trailing text, comments, or markdown formatting.
-Set reasoning_effort = medium based on the task complexity; use concise reasoning internally and only output the required JSON.`
+import {
+  BASE_SYSTEM_PROMPT,
+  MORE_OPTIONS_INPUT,
+  getUserMessage
+} from '../shared/recommendation-prompt.ts'
 
 export default async (request: Request) => {
   if (request.method !== 'POST') {
@@ -71,15 +54,15 @@ export default async (request: Request) => {
         model: 'gpt-4o',
         tools: [{ type: 'web_search' }],
         previous_response_id: previousResponseId,
-        input: MORE_INPUT
+        input: MORE_OPTIONS_INPUT
       }
     : {
         stream: true,
         model: 'gpt-4o',
         tools: [{ type: 'web_search' }],
         input: [
-          { role: 'system', content: BASE_PROMPT },
-          { role: 'user', content: `What are the three best options for ${query} that people recommend?` }
+          { role: 'system', content: BASE_SYSTEM_PROMPT },
+          { role: 'user', content: getUserMessage(query!) }
         ]
       }
 

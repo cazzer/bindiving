@@ -6,6 +6,10 @@
 [build.environment]
   NODE_VERSION = "24"
 
+# Include shared prompt so functions can import from netlify/shared
+[functions]
+  included_files = ["netlify/shared/**"]
+
 # Edge functions (run before redirects)
 [[edge_functions]]
   path = "/api/stream-response"

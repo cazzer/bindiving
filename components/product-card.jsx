@@ -179,7 +179,7 @@ export default function ProductCard({ product: item }) {
             <em>(AI estimate)</em>
           ) : null}
         </h3>
-        <div className="flex flex-col gap-4 sm:flex-row sm:flex-wrap min-w-0">
+        <div className="flex flex-col gap-4 sm:flex-row sm:flex-wrap sm:items-start min-w-0">
           <div className="flex min-w-0 flex-col gap-1.5 sm:grow">
             <p className="flex items-center gap-1.5 text-sm font-bold text-emerald-800 dark:text-emerald-400" aria-hidden>
               <CheckIcon />
