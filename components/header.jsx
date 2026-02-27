@@ -3,7 +3,7 @@
 import Image from 'next/image'
 import Link from 'next/link'
 
-import { useSearchUI } from '../contexts/search-ui-context'
+import { useSearchUI } from '../contexts/recommendations-context'
 import { ThemeSwitcher } from './theme-switcher'
 import PillSearchBar from './pill-search-bar'
 import logo from 'public/images/bin-diving.svg'

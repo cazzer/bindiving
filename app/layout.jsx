@@ -3,7 +3,7 @@ import { GoogleAnalytics } from '@next/third-parties/google'
 import '../styles/globals.css'
 import { Footer } from '../components/footer'
 import { Header } from '../components/header'
-import { SearchUIProvider } from '../contexts/search-ui-context'
+import { RecommendationsProvider } from '../contexts/recommendations-context'
 import { ThemeProvider } from '../contexts/theme-context'
 import GoogleCaptchaWrapper from 'components/google-recaptcha-provider'
 
@@ -45,12 +45,12 @@ export default function RootLayout({ children }) {
         <div className="flex flex-col min-h-screen px-3 sm:px-6 md:px-12">
           <div className="flex flex-col w-full max-w-5xl mx-auto grow">
             <ThemeProvider>
-              <SearchUIProvider>
-                <Header />
-                <GoogleCaptchaWrapper>
+              <GoogleCaptchaWrapper>
+                <RecommendationsProvider>
+                  <Header />
                   <div className="grow">{children}</div>
-                </GoogleCaptchaWrapper>
-              </SearchUIProvider>
+                </RecommendationsProvider>
+              </GoogleCaptchaWrapper>
             </ThemeProvider>
           </div>
         </div>

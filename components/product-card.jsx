@@ -106,13 +106,22 @@ function normalizeSource(source) {
 }
 
 function normalizeProduct(p) {
+  // Normalize, filter invalid, and deduplicate sources by link
+  const sources = Array.isArray(p?.sources)
+    ? p.sources
+        .map(normalizeSource)
+        .filter((s) => s.link && isValidSourceUrl(s.link))
+        .filter((source, index, arr) => 
+          // Keep only first occurrence of each unique link
+          arr.findIndex(s => s.link === source.link) === index
+        )
+    : []
+  
   return {
     ...p,
     pros: Array.isArray(p?.pros) ? p.pros : [],
     cons: Array.isArray(p?.cons) ? p.cons : [],
-    sources: Array.isArray(p?.sources)
-      ? p.sources.map(normalizeSource).filter((s) => s.link && isValidSourceUrl(s.link))
-      : []
+    sources
   }
 }
 
