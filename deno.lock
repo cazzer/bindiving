@@ -174,7 +174,8 @@
       "dependencies": [
         "npm:@netlify/blobs@^10.0.11",
         "npm:@netlify/functions@^4.2.7",
-        "npm:@next/third-parties@^15.5.4",
+        "npm:@next/third-parties@^15.3.2",
+        "npm:@sentry/nextjs@^10.40.0",
         "npm:amazon-paapi-laurens@^1.0.8",
         "npm:amazon-paapi@^1.0.7",
         "npm:autoprefixer@^10.4.18",
@@ -184,12 +185,12 @@
         "npm:cheerio@^1.1.2",
         "npm:clsx@^2.1.1",
         "npm:daisyui@^4.0.5",
-        "npm:eslint-config-next@14.2.3",
+        "npm:eslint-config-next@^15.3.2",
         "npm:eslint@8.57.0",
         "npm:markdown-to-jsx@^7.7.15",
         "npm:netlify-cli@^23.9.1",
         "npm:netlify@^23.9.1",
-        "npm:next@15.5.4",
+        "npm:next@15.5.9",
         "npm:openai@^6.2.0",
         "npm:postcss@^8.4.36",
         "npm:react-dom@19.2.0",
@@ -202,7 +203,8 @@
         "npm:tailwind-merge@^3.5.0",
         "npm:tailwindcss@^3.4.1",
         "npm:unique-names-generator@^4.7.1",
-        "npm:user-agents@^1.1.668"
+        "npm:user-agents@^1.1.668",
+        "npm:vitest@^2.1.0"
       ]
     }
   }

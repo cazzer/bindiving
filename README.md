@@ -51,4 +51,9 @@ Set one or both of the following environment variables:
 
 When `NEXT_PUBLIC_SENTRY_DSN` is present, uncaught runtime exceptions and explicitly reported parsing failures are sent to Sentry.
 
+Troubleshooting:
+
+- If server errors appear in Sentry but browser-side errors do not, verify `NEXT_PUBLIC_SENTRY_DSN` is set (not just `SENTRY_DSN`).
+- With `netlify dev`, this variable must exist in your local `.env` (or linked Netlify env vars) before startup.
+
 

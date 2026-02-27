@@ -150,7 +150,7 @@ export default function Page() {
         query,
         hasResponseId: Boolean(lastResponseId)
       })
-      Sentry.captureMessage('Aww Shucks screen shown')
+      Sentry.captureException(new Error(`Aww Shucks screen shown: ${message}`))
     })
   }, [apiRequestState, lastResponseId, query, recResponse])
   useEffect(() => {
@@ -352,7 +352,7 @@ export default function Page() {
               append,
               query
             })
-            Sentry.captureMessage('Failed to parse streamed recommendations')
+            Sentry.captureException(new Error('Failed to parse streamed recommendations'))
           })
         }
         setRecResponse({ valid: false, message })
