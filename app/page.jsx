@@ -19,6 +19,7 @@ const PLACEHOLDER_LIST = [
   `toe-less socks for sweaty feet`,
   `dark lightbulbs`,
   `annoyingly loud headphones`,
+  `open-toed rain boots`,
   `dress shoes without soles`,
   `dog leash but for children`,
   `helium-filled dumbbells`,
