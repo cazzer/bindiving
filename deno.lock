@@ -193,6 +193,7 @@
         "npm:next@15.5.9",
         "npm:openai@^6.2.0",
         "npm:postcss@^8.4.36",
+        "npm:posthog-js@^1.356.1",
         "npm:react-dom@19.2.0",
         "npm:react-google-recaptcha-v3@^1.11.0",
         "npm:react-google-recaptcha@^3.1.0",

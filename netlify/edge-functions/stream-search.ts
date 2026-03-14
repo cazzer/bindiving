@@ -3,11 +3,7 @@
  * Handles both initial search (query + recaptcha) and more options (previous_response_id + recaptcha).
  * POST body: { query?, previous_response_id?, recaptcha }. Returns SSE stream.
  */
-import {
-  BASE_SYSTEM_PROMPT,
-  MORE_OPTIONS_INPUT,
-  getUserMessage
-} from '../shared/recommendation-prompt.ts'
+import { BASE_SYSTEM_PROMPT, MORE_OPTIONS_INPUT, getUserMessage } from '../shared/recommendation-prompt.ts'
 
 export default async (request: Request) => {
   if (request.method !== 'POST') {
@@ -58,7 +54,8 @@ export default async (request: Request) => {
       }
     : {
         stream: true,
-        model: 'gpt-4o',
+        model: 'gpt-5-mini',
+        reasoning: { effort: 'low' },
         tools: [{ type: 'web_search' }],
         input: [
           { role: 'system', content: BASE_SYSTEM_PROMPT },
