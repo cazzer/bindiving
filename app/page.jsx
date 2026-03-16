@@ -1,6 +1,7 @@
 'use client'
 
-import { useEffect, useRef } from 'react'
+import { useEffect, useRef, useState } from 'react'
+import { useRouter } from 'next/navigation'
 import posthog from 'posthog-js'
 
 import ProductCard from '../components/product-card'
@@ -67,10 +68,14 @@ export default function Page() {
     search,
     getMoreOptions,
     updateQuery,
-    setSearchProps
+    setSearchProps,
+    saveResultForShare
   } = useRecommendations()
 
+  const router = useRouter()
   const onSearchRef = useRef(null)
+  const [shareStatus, setShareStatus] = useState('idle') // idle | saving | copied | error
+  const [shareError, setShareError] = useState(null)
 
   // Sync search props for header
   useEffect(() => {
@@ -147,14 +152,44 @@ export default function Page() {
             <ProductCard product={product} key={product._id} />
           ))}
           <div className="flex flex-col items-center gap-4 pt-4">
-            <button
-              type="button"
-              onClick={getMoreOptions}
-              disabled={isSearching}
-              className="btn btn-outline btn-primary"
-            >
-              Give me more options
-            </button>
+            <div className="flex flex-wrap items-center justify-center gap-2">
+              <button
+                type="button"
+                onClick={getMoreOptions}
+                disabled={isSearching}
+                className="btn btn-outline btn-primary"
+              >
+                Give me more options
+              </button>
+              <button
+                type="button"
+                onClick={async () => {
+                  setShareError(null)
+                  setShareStatus('saving')
+                  const result = await saveResultForShare()
+                  if (result.error) {
+                    setShareError(result.error)
+                    setShareStatus('error')
+                    return
+                  }
+                  const url = `${typeof window !== 'undefined' ? window.location.origin : ''}/results/${result.slug}`
+                  router.replace(`/results/${result.slug}`)
+                  try {
+                    await navigator.clipboard?.writeText(url)
+                  } catch (_) {}
+                  setShareStatus('copied')
+                  posthog.capture('result_shared', { slug: result.slug })
+                  setTimeout(() => setShareStatus('idle'), 2000)
+                }}
+                disabled={shareStatus === 'saving' || isSearching}
+                className="btn btn-outline btn-secondary"
+              >
+                {shareStatus === 'saving' ? 'Saving…' : shareStatus === 'copied' ? 'Link copied!' : 'Share'}
+              </button>
+            </div>
+            {shareStatus === 'error' && shareError && (
+              <p className="text-sm text-error">{shareError}</p>
+            )}
             {isSearching && <Digging streamStatus={streamStatus} />}
             <Footer />
           </div>

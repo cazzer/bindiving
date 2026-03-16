@@ -10,6 +10,10 @@
 [functions]
   included_files = ["netlify/shared/**"]
 
+# Daily cleanup of shared result blobs older than 30 days
+[functions."cleanup-result-blobs"]
+  schedule = "0 3 * * *"
+
 # Edge functions (run before redirects)
 [[edge_functions]]
   path = "/api/stream-response"

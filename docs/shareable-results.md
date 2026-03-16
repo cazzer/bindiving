@@ -53,24 +53,22 @@ Plan for caching search results so users can share a stable link. Results are **
 
 ---
 
-## 5. Cleanup cron (daily, delete older than 1 week)
+## 5. Cleanup cron (daily, delete older than 30 days)
 
-- **Function:** e.g. `netlify/functions/cleanup-result-blobs.mts`.
+- **Function:** `netlify/functions/cleanup-result-blobs/index.mts`.
   - Get store `search-results`.
-  - List keys with prefix `results/` (or list all and filter keys starting with `results/`).
-  - Cutoff = today minus 7 days: `cutoffDateStr = new Date(Date.now() - 7 * 24 * 60 * 60 * 1000).toISOString().slice(0, 10)`.
+  - List keys with prefix `results/`.
+  - Cutoff = today minus 30 days (or `RESULT_BLOB_RETENTION_DAYS` env).
   - For each key `results/YYYY-MM-DD/slug`: if `YYYY-MM-DD < cutoffDateStr`:
     - `delete(key)` (payload blob).
     - `delete('slug-index/' + slug)` (extract slug from key).
-  - Optionally batch (e.g. delete up to 500 per run) to avoid timeouts.
 - **Schedule:** In `netlify.toml`:
   ```toml
-  [functions]
-    [functions."cleanup-result-blobs"]
+  [functions."cleanup-result-blobs"]
     schedule = "0 3 * * *"
   ```
   (Daily at 03:00 UTC.)
-- Optional: env `RESULT_BLOB_RETENTION_DAYS=7` and use it in the function.
+- Optional: env `RESULT_BLOB_RETENTION_DAYS=30` (default 30).
 
 ---
 

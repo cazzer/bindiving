@@ -275,6 +275,28 @@ export function RecommendationsProvider({ children }) {
     })
   }, [responseId, recommendations.length, executeRecaptcha, resolveProduct])
 
+  // Share: persist result to Blobs and return slug for /results/{slug}
+  const saveResultForShare = useCallback(async () => {
+    const resolved = recommendations
+      .filter((r) => r._resolveStatus === 'resolved' && r._resolved)
+      .map((r) => r._resolved)
+    if (!query?.trim() || resolved.length === 0) {
+      return { error: 'No results to share' }
+    }
+    try {
+      const res = await fetch('/api/save-result', {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify({ query: query.trim(), recommendations: resolved, resolvedLinks: {} })
+      })
+      const data = await res.json().catch(() => ({}))
+      if (!res.ok) return { error: data?.error || res.statusText || 'Failed to save' }
+      return { slug: data.slug }
+    } catch (err) {
+      return { error: err?.message || 'Failed to save' }
+    }
+  }, [query, recommendations])
+
   // Set search props (for header integration)
   const setSearchProps = useCallback((props) => {
     if (props.onQueryUpdate != null) callbacksRef.current.onQueryUpdate = props.onQueryUpdate
@@ -314,7 +336,8 @@ export function RecommendationsProvider({ children }) {
     getMoreOptions,
     updateQuery,
     setQuery,
-    
+    saveResultForShare,
+
     // For Header (SearchUI compatibility)
     searchProps: searchPropsWithCallbacks,
     setSearchProps,
