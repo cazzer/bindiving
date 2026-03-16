@@ -1,0 +1,125 @@
+{
+  "slug": "mattress-topper",
+  "query": "mattress topper",
+  "title": "Best mattress topper | Bin Diving",
+  "description": "AI-dug recommendations for mattress topper. Compare options and find one that fits.",
+  "dugAt": "2026-03-16T22:37:48.804Z",
+  "recommendations": [
+    {
+      "product_name": "TEMPUR‑Pedic TEMPUR‑Adapt + Cooling Mattress Topper",
+      "pros": [
+        "Excellent pressure relief",
+        "Trusted Tempur material",
+        "Cooling option available"
+      ],
+      "cons": [
+        "Expensive",
+        "May feel too slow‑responding for some sleepers"
+      ],
+      "price": null,
+      "amazon_id": "B07V7R7V8F",
+      "sources": [
+        "https://www.tomsguide.com/reviews/tempur-pedic-tempur-adapt-topper",
+        "https://www.forbes.com/sites/forbes-personal-shopper/article/best-mattress-topper/",
+        "https://www.nbcnews.com/select/shopping/mattress-toppers-rcna91187"
+      ],
+      "amazon_url": "https://www.amazon.com/TEMPUR-Adapt-Cooling-Mattress-Premium-Washable/dp/B07V7R7V8F",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/RRpQT75s5wmA6iHcha_fIFZPVxlZ5g-zdRAOiE59xR0/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9jZG4u/bW9zLmNtcy5mdXR1/cmVjZG4ubmV0L3V5/NG9KaERONTRhYnB1/YjVHWlhqak4uanBn",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "Saatva Graphite Memory Foam Mattress Topper",
+      "pros": [
+        "Good cooling for memory foam",
+        "High-density support",
+        "Well-reviewed by sleep experts"
+      ],
+      "cons": [
+        "Higher price vs budget toppers",
+        "Limited discounting from brand"
+      ],
+      "price": null,
+      "amazon_id": "B0CXZKD732",
+      "sources": [
+        "https://www.saatva.com/bedding/graphite-memory-foam-mattress-topper",
+        "https://www.sleepfoundation.org/best-mattress-toppers",
+        "https://www.tomsguide.com/best-picks/best-mattress-toppers"
+      ],
+      "amazon_url": "https://www.amazon.com/Saatva-Graphite-Memory-Mattress-Topper/dp/B0CXZKD732",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/31oZVPJ5pOfbJL82SDdeDmB9UhTm7jh1C_eCnCS1N8o/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9pLm1h/dHRyZXNzY2xhcml0/eS5jb20vMjg4LzY3/Ni8zMDQvNy9jb3Ju/ZXItc3RyYXAtb24t/dGhlLXNhYXR2YS1n/cmFwaGl0ZS1tZW1v/cnktZm9hbS1tYXR0/cmVzcy10b3BwZXIt/MS53ZWJw",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "ViscoSoft High‑Density Memory Foam Mattress Topper",
+      "pros": [
+        "Budget-friendly high-density foam",
+        "Good durability for price",
+        "Commonly recommended in buyer guides"
+      ],
+      "cons": [
+        "Less cooling than specialized toppers",
+        "Lower edge support than thicker toppers"
+      ],
+      "price": null,
+      "amazon_id": "B00XKJKKGW",
+      "sources": [
+        "https://www.ncoa.org/product-resources/sleep/best-cooling-mattress-topper/",
+        "https://www.sleepfoundation.org/best-mattress-toppers",
+        "https://www.goodhousekeeping.com/home-products/a25576306/best-mattress-toppers/"
+      ],
+      "amazon_url": "https://www.amazon.com/ViscoSoft-Memory-Mattress-Density-Ventilated/dp/B00XKJKKGW",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/C9-jQUKTUlilNTVEHpnGDLVjZDuQ0GlfmPGyf1f5Jik/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly90YXJn/ZXQuc2NlbmU3LmNv/bS9pcy9pbWFnZS9U/YXJnZXQvR1VFU1Rf/ZDYzY2UwZmYtMDk5/ZC00MzczLThiNDkt/MzEyMjBiODFmMzZl/P3dpZD04MDAmaGVp/PTgwMCZxbHQ9ODAm/Zm10PXBqcGVn",
+      "resolver": "brave",
+      "valid": true
+    }
+  ],
+  "resolvedLinks": {
+    "https://www.tomsguide.com/reviews/tempur-pedic-tempur-adapt-topper": {
+      "title": "Tempur-Pedic Tempur-Adapt topper review",
+      "description": "Does the Tempur-Adapt Topper give you the feel of a Tempur-Pedic bed, without the price tag? We tested it to find out",
+      "image": "https://cdn.mos.cms.futurecdn.net/VVgrSjku5PFfd6fashbyNX-1920-80.jpg",
+      "url": "https://www.tomsguide.com/reviews/tempur-pedic-tempur-adapt-topper"
+    },
+    "https://www.nbcnews.com/select/shopping/mattress-toppers-rcna91187": {
+      "title": "How to choose a mattress topper based on your sleep position for the best rest possible",
+      "description": "Soft mattress toppers are best for side sleepers, while medium to firm toppers are best if you sleep on your back or stomach, according to experts.",
+      "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2023-06/230620-mattress-toppers-aw-2x1-48a7ca.jpg",
+      "url": "https://www.nbcnews.com/select/shopping/mattress-toppers-rcna91187"
+    },
+    "https://www.saatva.com/bedding/graphite-memory-foam-mattress-topper": {
+      "title": "Graphite Memory Foam Mattress Topper | Saatva",
+      "description": "Transform an ordinary mattress into an extraordinary one with the Saatva Graphite Mattress Topper. Free shipping & 180-night home trial.",
+      "image": "https://saatva.imgix.net/products/graphite-memory-foam-mattress-topper/model/graphite-memory-foam-mattress-topper-model-16-9.jpg?w=1200&fit=crop&auto=format",
+      "url": "https://www.saatva.com/bedding/graphite-memory-foam-mattress-topper"
+    },
+    "https://www.sleepfoundation.org/best-mattress-toppers": {
+      "title": "Best Mattress Toppers of 2026",
+      "description": "From latex to memory foam, we found the 14 best mattress toppers to provide comfort, relief, and better sleep while extending the life of your mattress.",
+      "image": "https://www.sleepfoundation.org/wp-content/uploads/2020/06/Saatva-Graphite-Memory-Foam-Topper.png",
+      "url": "https://www.sleepfoundation.org/best-mattress-toppers"
+    },
+    "https://www.tomsguide.com/best-picks/best-mattress-toppers": {
+      "title": "These are the 11 best mattress toppers for making your bed softer, cooler, or firmer in 2026",
+      "description": "Find the best mattress topper for your bed, sleep position, and nocturnal needs with our expert testing panel's 11 top picks (plus honorable mentions)",
+      "image": "https://cdn.mos.cms.futurecdn.net/3irTDRFwisjwSXgi4DiPdV-1920-80.jpg",
+      "url": "https://www.tomsguide.com/best-picks/best-mattress-toppers"
+    },
+    "https://www.ncoa.org/product-resources/sleep/best-cooling-mattress-topper/": {
+      "title": "Your 2026 Guide to the Best Cooling Mattress Toppers",
+      "description": "Waking up sweaty? Learn more about the best cooling mattress toppers for a restful night’s sleep.",
+      "image": "https://assets-us-01.kc-usercontent.com/ffacfe7d-10b6-0083-2632-604077fd4eca/c63aa4df-5d17-4a0c-b116-9e20e0e1b5c6/NCOA-Sleep-HeroImage-BestCoolingMattressTopper-Facebook.jpg",
+      "url": "https://www.ncoa.org/product-resources/sleep/best-cooling-mattress-topper/"
+    },
+    "https://www.goodhousekeeping.com/home-products/a25576306/best-mattress-toppers/": {
+      "title": "9 Mattress Toppers to Instantly Upgrade Your Bed, According to Bedding Experts",
+      "description": "Whether you need more support or want cloud-like softness, a topper is the easiest way to transform the feel of your mattress.",
+      "image": "https://hips.hearstapps.com/hmg-prod/images/ghk0624-beddingdigital-toppers-index-315-web-664cbf5aeee40.jpg?crop=1.00xw:0.755xh;0,0.139xh&resize=1200:*",
+      "url": "https://www.goodhousekeeping.com/home-products/a25576306/best-mattress-toppers/"
+    }
+  }
+}
