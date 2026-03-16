@@ -5,7 +5,7 @@
  */
 import { BASE_SYSTEM_PROMPT, MORE_OPTIONS_INPUT, getUserMessage } from '../shared/recommendation-prompt.ts'
 
-export default async (request: Request) => {
+const streamSearch = async (request: Request) => {
   if (request.method !== 'POST') {
     return new Response(JSON.stringify({ error: 'Method not allowed' }), { status: 405 })
   }
@@ -88,4 +88,5 @@ export default async (request: Request) => {
   })
 }
 
+export default streamSearch
 export const config = { path: '/api/stream-search', method: 'POST' }

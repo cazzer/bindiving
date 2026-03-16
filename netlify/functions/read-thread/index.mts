@@ -1,5 +1,6 @@
 import { Config, Context } from '@netlify/functions'
 import OpenAI from 'openai'
+import { parseRecommendations } from '../recommendations/parse-output.mjs'
 import { resolveRecommendations } from '../recommendations/resolve-recommendations.mjs'
 
 const OPEN_AI_KEY = process.env.OPEN_AI_KEY
@@ -33,8 +34,7 @@ export default async function readThread(req: Request, context: Context) {
 
   if (response && response.output_text) {
     try {
-      const parsed = JSON.parse(response.output_text)
-      const recommendations = Array.isArray(parsed) ? parsed : [parsed]
+      const recommendations = parseRecommendations(response.output_text)
       if (raw) {
         return new Response(
           JSON.stringify({ valid: true, recommendations }),

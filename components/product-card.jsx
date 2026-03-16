@@ -125,7 +125,7 @@ function normalizeProduct(p) {
   }
 }
 
-export default function ProductCard({ product: item }) {
+export default function ProductCard({ product: item, resolvedLinks }) {
   const status = item._resolveStatus ?? 'resolved'
   const product = normalizeProduct(item._resolved ?? item)
   const isPending = status === 'pending'
@@ -235,6 +235,7 @@ export default function ProductCard({ product: item }) {
                     source={source}
                     index={index}
                     origin={typeof location !== 'undefined' ? location.origin : ''}
+                    initialPreview={resolvedLinks?.[source?.link ?? source]}
                   />
                 ))}
               </ul>

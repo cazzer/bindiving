@@ -19,6 +19,10 @@ export async function resolveAmazonLink(product) {
     result.url.match(/https:\/\/www.amazon.com\/[^\/]*\/dp\/[A-Z0-9]{10}/)
   )
 
+  if (!productMatch) {
+    throw new Error('No Amazon product match found')
+  }
+
   const imageResponse = await fetch(
     `https://api.search.brave.com/res/v1/images/search?q=${encodeURI(product.product_name)}`,
     {

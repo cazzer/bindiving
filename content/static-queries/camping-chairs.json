@@ -1,0 +1,132 @@
+{
+  "slug": "camping-chairs",
+  "query": "best lightweight camping chairs",
+  "title": "Best lightweight camping chairs | Bin Diving",
+  "description": "AI-dug recommendations for best lightweight camping chairs. Compare options and find one that fits.",
+  "recommendations": [
+    {
+      "product_name": "Helinox Chair One",
+      "pros": [
+        "Very lightweight and packable",
+        "High-quality DAC aluminum frame"
+      ],
+      "cons": [
+        "Premium price",
+        "Can sink in loose ground"
+      ],
+      "price": "$109.95",
+      "amazon_id": "B007ZGOWZQ",
+      "sources": [
+        "https://www.helinox.com/products/chair-one",
+        "https://www.gearpatrol.com/outdoors/a40288465/helinox-chair-one-review/",
+        "https://www.outdoorgearlab.com/reviews/camping-and-hiking/camping-chair/helinox-chair-one"
+      ],
+      "amazon_url": "https://www.amazon.com/Big-Agnes-HCHAIRONEB-Helinox-Portable/dp/B007ZGOWZQ",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/KH0x0BPmGRtbhwJJv4yT-2XMS7PCbMilXFfKTSbzq0M/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9tZWRp/YS53aXJlZC5jb20v/cGhvdG9zLzY3Zjli/ODhkZGFhZmNlYTg4/ODYzNjYzNS9tYXN0/ZXIvd18xNjAwLGNf/bGltaXQvSGVsaW5v/eC1DaGFpci1PbmUt/KHJlKS1jcmVkaXQt/Q2hyaXMtSGFzbGFt/LmpwZw",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "REI Co-op Flexlite Air Chair",
+      "pros": [
+        "Extremely light for a true camp chair",
+        "Lower price than some ultralight competitors"
+      ],
+      "cons": [
+        "Less durable on rough terrain for heavier users",
+        "Lower long-term durability reported by some users"
+      ],
+      "price": "$36.99",
+      "amazon_id": "B0B5LDC3CT",
+      "sources": [
+        "https://www.rei.com/product/148036/rei-co-op-flexlite-air-chair",
+        "https://gearjunkie.com/outdoor/rei-co-op-flexlite-air-chair-review",
+        "https://www.goodgearonly.com/furniture/rei-flexlite-air-review"
+      ],
+      "image_url": "https://images-na.ssl-images-amazon.com/images/G/01/x-locale/common/grey-pixel.gif",
+      "images": [
+        "https://images-na.ssl-images-amazon.com/images/G/01/x-locale/common/grey-pixel.gif"
+      ],
+      "amazon_url": "https://www.amazon.com/MARCHWAY-Lightweight-Portable-Festival-Backpacking/dp/B0B5LDC3CT/ref=mp_s_a_1_1?dib=eyJ2IjoiMSJ9.ueTOtgaFeKdSyqKyy6pKv0nwwxlW9QDy_tExVMumFSoJgjBF-aXs1_pd7s2wpW7dlbRDNLtAUiWrcdwG4MQPC0WNVGDRy37I2cPanZZaL_Ge-OkSBgikwoaancyj9XQUj7isuUSy_fcaCqPSDjEXpytyQWGqcAa4lqOovFKoZXTBG2nvLVaueTGOXcshUrDKR9pUWULjrILtMW-3l8Jzhw.G5Q9SVspdZnfRe0qABOhCiYzMXaAmurHN8ZugnE5S1A&dib_tag=se&keywords=REI+Co-op+Flexlite+Air+Chair&qid=1773697120&sr=8-1",
+      "brand": "MARCHWAY",
+      "blackFriday": false,
+      "gpt_azn": null,
+      "resolver": "cheerio",
+      "valid": true
+    },
+    {
+      "product_name": "Trekology YIZI GO / YIZI LITE (Trekology)",
+      "pros": [
+        "Very affordable and compact",
+        "Popular budget ultralight option with strong user feedback"
+      ],
+      "cons": [
+        "Not as premium or long-lasting as Helinox/REI",
+        "Some reported weight/advertising inconsistencies"
+      ],
+      "price": null,
+      "amazon_id": "B08Q3FYCJS",
+      "sources": [
+        "https://trekology.com/en-us/products/ultralight-camping-chair-yizi-lite-750g-hiking-backpacking-chairs",
+        "https://www.nbcnews.com/select/shopping/best-portable-camping-chair-ncna1282533",
+        "https://everythingbackyard.net/trekology-yizi-go-portable-camping-chair-review/"
+      ],
+      "amazon_url": "https://www.amazon.com/Ultralight-Backpacking-Lightweight-Portable-Collapsible/dp/B08Q3FYCJS",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/SYBQGZDoZna303eDrBmG2jmSv1Dl87KZIeW1pBxodiI/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly90cmVr/b2xvZ3kuY29tL2Nk/bi9zaG9wL3Byb2R1/Y3RzLzFfODMxN2I3/NjQtNTVmMi00NGEz/LWEwNjgtNjdmOWJl/MDM5MTNlLmpwZz92/PTE2MzI5MjYwMTkm/d2lkdGg9ODAw",
+      "resolver": "brave",
+      "valid": true
+    }
+  ],
+  "resolvedLinks": {
+    "https://www.helinox.com/products/chair-one": {
+      "title": "Chair One",
+      "description": "The Chair One’s patented design launched the category of lightweight, packable chairs with its effortless combination of comfort and compactness. It goes everywhere–bring yours to the beach, camping off the beaten path, or wherever adventure takes you.",
+      "image": "http://helinox.com/cdn/shop/files/helinox_chair_one_black_hero_ea8a12ef-f947-4971-8da8-60b6122140c3_1024x1024.jpg?v=1773390628",
+      "url": "https://helinox.com/products/chair-one"
+    },
+    "https://www.outdoorgearlab.com/reviews/camping-and-hiking/camping-chair/helinox-chair-one": {
+      "title": "Helinox Chair One Review",
+      "description": "The Helinox Chair One is perfect for those who are limited on space and after ultimate packability. The two-pound chair is very easy to use, and the folded...",
+      "image": "https://d1i8d6ce8wwubf.cloudfront.net/photos/30/52/426742_6584_XXL.jpg",
+      "url": "https://www.outdoorgearlab.com/reviews/camping-and-hiking/camping-chair/helinox-chair-one"
+    },
+    "https://www.rei.com/product/148036/rei-co-op-flexlite-air-chair": {
+      "title": "REI Co-op Flexlite Air Chair | REI Co-op",
+      "description": "Enjoy a comfortable backcountry seat that packs down small and weighs only 1 pound! The REI Co-op Flexlite Air chair offers off-the-ground comfort at minimal weight.",
+      "image": "https://www.rei.com/media/product/242847",
+      "url": "https://www.rei.com/product/242847/rei-co-op-flexlite-air-chair"
+    },
+    "https://gearjunkie.com/outdoor/rei-co-op-flexlite-air-chair-review": {
+      "title": "The Backpacking Luxury Item We Can't Leave Behind: REI Co-op Flexlite Air Chair Review",
+      "description": "At only 16 ounces and as small as a Nalgene, the REI Co-op Flexlite Air Chair hardly makes a dent in our pack weight, and it brings excellent camp comfort.",
+      "image": "https://s3.us-east-1.amazonaws.com/images.gearjunkie.com/uploads/2024/05/REIFlexlite_4.jpg",
+      "url": "https://gearjunkie.com/outdoor/rei-co-op-flexlite-air-chair-review"
+    },
+    "https://www.goodgearonly.com/furniture/rei-flexlite-air-review": {
+      "title": "REI Co‑op Flexlite Air — Good Gear Only",
+      "description": "1 lb | $99.95",
+      "image": "http://static1.squarespace.com/static/68242c22a10d773d4ebec141/682961341dfd852556249872/685a1d5a58c6ee4a5fb1fa2c/1764996385947/IMG_0576.PNG?format=1500w",
+      "url": "https://www.goodgearonly.com/furniture/rei-flexlite-air-review"
+    },
+    "https://trekology.com/en-us/products/ultralight-camping-chair-yizi-lite-750g-hiking-backpacking-chairs": {
+      "title": "Trekology | Compact, Lightweight, & Comfy Outdoor Gear",
+      "description": "Elevate every adventure with Trekology – where innovation meets outdoor comfort. Unleash compact, lightweight gear designed for explorers, ensuring convenience without compromise. Join us in redefining outdoor experiences, one compact adventure at a time",
+      "image": "",
+      "url": "https://trekology.com/"
+    },
+    "https://www.nbcnews.com/select/shopping/best-portable-camping-chair-ncna1282533": {
+      "title": "This camping chair makes camping a comfortable escape",
+      "description": "Though they’re often an afterthought, lightweight but supportive chairs like Trekology’s can turn camping comfy even if you don’t love the outdoors.",
+      "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/newscms/2021_43/3515064/211026-camp-chairs-bd-2x1.jpg",
+      "url": "https://www.nbcnews.com/select/shopping/best-portable-camping-chair-ncna1282533"
+    },
+    "https://everythingbackyard.net/trekology-yizi-go-portable-camping-chair-review/": {
+      "title": "Trekology YIZI GO Portable Camping Chair Review",
+      "description": "If you're looking for a great camping chair, we recommend the Trekology YIZI GO Portable Camping Chair. Here is our review of it and why you should consider purchasing it today.",
+      "image": "https://everythingbackyard.net/wp-content/uploads/2018/07/Trekology-YIZI-GO-Portable-Camping-Chair.png",
+      "url": "https://everythingbackyard.net/trekology-yizi-go-portable-camping-chair-review/"
+    }
+  }
+}

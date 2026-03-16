@@ -95,11 +95,11 @@ function isValidLink(link) {
   }
 }
 
-export default function SourceCard({ source, index, origin }) {
-  const link = source?.link ?? ''
-  const [preview, setPreview] = useState(null)
+export default function SourceCard({ source, index, origin, initialPreview }) {
+  const link = source?.link ?? source ?? ''
+  const [preview, setPreview] = useState(initialPreview ?? null)
   const [failed, setFailed] = useState(false)
-  const shouldFetch = LINK_PREVIEW_ENABLED && isValidLink(link)
+  const shouldFetch = !initialPreview && LINK_PREVIEW_ENABLED && isValidLink(link)
 
   useEffect(() => {
     if (!shouldFetch || !link || failed) return
