@@ -145,49 +145,68 @@ export default function Page() {
 
       {hasResults && (
         <section className="flex flex-col gap-4">
-          <em className="mb-1 block text-center">
-            Results are AI generated and may contain fabricated statements and broken links.
-          </em>
+          <div className="flex flex-row items-center justify-between gap-3">
+            <em className="text-sm text-base-content/70 min-w-0 flex-1">
+              Results are AI generated and may contain fabricated statements and broken links.
+            </em>
+            <button
+              type="button"
+              onClick={async () => {
+                setShareError(null)
+                setShareStatus('saving')
+                const result = await saveResultForShare()
+                if (result.error) {
+                  setShareError(result.error)
+                  setShareStatus('error')
+                  return
+                }
+                const url = `${typeof window !== 'undefined' ? window.location.origin : ''}/results/${result.slug}`
+                router.replace(`/results/${result.slug}`)
+                try {
+                  await navigator.clipboard?.writeText(url)
+                } catch (_) {}
+                setShareStatus('copied')
+                posthog.capture('result_shared', { slug: result.slug })
+                setTimeout(() => setShareStatus('idle'), 2000)
+              }}
+              disabled={shareStatus === 'saving' || isSearching}
+              className="btn btn-outline btn-secondary btn-sm shrink-0"
+              title={shareStatus === 'saving' ? 'Saving…' : shareStatus === 'copied' ? 'Link copied!' : 'Share'}
+              aria-label={shareStatus === 'saving' ? 'Saving…' : shareStatus === 'copied' ? 'Link copied!' : 'Share'}
+            >
+              <span className="inline-block w-4 h-4 sm:mr-1.5" aria-hidden>
+                {shareStatus === 'copied' ? (
+                  <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round">
+                    <path d="M20 6L9 17l-5-5" />
+                  </svg>
+                ) : (
+                  <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round">
+                    <circle cx="18" cy="5" r="3" />
+                    <circle cx="6" cy="12" r="3" />
+                    <circle cx="18" cy="19" r="3" />
+                    <path d="m8.59 13.51 6.83 3.98" />
+                    <path d="M15.41 6.51l-6.82 3.98" />
+                  </svg>
+                )}
+              </span>
+              <span className="hidden sm:inline">
+                {shareStatus === 'saving' ? 'Saving…' : shareStatus === 'copied' ? 'Link copied!' : 'Share'}
+              </span>
+            </button>
+          </div>
+          {shareStatus === 'error' && shareError && <p className="text-sm text-error">{shareError}</p>}
           {recommendations.map((product) => (
             <ProductCard product={product} key={product._id} />
           ))}
           <div className="flex flex-col items-center gap-4 pt-4">
-            <div className="flex flex-wrap items-center justify-center gap-2">
-              <button
-                type="button"
-                onClick={getMoreOptions}
-                disabled={isSearching}
-                className="btn btn-outline btn-primary"
-              >
-                Give me more options
-              </button>
-              <button
-                type="button"
-                onClick={async () => {
-                  setShareError(null)
-                  setShareStatus('saving')
-                  const result = await saveResultForShare()
-                  if (result.error) {
-                    setShareError(result.error)
-                    setShareStatus('error')
-                    return
-                  }
-                  const url = `${typeof window !== 'undefined' ? window.location.origin : ''}/results/${result.slug}`
-                  router.replace(`/results/${result.slug}`)
-                  try {
-                    await navigator.clipboard?.writeText(url)
-                  } catch (_) {}
-                  setShareStatus('copied')
-                  posthog.capture('result_shared', { slug: result.slug })
-                  setTimeout(() => setShareStatus('idle'), 2000)
-                }}
-                disabled={shareStatus === 'saving' || isSearching}
-                className="btn btn-outline btn-secondary"
-              >
-                {shareStatus === 'saving' ? 'Saving…' : shareStatus === 'copied' ? 'Link copied!' : 'Share'}
-              </button>
-            </div>
-            {shareStatus === 'error' && shareError && <p className="text-sm text-error">{shareError}</p>}
+            <button
+              type="button"
+              onClick={getMoreOptions}
+              disabled={isSearching}
+              className="btn btn-outline btn-primary"
+            >
+              Give me more options
+            </button>
             {isSearching && <Digging streamStatus={streamStatus} />}
             <Footer />
           </div>
