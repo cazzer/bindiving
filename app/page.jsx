@@ -48,8 +48,8 @@ function seededShuffle(arr, seed) {
     return s / 0x7fffffff
   }
   for (let i = out.length - 1; i > 0; i--) {
-    const j = Math.floor(next() * (i + 1));
-    [out[i], out[j]] = [out[j], out[i]]
+    const j = Math.floor(next() * (i + 1))
+    ;[out[i], out[j]] = [out[j], out[i]]
   }
   return out
 }
@@ -140,9 +140,9 @@ export default function Page() {
           )}
         </>
       )}
-      
+
       {hasError && !isSearching && <ErrorResponseParser valid={false} message={error?.message} />}
-      
+
       {hasResults && (
         <section className="flex flex-col gap-4">
           <em className="mb-1 block text-center">
@@ -187,9 +187,7 @@ export default function Page() {
                 {shareStatus === 'saving' ? 'Saving…' : shareStatus === 'copied' ? 'Link copied!' : 'Share'}
               </button>
             </div>
-            {shareStatus === 'error' && shareError && (
-              <p className="text-sm text-error">{shareError}</p>
-            )}
+            {shareStatus === 'error' && shareError && <p className="text-sm text-error">{shareError}</p>}
             {isSearching && <Digging streamStatus={streamStatus} />}
             <Footer />
           </div>
