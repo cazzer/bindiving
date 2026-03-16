@@ -32,5 +32,5 @@ export default async function cleanupResultBlobs() {
 }
 
 export const config: Config = {
-  path: '/api/cleanup-result-blobs'
+  // Scheduled only (no custom path allowed for scheduled functions)
 }
