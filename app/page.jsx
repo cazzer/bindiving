@@ -1,7 +1,7 @@
 'use client'
 
 import { useEffect, useRef, useState } from 'react'
-import { useRouter, useSearchParams } from 'next/navigation'
+import { useRouter } from 'next/navigation'
 import posthog from 'posthog-js'
 
 import ProductCard from '../components/product-card'
@@ -74,14 +74,15 @@ export default function Page() {
   } = useRecommendations()
 
   const router = useRouter()
-  const searchParams = useSearchParams()
   const onSearchRef = useRef(null)
   const [shareStatus, setShareStatus] = useState('idle') // idle | saving | copied | error
   const [shareError, setShareError] = useState(null)
 
   // When landing with ?q= (e.g. from results page "search again"), run that search
   useEffect(() => {
-    const q = searchParams.get('q')
+    if (typeof window === 'undefined') return
+    const params = new URLSearchParams(window.location.search)
+    const q = params.get('q')
     if (q?.trim()) {
       setQuery(q.trim())
       search(q.trim(), true)

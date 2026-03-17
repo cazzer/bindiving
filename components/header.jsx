@@ -10,7 +10,7 @@ import PillSearchBar from './pill-search-bar'
 import logo from 'public/images/bin-diving.svg'
 
 const TAGLINE =
-  "There's a lot of rubbish on the internet. Describe what you're looking for and we'll use some AI magic to find a few recommendations."
+  "There's a lot of rubbish on the internet. Describe what you're looking for and we'll find a few recommendations."
 
 export function Header() {
   const pathname = usePathname()
@@ -25,10 +25,7 @@ export function Header() {
     >
       {showHeaderSearchBar ? (
         <>
-          <Link
-            href="/"
-            className="flex items-center gap-2 shrink-0 transition-all duration-300 ease-in flex-row"
-          >
+          <Link href="/" className="flex items-center gap-2 shrink-0 transition-all duration-300 ease-in flex-row">
             <Image
               src={logo}
               alt="Bin Diving"
@@ -55,10 +52,7 @@ export function Header() {
         <>
           <div className="flex justify-between items-start w-full">
             <div className="flex-1" />
-            <Link
-              href="/"
-              className="flex flex-row items-center gap-3 text-center shrink-0"
-            >
+            <Link href="/" className="flex flex-row items-center gap-3 text-center shrink-0">
               <Image
                 src={logo}
                 alt="Bin Diving"
