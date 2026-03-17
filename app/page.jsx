@@ -1,7 +1,7 @@
 'use client'
 
 import { useEffect, useRef, useState } from 'react'
-import { useRouter } from 'next/navigation'
+import { useRouter, useSearchParams } from 'next/navigation'
 import posthog from 'posthog-js'
 
 import ProductCard from '../components/product-card'
@@ -68,14 +68,25 @@ export default function Page() {
     search,
     getMoreOptions,
     updateQuery,
+    setQuery,
     setSearchProps,
     saveResultForShare
   } = useRecommendations()
 
   const router = useRouter()
+  const searchParams = useSearchParams()
   const onSearchRef = useRef(null)
   const [shareStatus, setShareStatus] = useState('idle') // idle | saving | copied | error
   const [shareError, setShareError] = useState(null)
+
+  // When landing with ?q= (e.g. from results page "search again"), run that search
+  useEffect(() => {
+    const q = searchParams.get('q')
+    if (q?.trim()) {
+      setQuery(q.trim())
+      search(q.trim(), true)
+    }
+  }, []) // eslint-disable-line react-hooks/exhaustive-deps -- run once on mount when q is present
 
   // Sync search props for header
   useEffect(() => {

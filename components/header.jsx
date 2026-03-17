@@ -2,6 +2,7 @@
 
 import Image from 'next/image'
 import Link from 'next/link'
+import { usePathname } from 'next/navigation'
 
 import { useSearchUI } from '../contexts/recommendations-context'
 import { ThemeSwitcher } from './theme-switcher'
@@ -12,15 +13,17 @@ const TAGLINE =
   "There's a lot of rubbish on the internet. Describe what you're looking for and we'll use some AI magic to find a few recommendations."
 
 export function Header() {
+  const pathname = usePathname()
   const { hasResults, searchProps } = useSearchUI()
+  const showHeaderSearchBar = hasResults && !pathname?.startsWith('/results')
 
   return (
     <header
       className={`flex items-center transition-all duration-300 ease-in border-b-2 border-[var(--retro-border)] ${
-        hasResults ? 'flex-row py-4' : 'flex-col pt-12 pb-8 sm:pt-16 sm:pb-12'
+        showHeaderSearchBar ? 'flex-row py-4' : 'flex-col pt-12 pb-8 sm:pt-16 sm:pb-12'
       }`}
     >
-      {hasResults ? (
+      {showHeaderSearchBar ? (
         <>
           <Link
             href="/"
