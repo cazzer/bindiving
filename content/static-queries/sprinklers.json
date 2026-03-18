@@ -1,0 +1,109 @@
+{
+  "slug": "sprinklers",
+  "query": "best sprinklers",
+  "title": "Best sprinklers | Bin Diving",
+  "description": "AI-dug recommendations for best sprinklers. Compare options and find one that fits.",
+  "dugAt": "2026-03-18T15:53:04.711Z",
+  "recommendations": [
+    {
+      "product_name": "Melnor XT Turbo Oscillating Sprinkler (XT series)",
+      "pros": [
+        "Large coverage",
+        "Adjustable spray/precision nozzles"
+      ],
+      "cons": [
+        "Plastic parts can wear over years",
+        "Performance varies with water pressure"
+      ],
+      "price": null,
+      "amazon_id": "B09YTHWYBS",
+      "sources": [
+        "https://www.forbes.com/sites/forbes-personal-shopper/article/best-sprinklers/",
+        "https://treecarezone.com/best-sprinklers-for-lawn-watering/",
+        "https://www.bobvila.com/articles/best-oscillating-sprinkler/"
+      ],
+      "amazon_url": "https://www.amazon.com/Melnor-65167AMZ-Turbo-Oscillating-Sprinkler/dp/B09YTHWYBS",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/X-0Tf4TM_ltJ3WKQZ-A6nM_zJE3tzVG5qmXjYI_KiTU/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9tLm1l/ZGlhLWFtYXpvbi5j/b20vaW1hZ2VzL0kv/NDFTbmViSWhLSUwu/anBn",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "Rain Bird 25PJDAC Brass Impact Sprinkler",
+      "pros": [
+        "Durable brass construction",
+        "Wide, adjustable coverage and reliable performance"
+      ],
+      "cons": [
+        "Can be overkill for very small yards",
+        "Higher flow rate uses more water"
+      ],
+      "price": null,
+      "amazon_id": "B00002N8NR",
+      "sources": [
+        "https://www.rainbird.com/products/25pjda-c-full-or-part-circle-brass-impact-sprinklers",
+        "https://www.homedepot.com/p/100153709",
+        "https://reviews.oneclearwinner.com/product/rain-bird-impact-sprinkler/"
+      ],
+      "amazon_url": "https://www.amazon.com/Rain-Bird-25PJDAC-Sprinkler-Adjustable/dp/B00002N8NR",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/3WAFaUBuD8iBl5z51RgbOHQ9g66ZI4ZuTy_mQrmesDM/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly93d3cu/c2hlbGxsdW1iZXIu/Y29tL2Nkbi9zaG9w/L2ZpbGVzLzk4NzQ0/NjIuanBnP3Y9MTc0/MTYzMDYwNyZ3aWR0/aD00ODA",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "Orbit Yard Enforcer / Motion-Activated Sprinkler (Orbit 62100 series)",
+      "pros": [
+        "Humane, effective pest deterrent",
+        "Easy to set up; battery-powered options"
+      ],
+      "cons": [
+        "Not for routine lawn irrigation",
+        "May trigger from pets or wildlife frequently"
+      ],
+      "price": null,
+      "amazon_id": "B009F1R0GC",
+      "sources": [
+        "https://www.homesandgardens.com/gardens/orbit-motion-activated-sprinkler",
+        "https://www.forbes.com/sites/forbes-personal-shopper/article/best-sprinklers/"
+      ],
+      "amazon_url": "https://www.amazon.com/Orbit-62100-Activated-Sprinkler-Detection/dp/B009F1R0GC",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/9d9W4w5QxlSWexNpjT89PBgdR8BJfZCWOGx95Uw-VmE/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9hc3Nl/dHMudW5pbG9nY29y/cC5jb20vMTg3L0lU/RU0vSU1HLzEwMjU1/Mzc3Ni5qcGc",
+      "resolver": "brave",
+      "valid": true
+    }
+  ],
+  "resolvedLinks": {
+    "https://treecarezone.com/best-sprinklers-for-lawn-watering/": {
+      "title": "Best Sprinklers for Lawn Watering: Top 10 in 2025",
+      "description": "Discover the best sprinklers for lawn watering in 2025. Expert reviews, comparisons & buyer's guide to save water & get lush lawns",
+      "image": "https://treecarezone.com/wp-content/uploads/2025/10/best-sprinklers-for-lawn-watering.jpg",
+      "url": "https://treecarezone.com/best-sprinklers-for-lawn-watering/"
+    },
+    "https://www.bobvila.com/articles/best-oscillating-sprinkler/": {
+      "title": "We Put The Best Oscillating Sprinklers Through Hours of Testing to Find the 7 Top Picks",
+      "description": "The best oscillating sprinklers provide even watering for lawns of all sizes. We tested 7 top options and review their pros and cons here.",
+      "image": "https://www.bobvila.com/wp-content/uploads/2021/01/The-Best-Oscillating-Sprinklers.jpg?quality=85&w=1200",
+      "url": "https://www.bobvila.com/articles/best-oscillating-sprinkler/"
+    },
+    "https://www.rainbird.com/products/25pjda-c-full-or-part-circle-brass-impact-sprinklers": {
+      "title": "25PJDA-C Full or Part Circle Brass Impact Sprinklers | Rain Bird",
+      "description": "",
+      "image": "",
+      "url": "https://www.rainbird.com/products/25pjda-c-full-or-part-circle-brass-impact-sprinklers"
+    },
+    "https://reviews.oneclearwinner.com/product/rain-bird-impact-sprinkler/": {
+      "title": "Our 10 Best Rain Bird Impact Sprinkler for 2026 [US] | OneClearWinner.com",
+      "description": "",
+      "image": "",
+      "url": "https://reviews.oneclearwinner.com/product/rain-bird-impact-sprinkler/"
+    },
+    "https://www.homesandgardens.com/gardens/orbit-motion-activated-sprinkler": {
+      "title": "I have tried everything to stop deer destroying my garden – this highly rated $49 motion-activated sprinkler is the only thing that works",
+      "description": "If deer have been invading your borders this year, the Orbit 62100 motion-activated sprinkler might just be your best option",
+      "image": "https://cdn.mos.cms.futurecdn.net/kUaXvs85RWdvKkguVFkST5-1600-80.jpg",
+      "url": "https://www.homesandgardens.com/gardens/orbit-motion-activated-sprinkler"
+    }
+  }
+}

@@ -1,0 +1,104 @@
+{
+  "slug": "bath-mats",
+  "query": "best bath mats",
+  "title": "Best bath mats | Bin Diving",
+  "description": "AI-dug recommendations for best bath mats. Compare options and find one that fits.",
+  "dugAt": "2026-03-18T15:49:11.131Z",
+  "recommendations": [
+    {
+      "product_name": "Yimobra Memory Foam Bath Mat",
+      "pros": [
+        "plush memory-foam comfort",
+        "machine washable",
+        "non-slip backing"
+      ],
+      "cons": [
+        "can take time to fully air-dry",
+        "some colors limited"
+      ],
+      "price": null,
+      "amazon_id": "B06XSHC3BK",
+      "sources": [
+        "https://www.hgtv.com/shopping/product-reviews/best-bath-mats",
+        "https://www.forbes.com/sites/forbes-personal-shopper/article/best-bath-mat/"
+      ],
+      "amazon_url": "https://www.amazon.com/Yimobra-Comfortable-Absorbent-Non-Slip-Bathroom/dp/B06XSHC3BK",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/5kCczfKnIm8hY13_SYQa2FVdZ4TntLZteZxlgBAiptY/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9tLm1l/ZGlhLWFtYXpvbi5j/b20vaW1hZ2VzL0kv/ODF4eS13SExxR0wu/anBn",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "Gorilla Grip Thick Memory Foam Bath Rug",
+      "pros": [
+        "highly absorbent velvet surface",
+        "durable non-slip backing",
+        "widely recommended in tests/reviews"
+      ],
+      "cons": [
+        "memory-foam can compress over very long use",
+        "avoid high-heat drying"
+      ],
+      "price": null,
+      "amazon_id": "B07Q2HCJX4",
+      "sources": [
+        "https://www.allure.com/story/best-bath-mats",
+        "https://gorillagrip.com/products/memory-foam-bath-rug"
+      ],
+      "amazon_url": "https://www.amazon.com/Gorilla-Grip-Memory-Foam-Bathroom-Rugs/dp/B07Q2HCJX4",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/AokXNDn8H-WgSLhT-31qd3-M5rxxXiGmcw6ra_QQigk/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9tLm1l/ZGlhLWFtYXpvbi5j/b20vaW1hZ2VzL0kv/NDFGWjBpdzhUcUwu/anBn",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "Ruggable Solid Bath Mat (washable rug system)",
+      "pros": [
+        "fully washable surface for easy cleaning",
+        "variety of colors/patterns",
+        "designed to resist mold/mildew"
+      ],
+      "cons": [
+        "replacement pad can be costly",
+        "some users report pad durability issues"
+      ],
+      "price": null,
+      "amazon_id": "B08XZ2KQZR",
+      "sources": [
+        "https://www.ruggableoffical.com/products/solid-beige-bath-mat",
+        "https://www.listful.com/guides/article/cozy-comfort-the-softest-and-most-absorbent-bath-mats-of-2025"
+      ],
+      "amazon_url": "https://www.amazon.com/Bathroom-Absorbent-Microfiber-Non-Slip-Machine/dp/B08XZ2KQZR",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/MGYUszvDfojhC5afiJChlaDpLbfLhpHFjh5Lk1EguFs/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly93d3cu/ZmFtaWx5aGFuZHlt/YW4uY29tL3dwLWNv/bnRlbnQvdXBsb2Fk/cy8yMDI0LzAzL0ZI/TUEyNF9SdWdnYWJs/ZS1HcmFkYXNpLVRl/YWwtUXVhcnR6LVJ1/Z19Bbm5hbWFyaWUt/SGlnbGV5XzAxX1NT/ZWRpdC5qcGc",
+      "resolver": "brave",
+      "valid": true
+    }
+  ],
+  "resolvedLinks": {
+    "https://www.hgtv.com/shopping/product-reviews/best-bath-mats": {
+      "title": "8 Best Bath Mats of 2026, Tested and Reviewed",
+      "description": "We stood and spilled on 20 bathroom rugs to find the softest, most absorbent and slip-resistant options that keep your toes dry and elevate your space.",
+      "image": "https://hgtvhome.sndimg.com/content/dam/images/hgtv/products/2024/1/23/rx_the-company-store_legends-hotel-regal-cotton-bath-rug.jpeg.rend.hgtvcom.616.616.85.suffix/1706046885954.webp",
+      "url": "https://www.hgtv.com/shopping/product-reviews/best-bath-mats"
+    },
+    "https://www.allure.com/story/best-bath-mats": {
+      "title": "Elevate Your Space With These Cozy Bath Mats",
+      "description": "Chic and practical can go hand in hand.",
+      "image": "https://media.allure.com/photos/65c3edbd9c02c8512dc01c60/16:9/w_1280,c_limit/Bath_Mats_001.jpg",
+      "url": "https://www.allure.com/story/best-bath-mats"
+    },
+    "https://gorillagrip.com/products/memory-foam-bath-rug": {
+      "title": "Memory Foam Bath Mat | Gorilla Grip",
+      "description": "Step out of the bath in superior comfort with our memory foam bath rugs. Constructed with an ultra absorbent plush top and available in different sizes.",
+      "image": "http://gorillagrip.com/cdn/shop/files/GG_BathRugMemory_Graphite_HERO.jpg?v=1714404745",
+      "url": "https://gorillagrip.com/products/memory-foam-bath-rug"
+    },
+    "https://www.ruggableoffical.com/products/solid-beige-bath-mat": {
+      "title": "Solid Beige Bath Mat",
+      "description": "Solid Beige Bath Mat",
+      "image": "https://cdn.statics-cdn-im.com/uploads/165611/cart/resources/20250825/17ADE713-C7DA-F504-D949-562E27A7D17B.jpg",
+      "url": "https://www.ruggableoffical.com/products/solid-beige-bath-mat?utm_source=sns_share&utm_medium=open_graph"
+    }
+  }
+}

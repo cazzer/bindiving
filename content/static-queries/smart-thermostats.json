@@ -1,0 +1,131 @@
+{
+  "slug": "smart-thermostats",
+  "query": "best smart thermostats",
+  "title": "Best smart thermostats | Bin Diving",
+  "description": "AI-dug recommendations for best smart thermostats. Compare options and find one that fits.",
+  "dugAt": "2026-03-18T15:58:37.364Z",
+  "recommendations": [
+    {
+      "product_name": "ecobee SmartThermostat Premium",
+      "pros": [
+        "Built-in voice assistant",
+        "Includes room sensors for balanced comfort",
+        "Supports wide smart-home ecosystems"
+      ],
+      "cons": [
+        "Higher price than budget models",
+        "Some users report cloud-dependence issues"
+      ],
+      "price": null,
+      "amazon_id": "B09XXS48P8",
+      "sources": [
+        "https://www.techgearlab.com/reviews/smart-home/thermostat/ecobee-smart-thermostat-premium",
+        "https://www.popularmechanics.com/home/a29644020/best-thermostats/",
+        "https://www.tomsguide.com/us/best-smart-home-devices%2Creview-2008.html"
+      ],
+      "amazon_url": "https://www.amazon.com/ecobee-Thermostat-Premium-Quality-Monitor/dp/B09XXS48P8",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/YKXsrCCCtVYFhZPiXgVB-IcrWF23Zm6VT1tCdfRxHm0/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9zaG9w/LnN1cHBsaWVkZW5l/cmd5LmNvbS9jZG4v/c2hvcC9maWxlcy9l/Y29iZWUzX2xpdGVf/UHJvX0VuZXJneVN0/YXJfVGhlcm1vc3Rh/dF8xMzQwM2Y0Yy04/MzlkLTQ4ZmItYWQ3/ZS1mMTBkYjc1NDQ2/MDBfNTMweEAyeC5w/bmc_dj0xNzAxMzEx/Mjkx",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "Google Nest Learning Thermostat (4th Gen)",
+      "pros": [
+        "Learns schedules to automate comfort",
+        "Premium design and display",
+        "Deep Google Home integration"
+      ],
+      "cons": [
+        "Fewer built-in room sensors than ecobee",
+        "Google has phased out support for some older Nest models (check compatibility)"
+      ],
+      "price": null,
+      "amazon_id": "B0D5BBYRJM",
+      "sources": [
+        "https://www.techgearlab.com/reviews/smart-home/thermostat/google-nest-learning-4th-gen",
+        "https://www.t3.com/home-living/smart-home/this-secret-google-feature-makes-your-smart-thermostat-look-like-wall-art",
+        "https://www.tomsguide.com/us/best-smart-thermostats%2Creview-2751.html"
+      ],
+      "amazon_url": "https://www.amazon.com/Google-Learning-Thermostat-Temperature-Sensor/dp/B0D5BBYRJM",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/63qYGermgeRMXeboL4Y_l6Gr5A1xXFrrI89MoBJHkbA/rs:fit:0:180:1:0/g:ce/aHR0cHM6Ly9oZWxp/b3MtaS5tYXNoYWJs/ZS5jb20vaW1hZ2Vy/eS9hcnRpY2xlcy8w/N3ZFZnFOQmNmYWlq/cU5LbUVCcGlVUS9p/bWFnZXMtMy5maXRf/bGltLnNpemVfMjE3/eDEzMy52MTcyMzA0/Njc2My5qcGc",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "Amazon Smart Thermostat",
+      "pros": [
+        "Very affordable",
+        "Good Alexa integration",
+        "ENERGY STAR certified (budget-friendly)"
+      ],
+      "cons": [
+        "Requires C-wire in many installs",
+        "Fewer advanced features than ecobee/Nest"
+      ],
+      "price": null,
+      "amazon_id": "B08J4C8871",
+      "sources": [
+        "https://www.tomsguide.com/us/best-smart-thermostats%2Creview-2751.html",
+        "https://www.howtogeek.com/765688/best-smart-thermostat/",
+        "https://www.homeowner.com/smart-home/best-smart-thermostats"
+      ],
+      "amazon_url": "https://www.amazon.com/Amazon-Smart-Thermostat/dp/B08J4C8871",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/Op_jcHIVp8wRB0dZU1jUODjTW2KEQb_6yGdBhq_DZzE/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9jZG4u/dGhld2lyZWN1dHRl/ci5jb20vd3AtY29u/dGVudC9tZWRpYS8y/MDIyLzExL3NtYXJ0/dGhlcm1vc3RhdHMt/MjA0OHB4LTMxMTgu/anBnP2F1dG89d2Vi/cCZxdWFsaXR5PTc1/JndpZHRoPTEwMjQ",
+      "resolver": "brave",
+      "valid": true
+    }
+  ],
+  "resolvedLinks": {
+    "https://www.techgearlab.com/reviews/smart-home/thermostat/ecobee-smart-thermostat-premium": {
+      "title": "Ecobee Smart Thermostat Premium Review",
+      "description": "The Ecobee Smart Thermostat Premium is an advanced home climate control device that integrates cutting-edge technology with user-friendly energy efficiency...",
+      "image": "https://djd1xqjx2kdnv.cloudfront.net/photos/38/5/502037_2182_XXL.jpg",
+      "url": "https://www.techgearlab.com/reviews/smart-home/thermostat/ecobee-smart-thermostat-premium"
+    },
+    "https://www.popularmechanics.com/home/a29644020/best-thermostats/": {
+      "title": "Thermostats That Truly Upgrade Your Home's Climate Control",
+      "description": "Conserve energy and cut costs with one of these editor-approved models.",
+      "image": "https://hips.hearstapps.com/hmg-prod/images/best-thermostats-66ba395b181b0.png?crop=1xw:1xh;center,top&resize=1200:*",
+      "url": "https://www.popularmechanics.com/home/a29644020/best-thermostats/"
+    },
+    "https://www.tomsguide.com/us/best-smart-home-devices%2Creview-2008.html": {
+      "title": "The best smart home devices",
+      "description": "The best smart home devices can raise your home's IQ, from security cameras and Wi-Fi locks to smart light bulbs.",
+      "image": "https://cdn.mos.cms.futurecdn.net/VPvArtsPRQQjoNgiXvprSC-2560-80.jpg",
+      "url": "https://www.tomsguide.com/us/best-smart-home-devices,review-2008.html"
+    },
+    "https://www.techgearlab.com/reviews/smart-home/thermostat/google-nest-learning-4th-gen": {
+      "title": "Google Nest Learning 4th Gen Review",
+      "description": "The Google Nest Learning Thermostat 4th Gen is the gold standard for smart home climate control. Like its Nest predecessors, the latest model features...",
+      "image": "https://djd1xqjx2kdnv.cloudfront.net/photos/40/25/524012_15185_XXL.jpg",
+      "url": "https://www.techgearlab.com/reviews/smart-home/thermostat/google-nest-learning-4th-gen"
+    },
+    "https://www.t3.com/home-living/smart-home/this-secret-google-feature-makes-your-smart-thermostat-look-like-wall-art": {
+      "title": "This secret Google feature makes your smart thermostat look like wall art",
+      "description": "There's so many options to choose from",
+      "image": "https://cdn.mos.cms.futurecdn.net/rsJUaQ2pAChPSZk73tmfEL-1079-80.jpg",
+      "url": "https://www.t3.com/home-living/smart-home/this-secret-google-feature-makes-your-smart-thermostat-look-like-wall-art"
+    },
+    "https://www.tomsguide.com/us/best-smart-thermostats%2Creview-2751.html": {
+      "title": "These are the 3 best smart thermostats we've tested to control your home's temperature and bring down energy costs",
+      "description": "As energy prices rise, the best thermostats help you heat or cool your home efficiently",
+      "image": "https://cdn.mos.cms.futurecdn.net/NjC2RtCQ7i9S8cmEuyxcbX-2000-80.jpg",
+      "url": "https://www.tomsguide.com/us/best-smart-thermostats,review-2751.html"
+    },
+    "https://www.howtogeek.com/765688/best-smart-thermostat/": {
+      "title": "The Best Smart Thermostats of 2024",
+      "description": "Keep your house at the perfect temperature while saving on your utility bill with one of these smart thermostats.",
+      "image": "https://static0.howtogeekimages.com/wordpress/wp-content/uploads/2023/04/52551699068_df15ffd6a6_o-1.jpg?w=1600&h=900&fit=crop",
+      "url": "https://www.howtogeek.com/765688/best-smart-thermostat/"
+    },
+    "https://www.homeowner.com/smart-home/best-smart-thermostats": {
+      "title": "Best Smart Thermostats That Can Automatically Save You Money",
+      "description": "",
+      "image": "https://pub-7507cdf9294f4615952708e20adbf251.r2.dev/posts/best-smart-thermostats/rebate-thermostat.jpg",
+      "url": "https://www.homeowner.com/smart-home/best-smart-thermostats/"
+    }
+  }
+}

@@ -1,0 +1,117 @@
+{
+  "slug": "garden-pruners",
+  "query": "best garden pruners",
+  "title": "Best garden pruners | Bin Diving",
+  "description": "AI-dug recommendations for best garden pruners. Compare options and find one that fits.",
+  "dugAt": "2026-03-18T15:52:01.169Z",
+  "recommendations": [
+    {
+      "product_name": "FELCO F-2 Classic Manual Hand Pruner",
+      "pros": [
+        "Durable, Swiss-made build",
+        "Replaceable blades and parts",
+        "Clean, precise bypass cuts"
+      ],
+      "cons": [
+        "Higher upfront cost",
+        "Can be heavy for very small hands"
+      ],
+      "price": null,
+      "amazon_id": "B00023RYS6",
+      "sources": [
+        "https://america.felco.com/products/felco-2",
+        "https://essentialindoorplants.com/best-pruning-shears/"
+      ],
+      "amazon_url": "https://www.amazon.com/Felco-F-2-Classic-Manual-Pruner/dp/B00023RYS6",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/dMTbXN0N1VwteBSmyDTBEEsfYInMiqqFD6rvLG0ejpM/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9tLm1l/ZGlhLWFtYXpvbi5j/b20vaW1hZ2VzL0kv/NTFzcXFieWFobEwu/anBn",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "Corona BP 3180 Forged Classic Bypass Pruner",
+      "pros": [
+        "Forged steel blade — resharpenable",
+        "Comfortable nonslip grip",
+        "Good value for general gardening"
+      ],
+      "cons": [
+        "Blade may need periodic sharpening",
+        "Not specialized for arthritic hands"
+      ],
+      "price": null,
+      "amazon_id": "B00004R9YQ",
+      "sources": [
+        "https://coronatools.com/bp-3180-classic-cut-bypass-pruner-1-in.html",
+        "https://www.hgtv.com/shopping/product-reviews/best-pruning-shears"
+      ],
+      "amazon_url": "https://www.amazon.com/Corona-BP-3180D-Classic-Capacity/dp/B00004R9YQ",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/39GZ64nSKwBzeTKUvThPB7cx3AFcvffgfhRY_-wsX_Q/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9pLmVi/YXlpbWcuY29tL2lt/YWdlcy9nL3Z5a0FB/ZVN3VEJCb0VZYjAv/cy1sNTAwLmpwZw",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "The Gardener's Friend Ratchet Pruning Shears (Ratchet/Anvil)",
+      "pros": [
+        "Ratchet mechanism reduces hand force",
+        "Good for users with weak hands or arthritis",
+        "Often highlighted in recent expert roundups"
+      ],
+      "cons": [
+        "Anvil/rachet style can crush live stems vs bypass",
+        "Larger profile than slim secateurs"
+      ],
+      "price": null,
+      "amazon_id": "B00CWF7YBE",
+      "sources": [
+        "https://thegardenersfriend.com/products/bypass-lopper",
+        "https://www.tomsguide.com/best-picks/best-pruning-shears",
+        "https://www.forbes.com/sites/forbes-personal-shopper/article/best-pruning-shears/"
+      ],
+      "amazon_url": "https://www.amazon.com/Gardeners-Friend-Ratchet-Gardening-Occasion/dp/B00CWF7YBE",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/LyhUT6MgKGQGWL7afmtz25CRCE3KsV6frEltKp7tg7Q/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9jZG4u/bW9zLmNtcy5mdXR1/cmVjZG4ubmV0L25u/RkFCOW1pdHFyRUNz/WFNtWVF5ZUIuanBn",
+      "resolver": "brave",
+      "valid": true
+    }
+  ],
+  "resolvedLinks": {
+    "https://america.felco.com/products/felco-2": {
+      "title": "FELCO 2 Pruner | The Icon with Lifetime Warranty",
+      "description": "The Iconic FELCO 2 pruning shears offer Swiss precision, iconic design, and lasting durability—designed for medium hands and backed by a lifetime warranty.",
+      "image": "http://america.felco.com/cdn/shop/files/FELCO_2.png?v=1773752955",
+      "url": "https://america.felco.com/products/felco-2"
+    },
+    "https://essentialindoorplants.com/best-pruning-shears/": {
+      "title": "Best Pruning Shears 2025: Top Expert Picks & Reviews",
+      "description": "Discover the best pruning shears for 2025. Top-rated Felco, Fiskars, and more. Expert reviews, buying guide for gardening tools.",
+      "image": "https://essentialindoorplants.com/wp-content/uploads/2025/12/38329d5a-533a-456c-ae58-f3bb70a95ba4.jpg",
+      "url": "https://essentialindoorplants.com/best-pruning-shears/"
+    },
+    "https://coronatools.com/bp-3180-classic-cut-bypass-pruner-1-in.html": {
+      "title": "ClassicCUT® Bypass Pruner, 1 in. Cut Capacity",
+      "description": "1 inch cut capacity, replaceable blade, all steel.",
+      "image": "http://coronatools.com/cdn/shop/files/hlvlhqlztouuzooj1qbi_efd286cd-02b4-4104-bc9c-56541a07851e.jpg?v=1773807136",
+      "url": "https://coronatools.com/products/bp-3180d"
+    },
+    "https://www.hgtv.com/shopping/product-reviews/best-pruning-shears": {
+      "title": "8 Best Pruning Shears of 2026, Tested and Reviewed",
+      "description": "Make every garden clean-up a breeze with the right pair of pruners.",
+      "image": "https://hgtvhome.sndimg.com/content/dam/images/hgtv/fullset/2024/8/29/2/Original_Stacy-Tornio_Pruners-Test_Group-3.JPG.rend.hgtvcom.616.462.85.suffix/1724961790329.webp",
+      "url": "https://www.hgtv.com/shopping/product-reviews/best-pruning-shears"
+    },
+    "https://thegardenersfriend.com/products/bypass-lopper": {
+      "title": "Bypass Lopper | Heavy Duty Steel Pruning Shears For Garden",
+      "description": "Enhance your gardening experience with our heavy duty steel pruning shears. The bypass lopper is perfect for precise cuts and maintaining tree health.",
+      "image": "http://thegardenersfriend.com/cdn/shop/products/TGF-loppers-02.jpg?v=1551011157",
+      "url": "https://thegardenersfriend.com/products/bypass-lopper"
+    },
+    "https://www.tomsguide.com/best-picks/best-pruning-shears": {
+      "title": "Best pruning shears in 2025: Tested and rated",
+      "description": "We tested a range of tools to find the best pruning shears you can buy",
+      "image": "https://cdn.mos.cms.futurecdn.net/P8NQWViwGcPnh8fLVNhSMS-2000-80.jpg",
+      "url": "https://www.tomsguide.com/best-picks/best-pruning-shears"
+    }
+  }
+}

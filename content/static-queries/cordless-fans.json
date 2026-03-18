@@ -1,0 +1,130 @@
+{
+  "slug": "cordless-fans",
+  "query": "best cordless fans",
+  "title": "Best cordless fans | Bin Diving",
+  "description": "AI-dug recommendations for best cordless fans. Compare options and find one that fits.",
+  "dugAt": "2026-03-18T15:57:59.070Z",
+  "recommendations": [
+    {
+      "product_name": "Shark FlexBreeze HydroGo Misting Portable Fan",
+      "pros": [
+        "Built-in evaporative misting",
+        "Rechargeable cordless use",
+        "Multiple speeds/modes"
+      ],
+      "cons": [
+        "Can sell out quickly",
+        "Misting requires water/refill"
+      ],
+      "price": null,
+      "amazon_id": "B0DXQYRMXK",
+      "sources": [
+        "https://www.techradar.com/home/air-quality/shark-flexbreeze-hydrogo-misting-portable-fan-review",
+        "https://www.nbcnews.com/select/shopping/shark-flexbreeze-hydrogo-fan-sale-rcna212960",
+        "https://www.sharkclean.com/products/shark-flexbreeze-hydrogo-misting-portable-fan-honeydew-zidFA052GN"
+      ],
+      "amazon_url": "https://www.amazon.com/Shark-FlexBreeze-Fan-Ultra-powerful-evaporative-FA052/dp/B0DXQYRMXK",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/n4Ls9_Tp0Y88lY7eYZH1rZpP8VciTKtAsx3DqbutgDo/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9jYi5z/Y2VuZTcuY29tL2lz/L2ltYWdlL0NyYXRl/L1NoYXJrRmx4QnJ6/UHJ0RmFuR3lTU0Yy/NV9WTkQ_JHdlYl9w/ZHBfbWFpbl9jYXJv/dXNlbF9tZWQk",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "Honeywell Turbo On The Go Personal Fan (HTF090B)",
+      "pros": [
+        "Very budget-friendly",
+        "USB or batteries — versatile power",
+        "Compact, travel-friendly"
+      ],
+      "cons": [
+        "Lower max airflow vs larger fans",
+        "Small size for personal use only"
+      ],
+      "price": null,
+      "amazon_id": "B00YU0W3CY",
+      "sources": [
+        "https://www.honeywellpluggedin.com/fans/turbo-on-the-go-personal-fan-htf090b/",
+        "https://theinsidereview.com/03_appliances/honeywell-htf090b-turbo-on-the-go-usb-battery-portable-fan-review-pros-cons-rumors-debunked/",
+        "https://shopsavvy.com/best-picks/best-cordless-fans"
+      ],
+      "amazon_url": "https://www.amazon.com/Honeywell-HTF090B-Turbo-Personal-Filter/dp/B00YU0W3CY",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/sYPNoK6qWrlwTkA86xO1810sbRKl4Ss-v3d_Q1NnSZQ/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9pLmVi/YXlpbWcuY29tL3Ro/dW1icy9pbWFnZXMv/Zy9weXdBQU9Td0ty/eGo5N2p0L3MtbDQw/MC53ZWJw",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "MeacoFan 260c Cordless Air Circulator",
+      "pros": [
+        "True cordless desk/air-circulator design",
+        "Quiet operation",
+        "Long battery/runtime for small fan"
+      ],
+      "cons": [
+        "Smaller coverage area (desk-sized)",
+        "Primarily a desktop unit"
+      ],
+      "price": "$69.99",
+      "amazon_id": "B07DTHYKPP",
+      "sources": [
+        "https://www.techradar.com/reviews/meacofan-260c-cordless-air-circulator-review",
+        "https://www.pocket-lint.com/gadgets/reviews/157326-meacofan-260c-portable-cordless-fan-review",
+        "https://www.bestproductsreviews.com/cordless-fan"
+      ],
+      "image_url": "https://images-na.ssl-images-amazon.com/images/G/01/x-locale/common/grey-pixel.gif",
+      "images": [
+        "https://images-na.ssl-images-amazon.com/images/G/01/x-locale/common/grey-pixel.gif"
+      ],
+      "amazon_url": "https://www.amazon.com/Meaco-MeacoFan-Circulator-Ultra-Quiet-Low-Energy/dp/B07DTHYKPP/ref=mp_s_a_1_1?dib=eyJ2IjoiMSJ9.GVnaWiK-PeYYvXZre-m3GQf6O-ACYT8bU5Ss0DAJiEgZIyIXBVCrWHkD67ZK6x6TKuovGPgQ2cwhSa46TZ5ZJyu-0WA6KZINrhE1a8Lwn_7oUq-tB54bl2F25m2BdKK3mFxBk2BL5phnH5dJSpPVOnhTg7PiWvBdau7Q_BFobfFRmpkLIjioMMMPkbu1IlqXUbk4F7bbA8NZuNXg3YIvrw.AL5S0Z12q2gD57CkUhUkdg6Oj4vsGpLzv1ojTyDbmac&dib_tag=se&keywords=MeacoFan+260c+Cordless+Air+Circulator&qid=1773849467&sr=8-1",
+      "brand": "Meaco MeacoFan 1056 Air Circulator Desk Cooling Fan Ultra-Quiet, Low-Energy DC Fan",
+      "blackFriday": false,
+      "gpt_azn": null,
+      "resolver": "cheerio",
+      "valid": true
+    }
+  ],
+  "resolvedLinks": {
+    "https://www.techradar.com/home/air-quality/shark-flexbreeze-hydrogo-misting-portable-fan-review": {
+      "title": "I tested this portable misting fan, and it immediately became my summer essential",
+      "description": "The Shark FlexBreeze HydroGo can keep you cool wherever you go",
+      "image": "https://cdn.mos.cms.futurecdn.net/CmKLGxzoqhFKdR95ft6DVY-2000-80.jpg",
+      "url": "https://www.techradar.com/home/air-quality/shark-flexbreeze-hydrogo-misting-portable-fan-review"
+    },
+    "https://www.nbcnews.com/select/shopping/shark-flexbreeze-hydrogo-fan-sale-rcna212960": {
+      "title": "Get Shark’s popular FlexBreeze fan for 20% off right now",
+      "description": "The portable fan is on sale for $120.",
+      "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2025-06/250613-deal-of-the-day-shark-flexbreeze-oo-main-e59143.jpg",
+      "url": "https://www.nbcnews.com/select/shopping/shark-flexbreeze-hydrogo-fan-sale-rcna212960"
+    },
+    "https://theinsidereview.com/03_appliances/honeywell-htf090b-turbo-on-the-go-usb-battery-portable-fan-review-pros-cons-rumors-debunked/": {
+      "title": "Honeywell HTF090B Turbo on the Go USB/Battery Portable Fan Review: Pros, Cons & Rumors Debunked",
+      "description": "Honeywell HTF090B Turbo on the Go Personal Fan, Black – Small, Portable Fan Stay cool anywhere with the Honeywell HTF090...",
+      "image": "https://theinsidereview.com/wp-content/uploads/2025/05/71tyBh3LygL._AC_SX679_.jpg",
+      "url": "https://theinsidereview.com/03_appliances/honeywell-htf090b-turbo-on-the-go-usb-battery-portable-fan-review-pros-cons-rumors-debunked/"
+    },
+    "https://shopsavvy.com/best-picks/best-cordless-fans": {
+      "title": "Best Cordless Fans for 2025 🌬️ - ShopSavvy Best Picks",
+      "description": "Hey there! Welcome to our guide on the best cordless fans for 2024. Whether you're prepping for a ca...",
+      "image": "https://x.shopsavvy.com/https://x.shopsavvy.com/https://m.media-amazon.com/images/I/41aFyDseEsL._SL500_.jpg",
+      "url": "https://shopsavvy.com/best-picks/best-cordless-fans"
+    },
+    "https://www.techradar.com/reviews/meacofan-260c-cordless-air-circulator-review": {
+      "title": "MeacoFan 260c Cordless Air Circulator review",
+      "description": "A compact, cordless portable fan that you can set up anywhere",
+      "image": "https://cdn.mos.cms.futurecdn.net/iZ3U4foKo7AePcJdQXUtNT-2560-80.jpg",
+      "url": "https://www.techradar.com/reviews/meacofan-260c-cordless-air-circulator-review"
+    },
+    "https://www.pocket-lint.com/gadgets/reviews/157326-meacofan-260c-portable-cordless-fan-review": {
+      "title": "MeacoFan 260C Portable Cordless Fan review: Wire-free cooling",
+      "description": "This cordless fan needn't live by a plug, which is its big sell. It's quiet and effective given its size, too, so what - if anything - is lacking?",
+      "image": "https://static0.pocketlintimages.com/wordpress/wp-content/uploads/wm/157326-gadgets-review-meacofan-260c-portable-cordless-fan-review-image1-bnvpakic1e.jpg?w=1600&h=900&fit=crop",
+      "url": "https://www.pocket-lint.com/gadgets/reviews/157326-meacofan-260c-portable-cordless-fan-review/"
+    },
+    "https://www.bestproductsreviews.com/cordless-fan": {
+      "title": "",
+      "description": "",
+      "image": "",
+      "url": "https://www.bestproductsreviews.com/cordless-fan"
+    }
+  }
+}

@@ -1,0 +1,116 @@
+{
+  "slug": "space-heaters",
+  "query": "best space heaters",
+  "title": "Best space heaters | Bin Diving",
+  "description": "AI-dug recommendations for best space heaters. Compare options and find one that fits.",
+  "dugAt": "2026-03-18T15:56:05.298Z",
+  "recommendations": [
+    {
+      "product_name": "Lasko Ellipse Ceramic Tower Heater",
+      "pros": [
+        "Quiet operation",
+        "Oscillating for even heat"
+      ],
+      "cons": [
+        "Can be large for small spaces",
+        "No oil-radiant warmth"
+      ],
+      "price": null,
+      "amazon_id": "B0C62J73FW",
+      "sources": [
+        "https://www.tomsguide.com/best-picks/best-space-heaters",
+        "https://www.popularmechanics.com/home/tools/a29389142/space-heaters//",
+        "https://www.reviewed.com/home-outdoors/best-right-now/the-best-space-heaters"
+      ],
+      "amazon_url": "https://www.amazon.com/Lasko-Tip-Over-Thermostat-Oscillation-CT18950/dp/B0C62J73FW",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/qb7LdsrFzN1Rctf5JjY4uMNb9QCutphG6pQYax8Q274/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9tLm1l/ZGlhLWFtYXpvbi5j/b20vaW1hZ2VzL0kv/NDE5b2k0VWtRREwu/anBn",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "DeLonghi Oil-Filled Radiator (popular DeLonghi radiator models)",
+      "pros": [
+        "Long-lasting radiant heat",
+        "Good for overnight use"
+      ],
+      "cons": [
+        "Slower to warm up than fan heaters",
+        "Heavier / less portable"
+      ],
+      "price": null,
+      "amazon_id": "B07WSJZH1G",
+      "sources": [
+        "https://learnmetrics.com/best-oil-filled-radiator-heaters/",
+        "https://www.nbcnews.com/select/shopping/best-space-heaters-rcna240756",
+        "https://www.reviewed.com/home-outdoors/best-right-now/the-best-space-heaters"
+      ],
+      "amazon_url": "https://www.amazon.com/DeLonghi-Oil-Filled-Radiator-Adjustable-Thermostat/dp/B07WSJZH1G",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/II7z4rwjlhsPaen_pY8FHs8i6l4Oxri-BNv1bdcCEkI/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9jZG4u/bW9zLmNtcy5mdXR1/cmVjZG4ubmV0L1hH/VGpvaXJYQ2hwWFd5/OGRqYWhzcUwuanBn",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "Shark TurboBlade Cool + Heat (2-in-1)",
+      "pros": [
+        "Heats quickly and doubles as a fan",
+        "10-foot cord for flexible placement"
+      ],
+      "cons": [
+        "May be louder on high fan settings",
+        "Higher price than basic models"
+      ],
+      "price": null,
+      "amazon_id": "B0FM9CR2RF",
+      "sources": [
+        "https://www.tomsguide.com/home/home-appliances/act-fast-sharks-genius-2-in-1-space-heater-is-50-percent-off-at-amazon",
+        "https://www.tomsguide.com/best-picks/best-space-heaters",
+        "https://www.forbes.com/sites/forbes-personal-shopper/article/best-space-heater-for-large-rooms//"
+      ],
+      "amazon_url": "https://www.amazon.com/Shark-TurboBlade-Cool-Heat-Customizable/dp/B0FM9CR2RF",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/ld_ZuCT8nMsjzp7XO1j6ubpJfEJg5lBQG82TsPOEhRY/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9lY29z/aWZpZWQuY29tL2Nk/bi9zaG9wL2ZpbGVz/LzYxMUY4bGtTNUxM/Ll9BQ19TTDE1MDAu/anBnP3Y9MTc1OTIz/MzM5MSZ3aWR0aD0x/NDQ1",
+      "resolver": "brave",
+      "valid": true
+    }
+  ],
+  "resolvedLinks": {
+    "https://www.tomsguide.com/best-picks/best-space-heaters": {
+      "title": "Best space heaters in 2026 — expert tested and rated",
+      "description": "Here are the best space heaters to keep you toasty all year round",
+      "image": "https://cdn.mos.cms.futurecdn.net/pJMn7sQfdJsjA3FPUk3zUa-1920-80.jpg",
+      "url": "https://www.tomsguide.com/best-picks/best-space-heaters"
+    },
+    "https://www.popularmechanics.com/home/tools/a29389142/space-heaters//": {
+      "title": "Our Favorite Ceramic and Radiant Space Heaters Warm You Fast. But Which Style Is Actually Best?",
+      "description": "Warm up your living room or home office this winter, and maybe save a few bucks on your electric bill while you’re at it.",
+      "image": "https://hips.hearstapps.com/hmg-prod/images/dreo-whole-room-heater-007-69a091e9b43b5.jpg?crop=1.00xw:0.755xh;0,0.137xh&resize=1200:*",
+      "url": "https://www.popularmechanics.com/home/tools/a29389142/space-heaters/"
+    },
+    "https://www.reviewed.com/home-outdoors/best-right-now/the-best-space-heaters": {
+      "title": "The Best Space Heaters of 2026",
+      "description": "Sometimes you just want to be warm.",
+      "image": "https://reviewed-com-res.cloudinary.com/image/fetch/s--Mc3W4McZ--/b_white,c_limit,cs_srgb,f_auto,fl_progressive.strip_profile,g_center,q_auto,w_1200/https://reviewed-production.s3.amazonaws.com/1568232277000/best-space-heaters-hero-3.jpg",
+      "url": "https://www.reviewed.com/home-outdoors/best-right-now/the-best-space-heaters"
+    },
+    "https://learnmetrics.com/best-oil-filled-radiator-heaters/": {
+      "title": "4 Best Oil-Filled Radiator Heaters In 2025 (With ECO Thermostats)",
+      "description": "Out of all types of space heaters, oil-filled radiator heaters are the most energy efficient. With the inclusion of the ECO thermostats, the best oil-filled space heaters can be used to heat up to 170 sq ft rooms at a minimal electricity cost (up to 70% lower running cost than regular heaters have). We are ... Read more",
+      "image": "https://learnmetrics.com/wp-content/uploads/thermostat-on-an-oil-filled-space-heater.webp",
+      "url": "https://learnmetrics.com/best-oil-filled-radiator-heaters/"
+    },
+    "https://www.nbcnews.com/select/shopping/best-space-heaters-rcna240756": {
+      "title": "How to find the best space heater for any room, plus tips on how to use them safely",
+      "description": "Plus, tips on how to use them safely",
+      "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2025-10/251030-best-space-heaters-oo-main-e43177.jpg",
+      "url": "https://www.nbcnews.com/select/shopping/best-space-heaters-rcna240756"
+    },
+    "https://www.tomsguide.com/home/home-appliances/act-fast-sharks-genius-2-in-1-space-heater-is-50-percent-off-at-amazon": {
+      "title": "Beat the cold! Shark's 2-in-1 space heater is 50% off at Amazon right now",
+      "description": "A Black Friday-beating deal, and it won't last long",
+      "image": "https://cdn.mos.cms.futurecdn.net/mVg3AVkG5YH7WUQaGYDp7i-1920-80.jpg",
+      "url": "https://www.tomsguide.com/home/home-appliances/act-fast-sharks-genius-2-in-1-space-heater-is-50-percent-off-at-amazon"
+    }
+  }
+}

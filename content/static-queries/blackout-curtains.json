@@ -1,0 +1,97 @@
+{
+  "slug": "blackout-curtains",
+  "query": "best blackout curtains",
+  "title": "Best blackout curtains | Bin Diving",
+  "description": "AI-dug recommendations for best blackout curtains. Compare options and find one that fits.",
+  "dugAt": "2026-03-18T16:07:51.482Z",
+  "recommendations": [
+    {
+      "product_name": "Quince Cotton Slub Blackout Curtain",
+      "pros": [
+        "cotton slub texture",
+        "true blackout lining",
+        "many color options"
+      ],
+      "cons": [
+        "higher price than budget brands",
+        "occasional stock delays"
+      ],
+      "price": "$82.98",
+      "amazon_id": "B0CYLVJR1L",
+      "sources": [
+        "https://www.purewow.com/home/best-blackout-curtains",
+        "https://www.nbcnews.com/select/shopping/best-blackout-curtains-ncna1261085"
+      ],
+      "image_url": "https://images-na.ssl-images-amazon.com/images/G/01/x-locale/common/grey-pixel.gif",
+      "images": [
+        "https://images-na.ssl-images-amazon.com/images/G/01/x-locale/common/grey-pixel.gif"
+      ],
+      "amazon_url": "https://www.amazon.com/Blackout-Curtains-Bedroom-Insulated-Darkening/dp/B0CYLVJR1L/ref=mp_s_a_1_3?dib=eyJ2IjoiMSJ9.UEuHLk_IJhMxI1gjPLXOcRqrgu8Y4rahbym4t-Clh4zfupXTrvBRXHSIPDEV5hryrMwbAQKLDnKD2BVWmYYKyyc-Vu_GTj2EJKSGQw_U9px8iX_tu0TH-5b6-obCu8-A0ysdytPiE4OX_R17YTW9b-GuXD9jMBKvZlOzagBBR47a-G3XbGO0paYkVSRPuThq.Anidl_qjjcs0yqCt1JdCfNwyrNy2qqaU9o_DOaUfkvI&dib_tag=se&keywords=Quince+Cotton+Slub+Blackout+Curtain&qid=1773850069&sr=8-3",
+      "brand": "Guken Cream 100% Blackout Curtains 144 Inch Length 2 Panels Set for Living Room Bedroom Back Tab Thermal Insulated Black Out Linen Drapes Room Darkening Window Curtains",
+      "blackFriday": false,
+      "gpt_azn": null,
+      "resolver": "cheerio",
+      "valid": true
+    },
+    {
+      "product_name": "Sun Zero Oslo Theater-Grade Blackout Curtain",
+      "pros": [
+        "theater-grade 100% blackout",
+        "thermal and noise-reducing properties",
+        "very affordable options"
+      ],
+      "cons": [
+        "some styles are rod-pocket only",
+        "limited premium fabric options"
+      ],
+      "price": null,
+      "amazon_id": "B07NDXDW7M",
+      "sources": [
+        "https://www.forbes.com/sites/forbes-personal-shopper/article/the-best-blackout-curtains/",
+        "https://www.homedepot.com/p/324168724"
+      ],
+      "amazon_url": "https://www.amazon.com/Sun-Zero-Theater-Extreme-Blackout/dp/B07NDXDW7M",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/35mJhzswf6jdNMgZ4wzDxrs69bTNezz7jfX0bFCAvMk/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9pLmVi/YXlpbWcuY29tL2lt/YWdlcy9nL3lKUUFB/T1N3eFFKbkk3WH4v/cy1sNTAwLndlYnA",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "Amazon Basics Room-Darkening Blackout Window Curtains",
+      "pros": [
+        "excellent value",
+        "widely available on Amazon",
+        "effective room darkening for most rooms"
+      ],
+      "cons": [
+        "not always fully 100% blackout",
+        "basic styling"
+      ],
+      "price": null,
+      "amazon_id": "B07B43GM79",
+      "sources": [
+        "https://www.forbes.com/sites/forbes-personal-shopper/article/the-best-blackout-curtains/",
+        "https://www.nbcnews.com/select/shopping/best-blackout-curtains-ncna1261085"
+      ],
+      "amazon_url": "https://www.amazon.com/AmazonBasics-Room-Darkening-Blackout-Curtain-Grommets/dp/B07B43GM79",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/V0dHofAKxWvEHpllyOGzL7HwdlWzpHS763lmeYr6vRA/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9tLm1l/ZGlhLWFtYXpvbi5j/b20vaW1hZ2VzL0kv/MzEyNXZzSzFtR0wu/anBn",
+      "resolver": "brave",
+      "valid": true
+    }
+  ],
+  "resolvedLinks": {
+    "https://www.purewow.com/home/best-blackout-curtains": {
+      "title": "The 10 Best Blackout Curtains to Help You Sleep Better (Despite Your Neighbor's Finicky Flood Lights)",
+      "description": "The best blackout curtains are both stylish and functional, with our picks from Pottery Barn, Wayfair and more. We focused on finding curtains and shades that are opaque, as well as options for nurseries, travel and renter-friendly ones for apartments.",
+      "image": "https://publish.purewow.net/wp-content/uploads/sites/2/2024/03/best-blackout-curtains-editors-picks.png?fit=1174%2C630",
+      "url": "https://www.purewow.com/home/best-blackout-curtains"
+    },
+    "https://www.nbcnews.com/select/shopping/best-blackout-curtains-ncna1261085": {
+      "title": "The sun could be fading your furniture, but this simple switch can help",
+      "description": "Blackout curtains can help promote uninterrupted sleep. We spoke with experts about what to look for and share their recommended picks.",
+      "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/newscms/2023_11/3598265/230313-blackout-curtains-vl-2x1.jpg",
+      "url": "https://www.nbcnews.com/select/shopping/best-blackout-curtains-ncna1261085"
+    }
+  }
+}

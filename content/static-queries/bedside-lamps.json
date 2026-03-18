@@ -1,0 +1,100 @@
+{
+  "slug": "bedside-lamps",
+  "query": "best bedside lamps",
+  "title": "Best bedside lamps | Bin Diving",
+  "description": "AI-dug recommendations for best bedside lamps. Compare options and find one that fits.",
+  "dugAt": "2026-03-18T16:10:44.847Z",
+  "recommendations": [
+    {
+      "product_name": "BenQ e-Reading LED Desk Lamp",
+      "pros": [
+        "Wide, even illumination",
+        "Adjustable color temperature",
+        "One-touch controls"
+      ],
+      "cons": [
+        "Larger/desk-oriented for small nightstands",
+        "Higher price"
+      ],
+      "price": "$199",
+      "amazon_id": "B0178HLTXO",
+      "sources": [
+        "https://www.tomsguide.com/home/home-office/this-color-changing-desk-lamp-is-one-of-my-favorite-home-office-upgrades-of-the-year"
+      ],
+      "amazon_url": "https://www.amazon.com/BenQ-eReading-LED-Desk-Lamp/dp/B0178HLTXO",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/rJAww93AaJGd4aBdWccpXDbafSni02vazVM77ls3ykg/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9pLmVi/YXlpbWcuY29tL2lt/YWdlcy9nL1FEY0FB/ZVN3TjJ0cGpRQ0gv/cy1sMjI1LmpwZw",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "Govee RGBIC Smart Table Lamp 2",
+      "pros": [
+        "Color-changing/mood lighting",
+        "Smart-home compatibility",
+        "Compact bedside size"
+      ],
+      "cons": [
+        "Can be bright for night use without dimming",
+        "Some features require app"
+      ],
+      "price": null,
+      "amazon_id": "B0D41XL87F",
+      "sources": [
+        "https://www.bestreviews.guide/bedside-lamps"
+      ],
+      "amazon_url": "https://www.amazon.com/Govee-Bedside-Changing-Bedroom-Dimmable/dp/B0D41XL87F",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/unKSnD1gRVE9r729Fnpl6a7xjd2cZrK_K1lJcB27-Ic/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9tLm1l/ZGlhLWFtYXpvbi5j/b20vaW1hZ2VzL0kv/NjFoZVRQa2NJVUwu/anBn",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "IKEA SPETSBOJ Table Lamp",
+      "pros": [
+        "Affordable and stylish",
+        "Compact bedside-friendly size",
+        "Viral/popular design"
+      ],
+      "cons": [
+        "Basic features (no smart functions)",
+        "Limited color/finish availability sometimes"
+      ],
+      "price": "$39.99",
+      "amazon_id": "B084MJFL8M",
+      "sources": [
+        "https://www.idealhome.co.uk/all-rooms/ikea-spetsboj-viral-butter-yellow-table-lamp"
+      ],
+      "image_url": "https://images-na.ssl-images-amazon.com/images/G/01/x-locale/common/grey-pixel.gif",
+      "images": [
+        "https://images-na.ssl-images-amazon.com/images/G/01/x-locale/common/grey-pixel.gif"
+      ],
+      "amazon_url": "https://www.amazon.com/IKEA-Tokabo-Table-Glass-103-580-13/dp/B084MJFL8M/ref=mp_s_a_1_1?dib=eyJ2IjoiMSJ9.Iuknhqiujxmirh4RZ8yT2Jm2PXQfS8LaQIX7YnD2bWfqd85rxDBWXHJ_NktrH6IvMw4vd-H9mkwRR2aTbeIMg3MdR5k9Ppnx0JsH7Y18Mo4cLvvioaySe0XKvfwLjZyRx6xnd_OemsKOXYNwOfKiBuZsNrqoZ_3uYzcaj8ZG-gGXhsVkrTJj5Tzi7at28v-YiJ0hBLcWJ7jmFk-hIcff0Q.I-I4X7TqdX3xh1nVnkB2inRz2A_I6dDp6yM9Gr90MPo&dib_tag=se&keywords=IKEA+SPETSBOJ+Table+Lamp&qid=1773850242&sr=8-1",
+      "brand": "IKEA",
+      "blackFriday": false,
+      "gpt_azn": null,
+      "resolver": "cheerio",
+      "valid": true
+    }
+  ],
+  "resolvedLinks": {
+    "https://www.tomsguide.com/home/home-office/this-color-changing-desk-lamp-is-one-of-my-favorite-home-office-upgrades-of-the-year": {
+      "title": "This color-changing desk lamp is one of my favorite home office upgrades of the year",
+      "description": "Nothing transforms a space more easily than a change in light temperature",
+      "image": "https://cdn.mos.cms.futurecdn.net/jz9szD8YrQy3ypdzus7X8L-2000-80.jpg",
+      "url": "https://www.tomsguide.com/home/home-office/this-color-changing-desk-lamp-is-one-of-my-favorite-home-office-upgrades-of-the-year"
+    },
+    "https://www.bestreviews.guide/bedside-lamps": {
+      "title": "10 Best Bedside Lamps 2026 in the US | There's One Clear Winner | BestReviews.guide",
+      "description": "BestReviews.guide analyzes thousands of articles and customer reviews to find the top-rated products at today's lowest prices. Best products, best offers.",
+      "image": "https://images-proxy.bestreviews.guide/AwoGLy3IOEV8lIFPY4KL7g3oFec=/0x150/https://m.media-amazon.com/images/I/41REY8TUbLL._AC_CX679_.jpg",
+      "url": "https://www.bestreviews.guide/bedside-lamps"
+    },
+    "https://www.idealhome.co.uk/all-rooms/ikea-spetsboj-viral-butter-yellow-table-lamp": {
+      "title": "IKEA’s new but already viral lamp is only £8 – and it comes in the most on-trend colour of the year",
+      "description": "I can’t believe I’ve been sleeping on this trending butter yellow IKEA lamp up until now!",
+      "image": "https://cdn.mos.cms.futurecdn.net/hHYHeNEK6cDBxw6Hhxy8qH-2560-80.jpg",
+      "url": "https://www.idealhome.co.uk/all-rooms/ikea-spetsboj-viral-butter-yellow-table-lamp"
+    }
+  }
+}

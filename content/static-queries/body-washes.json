@@ -1,0 +1,104 @@
+{
+  "slug": "body-washes",
+  "query": "best body washes",
+  "title": "Best body washes | Bin Diving",
+  "description": "AI-dug recommendations for best body washes. Compare options and find one that fits.",
+  "dugAt": "2026-03-18T15:47:23.886Z",
+  "recommendations": [
+    {
+      "product_name": "Nécessaire The Body Wash",
+      "pros": [
+        "skincare-grade ingredients (niacinamide)",
+        "non-stripping, hydrating oil-in-gel texture"
+      ],
+      "cons": [
+        "higher price vs. drugstore",
+        "some users report low lather"
+      ],
+      "price": null,
+      "amazon_id": "B0DNGVCCZ2",
+      "sources": [
+        "https://www.allure.com/gallery/best-body-washes/",
+        "https://www.homewisereview.com/necessaire-the-body-wash-review/",
+        "https://www.nordstrom.com/s/the-body-wash/5247408"
+      ],
+      "amazon_url": "https://www.amazon.com/N%C3%A9cessaire-Eucalyptus-Nourishing-Dermatologist-Tested-Hypoallergenic/dp/B0DNGVCCZ2",
+      "gpt_azn": "B08S7VPWSG",
+      "image_url": "https://imgs.search.brave.com/fWLrmulFloykMsq6cEOVYAjgtzfsBbpHERuLQfUU8PA/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9qZXNz/a2V5cy5jb20vd3At/Y29udGVudC91cGxv/YWRzLzIwMjEvMDYv/TmVjZXNzYXJpZS0y/LmpwZw",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "La Roche-Posay Lipikar Wash AP+ Gentle Foaming Moisturizing Wash",
+      "pros": [
+        "fragrance-free, accepted by National Eczema Association",
+        "contains shea butter, niacinamide and glycerin for long-lasting hydration"
+      ],
+      "cons": [
+        "can be pricier than generic drugstore washes",
+        "some users report pump/dispenser issues"
+      ],
+      "price": null,
+      "amazon_id": "B08BJVHYSC",
+      "sources": [
+        "https://www.larochepsay.com/product/lipikar-wash-ap-moisturizing-body-face-wash/",
+        "https://www.bestchoice.com/comparison/body-wash",
+        "https://fado.vn/us/amazon/la-roche-posay-lipikar-wash-ap-body-face-wash-with-pump-gentle-daily-cleanser-with-shea-butter-niacinamide-for-extra-dry-skin-allergy-tested-B08BJVHYSC.html"
+      ],
+      "amazon_url": "https://www.amazon.com/Roche-Posay-Moisturizing-Niacinamide-Glycerin-Association/dp/B08BJVHYSC",
+      "gpt_azn": "B08BJVHYSC",
+      "image_url": "https://imgs.search.brave.com/o6NaOT6a8bM_W_svgTHb6m9phXfhOzjCD1jgqF4KtKA/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9tZWRp/YS51bHRhLmNvbS9p/L3VsdGEvMjU3MDE3/Mj93PTEwODAmaD0x/MDgwJmZtdD1hdXRv",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "Dove Deep Moisture Body Wash (Deeply Nourishing/Deep Moisture)",
+      "pros": [
+        "widely available and affordable",
+        "moisturizing formula that helps prevent post-shower dryness"
+      ],
+      "cons": [
+        "scented variants may bother very sensitive skin",
+        "contains common surfactants (not marketed as 'clean' luxury)"
+      ],
+      "price": null,
+      "amazon_id": "B00MEDOY2G",
+      "sources": [
+        "https://www.bestchoice.com/comparison/body-wash",
+        "https://edytbeauty.com/products/dove-deep-moisture-body-wash",
+        "https://www.asinsight.com/report/US/dove-body-wash"
+      ],
+      "amazon_url": "https://www.amazon.com/Dove-Body-Wash-Pump-Moisture/dp/B00MEDOY2G",
+      "gpt_azn": "B00MEDOY2G",
+      "image_url": "https://imgs.search.brave.com/gG6llzrjfL-izu9vRc0OYN6cC9Ac60FuRqhgsP0ttwU/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9pLmVi/YXlpbWcuY29tL2lt/YWdlcy9nLzQyVUFB/ZVN3ek1ab3cwdmMv/cy1sMjI1LmpwZw",
+      "resolver": "brave",
+      "valid": true
+    }
+  ],
+  "resolvedLinks": {
+    "https://www.allure.com/gallery/best-body-washes/": {
+      "title": "Body Washes Don’t Have to Be Boring—These Are Proof",
+      "description": "The best lather you'll ever experience? We think so.",
+      "image": "https://media.allure.com/photos/683a0e317d8282c10550d74d/16:9/w_1280,c_limit/5.30_ALL_best-body-washes.jpg",
+      "url": "https://www.allure.com/gallery/best-body-washes"
+    },
+    "https://www.bestchoice.com/comparison/body-wash": {
+      "title": "",
+      "description": "",
+      "image": "",
+      "url": "https://www.bestchoice.com/comparison/body-wash"
+    },
+    "https://edytbeauty.com/products/dove-deep-moisture-body-wash": {
+      "title": "Dove Deep Moisture Body Wash",
+      "description": "Indulge in the luxurious feel of Dove Body Wash Deep Moisture, a moisturizing skin cleanser designed to provide 24hr lotion-soft skin. This deep moisture body wash gently cleanses while deeply nourishing, leaving even the driest skin feeling soft, smooth, and hydrated all day long. Provides 24-hour moisture for lotion-",
+      "image": "http://edytbeauty.com/cdn/shop/files/71JxjmbExxL.jpg?v=1769996086",
+      "url": "http://edytbeauty.com/products/dove-deep-moisture-body-wash"
+    },
+    "https://www.asinsight.com/report/US/dove-body-wash": {
+      "title": "2025 Amazon Best Selling dove body wash: Latest Data & Rankings",
+      "description": "Updated list of the best-selling dove body wash on Amazon, based on real sales data. See top brands, rankings, and market trends.",
+      "image": "https://www.asinsight.com/logo.svg",
+      "url": "https://www.asinsight.com/report/US/dove-body-wash"
+    }
+  }
+}

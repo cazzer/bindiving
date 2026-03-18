@@ -1,0 +1,110 @@
+{
+  "slug": "drills",
+  "query": "best drills",
+  "title": "Best drills | Bin Diving",
+  "description": "AI-dug recommendations for best drills. Compare options and find one that fits.",
+  "dugAt": "2026-03-18T16:11:24.904Z",
+  "recommendations": [
+    {
+      "product_name": "DEWALT 20V MAX XR Hammer Drill (DCD996/DCD996P2)",
+      "pros": [
+        "Very high torque and speed",
+        "3-speed brushless motor for versatility"
+      ],
+      "cons": [
+        "May be overkill for light DIY",
+        "Can run hot under sustained heavy use"
+      ],
+      "price": null,
+      "amazon_id": "B01DR90NA2",
+      "sources": [
+        "https://www.hgtv.com/shopping/product-reviews/best-cordless-drills",
+        "https://toolsmaestro.com/product-reviews/dewalt-dcd996b-hammer-drill-review/",
+        "https://www.dewalt.com/GLOBALBOM/QU/DCD996P2/2/Instruction_Manual/EN/N580943.pdf"
+      ],
+      "amazon_url": "https://www.amazon.com/DEWALT-DCD996P2-Lithium-Brushless-3-Speed/dp/B01DR90NA2",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/7KK06tGhHGWbTDd4AMnKIFpc1Jq78DRxfyRXU-k0smk/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9pLmVi/YXlpbWcuY29tL2lt/YWdlcy9nLzZFQUFB/ZVN3N01ScFo5d2wv/cy1sNDAwLndlYnA",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "Makita DHP458Z 18V LXT Cordless Hammer Drill (DHP458Z)",
+      "pros": [
+        "Compact, durable design with XPT protection",
+        "Strong torque and reliable hammer function"
+      ],
+      "cons": [
+        "Battery often sold separately",
+        "Higher-end models can be pricier"
+      ],
+      "price": null,
+      "amazon_id": "B00HW2SQP0",
+      "sources": [
+        "https://toolminer.com/makita-dhp458z-review/",
+        "https://media.distrelec.com/Web/Downloads/_t/ds/DHP458Z_eng_tds.pdf",
+        "https://www.homebuilding.co.uk/buying-guides/best-cordless-drills"
+      ],
+      "amazon_url": "https://www.amazon.com/Cordless-Hammer-Driver-Drill-DHP458Z/dp/B00HW2SQP0",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/0l66MWR5T84qFyNX1JlmetA1XJojcrIAdv8Vsh56h90/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9raG10/b29scy5jb20ucGgv/Y2RuL3Nob3AvcHJv/ZHVjdHMvZGhwNDU4/ei0xXzU5MTRlNjJm/LTBiZDItNGNlNy1i/OTk2LWIyMjc1ZmMy/N2UwMV8xMDAweC5q/cGc_dj0xNzI4MTEz/MjYx",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "Milwaukee M18 Compact Brushless Drill/Driver (2801-20)",
+      "pros": [
+        "Compact brushless motor with solid torque",
+        "Trusted M18 battery platform (wide ecosystem)"
+      ],
+      "cons": [
+        "Tool-only packages require separate battery purchase",
+        "Some users report variability across production runs"
+      ],
+      "price": null,
+      "amazon_id": "B07HMFXHH5",
+      "sources": [
+        "https://www.milwaukeetool.com/Products/Power-Tools/Drilling/Drill-Drivers/2801-20",
+        "https://www.homedepot.com/p/305506041",
+        "https://device.report/milwaukee/2801-20"
+      ],
+      "amazon_url": "https://www.amazon.com/Milwaukee-Lithium-Ion-Brushless-Tool-Only-2801-20/dp/B07HMFXHH5",
+      "gpt_azn": "B07HMFXHH5",
+      "image_url": "https://imgs.search.brave.com/ZbzcScyDu8w75NvRLX0i6F3yV4UGRX-Gz8a-vM6GgSI/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9pLmVi/YXlpbWcuY29tL2lt/YWdlcy9nLzhpTUFB/T1N3M0twb1RJU08v/cy1sNTAwLmpwZw",
+      "resolver": "brave",
+      "valid": true
+    }
+  ],
+  "resolvedLinks": {
+    "https://www.hgtv.com/shopping/product-reviews/best-cordless-drills": {
+      "title": "6 Best Cordless Drills of 2026, Tested and Reviewed",
+      "description": "Cordless drills aren't just for the pros. Adding one to your toolbox will make everything from home maintenance to DIY projects easier and quicker than ever before.",
+      "image": "https://hgtvhome.sndimg.com/content/dam/images/hgtv/fullset/2023/12/8/0/Original_Kamron-Sanders_Cordless-Drill-Test-4_H.jpg.rend.hgtvcom.616.462.85.suffix/1702064324098.webp",
+      "url": "https://www.hgtv.com/shopping/product-reviews/best-cordless-drills"
+    },
+    "https://toolsmaestro.com/product-reviews/dewalt-dcd996b-hammer-drill-review/": {
+      "title": "DEWALT 20V MAX XR Hammer Drill Review Powerful Brushless Motor and LED Spotlight Features - ToolsMaestro.com",
+      "description": "Brushless motor delivers up to 75% more runtime compared to traditional brushed motors Heavy-duty 1/2-inch ratcheting metal chuck with carbide inserts ensures superior bit gripping strength 3-mode LED lighting is exceptionally bright, providing visibility in dark or confined spaces LED spotlight mode includes a 20-minute shutoff feature for prolonged use without battery drain",
+      "image": "https://toolsmaestro.com/wp-content/uploads/2025/05/dewalt-20v-max-xr-cordless-hammer-drill-brushless-3-speed-bare-tool-only.jpg",
+      "url": "https://toolsmaestro.com/product-reviews/dewalt-dcd996b-hammer-drill-review/"
+    },
+    "https://media.distrelec.com/Web/Downloads/_t/ds/DHP458Z_eng_tds.pdf": {
+      "title": "",
+      "description": "",
+      "image": "",
+      "url": "https://media.distrelec.com/Web/Downloads/_t/ds/DHP458Z_eng_tds.pdf"
+    },
+    "https://www.homebuilding.co.uk/buying-guides/best-cordless-drills": {
+      "title": "The best cordless drills to power every project",
+      "description": "From quick fixes to bigger DIY projects, these cordless drills deliver power, precision and great value",
+      "image": "https://cdn.mos.cms.futurecdn.net/FjfgZ27kGwRZV7THRQWcLf-1600-80.jpg",
+      "url": "https://www.homebuilding.co.uk/buying-guides/best-cordless-drills"
+    },
+    "https://www.milwaukeetool.com/Products/Power-Tools/Drilling/Drill-Drivers/2801-20": {
+      "title": "2801-20",
+      "description": "",
+      "image": "https://www.milwaukeetool.com/--/web-images/sc/7bda3b26030e4294bc714e81f1ebdf15?hash=cdedd1c73586910ce1346e150b703c4d&lang=en&w=200&h=200",
+      "url": "https://www.milwaukeetool.com/products/details/m18-compact-brushless-1-2-drill-driver-bare-tool/2801-20"
+    }
+  }
+}

@@ -1,0 +1,101 @@
+{
+  "slug": "toilet-brushes",
+  "query": "best toilet brushes",
+  "title": "Best toilet brushes | Bin Diving",
+  "description": "AI-dug recommendations for best toilet brushes. Compare options and find one that fits.",
+  "dugAt": "2026-03-18T15:43:17.182Z",
+  "recommendations": [
+    {
+      "product_name": "OXO Good Grips Toilet Brush with Rim Cleaner",
+      "pros": [
+        "Angled bristles reach under rim",
+        "Holder stays open while cleaning"
+      ],
+      "cons": [
+        "Holder has more parts to clean",
+        "Brush head can loosen over time"
+      ],
+      "price": "$29 (listed)",
+      "amazon_id": "B07GK8WR3V",
+      "sources": [
+        "https://www.goodhousekeeping.com/home-products/g40059618/best-toilet-brushes/",
+        "https://www.yourbestdigs.com/reviews/the-best-toilet-brush/"
+      ],
+      "amazon_url": "https://www.amazon.com/OXO-Grips-Toilet-Brush-Cleaner/dp/B07GK8WR3V",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/-_9lBUTTIoQzxBRW_g8ziB6JvQYWP1rLORovPH1z5wc/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9oaXBz/LmhlYXJzdGFwcHMu/Y29tL3ZhZGVyLXBy/b2QuczMuYW1hem9u/YXdzLmNvbS8xNjk5/NDYyOTgxLTI2MTEx/XzEuanBnP2Nyb3A9/MXh3OjF4aDtjZW50/ZXIsdG9wJnJlc2l6/ZT05ODA6Kg",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "simplehuman Toilet Brush with Caddy (stainless steel)",
+      "pros": [
+        "Dense bristles and curved head for thorough scrubbing",
+        "Magnetic handle keeps brush elevated to air-dry"
+      ],
+      "cons": [
+        "Higher price than basic models",
+        "Replacement heads may be costly"
+      ],
+      "price": null,
+      "amazon_id": "B00BZP66HK",
+      "sources": [
+        "https://www.yourbestdigs.com/reviews/the-best-toilet-brush/",
+        "https://www.bestreviews.guide/toilet-brushes"
+      ],
+      "amazon_url": "https://www.amazon.com/simplehuman-Toilet-Brush-Caddy-Stainless/dp/B00BZP66HK",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/wBUcgvwyvGWRpyuxBa_0YB1H0CLkY6YOjkP3FIZqDw4/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9tLm1l/ZGlhLWFtYXpvbi5j/b20vaW1hZ2VzL0kv/NDFqOE9NOHVya0wu/anBn",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "Sellemer Silicone Toilet Brush and Holder",
+      "pros": [
+        "Flexible silicone head cleans nooks well",
+        "Wall-mountable and ventilated drip tray for quick drying"
+      ],
+      "cons": [
+        "May require more scrubbing than stiff-bristle brushes",
+        "Can feel less aggressive than nylon bristles"
+      ],
+      "price": "About $17–$19 (sale listed)",
+      "amazon_id": "B07Z5X3HMY",
+      "sources": [
+        "https://www.goodhousekeeping.com/home-products/g40059618/best-toilet-brushes/",
+        "https://www.bestproducts.reviews/best-toilet-brushes"
+      ],
+      "amazon_url": "https://www.amazon.com/Sellemer-Toilet-Brush-Holder-Set/dp/B07Z5X3HMY",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/RxqDZbYVy54uIvJP2knaYHnZDVVNRi-vPHwauyNNC7A/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9pLnBp/bmltZy5jb20vb3Jp/Z2luYWxzLzIzLzM4/LzcyLzIzMzg3MjUw/ZmI4OWE0MWZhZmRm/MTk4ZmRjOTkzNWY1/LmpwZw",
+      "resolver": "brave",
+      "valid": true
+    }
+  ],
+  "resolvedLinks": {
+    "https://www.goodhousekeeping.com/home-products/g40059618/best-toilet-brushes/": {
+      "title": "We Tested Over a Dozen Toilet Brushes—These Are the Best for Your Money",
+      "description": "Our top pick not only makes the bowl shine, but gets under the rim too.",
+      "image": "https://hips.hearstapps.com/hmg-prod/images/best-toilet-brushes-tested-1653079529.jpg?crop=1.00xw:0.669xh;0,0.291xh&resize=1200:*",
+      "url": "https://www.goodhousekeeping.com/home-products/g40059618/best-toilet-brushes/"
+    },
+    "https://www.yourbestdigs.com/reviews/the-best-toilet-brush/": {
+      "title": "The 9 Best Toilet Brushes of 2026 - Reviews by Your Best Digs",
+      "description": "We tested 9 highly rated toilet brushes to find out which one makes your least-favorite chore a breeze.",
+      "image": "https://www.yourbestdigs.com/wp-content/uploads/2020/01/toilet-hero.jpg",
+      "url": "https://www.yourbestdigs.com/reviews/the-best-toilet-brush/"
+    },
+    "https://www.bestreviews.guide/toilet-brushes": {
+      "title": "10 Best Toilet Brushes 2026 in the US | There's One Clear Winner | BestReviews.guide",
+      "description": "BestReviews.guide analyzes thousands of articles and customer reviews to find the top-rated products at today's lowest prices. Best products, best offers.",
+      "image": "https://images-proxy.bestreviews.guide/T-3QJ_vlHpiscbh0R5RQdWKWLEI=/0x300/https://m.media-amazon.com/images/I/31pXpfREYfL._AC_CX679_.jpg",
+      "url": "https://www.bestreviews.guide/toilet-brushes"
+    },
+    "https://www.bestproducts.reviews/best-toilet-brushes": {
+      "title": "10 Best Toilet Brushes 2026 in the US | There's One Clear Winner | BestProducts.Reviews",
+      "description": "BestProducts.Reviews analyzes thousands of articles and customer reviews to find the top-rated products at today's lowest prices. Best products, best offers.",
+      "image": "https://images-proxy.bestreviews.guide/2_PEHbgPor1NmGckaIHu1eiMo00=/0x150/https://m.media-amazon.com/images/I/31pXpfREYfL._AC_CX679_.jpg",
+      "url": "https://www.bestproducts.reviews/toilet-brushes"
+    }
+  }
+}

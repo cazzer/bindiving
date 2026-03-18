@@ -1,0 +1,126 @@
+{
+  "slug": "blackout-shades",
+  "query": "best blackout shades",
+  "title": "Best blackout shades | Bin Diving",
+  "description": "AI-dug recommendations for best blackout shades. Compare options and find one that fits.",
+  "dugAt": "2026-03-18T16:08:18.749Z",
+  "recommendations": [
+    {
+      "product_name": "Redi Shade Original Pleated Paper/ Fabric Blackout Shade (temporary)",
+      "pros": [
+        "Very inexpensive",
+        "No-tools installation",
+        "Available in many sizes"
+      ],
+      "cons": [
+        "Not a permanent solution",
+        "Paper can crease/deteriorate",
+        "Limited insulation"
+      ],
+      "price": null,
+      "amazon_id": "B000SDROMG",
+      "sources": [
+        "https://shop.royalwindowsinc.com/wp-content/uploads/2024/08/2024-RW-Catalog-August-2024.pdf",
+        "https://m.media-amazon.com/images/I/61--MVHNrML.pdf"
+      ],
+      "amazon_url": "https://www.amazon.com/Redi-Shade-1617201-Original-Blackout/dp/B000SDROMG",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/my-YCmFL0lwIANaLh73o0eE5CJnSxMJWSCKU8pJ0aYE/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9pbWFn/ZXMudGhkc3RhdGlj/LmNvbS9wcm9kdWN0/SW1hZ2VzLzM5OWZm/NTRlLTY3NTEtNDk5/Yy1iZjFkLTdlYzky/ZjMzYzAyNS9zdm4v/YmxhY2stcmVkaS1z/aGFkZS10ZW1wb3Jh/cnktc2hhZGVzLTMx/NTMxOTFoZC02NF82/MDAuanBn",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "SelectBlinds Select Blackout Cellular Shades (cordless / motorized options)",
+      "pros": [
+        "True 100% blackout cellular options",
+        "Available cordless or motorized",
+        "Good insulation/energy savings"
+      ],
+      "cons": [
+        "Must measure carefully for effective blackout",
+        "Longer lead times for custom sizes",
+        "Some customer service complaints reported online"
+      ],
+      "price": null,
+      "amazon_id": "B0F4XXN5J8",
+      "sources": [
+        "https://www.selectblinds.com/cellular-shades/select-blackout-cellulars.html",
+        "https://cdn.selectblinds.com/documents/cellularshades/installation-instructions/no-drill-cordless-complete-blackout-cellulars-install-guide.pdf"
+      ],
+      "amazon_url": "https://www.amazon.com/SelectBlinds-Cordless-Blackout-Cellular-Shades/dp/B0F4XXN5J8",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/u3UrHmP_DeLfKglCol21LtVHe7Pxgtk_SQRUA2u8hpY/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9zLmJs/aW5kc2dhbG9yZS5j/b20vbWVkaWEvdHJ0/LzA3MDQyMDFsMC5q/cGc_d2lkdGg9NDgw/JmhlaWdodD01MTQ",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "Kincmo Motorized Blackout Roller Shades (100% blackout, smart/motorized)",
+      "pros": [
+        "Motorized with smart-home compatibility",
+        "No-drill installation options available",
+        "Designed for full room darkening"
+      ],
+      "cons": [
+        "Higher cost than basic shades",
+        "May require hub or setup for full smart features",
+        "Availability and models vary by seller"
+      ],
+      "price": null,
+      "amazon_id": "B0DJ8NZ2WM",
+      "sources": [
+        "https://www.kincmo.com/products/kincmo-no-drill-100-blackout-motorized-roller-shades",
+        "https://www.kincmo.com/collections/no-drill-motorized-shades",
+        "https://kitchintelligence.com/smart-home/motorized-smart-blinds/"
+      ],
+      "amazon_url": "https://www.amazon.com/Motorized-Blinds-Remote-Blackout-Customized/dp/B0DJ8NZ2WM",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/CzxIKb4D31tYPrHsIGKrt_7WXbsSBm7FFWADK1TfkbY/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9tLm1l/ZGlhLWFtYXpvbi5j/b20vaW1hZ2VzL0kv/NTFCaHl2dFZOREwu/anBn",
+      "resolver": "brave",
+      "valid": true
+    }
+  ],
+  "resolvedLinks": {
+    "https://shop.royalwindowsinc.com/wp-content/uploads/2024/08/2024-RW-Catalog-August-2024.pdf": {
+      "title": "",
+      "description": "",
+      "image": "",
+      "url": "https://shop.royalwindowsinc.com/wp-content/uploads/2024/08/2024-RW-Catalog-August-2024.pdf"
+    },
+    "https://m.media-amazon.com/images/I/61--MVHNrML.pdf": {
+      "title": "",
+      "description": "",
+      "image": "",
+      "url": "https://m.media-amazon.com/images/I/61--MVHNrML.pdf"
+    },
+    "https://www.selectblinds.com/cellular-shades/select-blackout-cellulars.html": {
+      "title": "Blackout Cellular Shades | Honeycomb Blinds for Light Control | SelectBlinds",
+      "description": "Explore blackout honeycomb shades designed for privacy and style. SelectBlinds cellular shades combine soft texture with total light control.",
+      "image": "https://www.selectblinds.com/images/Img_ProductColors/pid-572_cid-6458_r.jpg",
+      "url": "https://www.selectblinds.com/cellular-shades/select-honeycomb-blackout-cellulars.html"
+    },
+    "https://cdn.selectblinds.com/documents/cellularshades/installation-instructions/no-drill-cordless-complete-blackout-cellulars-install-guide.pdf": {
+      "title": "",
+      "description": "",
+      "image": "",
+      "url": "https://cdn.selectblinds.com/documents/cellularshades/installation-instructions/no-drill-cordless-complete-blackout-cellulars-install-guide.pdf"
+    },
+    "https://www.kincmo.com/products/kincmo-no-drill-100-blackout-motorized-roller-shades": {
+      "title": "No Drill Motorized 100% Blackout Roller Shades | Kincmo",
+      "description": "Kincmo no drill motorized roller shades support app, voice, and remote control, designed with child safety, energy efficiency, and fast 3-day delivery.",
+      "image": "http://www.kincmo.com/cdn/shop/files/3cf85589-a4f9-4f60-9866-560a67aac306.jpg?v=1767626578",
+      "url": "https://www.kincmo.com/products/kincmo-no-drill-drill-roller-shades-motorized-100-blackout-all-colors"
+    },
+    "https://www.kincmo.com/collections/no-drill-motorized-shades": {
+      "title": "No Drill Motorized Window Shades for Easy Install & Blackout | Kincmo",
+      "description": "Kincmo no drill motorized shades offer a screw-free motorized solution. Get blackout power with ease, cordless design, smooth motorized control, perfect light blocking and privacy.",
+      "image": "http://www.kincmo.com/cdn/shop/collections/6c8bfebf37971a9bc675d529856bc321_427edfe9-d6d2-4d37-b93e-1deec9eb4f93.jpg?v=1764910880",
+      "url": "https://www.kincmo.com/collections/no-drill-motorized-shades"
+    },
+    "https://kitchintelligence.com/smart-home/motorized-smart-blinds/": {
+      "title": "Best Motorized Smart Blinds for Modern Homes | Voice & App Controlled - Kitchintelligence",
+      "description": "Discover top motorized smart blinds for your home. Compare features like Alexa compatibility, blackout fabrics, solar charging, and remote operation. Upgrade your windows effortlessly.",
+      "image": "http://kitchintelligence.com/wp-content/uploads/2025/05/B0BMLFZ4CP.jpg",
+      "url": "https://kitchintelligence.com/smart-home/motorized-smart-blinds/"
+    }
+  }
+}

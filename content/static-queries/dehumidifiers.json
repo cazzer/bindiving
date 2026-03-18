@@ -1,0 +1,107 @@
+{
+  "slug": "dehumidifiers",
+  "query": "best dehumidifiers",
+  "title": "Best dehumidifiers | Bin Diving",
+  "description": "AI-dug recommendations for best dehumidifiers. Compare options and find one that fits.",
+  "dugAt": "2026-03-18T16:00:18.914Z",
+  "recommendations": [
+    {
+      "product_name": "Midea MAD50PS1WS 50-Pint Smart Dehumidifier (with Pump)",
+      "pros": [
+        "Built-in pump for continuous drainage",
+        "Energy Star certified, smart features (Wi‑Fi)"
+      ],
+      "cons": [
+        "Some reports of fan noise",
+        "Mixed long-term reliability reviews"
+      ],
+      "price": null,
+      "amazon_id": "B0866XLRTX",
+      "sources": [
+        "https://www.midea.com/us/Heating_Cooling/Dehumidifiers/midea-50-pt--smart-dehumidifier-for-basement--room--or-garage---.mad50ps1ws",
+        "https://www.rtings.com/dehumidifier/reviews/best/dehumidifiers"
+      ],
+      "amazon_url": "https://www.amazon.com/Midea-MAD50P1ZWS-Dehumidifier-basements-Pint-2019/dp/B0866XLRTX",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/d8BRKv_B8fu_7VPkoiw_syio6cfvLCE0jisPrMldbAM/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9kaXNj/b3VudHRvZGF5Lm5l/dC93cC1jb250ZW50/L3VwbG9hZHMvMjAy/Mi8xMi9NaWRlYS01/MC1QaW50LUVuZXJn/eVN0YXItU21hcnQt/RGVodW1pZGlmaWVy/LWZvci1XZXQtUm9v/bXMtd2l0aC1QdW1w/LVdoaXRlLU1BRDUw/UFMxV1MtRS53ZWJw",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "Frigidaire FFAP5033W1 50-Pint Dehumidifier (with Built‑In Pump)",
+      "pros": [
+        "Strong moisture removal performance",
+        "Built‑in pump and good user interface"
+      ],
+      "cons": [
+        "Some users report durability/control‑board issues",
+        "Relatively heavy for portability"
+      ],
+      "price": null,
+      "amazon_id": "B07Z5Q7M3N",
+      "sources": [
+        "https://amp.cnn.com/cnn/cnn-underscored/reviews/best-dehumidifiers",
+        "https://www.homedepot.com/p/329963890"
+      ],
+      "amazon_url": "https://www.amazon.com/Frigidaire-FFAP5033W1-Dehumidifier-Antibacterial-Continuous/dp/B07Z5Q7M3N",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/6YJvoBnP-td9DLc2DR86NBFRMJtOoDuLlbxLmv9tdFc/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9zMy5h/bWF6b25hd3MuY29t/L3Byb2R1Y3R1cGxv/YWRlci11cGxvYWRz/L3N0YWdpbmcvMi9J/bWFnZS83NTMxNzg0/XzE2MTEwNDM3MjNf/RkZBRDUwMzNXMV9T/aXplX1NwZWNz",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "Honeywell TP50WK 50‑Pint Energy Star Dehumidifier",
+      "pros": [
+        "Reliable performance and easy controls",
+        "Compact for a 50‑pint unit; quiet operation"
+      ],
+      "cons": [
+        "No built‑in pump on some variants",
+        "May require placement near drain for continuous use"
+      ],
+      "price": null,
+      "amazon_id": "B0DCNTTY8S",
+      "sources": [
+        "https://www.livescience.com/best-dehumidifiers",
+        "https://www.consumerreports.org/appliances/dehumidifiers/honeywell-tp50wk/m397955/"
+      ],
+      "amazon_url": "https://www.amazon.com/Honeywell-50-Pint-ENERGY-STAR-Dehumidifier/dp/B0DCNTTY8S",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/MaG0N4uEpiFE9e2YdfSXXrY_EvlRDVC-fKo01aBL87c/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly93d3cu/aG9uZXl3ZWxsc3Rv/cmUuY29tL3N0b3Jl/L2ltYWdlcy9wcm9k/dWN0cy9sYXJnZV9p/bWFnZXMvdHA1MHdr/bi1ob25leXdlbGwt/NTAtcGludC1lbmVy/Z3ktc3Rhci1kZWh1/bWlkaWZpZXItZm9y/LW1lZGl1bS1zaXpl/ZC1yb29tcy0xLmpw/Zw",
+      "resolver": "brave",
+      "valid": true
+    }
+  ],
+  "resolvedLinks": {
+    "https://www.midea.com/us/Heating_Cooling/Dehumidifiers/midea-50-pt--smart-dehumidifier-for-basement--room--or-garage---.mad50ps1ws": {
+      "title": "Midea 50 pt. Smart Dehumidifier for Basement, Room, or Garage - Covers up to 4,500 sq. ft.",
+      "description": "The room dehumidifier automatically reminds you when the filter needs cleaning. Use the built-in timer to run the dehumidifier on your schedule. This small dehumidifier features a 4-wheel design for easy room-to-room movement.",
+      "image": "https://www.midea.com/content/dam/midea-aem/us/air-conditioners/dehumidifiers/midea-50-pint-energystar-smart-dehumidifier-for-wet-rooms-with-pump/MAD50PS1WS.png",
+      "url": "https://www.midea.com/us/Heating_Cooling/Dehumidifiers/midea-50-pt--smart-dehumidifier-for-basement--room--or-garage---.mad50ps1ws"
+    },
+    "https://www.rtings.com/dehumidifier/reviews/best/dehumidifiers": {
+      "title": "The 4 Best Dehumidifiers of 2026",
+      "description": "The best dehumidifier we've tested is the Midea MAD50PS1WS. This 50-pint humidifier is great for open-concept areas and large rooms.",
+      "image": "https://i.rtings.com/assets/pages/u8G4yCTS/best-dehumidifiers-20240627-medium.jpg?format=auto",
+      "url": "https://www.rtings.com/dehumidifier/reviews/best/dehumidifiers"
+    },
+    "https://amp.cnn.com/cnn/cnn-underscored/reviews/best-dehumidifiers": {
+      "title": "Best dehumidifiers of 2026, tested by editors | CNN Underscored",
+      "description": "We tested eight top-rated dehumidifiers to see how they did with keeping a home dry and comfortable. One model emerged as the best for most people.",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/best-dehumidifier-badged-2026.jpg?c=16x9&q=w_800,c_fill",
+      "url": "https://www.cnn.com/cnn-underscored/reviews/best-dehumidifiers"
+    },
+    "https://www.livescience.com/best-dehumidifiers": {
+      "title": "Get rid of damp, mold and condensation with these excellent dehumidifiers",
+      "description": "Dehumidifiers can help you eliminate bad odors, mold and condensation in your home. These are some of the best appliances to buy in 2026, as chosen by our expert reviewers.",
+      "image": "https://cdn.mos.cms.futurecdn.net/ap3yL8gfHEeJLqJgA38zkA-2133-80.jpg",
+      "url": "https://www.livescience.com/best-dehumidifiers"
+    },
+    "https://www.consumerreports.org/appliances/dehumidifiers/honeywell-tp50wk/m397955/": {
+      "title": "Honeywell TP50WK Dehumidifier Review - Consumer Reports",
+      "description": "We've tested and reviewed products since 1936. Read CR's review of the Honeywell TP50WK dehumidifier to find out if it's worth it.",
+      "image": "https://crdms.images.consumerreports.org/f_auto,w_1200/prod/products/cr/models/397955-dehumidifiers-honeywell-tp50wk-10003120.png",
+      "url": "https://www.consumerreports.org/appliances/dehumidifiers/honeywell-tp50wk/m397955/"
+    }
+  }
+}

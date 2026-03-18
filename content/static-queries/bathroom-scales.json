@@ -1,0 +1,99 @@
+{
+  "slug": "bathroom-scales",
+  "query": "best bathroom scales",
+  "title": "Best bathroom scales | Bin Diving",
+  "description": "AI-dug recommendations for best bathroom scales. Compare options and find one that fits.",
+  "dugAt": "2026-03-18T15:48:23.021Z",
+  "recommendations": [
+    {
+      "product_name": "Withings Body Scan (Withings Body Comp / Body Scan series)",
+      "pros": [
+        "Highly accurate in lab tests",
+        "Comprehensive body-composition metrics",
+        "Good app and ecosystem integration"
+      ],
+      "cons": [
+        "Higher price than budget models",
+        "Some advanced features require learning curve"
+      ],
+      "price": null,
+      "amazon_id": "B0CZTL6Q5G",
+      "sources": [
+        "https://www.forbes.com/sites/forbes-personal-shopper/article/best-smart-scales/",
+        "https://www.techradar.com/home/smart-home/smart-scales",
+        "https://pressroom.consumerreports.org/health/bathroom-scales/"
+      ],
+      "amazon_url": "https://www.amazon.com/WITHINGS-Body-Scan-Segmental-Composition/dp/B0CZTL6Q5G",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/27fHy50R5RnUgM5gADUPNi_uyFR1FRd5cFedx1F404s/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9pbWFn/ZXMtbmEuc3NsLWlt/YWdlcy1hbWF6b24u/Y29tL2ltYWdlcy9J/LzcxMTlVNVJJaWVM/LmpwZw",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "Eufy Smart Scale P2 (Eufy by Anker)",
+      "pros": [
+        "Affordable with solid accuracy for weight",
+        "Large user capacity and easy app sync",
+        "Attractive display and design"
+      ],
+      "cons": [
+        "Body-composition estimates vary vs. lab tests",
+        "Fewer advanced metrics than premium models"
+      ],
+      "price": null,
+      "amazon_id": "B0D9BD5Y1J",
+      "sources": [
+        "https://www.techradar.com/home/smart-home/smart-scales",
+        "https://pressroom.consumerreports.org/health/bathroom-scales/"
+      ],
+      "amazon_url": "https://www.amazon.com/eufy-Digital-Bathroom-Bluetooth-6-Pack/dp/B0D9BD5Y1J",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/usT14Kr3zLlnSeR3kYuVqiqKCV4y6q_fzOhBPLbd4oI/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9tLm1l/ZGlhLWFtYXpvbi5j/b20vaW1hZ2VzL0kv/NDFibUwtbkxqQkwu/anBn",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "RENPHO Smart Scale (Renpho / popular budget smart scales)",
+      "pros": [
+        "Very budget-friendly",
+        "Widely available and many positive user reviews",
+        "Covers basic body-composition tracking"
+      ],
+      "cons": [
+        "Less consistent body-fat accuracy",
+        "App experience and long-term reliability vary by model"
+      ],
+      "price": null,
+      "amazon_id": "B01N1UX8RW",
+      "sources": [
+        "https://www.techradar.com/home/smart-home/smart-scales",
+        "https://www.ofzenandcomputing.com/best-smart-scales-for-body-composition/"
+      ],
+      "amazon_url": "https://www.amazon.com/RENPHO-Bluetooth-Bathroom-Composition-Smartphone/dp/B01N1UX8RW",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/h93cUrmyO9-w7nlMcON-pqYJ0tzzbL5dUbBvM9MxDMg/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9jZG4u/bW9zLmNtcy5mdXR1/cmVjZG4ubmV0L2Zv/TlFpeW9yNUpFR2Np/ZnBkdDRNd0EuanBn",
+      "resolver": "brave",
+      "valid": true
+    }
+  ],
+  "resolvedLinks": {
+    "https://www.techradar.com/home/smart-home/smart-scales": {
+      "title": "Smart Scales Coverage | TechRadarTech Radar ProTech Radar GamingTech Radar ProTech Radar Gaming",
+      "description": "",
+      "image": "",
+      "url": "https://www.techradar.com/home/smart-home/smart-scales"
+    },
+    "https://pressroom.consumerreports.org/health/bathroom-scales/": {
+      "title": "Best Bathroom Scale Reviews – Consumer Reports",
+      "description": "Looking for the best scale? Consumer Reports has honest ratings and reviews on scales from the unbiased experts you can trust.",
+      "image": "https://article.images.consumerreports.org/f_auto/prod/content/dam/CRO%20Images%202017/Overview%20Pages/CR-OV-HERO-Social-scale-9-17",
+      "url": "https://www.consumerreports.org/health/bathroom-scales/"
+    },
+    "https://www.ofzenandcomputing.com/best-smart-scales-for-body-composition/": {
+      "title": "10 Best Smart Scales for Body Composition (March 2026) Expert Reviews",
+      "description": "Discover the best smart scales with our 2026 guide. We tested 10 models for body fat, muscle mass tracking accuracy and value.",
+      "image": "https://www.ofzenandcomputing.com/wp-content/uploads/2026/02/Best-Smart-Scales-for-Body-Composition.jpeg",
+      "url": "https://www.ofzenandcomputing.com/best-smart-scales-for-body-composition/"
+    }
+  }
+}

@@ -1,0 +1,89 @@
+{
+  "slug": "curtains",
+  "query": "best curtains",
+  "title": "Best curtains | Bin Diving",
+  "description": "AI-dug recommendations for best curtains. Compare options and find one that fits.",
+  "dugAt": "2026-03-18T16:07:20.509Z",
+  "recommendations": [
+    {
+      "product_name": "Deconovo Blackout Room Darkening Insulated Curtains (set of 2)",
+      "pros": [
+        "Affordable",
+        "Good light blocking",
+        "Energy saving lining"
+      ],
+      "cons": [
+        "Wrinkle-prone fabric",
+        "Limited premium color options"
+      ],
+      "price": null,
+      "amazon_id": "B01HROI6QQ",
+      "sources": [
+        "https://bestreviews.com/home/windows/best-curtains"
+      ],
+      "amazon_url": "https://www.amazon.com/Deconovo-Darkening-Insulated-Blackout-42x63-Inch/dp/B01HROI6QQ",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/FWtm8cGHuUUeNj5HD_QR2aoTQd7QqnuqnEfuNGBErI4/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9pNS53/YWxtYXJ0aW1hZ2Vz/LmNvbS9zZW8vRGVj/b25vdm8tR3JheS01/Mld4ODRMLUJsYWNr/b3V0LUN1cnRhaW5z/LTItUGFuZWxzLUdy/b21tZXQtVGhlcm1h/bC1JbnN1bGF0ZWQt/RHJhcGVzLWZvci1C/ZWRyb29tXzAxYjcy/YzFhLWRkOWQtNGI3/Ny05NjFlLTk2Njcw/ZDE1NGMyYS5kN2Ux/NWFjOGU3ZDE2MTlh/Y2NjNmRjM2E4NGNj/NDI4Zi5qcGVnP29k/bkhlaWdodD01ODAm/b2RuV2lkdGg9NTgw/Jm9kbkJnPUZGRkZG/Rg",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "NICETOWN 100% Blackout Curtains (set of 2)",
+      "pros": [
+        "Strong blackout performance",
+        "Wide size/color selection",
+        "Good value for price"
+      ],
+      "cons": [
+        "Can look synthetic up close",
+        "Some reports of inconsistent sizing"
+      ],
+      "price": null,
+      "amazon_id": "B077RPXSF3",
+      "sources": [
+        "https://bestreviews.com/home/windows/best-curtains"
+      ],
+      "amazon_url": "https://www.amazon.com/NICETOWN-Blackout-Blocking-Insulated-Draperies/dp/B077RPXSF3",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/wqJHq1J6D8UoM6qhA4psRVjMkIodHLAapUfH4G-zaWY/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9pbWFn/ZXMtbmEuc3NsLWlt/YWdlcy1hbWF6b24u/Y29tL2ltYWdlcy9J/LzYxdG9BcmVxU2JM/LmpwZw",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "H.VERSAILTEX 100% Blackout Thermal Insulated Curtains (single panel options)",
+      "pros": [
+        "Heavy thermal fabric for insulation",
+        "Effective at reducing light and heat",
+        "Popular across length options"
+      ],
+      "cons": [
+        "Heavier weight can feel stiff",
+        "Fewer decorative textures"
+      ],
+      "price": null,
+      "amazon_id": "B01M9IZ0AT",
+      "sources": [
+        "https://top5best.com/curtains-for-living-room-96-inch-length"
+      ],
+      "amazon_url": "https://www.amazon.com/H-VERSAILTEX-Blackout-Darkening-Insulated-Treatment/dp/B01M9IZ0AT",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/UqS7fcjS0d61jSt814ZOjd4uCT6S-m6QJ0Vvqy6WZw4/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9pLmVi/YXlpbWcuY29tL2lt/YWdlcy9nL013RUFB/ZVN3cE81cE1TNFMv/cy1sOTYwLndlYnA",
+      "resolver": "brave",
+      "valid": true
+    }
+  ],
+  "resolvedLinks": {
+    "https://bestreviews.com/home/windows/best-curtains": {
+      "title": "5 Best Curtains - Mar. 2026 - BestReviews",
+      "description": "Our team of experts has selected the best curtains out of hundreds of models. Don't buy curtains before reading these reviews.",
+      "image": "https://cdn.bestreviews.com/images/v4desktop/chubby/2f98c1b19ef92c47d64ce98cca56e2fc.jpg",
+      "url": "https://bestreviews.com/home/windows/best-curtains"
+    },
+    "https://top5best.com/curtains-for-living-room-96-inch-length": {
+      "title": "Top 5 Best Curtains For Living Room 96 Inch Length (Updated Picks 2026)",
+      "description": "2026's Top 5 Best Curtains For Living Room 96 Inch Length Top Rated and Reviewed. Easily choose and compare the Best Curtains For Living Room 96 Inch Length for you all in one place. (Updated Picks 2026)",
+      "image": "https://images.top5best.com/images/list_img/list_829/hversailtex_8286033.jpg",
+      "url": "https://top5best.com/curtains-for-living-room-96-inch-length"
+    }
+  }
+}

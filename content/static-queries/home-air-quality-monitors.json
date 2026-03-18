@@ -1,0 +1,108 @@
+{
+  "slug": "home-air-quality-monitors",
+  "query": "best home air quality monitors",
+  "title": "Best home air quality monitors | Bin Diving",
+  "description": "AI-dug recommendations for best home air quality monitors. Compare options and find one that fits.",
+  "dugAt": "2026-03-18T16:00:54.510Z",
+  "recommendations": [
+    {
+      "product_name": "Airthings View Plus (Model 2960)",
+      "pros": [
+        "Measures radon + PM2.5 and VOCs",
+        "Comprehensive 7-sensor array"
+      ],
+      "cons": [
+        "Higher price than basic monitors",
+        "Requires app for full historical data"
+      ],
+      "price": null,
+      "amazon_id": "B0DFDMZX87",
+      "sources": [
+        "https://www.airthings.com/products/indoor-air-quality/view-plus",
+        "https://www.reviewed.com/home-outdoors/best-right-now/best-indoor-air-quality-monitors",
+        "https://bestreviews.com/home/air-purifier/best-air-quality-monitors"
+      ],
+      "amazon_url": "https://www.amazon.com/Airthings-Air-Quality-Monitor/dp/B0DFDMZX87",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/Qd0DAY1phBumzu6iq_bKSNB6z04WhY-DZuDZPngXoCg/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9tLm1l/ZGlhLWFtYXpvbi5j/b20vaW1hZ2VzL0kv/NzEwTUVnbytlWkwu/anBn",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "IQAir AirVisual Pro Indoor Monitor",
+      "pros": [
+        "Professional-grade PM2.5 sensor",
+        "Large color display with indoor/outdoor comparison"
+      ],
+      "cons": [
+        "No radon detection",
+        "Plastic housing feels less premium to some users"
+      ],
+      "price": null,
+      "amazon_id": "B09JHVCJDY",
+      "sources": [
+        "https://www.iqair.com/us/products/air-quality-monitors/airvisual-pro-indoor-monitor",
+        "https://aboutdarwin.com/best-air-quality-monitor/"
+      ],
+      "amazon_url": "https://www.amazon.com/IQAir-AirVisual-Series/dp/B09JHVCJDY",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/QGZ9oAEuMA392XbgeaVtM82-D4ew-ynlz7A31HJ5pA4/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9jMS5u/ZXdlZ2dpbWFnZXMu/Y29tL3Byb2R1Y3Rp/bWFnZS9uYjY0MC84/MS02MDAtMDAxLTAz/LmpwZw",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "Awair Element (Awair Element/Element 2 family)",
+      "pros": [
+        "Stylish design, CO2 + TVOC + PM monitoring",
+        "Smart-home integrations (Alexa, Google)"
+      ],
+      "cons": [
+        "Some users report cloud/local API issues historically",
+        "Occasional availability/support concerns"
+      ],
+      "price": null,
+      "amazon_id": "B082ZF4H37",
+      "sources": [
+        "https://homeairiq.com/reviews/awair-element-review",
+        "https://gearbrain.com/awair-element-air-quality-monitor-2641417571.html"
+      ],
+      "amazon_url": "https://www.amazon.com/Awair-Element-Indoor-Quality-Monitor/dp/B082ZF4H37",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/tXq-jQRSkLu-cr60EVvTsp-EOEaUq7tYglQslRpbzk0/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly93d3cu/YW1lcmljYW5zdGFu/ZGFyZGFpci5jb20v/X25leHQvaW1hZ2Uv/P3VybD1odHRwczov/L2xpdmUtYXNhLWhl/YWRsZXNzLWNtcy5w/YW50aGVvbnNpdGUu/aW8vd3AtY29udGVu/dC91cGxvYWRzLzIw/MjUvMDkvQXdhaXIt/RWxlbWVudC5qcGcm/dz0xOTIwJnE9NzU",
+      "resolver": "brave",
+      "valid": true
+    }
+  ],
+  "resolvedLinks": {
+    "https://www.airthings.com/products/indoor-air-quality/view-plus": {
+      "title": "View Plus",
+      "description": "Our most comprehensive, radon &amp; air quality monitor with 7 sensors including radon, PM 2.5, CO2, and more - WiFi connected and cable-free.",
+      "image": "https://www.airthings.com/media/catalog/product/v/i/view_plus_3.jpg",
+      "url": "https://www.airthings.com/view-plus"
+    },
+    "https://www.reviewed.com/home-outdoors/best-right-now/best-indoor-air-quality-monitors": {
+      "title": "The Best Indoor Air Quality Monitors of 2026",
+      "description": "Learn about your indoor air quality with the help of these monitors",
+      "image": "https://reviewed-com-res.cloudinary.com/image/fetch/s--oJ7z6IyZ--/b_white,c_limit,cs_srgb,f_auto,fl_progressive.strip_profile,g_center,q_auto,w_1200/https://reviewed-production.s3.amazonaws.com/1723223441234/IAQ-TBRN_HERO.jpg",
+      "url": "https://www.reviewed.com/home-outdoors/best-right-now/best-indoor-air-quality-monitors"
+    },
+    "https://bestreviews.com/home/air-purifier/best-air-quality-monitors": {
+      "title": "5 Best Air Quality Monitors - Mar. 2026 - BestReviews",
+      "description": "Our team of experts has selected the best air quality monitors out of hundreds of models. Don't buy an air quality monitor before reading these reviews.",
+      "image": "https://cdn.bestreviews.com/images/v4desktop/chubby/bc86f155407faa47eb0971364e1566d0.jpg",
+      "url": "https://bestreviews.com/home/air-purifier/best-air-quality-monitors"
+    },
+    "https://homeairiq.com/reviews/awair-element-review": {
+      "title": "Awair Element Review: Design-Forward IAQ Monitor for Everyday Use",
+      "description": "Review of the Awair Element air quality monitor, including how it tracks PM2.5, CO2, VOCs, humidity, and how useful its app and visual score are for everyday IAQ decisions.",
+      "image": "",
+      "url": "https://homeairiq.com/reviews/awair-element-review"
+    },
+    "https://gearbrain.com/awair-element-air-quality-monitor-2641417571.html": {
+      "title": "New Awair Element is a $149 smart home air quality monitor",
+      "description": "Element has the same features as the pricier model, but replaces a wooden body for plastic.",
+      "image": "https://www.gearbrain.com/media-library/image.jpg?id=22095659&width=1200&height=600&coordinates=0%2C69%2C0%2C69",
+      "url": "https://www.gearbrain.com/awair-element-air-quality-monitor-2641417571.html"
+    }
+  }
+}

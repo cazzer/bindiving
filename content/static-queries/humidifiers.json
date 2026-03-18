@@ -1,0 +1,110 @@
+{
+  "slug": "humidifiers",
+  "query": "best humidifiers",
+  "title": "Best humidifiers | Bin Diving",
+  "description": "AI-dug recommendations for best humidifiers. Compare options and find one that fits.",
+  "dugAt": "2026-03-18T15:59:42.875Z",
+  "recommendations": [
+    {
+      "product_name": "LEVOIT Classic 300S Smart Ultrasonic Cool Mist Humidifier",
+      "pros": [
+        "Large tank / long runtime",
+        "Built-in humidistat & auto mode",
+        "Quiet operation / smart controls"
+      ],
+      "cons": [
+        "May require frequent cleaning",
+        "Some users report app/warranty issues"
+      ],
+      "price": null,
+      "amazon_id": "B09C24TYGQ",
+      "sources": [
+        "https://www.goodhousekeeping.com/appliances/a25597339/best-humidifier/",
+        "https://www.rtings.com/humidifier/reviews/best/humidifiers"
+      ],
+      "amazon_url": "https://www.amazon.com/LEVOIT-Humidifiers-Ultrasonic-Essential-Customized/dp/B09C24TYGQ",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/S_ybuqVCkPHSeHyGtB7YG6y1oRwJeS_2iqUsFX0BI3c/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly90YXJn/ZXQuc2NlbmU3LmNv/bS9pcy9pbWFnZS9U/YXJnZXQvR1VFU1Rf/ZjRiNDI1MjgtY2Ez/Ny00OWEzLWI3NGEt/M2VhNmZiNDY0ZjIy/P3dpZD04MDAmaGVp/PTgwMCZxbHQ9ODAm/Zm10PXBqcGVn",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "Blueair InvisibleMist H35i (InvisibleMist Evaporative Humidifier)",
+      "pros": [
+        "Evaporative design reduces white dust",
+        "Dishwasher-safe tank / easy cleaning",
+        "Good performance for larger rooms"
+      ],
+      "cons": [
+        "Replacement wicks/parts add cost",
+        "Some users report reliability issues"
+      ],
+      "price": null,
+      "amazon_id": "B08KTHZW5H",
+      "sources": [
+        "https://www.bobvila.com/articles/best-evaporative-humidifier/",
+        "https://www.techgearlab.com/reviews/health-fitness/humidifier/blueair-invisiblemist-h35i"
+      ],
+      "amazon_url": "https://www.amazon.com/Blueair-H35i-Humidifier-Gen-2/dp/B08KTHZW5H",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/LW-hUzTe2xdHVWyqfK3AJWAcvvYQobDWj-8cO25FhjA/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly93d3cu/c3lsdmFuZS5jb20v/Y2RuL3Nob3AvZmls/ZXMvYmx1ZWFpci1p/bnZpc2libGVtaXN0/LXNtYXJ0LWV2YXBv/cmF0aXZlLWh1bWlk/aWZpZXItd2l0aC1h/cHAucG5nP3Y9MTc2/OTYyOTA5NSZ3aWR0/aD0xMjE0",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "Dyson Purifier Humidify+Cool (Purifier + Humidifier + Fan)",
+      "pros": [
+        "All-in-one purifier, humidifier & fan",
+        "High-end build and features",
+        "Smart controls / app integration"
+      ],
+      "cons": [
+        "Very expensive",
+        "Mixed reliability and maintenance reports"
+      ],
+      "price": null,
+      "amazon_id": "B0B3F749ZJ",
+      "sources": [
+        "https://www.forbes.com/sites/forbes-personal-shopper/article/best-humidifier/",
+        "https://www.t3.com/features/best-dyson-fan"
+      ],
+      "amazon_url": "https://www.amazon.com/Dyson-Purifier-Humidify-Cool-Formaldehyde/dp/B0B3F749ZJ",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/_W2uMjU1PWvJlyjZDvd8RhjOtRbpHRIdmrQ1Hskz31U/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9keXNv/bi1oLmFzc2V0c2Fk/b2JlMi5jb20vaXMv/aW1hZ2UvY29udGVu/dC9kYW0vZHlzb24v/cHJvZHVjdHMvYWly/LXRyZWF0bWVudC9w/dXJpZmllci1odW1p/ZGlmeS1jb29sL3Bo/MDMvRUNfSnNfSG9t/ZXBhZ2VfVVNfUEgz/QV9Ob0dyZWVuX1Y2/LmpwZz8kcmVzcG9u/c2l2ZSQ",
+      "resolver": "brave",
+      "valid": true
+    }
+  ],
+  "resolvedLinks": {
+    "https://www.goodhousekeeping.com/appliances/a25597339/best-humidifier/": {
+      "title": "The Best Humidifiers for Coughs, Allergies, and Dry Skin",
+      "description": "Deep breath—our experts have you covered with our latest top picks.",
+      "image": "https://hips.hearstapps.com/hmg-prod/images/ghk-digital-index-humidifiers-247-690510eb202e7.jpg?crop=1xw:0.7504690431519699xh;center,top&resize=1200:*",
+      "url": "https://www.goodhousekeeping.com/appliances/a25597339/best-humidifier/"
+    },
+    "https://www.rtings.com/humidifier/reviews/best/humidifiers": {
+      "title": "The 4 Best Humidifiers of 2026",
+      "description": "The Carepod One is the best humidifier we've tested. This high-end ultrasonic cool-mist unit produces more than enough moisture for living rooms and larger bedrooms.",
+      "image": "https://i.rtings.com/assets/pages/IExSgx76/best-humidifiers-20241118-medium.jpg?format=auto",
+      "url": "https://www.rtings.com/humidifier/reviews/best/humidifiers"
+    },
+    "https://www.bobvila.com/articles/best-evaporative-humidifier/": {
+      "title": "The Best Evaporative Humidifiers for Combating Dry Air",
+      "description": "We tested evaporative humidifiers for months to find the best options to add moisture and offer relief from dry air in your home.",
+      "image": "https://www.bobvila.com/wp-content/uploads/2025/12/Best-evaporative-humidifiers-group-1.jpg?w=1200",
+      "url": "https://www.bobvila.com/reviews/best-evaporative-humidifiers-2026/"
+    },
+    "https://www.techgearlab.com/reviews/health-fitness/humidifier/blueair-invisiblemist-h35i": {
+      "title": "Blueair InvisibleMist H35i Review",
+      "description": "There is a lot to love about the Blueair InvisibleMist H35i. First and foremost, there is no need to use distilled water. Instead, it takes tap water, and...",
+      "image": "https://djd1xqjx2kdnv.cloudfront.net/photos/39/96/521078_24724_XXL.jpg",
+      "url": "https://www.techgearlab.com/reviews/health-fitness/humidifier/blueair-invisiblemist-h35i"
+    },
+    "https://www.t3.com/features/best-dyson-fan": {
+      "title": "Best Dyson fan 2026: cool, heat and purify the air with picks from Dyson",
+      "description": "Find the best Dyson fans and air purifiers for your home in T3's comprehensive guide",
+      "image": "https://cdn.mos.cms.futurecdn.net/XGEcyeEVVY6SqxgriMviiT-1920-80.jpg",
+      "url": "https://www.t3.com/features/best-dyson-fan"
+    }
+  }
+}

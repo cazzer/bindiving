@@ -1,0 +1,106 @@
+{
+  "slug": "portable-air-conditioners",
+  "query": "best portable air conditioners",
+  "title": "Best portable air conditioners | Bin Diving",
+  "description": "AI-dug recommendations for best portable air conditioners. Compare options and find one that fits.",
+  "dugAt": "2026-03-18T15:56:49.484Z",
+  "recommendations": [
+    {
+      "product_name": "BLACK+DECKER Smart Portable Air Conditioner, 14,000 BTU (BPACT14WT)",
+      "pros": [
+        "Strong cooling for mid–large rooms",
+        "Wi‑Fi, app & voice control",
+        "Easy installation with window kit"
+      ],
+      "cons": [
+        "No heating function",
+        "Heavy (~60 lb)"
+      ],
+      "price": null,
+      "amazon_id": "B01DLPUWHQ",
+      "sources": [
+        "https://cybernews.com/reviews/best-portable-air-conditioner/",
+        "https://www.amazon.com/dp/B01DLPUWHQ?linkCode=ogi&psc=1&tag=cybernews08-20&th=1"
+      ],
+      "amazon_url": "https://www.amazon.com/BLACK-DECKER-Portable-Conditioner-Display/dp/B01DLPUWHQ",
+      "gpt_azn": "B01DLPUWHQ",
+      "image_url": "https://imgs.search.brave.com/nJrby2d36Eb-1f40stdyKO2Mt6cpVLk1p93FwNKpzdI/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9oZWF0/aW5nbmV3c2pvdXJu/YWwuY29tL3dwLWNv/bnRlbnQvdXBsb2Fk/cy8yMDI1LzA2L2Js/YWNrLWRlY2tlci1i/cGFjdDE0d3Qtc21h/cnQtcG9ydGFibGUt/YWlyLWNvbmRpdGlv/bmVyLmpwZw",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "Whynter ARC‑14S 14,000 BTU Dual‑Hose Portable Air Conditioner",
+      "pros": [
+        "Dual‑hose for improved efficiency",
+        "Well‑reviewed for large rooms",
+        "Includes dehumidifier function"
+      ],
+      "cons": [
+        "Can be noisy under load",
+        "Some users report reliability issues over long term"
+      ],
+      "price": null,
+      "amazon_id": "B0028AYQDC",
+      "sources": [
+        "https://cybernews.com/reviews/best-portable-air-conditioner/",
+        "https://us.amazon.com/Air-Conditioner-Dehumidifier-Activated-Microfiber/dp/B09HCTF7H2",
+        "https://rtings.com/air-conditioner/reviews/whynter/arc-14s"
+      ],
+      "amazon_url": "https://www.amazon.com/Whynter-ARC-14S-Conditioner-Dehumidifier-Activated/dp/B0028AYQDC",
+      "gpt_azn": "B09HCTF7H2",
+      "image_url": "https://imgs.search.brave.com/NxD95egGIWjpVSABf59lqGimVpy1UKfwPEoai1vKKcY/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly93d3cu/c3lsdmFuZS5jb20v/Y2RuL3Nob3AvZmls/ZXMvd2h5bnRlci1h/cmMtMTRzaC1wb3J0/YWJsZS1haXItY29u/ZGl0aW9uZXItYWNj/ZXNzb3JpZXMucG5n/P3Y9MTc1MzgxNzM1/NiZ3aWR0aD0xMjE0",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "SereneLife SLPAC14 Portable Air Conditioner (14,000 BTU)",
+      "pros": [
+        "Powerful cooling for medium–large rooms",
+        "Simple setup with included window kit",
+        "Generally budget‑friendly for capacity"
+      ],
+      "cons": [
+        "Mixed long‑term reliability reports",
+        "No widely consistent official ASIN across listings"
+      ],
+      "price": null,
+      "amazon_id": "B0C3WNDZFS",
+      "sources": [
+        "https://cybernews.com/reviews/best-portable-air-conditioner/",
+        "https://heatingnewsjournal.com/serenelife-slpac14-portable-14000-btu-air-conditioner/",
+        "https://manuals.plus/serenelife/slpac14-compact-home-portable-air-conditioner-manual"
+      ],
+      "amazon_url": "https://www.amazon.com/SereneLife-SLPAC14-5-Portable-Conditioner-Compact-Dehumidifier/dp/B0C3WNDZFS",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/nOO2S5HYVGyKlynEfpK4EkbBe9Pk0baS41S6EHkKDpY/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9zZXJl/bmVsaWZlaG9tZS5j/b20vY2RuL3Nob3Av/ZmlsZXMvU0xQQUMx/NF9kZDIzM2VkNS1j/MGRhLTQ0OWUtODlj/ZS00NTA2OTgyNzUw/NGUuanBnP3Y9MTcy/NTAyMTg4NSZ3aWR0/aD0xMjE0",
+      "resolver": "brave",
+      "valid": true
+    }
+  ],
+  "resolvedLinks": {
+    "https://www.amazon.com/dp/B01DLPUWHQ?linkCode=ogi&psc=1&tag=cybernews08-20&th=1": {
+      "title": "Amazon.com: BLACK+DECKER Smart Portable Air Conditioner, 14,000 BTU for Rooms up to 700 Sq. Ft., Smart Portable AC with Follow Me Remote and Window Kit, BPACT14WT, White : Home & Kitchen",
+      "description": "",
+      "image": "",
+      "url": "https://www.amazon.com/dp/B01DLPUWHQ?linkCode=ogi&psc=1&tag=cybernews08-20&th=1"
+    },
+    "https://us.amazon.com/Air-Conditioner-Dehumidifier-Activated-Microfiber/dp/B09HCTF7H2": {
+      "title": "Amazon.com: Whynter ARC-14S, Portable Air Conditioner, Dehumidifier, Dual Hose, 14,000 BTU, Fan, Activated Carbon Filter (Complete Set), With Bonus Premium Microfiber Cleaner Bundle, Platinum, Black : Home & Kitchen",
+      "description": "",
+      "image": "",
+      "url": "https://us.amazon.com/Air-Conditioner-Dehumidifier-Activated-Microfiber/dp/B09HCTF7H2"
+    },
+    "https://rtings.com/air-conditioner/reviews/whynter/arc-14s": {
+      "title": "Whynter ARC-14S Review",
+      "description": "The Whynter ARC-14S is a dual-hose portable A/C designed for medium-sized to large rooms. It advertises coverage of 500 ft² (46 m²) and a capacity of 9,500 BTU/h...",
+      "image": "https://i.rtings.com/assets/products/Alnaf43Q/whynter-arc-14s/design-medium.jpg?format=auto",
+      "url": "https://www.rtings.com/air-conditioner/reviews/whynter/arc-14s"
+    },
+    "https://heatingnewsjournal.com/serenelife-slpac14-portable-14000-btu-air-conditioner/": {
+      "title": "SereneLife SLPAC14 Portable 14,000 BTU Air Conditioner Review 2025 – Heating News Journal",
+      "description": "",
+      "image": "",
+      "url": "https://heatingnewsjournal.com/serenelife-slpac14-portable-14000-btu-air-conditioner/"
+    }
+  }
+}

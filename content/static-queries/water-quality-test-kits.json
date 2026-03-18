@@ -1,0 +1,128 @@
+{
+  "slug": "water-quality-test-kits",
+  "query": "best water quality test kits",
+  "title": "Best water quality test kits | Bin Diving",
+  "description": "AI-dug recommendations for best water quality test kits. Compare options and find one that fits.",
+  "dugAt": "2026-03-18T16:03:31.253Z",
+  "recommendations": [
+    {
+      "product_name": "Tap Score Advanced City Water Test (SimpleLab)",
+      "pros": [
+        "Comprehensive lab analysis (111 analytes)",
+        "Certified labs + expert guidance"
+      ],
+      "cons": [
+        "Mail-in turnaround time",
+        "Higher cost than strip kits"
+      ],
+      "price": "$299.00",
+      "amazon_id": "B076DRBCBX",
+      "sources": [
+        "https://mytapscore.com/products/advanced-city-water-test",
+        "https://mytapscore.com/pages/press",
+        "https://www.tapwater.org/best-water-test-kits"
+      ],
+      "amazon_url": "https://www.amazon.com/Professional-Water-SimpleWater-Tap-Score/dp/B076DRBCBX",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/NrpxB2gJT-7V5IWcPb5_L6xR_7fmvSwTb6O4eq1GQxs/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9teXRh/cHNjb3JlLmNvbS9j/ZG4vc2hvcC9maWxl/cy9CZXN0X0FkdmFu/Y2VkX0NpdHlfV2F0/ZXJfVGVzdF9LaXRf/YnlfVGFwX1Njb3Jl/XzIwMjRfMTQ0NXgu/cG5nP3Y9MTczMTYz/Mzc1OA",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "Safe Home DIY Lead in Drinking Water Test Kit",
+      "pros": [
+        "Fast, sensitive DIY lead detection",
+        "Available as inexpensive at-home or in-lab options"
+      ],
+      "cons": [
+        "Focused on lead (not multiparameter)",
+        "Some reports recommend confirmatory lab testing"
+      ],
+      "price": "$19.99",
+      "amazon_id": "B091JKJSL4",
+      "sources": [
+        "https://safehometestkits.com/product/safe-home-lead-in-drinking-water-test-kit/",
+        "https://www.bobvila.com/reviews/best-lead-test-kits/",
+        "https://bestreviews.guide/drinking-water-test-kits/safe-home-lead-in-drinking-water-test-kit-2-samples-tested-b01lw96xbo"
+      ],
+      "amazon_url": "https://www.amazon.com/Safe-Home-LEAD-Drinking-Water/dp/B091JKJSL4",
+      "gpt_azn": "B01LW96XBO",
+      "image_url": "https://imgs.search.brave.com/KHZm4KgjI4JnOzd83ruLDNPGWyiGNeKsS6mjG7wrdZc/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9tLm1l/ZGlhLWFtYXpvbi5j/b20vaW1hZ2VzL0kv/ODFPRHJVbVo3NUwu/anBn",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "Health Metric Drinking Water Test Kit (Well/Tap)",
+      "pros": [
+        "Affordable multiparameter strip kit",
+        "Tests common well/tap concerns quickly"
+      ],
+      "cons": [
+        "Color-chart reading can be imprecise vs. lab",
+        "Limited bacteria testing included"
+      ],
+      "price": "$28.99",
+      "amazon_id": "B01N5K7LR3",
+      "sources": [
+        "https://www.thisoldhouse.com/plumbing/22846125/best-water-test-kit",
+        "https://waterzen.com/reviews/health-metric-water-test-kit/",
+        "https://fado.vn/us/amazon/drinking-water-test-strips-for-home-tap-and-well-water-easy-to-use-water-tester-for-lead-bacteria-ph-copper-nitrate-chlorine-hardness-and-more-made-in-the-usa-in-line-with-epa-approved-limits-B01N5K7LR3.html"
+      ],
+      "amazon_url": "https://www.amazon.com/Health-Metric-Drinking-Water-Test/dp/B01N5K7LR3",
+      "gpt_azn": "B01N5K7LR3",
+      "image_url": "https://imgs.search.brave.com/KrQ6uvVz_AXf8ifiFHShlcnHybKxRmWqa8yPNRkA8js/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9tLm1l/ZGlhLWFtYXpvbi5j/b20vaW1hZ2VzL0kv/NTFZVUpDbEszN0wu/anBn",
+      "resolver": "brave",
+      "valid": true
+    }
+  ],
+  "resolvedLinks": {
+    "https://mytapscore.com/products/advanced-city-water-test": {
+      "title": "Advanced City Water Test",
+      "description": "Certified lab analysis of most common contaminants in city water. Recommended by Wirecutter as the best home water test kit.",
+      "image": "http://mytapscore.com/cdn/shop/products/CITYADV2022.png?v=1762457055",
+      "url": "https://mytapscore.com/products/advanced-city-water-test"
+    },
+    "https://mytapscore.com/pages/press": {
+      "title": "Press | Tap Score",
+      "description": "For Media inquiries, assets and press mentions, visit our press page.",
+      "image": "http://mytapscore.com/cdn/shop/files/Shopify_MTS_Social_Sharing_Image_1200x628_bbe3724d-16b9-439d-99c1-96eda2609f91.png?v=1744084030",
+      "url": "https://mytapscore.com/pages/press"
+    },
+    "https://www.tapwater.org/best-water-test-kits": {
+      "title": "Best Water Test Kits 2026: Our Top 4 Picks Reviewed",
+      "description": "We tested 11 water test kits to find the 4 best. Lab tests, DIY kits, and lead-specific options reviewed.",
+      "image": "https://www.tapwater.org/og/best-water-test-kits.jpg",
+      "url": "https://www.tapwater.org/best-water-test-kits"
+    },
+    "https://safehometestkits.com/product/safe-home-lead-in-drinking-water-test-kit/": {
+      "title": "Lead in Drinking Water Test Kit – Safe Home®",
+      "description": "Trust our Lead Drinking Water Test Kit from Safe Home® for accurate results. Ensure your water is free from harmful lead contamination.",
+      "image": "https://safehometestkits.com/wp-content/uploads/2023/07/Lead-I_front_1000px.png",
+      "url": "https://safehometestkits.com/product/safe-home-lead-in-drinking-water-test-kit/"
+    },
+    "https://www.bobvila.com/reviews/best-lead-test-kits/": {
+      "title": "The Best Lead Test Kits of 2026",
+      "description": "The best lead test kit helps identify dangerous materials in a home. Whether testing paint, water, or other surfaces, here are our top picks.",
+      "image": "https://www.bobvila.com/wp-content/uploads/2026/02/Best-Lead-Test-Kit.jpg?w=1200",
+      "url": "https://www.bobvila.com/reviews/best-lead-test-kits/"
+    },
+    "https://bestreviews.guide/drinking-water-test-kits/safe-home-lead-in-drinking-water-test-kit-2-samples-tested-b01lw96xbo": {
+      "title": "Safe home lead in drinking water test kit 2 samples tested Review | BestReviews.guide",
+      "description": "BestReviews.guide analyzes thousands of articles and customer reviews to find the top-rated products at today's lowest prices. Best products, best offers.",
+      "image": "https://images-proxy.bestreviews.guide/4-F5hduhi-ETeUw7LDzNEj1p-Ns=/0x300/https://m.media-amazon.com/images/I/51OXpa8oQlL._AC_CX679_.jpg",
+      "url": "https://www.bestreviews.guide/drinking-water-test-kits/safe-home-lead-in-drinking-water-test-kit-2-samples-tested-b01lw96xbo"
+    },
+    "https://waterzen.com/reviews/health-metric-water-test-kit/": {
+      "title": "Health Metric Water Test Kit | Waterzen | WaterZen",
+      "description": "",
+      "image": "",
+      "url": "https://waterzen.com/reviews/health-metric-water-test-kit/"
+    },
+    "https://fado.vn/us/amazon/drinking-water-test-strips-for-home-tap-and-well-water-easy-to-use-water-tester-for-lead-bacteria-ph-copper-nitrate-chlorine-hardness-and-more-made-in-the-usa-in-line-with-epa-approved-limits-B01N5K7LR3.html": {
+      "title": "Mua Health Metric Drinking Water Test Kit For Home Tap and Well Water - Simple Testing Strips For Lead Copper Bacteria Nitrate Chlorine and More | Made In USA To EPA Standards trên Amazon Mỹ chính hãng 2026 | Fado",
+      "description": "Mua sản phẩm Health Metric Drinking Water Test Kit For Home Tap and Well Water - Simple Testing Strips For Lead Copper Bacteria Nitrate Chlorine and More | Made In USA To EPA Standards trên Amazon Mỹ chính hãng 2026 | Fado",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/71QuNaCRXPL.jpg",
+      "url": "https://fado.vn/us/amazon/drinking-water-test-strips-for-home-tap-and-well-water-easy-to-use-water-tester-for-lead-bacteria-ph-copper-nitrate-chlorine-hardness-and-more-made-in-the-usa-in-line-with-epa-approved-limits-B01N5K7LR3.html"
+    }
+  }
+}

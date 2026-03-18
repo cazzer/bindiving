@@ -1,0 +1,110 @@
+{
+  "slug": "desk-lamps",
+  "query": "best desk lamps",
+  "title": "Best desk lamps | Bin Diving",
+  "description": "AI-dug recommendations for best desk lamps. Compare options and find one that fits.",
+  "dugAt": "2026-03-18T16:09:33.093Z",
+  "recommendations": [
+    {
+      "product_name": "BenQ e-Reading Desk Lamp",
+      "pros": [
+        "Wide, even coverage",
+        "Adjustable color temperature/brightness",
+        "Built-in ambient sensor (auto-adjust)"
+      ],
+      "cons": [
+        "Large head may be bulky on small desks",
+        "Premium price compared with basic LED lamps"
+      ],
+      "price": null,
+      "amazon_id": "B017NOD9KI",
+      "sources": [
+        "https://www.tomsguide.com/best-picks/best-desk-lamps",
+        "https://www.benq.com/en-us/lighting/e-reading-desk-lamp/genie.html"
+      ],
+      "amazon_url": "https://www.amazon.com/BenQ-Reading-Desk-Lamp-Auto-dimming/dp/B017NOD9KI",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/74CVsCbt1jWmYMuocx7qMmf_e5-8xiJLoJ5PlQ8Bgps/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9jMDIu/cHVycGxlZHNodWIu/Y29tL3VwbG9hZHMv/c2l0ZXMvNTEvMjAy/NC8wNS9JTUdfNjEy/Mi5qcGc_d2VicD0x/Jnc9MTIwMA",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "Dyson Solarcycle Morph (desk light)",
+      "pros": [
+        "Adaptive color and brightness tuned to time of day",
+        "High build quality and long warranty",
+        "Multiple advanced control modes/apps"
+      ],
+      "cons": [
+        "Expensive luxury option",
+        "Large footprint for small desks"
+      ],
+      "price": null,
+      "amazon_id": "B0CHN12G68",
+      "sources": [
+        "https://www.goodhousekeeping.com/best-desk-lamps/",
+        "https://www.dyson.com/lighting/solarcycle-morph"
+      ],
+      "amazon_url": "https://www.amazon.com/Dyson-Solarcycle-MorphTM-Desk-Light/dp/B0CHN12G68",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/0B_9yACQ57W06y7tb5Os30LQXEdElCMA-mvOZ9fuCLg/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9keXNv/bi1oLmFzc2V0c2Fk/b2JlMi5jb20vaXMv/aW1hZ2UvY29udGVu/dC9kYW0vZHlzb24v/cHJvZHVjdHMvbGln/aHRpbmcvc29sYXJj/eWNsZS1tb3JwaC9w/ZHAvZGVzay9nYWxs/ZXJ5L0NMUy1QRFAt/R2FsbGVyeS1MaWdo/dE9OLVdhcm0tTmV1/dHJhbC1Db29sLUhv/cml6b24uanBn",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "Humanscale Nova Task Lamp",
+      "pros": [
+        "Durable, professional build with expert-recommended design",
+        "Touch dimming and USB ports on many models",
+        "Excellent adjustability and stable hinges"
+      ],
+      "cons": [
+        "Higher price vs. mass-market LEDs",
+        "Fewer color-temperature options than some smart lamps"
+      ],
+      "price": null,
+      "amazon_id": "B0BGYR9Y8C",
+      "sources": [
+        "https://www.goodhousekeeping.com/best-desk-lamps/",
+        "https://philzen.com/products/humanscale-nova-desk-lamp"
+      ],
+      "amazon_url": "https://www.amazon.com/Humanscale-Light-Extended-Desktop-Temperature/dp/B0BGYR9Y8C",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/eub8zpX0DNPOaM-_6j4yNbQoU4NAUEJjUHUp2SDqO3E/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly93d3cu/cG9tcHkuY29tL2lt/YWdlcy9wcm9kdWN0/cy9OVlRML2dhbGxl/cnkvaHVtYW5zY2Fs/ZS1ub3ZhLXRhc2st/bGFtcC0xLTYzODk0/MzE3ODM5LmpwZw",
+      "resolver": "brave",
+      "valid": true
+    }
+  ],
+  "resolvedLinks": {
+    "https://www.tomsguide.com/best-picks/best-desk-lamps": {
+      "title": "This color-changing desk lamp is one of my favorite home office upgrades of the year",
+      "description": "Nothing transforms a space more easily than a change in light temperature",
+      "image": "https://cdn.mos.cms.futurecdn.net/jz9szD8YrQy3ypdzus7X8L-2000-80.jpg",
+      "url": "https://www.tomsguide.com/home/home-office/this-color-changing-desk-lamp-is-one-of-my-favorite-home-office-upgrades-of-the-year"
+    },
+    "https://www.benq.com/en-us/lighting/e-reading-desk-lamp/genie.html": {
+      "title": "Genie Intelligent",
+      "description": "Elevate your reading & studying with BenQ E-reading Desk Lamp Genie. 35\" wide coverage, flicker-free LED, auto-dimming for ultimate eye comfort. Adjustable brightness & color, energy-efficient. Discover smarter lighting today!",
+      "image": "https://image.benq.com/is/image/benqco/silver-4?$ResponsivePreset$",
+      "url": "https://www.benq.com/en-us/lighting/e-reading-desk-lamp/genie.html"
+    },
+    "https://www.goodhousekeeping.com/best-desk-lamps/": {
+      "title": "The 10 Best Desk Lamps for Your Home Office",
+      "description": "Ideal for studying in college dorms, working late from your home office, and beyond.",
+      "image": "https://hips.hearstapps.com/hmg-prod/images/best-desk-lamps-for-your-home-office-68decdeb6eac2.png?crop=0.926xw:0.926xh;0,0.0256xh&resize=1200:*",
+      "url": "https://www.goodhousekeeping.com/home-products/g44879285/best-desk-lamps/"
+    },
+    "https://www.dyson.com/lighting/solarcycle-morph": {
+      "title": "Dyson Solarcycle Morph™ light",
+      "description": "The Dyson Solarcycle Morph™ LED light transforms and intelligently adjusts throughout the day – to suit the way you live, work and relax.",
+      "image": "",
+      "url": "https://www.dyson.com/lighting/solarcycle-morph"
+    },
+    "https://philzen.com/products/humanscale-nova-desk-lamp": {
+      "title": "Nova Desk Lamp",
+      "description": "NOW 20% OFF - Best Price, Free Shipping! 10-year warranty, commercial-grade quality, ergonomic & sustainable. Nova by Humanscale features the latest technology in a slick and minimal design. Ships for free within one month. Learn more!",
+      "image": "http://philzen.com/cdn/shop/products/nova-desk-lamp-best-2022-home-office-1_600x.jpg?v=1675519638",
+      "url": "https://philzen.com/products/humanscale-nova-desk-lamp"
+    }
+  }
+}

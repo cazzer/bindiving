@@ -1,0 +1,137 @@
+{
+  "slug": "air-purifiers",
+  "query": "best air purifiers",
+  "title": "Best air purifiers | Bin Diving",
+  "description": "AI-dug recommendations for best air purifiers. Compare options and find one that fits.",
+  "dugAt": "2026-03-18T15:59:07.274Z",
+  "recommendations": [
+    {
+      "product_name": "Coway Airmega 400S",
+      "pros": [
+        "High coverage for large rooms",
+        "Smart features and real-time AQI",
+        "Effective HEPA + carbon filtration"
+      ],
+      "cons": [
+        "Premium price",
+        "Occasional connectivity issues reported"
+      ],
+      "price": null,
+      "amazon_id": "B01C9RIAFS",
+      "sources": [
+        "https://cowaymega.com/products/coway-airmega-400s",
+        "https://www.howtogeek.com/781783/best-air-purifier/",
+        "https://www.slashgear.com/coway-airmega-400s-air-purifier-review-19554352/"
+      ],
+      "amazon_url": "https://www.amazon.com/Coway-Airmega-400S-App-Enabled-Technology/dp/B01C9RIAFS",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/bUhFPmaWLzZX48qVwDwQDKWGOuiE4rUmzrww_w8dX6o/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9tLm1l/ZGlhLWFtYXpvbi5j/b20vaW1hZ2VzL0kv/OTFNcWJsVEg1a0wu/cG5n",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "Levoit Core 600S",
+      "pros": [
+        "High CADR for large rooms",
+        "Quiet operation with effective HEPA filtration",
+        "App and auto mode with real-time PM readings"
+      ],
+      "cons": [
+        "Some user reports of reliability/power issues",
+        "Larger footprint than smaller models"
+      ],
+      "price": null,
+      "amazon_id": "B09BJMY8HL",
+      "sources": [
+        "https://www.livescience.com/health/levoit-core-600s-air-purifier-review",
+        "https://www.techradar.com/home/air-quality/levoit-600s-air-purifier-review",
+        "https://homeairiq.com/reviews/levoit-core-600s-review"
+      ],
+      "amazon_url": "https://www.amazon.com/LEVOIT-Purifiers-Monitor-Particles-Allergies/dp/B09BJMY8HL",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/WYHVAMQh87b6O5dzA3jBqMLRb5XFVCfHG4sAIzFfhlw/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9pbWFn/ZS52ZXN5bmMuY29t/L3ZtYWxsL3YxLzIw/MjUtMDktMzAtYzk2/MTVmMTktMDFhNy00/MWFhLThmOGItMDkx/YWYxNjdlNTQ3Lmpw/Zw",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "Dyson Purifier Cool (TP07)",
+      "pros": [
+        "Combines purifier with tower fan for circulation",
+        "Strong filtration plus oscillation and smart controls",
+        "Well-regarded build and brand support"
+      ],
+      "cons": [
+        "Higher cost than many standalone purifiers",
+        "Some users report occasional QC or noise issues"
+      ],
+      "price": null,
+      "amazon_id": "B09LT8THGS",
+      "sources": [
+        "https://www.dyson.com/air-treatment/air-purifiers/purifier-cool-tp07",
+        "https://www.androidcentral.com/accessories/smart-home/dyson-purifier-cool-tp07-review",
+        "https://www.livescience.com/dyson-purifier-cool-review"
+      ],
+      "amazon_url": "https://www.amazon.com/Dyson-Purifier-Smart-White-Silver/dp/B09LT8THGS",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/yENp-ixpTpor3HP9m7QTF1Af4LX99PsT71NJXa0owGU/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly90YXJn/ZXQuc2NlbmU3LmNv/bS9pcy9pbWFnZS9U/YXJnZXQvR1VFU1Rf/YTIxY2FiOGUtODJh/NC00ZjljLTgwYjkt/NDc1NjllOTE5Mjc3/P3dpZD04MDAmaGVp/PTgwMCZxbHQ9ODAm/Zm10PXBqcGVn",
+      "resolver": "brave",
+      "valid": true
+    }
+  ],
+  "resolvedLinks": {
+    "https://cowaymega.com/products/coway-airmega-400s": {
+      "title": "Coway Airmega 400S Smart Air Purifier | Home Air Purifier, Wifi-Enabled",
+      "description": "The Coway Airmega 400S is equipped with Wi-Fi, so that you can control your air purifier anywhere and at any time through the Airmega mobile app.",
+      "image": "http://cowaymega.com/cdn/shop/files/400s_black.png?v=1767799242",
+      "url": "https://cowaymega.com/products/airmega-400s"
+    },
+    "https://www.howtogeek.com/781783/best-air-purifier/": {
+      "title": "The Best Air Purifiers of 2023",
+      "description": "Want a healthier living space with clean air? Use one of these air purifiers.",
+      "image": "https://static0.howtogeekimages.com/wordpress/wp-content/uploads/2023/04/52665526529_97e70093f9_o.jpg?w=1600&h=900&fit=crop",
+      "url": "https://www.howtogeek.com/781783/best-air-purifier/"
+    },
+    "https://www.slashgear.com/coway-airmega-400s-air-purifier-review-19554352/": {
+      "title": "Coway Airmega 400S Air Purifier Review: Less Smoke, More Smart - SlashGear",
+      "description": "The Shazam casting continues: Disney Channel star Asher Angel has joined the superhero film as Billy Batson, the young boy who transforms into Shazam.",
+      "image": "https://www.slashgear.com/img/gallery/coway-airmega-400s-air-purifier-review/intro-import.jpg",
+      "url": "https://www.slashgear.com/coway-airmega-400s-air-purifier-review-19554352/"
+    },
+    "https://www.livescience.com/health/levoit-core-600s-air-purifier-review": {
+      "title": "Levoit Core 600S air purifier review",
+      "description": "The Levoit Core 600S air purifier gets our seal of approval for its intelligent sensors and excellent performance.",
+      "image": "https://cdn.mos.cms.futurecdn.net/jzddBVgTsSAFDT5RWmKDk5-1280-80.jpg",
+      "url": "https://www.livescience.com/health/levoit-core-600s-air-purifier-review"
+    },
+    "https://www.techradar.com/home/air-quality/levoit-600s-air-purifier-review": {
+      "title": "Levoit 600S air purifier review: floor-standing air purifier that efficiently extracts whiffs",
+      "description": "Stave off allergies, reduce dust and keep airborne evils at bay",
+      "image": "https://cdn.mos.cms.futurecdn.net/FXH4kXRdxKTPCfNEhVUTzS-2500-80.jpg",
+      "url": "https://www.techradar.com/home/air-quality/levoit-600s-air-purifier-review"
+    },
+    "https://homeairiq.com/reviews/levoit-core-600s-review": {
+      "title": "Levoit Core 600S Review: High Power, Low Noise",
+      "description": "Expert review of the Levoit Core 600S, focusing on high-CADR performance, noise levels, and IAQ improvements in large rooms.",
+      "image": "",
+      "url": "https://homeairiq.com/reviews/levoit-core-600s-review"
+    },
+    "https://www.dyson.com/air-treatment/air-purifiers/purifier-cool-tp07": {
+      "title": "Dyson Purifier Cool TP07",
+      "description": "Get exclusive benefits when you buy the Dyson Purifier Cool directly from Dyson. Including free next-day or scheduled delivery.",
+      "image": "",
+      "url": "https://www.dyson.com/air-treatment/air-purifiers/purifier-cool-tp07"
+    },
+    "https://www.androidcentral.com/accessories/smart-home/dyson-purifier-cool-tp07-review": {
+      "title": "Dyson Purifier Cool TP07 review: The best purification system gets even better",
+      "description": "Dyson's air purifier is costly, but it delivers features you don't get anywhere else.",
+      "image": "https://cdn.mos.cms.futurecdn.net/ehJ3rXsDLBQR6BDiDkVi6G-2048-80.jpg",
+      "url": "https://www.androidcentral.com/accessories/smart-home/dyson-purifier-cool-tp07-review"
+    },
+    "https://www.livescience.com/dyson-purifier-cool-review": {
+      "title": "Dyson Purifier Cool review",
+      "description": "The Dyson Purifier Cool is a stylish and sleek air purifier, perfect for people who love their smart, connected devices.",
+      "image": "https://cdn.mos.cms.futurecdn.net/mVtSCwXdhjifE63diQrnAB-1920-80.jpg",
+      "url": "https://www.livescience.com/dyson-purifier-cool-review"
+    }
+  }
+}

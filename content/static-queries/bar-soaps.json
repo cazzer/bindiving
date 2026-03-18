@@ -1,0 +1,92 @@
+{
+  "slug": "bar-soaps",
+  "query": "best bar soaps",
+  "title": "Best bar soaps | Bin Diving",
+  "description": "AI-dug recommendations for best bar soaps. Compare options and find one that fits.",
+  "dugAt": "2026-03-18T15:47:53.860Z",
+  "recommendations": [
+    {
+      "product_name": "Dove Beauty Bar (Original/Sensitive)",
+      "pros": [
+        "Moisturizing (¼ moisturizing cream)",
+        "Gentle for face and body"
+      ],
+      "cons": [
+        "Contains fragrance in some variants",
+        "Not marketed as 'soap' chemically"
+      ],
+      "price": null,
+      "amazon_id": "B001ET7IQK",
+      "sources": [
+        "https://www.gq.com/story/best-bar-soap"
+      ],
+      "amazon_url": "https://www.amazon.com/Dove-Beauty-Sensitive-Skin-Count/dp/B001ET7IQK",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/4u78VckARFxW1lXJW_oMNKDXlkcUBWgYUcugE72bKO0/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9ianMu/c2NlbmU3LmNvbS9p/cy9pbWFnZS9ianMv/MjQ0Nzk1PyRianMt/ODAwJA",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "CeraVe Hydrating Cleanser Bar",
+      "pros": [
+        "Developed with dermatologists; contains ceramides & hyaluronic acid",
+        "Soap-free, good for dry/sensitive skin"
+      ],
+      "cons": [
+        "Some users prefer liquid cleansers",
+        "Can feel different from traditional soap lather"
+      ],
+      "price": null,
+      "amazon_id": "B00U6QFEJU",
+      "sources": [
+        "https://www.cerave.com/skincare/cleansers/hydrating-cleanser-bar"
+      ],
+      "amazon_url": "https://www.amazon.com/CeraVe-Hydrating-Cleansing-Non-Soap-Alternative/dp/B00U6QFEJU",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/uB4hue2q-faz4CEHMOgqYxNYGNtfOwcSk7JKpSFB4d4/rs:fit:0:180:1:0/g:ce/aHR0cHM6Ly9pLmVi/YXlpbWcuY29tL2lt/YWdlcy9nL2xXOEFB/T1N3U3JKbWRHMXgv/cy1sMjI1LmpwZw",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "Dr. Bronner's Pure-Castile Bar Soap",
+      "pros": [
+        "Simple, plant-based ingredients; versatile uses",
+        "Vegan and widely available in multiple scents"
+      ],
+      "cons": [
+        "Higher pH can be drying for some; may require dilution for sensitive skin",
+        "Strong scent options may be overpowering"
+      ],
+      "price": null,
+      "amazon_id": "B001ET77O8",
+      "sources": [
+        "https://www.drbronner.com/products/eucalyptus-pure-castile-bar-soap"
+      ],
+      "amazon_url": "https://www.amazon.com/Dr-Bronners-Pure-Castile-Bar-Soap/dp/B001ET77O8",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/F0OFtlD3qvBPMfD7b7mUVoP5O5V8WgUZP5Hp_KR7QTg/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly93d3cu/ZHJicm9ubmVyLmNv/bS9jZG4vc2hvcC9m/aWxlcy9kci1icm9u/bmVycy1wdXJlLWNh/c3RpbGUtYmFyLXNv/YXAtNW96LWNpdHJ1/cy0zLndlYnA_dj0x/NzQ4ODg5MjA4Jndp/ZHRoPTEwMDA",
+      "resolver": "brave",
+      "valid": true
+    }
+  ],
+  "resolvedLinks": {
+    "https://www.gq.com/story/best-bar-soap": {
+      "title": "The Best Bar Soaps Are Great, Actually",
+      "description": "Kick the plastic to the curb and lather up instead with one of the best bar soaps this year.",
+      "image": "https://media.gq.com/photos/67605ef5297fb1f7ee847297/16:9/w_1280,c_limit/hp-gq-01apr19_b.jpg",
+      "url": "https://www.gq.com/story/best-bar-soap"
+    },
+    "https://www.cerave.com/skincare/cleansers/hydrating-cleanser-bar": {
+      "title": "Hydrating Cleanser Bar | Mild Soap-Free Cleansing Bar | CeraVe",
+      "description": "",
+      "image": "",
+      "url": "https://www.cerave.com/skincare/cleansers/hydrating-cleanser-bar"
+    },
+    "https://www.drbronner.com/products/eucalyptus-pure-castile-bar-soap": {
+      "title": "Eucalyptus - Pure-Castile Magic Bar Soap",
+      "description": "Earthy & warm, with a powerful menthol burst to open breathways & focus the mind! Made with fair trade organic ingredients for smooth skin.",
+      "image": "http://www.drbronner.com/cdn/shop/files/dr-bronners-pure-castile-bar-soap-5oz-eucalyptus-1_1200x630.webp?v=1748890249",
+      "url": "https://www.drbronner.com/products/eucalyptus-pure-castile-bar-soap"
+    }
+  }
+}

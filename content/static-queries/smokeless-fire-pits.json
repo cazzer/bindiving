@@ -1,0 +1,107 @@
+{
+  "slug": "smokeless-fire-pits",
+  "query": "best smokeless fire pits",
+  "title": "Best smokeless fire pits | Bin Diving",
+  "description": "AI-dug recommendations for best smokeless fire pits. Compare options and find one that fits.",
+  "dugAt": "2026-03-18T15:55:11.417Z",
+  "recommendations": [
+    {
+      "product_name": "Solo Stove Bonfire 2.0",
+      "pros": [
+        "Very low smoke with double‑wall airflow",
+        "Relatively easy to clean (removable ash pan)"
+      ],
+      "cons": [
+        "Performance depends on dry, seasoned fuel",
+        "Can be pricier than generic alternatives"
+      ],
+      "price": null,
+      "amazon_id": "B0B7B7R8HL",
+      "sources": [
+        "https://www.tomsguide.com/best-picks/best-fire-pits",
+        "https://www.popularmechanics.com/adventure/a40771092/solo-stove-2-0-smokeless-fire-pit-review//"
+      ],
+      "amazon_url": "https://www.amazon.com/Solo-Stove-Bonfire-2-0-Fireplaces/dp/B0B7B7R8HL",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/zx71HV6ax1zGMop5kGnAYGJ3q51awEclGsiCxFNdWLc/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly90YXJn/ZXQuc2NlbmU3LmNv/bS9pcy9pbWFnZS9U/YXJnZXQvR1VFU1Rf/YTVhMTc1NTUtOTJl/Yy00OGZkLThlYjct/NTAzZjJiYWZjNWUw/P3dpZD04MDAmaGVp/PTgwMCZxbHQ9ODAm/Zm10PXBqcGVn",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "Breeo X Series 24 (X24)",
+      "pros": [
+        "Heavy‑duty build and excellent heat radiation",
+        "Designed for true smokeless burn for backyard use"
+      ],
+      "cons": [
+        "Higher cost; heavier and less portable",
+        "Takes more wood to reach full re‑burn for best smokeless performance"
+      ],
+      "price": null,
+      "amazon_id": "B09WG9DDPS",
+      "sources": [
+        "https://www.tomsguide.com/best-picks/best-fire-pits",
+        "https://www.wired.com/gallery/best-fire-pits/"
+      ],
+      "amazon_url": "https://www.amazon.com/Breeo-Smokeless-Wood-Burning-Live-Fire-Compatibility/dp/B09WG9DDPS",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/LFXKNep0_4twyZ0afbAAzAuzvH2X_OSHX3fEBsnOnaA/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly93d3cu/aW5kaWFuaGVhZGZp/cmV3b29kLmNvbS9j/ZG4vc2hvcC9wcm9k/dWN0cy9CcmVvb1gy/NHBhdGluYTFfNjIw/eC5wbmc_dj0xNjY0/ODMxNjI1",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "BioLite FirePit+",
+      "pros": [
+        "Smart airflow control and app integration",
+        "Versatile fuel options (wood, charcoal) and cooking grate included"
+      ],
+      "cons": [
+        "Lower peak heat than larger steel pits",
+        "More complex / electronics add points of failure"
+      ],
+      "price": null,
+      "amazon_id": "B0765NLD2F",
+      "sources": [
+        "https://www.hgtv.com/shopping/product-reviews/best-smokeless-fire-pits",
+        "https://www.bobvila.com/articles/biolite-firepit-review/"
+      ],
+      "amazon_url": "https://www.amazon.com/BioLite-FirePit-Outdoor-Smokeless-Grill/dp/B0765NLD2F",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/KRLLrRfi-cWc5yPRyW5KkJbg_8Z04G112cznHQPTerA/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9hc3Nl/dHMucGNuYS5jb20v/cV9hdXRvL0ltYWdl/cy8xMDk1LTAyT1Jf/RF9BUi0xLmpwZw",
+      "resolver": "brave",
+      "valid": true
+    }
+  ],
+  "resolvedLinks": {
+    "https://www.tomsguide.com/best-picks/best-fire-pits": {
+      "title": "Best fire pits in 2026: Tested and rated",
+      "description": "We tested a range of models to find the best fire pits you can buy",
+      "image": "https://cdn.mos.cms.futurecdn.net/aivhivHCptfM8QSCXygDLG-2000-80.jpg",
+      "url": "https://www.tomsguide.com/best-picks/best-fire-pits"
+    },
+    "https://www.popularmechanics.com/adventure/a40771092/solo-stove-2-0-smokeless-fire-pit-review//": {
+      "title": "Score the New And Improved Solo Stove 2.0 Fire Pit for Up to 40% Off",
+      "description": "Save big on this coveted backyard accessory before it sells out.",
+      "image": "https://hips.hearstapps.com/hmg-prod/images/ss-april22-ca-deliverytwo-46lo-1659381014.jpg?crop=1.00xw:0.494xh;0,0.485xh&resize=1200:*",
+      "url": "https://www.popularmechanics.com/adventure/a40771092/solo-stove-2-0-smokeless-fire-pit-review/"
+    },
+    "https://www.wired.com/gallery/best-fire-pits/": {
+      "title": "Fire Without Smoke Is (Almost) Possible. Our 4 Favorite Firepits",
+      "description": "These burning rings of fire (but less smoke) will make your patio a party, and your jacket less smelly.",
+      "image": "https://media.wired.com/photos/68b7ae1d7694d868b2e93d81/191:100/w_1280,c_limit/Best%20Smokeless%20Firepits%20for%20Clean-Air%20Party%20People.png",
+      "url": "https://www.wired.com/gallery/best-smokeless-fire-pit/"
+    },
+    "https://www.hgtv.com/shopping/product-reviews/best-smokeless-fire-pits": {
+      "title": "7 Best Smokeless Fire Pits of 2026, Tested and Reviewed",
+      "description": "Enjoy the inviting warmth of a campfire without the accompanying face full of smoke and watery eyes with one of these editor-approved, low-smoke fire pits.",
+      "image": "https://hgtvhome.sndimg.com/content/dam/images/hgtv/products/2025/2/6/Hgtv-Product-Review-2000x1500-27-Smokeless-Fire-Pits%20(1).jpg.rend.hgtvcom.616.462.85.suffix/1738869872256.webp",
+      "url": "https://www.hgtv.com/shopping/product-reviews/best-smokeless-fire-pits"
+    },
+    "https://www.bobvila.com/articles/biolite-firepit-review/": {
+      "title": "Does Your Fire Pit Need a Battery-Powered Fan? We Tested a BioLite FirePit+ to Find Out!",
+      "description": "BioLite's FirePit+ includes a fan to get the fire going faster and push smoke away. Based on backyard testing, this review reveals how well this fire pit stands up to some stiff competition.",
+      "image": "https://www.bobvila.com/wp-content/uploads/2023/05/BioLite-FirePit-Plus-Review.jpg?quality=85&w=1200",
+      "url": "https://www.bobvila.com/articles/biolite-firepit-review/"
+    }
+  }
+}

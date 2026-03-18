@@ -1,0 +1,110 @@
+{
+  "slug": "shower-caddies",
+  "query": "best shower caddies",
+  "title": "Best shower caddies | Bin Diving",
+  "description": "AI-dug recommendations for best shower caddies. Compare options and find one that fits.",
+  "dugAt": "2026-03-18T15:45:58.382Z",
+  "recommendations": [
+    {
+      "product_name": "simplehuman Tension Shower Caddy (Adjustable/Tension Pole)",
+      "pros": [
+        "Rust-resistant materials",
+        "Adjustable shelves for tall bottles"
+      ],
+      "cons": [
+        "Higher price than basic caddies",
+        "May require careful tensioning"
+      ],
+      "price": null,
+      "amazon_id": "B08FST992P",
+      "sources": [
+        "https://www.simplehuman.com/products/tension-shower-caddy-8-ft",
+        "https://www.forbes.com/sites/forbes-personal-shopper/article/best-shower-caddies/",
+        "https://www.consumerreports.org/home-garden/bathroom/the-best-shower-caddy-is-one-that-stays-put-a4662700484/"
+      ],
+      "amazon_url": "https://www.amazon.com/simplehuman-Tension-Stainless-Anodized-Aluminum/dp/B08FST992P",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/6KAGjR0QLQm7ZAbU3QeBxSCmwhqZ6eHmclEbVcJkHAI/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9tLm1l/ZGlhLWFtYXpvbi5j/b20vaW1hZ2VzL0kv/MzFEYTFpN0ZWS0wu/anBn",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "OXO Good Grips Quik-Extend Aluminum Pole Shower Caddy",
+      "pros": [
+        "Anodized aluminum (rust-resistant)",
+        "Tool-free double-extend design with adjustable shelves"
+      ],
+      "cons": [
+        "Larger footprint may not fit small stalls",
+        "Premium price vs basic models"
+      ],
+      "price": null,
+      "amazon_id": "B07GRGR4CK",
+      "sources": [
+        "https://www.oxo.com/shop/cleaning-organization/bathroom/shower-sink/quick-extend-aluminum-pole-caddy.html",
+        "https://www.forbes.com/sites/forbes-personal-shopper/article/best-shower-caddies/",
+        "https://www.thisoldhouse.com/bathrooms/reviews/best-shower-shelves-and-caddies"
+      ],
+      "amazon_url": "https://www.amazon.com/OXO-Grips-Quick-Extend-Aluminum-Caddy/dp/B07GRGR4CK",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/jPm9RukIRh_3Nq79AOMjmoJs5Jgu1IDTZG0pzsp8GNk/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9pbWFn/ZXMub2ZmZXJ1cC5j/b20vYXZmR2dlc1VF/ZWRYTWwzN1E3RTJl/NEdDV1VnPS81NDB4/ODc1L2QwZGQvZDBk/ZDljZTc5NWI1NDU3/MmExMDQ2M2MwODlk/ZDRiNDkuanBn",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "Zenna Home Tension Pole Corner Shower Caddy",
+      "pros": [
+        "Affordable and widely available",
+        "Adjustable shelves with towel bar option"
+      ],
+      "cons": [
+        "Build materials less premium (possible durability issues)",
+        "Mixed user reports on long-term rust resistance"
+      ],
+      "price": null,
+      "amazon_id": "B07X3XFF5R",
+      "sources": [
+        "https://www.walmart.com/ip/948781865",
+        "https://manuals.plus/asin/B07QMTKNQD.pdf",
+        "https://www.forbes.com/sites/forbes-personal-shopper/article/best-shower-caddies/"
+      ],
+      "amazon_url": "https://www.amazon.com/Zenna-Home-Shower-Caddy-White/dp/B07X3XFF5R",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/EC6YwRxukY9oExUkCNF76Sr_aFZgLe4ut-60APFiaiM/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly90YXJn/ZXQuc2NlbmU3LmNv/bS9pcy9pbWFnZS9U/YXJnZXQvR1VFU1Rf/M2U3OTRlZDQtMTg3/NS00YTNkLWI2YmIt/MWRlMjM1OTcyZjUx/P3dpZD04MDAmaGVp/PTgwMCZxbHQ9ODAm/Zm10PXBqcGVn",
+      "resolver": "brave",
+      "valid": true
+    }
+  ],
+  "resolvedLinks": {
+    "https://www.simplehuman.com/products/tension-shower-caddy-8-ft": {
+      "title": "Tension Shower Caddy, 8 Ft., 8 ft - Simplehuman",
+      "description": "The Simplehuman tension shower caddy provides a storage solution for any shower or bath. Its aluminum pole fits securely between your floor and ceiling.",
+      "image": "https://cdn.shopify.com/s/files/1/2804/6630/products/BT1109-main.jpg?v=1595994806",
+      "url": "https://www.simplehuman.com/products/tension-shower-caddy-8-ft"
+    },
+    "https://www.consumerreports.org/home-garden/bathroom/the-best-shower-caddy-is-one-that-stays-put-a4662700484/": {
+      "title": "3 Best Shower Caddies of 2026, Tested by Experts - Consumer Reports",
+      "description": "CR evaluated six hanging shower caddies over the course of a month. Despite the simplicity of these products, one product shined as the clear winner.",
+      "image": "https://article.images.consumerreports.org/image/upload/t_article_tout/v1743625082/prod/content/dam/CRO-Images-2025/Rapid%20Response/CR-RR-InlineHero-Shower-Caddies-3-25",
+      "url": "https://www.consumerreports.org/home-garden/bathroom/the-best-shower-caddy-is-one-that-stays-put-a4662700484/"
+    },
+    "https://www.thisoldhouse.com/bathrooms/reviews/best-shower-shelves-and-caddies": {
+      "title": "8 Best Shower Shelves and Caddies",
+      "description": "Shower shelves and caddies shelves keep soaps, shampoos, and razors within easy reach in your shower and bathtub. We researched the best shower caddies available and narrowed down our top picks to help you find the right one.",
+      "image": "https://dlczb9lfz9r73.cloudfront.net/wp-content/uploads/2025/04/23055251/shower_caddy-scaled-1-1024x683.jpg",
+      "url": "https://www.thisoldhouse.com/bathrooms/best-shower-shelves-and-caddies"
+    },
+    "https://www.walmart.com/ip/948781865": {
+      "title": "Zenna Home Tension Pole Shower Caddy, 4 Shelves, Satin Nickel - Walmart.com",
+      "description": "Buy Zenna Home Tension Pole Shower Caddy, 4 Shelves, Satin Nickel at Walmart.com",
+      "image": "https://i5.walmartimages.com/seo/Zenna-Home-Tension-Pole-Shower-Caddy-4-Shelves-Satin-Nickel_99544733-c49d-4c25-a84e-bf9788de213b.89a27e6bc6069e190c32a27da007cdb4.jpeg",
+      "url": "https://www.walmart.com/ip/Zenna-Home-Tension-Pole-Shower-Caddy-4-Shelves-Satin-Nickel/948781865"
+    },
+    "https://manuals.plus/asin/B07QMTKNQD.pdf": {
+      "title": "Zenna Home Tension Pole Shower Caddy Instruction Manual",
+      "description": "Comprehensive instruction manual for the Zenna Home Tension Pole Shower Caddy Corner Organizer, including setup, operation, maintenance, troubleshooting, and specifications.",
+      "image": "https://m.media-amazon.com/images/I/61i1Mk-eJPL.jpg",
+      "url": "https://manuals.plus/asin/B07QMTKNQD.pdf"
+    }
+  }
+}

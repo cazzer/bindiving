@@ -1,0 +1,115 @@
+{
+  "slug": "removable-wallpapers",
+  "query": "best removable wallpapers",
+  "title": "Best removable wallpapers | Bin Diving",
+  "description": "AI-dug recommendations for best removable wallpapers. Compare options and find one that fits.",
+  "dugAt": "2026-03-18T16:04:36.754Z",
+  "recommendations": [
+    {
+      "product_name": "Tempaper Peel-and-Stick Removable Wallpaper (Tempaper & Co.)",
+      "pros": [
+        "Wide designer patterns",
+        "High-quality vinyl; durable",
+        "Removable when applied to smooth, primed walls"
+      ],
+      "cons": [
+        "Can be pricier than mass-market rolls",
+        "Not recommended for heavily textured walls"
+      ],
+      "price": "$89.99",
+      "amazon_id": "B0079V6WU0",
+      "sources": [
+        "https://tempaper.com/products/tempaper-by-you-white-paintable-removable-wallpaper",
+        "https://www.bobvila.com/articles/best-peel-and-stick-wallpaper/"
+      ],
+      "amazon_url": "https://www.amazon.com/Tempaper-TBY029-Removable-Wallpaper-Paintable/dp/B0079V6WU0",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/l_QwrNq4OD-UZ8QJxvu52vX2Sw8rQMoOb59mISwIU9k/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9tYWtl/cmFuZG1vc3MuY29t/L2Nkbi9zaG9wL3By/b2R1Y3RzL2dhcmRl/bi1mbG9yYWwtZHVz/dGVkLXBpbmstcGVl/bC1hbmQtc3RpY2st/d2FsbHBhcGVyLWxp/ZmVzdHlsZS10ZW1w/YXBlci1kZXNpZ25z/X2IzNzcxZjBhLTU4/MDktNDRmYi05OWE4/LWNlNmEwMzdkNWEx/MS5qcGc_dj0xNjIx/ODY2MzQ5",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "Chasing Paper Peel-and-Stick Wallpaper",
+      "pros": [
+        "Strong graphic designs and collaborations",
+        "Made specifically as peel-and-stick for renters",
+        "Good installer guidance and samples available"
+      ],
+      "cons": [
+        "Higher-end price for designer prints",
+        "May require careful prep for perfect seams"
+      ],
+      "price": "$38.35",
+      "amazon_id": "B09KS5ZB7F",
+      "sources": [
+        "https://www.bobvila.com/articles/best-peel-and-stick-wallpaper/",
+        "https://www.thegoodtrade.com/features/reviews-chasing-paper/"
+      ],
+      "image_url": "https://images-na.ssl-images-amazon.com/images/G/01/x-locale/common/grey-pixel.gif",
+      "images": [
+        "https://images-na.ssl-images-amazon.com/images/G/01/x-locale/common/grey-pixel.gif"
+      ],
+      "amazon_url": "https://www.amazon.com/Tempaper-Novogratz-Waverly-Removable-Wallpaper/dp/B09KS5ZB7F/ref=mp_s_a_1_1?dib=eyJ2IjoiMSJ9.6F2LSp8zXIjRbW89ciVR9cXzLplDFT5LgRPCyIJq1pyFJmLqDLuSUfDB999ctsXTYgZfhwwKeUeGJ9pb1LzxaSwUxc-r0xCRZO7JufP2TqyQ2hBaEVI-hfMOjdUmIkoi28Q2zYCMgUB2P8Qx6OzKlGRV74hleiFcaW-anU2cVTVIQ6Wj5fNx61TPgMDkTARcUeNnYTCWEPbpJaFXFfPhxg.7cPCJDjOT68UH1LZohDTlql52InauH6F34ygPqgmr-w&dib_tag=se&keywords=Chasing+Paper+Peel-and-Stick+Wallpaper&qid=1773849872&sr=8-1",
+      "brand": "Tempaper",
+      "blackFriday": false,
+      "gpt_azn": null,
+      "resolver": "cheerio",
+      "valid": true
+    },
+    {
+      "product_name": "Spoonflower Peel and Stick Wallpaper",
+      "pros": [
+        "Custom/indie artist patterns; printed-to-order",
+        "PVC-free, Type I removable peel-and-stick option",
+        "Clear technical specs about removability (designed removable within 1 year)"
+      ],
+      "cons": [
+        "Mixed user reports about long-term adhesion in high-humidity areas",
+        "Can be more expensive for large orders"
+      ],
+      "price": null,
+      "amazon_id": "B0BWT1GH4S",
+      "sources": [
+        "https://cdn.spoonflower.com/prod/downloads/SF-Peel-and-Stick-WP-Spec-Sheet-Updated-June2024.pdf",
+        "https://support.spoonflower.com/hc/en-us/articles/206335716-Peel-and-Stick-Wallpaper"
+      ],
+      "amazon_url": "https://www.amazon.com/Spoonflower-Peel-Stick-Wallpaper-3ft/dp/B0BWT1GH4S",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/8hkPaJO2VvQ91k26uJX8gDLREuogQbnSvP0Kor4bQxo/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9kaTJw/b252MHY1b3R3LmNs/b3VkZnJvbnQubmV0/L3Bvc3RzLzIwMjUv/MDEvMTEvNjc4MzEw/YTFmNTFhMGZkOTVl/MmMyNzA3L3NfNjc4/MzExYTliOWRiM2E1/NzZlZTA0M2NhLmpw/ZWc",
+      "resolver": "brave",
+      "valid": true
+    }
+  ],
+  "resolvedLinks": {
+    "https://tempaper.com/products/tempaper-by-you-white-paintable-removable-wallpaper": {
+      "title": "White Paintable Peel and Stick Wallpaper",
+      "description": "Express your creativity with Tempaper's By You White Paintable Removable Wallpaper. Customize your space with paintable designs for a unique and personalized touch. Start your project now!",
+      "image": "http://tempaper.com/cdn/shop/files/TBY029-white-paintable-peel-and-stick-wallpaper.jpg?v=1716406568",
+      "url": "https://tempaper.com/products/tempaper-by-you-white-paintable-removable-wallpaper"
+    },
+    "https://www.bobvila.com/articles/best-peel-and-stick-wallpaper/": {
+      "title": "I Transformed My Living Space Without Picking Up a Paint Brush Thanks to This Easy-to-Use Product",
+      "description": "For a high-impact, low-commitment design upgrade, check out the best peel-and-stick wallpaper. We tested top brands and patterns. Find out which ones we'd stick with in our reviews.",
+      "image": "https://www.bobvila.com/wp-content/uploads/2021/03/Best_Peel_and_Stick_Wallpaper-1.jpg?quality=85&w=1200",
+      "url": "https://www.bobvila.com/articles/best-peel-and-stick-wallpaper/"
+    },
+    "https://www.thegoodtrade.com/features/reviews-chasing-paper/": {
+      "title": "How To Upgrade Your Rental With Peel & Stick Wallpaper",
+      "description": "I am not a DIY person by any stretch of the imagination. I like the dopamine hit of low-bar gratification. Give me a can of spray paint, and that’s about",
+      "image": "https://www.thegoodtrade.com/wp-content/uploads/2023/10/chasing-paper-review.jpeg",
+      "url": "https://www.thegoodtrade.com/features/reviews-chasing-paper/"
+    },
+    "https://cdn.spoonflower.com/prod/downloads/SF-Peel-and-Stick-WP-Spec-Sheet-Updated-June2024.pdf": {
+      "title": "",
+      "description": "",
+      "image": "",
+      "url": "https://cdn.spoonflower.com/prod/downloads/SF-Peel-and-Stick-WP-Spec-Sheet-Updated-June2024.pdf"
+    },
+    "https://support.spoonflower.com/hc/en-us/articles/206335716-Peel-and-Stick-Wallpaper": {
+      "title": "Peel and Stick Wallpaper",
+      "description": "Spoonflower's Peel and Stick Wallpaper is the ideal choice for DIY (do-it-yourself) installations. This Type I, PVC-free paper with a non-toxic, self-adhesive backing is suitable for low to moderat...",
+      "image": "https://support.spoonflower.com/hc/theming_assets/01JQV9WN2S1ZHPRSE10EKT8C85",
+      "url": "https://support.spoonflower.com/hc/en-us/articles/206335716-Peel-and-Stick-Wallpaper"
+    }
+  }
+}

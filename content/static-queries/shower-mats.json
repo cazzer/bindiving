@@ -1,0 +1,128 @@
+{
+  "slug": "shower-mats",
+  "query": "best shower mats",
+  "title": "Best shower mats | Bin Diving",
+  "description": "AI-dug recommendations for best shower mats. Compare options and find one that fits.",
+  "dugAt": "2026-03-18T15:46:28.948Z",
+  "recommendations": [
+    {
+      "product_name": "Dorai Bath Stone Mat (Diatomaceous Earth)",
+      "pros": [
+        "Fast-drying, anti-mold surface",
+        "Feels like natural stone underfoot"
+      ],
+      "cons": [
+        "Can crack if dropped",
+        "Hard underfoot for some users"
+      ],
+      "price": null,
+      "amazon_id": "B0C66RTDJ8",
+      "sources": [
+        "https://doraihome.com/products/zen-bath-stone%E2%84%A2-mat",
+        "https://www.homesandgardens.com/solved/fast-drying-stone-bath-mat",
+        "https://www.forbes.com/sites/forbes-personal-shopper/article/best-stone-bath-mats/"
+      ],
+      "amazon_url": "https://www.amazon.com/Dorai-Home-Bath-Stone-Diatomite/dp/B0C66RTDJ8",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/pim3gJv3QmN8P25zcotukY9fOu564OVsZ9PeIZdOMn4/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9kb3Jh/aWhvbWUuY29tL2Nk/bi9zaG9wL2ZpbGVz/LzEwMC0xMDAyMV9C/Uy1DdXJyZW50X1Nh/bmRzdG9uZV9DYXJv/dXNlbF9RMl8yMDI1/XzVfZjQ0NzE3YjUt/ZTEyZi00MDhkLTgz/OGEtN2E4ZmFkNWRh/MGZmLmpwZz92PTE3/NzE2OTIzNTgmd2lk/dGg9MTAwMA",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "Gorilla Grip Chenille Bath Mat (machine-washable)",
+      "pros": [
+        "Very absorbent plush surface",
+        "Non-slip rubber backing, machine washable"
+      ],
+      "cons": [
+        "Can trap moisture underneath if not dried",
+        "May shed slightly after many washes"
+      ],
+      "price": null,
+      "amazon_id": "B06ZYTPJBP",
+      "sources": [
+        "https://gorillagrip.com/products/chenille-bath-rug",
+        "https://hip2save.com/deals/gorilla-grip-bath-mat/",
+        "https://www.bestreviews.guide/bath-mats/gorilla-grip-thick-absorbent-chenille-bath-rug-b088c2z81b"
+      ],
+      "amazon_url": "https://www.amazon.com/Gorilla-Grip-Bathroom-Rug-Mat/dp/B06ZYTPJBP",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/QsAaqtTbFGX7-oRAuwm9PSIMFAQ4dx8Vy5Ah_zrBrGM/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9pbWFn/ZXMtbmEuc3NsLWlt/YWdlcy1hbWF6b24u/Y29tL2ltYWdlcy9J/LzYxMEt5QU42ZmJM/LmpwZw",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "Bare Decor Fuji Teak Wood Shower Mat",
+      "pros": [
+        "Natural teak resists mold and rot",
+        "Spa-like aesthetic and long-lasting"
+      ],
+      "cons": [
+        "More expensive than fabric mats",
+        "Harder surface than plush mats"
+      ],
+      "price": null,
+      "amazon_id": "B016MZSV6Q",
+      "sources": [
+        "https://www.hunker.com/13772221/amazon-wooden-shower-mats/",
+        "https://theteakyhut.com/products/teak-shower-mat-york",
+        "https://www.bestreviews.guide/bath-mats/"
+      ],
+      "amazon_url": "https://www.amazon.com/Bare-Decor-String-Shower-Finish/dp/B016MZSV6Q",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/VFX7-sulnr9e1iAkvQnek5bGYwFiO4sTCAVXBoNhJ24/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9tLm1l/ZGlhLWFtYXpvbi5j/b20vaW1hZ2VzL0kv/NTFERUl1QnQ4QUwu/anBn",
+      "resolver": "brave",
+      "valid": true
+    }
+  ],
+  "resolvedLinks": {
+    "https://doraihome.com/products/zen-bath-stone%E2%84%A2-mat": {
+      "title": "Bath Stone™ Mat - Zen",
+      "description": "The Zen Dorai Bath Stone™ Mat is made from diatomaceous earth, it feels like natural stone, prevents mold by instantly removing water. Shop yours today!",
+      "image": "http://doraihome.com/cdn/shop/files/100-10001_HERO-PDP_BathZenSand_1_8f75f326-76c3-4483-9bbe-f50c39e283d5.jpg?v=1772588664&width=900",
+      "url": "https://doraihome.com/products/dorai-bath-mat"
+    },
+    "https://www.homesandgardens.com/solved/fast-drying-stone-bath-mat": {
+      "title": "Goodbye, Damp Bath Mats – This Fast-Drying Stone Upgrade Is the Luxe Bathroom Fix I Didn’t Know I Needed",
+      "description": "I’m sick of slipping after showers and have found a chic, easy-dry alternative",
+      "image": "https://cdn.mos.cms.futurecdn.net/v8KGUe9AHHQbYo3t4ie4rh-1600-80.jpg",
+      "url": "https://www.homesandgardens.com/solved/fast-drying-stone-bath-mat"
+    },
+    "https://gorillagrip.com/products/chenille-bath-rug": {
+      "title": "Chenille Bath Rug | Gorilla Grip",
+      "description": "Experience comfort and luxury in your bathroom with our chenille bath rugs. Available in various sizes for any space including small, large, runner, and more.",
+      "image": "http://gorillagrip.com/cdn/shop/files/GG_BathRugShag_LtGray_Hero.jpg?v=1714404710",
+      "url": "https://gorillagrip.com/products/chenille-bath-rug"
+    },
+    "https://hip2save.com/deals/gorilla-grip-bath-mat/": {
+      "title": "Gorilla Grip Chenille Bath Mat Only $7.59 on Amazon | Over 50K 5-Star Ratings",
+      "description": "Step on this Gorilla Grip bath mat deal on Amazon! While supplies last, hurry over to Amazon where you can score this Gorilla Grip Chenille 24\"x17\" Bath",
+      "image": "https://hip2save.com/wp-content/uploads/2025/10/gorilla-grip-bath-mat.jpg?w=912",
+      "url": "https://hip2save.com/deals/gorilla-grip-bath-mat/"
+    },
+    "https://www.bestreviews.guide/bath-mats/gorilla-grip-thick-absorbent-chenille-bath-rug-b088c2z81b": {
+      "title": "Gorilla grip thick absorbent chenille bath rug Review | BestReviews.guide",
+      "description": "BestReviews.guide analyzes thousands of articles and customer reviews to find the top-rated products at today's lowest prices. Best products, best offers.",
+      "image": "https://images-proxy.bestreviews.guide/V3loctWfrO3Ycj4TVpiROueBIyY=/0x300/https://m.media-amazon.com/images/I/51MrvOPRLyL._AC_CX679_.jpg",
+      "url": "https://www.bestreviews.guide/bath-mats/gorilla-grip-thick-absorbent-chenille-bath-rug-b088c2z81b"
+    },
+    "https://www.hunker.com/13772221/amazon-wooden-shower-mats/": {
+      "title": "6 Wooden Shower Mats On Amazon For The Perfect Minimalist Aesthetic - Hunker",
+      "description": "Other than their stunning, minimalist aesthetic, there are so many reasons to go with wooden shower mats instead of the common fabric version. Here are our top picks from Amazon.",
+      "image": "https://www.hunker.com/hunker/amazon-wooden-shower-mats/31d8af98f948403e9e2fddb93b0d14f8.jpg",
+      "url": "https://www.hunker.com/13772221/amazon-wooden-shower-mats/"
+    },
+    "https://theteakyhut.com/products/teak-shower-mat-york": {
+      "title": "YORK SHOWER MAT",
+      "description": "Introducing our teak wood floor mat – a durable and waterproof solution for both indoor and outdoor use. With a non-slip bottom, this mat ensures safety and comfort, making it perfect for any space. Easy to clean and fully assembled, it adds an elegant touch to your surroundings.",
+      "image": "http://theteakyhut.com/cdn/shop/files/york30-1.jpg?v=1721327677",
+      "url": "https://theteakyhut.com/products/teak-shower-mat-york"
+    },
+    "https://www.bestreviews.guide/bath-mats/": {
+      "title": "10 Best Bath Mats 2026 in the US | There's One Clear Winner | BestReviews.guide",
+      "description": "BestReviews.guide analyzes thousands of articles and customer reviews to find the top-rated products at today's lowest prices. Best products, best offers.",
+      "image": "https://images-proxy.bestreviews.guide/__CLRJn762JLjUVAouAWlEdfOno=/0x150/https://m.media-amazon.com/images/I/41wL3Lb-FML._AC_CX679_.jpg",
+      "url": "https://www.bestreviews.guide/bath-mats"
+    }
+  }
+}

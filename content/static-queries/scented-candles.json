@@ -1,0 +1,107 @@
+{
+  "slug": "scented-candles",
+  "query": "best scented candles",
+  "title": "Best scented candles | Bin Diving",
+  "description": "AI-dug recommendations for best scented candles. Compare options and find one that fits.",
+  "dugAt": "2026-03-18T16:06:25.430Z",
+  "recommendations": [
+    {
+      "product_name": "Diptyque Baies Scented Candle",
+      "pros": [
+        "Cult-favorite blackcurrant & rose blend",
+        "Elegant apothecary-style glass",
+        "Widely recommended by lifestyle editors"
+      ],
+      "cons": [
+        "Premium price",
+        "Some report variable cold/hot throw"
+      ],
+      "price": null,
+      "amazon_id": "B00HZGRYUG",
+      "sources": [
+        "https://www.forbes.com/sites/forbes-personal-shopper/article/best-scented-candles/",
+        "https://www.allure.com/story/best-amazon-scented-candles",
+        "https://www.purewow.com/home/best-scented-candles"
+      ],
+      "amazon_url": "https://www.amazon.com/Diptyque-Scented-Candle-Baies-Berries/dp/B00HZGRYUG",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/yujFwNPXVckLxLyZiFwLJBFUtXtzDxUbW4kkhCOPAio/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9tZWRp/YS5uZWltYW5tYXJj/dXMuY29tL2ZfYXV0/byxxX2F1dG8vMDEv/bm1fMjIzMjMxXzEw/MDAwMF9j",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "Jo Malone Lime Basil & Mandarin Candle",
+      "pros": [
+        "Crisp, refined citrus-herbal scent",
+        "Recognized classic that freshens rooms",
+        "Available in multiple sizes (travel to large)"
+      ],
+      "cons": [
+        "High-end price point",
+        "Some users find scent subtle at a distance"
+      ],
+      "price": null,
+      "amazon_id": "B002SQ2WDC",
+      "sources": [
+        "https://www.jomalone.com/product/25969/9953/home/lime-basil-mandarin-scented-candle",
+        "https://www.forbes.com/sites/forbes-personal-shopper/article/best-scented-candles/",
+        "https://www.sephora.com/product/lime-basil-mandarin-candle-P417218"
+      ],
+      "amazon_url": "https://www.amazon.com/Jo-Malone-Basil-Mandarin-Cologne/dp/B002SQ2WDC",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/jV8Q7t4dT2wRbTd9as9QWYNbTWpP1y9xNK-KQYJbiN4/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9pLmVi/YXlpbWcuY29tL3Ro/dW1icy9pbWFnZXMv/Zy9xYTRBQU9Td1lM/cGw2TldhL3MtbDQw/MC53ZWJw",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "VOLUSPA Baltic Amber Classic Candle",
+      "pros": [
+        "Warm amber-vanilla woody profile",
+        "Strong popularity and good burn times",
+        "Available widely (retailers and Amazon)"
+      ],
+      "cons": [
+        "Some users report inconsistent scent throw between batches",
+        "Not as 'luxury parfum' complexity as niche brands"
+      ],
+      "price": "$34.00",
+      "amazon_id": "B005Z5Q3Z6",
+      "sources": [
+        "https://voluspa.com/products/baltic-amber-classic-candle-and-refill",
+        "https://www.sephora.com/brand/voluspa/candles",
+        "https://www.forbes.com/sites/forbes-personal-shopper/article/best-scented-candles/"
+      ],
+      "amazon_url": "https://www.amazon.com/Voluspa-Baltic-Amber-Candle-Limited/dp/B005Z5Q3Z6",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/ueOQoCQGF_J6sli-mpzNgTGTipU3agZMDk9FBZQiWUg/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly93d3cu/Y2FuZGxlZGVsaXJp/dW0uY29tL2Nkbi9z/aG9wL2ZpbGVzL2Jh/bHRpY2FtYmVyX2Ns/YXNzaWNjYW5kbGVf/NzM0M18yMDA2XzAx/X2Ffd2ViLmpwZz92/PTE3NDIzOTA3NjEm/d2lkdGg9MTc3Nw",
+      "resolver": "brave",
+      "valid": true
+    }
+  ],
+  "resolvedLinks": {
+    "https://www.allure.com/story/best-amazon-scented-candles": {
+      "title": "These Candles Make Any Room Instantly More Inviting",
+      "description": "Fresh notes of tropical fruits and salt air delivered tomorrow by Amazon? Yes, please.",
+      "image": "https://media.allure.com/photos/66574246885d23b1bafc1948/16:9/w_1280,c_limit/Amazon%20Candles%20052024.jpg",
+      "url": "https://www.allure.com/story/best-amazon-scented-candles"
+    },
+    "https://www.purewow.com/home/best-scented-candles": {
+      "title": "A Definitive Ranking of the 20 Best Scented Candles, Vetted by a Home Editor",
+      "description": "Here, find a definitive ranking of the best scented candles of 2023 that will make your home smell like heaven on earth—including Le Labo, Diptyque, Voluspa, Capri Blue and so much more. Plus, some info on what to keep in mind while you’re shopping.",
+      "image": "https://publish.purewow.net/wp-content/uploads/sites/2/2021/09/best-scented-candles-cat.jpg?fit=728%2C524",
+      "url": "https://www.purewow.com/home/best-scented-candles"
+    },
+    "https://www.jomalone.com/product/25969/9953/home/lime-basil-mandarin-scented-candle": {
+      "title": "Lime Basil & Mandarin Home Candle | Jo Malone London | Jo Malone London",
+      "description": "Float away on a cool tropical breeze. Peppery basil and aromatic white thyme bring an unexpected twist to the scent of limes. Crafted in the English countryside in a signature glass design.<br> <br>This fragrance is part of our fresh and energising home edit. The scents in this edit feature notes that are bright, zesty and invigorating – perfect for sprucing and working from home.</br></br>",
+      "image": "https://www.jomalone.com/media/export/cms/products/670x670/jo_sku_L36801_670x670_0.png",
+      "url": "https://www.jomalone.com/product/25969/9953/home/lime-basil-mandarin-scented-candle"
+    },
+    "https://voluspa.com/products/baltic-amber-classic-candle-and-refill": {
+      "title": "Baltic Amber - Classic Candle & Refill",
+      "description": "Provide endless hours of the warm scent of Baltic Amber with our candle and candle refill bundle. Made with our long-lasting coconut wax blend.",
+      "image": "https://voluspa.com/cdn/shop/files/BalticAmber_ClassicCandleRefillKit_746KIT3_2024_01_B_WEB_5a095743-8989-4772-b630-f96071900563.jpg?v=1740091035&width=600",
+      "url": "https://voluspa.com/products/baltic-amber-classic-candle-and-refill"
+    }
+  }
+}

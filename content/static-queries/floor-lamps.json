@@ -1,0 +1,97 @@
+{
+  "slug": "floor-lamps",
+  "query": "best floor lamps",
+  "title": "Best floor lamps | Bin Diving",
+  "description": "AI-dug recommendations for best floor lamps. Compare options and find one that fits.",
+  "dugAt": "2026-03-18T16:09:01.611Z",
+  "recommendations": [
+    {
+      "product_name": "Brightech Litespan Bright LED Floor Reading Lamp",
+      "pros": [
+        "Bright, focused light for reading",
+        "Adjustable gooseneck",
+        "Energy-efficient LED"
+      ],
+      "cons": [
+        "Narrow beam (task lighting)",
+        "Basic aesthetic"
+      ],
+      "price": null,
+      "amazon_id": "B00VJ4SHZG",
+      "sources": [
+        "https://bestreviews.guide/led-floor-lamp-for-crafts/brightech-litespan-bright-led-floor-reading-lamp-b00vj4shzg"
+      ],
+      "amazon_url": "https://www.amazon.com/Brightech-Litespan-Bright-Reading-Craft/dp/B00VJ4SHZG",
+      "gpt_azn": "B00VJ4SHZG",
+      "image_url": "https://imgs.search.brave.com/CfizHiTs2I-Ch6W1GmdC3usLTxNVtrFRvZ7v_wjJSkE/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9tLm1l/ZGlhLWFtYXpvbi5j/b20vaW1hZ2VzL1Mv/YXBsdXMtc2VsbGVy/LWNvbnRlbnQtaW1h/Z2VzLXVzLWVhc3Qt/MS9BVFZQREtJS1gw/REVSL0EzMDJKSEs4/WkExOFI2LzNmZTIz/N2YxLTA2NGQtNDhi/OC04YjM5LWFlMjcz/NWRiZmYyMi5fQ1Iw/LDAsMTUwMCwxNTAw/X1BUMF9TWDMwMF9f/LmpwZw",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "Govee RGBIC Floor Lamp (Lyra / RGBIC models)",
+      "pros": [
+        "Smart app + voice control, many colors/scenes",
+        "Good value and frequent sales on Amazon",
+        "Music sync and DIY color modes"
+      ],
+      "cons": [
+        "Some users report firmware/app or flicker issues",
+        "Color lamps may be less suited for focused reading"
+      ],
+      "price": null,
+      "amazon_id": "B08V8GS7PF",
+      "sources": [
+        "https://us.govee.com/products/govee-rgbic-floor-lamp-basic-led-corner-lamp",
+        "https://kotaku.com/govee-clears-out-its-color-floor-lamp-now-cheaper-than-a-budget-lamp-on-amazon-2000641217"
+      ],
+      "amazon_url": "https://www.amazon.com/Govee-Changing-Control-Creative-Bedroom/dp/B08V8GS7PF",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/ILU21n6QS0LDdGYXWi3daD70PfyF6m4_ttMcBwhOd70/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9pLmVi/YXlpbWcuY29tL2lt/YWdlcy9nL0dCSUFB/T1N3WjRkbHItbnIv/cy1sNTAwLmpwZw",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "BenQ e-Reading Floor Lamp (with floor-stand option)",
+      "pros": [
+        "Wide, flicker-free illumination built for screen/reading comfort",
+        "Adjustable color temperature and brightness",
+        "Eye-care focused design from BenQ"
+      ],
+      "cons": [
+        "Higher price point",
+        "Floor-stand sold separately for some desk models"
+      ],
+      "price": null,
+      "amazon_id": "B09M6RK3HK",
+      "sources": [
+        "https://www.benq.com/en-us/lamps/desklamp/floorlamp.html",
+        "https://www.bhphotovideo.com/c/product/1908866-REG/benq_9h_w44wt_as3_e_reading_led_floor_lamp.html"
+      ],
+      "amazon_url": "https://www.amazon.com/BenQ-Reading-Floor-White-Silver/dp/B09M6RK3HK",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/J0Hr893ewzhizjfc45cCgWfceMJF_HAPRf2vo7p_ldE/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9waG90/b3M1LmFwcGxlaW5z/aWRlci5jb20vZ2Fs/bGVyeS81MzY0Mi0x/MDc4MTAtNS14bC5q/cGc",
+      "resolver": "brave",
+      "valid": true
+    }
+  ],
+  "resolvedLinks": {
+    "https://bestreviews.guide/led-floor-lamp-for-crafts/brightech-litespan-bright-led-floor-reading-lamp-b00vj4shzg": {
+      "title": "Brightech litespan bright led floor reading lamp Review | BestReviews.guide",
+      "description": "BestReviews.guide analyzes thousands of articles and customer reviews to find the top-rated products at today's lowest prices. Best products, best offers.",
+      "image": "https://images-proxy.bestreviews.guide/W7u3JNQQznFTo6P5ht_zpDhlElY=/0x300/https://m.media-amazon.com/images/I/31KBhFVFL-L._AC_CX679_.jpg",
+      "url": "https://www.bestreviews.guide/led-floor-lamp-for-crafts/brightech-litespan-bright-led-floor-reading-lamp-b00vj4shzg"
+    },
+    "https://kotaku.com/govee-clears-out-its-color-floor-lamp-now-cheaper-than-a-budget-lamp-on-amazon-2000641217": {
+      "title": "Govee Clears Out Its Color Floor Lamp, Now Cheaper Than a Budget Lamp on Amazon - Kotaku",
+      "description": "This smart floor lamp drops to a record $69, bringing 16 million colors to your space.",
+      "image": "https://kotaku.com/app/uploads/2025/10/GoveeLight.jpg",
+      "url": "https://kotaku.com/govee-clears-out-its-color-floor-lamp-now-cheaper-than-a-budget-lamp-on-amazon-2000641217"
+    },
+    "https://www.benq.com/en-us/lamps/desklamp/floorlamp.html": {
+      "title": "e-Reading Floor Lamp",
+      "description": "‧ Curved lightbar design provides 150% wider lighting coverage than the average desk lamp \n‧ Built-in smart lighting technology adjusts the brightness to match the ambient light and easily switches between warm and cool color tones\n‧ Highly extensive arm creates suitable lighting source for all kinds of work on the couch, armchair, and bed",
+      "image": "https://image.benq.com/is/image/benqco/gray-3?$ResponsivePreset$",
+      "url": "https://www.benq.com/en-us/lighting/floor-lamp/e-reading-floor.html"
+    }
+  }
+}
