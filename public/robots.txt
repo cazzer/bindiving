@@ -1,0 +1,11 @@
+User-agent: *
+Allow: /
+
+Disallow: /api/
+Disallow: /_next/
+Disallow: /favicon.ico
+Disallow: /manifest.json
+Disallow: /results/
+
+Sitemap: https://bindiving.com/sitemap.xml
+

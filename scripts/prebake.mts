@@ -20,6 +20,7 @@ const ROOT = join(__dirname, '..')
 const QUERIES_PATH = join(ROOT, 'scripts', 'prebake-queries.json')
 const OUT_DIR = join(ROOT, 'content', 'static-queries')
 const LLM_PATH = join(ROOT, 'public', 'llm.txt')
+const SITEMAP_PATH = join(ROOT, 'public', 'sitemap.xml')
 
 type QueryEntry = string | { query: string; slug?: string; title?: string; description?: string }
 
@@ -158,6 +159,50 @@ function ensureLlmEntries(urls: string[]): void {
   }
 }
 
+function ensureSitemapEntries(urls: string[]): void {
+  let content = ''
+  if (existsSync(SITEMAP_PATH)) {
+    content = readFileSync(SITEMAP_PATH, 'utf-8')
+  } else {
+    content =
+      '<?xml version=\"1.0\" encoding=\"UTF-8\"?>\\n' +
+      '<urlset xmlns=\"http://www.sitemaps.org/schemas/sitemap/0.9\">\\n' +
+      '  <url>\\n' +
+      '    <loc>https://bindiving.com/</loc>\\n' +
+      '  </url>\\n' +
+      '</urlset>\\n'
+  }
+
+  // Insert new <url> entries before closing </urlset>
+  const insertIndex = content.lastIndexOf('</urlset>')
+  if (insertIndex === -1) {
+    console.warn('sitemap.xml missing </urlset>, skipping update')
+    return
+  }
+
+  const before = content.slice(0, insertIndex)
+  const after = content.slice(insertIndex)
+
+  let middle = ''
+  for (const url of urls) {
+    const locLine = `<loc>${url}</loc>`
+    if (content.includes(locLine)) continue
+    middle +=
+      '  <url>\\n' +
+      `    <loc>${url}</loc>\\n` +
+      '  </url>\\n'
+  }
+
+  if (!middle) {
+    console.log('sitemap.xml already up to date for prebaked URLs')
+    return
+  }
+
+  const updated = before + middle + after
+  writeFileSync(SITEMAP_PATH, updated, 'utf-8')
+  console.log(`Updated sitemap.xml with ${urls.length} prebaked URL(s)`)
+}
+
 async function main(): Promise<void> {
   const args = process.argv.slice(2)
   const slugArg = args[0]
@@ -173,6 +218,7 @@ async function main(): Promise<void> {
   }
   if (prebakedUrls.length > 0) {
     ensureLlmEntries(prebakedUrls)
+    ensureSitemapEntries(prebakedUrls)
   }
   console.log('Done.')
 }
