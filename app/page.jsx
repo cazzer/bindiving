@@ -1,229 +1,45 @@
-'use client'
+import { readdirSync, readFileSync } from 'fs'
+import { join } from 'path'
 
-import { useEffect, useRef, useState } from 'react'
-import { useRouter } from 'next/navigation'
-import posthog from 'posthog-js'
+import HomeClient from './HomeClient'
 
-import ProductCard from '../components/product-card'
-import PillSearchBar from '../components/pill-search-bar'
-import Digging from 'components/digging'
-import ErrorResponseParser from 'components/error-response-parser'
-import { Footer } from 'components/footer'
-import { useRecommendations } from '../contexts/recommendations-context'
+const CONTENT_DIR = join(process.cwd(), 'content', 'static-queries')
+const MAX_TEASERS = 3
 
-const PLACEHOLDER_LIST = [
-  `blister-proof running socks`,
-  `extra durable plunger`,
-  `hotel-quality pillows`,
-  `flowers that don't need water`,
-  `bluetooth typewriter`,
-  `toe-less socks for sweaty feet`,
-  `dark lightbulbs`,
-  `annoyingly loud headphones`,
-  `open-toed rain boots`,
-  `dress shoes without soles`,
-  `dog leash but for children`,
-  `helium-filled dumbbells`,
-  `invisible bookshelf`,
-  `banana slicer for one`,
-  `anti-pigeon spikes for your hat`,
-  `portable hole`,
-  `left-handed spatula`,
-  `emergency inflatable crown`,
-  `unnecessarily large spoon`,
-  `screaming goat soap dispenser`,
-  `nose trimmer for dogs`,
-  `gothic fairy garden gnome`,
-  `single chopstick`,
-  `mood ring for your fridge`,
-  `edible candle`
-]
-
-// Seeded shuffle so order is random but deterministic (same on SSR and client = no flash). Seed by UTC minute so refreshes after a minute get new order.
-function seededShuffle(arr, seed) {
-  const out = [...arr]
-  let s = seed
-  const next = () => {
-    s = (s * 1103515245 + 12345) & 0x7fffffff
-    return s / 0x7fffffff
+function loadTeasers() {
+  try {
+    const files = readdirSync(CONTENT_DIR).filter((name) => name.endsWith('.json'))
+    if (files.length === 0) return []
+    const shuffled = [...files]
+    for (let i = shuffled.length - 1; i > 0; i--) {
+      const j = Math.floor(Math.random() * (i + 1))
+      ;[shuffled[i], shuffled[j]] = [shuffled[j], shuffled[i]]
+    }
+    const chosen = shuffled.slice(0, MAX_TEASERS)
+    return chosen
+      .map((file) => {
+        const raw = readFileSync(join(CONTENT_DIR, file), 'utf-8')
+        const payload = JSON.parse(raw)
+        const recs = Array.isArray(payload.recommendations) ? payload.recommendations.slice(0, 2) : []
+        const firstWithImage = recs.find(
+          (r) => r?.image_url || (Array.isArray(r?.images) && r.images.length > 0)
+        )
+        const image =
+          (firstWithImage && (firstWithImage.image_url || firstWithImage.images?.[0])) || null
+        return {
+          slug: payload.slug,
+          query: payload.query,
+          recommendations: recs,
+          image
+        }
+      })
+      .filter(Boolean)
+  } catch {
+    return []
   }
-  for (let i = out.length - 1; i > 0; i--) {
-    const j = Math.floor(next() * (i + 1))
-    ;[out[i], out[j]] = [out[j], out[i]]
-  }
-  return out
 }
 
-const MINUTE_SEED = typeof Date !== 'undefined' ? Math.floor(Date.now() / 60000) : 0
-const PLACEHOLDERS = seededShuffle(PLACEHOLDER_LIST, MINUTE_SEED)
-const SUGGESTED = PLACEHOLDERS.slice(0, 4)
-
 export default function Page() {
-  const {
-    query,
-    status,
-    recommendations,
-    error,
-    streamStatus,
-    search,
-    getMoreOptions,
-    updateQuery,
-    setQuery,
-    setSearchProps,
-    saveResultForShare
-  } = useRecommendations()
-
-  const router = useRouter()
-  const onSearchRef = useRef(null)
-  const [shareStatus, setShareStatus] = useState('idle') // idle | saving | copied | error
-  const [shareError, setShareError] = useState(null)
-
-  // When landing with ?q= (e.g. from results page "search again"), run that search
-  useEffect(() => {
-    if (typeof window === 'undefined') return
-    const params = new URLSearchParams(window.location.search)
-    const q = params.get('q')
-    if (q?.trim()) {
-      setQuery(q.trim())
-      search(q.trim(), true)
-    }
-  }, []) // eslint-disable-line react-hooks/exhaustive-deps -- run once on mount when q is present
-
-  // Sync search props for header
-  useEffect(() => {
-    const id = requestAnimationFrame(() => {
-      setSearchProps({
-        query,
-        onQueryUpdate: updateQuery,
-        onSubmit: (e) => onSearchRef.current?.(e),
-        placeholder: 'Search again...'
-      })
-    })
-    return () => cancelAnimationFrame(id)
-  }, [query, updateQuery, setSearchProps])
-
-  async function handleSearch(event, queryOverride) {
-    event?.preventDefault?.()
-    const searchQuery = queryOverride !== undefined ? queryOverride : query
-    await search(searchQuery, queryOverride !== undefined)
-  }
-
-  onSearchRef.current = handleSearch
-
-  const isSearching = status === 'searching'
-  const hasError = status === 'error'
-  const hasResults = recommendations.length > 0
-
-  return (
-    <main className="mt-6 sm:mt-8 flex flex-col gap-8 sm:gap-10">
-      {isSearching && !hasResults ? (
-        <Digging streamStatus={streamStatus} />
-      ) : (
-        <>
-          {!hasResults && (
-            <section className="flex flex-col items-center gap-6 text-center">
-              <PillSearchBar
-                size="hero"
-                value={query}
-                onChange={updateQuery}
-                onSubmit={handleSearch}
-                placeholders={PLACEHOLDERS}
-                autoFocus
-              />
-              <div className="flex flex-col items-center gap-3">
-                <p className="text-sm text-base-content/70 font-display">Try searching for:</p>
-                <div className="flex flex-wrap justify-center gap-2">
-                  {SUGGESTED.map((term) => (
-                    <button
-                      key={term}
-                      type="button"
-                      onClick={() => {
-                        posthog.capture('suggested_search_clicked', { term })
-                        onSearchRef.current?.({ preventDefault: () => {} }, term)
-                      }}
-                      className="px-4 py-2 rounded-lg text-sm font-medium border-2 border-[var(--retro-border)] bg-base-100 hover:bg-base-200 transition-colors font-display"
-                    >
-                      {term}
-                    </button>
-                  ))}
-                </div>
-              </div>
-            </section>
-          )}
-        </>
-      )}
-
-      {hasError && !isSearching && <ErrorResponseParser valid={false} message={error?.message} />}
-
-      {hasResults && (
-        <section className="flex flex-col gap-4">
-          <div className="flex flex-row items-center justify-between gap-3">
-            <em className="text-sm text-base-content/70 min-w-0 flex-1">
-              Results are AI generated and may contain fabricated statements and broken links.
-            </em>
-            <button
-              type="button"
-              onClick={async () => {
-                setShareError(null)
-                setShareStatus('saving')
-                const result = await saveResultForShare()
-                if (result.error) {
-                  setShareError(result.error)
-                  setShareStatus('error')
-                  return
-                }
-                const url = `${typeof window !== 'undefined' ? window.location.origin : ''}/results/${result.slug}`
-                router.replace(`/results/${result.slug}`)
-                try {
-                  await navigator.clipboard?.writeText(url)
-                } catch (_) {}
-                setShareStatus('copied')
-                posthog.capture('result_shared', { slug: result.slug })
-                setTimeout(() => setShareStatus('idle'), 2000)
-              }}
-              disabled={shareStatus === 'saving' || isSearching}
-              className="btn btn-outline btn-secondary btn-sm shrink-0"
-              title={shareStatus === 'saving' ? 'Saving…' : shareStatus === 'copied' ? 'Link copied!' : 'Share'}
-              aria-label={shareStatus === 'saving' ? 'Saving…' : shareStatus === 'copied' ? 'Link copied!' : 'Share'}
-            >
-              <span className="inline-block w-4 h-4 sm:mr-1.5" aria-hidden>
-                {shareStatus === 'copied' ? (
-                  <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round">
-                    <path d="M20 6L9 17l-5-5" />
-                  </svg>
-                ) : (
-                  <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round">
-                    <circle cx="18" cy="5" r="3" />
-                    <circle cx="6" cy="12" r="3" />
-                    <circle cx="18" cy="19" r="3" />
-                    <path d="m8.59 13.51 6.83 3.98" />
-                    <path d="M15.41 6.51l-6.82 3.98" />
-                  </svg>
-                )}
-              </span>
-              <span className="hidden sm:inline">
-                {shareStatus === 'saving' ? 'Saving…' : shareStatus === 'copied' ? 'Link copied!' : 'Share'}
-              </span>
-            </button>
-          </div>
-          {shareStatus === 'error' && shareError && <p className="text-sm text-error">{shareError}</p>}
-          {recommendations.map((product) => (
-            <ProductCard product={product} key={product._id} />
-          ))}
-          <div className="flex flex-col items-center gap-4 pt-4">
-            <button
-              type="button"
-              onClick={getMoreOptions}
-              disabled={isSearching}
-              className="btn btn-outline btn-primary"
-            >
-              Give me more options
-            </button>
-            {isSearching && <Digging streamStatus={streamStatus} />}
-            <Footer />
-          </div>
-        </section>
-      )}
-    </main>
-  )
+  const initialTeasers = loadTeasers()
+  return <HomeClient initialTeasers={initialTeasers} />
 }
