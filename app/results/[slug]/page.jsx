@@ -2,6 +2,7 @@ import { notFound } from 'next/navigation'
 
 import BestPageContent from '../../best/[slug]/BestPageContent'
 import ResultsPageSearchBar from './ResultsPageSearchBar'
+import { getWebPageJsonLd } from '../../lib/structured-data'
 
 const FETCH_TIMEOUT_MS = 10000
 
@@ -51,6 +52,19 @@ export default async function ResultPage({ params }) {
 
   return (
     <main className="mt-6 sm:mt-8 flex flex-col gap-8 sm:gap-10">
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{
+          __html: JSON.stringify(
+            getWebPageJsonLd({
+              url: `https://bindiving.com/results/${slug}`,
+              title: payload.title,
+              description: payload.description,
+              query
+            })
+          )
+        }}
+      />
       <ResultsPageSearchBar initialQuery={query} />
       <BestPageContent query={query} recommendations={recommendations} resolvedLinks={resolvedLinks ?? {}} dugAt={dugAt} />
     </main>

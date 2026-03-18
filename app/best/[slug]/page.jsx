@@ -3,6 +3,7 @@ import { join } from 'path'
 import { notFound } from 'next/navigation'
 
 import BestPageContent from './BestPageContent'
+import { getWebPageJsonLd } from '../../lib/structured-data'
 
 export const runtime = 'nodejs'
 
@@ -53,6 +54,19 @@ export default async function BestSlugPage({ params }) {
 
   return (
     <main className="mt-6 sm:mt-8 flex flex-col gap-8 sm:gap-10">
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{
+          __html: JSON.stringify(
+            getWebPageJsonLd({
+              url: `https://bindiving.com/best/${slug}`,
+              title: payload.title,
+              description: payload.description,
+              query
+            })
+          )
+        }}
+      />
       <BestPageContent query={query} recommendations={recommendations} resolvedLinks={resolvedLinks} dugAt={dugAt} />
     </main>
   )

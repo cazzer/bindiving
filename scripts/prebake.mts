@@ -7,7 +7,7 @@
  */
 
 import 'dotenv/config'
-import { readFileSync, mkdirSync, writeFileSync } from 'fs'
+import { readFileSync, mkdirSync, writeFileSync, existsSync } from 'fs'
 import { join, dirname } from 'path'
 import { fileURLToPath } from 'url'
 import { runSearch } from '../netlify/functions/recommendations/run-search.mts'
@@ -19,6 +19,7 @@ const __dirname = dirname(fileURLToPath(import.meta.url))
 const ROOT = join(__dirname, '..')
 const QUERIES_PATH = join(ROOT, 'scripts', 'prebake-queries.json')
 const OUT_DIR = join(ROOT, 'content', 'static-queries')
+const LLM_PATH = join(ROOT, 'public', 'llm.txt')
 
 type QueryEntry = string | { query: string; slug?: string; title?: string; description?: string }
 
@@ -78,6 +79,8 @@ async function resolveLinksForSources(sources: string[]): Promise<Record<string,
   return out
 }
 
+const prebakedUrls: string[] = []
+
 async function runOne(entry: QueryEntry): Promise<void> {
   const { query, slug: slugOverride, title: titleOverride, description: descriptionOverride } = normalizeEntry(entry)
   const slug = slugOverride ?? slugify(query)
@@ -118,6 +121,41 @@ async function runOne(entry: QueryEntry): Promise<void> {
   const outPath = join(OUT_DIR, `${slug}.json`)
   writeFileSync(outPath, JSON.stringify(payload, null, 2), 'utf-8')
   console.log(`[${slug}] wrote ${outPath}`)
+
+  const url = `https://bindiving.com/best/${slug}`
+  prebakedUrls.push(url)
+}
+
+function ensureLlmEntries(urls: string[]): void {
+  let content = ''
+  if (existsSync(LLM_PATH)) {
+    content = readFileSync(LLM_PATH, 'utf-8')
+  } else {
+    content =
+      'site: https://bindiving.com\n\n' +
+      'allow: /\n' +
+      'disallow: /api/\n' +
+      'disallow: /_next/\n\n' +
+      '# Core pages\n' +
+      'page: https://bindiving.com/\n' +
+      'page: https://bindiving.com/results/*\n\n' +
+      '# Prebaked \"best\" pages (kept in sync by scripts/prebake.mts)\n'
+  }
+
+  let updated = content.trimEnd()
+  for (const url of urls) {
+    const line = `page: ${url}`
+    if (!content.includes(line)) {
+      updated += (updated.endsWith('\n') ? '' : '\n') + line + '\n'
+    }
+  }
+
+  if (updated !== content.trimEnd()) {
+    writeFileSync(LLM_PATH, updated + '\n', 'utf-8')
+    console.log(`Updated llm.txt with ${urls.length} prebaked URL(s)`)
+  } else {
+    console.log('llm.txt already up to date for prebaked URLs')
+  }
 }
 
 async function main(): Promise<void> {
@@ -132,6 +170,9 @@ async function main(): Promise<void> {
     if (i < queries.length - 1) {
       await new Promise((r) => setTimeout(r, 2000))
     }
+  }
+  if (prebakedUrls.length > 0) {
+    ensureLlmEntries(prebakedUrls)
   }
   console.log('Done.')
 }

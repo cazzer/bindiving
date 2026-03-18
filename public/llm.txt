@@ -1,0 +1,14 @@
+site: https://bindiving.com
+
+allow: /
+disallow: /api/
+disallow: /_next/
+
+# Core pages
+page: https://bindiving.com/
+page: https://bindiving.com/results/*
+
+# Prebaked \"best\" pages (kept in sync by scripts/prebake.mts)
+page: https://bindiving.com/best/camping-chairs
+page: https://bindiving.com/best/lightweight-camping-chair
+

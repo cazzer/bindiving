@@ -6,6 +6,7 @@ import { Header } from '../components/header'
 import { RecommendationsProvider } from '../contexts/recommendations-context'
 import { ThemeProvider } from '../contexts/theme-context'
 import GoogleCaptchaWrapper from 'components/google-recaptcha-provider'
+import { getSiteJsonLd } from './lib/structured-data'
 
 const siteUrl = process.env.NEXT_PUBLIC_SITE_URL || 'https://bindiving.com'
 
@@ -34,10 +35,15 @@ export default function RootLayout({ children }) {
     <html lang="en" suppressHydrationWarning>
       <head>
         <link rel="icon" href="/favicon.svg" sizes="any" />
+        <meta name="llm-manifest" content="https://bindiving.com/llm.txt" />
         <script
           dangerouslySetInnerHTML={{
             __html: `(function(){var m=localStorage.getItem('bindiving_theme')||'auto';var t=m==='dark'?'lofi-dark':m==='light'?'lofi':window.matchMedia('(prefers-color-scheme: dark)').matches?'lofi-dark':'lofi';document.documentElement.setAttribute('data-theme',t);})();`
           }}
+        />
+        <script
+          type="application/ld+json"
+          dangerouslySetInnerHTML={{ __html: JSON.stringify(getSiteJsonLd()) }}
         />
       </head>
       <GoogleAnalytics gaId="G-JZ9YSG1L4D" />
