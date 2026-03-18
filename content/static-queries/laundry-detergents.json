@@ -1,0 +1,101 @@
+{
+  "slug": "laundry-detergents",
+  "query": "best laundry detergents",
+  "title": "Best laundry detergents | Bin Diving",
+  "description": "AI-dug recommendations for best laundry detergents. Compare options and find one that fits.",
+  "dugAt": "2026-03-18T15:40:48.753Z",
+  "recommendations": [
+    {
+      "product_name": "Persil ProClean Power-Liquid",
+      "pros": [
+        "Top cleaning performance",
+        "Good stain removal vs competitors"
+      ],
+      "cons": [
+        "Stronger fragrance options",
+        "Usually pricier than generics"
+      ],
+      "price": null,
+      "amazon_id": "B01N9Q55IO",
+      "sources": [
+        "https://www.reviewed.com/laundry/best-right-now/best-laundry-detergents",
+        "https://www.consumerreports.org/appliances/laundry-detergents/best-and-worst-laundry-detergents-from-consumer-reports-tests-a9342715268/?msockid=0d6ca280e96066080e6db46be8bc673d"
+      ],
+      "amazon_url": "https://www.amazon.com/Persil-ProClean-Power-Liquid-Detergent-Packaging/dp/B01N9Q55IO",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/WNsPHge7BA9Eet0qmu62a6yvW4KePzdo5aiIYQ5s6Kc/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9tLm1l/ZGlhLWFtYXpvbi5j/b20vaW1hZ2VzL0kv/NDFOZmN4dDB5eEwu/anBn",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "Tide Free & Gentle Liquid Laundry Detergent",
+      "pros": [
+        "Hypoallergenic / dye- and perfume-free option",
+        "Widely available and HE-compatible"
+      ],
+      "cons": [
+        "Some formula/packaging changes reported",
+        "Can be more expensive than store brands"
+      ],
+      "price": null,
+      "amazon_id": "B085V5ZMV9",
+      "sources": [
+        "https://tide.com/en-us/shop/type/liquid/tide-free-and-gentle-liquid",
+        "https://www.consumerreports.org/appliances/laundry-detergents/best-and-worst-laundry-detergents-from-consumer-reports-tests-a9342715268/?msockid=0d6ca280e96066080e6db46be8bc673d"
+      ],
+      "amazon_url": "https://www.amazon.com/Tide-Gentle-Liquid-Laundry-Detergent/dp/B085V5ZMV9",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/Z_P6tOj5IfY_4Qlb6YabMfnTle2AeXiD3zs8ble7MSo/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly93d3cu/a3JvZ2VyLmNvbS9w/cm9kdWN0L2ltYWdl/cy9sYXJnZS9mcm9u/dC8wMDAzMDc3MjEy/MTQzP2Jhbm5lcj1o/YXJyaXN0ZWV0ZXI",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "Seventh Generation Free & Clear Liquid Laundry Detergent",
+      "pros": [
+        "Plant-based, fragrance-free formulation",
+        "Recommended for sensitive skin"
+      ],
+      "cons": [
+        "May be less effective on very tough stains vs top performers",
+        "Scent preferences vary"
+      ],
+      "price": null,
+      "amazon_id": "B0091DS0UY",
+      "sources": [
+        "https://seventhgeneration.com/liquid-laundry-detergent-free-clear",
+        "https://www.consumerreports.org/appliances/laundry-detergents/best-and-worst-laundry-detergents-from-consumer-reports-tests-a9342715268/?msockid=0d6ca280e96066080e6db46be8bc673d"
+      ],
+      "amazon_url": "https://www.amazon.com/Seventh-Generation-Concentrated-Detergent-Unscented/dp/B0091DS0UY",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/bD-xQ4rQbF5ItU2Ei9wdI1uthS2gYx53kPInPv1MkPI/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly93d3cu/aW5zdGFjYXJ0LmNv/bS9hc3NldHMvZG9t/YWlucy9wcm9kdWN0/LWltYWdlL2ZpbGUv/bGFyZ2VfZTU4MzQ3/MDctN2E2Ny00MGY5/LThhOTYtNzQxNTc3/ODIxYzVmLnBuZw",
+      "resolver": "brave",
+      "valid": true
+    }
+  ],
+  "resolvedLinks": {
+    "https://www.reviewed.com/laundry/best-right-now/best-laundry-detergents": {
+      "title": "The Best Laundry Detergents of 2026",
+      "description": "Superior clean for your clothes",
+      "image": "https://reviewed-com-res.cloudinary.com/image/fetch/s--AgKlnVft--/b_white,c_limit,cs_srgb,f_auto,fl_progressive.strip_profile,g_center,q_auto,w_1200/https://reviewed-production.s3.amazonaws.com/1478026682000/Best-Detergent-TBRN-Hero.jpg",
+      "url": "https://www.reviewed.com/laundry/best-right-now/best-laundry-detergents"
+    },
+    "https://www.consumerreports.org/appliances/laundry-detergents/best-and-worst-laundry-detergents-from-consumer-reports-tests-a9342715268/?msockid=0d6ca280e96066080e6db46be8bc673d": {
+      "title": "Best and Worst Laundry Detergents of 2026 - Consumer Reports",
+      "description": "Our breakdown of the best laundry detergents saves you the guesswork and helps you avoid the worst performers from Consumer Reports' tests.",
+      "image": "https://article.images.consumerreports.org/image/upload/t_article_tout/v1659122376/prod/content/dam/CRO-Images-2022/Home/07July/CR-Home-Inlinehero-best-detergent-0519",
+      "url": "https://www.consumerreports.org/appliances/laundry-detergents/best-and-worst-laundry-detergents-from-consumer-reports-tests-a9342715268/"
+    },
+    "https://tide.com/en-us/shop/type/liquid/tide-free-and-gentle-liquid": {
+      "title": "Tide Free and Gentle Liquid Laundry Detergent Products",
+      "description": "Tide Free and Gentle Liquid Laundry Detergent Products will help you remove tough stains from clothing whilst leaving clothing gentle on your skin!",
+      "image": "",
+      "url": "https://tide.com/en-us/shop/type/liquid/tide-free-and-gentle-liquid"
+    },
+    "https://seventhgeneration.com/liquid-laundry-detergent-free-clear": {
+      "title": "Liquid Laundry Detergent - Free & Clear | Seventh Generation",
+      "description": "",
+      "image": "https://www.seventhgeneration.com/sites/default/files/2025-01/732913450633_125_Liquid_Laundry_90oz_Free_Clear_PLP_Default.png",
+      "url": "https://www.seventhgeneration.com/liquid-laundry-detergent-free-clear"
+    }
+  }
+}

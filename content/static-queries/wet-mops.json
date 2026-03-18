@@ -1,0 +1,111 @@
+{
+  "slug": "wet-mops",
+  "query": "best wet mops",
+  "title": "Best wet mops | Bin Diving",
+  "description": "AI-dug recommendations for best wet mops. Compare options and find one that fits.",
+  "dugAt": "2026-03-18T15:35:27.419Z",
+  "recommendations": [
+    {
+      "product_name": "O-Cedar EasyWring / RinseClean Spin Mop & Bucket System",
+      "pros": [
+        "Hands-free wringing",
+        "Reusable microfiber heads",
+        "Dual-tank option (RinseClean) reduces dirty water reuse"
+      ],
+      "cons": [
+        "Plastic parts can feel less durable",
+        "Mop head detachment reported by some users"
+      ],
+      "price": null,
+      "amazon_id": "B08ZBDK8BT",
+      "sources": [
+        "https://www.ocedar.com/product_category/mops/spin-mops/",
+        "https://cleaninup.com/o-cedar-easywring-rinseclean-microfiber-spin-mop-bucket-review/",
+        "https://www.goodhousekeeping.com/home/cleaning/g37625122/best-mops/"
+      ],
+      "amazon_url": "https://www.amazon.com/Cedar-EasyWring-RinseClean-Microfiber-Cleaning/dp/B08ZBDK8BT",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/nFPnWrIBArN-FbDSjGdSFwJfpmXO3QqpsnaqvmsZQ1k/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9jZG4u/YXBhcnRtZW50dGhl/cmFweS5pbmZvL2lt/YWdlL3VwbG9hZC9m/X2F1dG8scV9hdXRv/OmVjbyx3XzczMC9h/dC9zcGVjaWFsLXBy/b2plY3RzLzIwMjUv/c3ByaW5nLWNsZWFu/aW5nLWF3YXJkcy9w/cm9kdWN0LXNpbG9z/L28tY2VkYXItcmlu/c2VjbGVhbi1zcGlu/LW1vcA",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "Bona Premium Spray Mop (Hardwood / Hard Surface)",
+      "pros": [
+        "Fine spray mist safe for hardwoods",
+        "Large 16.5\" mop head covers ground quickly",
+        "Machine-washable reusable pad (up to ~300 washes)"
+      ],
+      "cons": [
+        "Trigger/cartridge can leak or be inconsistent",
+        "Large head harder to maneuver in tight spots"
+      ],
+      "price": null,
+      "amazon_id": "B073HQTZV9",
+      "sources": [
+        "https://prudentreviews.com/bona-spray-mop-review/",
+        "https://www.goodhousekeeping.com/home/cleaning/g37625122/best-mops/"
+      ],
+      "amazon_url": "https://www.amazon.com/Bona-Hardwood-Floor-Spray-Premium/dp/B073HQTZV9",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/8kc1HaB1kRpJxMbn7b0AA2iHhUa21ZdYXNFVy1kky0Y/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9pbWFn/ZXMudGhkc3RhdGlj/LmNvbS9wcm9kdWN0/SW1hZ2VzLzgxOWZl/ZDZmLWZjZWMtNDQx/Yy05ZmZhLTRjYThi/N2I4OTYxMC9zdm4v/Ym9uYS1zcHJheS1t/b3BzLWF4MDAwMzYx/Ni02NF82MDAuanBn",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "Swiffer Sweep & Mop Deluxe 2-in-1 Floor Mopping and Sweeping Kit",
+      "pros": [
+        "2-in-1 sweep + wet-mop convenience",
+        "Compact, easy storage and use",
+        "Affordable replacement pads and wide availability"
+      ],
+      "cons": [
+        "Uses disposable pads (ongoing refill cost)",
+        "Disposable pads produce more waste"
+      ],
+      "price": null,
+      "amazon_id": "B0DWNDSNKD",
+      "sources": [
+        "https://www.swiffer.com/en-us/shop-products/sweeping/sweep-and-mop-deluxe",
+        "https://www.goodhousekeeping.com/home/cleaning/g37625122/best-mops/"
+      ],
+      "amazon_url": "https://www.amazon.com/Swiffer-Mopping-Sweeping-Multi-Surface-Cleaning/dp/B0DWNDSNKD",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/nPeBwuAkJjYL1492DnBt2TTgeoWv9KCrUkPBsYO1468/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9pNS53/YWxtYXJ0aW1hZ2Vz/LmNvbS9zZW8vU3dp/ZmZlci1Td2VlcC1N/b3AtQnJvb20tTW9w/LUFsdGVybmF0aXZl/LURyeS1XZXQtRmxv/b3ItQ2xlYW5lci1G/cmVzaC1TY2VudC1D/bGVhbmluZy1TZXRf/MGRhM2FhZDktMjkz/OC00OGEyLWIxZTAt/NmZlNDU0YzZmYjNl/LjhmMmIyZjJlODFh/M2VkNzk0MTUxZWEz/OGE4ZmFmYmEyLmpw/ZWc_b2RuSGVpZ2h0/PTU3MyZvZG5XaWR0/aD01NzMmb2RuQmc9/RkZGRkZG",
+      "resolver": "brave",
+      "valid": true
+    }
+  ],
+  "resolvedLinks": {
+    "https://www.ocedar.com/product_category/mops/spin-mops/": {
+      "title": "Easy Multi-Surface Spin Mops | O-Cedar®",
+      "description": "",
+      "image": "",
+      "url": "https://www.ocedar.com/product_category/mops/spin-mops/"
+    },
+    "https://cleaninup.com/o-cedar-easywring-rinseclean-microfiber-spin-mop-bucket-review/": {
+      "title": "O-Cedar EasyWring RinseClean Microfiber Spin Mop & Bucket Review - Cleaninup",
+      "description": "Revolutionize your floor cleaning with the O-Cedar EasyWring RinseClean Microfiber Spin Mop & Bucket. Always have clean water, remove 99% of bacteria, and control moisture level.",
+      "image": "https://cleaninup.com/wp-content/uploads/2023/11/o-cedar-easywring-rinseclean-microfiber-spin-mop-bucket-review.jpg",
+      "url": "https://cleaninup.com/o-cedar-easywring-rinseclean-microfiber-spin-mop-bucket-review/"
+    },
+    "https://www.goodhousekeeping.com/home/cleaning/g37625122/best-mops/": {
+      "title": "We Cleaned More Than 300 Messes to Find the Best Mops for Floors",
+      "description": "These top-tested mops make vinyl, hardwood, and tile floors shinier than ever!",
+      "image": "https://hips.hearstapps.com/hmg-prod/images/best-mops-of-2025-68ae0b3bb243f.png?crop=1xw:1xh;center,top&resize=1200:*",
+      "url": "https://www.goodhousekeeping.com/home/cleaning/g37625122/best-mops/"
+    },
+    "https://prudentreviews.com/bona-spray-mop-review/": {
+      "title": "Bona Spray Mop Review (Pros & Cons) - Prudent Reviews",
+      "description": "In this review, I break down the pros and cons of the Bona Premium Spray Mop. I've been testing it for several months and am here to tell you the good, bad, and everything in-between.",
+      "image": "https://prudentreviews.com/wp-content/uploads/Review-of-the-Bona-Spray-Mop.jpg",
+      "url": "https://prudentreviews.com/bona-spray-mop-review/"
+    },
+    "https://www.swiffer.com/en-us/shop-products/sweeping/sweep-and-mop-deluxe": {
+      "title": "Swiffer Sweep and Mop Deluxe | Swiffer",
+      "description": "Sweep, mop, and save time with Swiffer Sweep & Mop Deluxe—compact, durable, and perfect for tight spaces. Simplify cleaning; try it today!",
+      "image": "https://images.ctfassets.net/jghi3f9eg66v/2h0GNzXLrQLt9M19jMLU5v/0cde38c450938294506daa6e069a2096/Swiffer_SweepMop_Deluxe_SK_MOI_5_3_592x592px.jpg",
+      "url": "https://www.swiffer.com/en-us/shop-products/sweeping/sweep-and-mop-deluxe"
+    }
+  }
+}

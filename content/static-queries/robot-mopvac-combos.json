@@ -1,0 +1,86 @@
+{
+  "slug": "robot-mopvac-combos",
+  "query": "best robot mop‑vac combos",
+  "title": "Best robot mop‑vac combos | Bin Diving",
+  "description": "AI-dug recommendations for best robot mop‑vac combos. Compare options and find one that fits.",
+  "dugAt": "2026-03-18T15:35:52.573Z",
+  "recommendations": [
+    {
+      "product_name": "Roborock S8 MaxV Ultra",
+      "pros": [
+        "Powerful suction and advanced navigation",
+        "Self-emptying/auto-care dock (with wash features)"
+      ],
+      "cons": [
+        "High price",
+        "Replacement parts can be pricey"
+      ],
+      "price": null,
+      "amazon_id": "B0D9QPKX2K",
+      "sources": [
+        "https://www.productreviewcrew.com/review/best-robot-vacuums-2026-compared"
+      ],
+      "amazon_url": "https://www.amazon.com/roborock-MaxV-Ultra-Refill-Drainage/dp/B0D9QPKX2K",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/SMTebq3YT2l1ZuFWS_HQ_3eIJpbpllUx82fW_QOiQVw/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9jZG4u/bW9zLmNtcy5mdXR1/cmVjZG4ubmV0L3V0/WW5pdEo2NXlacWZi/U1FHcjRmblguanBn",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "Dreame X50 Ultra",
+      "pros": [
+        "Stair-climbing and strong suction",
+        "Comprehensive auto-maintenance dock and accessories included"
+      ],
+      "cons": [
+        "Premium cost",
+        "May be loud during base operations"
+      ],
+      "price": null,
+      "amazon_id": "B0DM5J52GC",
+      "sources": [
+        "https://www.techradar.com/home/robot-vacuums/dreame-x50-ultra-complete-review"
+      ],
+      "amazon_url": "https://www.amazon.com/DREAME-Auto-Empty-Self-Cleaning-Navigation-Detangling/dp/B0DM5J52GC",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/rX3j8Notk0kQ7apkdeV0NMuXVhPTOn5hohKr8BVKEXo/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9jZG4u/bW9zLmNtcy5mdXR1/cmVjZG4ubmV0L3ZE/SjZGOU5UampxdHBF/U0puTVdoOWouanBn",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "iRobot Roomba Combo j7+",
+      "pros": [
+        "Excellent obstacle detection and avoidance",
+        "Reliable vacuum + retractable mop integration"
+      ],
+      "cons": [
+        "Mop performance less advanced than roller-based systems",
+        "Replacement consumables add ongoing cost"
+      ],
+      "price": null,
+      "amazon_id": "B0BCH3J9RD",
+      "sources": [
+        "https://www.the-independent.com/extras/indybest/gadgets-tech/roomba-combo-j7-plus-review-b2290535.html"
+      ],
+      "amazon_url": "https://www.amazon.com/iRobot%C2%AE-Roomba-ComboTM-Self-Emptying-Vacuum/dp/B0BCH3J9RD",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/rrkIDqGLSGvgL5snujvxLE6Y0x6xsGli26OtPR2FPYg/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9jZG4u/bW9zLmNtcy5mdXR1/cmVjZG4ubmV0L1Zk/UEpmbXloOTVpcGdm/eDVxWDY2Y1YuanBn",
+      "resolver": "brave",
+      "valid": true
+    }
+  ],
+  "resolvedLinks": {
+    "https://www.techradar.com/home/robot-vacuums/dreame-x50-ultra-complete-review": {
+      "title": "Dreame X50 Ultra Complete review: easily my new favorite robot vacuum cleaner",
+      "description": "Threshold-hopping feet and a pop-down LiDAR puck are just two of its special features",
+      "image": "https://cdn.mos.cms.futurecdn.net/rEjeBHbmJ7JuJdi79b4Red-1832-80.jpg",
+      "url": "https://www.techradar.com/home/robot-vacuums/dreame-x50-ultra-complete-review"
+    },
+    "https://www.the-independent.com/extras/indybest/gadgets-tech/roomba-combo-j7-plus-review-b2290535.html": {
+      "title": "The Roomba Combo j7+ two-in-one mop and vacuum is a game changer",
+      "description": "Unlike other two-in-ones, this robot vacuum can detect rugs to retract its mop and avoid a damp shag",
+      "image": "https://static.the-independent.com/2025/08/18/9/55/hero-roomba-combo-j7.png?width=1200&height=800&crop=1200:800",
+      "url": "https://www.the-independent.com/extras/indybest/gadgets-tech/roomba-combo-j7-plus-review-b2290535.html"
+    }
+  }
+}

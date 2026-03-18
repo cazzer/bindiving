@@ -1,0 +1,92 @@
+{
+  "slug": "upright-vacuums",
+  "query": "best upright vacuums",
+  "title": "Best upright vacuums | Bin Diving",
+  "description": "AI-dug recommendations for best upright vacuums. Compare options and find one that fits.",
+  "dugAt": "2026-03-18T15:31:46.412Z",
+  "recommendations": [
+    {
+      "product_name": "SEBO Automatic X7 Upright Vacuum",
+      "pros": [
+        "Durable, serviceable design",
+        "Excellent carpet cleaning and filtration"
+      ],
+      "cons": [
+        "Heavier and bulkier",
+        "Higher price than budget models"
+      ],
+      "price": null,
+      "amazon_id": "B07ZTVCLYG",
+      "sources": [
+        "https://www.womanandhome.com/homes/cleaning--decluttering/sebo-automatic-x7-upright-vacuum-review/"
+      ],
+      "amazon_url": "https://www.amazon.com/Automatic-Upright-Vacuum-Brush-Mode-Headlight/dp/B07ZTVCLYG",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/yM7ZxPWvPfu0FQIkW5rvAon-UVU4yKtqfCNxm9kKL-M/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly93d3cu/c3lsdmFuZS5jb20v/Y2RuL3Nob3AvZmls/ZXMvc2Viby1hdXRv/bWF0aWMteDctcHJl/bWl1bS11cHJpZ2h0/LXZhY3V1bS1jbGVh/bmVyLXBhc3RlbC1t/aW50LW1haW4ucG5n/P3Y9MTc1MzgxNzM1/MCZ3aWR0aD0xMjE0",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "Shark Navigator Lift-Away NV352 Upright Vacuum",
+      "pros": [
+        "Great value and versatile lift-away pod",
+        "Strong suction for the price"
+      ],
+      "cons": [
+        "Can clog with long hair",
+        "Some durability concerns over years of heavy use"
+      ],
+      "price": null,
+      "amazon_id": "B004Q4DRJW",
+      "sources": [
+        "https://www.techgearlab.com/reviews/floor-cleaning/upright-vacuum/shark-navigator-lift-away"
+      ],
+      "amazon_url": "https://www.amazon.com/Shark-Navigator-Lift-Away-Anti-Allergy-NV352/dp/B004Q4DRJW",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/ucDtfw0laL8WJttInKCoi_VyoUdfM8od7A7sYVXCsTk/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9pLmVi/YXlpbWcuY29tL2lt/YWdlcy9nL3dJc0FB/ZVN3cDZ4b3lmamcv/cy1sNTAwLmpwZw",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "Dyson Ball Animal 2 Upright Vacuum",
+      "pros": [
+        "Powerful suction, good for pet hair",
+        "Ball steering for maneuverability"
+      ],
+      "cons": [
+        "Can be difficult to push on dense carpet",
+        "Older model with mixed long-term reliability reports"
+      ],
+      "price": null,
+      "amazon_id": "B078VGCV9H",
+      "sources": [
+        "https://www.techradar.com/reviews/dyson-ball-animal-2"
+      ],
+      "amazon_url": "https://www.amazon.com/Dyson-Ball-Animal-Certified-Refurbished/dp/B078VGCV9H",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/YsmeNOU1qwPBHtxLNP4-0V0i-oFOCC8rZTBhWmnQMC4/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9pMC53/cC5jb20vZHlzb252/YWN1dW1kZW52ZXIu/Y29tL3dwLWNvbnRl/bnQvdXBsb2Fkcy9E/eXNvbi1CYWxsLUFu/aW1hbC0yLmpwZz9m/aXQ9NDAwLDYwMCZz/c2w9MQ",
+      "resolver": "brave",
+      "valid": true
+    }
+  ],
+  "resolvedLinks": {
+    "https://www.womanandhome.com/homes/cleaning--decluttering/sebo-automatic-x7-upright-vacuum-review/": {
+      "title": "Which vacuum do professionals use? You'd be surprised at how retro their recommendation is",
+      "description": "Retro royalty, here's why the SEBO X7 Automatic Vacuum still rules them all",
+      "image": "https://cdn.mos.cms.futurecdn.net/eQizTmhayZU2JhZkfGnz4a-1920-80.jpg",
+      "url": "https://www.womanandhome.com/homes/cleaning--decluttering/sebo-automatic-x7-upright-vacuum-review/"
+    },
+    "https://www.techgearlab.com/reviews/floor-cleaning/upright-vacuum/shark-navigator-lift-away": {
+      "title": "Shark Navigator Lift Away Review",
+      "description": "The Shark Navigator Lift Away NV352 has been one of the most popular upright vacuums for well over a decade, and for good reason: it's a great overall...",
+      "image": "https://djd1xqjx2kdnv.cloudfront.net/photos/39/29/514473_22945_XXL.jpg",
+      "url": "https://www.techgearlab.com/reviews/floor-cleaning/upright-vacuum/shark-navigator-lift-away"
+    },
+    "https://www.techradar.com/reviews/dyson-ball-animal-2": {
+      "title": "Dyson Ball Animal 2 review",
+      "description": "A powerful corded vacuum with a large dust canister",
+      "image": "https://cdn.mos.cms.futurecdn.net/62kNhV9f3nzLYcp6xB9KuA-1820-80.jpg",
+      "url": "https://www.techradar.com/reviews/dyson-ball-animal-2"
+    }
+  }
+}

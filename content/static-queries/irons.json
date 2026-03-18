@@ -1,0 +1,102 @@
+{
+  "slug": "irons",
+  "query": "best irons",
+  "title": "Best irons | Bin Diving",
+  "description": "AI-dug recommendations for best irons. Compare options and find one that fits.",
+  "dugAt": "2026-03-18T15:39:22.244Z",
+  "recommendations": [
+    {
+      "product_name": "Tefal Ultimate Pure FV9845 Steam Iron",
+      "pros": [
+        "Powerful steam output",
+        "Limescale MicroScale filter"
+      ],
+      "cons": [
+        "Relatively heavy",
+        "Higher power draw"
+      ],
+      "price": "$73.39",
+      "amazon_id": "B09NQLGW2Y",
+      "sources": [
+        "https://www.t3.com/features/best-steam-iron",
+        "https://us.amazon.com/Tefal-FV9845-Ultimate-Pure-Steam/dp/B07HXF54P4"
+      ],
+      "image_url": "https://images-na.ssl-images-amazon.com/images/G/01/x-locale/common/grey-pixel.gif",
+      "images": [
+        "https://images-na.ssl-images-amazon.com/images/G/01/x-locale/common/grey-pixel.gif"
+      ],
+      "amazon_url": "https://www.amazon.com/T-fal-Ultraglide-Garment-Durilium-Soleplate/dp/B09NQLGW2Y/ref=mp_s_a_1_1?dib=eyJ2IjoiMSJ9.tcfXeB8tkMw6lkZdaa-ZE1P2R5GvNNnfTs4H23buEp1ZulAZPmnj5RxOljgzmKOGjFZWDqUOPNAT-PhPC-lkhimO52nYecRVxeWcx-Nn37NPPC0h9FD2-MNpZYIijjtgVR1tXuseSE36yrP-oYQ5kMrSUTU4NqyEa7fddOrYSqmzj50yziWpUurzf74zzKxQA9SkkBbcwRghoCKIXQfxUA.wLB6Kobb1KgBbu7CV-pW64dHSvl5vfFd0ydY1Kj8Im8&dib_tag=se&keywords=Tefal+Ultimate+Pure+FV9845+Steam+Iron&qid=1773848356&sr=8-1",
+      "brand": "T-Fal",
+      "blackFriday": false,
+      "gpt_azn": "B07HXF54P4",
+      "resolver": "cheerio",
+      "valid": true
+    },
+    {
+      "product_name": "Philips PerfectCare Elite Steam Generator Iron GC9630/20",
+      "pros": [
+        "Very high steam output / boost",
+        "Optimal Temp technology — no setting changes"
+      ],
+      "cons": [
+        "Large / less portable",
+        "Premium price"
+      ],
+      "price": null,
+      "amazon_id": "B08WJ729CT",
+      "sources": [
+        "https://www.t3.com/features/best-steam-iron",
+        "https://www.philips.com/c-p/GC9630_20/-",
+        "https://www.amazon.ie/PerfectCare-Temperature-Technology-Detachable-GC9630/dp/B00Y0QTUHE"
+      ],
+      "amazon_url": "https://www.amazon.com/Solenoid-Philips-PerfectCare-Generator-423902277671/dp/B08WJ729CT",
+      "gpt_azn": "B00Y0QTUHE",
+      "image_url": "https://imgs.search.brave.com/CGxRT3-Yovwel8COCDHBMxpW5fnHD8G-e7CStenlha4/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9jZG4u/b25idXkuY29tL3By/b2R1Y3QvNjViNzkx/ZTU5MjgzMS81MDAt/NTAwL3BoaWxpcHMt/Z2M5NjMwMjAtcGVy/ZmVjdGNhcmUtZWxp/dGUtc3RlYW0tZ2Vu/ZXJhdG9yLWlyb24t/d2l0aC1vcHRpbWFs/LXRlbXBlcmF0dXJl/LWFuZC00NzAtZy1z/dGVhbS1ib29zdC0x/OC1saXRyZS0yNDAw/LXctNjctYmFyLW5h/dnktMjQ5NDk2NTU0/LmpwZw",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "Rowenta Pro Master X‑Cel Steam Iron DW8360",
+      "pros": [
+        "Professional-grade steam distribution",
+        "Precision tip for hard-to-reach areas"
+      ],
+      "cons": [
+        "Can be bulky for light users",
+        "Mixed long-term reliability reports"
+      ],
+      "price": null,
+      "amazon_id": "B09CQFR9T6",
+      "sources": [
+        "https://www.t3.com/features/best-steam-iron",
+        "https://www.abt.com/Rowenta-Pro-Master-X-Cel-Steam-Iron-DW8360U1/p/166799.html",
+        "https://www.walmart.com/ip/654124737"
+      ],
+      "amazon_url": "https://www.amazon.com/Rowenta-Stainless-Soleplate-Precision-Auto-Off/dp/B09CQFR9T6",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/DVO4ptVXr_FEJP2gXAVY2fObsaokzXpULg9SBm-AscQ/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9pMDMu/aHNuY2RuLmNvbS9p/cy9pbWFnZS9Ib21l/U2hvcHBpbmdOZXR3/b3JrL3JvY3MxMjAw/L3Jvd2VudGEtZHc4/MzYwLXByby1tYXN0/ZXIteGNlbC1pcm9u/LWQtMjAyNTA0MDQx/NjMyMDM5ODN-MjA3/NTA4MTR3LmpwZw",
+      "resolver": "brave",
+      "valid": true
+    }
+  ],
+  "resolvedLinks": {
+    "https://www.t3.com/features/best-steam-iron": {
+      "title": "Best iron 2026: steam, generator and handheld options for perfectly pressed clothes",
+      "description": "Keep your wardrobe looking great with our guide to the best irons",
+      "image": "https://cdn.mos.cms.futurecdn.net/TisVdprv7zxaHfxBwZxRFV-1080-80.jpg",
+      "url": "https://www.t3.com/features/best-steam-iron"
+    },
+    "https://www.philips.com/c-p/GC9630_20/-": {
+      "title": "Buy the Philips PerfectCare Elite Steam generator iron GC9630/20 Steam generator iron",
+      "description": "Most powerful steam for the fastest ironing*",
+      "image": "",
+      "url": "https://www.philips.com/c-p/GC9630_20/perfectcare-elite-steam-generator-iron"
+    },
+    "https://www.walmart.com/ip/654124737": {
+      "title": "Rowenta Pro Master Iron for Clothes, Stainless Steel Soleplate, 400 Microsteam Holes, 1775 Watts, Black & Green DW8360 - Walmart.com",
+      "description": "Buy Rowenta Pro Master Iron for Clothes, Stainless Steel Soleplate, 400 Microsteam Holes, 1775 Watts, Black & Green DW8360 at Walmart.com",
+      "image": "https://i5.walmartimages.com/seo/Rowenta-Pro-Master-Steam-Iron-for-Clothes-Stainless-Steel-Soleplate-Garment-Steamer-DW8360_1c5cee27-1568-4f0c-baf3-4d98b4f03fe9.d87aa6eb3e4cbc04dd5013c39403fe6f.jpeg",
+      "url": "https://www.walmart.com/ip/Rowenta-Pro-Master-Steam-Iron-for-Clothes-Stainless-Steel-Soleplate-Garment-Steamer-DW8360/654124737"
+    }
+  }
+}

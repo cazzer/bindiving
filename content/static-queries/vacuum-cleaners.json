@@ -1,0 +1,128 @@
+{
+  "slug": "vacuum-cleaners",
+  "query": "best vacuum cleaners",
+  "title": "Best vacuum cleaners | Bin Diving",
+  "description": "AI-dug recommendations for best vacuum cleaners. Compare options and find one that fits.",
+  "dugAt": "2026-03-18T15:31:28.963Z",
+  "recommendations": [
+    {
+      "product_name": "Dyson V15 Detect Cordless Stick Vacuum",
+      "pros": [
+        "Excellent suction and sensors",
+        "Laser dust detection for hard floors"
+      ],
+      "cons": [
+        "Premium price",
+        "Battery runtime varies by mode"
+      ],
+      "price": "$599.99 (typical retail)",
+      "amazon_id": "B0979R48CX",
+      "sources": [
+        "https://www.forbes.com/sites/forbes-personal-shopper/article/dyson-v15-detect-review/",
+        "https://www.rtings.com/vacuum/reviews/dyson/v15-detect",
+        "https://www.dyson.com/vacuum-cleaners/cordless/v15"
+      ],
+      "amazon_url": "https://www.amazon.com/Dyson-Detect-Cordless-Vacuum-Yellow/dp/B0979R48CX",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/P4Rp2lIO1RB0mY1mSN_feKdvR7-o-WMn8g_xaskU8VM/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly93d3cu/cGNyaWNoYXJkLmNv/bS9kdy9pbWFnZS92/Mi9CRlhNX1BSRC9v/bi9kZW1hbmR3YXJl/LnN0YXRpYy8tL1Np/dGVzLXBjcmljaGFy/ZC1tYXN0ZXItcHJv/ZHVjdC1jYXRhbG9n/L2RlZmF1bHQvZHdi/NTA5MjBjZC9pbWFn/ZXMvaGlyZXMvWl80/NDcyNjEtMDEuanBn/P3N3PTMwMCZzaD0z/MDAmc209Zml0",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "Shark PowerDetect (PowerDetect Cordless / PowerDetect 2-in-1 Robot family)",
+      "pros": [
+        "Strong suction and smart floor detection",
+        "Available with auto-empty / NeverTouch bases (robot and stick variants)"
+      ],
+      "cons": [
+        "Software/navigation issues reported for some robot models",
+        "Can be heavy in upright variants"
+      ],
+      "price": "$399–$1,199 (model-dependent; common sale prices shown in reviews)",
+      "amazon_id": "B0DCPX2M8N",
+      "sources": [
+        "https://www.techradar.com/home/vacuums/the-best-shark-vacuum-cleaners-year",
+        "https://www.tomsguide.com/home/this-shark-robot-vacuum-i-use-every-day-to-clean-my-home-is-now-usd450-off-at-amazon",
+        "https://vacuumwars.com/shark-stratos-robot-vacuum-launch/"
+      ],
+      "amazon_url": "https://www.amazon.com/Shark-PowerDetect-Self-Emptying-Technologies-AV2800ZE/dp/B0DCPX2M8N",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/WiWb-rUVghJhr_6pIw-BvfYWDzV8HZCx3Oh-iZ55O8Q/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9jZG4u/bW9zLmNtcy5mdXR1/cmVjZG4ubmV0L2Zv/N1N3aFlyUUF5UXJD/eWVXbWFqaVMuanBn",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "Miele Complete C3 Marin Canister Vacuum",
+      "pros": [
+        "Exceptional filtration and build quality",
+        "Quiet operation; excellent for allergies/pet hair"
+      ],
+      "cons": [
+        "Higher upfront cost",
+        "Some users prefer buying through local dealers for service"
+      ],
+      "price": "Approximately $637–$1,300 (bundle/options vary)",
+      "amazon_id": "B00R43I4EU",
+      "sources": [
+        "https://www.consumerreports.org/products/vacuum-cleaners/canister-vacuum/miele-complete-c3-marin-302923/",
+        "https://bestreviews.guide/pet-hair-hepa-canister-vacuums/miele-complete-c3-marin-canister-vacuum-cleaner-bundle-b07hnlckdc",
+        "https://fado.vn/us/amazon/miele-complete-c3-multi-surface-canister-vacuum-cleanser-wturbo-head-hepa-filter-xl-value-pack-8-bags-4-filters-B0CKV3KW4N.html"
+      ],
+      "amazon_url": "https://www.amazon.com/Miele-Complete-C3-Canister-Cleaner/dp/B00R43I4EU",
+      "gpt_azn": "B0CKV3KW4N",
+      "image_url": "https://imgs.search.brave.com/RcZbCbaplx7vxy-6j192IgtJlxRGeh6rsea8UCs_4xs/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9jcmRt/cy5pbWFnZXMuY29u/c3VtZXJyZXBvcnRz/Lm9yZy9mX2F1dG8s/d18zMDAvcHJvZC9w/cm9kdWN0cy9jci9t/b2RlbHMvMzAyOTIz/LWJhZ2dlZC1jYW5p/c3Rlci12YWN1dW1z/LW1pZWxlLWNvbXBs/ZXRlLWMzLW1hcmlu/LTEwMDM5NDkxLnBu/Zw",
+      "resolver": "brave",
+      "valid": true
+    }
+  ],
+  "resolvedLinks": {
+    "https://www.rtings.com/vacuum/reviews/dyson/v15-detect": {
+      "title": "Dyson V15 Detect Review",
+      "description": "The Dyson V15 Detect is a premium cordless stick/handheld vacuum. The V15 features a powerful motor that generates up to 230AW of suction, an onboard particle se...",
+      "image": "https://i.rtings.com/assets/products/HNLvSTNO/dyson-v15-detect/design-medium.jpg?format=auto",
+      "url": "https://www.rtings.com/vacuum/reviews/dyson/v15-detect"
+    },
+    "https://www.dyson.com/vacuum-cleaners/cordless/v15": {
+      "title": "Dyson V15 Detect™ vacuums",
+      "description": "Buy the Dyson V15 Detect™ cordless vacuum cleaner. Laser reveals microscopic dust. Scientific proof of a deep clean. Free 2-day delivery and 2-year warranty.",
+      "image": "",
+      "url": "https://www.dyson.com/vacuum-cleaners/cordless/v15"
+    },
+    "https://www.techradar.com/home/vacuums/the-best-shark-vacuum-cleaners-year": {
+      "title": "I tested a load of different Shark vacuum cleaners – these are the models I'd recommend",
+      "description": "Capable and efficient Shark vacuums for every household",
+      "image": "https://cdn.mos.cms.futurecdn.net/DrotxYtccZMZL5xXsE6Rqb-1920-80.jpg",
+      "url": "https://www.techradar.com/home/vacuums/the-best-shark-vacuum-cleaners-year"
+    },
+    "https://www.tomsguide.com/home/this-shark-robot-vacuum-i-use-every-day-to-clean-my-home-is-now-usd450-off-at-amazon": {
+      "title": "This Shark robot vacuum I use every day to clean my home is now $450 off at Amazon",
+      "description": "Shark-tastic deal",
+      "image": "https://cdn.mos.cms.futurecdn.net/YvbGmEBLLNy4qvHckXyJVm-2560-80.jpg",
+      "url": "https://www.tomsguide.com/home/this-shark-robot-vacuum-i-use-every-day-to-clean-my-home-is-now-usd450-off-at-amazon"
+    },
+    "https://vacuumwars.com/shark-stratos-robot-vacuum-launch/": {
+      "title": "Shark’s New Stratos 2-in-1 Robot Vacuum Includes Mop Automation, NeverTouch Dock",
+      "description": "Shark’s new Stratos 2-in-1 robot vacuum and mop sits between Matrix Plus and PowerDetect, adding mop lifting but not full flagship sensing.",
+      "image": "https://vacuumwars.com/wp-content/uploads/2025/10/Shark-stratos-2-in-1-product-1.png",
+      "url": "https://vacuumwars.com/shark-stratos-robot-vacuum-launch/"
+    },
+    "https://www.consumerreports.org/products/vacuum-cleaners/canister-vacuum/miele-complete-c3-marin-302923/": {
+      "title": "Miele Complete C3 Marin Vacuum Cleaner Review - Consumer Reports",
+      "description": "We've tested and reviewed products since 1936. Read CR's review of the Miele Complete C3 Marin vacuum cleaner to find out if it's worth it.",
+      "image": "https://crdms.images.consumerreports.org/f_auto,w_1200/prod/products/cr/models/302923-bagged-canister-vacuums-miele-complete-c3-marin-10039491.png",
+      "url": "https://www.consumerreports.org/appliances/vacuum-cleaners/miele-complete-c3-marin/m302923/"
+    },
+    "https://bestreviews.guide/pet-hair-hepa-canister-vacuums/miele-complete-c3-marin-canister-vacuum-cleaner-bundle-b07hnlckdc": {
+      "title": "Miele complete c3 marin canister vacuum cleaner bundle Review | BestReviews.guide",
+      "description": "BestReviews.guide analyzes thousands of articles and customer reviews to find the top-rated products at today's lowest prices. Best products, best offers.",
+      "image": "https://images-proxy.bestreviews.guide/w2NOXoCSWDnyU0nLsTsD0Jv8pQ4=/0x300/https://m.media-amazon.com/images/I/41W0R5KltgL._AC_CX679_.jpg",
+      "url": "https://www.bestreviews.guide/pet-hair-hepa-canister-vacuums/miele-complete-c3-marin-canister-vacuum-cleaner-bundle-b07hnlckdc"
+    },
+    "https://fado.vn/us/amazon/miele-complete-c3-multi-surface-canister-vacuum-cleanser-wturbo-head-hepa-filter-xl-value-pack-8-bags-4-filters-B0CKV3KW4N.html": {
+      "title": "Mua Miele Complete C3 Multi Surface Canister Vacuum Cleanser w/Turbo Head+ HEPA Filter + XL Value Pack, 8 Bags & 4 Filters trên Amazon Mỹ chính hãng 2026 | Fado",
+      "description": "Mua sản phẩm Miele Complete C3 Multi Surface Canister Vacuum Cleanser w/Turbo Head+ HEPA Filter + XL Value Pack, 8 Bags & 4 Filters trên Amazon Mỹ chính hãng 2026 | Fado",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/31U-PiR1xJL.jpg",
+      "url": "https://fado.vn/us/amazon/miele-complete-c3-multi-surface-canister-vacuum-cleanser-wturbo-head-hepa-filter-xl-value-pack-8-bags-4-filters-B0CKV3KW4N.html"
+    }
+  }
+}

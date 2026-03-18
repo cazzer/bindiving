@@ -54,11 +54,33 @@ function defaultDescription(query: string): string {
   return `AI-dug recommendations for ${query}. Compare options and find one that fits.`
 }
 
+function normalizeCategory(value: unknown): string | null {
+  if (typeof value !== 'string') return null
+  const base = value.trim()
+  if (!base) return null
+  const lower = base.toLowerCase()
+  return lower.startsWith('best ') ? lower : `best ${lower}`
+}
+
 function loadQueries(): QueryEntry[] {
   const raw = readFileSync(QUERIES_PATH, 'utf-8')
   const arr = JSON.parse(raw)
   if (!Array.isArray(arr)) throw new Error('prebake-queries.json must be an array')
-  return arr
+
+  const seen = new Set<string>()
+  const out: { query: string; slug: string }[] = []
+
+  for (const entry of arr) {
+    const q = normalizeCategory(entry)
+    if (!q) continue
+    if (seen.has(q)) continue
+    seen.add(q)
+    const core = q.replace(/^best\s+/, '').trim()
+    const slug = slugify(core)
+    out.push({ query: q, slug })
+  }
+
+  return out
 }
 
 function normalizeEntry(entry: QueryEntry): { query: string; slug?: string; title?: string; description?: string } {
@@ -84,7 +106,8 @@ const prebakedUrls: string[] = []
 
 async function runOne(entry: QueryEntry): Promise<void> {
   const { query, slug: slugOverride, title: titleOverride, description: descriptionOverride } = normalizeEntry(entry)
-  const slug = slugOverride ?? slugify(query)
+  const coreForSlug = query.replace(/^best\s+/i, '').trim()
+  const slug = slugOverride ?? slugify(coreForSlug)
   const title = titleOverride ?? defaultTitle(query)
   const description = descriptionOverride ?? defaultDescription(query)
 

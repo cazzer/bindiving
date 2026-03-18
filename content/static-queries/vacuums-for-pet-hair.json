@@ -1,0 +1,116 @@
+{
+  "slug": "vacuums-for-pet-hair",
+  "query": "best vacuums for pet hair",
+  "title": "Best vacuums for pet hair | Bin Diving",
+  "description": "AI-dug recommendations for best vacuums for pet hair. Compare options and find one that fits.",
+  "dugAt": "2026-03-18T15:34:23.528Z",
+  "recommendations": [
+    {
+      "product_name": "Shark Vertex AZ2002 Powered Lift-Away Upright Vacuum",
+      "pros": [
+        "Powerful suction",
+        "Lift-away pod for stairs/upholstery",
+        "Effective pet brush attachments"
+      ],
+      "cons": [
+        "Heavy for a lift-away",
+        "Brushroll may need frequent cleaning",
+        "Can be noisy"
+      ],
+      "price": null,
+      "amazon_id": "B089TQB1RB",
+      "sources": [
+        "https://www.popularmechanics.com/home/g35906809/best-vacuum-for-pet-hair/",
+        "https://www.sharkninja.com/shark-vertex-duoclean-powerfins-upright-vacuum/AZ2002.html",
+        "https://best2buy.reviews/shark-az2002-vertex-duoclean-upright-vacuum-with-powerfins-technology-idne4x"
+      ],
+      "amazon_url": "https://www.amazon.com/Shark-AZ2002-PowerFins-Lift-Away-Self-Cleaning/dp/B089TQB1RB",
+      "gpt_azn": "B089TQB1RB",
+      "image_url": "https://imgs.search.brave.com/v4jSJkgoK1_Mv-KouE3aKaRnMY1ZZp36jGvmLocWjDM/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9tLm1l/ZGlhLWFtYXpvbi5j/b20vaW1hZ2VzL0kv/NjFZeEt4dEk1VUwu/anBn",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "Dyson V15 Detect Cordless Stick Vacuum (Animal/Detect variants)",
+      "pros": [
+        "Excellent cordless suction",
+        "Laser/dirt-detect tech finds embedded hair",
+        "Strong anti-tangle motorbar for pet hair"
+      ],
+      "cons": [
+        "Higher price point",
+        "Battery runtime varies under heavy use",
+        "Some users report durability/service issues"
+      ],
+      "price": null,
+      "amazon_id": "B0979R48CX",
+      "sources": [
+        "https://www.forbes.com/sites/forbes-personal-shopper/article/dyson-v15-detect-review/",
+        "https://www.rtings.com/vacuum/reviews/dyson/v15-detect",
+        "https://www.dyson.com/vacuum-cleaners/cordless/v15"
+      ],
+      "amazon_url": "https://www.amazon.com/Dyson-Detect-Cordless-Vacuum-Yellow/dp/B0979R48CX",
+      "gpt_azn": "B0979R48CX",
+      "image_url": "https://imgs.search.brave.com/FPV2WNBoUXl0MvAZWVm_0wBkaecDlnb7fw9m5yqV7g4/rs:fit:0:180:1:0/g:ce/aHR0cHM6Ly93d3cu/aGFycmlzZWxlY3Ry/aWNhbGx0ZC5jby51/ay9tZWRpYS9jYXRh/bG9nL3Byb2R1Y3Qv/Y2FjaGUvMGRhMjJh/MjFiZWU3ZWYwNjcz/N2Q0ZjRjNjdjMDY1/ODIvZC95L2R5c29u/X3YxNWRldGVjdGFu/aW1hbF80NjYxMDBf/MzQtMDEwMC0wMzEx/LnBuZw",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "BISSELL Pet Hair Eraser Turbo Lift‑Off (model 3774F)",
+      "pros": [
+        "Tangle-free brush design",
+        "Lift-off portable pod for furniture/stairs",
+        "HEPA filtration option"
+      ],
+      "cons": [
+        "Build quality less premium than high-end brands",
+        "Some reported brush/motor issues over time",
+        "Hose/wand length can be short for some users"
+      ],
+      "price": null,
+      "amazon_id": "B0C69ZFWM9",
+      "sources": [
+        "https://www.bissell.com/en-us/product/pet-hair-eraser-turbo-lift-off-vacuum-3774F.html",
+        "https://www.propelrc.com/best-bissell-vacuums/",
+        "https://smartvacguide.com/bissell-pet-hair-eraser-turbo-lift-off-review"
+      ],
+      "amazon_url": "https://www.amazon.com/Lift-Off-Self-Cleaning-Filtration-TurboBrush-3774F/dp/B0C69ZFWM9",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/8p8lyfdn8y3h0fiYgr3hGHHO_UygumPp4HiBf41ivFA/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly93d3cu/Zmxvb3JpbmdjbGFy/aXR5LmNvbS93cC1j/b250ZW50L3VwbG9h/ZHMvMjAyNS8wNi9i/aXNzZWxsLXBldC1o/YWlyLWVyYXNlci10/dXJiby1saWZ0LTM3/NzRmLWRldGFpbGVk/LWxvb2suanBn",
+      "resolver": "brave",
+      "valid": true
+    }
+  ],
+  "resolvedLinks": {
+    "https://www.popularmechanics.com/home/g35906809/best-vacuum-for-pet-hair/": {
+      "title": "Is Your Fur Baby Turning Your Home Into an Allergy Disaster Site? These Vacuums for Pet Hair Can Help",
+      "description": "We evaluated models from top brands including Dyson, Bissell, and Shark.",
+      "image": "https://hips.hearstapps.com/hmg-prod/images/best-pet-vacuums-67d0951e5116b.jpg?crop=1.00xw:1.00xh;0,0&resize=1200:*",
+      "url": "https://www.popularmechanics.com/home/g35906809/best-vacuum-for-pet-hair/"
+    },
+    "https://best2buy.reviews/shark-az2002-vertex-duoclean-upright-vacuum-with-powerfins-technology-idne4x": {
+      "title": "Shark AZ2002 Vertex DuoClean Upright Vacuum with PowerFins Technology",
+      "description": "The Shark AZ2002 Vertex Powered Lift-Away Upright Vacuum is the perfect choice for anyone looking for a powerful and efficient cleaning experience. This...",
+      "image": "https://m.media-amazon.com/images/I/31qCd2Gz3iL._SL500_.jpg",
+      "url": "https://best2buy.reviews/shark-az2002-vertex-duoclean-upright-vacuum-with-powerfins-technology-idne4x"
+    },
+    "https://www.rtings.com/vacuum/reviews/dyson/v15-detect": {
+      "title": "Dyson V15 Detect Review",
+      "description": "The Dyson V15 Detect is a premium cordless stick/handheld vacuum. The V15 features a powerful motor that generates up to 230AW of suction, an onboard particle se...",
+      "image": "https://i.rtings.com/assets/products/HNLvSTNO/dyson-v15-detect/design-medium.jpg?format=auto",
+      "url": "https://www.rtings.com/vacuum/reviews/dyson/v15-detect"
+    },
+    "https://www.dyson.com/vacuum-cleaners/cordless/v15": {
+      "title": "Dyson V15 Detect™ vacuums",
+      "description": "Buy the Dyson V15 Detect™ cordless vacuum cleaner. Laser reveals microscopic dust. Scientific proof of a deep clean. Free 2-day delivery and 2-year warranty.",
+      "image": "",
+      "url": "https://www.dyson.com/vacuum-cleaners/cordless/v15"
+    },
+    "https://smartvacguide.com/bissell-pet-hair-eraser-turbo-lift-off-review": {
+      "title": "Quick Review of The Bissell Pet Hair Eraser Turbo Lift-Off - Smart Vac Guide",
+      "description": "The Bissell Pet Hair Eraser Turbo Lift-Off costs half what premium vacuums charge. Yet it does something my $400 Dyson couldn't. Here's what nobody tells you",
+      "image": "",
+      "url": "https://smartvacguide.com/bissell-pet-hair-eraser-turbo-lift-off-review"
+    }
+  }
+}

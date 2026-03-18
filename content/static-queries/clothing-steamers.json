@@ -1,0 +1,104 @@
+{
+  "slug": "clothing-steamers",
+  "query": "best clothing steamers",
+  "title": "Best clothing steamers | Bin Diving",
+  "description": "AI-dug recommendations for best clothing steamers. Compare options and find one that fits.",
+  "dugAt": "2026-03-18T15:40:21.706Z",
+  "recommendations": [
+    {
+      "product_name": "Rowenta X‑Cel Steam+ Upright Garment Steamer",
+      "pros": [
+        "Powerful steam output",
+        "Large water tank for longer sessions",
+        "Good for heavy fabrics"
+      ],
+      "cons": [
+        "Takes up more storage space than handhelds",
+        "Heavier than travel steamers"
+      ],
+      "price": null,
+      "amazon_id": "B07999KDL3",
+      "sources": [
+        "https://cybernews.com/reviews/best-garment-steamers/",
+        "https://www.hgtv.com/shopping/product-reviews/best-clothes-steamers"
+      ],
+      "amazon_url": "https://www.amazon.com/Rowenta-Handheld-Steamer-Capacity-Portable/dp/B07999KDL3",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/aQDvtMV2tqr0xuEFR2APLdxmX-ojMXbtMcUvbjCUcAc/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9pNS53/YWxtYXJ0aW1hZ2Vz/LmNvbS9zZW8vUm93/ZW50YS1YLUNlbC1F/YXN5LVN0ZWFtLUhh/bmRoZWxkLVN0ZWFt/ZXItZm9yLUNsb3Ro/ZXMtR2FybWVudC1T/dGVhbWVyLTE1LVNl/Y29uZC1IZWF0LVVw/LUJsdWUtRFI3MTMw/X2I3ODI2ZTZhLTA4/YTQtNGIzMi1hZTUx/LTUzZTQ5ZGQwNDAy/MS41N2Q3ZmU4MjY3/OTIyZmEyNDU2Zjdj/ZWMyYmZhNWI0NS5q/cGVnP29kbkhlaWdo/dD01NzMmb2RuV2lk/dGg9NTczJm9kbkJn/PUZGRkZGRg",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "Conair Turbo ExtremeSteam Handheld Garment Steamer (Turbo/2‑in‑1)",
+      "pros": [
+        "Fast heat‑up and strong steam",
+        "Multiple settings and useful attachments",
+        "Compact and easy to store"
+      ],
+      "cons": [
+        "Some users report durability issues over years of heavy use",
+        "Smaller water reservoir than uprights"
+      ],
+      "price": "$49.94",
+      "amazon_id": "B0935BS6DZ",
+      "sources": [
+        "https://amp.cnn.com/cnn/cnn-underscored/reviews/best-clothes-steamer",
+        "https://www.homesandgardens.com/solved/clothes-steamer-for-small-homes"
+      ],
+      "amazon_url": "https://www.amazon.com/Conair-ExtremeSteam-Handheld-Garment-Steamer/dp/B0935BS6DZ",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/8LxWmJmUMbGPL9YWtYw20jub0U0dzWavuP3oevAmVow/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9pbWFn/ZXMtbmEuc3NsLWlt/YWdlcy1hbWF6b24u/Y29tL2ltYWdlcy9J/LzYxQ0sxY0VNcHZM/LmpwZw",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "Philips 5000 Series Handheld Steamer (STH50xx)",
+      "pros": [
+        "Very quick heat‑up (≈35s)",
+        "Adjustable settings and heated steam plate",
+        "Portable for travel and quick touch‑ups"
+      ],
+      "cons": [
+        "Smaller tank for extended sessions",
+        "May cost more than basic handhelds"
+      ],
+      "price": null,
+      "amazon_id": "B0D4ZHQ12K",
+      "sources": [
+        "https://www.t3.com/features/best-steam-iron",
+        "https://device.report/philips/sth5020-20"
+      ],
+      "amazon_url": "https://www.amazon.com/Philips-5000-Garment-Steamer-Accessories/dp/B0D4ZHQ12K",
+      "gpt_azn": "B0D4ZHQ12K",
+      "image_url": "https://imgs.search.brave.com/yopBkkJ_SoThOW1pYMYRuL_JRwSLSIQzn-eV3A_m-9E/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9tZWRp/YS5iaW5nbGVlLmNv/bS5hdS9jZG4tY2dp/L2ltYWdlL2ZpdD1z/Y2FsZS1kb3duLGY9/YXV0byx3PTEwNzkv/MS8yLzIvNS8xMjI1/MTE3YjcwODM0NWU2/MDRhMGVkMjI1OTRm/ZWYxMDc2YmE2ZmIy/X1BoaWxpcHNfU1RI/NTAyMDIwX1N0ZWFt/ZXJfSGVyb18xLmpw/Zw",
+      "resolver": "brave",
+      "valid": true
+    }
+  ],
+  "resolvedLinks": {
+    "https://www.hgtv.com/shopping/product-reviews/best-clothes-steamers": {
+      "title": "8 Best Clothes Steamers of 2026, Tested and Reviewed",
+      "description": "Quickly and efficiently get rid of pesky wrinkles in your clothes — without lugging out the ironing board — with one of these editor-tested and -approved steamers. Plus, learn about the many health benefits of using a clothing steamer on items throughout your home.",
+      "image": "https://hgtvhome.sndimg.com/content/dam/images/hgtv/products/2023/5/8/original_commerce_product-testing-clothes-steamers.png.rend.hgtvcom.616.493.85.suffix/1683565425407.webp",
+      "url": "https://www.hgtv.com/shopping/product-reviews/best-clothes-steamers"
+    },
+    "https://amp.cnn.com/cnn/cnn-underscored/reviews/best-clothes-steamer": {
+      "title": "Best clothes steamers in 2026, tested by editors | CNN Underscored",
+      "description": "To find the best clothes steamer, we tested a 12 handheld and upright models and picked out three to keep your garments looking their best.",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/best-steamer-badged-lead-2026-cnnu.jpg?c=16x9&q=w_800,c_fill",
+      "url": "https://www.cnn.com/cnn-underscored/reviews/best-clothes-steamer"
+    },
+    "https://www.homesandgardens.com/solved/clothes-steamer-for-small-homes": {
+      "title": "Get wrinkle-free clothes in seconds without a bulky ironing board – thrilled shoppers love this $49 steamer, rating it a 'must have for effortless wrinkle removal' in small spaces",
+      "description": "Save precious time and storage space with the Conair Turbo ExtremeSteam, on offer for a limited time at Amazon",
+      "image": "https://cdn.mos.cms.futurecdn.net/APeG5FsZhqjzm5JmResirA-1600-80.jpg",
+      "url": "https://www.homesandgardens.com/solved/clothes-steamer-for-small-homes"
+    },
+    "https://www.t3.com/features/best-steam-iron": {
+      "title": "Best iron 2026: steam, generator and handheld options for perfectly pressed clothes",
+      "description": "Keep your wardrobe looking great with our guide to the best irons",
+      "image": "https://cdn.mos.cms.futurecdn.net/TisVdprv7zxaHfxBwZxRFV-1080-80.jpg",
+      "url": "https://www.t3.com/features/best-steam-iron"
+    }
+  }
+}

@@ -1,0 +1,110 @@
+{
+  "slug": "wetdry-vacs",
+  "query": "best wet/dry vacs",
+  "title": "Best wet/dry vacs | Bin Diving",
+  "description": "AI-dug recommendations for best wet/dry vacs. Compare options and find one that fits.",
+  "dugAt": "2026-03-18T15:37:22.276Z",
+  "recommendations": [
+    {
+      "product_name": "Tineco Floor One S3 Smart Wet Dry Vacuum Cleaner",
+      "pros": [
+        "2‑in‑1 vacuum and wet cleaner",
+        "Smart sensors for automatic water/solution control",
+        "Good recent expert coverage"
+      ],
+      "cons": [
+        "Higher price than basic shop vacs",
+        "Not intended for heavy workshop/debris use"
+      ],
+      "price": null,
+      "amazon_id": "B082VRFWB8",
+      "sources": [
+        "https://www.techradar.com/home/vacuums/best-wet-dry-vacuum-cleaner",
+        "https://www.consumerreports.org/appliances/vacuum-cleaners/best-vacuum-deals-right-now-a5043984151/"
+      ],
+      "amazon_url": "https://www.amazon.com/Tineco-Cordless-Lightweight-Powerful-Multi-Surface/dp/B082VRFWB8",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/WUJIaU5ccj66xdjd78U_YQ6tEuNBrhGfC-gQY9VLS0M/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9jZG4u/c3RhdGljc29lLmNv/bS91cGxvYWRzLzUx/MDc4L2NhcnQvcmVz/b3VyY2VzLzIwMjMw/NzExL0RGRTRFQzdC/LTRBMkEtRjFDNy04/Njg5LUEyRkVCMDUy/NkU0OC5wbmc",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "RIDGID 14-Gallon Wet/Dry Vacuum (shop-vac style)",
+      "pros": [
+        "Large tank and powerful suction for heavy-duty jobs",
+        "Durable, workshop-focused design",
+        "Widely recommended in tool/vacuum roundups"
+      ],
+      "cons": [
+        "Bulky for home-only use",
+        "Lacks the mopping features of 2‑in‑1 floor cleaners"
+      ],
+      "price": null,
+      "amazon_id": "B00CLATFTE",
+      "sources": [
+        "https://www.techgearlab.com/topics/floor-cleaning/best-cordless-wet-dry-vacuum",
+        "https://www.autoblog.com/features/best-wet-dry-vacs"
+      ],
+      "amazon_url": "https://www.amazon.com/RIDGID-14-Gal-Peak-Auto-Detailing/dp/B00CLATFTE",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/YyeYglcoXGZBIJsliGTu7IFi2MaByLsE77F762QdI7A/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9tLm1l/ZGlhLWFtYXpvbi5j/b20vaW1hZ2VzL0kv/ODFDRGZabHJBSUwu/anBn",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "BISSELL CrossWave Omni (wet & dry multi-surface cleaner)",
+      "pros": [
+        "Cleans and vacuums hard floors in one pass",
+        "Shown to be a popular choice for homes with pets/kids",
+        "Often on promotion on Amazon"
+      ],
+      "cons": [
+        "Not a heavy-duty shop vac for large water removal",
+        "Requires solution/refill and maintenance"
+      ],
+      "price": null,
+      "amazon_id": "B0CMV9PYRQ",
+      "sources": [
+        "https://www.tomsguide.com/home/home-appliances/bissells-wet-and-dry-vacuum-has-dropped-by-usd180-this-prime-day-and-its-a-real-winner-with-pet-owners",
+        "https://www.architecturaldigest.com/story/best-wet-dry-vacuums"
+      ],
+      "amazon_url": "https://www.amazon.com/CrossWave%C2%AE-OmniForceTM-Multi-Surface-Dedicated-3882/dp/B0CMV9PYRQ",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/C5FRDIIfcPicQk9pOjE9owGWUd2MqBs6OuFhD2Yes9o/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9oaXBz/LmhlYXJzdGFwcHMu/Y29tL2htZy1wcm9k/L2ltYWdlcy9iaXNz/ZWxsLWNyb3Nzd2F2/ZS1vbW5pZm9yY2Ut/dmFjdXVtLTA3NC02/N2QxYjliYjgxOTk3/LmpwZz9jcm9wPTAu/NTIzeHc6MC43ODV4/aDswLjE3MXh3LDAm/cmVzaXplPTY0MDoq",
+      "resolver": "brave",
+      "valid": true
+    }
+  ],
+  "resolvedLinks": {
+    "https://www.techradar.com/home/vacuums/best-wet-dry-vacuum-cleaner": {
+      "title": "The best wet-dry vacuum cleaner: recommended by expert reviewers",
+      "description": "Our tried-and-tested pick of the best wet and dry vacs for sparkling floors",
+      "image": "https://cdn.mos.cms.futurecdn.net/DdMDEEppKS52cdGZHfVVX3-1920-80.jpg",
+      "url": "https://www.techradar.com/home/vacuums/best-wet-dry-vacuum-cleaner"
+    },
+    "https://www.consumerreports.org/appliances/vacuum-cleaners/best-vacuum-deals-right-now-a5043984151/": {
+      "title": "Best Deals on Vacuums - Consumer Reports",
+      "description": "Consumer Reports shares the best vacuum deals you can get on top-performing models from leading brands like Eufy, iRobot, Shark, and others.",
+      "image": "https://article.images.consumerreports.org/image/upload/t_article_tout/v1758719499/prod/content/dam/CRO-Images-2025/Shopping/CR-Shopping-InlineHero-Vacuum-Deals-0925",
+      "url": "https://www.consumerreports.org/appliances/vacuum-cleaners/best-vacuum-deals-right-now-a5043984151/"
+    },
+    "https://www.techgearlab.com/topics/floor-cleaning/best-cordless-wet-dry-vacuum": {
+      "title": "Best Shop Vacs of 2026",
+      "description": "We tested the highest performing shop vacs from popular brands like Craftsman, Ridgid, Dewalt, Vacmaster, and more to bring you the best products for your...",
+      "image": "https://djd1xqjx2kdnv.cloudfront.net/photos/40/0/521527_15937_XXL.jpg",
+      "url": "https://www.techgearlab.com/topics/floor-cleaning/best-shop-vac"
+    },
+    "https://www.tomsguide.com/home/home-appliances/bissells-wet-and-dry-vacuum-has-dropped-by-usd180-this-prime-day-and-its-a-real-winner-with-pet-owners": {
+      "title": "Bissell’s wet and dry vacuum has dropped by $180 this Prime Day — and it’s a real winner with pet owners",
+      "description": "Clean up for less",
+      "image": "https://cdn.mos.cms.futurecdn.net/7feMdPuXFFSWnooxdjWCyX-1709-80.jpg",
+      "url": "https://www.tomsguide.com/home/home-appliances/bissells-wet-and-dry-vacuum-has-dropped-by-usd180-this-prime-day-and-its-a-real-winner-with-pet-owners"
+    },
+    "https://www.architecturaldigest.com/story/best-wet-dry-vacuums": {
+      "title": "The Best Wet-Dry Vacuums to Handle Anything That Hits Your Floors",
+      "description": "Remove virtually any mess with these double-duty appliances",
+      "image": "https://media.architecturaldigest.com/photos/67ae7c4527346d526bf2a6ad/16:9/w_1280,c_limit/Artboard%2028.png",
+      "url": "https://www.architecturaldigest.com/story/best-wet-dry-vacuums-reviewed"
+    }
+  }
+}

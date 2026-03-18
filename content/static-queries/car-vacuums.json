@@ -1,0 +1,99 @@
+{
+  "slug": "car-vacuums",
+  "query": "best car vacuums",
+  "title": "Best car vacuums | Bin Diving",
+  "description": "AI-dug recommendations for best car vacuums. Compare options and find one that fits.",
+  "dugAt": "2026-03-18T15:34:45.979Z",
+  "recommendations": [
+    {
+      "product_name": "CRAFTSMAN 5 Gallon 5.0 Peak HP Wet/Dry Wall Vac (CMXEVBE17925)",
+      "pros": [
+        "Powerful 5.0 peak HP",
+        "Includes long cord, multiple hoses & car attachments",
+        "Wall-mountable with onboard tool storage"
+      ],
+      "cons": [
+        "Bulkier/shop-vac size",
+        "Higher price vs handhelds",
+        "Wall mount not permanent"
+      ],
+      "price": "$119.99",
+      "amazon_id": "B07MPJQFX8",
+      "sources": [
+        "https://vacuumwars.com/best-car-vacuum/"
+      ],
+      "amazon_url": "https://www.amazon.com/CRAFTSMAN-CMXEVBE17925-gallon-Wall-Mounted-Attachments/dp/B07MPJQFX8",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/hRUxIf9DzJT2GA67Yb44hanf4ge426v0Az8BHgjfD0A/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9iaWdi/aWdtYXJ0LmNvbS93/cC1jb250ZW50L3Vw/bG9hZHMvMjAyMy8w/OC9DUkFGVFNNQU4t/Q01YRVZCRTE3OTI1/LTUtR2FsbG9uLTUu/MC1QZWFrLUhQLVdl/dC1EcnktV2FsbC1W/YWMtV2FsbC1Nb3Vu/dGVkLVNob3AtVmFj/dXVtLXdpdGgtQXR0/YWNobWVudHNSZWQu/anBn",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "Shark UltraCyclone Pet Pro Plus / Classic Handheld Pet Vacuum",
+      "pros": [
+        "Strong all‑round suction for debris and pet hair",
+        "Includes pet tool and crevice tool",
+        "Lightweight and easy to maneuver"
+      ],
+      "cons": [
+        "Battery/runtime could be longer",
+        "Only one power setting",
+        "Can be bulky for tight spots"
+      ],
+      "price": null,
+      "amazon_id": "B08559H8W2",
+      "sources": [
+        "https://www.techradar.com/news/best-car-vacuum"
+      ],
+      "amazon_url": "https://www.amazon.com/Shark-CH951-UltraCyclone-Cordless-Handheld/dp/B08559H8W2",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/yA1eeopMwIaIK5B72lyT9YXaZf5jkV8b_J-NLASIvwI/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9jZG4u/bW9zLmNtcy5mdXR1/cmVjZG4ubmV0L05i/akE0ZFJ1d2l2QWVL/M0tLZTVzQ2ktMzIw/LTgwLmpwZw",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "Dyson Car + Boat (Dyson handheld car model)",
+      "pros": [
+        "Cyclone technology with strong suction",
+        "Designed accessories for cars (crevice/hair tools)",
+        "Trusted brand and strong reviews"
+      ],
+      "cons": [
+        "Short runtime for cordless handhelds",
+        "Higher cost than budget handhelds",
+        "Smaller dustbin requires frequent emptying"
+      ],
+      "price": null,
+      "amazon_id": "B0DLXGDHBX",
+      "sources": [
+        "https://www.nbcnews.com/select/shopping/best-car-vacuums-rcna149387",
+        "https://www.techradar.com/news/best-car-vacuum"
+      ],
+      "amazon_url": "https://www.amazon.com/Dyson-Boat-Handheld-Vacuum-Cleaner/dp/B0DLXGDHBX",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/2Vt2QkIj4YvQL4XxcW8oI6YADo4j_LY6P0PHRT94t-k/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9jZG4u/bW9zLmNtcy5mdXR1/cmVjZG4ubmV0L2pl/eFZweDk2aDlGemto/SHRIWllqcUUuanBn",
+      "resolver": "brave",
+      "valid": true
+    }
+  ],
+  "resolvedLinks": {
+    "https://vacuumwars.com/best-car-vacuum/": {
+      "title": "Best Car Vacuum | Vacuum Wars",
+      "description": "Vacuum Wars evaluated 10 popular vacuums for auto detailing, analyzing features and performance over weeks to find the best car vacuum.",
+      "image": "https://vacuumwars.com/wp-content/uploads/2023/02/The-9-Vacuums-Tested-in-our-Best-Car-Vacuum-Competition.jpg",
+      "url": "https://vacuumwars.com/best-car-vacuum/"
+    },
+    "https://www.techradar.com/news/best-car-vacuum": {
+      "title": "The best car vacuum: lightweight vacs to keep your car spotless",
+      "description": "Keep your car's interior pristine with these portable vacuums",
+      "image": "https://cdn.mos.cms.futurecdn.net/EtZpYpadJTjCUkkKVSmPLm-1920-80.jpg",
+      "url": "https://www.techradar.com/news/best-car-vacuum"
+    },
+    "https://www.nbcnews.com/select/shopping/best-car-vacuums-rcna149387": {
+      "title": "Can’t get to a hard to reach spot in your car? Look for these features in a car vacuum",
+      "description": "A good car vacuum needs specific attachments and levels of suction.",
+      "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2024-04/240425-Car-vacuum-kb-main-1e8dc4.jpg",
+      "url": "https://www.nbcnews.com/select/shopping/best-car-vacuums-rcna149387"
+    }
+  }
+}

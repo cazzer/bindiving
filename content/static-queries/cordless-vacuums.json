@@ -1,0 +1,113 @@
+{
+  "slug": "cordless-vacuums",
+  "query": "best cordless vacuums",
+  "title": "Best cordless vacuums | Bin Diving",
+  "description": "AI-dug recommendations for best cordless vacuums. Compare options and find one that fits.",
+  "dugAt": "2026-03-18T15:32:08.377Z",
+  "recommendations": [
+    {
+      "product_name": "Dyson Gen5 Detect Cordless Vacuum",
+      "pros": [
+        "Very strong suction",
+        "Advanced particle/dirt detection"
+      ],
+      "cons": [
+        "Expensive",
+        "Heavier than some models"
+      ],
+      "price": null,
+      "amazon_id": "B0C2JD5H7D",
+      "sources": [
+        "https://www.dyson.com/gen5",
+        "https://rtings.com/vacuum/reviews/best/cordless"
+      ],
+      "amazon_url": "https://www.amazon.com/Dyson-Gen5detect-Cordless-Vacuum-Cleaner/dp/B0C2JD5H7D",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/wD8x4SUCkm-b1aibLjdhvS1CxBeiTyYgya8ueitDVqM/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly92YWN1/dW13YXJzLmNvbS93/cC1jb250ZW50L3Vw/bG9hZHMvMjAyNS8w/Mi9EeXNvbi1HZW41/ZGV0ZWN0LTMwMC14/LTIwMC5wbmc",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "Shark PowerDetect / Detect Clean & Empty (PowerDetect IP3251/IP1251)",
+      "pros": [
+        "Auto-empty dock option",
+        "Good debris detection and anti-hair-wrap"
+      ],
+      "cons": [
+        "Replacement parts/accessories availability concerns",
+        "Can be pricey with auto-empty base"
+      ],
+      "price": null,
+      "amazon_id": "B0DBVW1RFW",
+      "sources": [
+        "https://www.sharkninja.com/shark-powerdetect-cordless-stick-vacuum/IP1251.html",
+        "https://www.techradar.com/home/vacuums/shark-detect-clean-and-empty-iw4621ukt-review"
+      ],
+      "amazon_url": "https://www.amazon.com/Shark-PowerDetect-Auto-Empty-Hardfloor-IP3251/dp/B0DBVW1RFW",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/9ZAW0FfcTIGpk8OpJ_iuQkqHZl30ipJ0EIDBVdkGpWg/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9tZWRp/YS5vZmZpY2VkZXBv/dC5jb20vaW1hZ2Vz/L2ZfYXV0byxxX2F1/dG8sZV9zaGFycGVu/LGhfNDUwL3Byb2R1/Y3RzLzg0MDQzMTEv/ODQwNDMxMV9vMDEv/ODQwNDMxMQ",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "Roborock F25 Ultra (Cordless wet-and-dry)",
+      "pros": [
+        "Wet-and-dry capability",
+        "Strong cleaning performance for floor + wet messes"
+      ],
+      "cons": [
+        "Heavier and more complex than simple stick vacuums",
+        "Higher price for ultra features"
+      ],
+      "price": null,
+      "amazon_id": "B0FHHRXJ56",
+      "sources": [
+        "https://www.techradar.com/home/vacuums/roborock-f25-ultra-wet-and-dry-vacuum-review",
+        "https://www.rtings.com/vacuum/reviews/best/cordless"
+      ],
+      "amazon_url": "https://www.amazon.com/roborock-Cordless-Self-Cleaning-Lay-Flat-Assitant/dp/B0FHHRXJ56",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/RFKV-3F9nDgWghTTcjgSeiB-LMMlbE6s4DFk__h88es/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9vbmJl/dHRlcmxpdmluZy5j/b20vd3AtY29udGVu/dC91cGxvYWRzLzIw/MjMvMDkvUm9ib3Jv/Y2stRHlhZC1Qcm8t/Q29tYm8tMV9CTC1z/Y2FsZWQuanBn",
+      "resolver": "brave",
+      "valid": true
+    }
+  ],
+  "resolvedLinks": {
+    "https://www.dyson.com/gen5": {
+      "title": "Dyson Gen5 cordless HEPA vacuum cleaner | Dyson",
+      "description": "Dyson's most powerful HEPA cordless vacuum cleaner. 262 Air Watts of suction power. Traps viruses. Reveals 2x more invisible dust. Automatically de-tangles. Free scheduled delivery.",
+      "image": "",
+      "url": "https://www.dyson.com/vacuum-cleaners/cordless/gen5"
+    },
+    "https://rtings.com/vacuum/reviews/best/cordless": {
+      "title": "The 5 Best Cordless Vacuums of 2026",
+      "description": "The Dyson V15 Detect is the best cordless vacuum we've tested. While it's hardly the newest kid on the block, it still offers top-of-the-line features and performance.",
+      "image": "https://i.rtings.com/assets/pages/SRYqlhnd/best-cordless-vacuums-20240516-medium.jpg?format=auto",
+      "url": "https://www.rtings.com/vacuum/reviews/best/cordless"
+    },
+    "https://www.sharkninja.com/shark-powerdetect-cordless-stick-vacuum/IP1251.html": {
+      "title": "Shark® PowerDetect™ Cordless Stick Vacuum Cordless Vacuums - Shark",
+      "description": "The Shark® PowerDetect™ cordless stick vacuum delivers the BEST debris cleaning* of ANY cordless vacuum. The PowerDetect™ features dirt-detecting intelligence, 2X brushroll system for all floor types, and 70min of runtimeǂ. (*Based on Geomean of ASTMF2607 and IEC62885-2 (5.3 & 5.5) vs cordless market) (ǂmeasured at the handvac in ECO mode)",
+      "image": "https://assets.sharkninja.com/image/upload/f_auto/q_auto/SharkNinja-NA/IP1251_01.jpg",
+      "url": "https://www.sharkninja.com/on/demandware.store/Sites-US-SharkNinja-Site/en_US/__SYSTEM__Page-Render?cid=ip1251&params=%7b%22custom%22%3a%22%7b%5c%22action%5c%22%3a%5c%22Product-Show%5c%22%2c%5c%22queryString%5c%22%3a%5c%22pid%3dIP1251%26srsltid%3dAfmBOopGjt75N6B2BoXDkmfdG9SglAxFpvp9ww4hp0EiVFjGeLXutFXA%5c%22%2c%5c%22locale%5c%22%3a%5c%22en_US%5c%22%2c%5c%22tracking_consent%5c%22%3anull%2c%5c%22csrf%5c%22%3a%7b%5c%22tokenName%5c%22%3a%5c%22csrf_token%5c%22%2c%5c%22token%5c%22%3a%5c%22QXtSrhVqmuTGufascsjgyXSEahHHrDn0SuDYUkN2N0WCtMWb1LQ2CZqh9gJMMwU0Eryr-Yx5J3ZD_RKZQodc2k_dLrPR4Wq5ZQlHR16ToJdUFgPpYmLnOniJtr78YR34breMVxf4CNs_zMs422atBE88iSxWCMDhG_2zUxYMbN93IIK--OE%3d%5c%22%7d%2c%5c%22CurrentPageMetaData%5c%22%3a%7b%5c%22title%5c%22%3a%5c%22Shark%c2%ae%20PowerDetect%e2%84%a2%20Cordless%20Stick%20Vacuum%20Cordless%20Vacuums%20-%20Shark%5c%22%2c%5c%22description%5c%22%3a%5c%22The%20Shark%c2%ae%20PowerDetect%e2%84%a2%20cordless%20stick%20vacuum%20delivers%20the%20BEST%20debris%20cleaning%2a%20of%20ANY%20cordless%20vacuum%2e%20The%20PowerDetect%e2%84%a2%20features%20dirt-detecting%20intelligence%2c%202X%20brushroll%20system%20for%20all%20floor%20types%2c%20and%2070min%20of%20runtime%c7%82%2e%20%28%2aBased%20on%20Geomean%20of%20ASTMF2607%20and%20IEC62885-2%20%285%2e3%20%26%205%2e5%29%20vs%20cordless%20market%29%20%28%c7%82measured%20at%20the%20handvac%20in%20ECO%20mode%29%5c%22%2c%5c%22keywords%5c%22%3a%5c%22%5c%22%2c%5c%22pageMetaTags%5c%22%3a%5b%7b%7d%2c%7b%7d%2c%7b%7d%2c%7b%7d%5d%7d%7d%22%2c%22aspect_attributes%22%3a%7b%22product%22%3a%22IP1251%22%7d%7d&vf=8010f41341a86df830c88c2a8d5ba0c7&at=pdp&pt=productDetail"
+    },
+    "https://www.techradar.com/home/vacuums/shark-detect-clean-and-empty-iw4621ukt-review": {
+      "title": "This lightweight Shark vacuum delivers incredible cleaning convenience at a very affordable price",
+      "description": "This cordless vacuum auto-adjusts for the perfect clean, and can even empty its own bin",
+      "image": "https://cdn.mos.cms.futurecdn.net/TEmZ4ta7QpFNTVjW6MUA5Z-2100-80.png",
+      "url": "https://www.techradar.com/home/vacuums/shark-detect-clean-and-empty-iw4621ukt-review"
+    },
+    "https://www.techradar.com/home/vacuums/roborock-f25-ultra-wet-and-dry-vacuum-review": {
+      "title": "Roborock's new F25 Ultra is the toughest wet-dry cleaner around – if you need something for tricky spills and stains, look no further",
+      "description": "This vac uses steam and hot water to blast through dirt and grime",
+      "image": "https://cdn.mos.cms.futurecdn.net/woPQQypyufKPb8FVDVaFdk-2560-80.jpg",
+      "url": "https://www.techradar.com/home/vacuums/roborock-f25-ultra-wet-and-dry-vacuum-review"
+    },
+    "https://www.rtings.com/vacuum/reviews/best/cordless": {
+      "title": "The 5 Best Cordless Vacuums of 2026",
+      "description": "The Dyson V15 Detect is the best cordless vacuum we've tested. While it's hardly the newest kid on the block, it still offers top-of-the-line features and performance.",
+      "image": "https://i.rtings.com/assets/pages/SRYqlhnd/best-cordless-vacuums-20240516-medium.jpg?format=auto",
+      "url": "https://www.rtings.com/vacuum/reviews/best/cordless"
+    }
+  }
+}

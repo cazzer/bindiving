@@ -1,0 +1,104 @@
+{
+  "slug": "toilet-papers",
+  "query": "best toilet papers",
+  "title": "Best toilet papers | Bin Diving",
+  "description": "AI-dug recommendations for best toilet papers. Compare options and find one that fits.",
+  "dugAt": "2026-03-18T15:42:47.520Z",
+  "recommendations": [
+    {
+      "product_name": "Charmin Ultra Soft Cushiony Touch Toilet Paper, 18 Family Mega Rolls",
+      "pros": [
+        "Extremely soft",
+        "High wet strength",
+        "Thick and plush"
+      ],
+      "cons": [
+        "Slower to dissolve (not ideal for septic)",
+        "Can be pricier than value brands"
+      ],
+      "price": "$28.99",
+      "amazon_id": "B07986PWD3",
+      "sources": [
+        "https://www.goodhousekeeping.com/home-products/g27637251/best-toilet-paper/",
+        "https://www.amazon.com/dp/B07986PWD3"
+      ],
+      "amazon_url": "https://www.amazon.com/Charmin-Toilet-Family-Cushiony-Packaging/dp/B07986PWD3",
+      "gpt_azn": "B07986PWD3",
+      "image_url": "https://imgs.search.brave.com/3igrzahvkCaMLih03_7dz47cgRFhMzCXm3hKKo2CZL8/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9pbWFn/ZXMtbmEuc3NsLWlt/YWdlcy1hbWF6b24u/Y29tL2ltYWdlcy9J/LzgxNVU3TklEVzBM/LmpwZw",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "Cottonelle Ultra Comfort Toilet Paper, 24 Family Mega Rolls",
+      "pros": [
+        "Strong when wet",
+        "High absorbency",
+        "Rippled texture for cleaning"
+      ],
+      "cons": [
+        "Slower to dissolve than recycled options",
+        "Not the plushest compared to top ultra-soft brands"
+      ],
+      "price": "$27.59",
+      "amazon_id": "B07ND3MW45",
+      "sources": [
+        "https://www.goodhousekeeping.com/home-products/g27637251/best-toilet-paper/",
+        "https://www.amazon.com/dp/B0CM5C15ZD"
+      ],
+      "amazon_url": "https://www.amazon.com/Cottonelle-ComfortCare-CleaningRipples-Biodegradable-Septic-Safe/dp/B07ND3MW45",
+      "gpt_azn": "B0CM5C15ZD",
+      "image_url": "https://imgs.search.brave.com/MRCa0FOSyCNCrif41ue_VSZdXRHBVghrUy9NR2ALYOs/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9iaWdi/aWdtYXJ0LmNvbS93/cC1jb250ZW50L3Vw/bG9hZHMvMjAyMi8w/NS9Db3R0b25lbGxl/LVVsdHJhLUNvbWZv/cnQtVG9pbGV0LVBh/cGVyLXdpdGgtQ3Vz/aGlvbnktQ2xlYW5p/bmdSaXBwbGVzLVRl/eHR1cmUtMjQtRmFt/aWx5LU1lZ2EtUm9s/bHMtMjQtRmFtaWx5/LU1lZ2EtUm9sbHMt/MTA4LXJlZ3VsYXIt/cm9sbHMtNC1QYWNr/cy1vZi02LVJvbGxz/LTMyNS1TaGVldHMt/cGVyLVJvbGwuanBl/Zw",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "Seventh Generation 100% Recycled Bath Tissue, 12 Rolls (pack options)",
+      "pros": [
+        "Made from 100% recycled paper",
+        "Dissolves quickly (septic-friendly)",
+        "Lower environmental impact"
+      ],
+      "cons": [
+        "Not as thick/strong as premium brands",
+        "Higher cost per sheet"
+      ],
+      "price": "$58.93",
+      "amazon_id": "B00MTT44UM",
+      "sources": [
+        "https://www.goodhousekeeping.com/home-products/g27637251/best-toilet-paper/",
+        "https://www.amazon.com/dp/B00T87VN20"
+      ],
+      "amazon_url": "https://www.amazon.com/Seventh-Generation-Toilet-Recycled-Packaging/dp/B00MTT44UM",
+      "gpt_azn": "B00T87VN20",
+      "image_url": "https://imgs.search.brave.com/7sZ6L3fR5kafX6mClE0xBQhlitOIWrq4JZELpLlPCsg/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9pLmVi/YXlpbWcuY29tL2lt/YWdlcy9nL2FHSUFB/ZVN3fjg1cGVVNVEv/cy1sMjI1LmpwZw",
+      "resolver": "brave",
+      "valid": true
+    }
+  ],
+  "resolvedLinks": {
+    "https://www.goodhousekeeping.com/home-products/g27637251/best-toilet-paper/": {
+      "title": "We Tested 30 Types of Toilet Paper—and the Winner Surprised Us",
+      "description": "Check out the plush, quick-dissolving and sustainable picks that stood out in our tests.",
+      "image": "https://hips.hearstapps.com/hmg-prod/images/ghk080117ghrtolietpaper01-646e8226078b9.jpg?crop=1.00xw:0.486xh;0,0.225xh&resize=1200:*",
+      "url": "https://www.goodhousekeeping.com/home-products/g27637251/best-toilet-paper/"
+    },
+    "https://www.amazon.com/dp/B07986PWD3": {
+      "title": "Amazon.com: Charmin Ultra Soft Cushiony Touch 2-Ply Toilet Paper, 18 Family Mega Rolls = 90 Regular Rolls, White : Health & Household",
+      "description": "",
+      "image": "",
+      "url": "https://www.amazon.com/dp/B07986PWD3"
+    },
+    "https://www.amazon.com/dp/B0CM5C15ZD": {
+      "title": "Amazon.com: Cottonelle Ultra Comfort Toilet Paper with Cushiony CleaningRipples Texture, Strong Bath Tissue, 24 Family Mega Rolls = 108 Regular Rolls (4 Packs of 6) : Health & Household",
+      "description": "",
+      "image": "",
+      "url": "https://www.amazon.com/dp/B0CM5C15ZD"
+    },
+    "https://www.amazon.com/dp/B00T87VN20": {
+      "title": "Amazon.com: Seventh Generation Toilet Paper Recycled Bath Tissue 4-Pack 100% Recycled Paper 2-ply without Chlorine Bleach 12 Rolls : Health & Household",
+      "description": "",
+      "image": "",
+      "url": "https://www.amazon.com/dp/B00T87VN20"
+    }
+  }
+}

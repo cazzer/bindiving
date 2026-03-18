@@ -1,0 +1,101 @@
+{
+  "slug": "carpet-cleaners",
+  "query": "best carpet cleaners",
+  "title": "Best carpet cleaners | Bin Diving",
+  "description": "AI-dug recommendations for best carpet cleaners. Compare options and find one that fits.",
+  "dugAt": "2026-03-18T15:36:54.069Z",
+  "recommendations": [
+    {
+      "product_name": "BISSELL Big Green Machine Professional Carpet Cleaner (86T3)",
+      "pros": [
+        "Professional-grade deep cleaning",
+        "Large tanks for big areas"
+      ],
+      "cons": [
+        "Heavy and bulky",
+        "Higher price point"
+      ],
+      "price": null,
+      "amazon_id": "B00450U6CS",
+      "sources": [
+        "https://www.consumeranalysis.com/guides/carpet-cleaners/bissell-big-green-machine-review/",
+        "https://vacuumwars.com/bissell-big-green-machine-review/"
+      ],
+      "amazon_url": "https://www.amazon.com/Bissell-Professional-Cleaner-Machine-86T3/dp/B00450U6CS",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/G2w04Ju38Envpb5j3_VRtztYusfKd7S6iFjUHJeD0gY/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9hY2V2/YWN1dW1zLmNvbS9j/ZG4vc2hvcC9wcm9k/dWN0cy84NlQzX0Jp/Z19HcmVlbl9BX19D/b250ZW50X1NlY29u/ZGFyeV8wMUFMVF9U/cmFuc3BhcmVudF8y/MDQ4eDIwNDgucG5n/P3Y9MTY1MjExNjQz/Nw",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "BISSELL Little Green Portable Carpet and Upholstery Cleaner (1400B)",
+      "pros": [
+        "Compact and portable for spots/stairs",
+        "Widely recommended and best-selling"
+      ],
+      "cons": [
+        "Small tank — not for whole-house cleaning",
+        "Less powerful than full-size extractors"
+      ],
+      "price": null,
+      "amazon_id": "B0016HF5GK",
+      "sources": [
+        "https://www.tomsguide.com/sales-events/want-spotless-carpets-bissells-little-green-carpet-cleaner-has-just-dropped-in-price-for-prime-day",
+        "https://www.homesandgardens.com/solved/bestselling-bissell-mini-carpet-cleaner-lowest-price-ever"
+      ],
+      "amazon_url": "https://www.amazon.com/Bissell-Multi-Purpose-Portable-Upholstery-1400B/dp/B0016HF5GK",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/hpA2mZQeO1xZN-VgwqihqOJT8saMuX6gvwu_N5Hy9tk/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9pLmVi/YXlpbWcuY29tL2lt/YWdlcy9nLzgtNEFB/T1N3OUhsbkVPaC0v/cy1sMjI1LmpwZw",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "Rug Doctor Mighty Pro X3 Commercial Carpet Cleaner",
+      "pros": [
+        "Commercial-strength cleaning power",
+        "Includes pet/odor cleaning solutions"
+      ],
+      "cons": [
+        "Can be heavy and noisy",
+        "Some reports of reliability issues"
+      ],
+      "price": null,
+      "amazon_id": "B086TRNXGK",
+      "sources": [
+        "https://carpetcleanerreviews.com/rug-doctor-mighty-pro-x3-carpet-cleaner-in-depth-review/",
+        "https://www.lowes.com/pd/Rug-Doctor-Mighty-Pro-X3-Carpet-Cleaner/3735319"
+      ],
+      "amazon_url": "https://www.amazon.com/Rug-Doctor-Mighty-Commercial-Cleaner/dp/B086TRNXGK",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/fvnJ3GDPu_MHHN8SuRb4X3iQ7tBboA8xbttj30kauTE/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9pLmVi/YXlpbWcuY29tL2lt/YWdlcy9nL2MwSUFB/T1N3NTF4ZX5PR0cv/cy1sNTAwLndlYnA",
+      "resolver": "brave",
+      "valid": true
+    }
+  ],
+  "resolvedLinks": {
+    "https://www.consumeranalysis.com/guides/carpet-cleaners/bissell-big-green-machine-review/": {
+      "title": "Bissell Big Green Machine Review | Tests and Analysis",
+      "description": "",
+      "image": "",
+      "url": "https://www.consumeranalysis.com/guides/carpet-cleaners/bissell-big-green-machine-review/"
+    },
+    "https://www.tomsguide.com/sales-events/want-spotless-carpets-bissells-little-green-carpet-cleaner-has-just-dropped-in-price-for-prime-day": {
+      "title": "Want spotless carpets? Bissell’s Little Green carpet cleaner has just dropped in price for Prime Day",
+      "description": "Our favorite carpet spot cleaner has just dropped in price for Prime Day",
+      "image": "https://cdn.mos.cms.futurecdn.net/qQdYB3o5rvjgJWHqdbdgui-1497-80.jpg",
+      "url": "https://www.tomsguide.com/sales-events/want-spotless-carpets-bissells-little-green-carpet-cleaner-has-just-dropped-in-price-for-prime-day"
+    },
+    "https://www.homesandgardens.com/solved/bestselling-bissell-mini-carpet-cleaner-lowest-price-ever": {
+      "title": "We predict a sellout: The bestselling Bissell mini carpet cleaner snapped up by 20,000 thrilled shoppers a month is now at its lowest price ever",
+      "description": "Hurry while this limited deal lasts",
+      "image": "https://cdn.mos.cms.futurecdn.net/RQvr3GuJ77txw5bcGVnv8T-1600-80.jpg",
+      "url": "https://www.homesandgardens.com/solved/bestselling-bissell-mini-carpet-cleaner-lowest-price-ever"
+    },
+    "https://carpetcleanerreviews.com/rug-doctor-mighty-pro-x3-carpet-cleaner-in-depth-review/": {
+      "title": "Rug Doctor Mighty Pro X3 Carpet Cleaner: In-Depth Review - Carpet Cleaner Reviews",
+      "description": "In this review, we’ll dive deep into the Rug Doctor Mighty Pro X3 Carpet Cleaner to help you decide if it is the right choice for your needs.",
+      "image": "https://carpetcleanerreviews.com/wp-content/uploads/2025/09/81ZCFY8Q34L._AC_SL1500_-e1758948543136.jpg",
+      "url": "https://carpetcleanerreviews.com/rug-doctor-mighty-pro-x3-carpet-cleaner-in-depth-review/"
+    }
+  }
+}

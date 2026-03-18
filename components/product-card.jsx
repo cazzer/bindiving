@@ -111,12 +111,13 @@ function normalizeProduct(p) {
     ? p.sources
         .map(normalizeSource)
         .filter((s) => s.link && isValidSourceUrl(s.link))
-        .filter((source, index, arr) => 
-          // Keep only first occurrence of each unique link
-          arr.findIndex(s => s.link === source.link) === index
+        .filter(
+          (source, index, arr) =>
+            // Keep only first occurrence of each unique link
+            arr.findIndex((s) => s.link === source.link) === index
         )
     : []
-  
+
   return {
     ...p,
     pros: Array.isArray(p?.pros) ? p.pros : [],
@@ -141,7 +142,7 @@ export default function ProductCard({ product: item, resolvedLinks }) {
       amazon_id: product.amazon_id,
       brand: product.brand,
       price: product.price,
-      resolver: product.resolver,
+      resolver: product.resolver
     })
   }
 
@@ -192,13 +193,14 @@ export default function ProductCard({ product: item, resolvedLinks }) {
             <em className="text-neutral-500">We could not estimate the price</em>
           )}{' '}
           {product.blackFriday && <em>Black Friday deal!</em>}
-          {product.resolver === 'brave' && product.price != null && product.price !== '' ? (
-            <em>(AI estimate)</em>
-          ) : null}
+          {product.resolver === 'brave' && product.price != null && product.price !== '' ? <em>(estimate)</em> : null}
         </h3>
         <div className="flex flex-col gap-4 sm:flex-row sm:flex-wrap sm:items-start min-w-0">
           <div className="flex min-w-0 flex-col gap-1.5 sm:grow">
-            <p className="flex items-center gap-1.5 text-sm font-bold text-emerald-800 dark:text-emerald-400" aria-hidden>
+            <p
+              className="flex items-center gap-1.5 text-sm font-bold text-emerald-800 dark:text-emerald-400"
+              aria-hidden
+            >
               <CheckIcon />
               Pros
             </p>

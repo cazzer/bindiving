@@ -1,0 +1,128 @@
+{
+  "slug": "robot-vacuums",
+  "query": "best robot vacuums",
+  "title": "Best robot vacuums | Bin Diving",
+  "description": "AI-dug recommendations for best robot vacuums. Compare options and find one that fits.",
+  "dugAt": "2026-03-18T15:32:39.018Z",
+  "recommendations": [
+    {
+      "product_name": "Roborock S8 MaxV Ultra",
+      "pros": [
+        "Powerful suction and advanced mopping",
+        "ReactiveAI obstacle avoidance"
+      ],
+      "cons": [
+        "Premium price",
+        "Large/complex dock can be costly to service"
+      ],
+      "price": null,
+      "amazon_id": "B0D9QPKX2K",
+      "sources": [
+        "https://www.androidpolice.com/the-roborock-s8-maxv-ultra-is-a-95-out-of-10-and-its-seeing-its-first-ever-discount-at-800-off/",
+        "https://www.propelrc.com/best-roborock-vacuums/",
+        "https://www.imcopex.shop/files/products/roborock-robot-vacuum-cleaner-s8-maxv-ultra-white-r100047-oem-r100047-ean-6970995788440_de.pdf"
+      ],
+      "amazon_url": "https://www.amazon.com/roborock-MaxV-Ultra-Refill-Drainage/dp/B0D9QPKX2K",
+      "gpt_azn": "B0CQLPNB2X",
+      "image_url": "https://imgs.search.brave.com/SMTebq3YT2l1ZuFWS_HQ_3eIJpbpllUx82fW_QOiQVw/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9jZG4u/bW9zLmNtcy5mdXR1/cmVjZG4ubmV0L3V0/WW5pdEo2NXlacWZi/U1FHcjRmblguanBn",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "iRobot Roomba Combo j9+ (Roomba j9+)",
+      "pros": [
+        "Excellent dirt detection and mapping",
+        "Integrated self-emptying / combo vacuum-and-mop option"
+      ],
+      "cons": [
+        "Higher price; some user-reported dock issues",
+        "Occasional software/connectivity complaints"
+      ],
+      "price": null,
+      "amazon_id": "B0C415HQPX",
+      "sources": [
+        "https://www.reviewed.com/robotvacuums/content/irobot-roomba-j9-robot-vacuum-review",
+        "https://www.tomsguide.com/home/smart-home/amazon-knocks-up-to-50-percent-off-roombas-heres-5-robot-vacuums-worth-shopping-now",
+        "https://www.irobot.com/en_US/roomba-j9plus-robot-vacuum/J955020.html"
+      ],
+      "amazon_url": "https://www.amazon.com/iRobot-Roomba-Self-Emptying-Auto-Fill-Vacuum/dp/B0C415HQPX",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/TVqELCKQxbFEG2gfdvWkAWZH58rTnfUi1BPVAmD5QIw/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9pLmlu/c2lkZXIuY29tLzY2/NmIyMWViZWQ5YTQw/NGQ4MjlkN2Q3Mj93/aWR0aD03MDA",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "Shark Robot Vacuum & Mop Combo — PowerDetect NeverTouch Pro (AV28xx series)",
+      "pros": [
+        "Strong value with self-emptying/refill features",
+        "PowerDetect sensors boost suction on heavy debris"
+      ],
+      "cons": [
+        "Large dock footprint",
+        "Mixed long-term reliability reports from some users"
+      ],
+      "price": null,
+      "amazon_id": "B0B89C8H4Q",
+      "sources": [
+        "https://www.tomsguide.com/us/best-robot-vacuums%2Creview-2000.html",
+        "https://shopsavvy.com/best-picks/best-robot-vacuums-2025",
+        "https://www.edealinfo.com/d/00622356698412/Shark-Robot-Vacuum-and-Mop-Combo-PowerDetect-NeverTouch-Pro"
+      ],
+      "amazon_url": "https://www.amazon.com/Shark-Mopping-CleanEdge-Technology-AV2610WA/dp/B0B89C8H4Q",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/Zt2Yzz4hQi6LK311ZKQe3fIrYbvAQc9r1m1Sk05KuY0/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9zaGFy/a3ZhY3V1bXVzYS5j/b20vd3AtY29udGVu/dC91cGxvYWRzLzIw/MjUvMTAvU2hhcmst/TmF2aWdhdG9yLVJv/Ym90LVZhY3V1bV8u/anBn",
+      "resolver": "brave",
+      "valid": true
+    }
+  ],
+  "resolvedLinks": {
+    "https://www.androidpolice.com/the-roborock-s8-maxv-ultra-is-a-95-out-of-10-and-its-seeing-its-first-ever-discount-at-800-off/": {
+      "title": "The Roborock S8 MaxV Ultra is a 9.5/10 and it's seeing its first ever discount at $800 off",
+      "description": "It's the best premium robot vac",
+      "image": "https://static0.anpoimages.com/wordpress/wp-content/uploads/2025/03/roborock-s8-maxv-ultra-lifestyle.jpg?w=1600&h=900&fit=crop",
+      "url": "https://www.androidpolice.com/the-roborock-s8-maxv-ultra-is-a-95-out-of-10-and-its-seeing-its-first-ever-discount-at-800-off/"
+    },
+    "https://www.imcopex.shop/files/products/roborock-robot-vacuum-cleaner-s8-maxv-ultra-white-r100047-oem-r100047-ean-6970995788440_de.pdf": {
+      "title": "",
+      "description": "",
+      "image": "",
+      "url": "https://www.imcopex.shop/files/products/roborock-robot-vacuum-cleaner-s8-maxv-ultra-white-r100047-oem-r100047-ean-6970995788440_de.pdf"
+    },
+    "https://www.reviewed.com/robotvacuums/content/irobot-roomba-j9-robot-vacuum-review": {
+      "title": "iRobot does it again with one of the best robot vacuums we’ve ever tested",
+      "description": "We tested the iRobot Roomba j9+ robot vacuum and it lives up to its name.",
+      "image": "https://reviewed-com-res.cloudinary.com/image/fetch/s--q1HM_6jh--/b_white,c_limit,cs_srgb,f_auto,fl_progressive.strip_profile,g_center,q_auto,w_1200/https://reviewed-production.s3.amazonaws.com/1697642993297/5.png",
+      "url": "https://www.reviewed.com/robotvacuums/content/irobot-roomba-j9-robot-vacuum-review"
+    },
+    "https://www.tomsguide.com/home/smart-home/amazon-knocks-up-to-50-percent-off-roombas-heres-5-robot-vacuums-worth-shopping-now": {
+      "title": "Roombas are up to 50% off at Amazon — here's 5 robot vacuums I recommend shopping now",
+      "description": "Clean up your mess for less",
+      "image": "https://cdn.mos.cms.futurecdn.net/K6PR8e5HRbUuHMyHcYY484-2000-80.jpg",
+      "url": "https://www.tomsguide.com/home/smart-home/amazon-knocks-up-to-50-percent-off-roombas-heres-5-robot-vacuums-worth-shopping-now"
+    },
+    "https://www.irobot.com/en_US/roomba-j9plus-robot-vacuum/J955020.html": {
+      "title": "Roomba® j9+ | Best Robot Vacuum for Dirt & Debris",
+      "description": "",
+      "image": "",
+      "url": "https://www.irobot.com/en_US/roomba-j9plus-self-emptying-robot-vacuum/J955020.html"
+    },
+    "https://www.tomsguide.com/us/best-robot-vacuums%2Creview-2000.html": {
+      "title": "Best robot vacuums in 2026: expert tested and rated",
+      "description": "We’ve spent over 500 hours testing robot vacuums to find the best for every home, lifestyle and budget.",
+      "image": "https://cdn.mos.cms.futurecdn.net/t3EQGvyAPsG9YzvaJbfDV9-2000-80.jpg",
+      "url": "https://www.tomsguide.com/us/best-robot-vacuums,review-2000.html"
+    },
+    "https://shopsavvy.com/best-picks/best-robot-vacuums-2025": {
+      "title": "Best Robot Vacuums for 2025 - ShopSavvy Best Picks",
+      "description": "Robot vacuums promise effortless cleaning but often deliver frustration through poor performance, co...",
+      "image": "https://x.shopsavvy.com/https://x.shopsavvy.com/https://m.media-amazon.com/images/I/814c2z79i0L._AC_UY218_.jpg",
+      "url": "https://shopsavvy.com/best-picks/best-robot-vacuums-2025"
+    },
+    "https://www.edealinfo.com/d/00622356698412/Shark-Robot-Vacuum-and-Mop-Combo-PowerDetect-NeverTouch-Pro": {
+      "title": "Shark AV2810ZEWH Robot Vacuum & Mop Combo only $649.99",
+      "description": "Best Deal: Shark Robot Vacuum & Mop Combo, PowerDetect NeverTouch Pro, Self-Emptying, Self-Refill with Self-Clean Pad Wash & Dry, 60-Day Debris Capacity, 30-Day Refill Tank, 5 Technologies (AV2810ZEWH) (White) for $649.99. Published on 11/24/2025",
+      "image": "https://m.media-amazon.com/images/I/411osURDX0L._AC_SL2000_SR1200,630_.jpg",
+      "url": "https://www.edealinfo.com/d/00622356698412/Shark-Robot-Vacuum-and-Mop-Combo-PowerDetect-NeverTouch-Pro"
+    }
+  }
+}

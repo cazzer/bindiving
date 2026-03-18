@@ -1,6 +1,7 @@
 'use client'
 
 import dynamic from 'next/dynamic'
+import Link from 'next/link'
 import { Footer } from '../../../components/footer'
 
 const ProductCard = dynamic(() => import('../../../components/product-card'), { ssr: false })
@@ -41,6 +42,12 @@ export default function BestPageContent({ query, recommendations, resolvedLinks,
         {dugAtFormatted && (
           <p className="text-xs text-base-content/50">Dug at {dugAtFormatted}</p>
         )}
+        <Link
+          href={`/?q=${encodeURIComponent(query)}`}
+          className="btn btn-outline btn-primary btn-sm"
+        >
+          Give me more options
+        </Link>
         <Footer />
       </div>
     </section>

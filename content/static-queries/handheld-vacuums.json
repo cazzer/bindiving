@@ -1,0 +1,116 @@
+{
+  "slug": "handheld-vacuums",
+  "query": "best handheld vacuums",
+  "title": "Best handheld vacuums | Bin Diving",
+  "description": "AI-dug recommendations for best handheld vacuums. Compare options and find one that fits.",
+  "dugAt": "2026-03-18T15:33:09.421Z",
+  "recommendations": [
+    {
+      "product_name": "Shark UltraCyclone Pet Pro+ CH951",
+      "pros": [
+        "Powerful cyclonic suction",
+        "XL dust cup, self-cleaning pet brush"
+      ],
+      "cons": [
+        "Short battery life",
+        "Not user-replaceable battery"
+      ],
+      "price": null,
+      "amazon_id": "B08559H8W2",
+      "sources": [
+        "https://www.rtings.com/vacuum/reviews/best/handheld",
+        "https://www.sharkclean.com/products/shark-ultracyclone-pet-pro-cordless-handheld-vacuum-zidCH951",
+        "https://www.thevachq.com/handheld-vacuums/shark/shark-ultracyclone-pet-pro-plus"
+      ],
+      "amazon_url": "https://www.amazon.com/Shark-CH951-UltraCyclone-Cordless-Handheld/dp/B08559H8W2",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/ftkbu3dHXghYkJIDCTyCLLEip3SQRMmjWl5fdMyReyE/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9pLmVi/YXlpbWcuY29tL2lt/YWdlcy9nL2psTUFB/T1N3SEw5b0NmeFIv/cy1sNTAwLmpwZw",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "BLACK+DECKER 16V MAX dustbuster (16V MAX hand vacuum)",
+      "pros": [
+        "Excellent value and large dustbin for the class",
+        "Widely available replacement filters (low recurring cost)"
+      ],
+      "cons": [
+        "Less refined build than premium models",
+        "Bulkier than ultra-compact options"
+      ],
+      "price": null,
+      "amazon_id": "B071Z8W2R1",
+      "sources": [
+        "https://www.rtings.com/vacuum/reviews/best/handheld",
+        "https://www.blackanddecker.com/products/chv1410l",
+        "https://www.cnn.com/cnn-underscored/reviews/best-handheld-vacuum"
+      ],
+      "amazon_url": "https://www.amazon.com/Black-Decker-Lithium-Vacuum-CHV1410L32/dp/B071Z8W2R1",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/OujPN2CHgl7eY1cw_KIPNwHEjynsocCc04Dy1P80UZ4/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9pLmVi/YXlpbWcuY29tL2lt/YWdlcy9nL0wya0FB/T1N3dS1ka2hvYkMv/cy1sNTAwLmpwZw",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "BISSELL AeroSlim / TurboSlim (AeroSlim Cordless Handheld)",
+      "pros": [
+        "Extremely compact and portable",
+        "Good for quick spot cleans and tight storage"
+      ],
+      "cons": [
+        "Short runtime (~15 minutes)",
+        "Slower USB recharge, non-replaceable battery"
+      ],
+      "price": null,
+      "amazon_id": "B087HQRW2M",
+      "sources": [
+        "https://www.rtings.com/vacuum/reviews/best/handheld",
+        "https://www.bissell.com/en-us/product/bissell%C2%AE-aeroslim%E2%84%A2-cordless-handheld-vacuum-29869.html",
+        "https://www.consumerreports.org/appliances/vacuum-cleaners/best-handheld-vacuums-of-the-year-a3334493968/"
+      ],
+      "amazon_url": "https://www.amazon.com/BISSELL-AeroSlim-Cordless-Handheld-29869/dp/B087HQRW2M",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/dZBs6wgOSm_CFAtcin7ZIaG2AH0XkhJn3GagxdagaPQ/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9pLmVi/YXlpbWcuY29tL2lt/YWdlcy9nLzBBUUFB/ZVN3UklOcFk4VjEv/cy1sNDAwLndlYnA",
+      "resolver": "brave",
+      "valid": true
+    }
+  ],
+  "resolvedLinks": {
+    "https://www.rtings.com/vacuum/reviews/best/handheld": {
+      "title": "The 4 Best Handheld Vacuums of 2026",
+      "description": "The best handheld vacuum we've tested is the Shark UltraCyclone Pet Pro+. This compact model excels at clearing away solid debris on bare surfaces like countertops, shelves, tile, and hardwood floors.",
+      "image": "https://i.rtings.com/assets/pages/F6rElCrL/best-handheld-vacuum-20230914-medium.jpg?format=auto",
+      "url": "https://www.rtings.com/vacuum/reviews/best/handheld"
+    },
+    "https://www.sharkclean.com/products/shark-ultracyclone-pet-pro-cordless-handheld-vacuum-zidCH951": {
+      "title": "Shark UltraCyclone™ Pet Pro Cordless Handheld Vacuum Handheld Vacuums - Shark",
+      "description": "The Shark UltraCyclone™ Pet Pro+ is a cordless handheld vacuum designed for powerful suction and lasting motor life. It includes a self-cleaning Pet Power Brush that eliminates hair wrap on the brushroll, an XL dust cup, and more, all at only 2.8 lbs.",
+      "image": "https://assets.sharkninja.com/image/upload/f_auto/q_auto/SharkNinja-NA/CH951_01.jpg",
+      "url": "https://www.sharkninja.com/on/demandware.store/Sites-US-SharkNinja-Site/en_US/__SYSTEM__Page-Render?cid=pdp-template-home-cleaning&params=%7b%22custom%22%3a%22%7b%5c%22action%5c%22%3a%5c%22Product-Show%5c%22%2c%5c%22queryString%5c%22%3a%5c%22pid%3dCH951%5c%22%2c%5c%22locale%5c%22%3a%5c%22en_US%5c%22%2c%5c%22tracking_consent%5c%22%3anull%2c%5c%22csrf%5c%22%3a%7b%5c%22tokenName%5c%22%3a%5c%22csrf_token%5c%22%2c%5c%22token%5c%22%3a%5c%22i4qouCTsnCG8Km02qMxXIAo4nfm78AeW4PIs-fQSCUyqr_PdzPxhhcyPRNFA7tE7Bbaso0u1nT4jT9B_Yeyw8ry4YzFLU7BZldW_FQAtIp2JU8PqYpb1fwMROk-ghFzY_-jRLqZijK5gkqK_G9_uj10XCu-anLX9qqXe7LQFiwQo9xoVUok%3d%5c%22%7d%2c%5c%22CurrentPageMetaData%5c%22%3a%7b%5c%22title%5c%22%3a%5c%22Shark%20UltraCyclone%e2%84%a2%20Pet%20Pro%20Cordless%20Handheld%20Vacuum%20Handheld%20Vacuums%20-%20Shark%5c%22%2c%5c%22description%5c%22%3a%5c%22The%20Shark%20UltraCyclone%e2%84%a2%20Pet%20Pro%2b%20is%20a%20cordless%20handheld%20vacuum%20designed%20for%20powerful%20suction%20and%20lasting%20motor%20life%2e%20It%20includes%20a%20self-cleaning%20Pet%20Power%20Brush%20that%20eliminates%20hair%20wrap%20on%20the%20brushroll%2c%20an%20XL%20dust%20cup%2c%20and%20more%2c%20all%20at%20only%202%2e8%20lbs%2e%5c%22%2c%5c%22keywords%5c%22%3a%5c%22%5c%22%2c%5c%22pageMetaTags%5c%22%3a%5b%7b%7d%2c%7b%7d%2c%7b%7d%2c%7b%7d%5d%7d%7d%22%2c%22aspect_attributes%22%3a%7b%22product%22%3a%22CH951%22%7d%7d&vf=41873f8c5e287d9ca8d2befd18d669a4&at=pdp&pt=productDetail"
+    },
+    "https://www.thevachq.com/handheld-vacuums/shark/shark-ultracyclone-pet-pro-plus": {
+      "title": "Shark UltraCyclone Pet Pro Plus CH951 Review - Best Handheld Vacuum 2026",
+      "description": "Shark UltraCyclone Pet Pro Plus review: Never loses suction, 40min runtime, XL capacity. Best handheld vacuum for $199?",
+      "image": "https://m.media-amazon.com/images/I/71RZ0xA0fmL._AC_SL1500_.jpg",
+      "url": "https://www.thevachq.com/handheld-vacuums/shark/shark-ultracyclone-pet-pro-plus"
+    },
+    "https://www.blackanddecker.com/products/chv1410l": {
+      "title": "16V MAX* dustbuster® AdvancedClean™ Cordless Handheld Vacuum",
+      "description": "The BLACK+DECKER® dustbuster® AdvancedClean+™ Cordless Vacuum easily cleans messes with a rotating nozzle, crevice tool, and flip-up brush.",
+      "image": "http://www.blackanddecker.com/cdn/shop/products/Ecomm_Large-CHV1410L_1.jpg?v=1663090501",
+      "url": "https://www.blackanddecker.com/products/chv1410l"
+    },
+    "https://www.cnn.com/cnn-underscored/reviews/best-handheld-vacuum": {
+      "title": "The best handheld vacuums in 2026, tested by editors | CNN Underscored",
+      "description": "We tested 13 top-rated handheld vacuums to see which were best at tackling spills, tidying upholstery and cleaning pet hair. Three stood out as the best.",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/best-handheld-vacuum-cnnu.jpg?c=16x9&q=w_800,c_fill",
+      "url": "https://www.cnn.com/cnn-underscored/reviews/best-handheld-vacuum"
+    },
+    "https://www.consumerreports.org/appliances/vacuum-cleaners/best-handheld-vacuums-of-the-year-a3334493968/": {
+      "title": "6 Best Handheld Vacuums of 2026, Lab-Tested and Reviewed - Consumer Reports",
+      "description": "The best handheld vacuums from brands like Black+Decker, Dyson, and Shark are quiet and excel at cleaning carpets, bare floors, pet hair, and tight spaces.",
+      "image": "https://article.images.consumerreports.org/image/upload/t_article_tout/v1704384046/prod/content/dam/CRO-Images-2024/Appliances/CR-Appliances-handheld-vacuums-0124",
+      "url": "https://www.consumerreports.org/appliances/vacuum-cleaners/best-handheld-vacuums-of-the-year-a3334493968/"
+    }
+  }
+}
