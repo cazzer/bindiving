@@ -10,7 +10,7 @@ import PillSearchBar from './pill-search-bar'
 import logo from 'public/images/bin-diving.svg'
 
 const TAGLINE =
-  "There's a lot of rubbish on the internet. Describe what you're looking for and we'll find a few recommendations."
+  "There's a lot of rubbish on the internet. Describe what you're looking for and we'll show you the top recommendations from across the web."
 
 export function Header() {
   const pathname = usePathname()
