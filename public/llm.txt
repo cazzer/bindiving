@@ -7,6 +7,8 @@ disallow: /_next/
 # Core pages
 page: https://bindiving.com/
 page: https://bindiving.com/results/*
+page: https://bindiving.com/blog
+page: https://bindiving.com/blog/why-custom-search
 
 # Prebaked \"best\" pages (kept in sync by scripts/prebake.mts)
 page: https://bindiving.com/best/camping-chairs

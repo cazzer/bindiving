@@ -2,6 +2,7 @@
 
 import { useEffect, useRef, useState } from 'react'
 import { useRouter } from 'next/navigation'
+import Link from 'next/link'
 import posthog from 'posthog-js'
 
 import ProductCard from '../components/product-card'
@@ -56,9 +57,8 @@ function seededShuffle(arr, seed) {
 
 const MINUTE_SEED = typeof Date !== 'undefined' ? Math.floor(Date.now() / 60000) : 0
 const PLACEHOLDERS = seededShuffle(PLACEHOLDER_LIST, MINUTE_SEED)
-const SUGGESTED = PLACEHOLDERS.slice(0, 4)
 
-export default function HomeClient({ initialTeasers = [] }) {
+export default function HomeClient({ initialTeasers = [], suggestedBestPages = [] }) {
   const {
     query,
     status,
@@ -134,18 +134,17 @@ export default function HomeClient({ initialTeasers = [] }) {
               <div className="flex flex-col items-center gap-3">
                 <p className="text-sm text-base-content/70 font-display">Try searching for:</p>
                 <div className="flex flex-wrap justify-center gap-2">
-                  {SUGGESTED.map((term) => (
-                    <button
-                      key={term}
-                      type="button"
+                  {suggestedBestPages.map((item) => (
+                    <Link
+                      key={item.slug}
+                      href={`/best/${item.slug}`}
                       onClick={() => {
-                        posthog.capture('suggested_search_clicked', { term })
-                        onSearchRef.current?.({ preventDefault: () => {} }, term)
+                        posthog.capture('suggested_best_clicked', { slug: item.slug, term: item.label })
                       }}
-                      className="px-4 py-2 rounded-lg text-sm font-medium border-2 border-[var(--retro-border)] bg-base-100 hover:bg-base-200 transition-colors font-display"
+                      className="no-underline hover:no-underline px-4 py-2 rounded-lg text-sm font-medium border-2 border-[var(--retro-border)] bg-base-100 hover:bg-base-200 transition-colors font-display"
                     >
-                      {term}
-                    </button>
+                      {item.label}
+                    </Link>
                   ))}
                 </div>
               </div>
@@ -163,42 +162,29 @@ export default function HomeClient({ initialTeasers = [] }) {
           </h2>
           <div className="grid gap-4 md:grid-cols-3">
             {teasers.map((teaser) => (
-              <button
+              <Link
                 key={teaser.slug}
-                type="button"
-                onClick={() => router.push(`/best/${teaser.slug}`)}
-                className="text-left rounded-xl border border-[var(--retro-border)] bg-base-100 p-4 hover:bg-base-200 transition-colors flex flex-col gap-3 min-w-0 overflow-hidden"
+                className="text-left no-underline hover:no-underline rounded-xl border border-[var(--retro-border)] bg-base-100 p-4 hover:bg-base-200 transition-colors flex flex-col gap-3 min-w-0 overflow-hidden"
+                href={`/best/${teaser.slug}`}
               >
                 {teaser.image && (
                   <div className="w-full aspect-[4/3] overflow-hidden rounded-lg bg-base-200">
-                    <img
-                      src={teaser.image}
-                      alt=""
-                      className="h-full w-full object-cover"
-                      loading="lazy"
-                    />
+                    <img src={teaser.image} alt="" className="h-full w-full object-cover" loading="lazy" />
                   </div>
                 )}
                 <div className="text-xs font-semibold uppercase tracking-wide text-base-content/60">
-                  Pre-dug:{' '}
-                  <span className="font-normal normal-case text-base-content">
-                    {teaser.query}
-                  </span>
+                  Pre-dug: <span className="font-normal normal-case text-base-content">{teaser.query}</span>
                 </div>
                 <ul className="text-xs space-y-1 min-w-0 break-words">
                   {teaser.recommendations?.slice(0, 2).map((rec, idx) => (
                     <li key={idx} className="break-words">
                       <span className="font-medium break-words">{rec.product_name}</span>
-                      {rec.price ? (
-                        <span className="text-base-content/70"> · {rec.price}</span>
-                      ) : null}
+                      {rec.price ? <span className="text-base-content/70"> · {rec.price}</span> : null}
                     </li>
                   ))}
                 </ul>
-                <span className="mt-2 text-xs text-primary font-medium">
-                  View full dive →
-                </span>
-              </button>
+                <span className="mt-2 text-xs text-primary font-medium">View full dive →</span>
+              </Link>
             ))}
           </div>
         </section>
@@ -207,9 +193,6 @@ export default function HomeClient({ initialTeasers = [] }) {
       {hasResults && (
         <section className="flex flex-col gap-4">
           <div className="flex flex-row items-center justify-between gap-3">
-            <em className="text-sm text-base-content/70 min-w-0 flex-1">
-              Results are AI generated and may contain fabricated statements and broken links.
-            </em>
             <button
               type="button"
               onClick={async () => {
@@ -237,11 +220,31 @@ export default function HomeClient({ initialTeasers = [] }) {
             >
               <span className="inline-block w-4 h-4 sm:mr-1.5" aria-hidden>
                 {shareStatus === 'copied' ? (
-                  <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round">
+                  <svg
+                    xmlns="http://www.w3.org/2000/svg"
+                    width="16"
+                    height="16"
+                    viewBox="0 0 24 24"
+                    fill="none"
+                    stroke="currentColor"
+                    strokeWidth="2"
+                    strokeLinecap="round"
+                    strokeLinejoin="round"
+                  >
                     <path d="M20 6L9 17l-5-5" />
                   </svg>
                 ) : (
-                  <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round">
+                  <svg
+                    xmlns="http://www.w3.org/2000/svg"
+                    width="16"
+                    height="16"
+                    viewBox="0 0 24 24"
+                    fill="none"
+                    stroke="currentColor"
+                    strokeWidth="2"
+                    strokeLinecap="round"
+                    strokeLinejoin="round"
+                  >
                     <circle cx="18" cy="5" r="3" />
                     <circle cx="6" cy="12" r="3" />
                     <circle cx="18" cy="19" r="3" />
@@ -276,4 +279,3 @@ export default function HomeClient({ initialTeasers = [] }) {
     </main>
   )
 }
-

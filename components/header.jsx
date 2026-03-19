@@ -15,7 +15,9 @@ const TAGLINE =
 export function Header() {
   const pathname = usePathname()
   const { hasResults, searchProps } = useSearchUI()
-  const showHeaderSearchBar = hasResults && !pathname?.startsWith('/results')
+  const isPrebakedPage = pathname?.startsWith('/best/')
+  const isBlogPage = pathname?.startsWith('/blog')
+  const showHeaderSearchBar = (hasResults && !pathname?.startsWith('/results')) || isPrebakedPage || isBlogPage
 
   return (
     <header
