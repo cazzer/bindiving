@@ -156,7 +156,7 @@ export default function HomeClient({ initialTeasers = [] }) {
 
       {hasError && !isSearching && <ErrorResponseParser valid={false} message={error?.message} />}
 
-      {!hasResults && teasers.length > 0 && (
+      {!isSearching && !hasResults && teasers.length > 0 && (
         <section className="flex flex-col gap-4 mb-8">
           <h2 className="text-sm font-display text-base-content/70 text-center">
             Or keep digging through these pre-dug finds:

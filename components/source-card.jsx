@@ -95,6 +95,11 @@ function isValidLink(link) {
   }
 }
 
+function hasPreviewData(data) {
+  if (!data) return false
+  return Boolean(data.title || data.description || data.image)
+}
+
 export default function SourceCard({ source, index, origin, initialPreview }) {
   const link = source?.link ?? source ?? ''
   const [preview, setPreview] = useState(initialPreview ?? null)
@@ -105,9 +110,10 @@ export default function SourceCard({ source, index, origin, initialPreview }) {
     if (!shouldFetch || !link || failed) return
     const url = `${origin || ''}/api/link-preview?url=${encodeURIComponent(link)}`
     fetch(url)
-      .then((res) => (res.ok ? res.json() : Promise.reject(new Error(res.statusText))))
-      .then((data) => {
-        if (data?.title || data?.description || data?.image) {
+      .then((res) => res.json())
+      .then((payload) => {
+        const data = payload?.data || payload
+        if (payload?.ok && hasPreviewData(data)) {
           setPreview({
             title: data.title || new URL(link).hostname.replace('www.', ''),
             description: data.description || '',
