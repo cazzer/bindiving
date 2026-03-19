@@ -1,0 +1,125 @@
+{
+  "slug": "lunch-boxes",
+  "query": "best lunch boxes",
+  "title": "Best lunch boxes | Bin Diving",
+  "description": "AI-dug recommendations for best lunch boxes. Compare options and find one that fits.",
+  "dugAt": "2026-03-18T17:22:01.935Z",
+  "recommendations": [
+    {
+      "product_name": "Bentgo Fresh Leak-Proof 4-Compartment Bento Lunch Box",
+      "pros": [
+        "Leak-proof compartments",
+        "Good portion control",
+        "Microwave & dishwasher safe"
+      ],
+      "cons": [
+        "Plastic can stain/retain odor",
+        "Not insulated on its own"
+      ],
+      "price": null,
+      "amazon_id": "B0DPTV1VCH",
+      "sources": [
+        "https://bentgo.com/",
+        "https://www.target.com/p/-/A-76556752",
+        "https://www.influenster.com/reviews/bentgo-fresh-leak-proof-lunch-box"
+      ],
+      "amazon_url": "https://www.amazon.com/Bentgo-Fresh-Leak-Proof-4-Compartment-Bento-Style/dp/B0DPTV1VCH",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/fC2hBk8OXgu1u4myJJwg-dzR6K24KA6HUXUt6DhNX4E/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9pNS53/YWxtYXJ0aW1hZ2Vz/LmNvbS9zZW8vMy1w/YWNrLUJlbnRnby1G/cmVzaC1MZWFrLVBy/b29mLVZlcnNhdGls/ZS00LUNvbXBhcnRt/ZW50LUJlbnRvLVN0/eWxlLUx1bmNoLUJv/eC1SZW1vdmFibGUt/RGl2aWRlci1Qb3J0/aW9uLUNvbnRyb2xs/ZWQtTWVhbHMtVGVl/bnMtQWR1bHRzLU9u/LVRoZS1Hby1CUEEt/RnJfY2I3Zjk2NTIt/YzQ3Zi00ODM4LTgz/YjMtZTA5NDg4MjIx/NzExLmMxMTFkZjBj/ZTczYjhkZThiMzBk/MDQ5NDUyZmM5YThl/LmpwZWc_b2RuSGVp/Z2h0PTQ0OCZvZG5X/aWR0aD00NDgmb2Ru/Qmc9RkZGRkZG",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "PackIt Freezable Lunch Bag (Classic)",
+      "pros": [
+        "Built-in freezable gel — no ice packs needed",
+        "Foldable and reusable",
+        "Keeps food cold for hours when frozen overnight"
+      ],
+      "cons": [
+        "Must be frozen overnight to work best",
+        "Less room with many rigid containers inside"
+      ],
+      "price": null,
+      "amazon_id": "B078H9VRTZ",
+      "sources": [
+        "https://packit.com/products/freezable-deluxe-lunch-bag",
+        "https://packit.com/products/playtime-lunch-box",
+        "https://traveltipsdirect.com/casual-everyday-bags/best-freezable-lunch-bag/"
+      ],
+      "amazon_url": "https://www.amazon.com/PackIt-Freezable-Classic-Lunch-Black/dp/B078H9VRTZ",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/I2OINJDe6Z235Df9K-LU7dIKpSFPt6EX_l11W8II8CI/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9pNS53/YWxtYXJ0aW1hZ2Vz/LmNvbS9zZW8vUGFj/a2l0LUZyZWV6YWJs/ZS1DbGFzc2ljLUx1/bmNoLUJveC1CbHVl/LVNreV8xNDlmOTcz/Yi0xYWIzLTQyMmUt/YWEyMy0wYmY5ZDg2/MWY2ZWYuZjVjMzQy/NGI5Njc4OGI2MzNi/NTg3NzVjZTI4Yzc4/MmEuanBlZz9vZG5I/ZWlnaHQ9NTczJm9k/bldpZHRoPTU3MyZv/ZG5CZz1GRkZGRkY",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "YETI Daytrip Lunch Box",
+      "pros": [
+        "Excellent durability and temperature retention",
+        "Waterproof, easy-to-clean interior",
+        "Rigid shape protects food from crushing"
+      ],
+      "cons": [
+        "Higher price point",
+        "A bit bulky for tight bags"
+      ],
+      "price": null,
+      "amazon_id": "B0842BT8GN",
+      "sources": [
+        "https://www.techgearlab.com/topics/home/best-lunch-box",
+        "https://www.rei.com/product/238523/yeti-daytrip-lunch-bag",
+        "https://www.nbcnews.com/select/shopping/best-adult-lunch-box-ncna1274191"
+      ],
+      "amazon_url": "https://www.amazon.com/YETI-Daytrip-Lunch-Box-Charcoal/dp/B0842BT8GN",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/wk7C9c_wnKZwhdrBNmvtUAw1uWHIM269C-0Lc6s_ALQ/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly90aHJl/YWRmZWxsb3dzLmNv/bS9jZG4vc2hvcC9m/aWxlcy95ZXRpLWJh/Z3MteWV0aS1kYXl0/cmlwLTNsLWx1bmNo/LWJveC0xMTk1Njc4/NDE5LnBuZz92PTE3/NTkzMjg2ODMmd2lk/dGg9MTQ0NQ",
+      "resolver": "brave",
+      "valid": true
+    }
+  ],
+  "resolvedLinks": {
+    "https://bentgo.com/": {
+      "title": "Bentgo® Bento Lunch Boxes and Accessories For Kids and Adults",
+      "description": "Bentgo is the ideal bento lunch box for kids going to school and adults going to work. With Bentgo, packing and transporting food is quick, and eco-friendly.",
+      "image": "",
+      "url": "https://bentgo.com/"
+    },
+    "https://www.target.com/p/-/A-76556752": {
+      "title": "Bentgo Fresh Leakproof Versatile 4 Compartment Bento-Style Lunch Box with Removable Divider",
+      "description": "Read reviews and buy Bentgo Fresh Leakproof Versatile 4 Compartment Bento-Style Lunch Box with Removable Divider at Target. Choose from contactless Same Day Delivery, Drive Up and more.",
+      "image": "https://target.scene7.com/is/image/Target/GUEST_150a2ccb-db7a-4cfe-83f3-e42a76115a5f",
+      "url": "https://www.target.com/p/bentgo-fresh-leakproof-versatile-4-compartment-bento-style-lunch-box-with-removable-divider/-/A-76556752"
+    },
+    "https://packit.com/products/freezable-deluxe-lunch-bag": {
+      "title": "Freezable Lunch Boxes | Shop Freezable Lunch Bags and Lunch Boxes with Ice Packs Built-in - PackIt",
+      "description": "Buy PackIt freezable lunch boxes and lunch cooler bags with built-in ice packs. Convenient and innovative functionality designed for those who are tired of packing extra ice packs in their lunch. Order PackIt freezable lunch bags today!",
+      "image": "http://packit.com/cdn/shop/collections/2021_LIFESTYLE_TWEEN-GROUP_01_LORES_2.jpg?v=1710783598",
+      "url": "https://packit.com/collections/freezable-lunch-bags-for-on-the-go"
+    },
+    "https://packit.com/products/playtime-lunch-box": {
+      "title": "Freezable Playtime Lunch Box | Shop the Best Toddler Lunch Box Online - PackIt",
+      "description": "Introducing the all-new PackIt Playtime Lunch Box! Designed with toddlers in mind, this freezable lunch box takes coolness to a whole new level. Featuring advanced cooling technology, it keeps meals fresh while remaining lightweight and ideal for little boys and girls on their way to daycare or kindergarten. Don't miss out on the ultimate lunchtime companion - order your PackIt Playtime Lunch Box today!",
+      "image": "http://packit.com/cdn/shop/products/freezable-playtime-lunch-box-popsicle-right.jpg?v=1768851084",
+      "url": "https://packit.com/products/playtime-lunch-box"
+    },
+    "https://traveltipsdirect.com/casual-everyday-bags/best-freezable-lunch-bag/": {
+      "title": "Best Freezable Lunch Bag [Updated On: March 2026]",
+      "description": "The first thing that struck me about this PackIt Freezable Classic Lunch Box, Spaceman wasn’t its fun design but rather its groundbreaking cooling system.",
+      "image": "",
+      "url": "https://traveltipsdirect.com/casual-everyday-bags/best-freezable-lunch-bag/"
+    },
+    "https://www.techgearlab.com/topics/home/best-lunch-box": {
+      "title": "The Best Lunch Boxes",
+      "description": "We put lunch boxes to the test from YETI, PackIt, Lille Home, and others to find the best options for your meals on the go",
+      "image": "https://djd1xqjx2kdnv.cloudfront.net/photos/34/42/465689_19901_XXL.jpg",
+      "url": "https://www.techgearlab.com/topics/home/best-lunch-box"
+    },
+    "https://www.nbcnews.com/select/shopping/best-adult-lunch-box-ncna1274191": {
+      "title": "Lunch boxes aren’t just for kids — these adult versions make packing lunch so much easier",
+      "description": "Nutritionists share factors to consider when buying a lunch box, like size, style and insulation.",
+      "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/newscms/2023_32/3618407/230807-adult-lunchboxes-oo-social.jpg",
+      "url": "https://www.nbcnews.com/select/shopping/best-adult-lunch-box-ncna1274191"
+    }
+  }
+}

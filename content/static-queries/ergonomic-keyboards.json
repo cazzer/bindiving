@@ -1,0 +1,108 @@
+{
+  "slug": "ergonomic-keyboards",
+  "query": "best ergonomic keyboards",
+  "title": "Best ergonomic keyboards | Bin Diving",
+  "description": "AI-dug recommendations for best ergonomic keyboards. Compare options and find one that fits.",
+  "dugAt": "2026-03-18T19:47:02.709Z",
+  "recommendations": [
+    {
+      "product_name": "Logitech ERGO K860 Wireless Split Keyboard",
+      "pros": [
+        "Curved split layout to reduce wrist pronation",
+        "Thick cushioned palm rest for support"
+      ],
+      "cons": [
+        "Bulky footprint",
+        "Membrane keys (not mechanical)"
+      ],
+      "price": null,
+      "amazon_id": "B07ZWK2TQT",
+      "sources": [
+        "https://www.tomsguide.com/us/best-ergonomic-keyboards%2Creview-3684.html",
+        "https://www.logitech.com/content/dam/logitech/in/business/pdf/ergo-k860-for-business-data-sheet-w11.pdf"
+      ],
+      "amazon_url": "https://www.amazon.com/Logitech-Wireless-Ergonomic-Keyboard-Wrist/dp/B07ZWK2TQT",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/vC3XIV9SezgYiVMF9YrvD0i3Mnl6b9SvtFF3G0zx8iI/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9tZWRp/YS5vZmZpY2VkZXBv/dC5jb20vaW1hZ2Vz/L2ZfYXV0byxxX2F1/dG8sZV9zaGFycGVu/LGhfNDUwL3Byb2R1/Y3RzLzY2ODQyNjYv/NjY4NDI2Nl9vMDFf/MTEyOTIxLzY2ODQy/NjY",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "Microsoft Sculpt Ergonomic Keyboard (Comfort Desktop)",
+      "pros": [
+        "Contoured dome and split layout encourage neutral wrist posture",
+        "Includes cushioned palm rest and ergonomic mouse (bundle)"
+      ],
+      "cons": [
+        "Key layout is nonstandard (takes adjustment)",
+        "Some parts/discontinued SKUs make replacements harder"
+      ],
+      "price": null,
+      "amazon_id": "B00CYX54C0",
+      "sources": [
+        "https://tech.yahoo.com/computing/articles/best-ergonomic-keyboards-2025-153015575.html",
+        "https://fado.vn/us/amazon/microsoft-sculpt-ergonomic-wireless-desktop-keyboard-and-mouse-black-wireless-comfortable-ergonomic-keyboard-and-mouse-combo-with-split-design-and-palm-rest-B00CYX54C0.html"
+      ],
+      "amazon_url": "https://www.amazon.com/Microsoft-Ergonomic-Wireless-Desktop-Keyboard/dp/B00CYX54C0",
+      "gpt_azn": "B00CYX54C0",
+      "image_url": "https://imgs.search.brave.com/GwOUOT4RVa6Meu1ZnZtdzp_SptyVLQQeU2DJDqyX6Hs/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9tLm1l/ZGlhLWFtYXpvbi5j/b20vaW1hZ2VzL0kv/NTF1SmljUDVKSEwu/anBn",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "Kinesis Freestyle Edge RGB (split mechanical)",
+      "pros": [
+        "Fully split design with programmability and mechanical switches",
+        "Highly customizable layout and ergonomics for heavy typists/gamers"
+      ],
+      "cons": [
+        "Requires more setup/time to adapt",
+        "Software/firmware can be less polished than mainstream brands"
+      ],
+      "price": null,
+      "amazon_id": "B07STXYG5T",
+      "sources": [
+        "https://www.rtings.com/keyboard/reviews/kinesis/freestyle-edge-rgb",
+        "https://www.pcgamer.com/kinesis-gaming-freestyle-edge-rgb-review/",
+        "https://gaming.kinesis-ergo.com/fs-edge-rgb-support/#smartset"
+      ],
+      "amazon_url": "https://www.amazon.com/KINESIS-Gaming-Freestyle-Mechanical-Keyboard/dp/B07STXYG5T",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/8hOLVIOyUnkrsGyX5T9JSkzTbqb3DOgwLtGR5vcOV9A/rs:fit:0:180:1:0/g:ce/aHR0cHM6Ly9pLmVi/YXlpbWcuY29tL2lt/YWdlcy9nL0ZJSUFB/ZVN3bGZ4cEpMczMv/cy1sMjI1LmpwZw",
+      "resolver": "brave",
+      "valid": true
+    }
+  ],
+  "resolvedLinks": {
+    "https://www.tomsguide.com/us/best-ergonomic-keyboards%2Creview-3684.html": {
+      "title": "The best keyboards in 2026 — tested and reviewed",
+      "description": "These are the best keyboards for typing, working and gaming that we recommend",
+      "image": "https://cdn.mos.cms.futurecdn.net/ZuPoPnNcmXBNQRkacd7VL8-1920-80.jpg",
+      "url": "https://www.tomsguide.com/best-picks/best-keyboard"
+    },
+    "https://tech.yahoo.com/computing/articles/best-ergonomic-keyboards-2025-153015575.html": {
+      "title": "The Best Ergonomic Keyboards of 2025",
+      "description": "Keep your wrist health in mind with these keyboards.",
+      "image": "https://s.yimg.com/ny/api/res/1.2/Io7At0tVhgql2n7ogp46iA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/how_to_geek_999/4c943b98c69989c6846bd2f380a6cf11",
+      "url": "https://www.howtogeek.com/best-ergonomic-keyboards/"
+    },
+    "https://fado.vn/us/amazon/microsoft-sculpt-ergonomic-wireless-desktop-keyboard-and-mouse-black-wireless-comfortable-ergonomic-keyboard-and-mouse-combo-with-split-design-and-palm-rest-B00CYX54C0.html": {
+      "title": "Mua Microsoft Sculpt Ergonomic Wireless Desktop Keyboard and Mouse - Black. Wireless , Comfortable, Ergonomic Keyboard and Mouse Combo with Split Design and Palm Rest. trên Amazon Mỹ chính hãng 2026 | Fado",
+      "description": "Mua sản phẩm Microsoft Sculpt Ergonomic Wireless Desktop Keyboard and Mouse - Black. Wireless , Comfortable, Ergonomic Keyboard and Mouse Combo with Split Design and Palm Rest. trên Amazon Mỹ chính hãng 2026 | Fado",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/51uJicP5JHL.jpg",
+      "url": "https://fado.vn/us/amazon/microsoft-sculpt-ergonomic-wireless-desktop-keyboard-and-mouse-black-wireless-comfortable-ergonomic-keyboard-and-mouse-combo-with-split-design-and-palm-rest-B00CYX54C0.html"
+    },
+    "https://www.rtings.com/keyboard/reviews/kinesis/freestyle-edge-rgb": {
+      "title": "Kinesis Freestyle Edge RGB Review",
+      "description": "The Kinesis Freestyle Edge RGB is a fantastic gaming keyboard with a unique design. It's a fully split keyboard, meaning it has two halves that you can place how...",
+      "image": "https://i.rtings.com/assets/products/trvWbdni/kinesis-freestyle-edge-rgb/design-medium.jpg?format=auto",
+      "url": "https://www.rtings.com/keyboard/reviews/kinesis/freestyle-edge-rgb"
+    },
+    "https://www.pcgamer.com/kinesis-gaming-freestyle-edge-rgb-review/": {
+      "title": "Kinesis Gaming Freestyle Edge RGB review",
+      "description": "A near-perfect but pricey ergonomic keyboard for PC gamers.",
+      "image": "https://cdn.mos.cms.futurecdn.net/cwAyGNuRXBLnBUQqSFdRi6-1920-80.jpg",
+      "url": "https://www.pcgamer.com/kinesis-gaming-freestyle-edge-rgb-review/"
+    }
+  }
+}

@@ -1,0 +1,104 @@
+{
+  "slug": "wifi-extenders",
+  "query": "best wi‑fi extenders",
+  "title": "Best wi‑fi extenders | Bin Diving",
+  "description": "AI-dug recommendations for best wi‑fi extenders. Compare options and find one that fits.",
+  "dugAt": "2026-03-18T19:13:09.898Z",
+  "recommendations": [
+    {
+      "product_name": "TP-Link RE715X AX3000 Wi‑Fi 6 Range Extender (RE715X)",
+      "pros": [
+        "Wi‑Fi 6 speeds (AX3000)",
+        "EasyMesh/OneMesh support",
+        "Good value for performance"
+      ],
+      "cons": [
+        "Some users report setup quirks",
+        "Not tri‑band (shared backhaul)"
+      ],
+      "price": null,
+      "amazon_id": "B0B8BVY12V",
+      "sources": [
+        "https://download.axilogi.com/TP-Link/Datasheet/RE715X.pdf",
+        "https://device.report/tp-link/re715x"
+      ],
+      "amazon_url": "https://www.amazon.com/TP-Link-Extender-RE715X-Repeater-Compatible/dp/B0B8BVY12V",
+      "gpt_azn": "B0B8BVY12V",
+      "image_url": "https://imgs.search.brave.com/ENZFbsPFNvE5CVP3v5lvg-KsGNHSeoJ68PqnPP8zQ64/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9zdGF0/aWMudHAtbGluay5j/b20vdXBsb2FkL2lt/YWdlLWxpbmUvUkU3/MTVYX0VVXzEuMF8w/N19ub3JtYWxfMjAy/MjAzMTgxMDExMTR4/LmpwZw",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "NETGEAR EAX15 AX1800 Wi‑Fi 6 Mesh Extender (EAX15)",
+      "pros": [
+        "Compact wall‑plug design",
+        "Wi‑Fi 6 with smart roaming support",
+        "WPA3 security support"
+      ],
+      "cons": [
+        "Limited range vs larger extenders",
+        "Mixed user reports about stability"
+      ],
+      "price": null,
+      "amazon_id": "B08K2ZX2RY",
+      "sources": [
+        "https://www.downloads.netgear.com/files/GDC/datasheet/en/EAX15.pdf",
+        "https://bgr.com/2105200/best-worst-wifi-extenders-consumer-reports/"
+      ],
+      "amazon_url": "https://www.amazon.com/NETGEAR-WiFi-Range-Extender-EAX15/dp/B08K2ZX2RY",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/kj5aN6YNd7GbsE05QcJc4uFS0X9Y0mcL5Cua4VdReg4/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly92ZXJk/aS5jb20vY2RuL3No/b3AvZmlsZXMvZWF4/MTUtMTAwbmFyLTYu/anBnP3Y9MTc0Njgy/Mjk0MCZ3aWR0aD0y/NTAw",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "TP‑Link RE650 AC2600 Wi‑Fi Range Extender (RE650)",
+      "pros": [
+        "Strong AC2600 throughput for older devices",
+        "Ethernet port for wired backhaul",
+        "Well‑tested reliable performance"
+      ],
+      "cons": [
+        "Wi‑Fi 5 only (not Wi‑Fi 6)",
+        "Physically large plug design"
+      ],
+      "price": null,
+      "amazon_id": "B01MR90E3A",
+      "sources": [
+        "https://www.tp-link.com/us/home-networking/range-extender/re650/",
+        "https://manuals.plus/asin/B01MR90E3A"
+      ],
+      "amazon_url": "https://www.amazon.com/Extender-2600Mbps-Repeater-Internet-RE650/dp/B01MR90E3A",
+      "gpt_azn": "B01MR90E3A",
+      "image_url": "https://imgs.search.brave.com/FatKB9Lqus9PrQ8LwxBEhnNDQsOpL2LWZEuYS8iPPIk/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9jZG4u/bW9zLmNtcy5mdXR1/cmVjZG4ubmV0L3My/N3ZMRWdYa3J2UUR6/OFlOaUw5dEMuanBn",
+      "resolver": "brave",
+      "valid": true
+    }
+  ],
+  "resolvedLinks": {
+    "https://download.axilogi.com/TP-Link/Datasheet/RE715X.pdf": {
+      "title": "",
+      "description": "",
+      "image": "",
+      "url": "https://download.axilogi.com/TP-Link/Datasheet/RE715X.pdf"
+    },
+    "https://www.downloads.netgear.com/files/GDC/datasheet/en/EAX15.pdf": {
+      "title": "",
+      "description": "",
+      "image": "",
+      "url": "https://www.downloads.netgear.com/files/GDC/datasheet/en/EAX15.pdf"
+    },
+    "https://bgr.com/2105200/best-worst-wifi-extenders-consumer-reports/": {
+      "title": "3 Wi-Fi Extenders Worth Buying (And 2 To Avoid), According To Consumer Reports - BGR",
+      "description": "Wi-Fi extenders can help you give your home or office's wi-fi signal a boost, but which are the models worth buying? Here's what Consumer Reports recommends.",
+      "image": "https://www.bgr.com/img/gallery/3-wi-fi-extenders-worth-buying-and-2-to-avoid-according-to-consumer-reports/l-intro-1771510137.jpg",
+      "url": "https://www.bgr.com/2105200/best-worst-wifi-extenders-consumer-reports/"
+    },
+    "https://www.tp-link.com/us/home-networking/range-extender/re650/": {
+      "title": "AC2600 Wi-Fi Range Extender",
+      "description": "The TP-Link Tri-band WiFi Range Extender, RE650, boosts WiFi signals throughout your home. Enjoy uninterrupted high speed internet and Eliminate WiFi dead zones once for all.",
+      "image": "https://static.tp-link.com/RE650(US)-01_1481178895901z.jpg",
+      "url": "https://www.tp-link.com/us/home-networking/range-extender/re650/"
+    }
+  }
+}

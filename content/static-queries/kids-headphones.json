@@ -1,0 +1,118 @@
+{
+  "slug": "kids-headphones",
+  "query": "best kids headphones",
+  "title": "Best kids headphones | Bin Diving",
+  "description": "AI-dug recommendations for best kids headphones. Compare options and find one that fits.",
+  "dugAt": "2026-03-18T22:31:16.701Z",
+  "recommendations": [
+    {
+      "product_name": "Puro Sound Labs BT2200 Kids Wireless Headphones",
+      "pros": [
+        "Excellent sound quality",
+        "Volume-limited for safe listening",
+        "Sturdy build for kids"
+      ],
+      "cons": [
+        "Higher price than basic kids models",
+        "Not the smallest fit for very young toddlers"
+      ],
+      "price": null,
+      "amazon_id": "B0C3T39C58",
+      "sources": [
+        "https://www.soundguys.com/puro-sound-labs-bt2200-review-89807/",
+        "https://www.techwalls.com/puro-sound-labs-bt2200-kids-wireless-headphones-review/"
+      ],
+      "amazon_url": "https://www.amazon.com/Puro-Sound-Labs-Bluetooth-Headphones/dp/B0C3T39C58",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/PHeSkGykWYglwBRj9b79vIZxIPd4h14K0-i2AXmBg0w/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9iMmMt/Y29udGVudGh1Yi5j/b20vd3AtY29udGVu/dC91cGxvYWRzLzIw/MjMvMTEvUHVyby1C/VDIyMDAtUGx1cy13/aXRoLWNhc2UuanBn/P3F1YWxpdHk9NTAm/c3RyaXA9YWxsJnc9/MTIwMA",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "JBL Junior 470NC (JBL JR 470NC)",
+      "pros": [
+        "Active noise cancellation tailored for kids",
+        "JBL Safe Sound volume limiting (≤85 dB)",
+        "Long battery life and parental controls via app"
+      ],
+      "cons": [
+        "May be too quiet in very noisy environments (e.g., airplanes)",
+        "Designed specifically for young children — limited bass for older kids"
+      ],
+      "price": null,
+      "amazon_id": "B0DVTDRGRW",
+      "sources": [
+        "https://support.jbl.com/on/demandware.static/-/Sites-masterCatalog_Harman/default/dwa892b498/pdfs/JBL_JUNIOR_470NC_Specsheet_EN.pdf",
+        "https://www.bestbuy.com/site/jbl-junior-470nc-wireless-noise-cancelling-kids-over-ear-headphones-safe-sound-85db-fit-for-kids-parental-control-white/10209370.p?skuId=10209370",
+        "https://los40.com/2024/11/29/jbl-lanza-sus-auriculares-junior-con-sonido-seguro-para-los-mas-pequenos/"
+      ],
+      "amazon_url": "https://www.amazon.com/JBL-Junior-470NC-Cancelling-Customizable/dp/B0DVTDRGRW",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/uNVMQ3VuVWtc7uQMb4yBCyVk0rKGf8PzUAprsrfzKLU/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly93d3cu/amJsLmNvbS9kdy9p/bWFnZS92Mi9CRk5E/X1BSRC9vbi9kZW1h/bmR3YXJlLnN0YXRp/Yy8tL1NpdGVzLW1h/c3RlckNhdGFsb2df/SGFybWFuL2RlZmF1/bHQvZHdlNjJkOTAw/OC8wNi5KQkxfSnVu/aW9yJTIwNDcwTkNf/UHJvZHVjdCUyMElt/YWdlX0RldGFpbF9H/cmV5LnBuZz9zdz01/MzUmc2g9NTM1",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "BuddyPhones Explore+ (BuddyPhones Explore Plus)",
+      "pros": [
+        "Volume-limited SafeAudio and BuddyJack sharing feature",
+        "Durable, foldable design for travel and school",
+        "Reliable wired option with in-line mic"
+      ],
+      "cons": [
+        "Wired design (no Bluetooth) on some models",
+        "Earpad seal less effective for passive noise isolation"
+      ],
+      "price": null,
+      "amazon_id": "B096K6JL7D",
+      "sources": [
+        "https://www.buddyphones.com/collections/best-kids-headphones",
+        "https://headphonesaddict.com/buddyphones-explore-review/",
+        "https://www.wired.com/gallery/the-best-kids-headphones/"
+      ],
+      "amazon_url": "https://www.amazon.com/BuddyPhones-Explore-Limiting-Headphones-Sharing/dp/B096K6JL7D",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/yq7YtqOFL8M4eRq6wXJtNZehJVS_9zeSTvNQYUGXRdU/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly90YXJn/ZXQuc2NlbmU3LmNv/bS9pcy9pbWFnZS9U/YXJnZXQvR1VFU1Rf/OWI1MzEzYTctMjIy/YS00MTY2LWE0NDkt/MmYxODIzYjgxYWY4/P3dpZD04MDAmaGVp/PTgwMCZxbHQ9ODAm/Zm10PXBqcGVn",
+      "resolver": "brave",
+      "valid": true
+    }
+  ],
+  "resolvedLinks": {
+    "https://www.techwalls.com/puro-sound-labs-bt2200-kids-wireless-headphones-review/": {
+      "title": "Puro Sound Labs BT2200 Kids Wireless Headphones Review - Healthy Ears for your Children",
+      "description": "",
+      "image": "",
+      "url": "https://www.techwalls.com/puro-sound-labs-bt2200-kids-wireless-headphones-review/"
+    },
+    "https://support.jbl.com/on/demandware.static/-/Sites-masterCatalog_Harman/default/dwa892b498/pdfs/JBL_JUNIOR_470NC_Specsheet_EN.pdf": {
+      "title": "",
+      "description": "",
+      "image": "",
+      "url": "https://support.jbl.com/on/demandware.static/-/Sites-masterCatalog_Harman/default/dwa892b498/pdfs/JBL_JUNIOR_470NC_Specsheet_EN.pdf"
+    },
+    "https://los40.com/2024/11/29/jbl-lanza-sus-auriculares-junior-con-sonido-seguro-para-los-mas-pequenos/": {
+      "title": "JBL lanza sus auriculares Junior con sonido seguro para los más pequeños | Dispositivos | LOS40",
+      "description": "Una nueva gama para niñxs que une seguridad y comodidad",
+      "image": "https://los40.com/resizer/v2/XX7H5EUWPFFDJOHODBMGLVCOO4.jpg?auth=4803301a9bd111943da0e6a857ac732cea8cc83106f285b61404a3d5451f3cbe&quality=70&width=1200&height=675&focal=551,366",
+      "url": "https://los40.com/2024/11/29/jbl-lanza-sus-auriculares-junior-con-sonido-seguro-para-los-mas-pequenos/"
+    },
+    "https://www.buddyphones.com/collections/best-kids-headphones": {
+      "title": "All BuddyPhones",
+      "description": "BuddyPhones are the best reviewed kids' headphones. Created just for kids, BuddyPhones will always be kid-safe, kid-proof and kid-friendly. All BuddyPhones are the toughest, safest sound solution available for kids and are made to withstand long days of use without parents having to worry about their hearing.",
+      "image": "http://www.buddyphones.com/cdn/shop/products/School_wirelessblue_1200x630.jpg?v=1648814669",
+      "url": "https://www.buddyphones.com/collections/best-kids-headphones"
+    },
+    "https://headphonesaddict.com/buddyphones-explore-review/": {
+      "title": "BuddyPhones Explore+ Review - Affordable Kids' Headphones",
+      "description": "If you look for budget headphones for toddlers, BuddyPhones Explore+ are a good place to start.",
+      "image": "https://headphonesaddict.com/wp-content/uploads/2022/02/BuddyPhones-Explore-on-a-blanket.jpg",
+      "url": "https://headphonesaddict.com/buddyphones-explore-review/"
+    },
+    "https://www.wired.com/gallery/the-best-kids-headphones/": {
+      "title": "Protect Your Kids' Hearing With Volume-Limited Headphones",
+      "description": "If you use screens for work and play, your child probably does too. These are the best pairs we’ve bought and tested for our own kids.",
+      "image": "https://media.wired.com/photos/68673298cf92a64e6097d0b1/191:100/w_1280,c_limit/The%20Best%20Kids%E2%80%99%20Headphones%20for%20Sensitive%20Little%20Ears.png",
+      "url": "https://www.wired.com/gallery/the-best-kids-headphones/"
+    }
+  }
+}

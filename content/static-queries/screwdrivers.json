@@ -1,0 +1,95 @@
+{
+  "slug": "screwdrivers",
+  "query": "best screwdrivers",
+  "title": "Best screwdrivers | Bin Diving",
+  "description": "AI-dug recommendations for best screwdrivers. Compare options and find one that fits.",
+  "dugAt": "2026-03-18T16:12:58.730Z",
+  "recommendations": [
+    {
+      "product_name": "Wiha 30277 SoftFinish 5-Piece Slotted & Phillips Screwdriver Set",
+      "pros": [
+        "Precision-machined tips",
+        "Comfort SoftFinish handles"
+      ],
+      "cons": [
+        "Small set — limited sizes",
+        "Non-magnetic tips"
+      ],
+      "price": null,
+      "amazon_id": "B07PJM6N87",
+      "sources": [
+        "https://www.wihatools.com/products/150-tier-5-piece-softfinish-slotted-and-phillips-screwdriver-set",
+        "https://www.homedepot.com/p/313579510"
+      ],
+      "amazon_url": "https://www.amazon.com/Wiha-SoftFinish-Slotted-Phillips-Screwdriver/dp/B07PJM6N87",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/60uG7UQrniro6mgjD8Pg_JofG7HokIETGAUN_wiXF7w/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9jZG4x/MS5iaWdjb21tZXJj/ZS5jb20vcy1rbzk2/Y2U0b2Y4L2ltYWdl/cy9zdGVuY2lsLzUw/MHg2NTkvcHJvZHVj/dHMvMTUyNjQ1LzE3/MDAwMS9lOHhpZHBp/b21vZTRpbXdtbnl2/Zl9fNTgyMTAuMTc1/NjQxODcwMC5wbmc_/Yz0y",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "Wera Kraftform Plus Insulated Screwdriver Set, 6-Piece",
+      "pros": [
+        "Ergonomic Kraftform handles",
+        "VDE/insulated options for electrical work"
+      ],
+      "cons": [
+        "Higher price than basic sets",
+        "Some users report wear on bit-storage models"
+      ],
+      "price": null,
+      "amazon_id": "B07MFW6B98",
+      "sources": [
+        "https://www.bestchoice.com/review/Wera-Kraftform-Plus-160i/168i/6-Insulated-Professional-Screwdriver-Set-E69chm4khw",
+        "https://shopsavvy.com/reviews-tldr/%22wera-kraftform-plus-insulated-screwdriver-set-6-piece%22"
+      ],
+      "amazon_url": "https://www.amazon.com/Wera-Kraftform-Insulated-Professional-Screwdriver/dp/B07MFW6B98",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/FDCTZAGeKa82Z7MHhUiHcdEL9rbzrPd11k3rtIzAv0I/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9pbWFn/ZXMudG9vbGVkLXVw/LmNvbS9hcnR3b3Jr/L3Byb2R6b29tLzA1/MDA2MTQ4MDAxLmpw/Zz93PTM1MCZoPTM1/MCZxPTgw",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "Klein Tools 32500 11-in-1 Multi-Bit Screwdriver / Nut Driver",
+      "pros": [
+        "Versatile multi-bit + nut driver sizes",
+        "Durable, trade-grade construction"
+      ],
+      "cons": [
+        "Multi-bit tools can be bulkier than individual drivers",
+        "Bits may be limited for specialty heads"
+      ],
+      "price": null,
+      "amazon_id": "B0015SBILG",
+      "sources": [
+        "https://www.kleintools.com/catalog/multi-bit-nut-drivers/impact-rated-multi-bit-screwdriver-nut-driver-11-1",
+        "https://discompare.com/product/klein-tools-11-in-1-screwdriver-nut-driver-set-8-bits/"
+      ],
+      "amazon_url": "https://www.amazon.com/Screwdriver-Industrial-Strength-Klein-Tools/dp/B0015SBILG",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/WP5h63QBUstiPgwAON-QvPguIGvQNJqRTafqUgax_c8/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9oYXVz/b2Z0b29scy5jb20v/Y2RuL3Nob3AvZmls/ZXMvMzI1MDBoZF9i/ZWF1dHlyXzEuanBn/P3Y9MTY4ODQwOTUy/MiZ3aWR0aD0xMDgw",
+      "resolver": "brave",
+      "valid": true
+    }
+  ],
+  "resolvedLinks": {
+    "https://www.bestchoice.com/review/Wera-Kraftform-Plus-160i/168i/6-Insulated-Professional-Screwdriver-Set-E69chm4khw": {
+      "title": "",
+      "description": "",
+      "image": "",
+      "url": "https://www.bestchoice.com/review/Wera-Kraftform-Plus-160i/168i/6-Insulated-Professional-Screwdriver-Set-E69chm4khw"
+    },
+    "https://shopsavvy.com/reviews-tldr/%22wera-kraftform-plus-insulated-screwdriver-set-6-piece%22": {
+      "title": "\"Wera Kraftform Plus Insulated Screwdriver Set, 6-Piece\" - ShopSavvy TLDR Review",
+      "description": "Pros:\n\n- Ergonomic design minimizes hand fatigue during prolonged use\n- Precision tips reduce the risk of slipping and damaging fasteners\n- Insulated for safety when working with electrical components...",
+      "image": "https://x.shopsavvy.com/https://x.shopsavvy.com/https://images-na.ssl-images-amazon.com/images/I/51kesOa%2BJ7L.jpg",
+      "url": "https://shopsavvy.com/reviews-tldr/\"wera-kraftform-plus-insulated-screwdriver-set-6-piece\""
+    },
+    "https://www.kleintools.com/catalog/multi-bit-nut-drivers/impact-rated-multi-bit-screwdriver-nut-driver-11-1": {
+      "title": "Impact Rated Multi-Bit Screwdriver / Nut Driver, 11-in-1 - 32500HD | Klein Tools",
+      "description": "This impact rated multi-tool brings a new-to-world design to a classic 11-in-1 screwdriver. Each component is compatible with an impact driver, as well as the included screwdriver handle, eliminating the need to carry separate power tool accessories. The tool houses 7 popular tips and converts to 4 nut driver sizes. It's the familiar feel of a multi-bit screwdriver, with the added utility to complete any job.",
+      "image": "https://www.kleintools.com/sites/default/files/product-assets/catalog-imagery/original/klein/32500hd_b.jpg",
+      "url": "https://www.kleintools.com/catalog/multi-bit-nut-drivers/impact-rated-multi-bit-screwdriver-nut-driver-11-1"
+    }
+  }
+}

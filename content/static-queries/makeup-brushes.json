@@ -1,0 +1,115 @@
+{
+  "slug": "makeup-brushes",
+  "query": "best makeup brushes",
+  "title": "Best makeup brushes | Bin Diving",
+  "description": "AI-dug recommendations for best makeup brushes. Compare options and find one that fits.",
+  "dugAt": "2026-03-18T18:13:17.042Z",
+  "recommendations": [
+    {
+      "product_name": "Sigma Beauty Essential Travel Brush Set",
+      "pros": [
+        "Durable professional-grade bristles",
+        "Compact travel-friendly case"
+      ],
+      "cons": [
+        "Higher price than drugstore sets",
+        "Limited brush count for full kit"
+      ],
+      "price": null,
+      "amazon_id": "B085H5RKJN",
+      "sources": [
+        "https://www.whowhatwear.com/best-makeup-brush-gift-sets",
+        "https://sigmabeauty.com/products/essential-travel-brush-set",
+        "https://www.allure.com/gallery/best-makeup-brushes"
+      ],
+      "amazon_url": "https://www.amazon.com/Sigma-Beauty-Essential-Foundation-Eyeshadow/dp/B085H5RKJN",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/ryEb-l-ZAIE_CqJNwa4_s_uXqADskaOF9ZVlPxtRs6E/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9vaGJl/YXV0eS5jb20vY2Ru/L3Nob3AvZmlsZXMv/RXNzZW50aWFsX1Ry/YXZlbF9CcnVzaF9T/ZXRfMDAwMDUud2Vi/cD92PTE3MTQxNTY4/MDY",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "Real Techniques Everyday Essentials Makeup Brush Set",
+      "pros": [
+        "Affordable and widely recommended",
+        "Good starter set with sponge included"
+      ],
+      "cons": [
+        "Not as luxurious as high-end brushes",
+        "Some users report occasional shedding over long term"
+      ],
+      "price": null,
+      "amazon_id": "B07FTXBNVL",
+      "sources": [
+        "https://www.today.com/shop/best-amazon-makeup-brush-deals-rcna107968",
+        "https://realtechniques.com/products/everyday-eye-essentials-makeup-brush-kit",
+        "https://www.yahoo.com/lifestyle/15-best-makeup-brush-sets-195045356.html"
+      ],
+      "amazon_url": "https://www.amazon.com/Real-Techniques-1786M-Everyday-Essentials/dp/B07FTXBNVL",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/Vdh5_TY2woxslcIaEAPcFJvi3haQptFIwNefZRECydU/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9pLmVi/YXlpbWcuY29tL2lt/YWdlcy9nL1ZBY0FB/T1N3M2VKbUt-LTUv/cy1sMjI1LmpwZw",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "Artis Elite 5 Brush Set",
+      "pros": [
+        "Unique ergonomic design for smooth application",
+        "High-end luxury finish and dense synthetic fibers"
+      ],
+      "cons": [
+        "Premium price",
+        "May be overkill for basic everyday use"
+      ],
+      "price": null,
+      "amazon_id": "B0DP5CCPS4",
+      "sources": [
+        "https://time.com/7178660/luxury-gift-guide/",
+        "https://byartis.com/products/elite-5-brush-set-in-mirror"
+      ],
+      "amazon_url": "https://www.amazon.com/Artis-Elite-Mirror-Finish-Makeup/dp/B0DP5CCPS4",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/urhkNgqnuZPdvnYpDmMT-5fqOxRq44FdR3QQRAYkvP0/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9pLmVi/YXlpbWcuY29tL2lt/YWdlcy9nL1h1Y0FB/T1N3WkhSa2pNc3Ev/cy1sNDAwLndlYnA",
+      "resolver": "brave",
+      "valid": true
+    }
+  ],
+  "resolvedLinks": {
+    "https://www.whowhatwear.com/best-makeup-brush-gift-sets": {
+      "title": "Makeup Brush Sets Can Be Hit-or-Miss, But Reviews Say These 13 Are Always \"Hit\"",
+      "description": "Reviewers and celebrity makeup artists are raving—these makeup brush gift sets are the best on the market. Click in and discover the best of the best.",
+      "image": "https://cdn.mos.cms.futurecdn.net/whowhatwear/posts/296521/best-makeup-brush-gift-sets-296521-1700521964950-fb-1200-80.jpg",
+      "url": "https://www.whowhatwear.com/best-makeup-brush-gift-sets"
+    },
+    "https://sigmabeauty.com/products/essential-travel-brush-set": {
+      "title": "Essential Travel Brush Set",
+      "description": "Travel light with the Essential Travel Brush Set. Includes seven travel-sized brushes, for convenient and flawless makeup application wherever you go.",
+      "image": "http://sigmabeauty.com/cdn/shop/files/1080-2025_PDPs_Essential-Travel_035.jpg?v=1759175726&width=2048",
+      "url": "https://sigmabeauty.com/products/essential-travel-brush-set"
+    },
+    "https://www.allure.com/gallery/best-makeup-brushes": {
+      "title": "Perfect Every Step of Your Makeup Routine With These Versatile Brushes",
+      "description": "Allure-approved tools of the trade.",
+      "image": "https://media.allure.com/photos/67111cdb63c839dbd1cf329a/16:9/w_1280,c_limit/best%20makeup%20brushes%20102024%20Lede.jpg",
+      "url": "https://www.allure.com/gallery/best-makeup-brushes-for-every-part-of-your-routine"
+    },
+    "https://www.today.com/shop/best-amazon-makeup-brush-deals-rcna107968": {
+      "title": "When was the last time you replaced your makeup tools? 20 brushes, sponges and cleaners",
+      "description": "Blend, swipe and set your makeup with these top-rated and editor-approved picks.",
+      "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_social_share_1200x630_center,f_auto,q_auto:best/rockcms/2023-09/230920-makeup-brushes-oo-main-667d27.jpg",
+      "url": "https://www.today.com/shop/best-amazon-makeup-brush-deals-rcna107968"
+    },
+    "https://realtechniques.com/products/everyday-eye-essentials-makeup-brush-kit": {
+      "title": "Everyday Eye Essentials Makeup Brush Set",
+      "description": "Our everyday eye set has every brush you need to create flawless eye looks from natural to glam.",
+      "image": "http://realtechniques.com/cdn/shop/files/1991_RT_EverydayEyeEssentials_OOP_Front_300dpiRGB_1200x.jpg?v=1683304172",
+      "url": "https://realtechniques.com/products/everyday-eye-essentials-makeup-brush-kit"
+    },
+    "https://www.yahoo.com/lifestyle/15-best-makeup-brush-sets-195045356.html": {
+      "title": "The 20 Best Makeup Brush Sets for Every Level of Mastery",
+      "description": "Whether you're a beginner or a pro, these bestselling brush sets will help you achieve flawless results.",
+      "image": "https://s.yimg.com/os/en/wwd_409/8a7d08aa0aec4868d4c35e8edbfa2854",
+      "url": "https://www.yahoo.com/lifestyle/15-best-makeup-brush-sets-195045356.html"
+    }
+  }
+}

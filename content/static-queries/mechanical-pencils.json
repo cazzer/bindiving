@@ -1,0 +1,92 @@
+{
+  "slug": "mechanical-pencils",
+  "query": "best mechanical pencils",
+  "title": "Best mechanical pencils | Bin Diving",
+  "description": "AI-dug recommendations for best mechanical pencils. Compare options and find one that fits.",
+  "dugAt": "2026-03-18T22:29:02.838Z",
+  "recommendations": [
+    {
+      "product_name": "rOtring 600 Mechanical Pencil 0.5 mm",
+      "pros": [
+        "All-metal, durable build",
+        "Excellent balance and weight",
+        "Precise drafting tip"
+      ],
+      "cons": [
+        "Heavier than plastic pencils",
+        "Knurled grip can feel abrasive"
+      ],
+      "price": null,
+      "amazon_id": "B00AZWYUA4",
+      "sources": [
+        "https://www.jetpens.com/Rotring-600-Drafting-Pencil-0.5-mm-Black/pd/6435",
+        "https://www.bestreviews.guide/engineer-pencils/rotring-600-mechanical-pencil-0.5mm-black-b00azwyua4"
+      ],
+      "amazon_url": "https://www.amazon.com/rOtring-Barrel-Mechanical-Pencil-1904443/dp/B00AZWYUA4",
+      "gpt_azn": "B00AZWYUA4",
+      "image_url": "https://imgs.search.brave.com/SGEIpX9HjgUQCnZdCBXlM0C6E0_7YDrnOj6cV9EAKrs/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9zdGF0/aWMucGxhdGZvcm0u/bWljaGFlbHMuY29t/LzJjLXByZC9lbl9V/Uy80NjEyMTMwMzAw/NjIzMTEwNjQwLmpw/ZWc_Zml0PWluc2lk/ZXwxMjgwOjEyODA",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "Pentel GraphGear 1000 Drafting Pencil (0.5 mm)",
+      "pros": [
+        "Comfortable knurled grip",
+        "Good precision for drafting/sketching",
+        "Affordable mid-range build quality"
+      ],
+      "cons": [
+        "Some reported durability/oxidation issues",
+        "Plastic elements vs. all-metal options"
+      ],
+      "price": null,
+      "amazon_id": "B001E3GUBK",
+      "sources": [
+        "https://www.jetpens.com/Pentel-GraphGear-1000-Drafting-Pencil-0.5-mm/pd/639",
+        "https://www.pentel.com/collections/writing-instruments/products/graphgear-1000-collectors-set"
+      ],
+      "amazon_url": "https://www.amazon.com/Pentel-Graph-Drafting-Pencil-0-5mm/dp/B001E3GUBK",
+      "gpt_azn": "B01AEAIBKQ",
+      "image_url": "https://imgs.search.brave.com/hJo4-S2WB-1HHKGkKmUYkx4-ilpsjE8GThYCQIZi8JU/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly93d3cu/cGVudGVsLmNvbS9j/ZG4vc2hvcC9maWxl/cy9ncmFwaGdlYXIt/MTAwMC1tZWNoYW5p/Y2FsLWRyYWZ0aW5n/LXBlbmNpbC0wNW1t/LWxpbWl0ZWQtZWRp/dGlvbi1nb2xkLWFj/Y2VudHNwZzEwMTVj/eHgtdGItODQ0ODc2/Ny5qcGc_dj0xNzYx/NDk0NjA1JndpZHRo/PTMwMDA",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "Uni Kuru Toga Mechanical Pencil (0.5 mm)",
+      "pros": [
+        "Kuru Toga rotating lead mechanism keeps a sharp point",
+        "Lightweight and consistent line width",
+        "Good for long writing sessions"
+      ],
+      "cons": [
+        "Mechanism adds complexity (possible failure over long term)",
+        "Less heft for heavy-handed users"
+      ],
+      "price": null,
+      "amazon_id": "B0026ICM1E",
+      "sources": [
+        "https://www.jetpens.com/Uni-Alpha-Gel-Kuru-Toga-Mechanical-Pencil-0.5-mm-Black-Grip/pd/5627",
+        "https://kurutoga.com/"
+      ],
+      "amazon_url": "https://www.amazon.com/uni-ball-KuruToga-Mechanical-Pencil-0-5mm/dp/B0026ICM1E",
+      "gpt_azn": "B004OHNR0A",
+      "image_url": "https://imgs.search.brave.com/HwPVux6VHWl-mOG4gXGMj6d1IKJ0owB9Juynlzj3Mvc/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9zdGF0/aWMyLmpldHBlbnMu/Y29tL2ltYWdlcy9h/LzAwMC8wODcvODcy/NDkuanBnP2JsZW5k/NjQ9ZDJGMFpYSnRZ/WEpyTWk1d2JtYyZ3/PTYwMCZzPWU0NjVj/NWYzZWMwOGExYjY5/ZjMzMjZkZjM2NjBl/OWYw",
+      "resolver": "brave",
+      "valid": true
+    }
+  ],
+  "resolvedLinks": {
+    "https://www.pentel.com/collections/writing-instruments/products/graphgear-1000-collectors-set": {
+      "title": "GraphGear 1000 Mechanical Pencil Collectors Set - Shop at Pentel.com",
+      "description": "GraphGear 1000 Mechanical Pencil Collectors Set – Mechanical Pencil Experience precision and - Shop at Pentel.com",
+      "image": "http://www.pentel.com/cdn/shop/files/graphgear-1000-mechanical-pencil-collectors-setpg1000bxset-2784075.jpg?v=1766057767",
+      "url": "https://www.pentel.com/products/graphgear-1000-collectors-set"
+    },
+    "https://kurutoga.com/": {
+      "title": "KURU TOGA Pencils | Writing Supplies Premium",
+      "description": "Write with precision using KURU TOGA pencils and supplies - self-sharpening, smooth, and perfect for students, artists, and professionals.",
+      "image": "",
+      "url": "https://kurutoga.com/"
+    }
+  }
+}

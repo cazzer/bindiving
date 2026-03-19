@@ -1,0 +1,102 @@
+{
+  "slug": "hiking-socks",
+  "query": "best hiking socks",
+  "title": "Best hiking socks | Bin Diving",
+  "description": "AI-dug recommendations for best hiking socks. Compare options and find one that fits.",
+  "dugAt": "2026-03-18T18:28:48.499Z",
+  "recommendations": [
+    {
+      "product_name": "Darn Tough Hiker Micro Crew (Merino Wool)",
+      "pros": [
+        "Very durable",
+        "Good cushioning for long miles"
+      ],
+      "cons": [
+        "Can be warm in hot/humid conditions",
+        "Some reports of counterfeit sellers on marketplaces"
+      ],
+      "price": null,
+      "amazon_id": "B01AIMKX2E",
+      "sources": [
+        "https://gearjunkie.com/outdoor/hiking/best-hiking-socks",
+        "https://www.switchbacktravel.com/best-hiking-socks",
+        "https://www.ofzenandcomputing.com/best-merino-wool-socks-hiking/"
+      ],
+      "amazon_url": "https://www.amazon.com/TOUGH-Merino-Cushion-Factory-X-Large/dp/B01AIMKX2E",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/wmiaYayKtLy_7W4fNw1L_SPQ0JzFKXmNLuWlx_CQ0XQ/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9tLm1l/ZGlhLWFtYXpvbi5j/b20vaW1hZ2VzL0kv/NTE0QnpSbHlSdUwu/anBn",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "Smartwool Hike Light Crew (Merino Wool)",
+      "pros": [
+        "Breathable, good moisture control",
+        "Light cushioning and comfortable fit"
+      ],
+      "cons": [
+        "Less durable than heavier-duty options for some users",
+        "Can be pricier than generic brands"
+      ],
+      "price": null,
+      "amazon_id": "B0787LH9KC",
+      "sources": [
+        "https://gearjunkie.com/outdoor/hiking/best-hiking-socks",
+        "https://www.rei.com/learn/expert-advice/best-hiking-socks.html"
+      ],
+      "amazon_url": "https://www.amazon.com/SmartWool-Mens-Hiking-Light-Crew/dp/B0787LH9KC",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/KVfvHGu1-CbtcLe6PmeqiE51nsMAuBzXC8MfDxNQN74/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly93d3cu/Z29icm9zLmNvbS9j/ZG4vc2hvcC9maWxl/cy9TVzAwMTg5NjIz/Ni0xLXAuanBnP3Y9/MTczNzc1NDUxMCZ3/aWR0aD0xMjE0",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "INJINJI Ultra Run No-Show Wool (Merino toe socks)",
+      "pros": [
+        "Individual-toe design reduces toe friction/blisters",
+        "Now available in merino for odor control"
+      ],
+      "cons": [
+        "Toe fit takes getting used to",
+        "Less cushioning than some crew hiking socks"
+      ],
+      "price": null,
+      "amazon_id": "B0DZKH2P3C",
+      "sources": [
+        "https://www.advnture.com/news/courtney-dauwalter-and-tara-dower-love-injinji-toe-socks-and-you-will-too-now-they-come-in-merino-wool",
+        "https://www.ofzenandcomputing.com/best-merino-wool-socks-hiking/"
+      ],
+      "amazon_url": "https://www.amazon.com/Injinji-Ultra-No-Show-Wool-Socks/dp/B0DZKH2P3C",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/wUohf-Vsuexxh0d04xkmG2AuT36b3IDJ5Qi8naXPtc8/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9jb3Jy/ZWN0dG9lcy5jb20v/Y2RuL3Nob3AvZmls/ZXMvSW5qaW5qaS1S/dW4tTGlnaHR3ZWln/aHQtTm8tU2hvdy1X/b29sLVNsYXRlLVNv/Y2tzLmpwZz92PTE3/Njg1OTg0NDMmd2lk/dGg9NjQw",
+      "resolver": "brave",
+      "valid": true
+    }
+  ],
+  "resolvedLinks": {
+    "https://gearjunkie.com/outdoor/hiking/best-hiking-socks": {
+      "title": "The Best Hiking Socks of 2026",
+      "description": "Get ready to hit the trail in comfort with the best hiking socks from Darn Tough, Smartwool, REI, Balega, and more.",
+      "image": "https://s3.amazonaws.com/images.gearjunkie.com/uploads/2025/08/IMG_1729-700x467.jpg",
+      "url": "https://gearjunkie.com/outdoor/hiking/best-hiking-socks"
+    },
+    "https://www.switchbacktravel.com/best-hiking-socks": {
+      "title": "Switchback Travel | Best Hiking Socks",
+      "description": "As the line of defense against blisters and tired, sweaty feet, a pair of quality hiking socks is on our must-have list",
+      "image": "https://www.switchbacktravel.com/sites/default/files/images/articles/Hiking%20socks%20%28Darn%20Tough%20socks%20with%20Oboz%20Bridger%20boots%29.jpg",
+      "url": "https://www.switchbacktravel.com/best-hiking-socks"
+    },
+    "https://www.ofzenandcomputing.com/best-merino-wool-socks-hiking/": {
+      "title": "12 Best Merino Wool Hiking Socks (March 2026) Top-Rated Picks Tested",
+      "description": "Discover the best merino wool hiking socks with our expert reviews of 12 top models. From lightweight to heavy cushion, find the perfect sock for your adventures.",
+      "image": "https://www.ofzenandcomputing.com/wp-content/uploads/2026/02/Best-Merino-Wool-Hiking-Socks-1.jpeg",
+      "url": "https://www.ofzenandcomputing.com/best-merino-wool-socks-hiking/"
+    },
+    "https://www.rei.com/learn/expert-advice/best-hiking-socks.html": {
+      "title": "The 8 Best Hiking Socks of 2025: Staff Picks | REI Co-op",
+      "description": "We list our 8 favorite socks for hiking, backpacking, kids, compression and more.",
+      "image": "https://www.rei.com/dam/2c623254db944d19860777fe569c13de",
+      "url": "https://www.rei.com/learn/expert-advice/best-hiking-socks.html"
+    }
+  }
+}

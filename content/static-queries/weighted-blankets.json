@@ -1,0 +1,92 @@
+{
+  "slug": "weighted-blankets",
+  "query": "best weighted blankets",
+  "title": "Best weighted blankets | Bin Diving",
+  "description": "AI-dug recommendations for best weighted blankets. Compare options and find one that fits.",
+  "dugAt": "2026-03-18T16:39:35.566Z",
+  "recommendations": [
+    {
+      "product_name": "YNM Original Cotton Weighted Blanket",
+      "pros": [
+        "Budget-friendly",
+        "Wide range of sizes/weights",
+        "Breathable cotton options"
+      ],
+      "cons": [
+        "Some reports of inconsistent third‑party Amazon listings",
+        "Can feel thin for heavier users"
+      ],
+      "price": "Varies (often from ~$34.99 for smaller sizes)",
+      "amazon_id": "B073429DV2",
+      "sources": [
+        "https://www.tomsguide.com/best-picks/best-weighted-blanket/",
+        "https://www.goodhousekeeping.com/home-products/blanket-reviews/a24734005/best-weighted-blankets//"
+      ],
+      "amazon_url": "https://www.amazon.com/YnM-Weighted-Blanket-Cotton-Material/dp/B073429DV2",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/7o8ax_Mrfr4Ja-dLLtqYCnb81f7RQzk-Vr6I30dDays/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly95bm1o/b21lLmNvbS9jZG4v/c2hvcC9maWxlcy95/bm0tY290dG9uLWtu/aXR0ZWQtd2VpZ2h0/ZWQtYmxhbmtldC1s/aWdodC1ncmV5LTA2/LmpwZz92PTE3NjE4/ODI1NTk",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "Luna Luxe Cotton Weighted Blanket",
+      "pros": [
+        "Top overall pick in recent expert tests",
+        "Multiple weights and sizes (good for hot sleepers)",
+        "Machine washable cover options"
+      ],
+      "cons": [
+        "Some sizes/colors fluctuate in stock",
+        "Not the cheapest option for larger weights"
+      ],
+      "price": "From about $74.97 (sales vary).",
+      "amazon_id": "B0CVNFPFCX",
+      "sources": [
+        "https://www.tomsguide.com/best-picks/best-weighted-blanket/",
+        "https://www.lunablanket.com/products/luna-weighted-blanket"
+      ],
+      "amazon_url": "https://www.amazon.com/Luna-Cotton-Weighted-Blankets-Adults/dp/B0CVNFPFCX",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/Zc_IKTlirLhoIOhz4eCmKKWj0YRCAVALGON8l_oowjk/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9tLm1l/ZGlhLWFtYXpvbi5j/b20vaW1hZ2VzL0kv/NTFIbSs2bzR6Y0wu/anBn",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "Gravity Weighted Blanket (Gravity Blanket)",
+      "pros": [
+        "Well-known original brand",
+        "Even glass-bead weight distribution",
+        "Easy-care interior + removable cover options"
+      ],
+      "cons": [
+        "Higher price point than many Amazon knockoffs",
+        "Mixed customer-service reports in some threads"
+      ],
+      "price": "Around $99–$149 depending on size (retail varies).",
+      "amazon_id": "B08CS22G7Z",
+      "sources": [
+        "https://www.goodhousekeeping.com/home-products/blanket-reviews/a24734005/best-weighted-blankets//",
+        "https://www.forbes.com/sites/forbes-personal-shopper/article/best-weighted-blanket/"
+      ],
+      "amazon_url": "https://www.amazon.com/Gravity-Blanket-Removable-Generation-Fastening/dp/B08CS22G7Z",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/ZjgqbjVBDkSZNv6f-Q4ZLxqC0D3VzpSV0DuEWKu2_y4/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly93d3cu/bWF0dHJlc3NuZXJk/LmNvbS93cC1jb250/ZW50L3VwbG9hZHMv/MjAyMi8wMy9QMTAx/Nzk2OS0xMDI0eDU3/Ni5qcGc",
+      "resolver": "brave",
+      "valid": true
+    }
+  ],
+  "resolvedLinks": {
+    "https://www.tomsguide.com/best-picks/best-weighted-blanket/": {
+      "title": "Reduce anxiety and sleep calm with our 5 best weighted blankets of 2026",
+      "description": "Rest easy this new year with our best 6 weighted blankets tried, tested and approved by experts.",
+      "image": "https://cdn.mos.cms.futurecdn.net/uey5ZrmFNCA3knJmcFjeLL-1920-80.png",
+      "url": "https://www.tomsguide.com/best-picks/best-weighted-blanket"
+    },
+    "https://www.goodhousekeeping.com/home-products/blanket-reviews/a24734005/best-weighted-blankets//": {
+      "title": "Our Top-Tested Weighted Blankets Can Help You Finally Relax",
+      "description": "We evaluated more than 20 weighted blankets so you can find the best one for you.",
+      "image": "https://hips.hearstapps.com/hmg-prod/images/ghk-digital-weightedblankets-index-057-web-preview-654ea3379a40c.jpg?crop=0.856xw:0.643xh;0.135xw,0.211xh&resize=1200:*",
+      "url": "https://www.goodhousekeeping.com/home-products/a24734005/best-weighted-blankets/"
+    }
+  }
+}

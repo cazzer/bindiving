@@ -1,0 +1,120 @@
+{
+  "slug": "sandals",
+  "query": "best sandals",
+  "title": "Best sandals | Bin Diving",
+  "description": "AI-dug recommendations for best sandals. Compare options and find one that fits.",
+  "dugAt": "2026-03-18T22:57:49.383Z",
+  "recommendations": [
+    {
+      "product_name": "Teva Original Universal Sandal",
+      "pros": [
+        "Lightweight and packable",
+        "Quick-drying webbing",
+        "Good value"
+      ],
+      "cons": [
+        "Not for very rugged hikes",
+        "Some reports of color transfer on dark straps"
+      ],
+      "price": null,
+      "amazon_id": "B072V6RJ68",
+      "sources": [
+        "https://www.outdoorgearlab.com/reviews/shoes-and-boots/sandals-womens/teva-original-universal-womens",
+        "https://www.cleverhiker.com/footwear/womens-teva-original-universal-review/",
+        "https://www.mindbodygreen.com/articles/best-sandals"
+      ],
+      "amazon_url": "https://www.amazon.com/Teva-Womens-Original-Universal-Sport-w/dp/B072V6RJ68",
+      "gpt_azn": "B08VT2TSPC",
+      "image_url": "https://imgs.search.brave.com/H4dfCT4-y2CFGplqPpHSeL9CfJ4M6DZBNDsoiqD1iYE/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9pbWFn/ZXMuc2VsbGJyaXRl/LmNvbS9wcm9kdWN0/aW9uLzc4OTMyLzEw/MDM5ODctTVNSTS0x/MC9kNzkxZmEwMi1i/MGQyLTUzYTktODY3/OS1kZWVlODVmZTY3/ZTUuanBn",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "Birkenstock Arizona (Classic Two-strap)",
+      "pros": [
+        "Iconic contoured cork footbed with strong arch support",
+        "Durable materials and multiple upper options",
+        "Versatile for casual wear and recovery use"
+      ],
+      "cons": [
+        "Can feel stiff until broken in",
+        "Some users report sizing/fit issues",
+        "Birkenstock limits authorized sellers (watch for gray-market listings)"
+      ],
+      "price": null,
+      "amazon_id": "B003B2B4SQ",
+      "sources": [
+        "https://www.rei.com/product/184299/birkenstock-arizona-crosstown-sandals-mens",
+        "https://www.dickssportinggoods.com/p/papillio-by-birkenstock-womens-arizona-chunky-platform-sandals-21birwwrznchnkyblfot/21birwwrznchnkyblfot/",
+        "https://www.dickssportinggoods.com/p/birkenstock-womens-arizona-birkibuc-sandals-19birwrznmchbrkbcfot/19birwrznmchbrkbcfot/"
+      ],
+      "amazon_url": "https://www.amazon.com/Birkenstock-Arizona-Classic-2-Strap-Sandals/dp/B003B2B4SQ",
+      "gpt_azn": "B0DBMP4T5M",
+      "image_url": "https://imgs.search.brave.com/VsVQm7lOjzp9330HtI5ttgJWJ8QBqkLm1LKLLH2cMic/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9tLm1l/ZGlhLWFtYXpvbi5j/b20vaW1hZ2VzL0kv/NjE5NVp5cW5BRkwu/anBn",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "Chaco Z/2 Classic Sandal",
+      "pros": [
+        "Excellent arch support and durable LUVSEAT midsole",
+        "Secure, highly adjustable strap system",
+        "Reliable traction on wet and dry terrain"
+      ],
+      "cons": [
+        "Heavier than many sandals",
+        "Toe-loop fit takes time to adjust",
+        "May be narrow for some feet"
+      ],
+      "price": null,
+      "amazon_id": "B06X14P6KW",
+      "sources": [
+        "https://www.outdoorgearlab.com/reviews/shoes-and-boots/sandals-mens/chaco-z-2-classic",
+        "https://www.treelinereview.com/gearreviews/best-fly-fishing-wet-wading-shoes"
+      ],
+      "amazon_url": "https://www.amazon.com/Chaco-Mens-Classic-Athletic-Sandal/dp/B06X14P6KW",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/38TUQkhZxnYpJCZEuDe5YCpKrcWmXSC5PMptMOss7rY/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9jZG4u/c2hvcGxpZ2h0c3Bl/ZWQuY29tL3Nob3Bz/LzYyOTQ4NS9maWxl/cy80Mzc1MzEyOS85/MjR4NjUweDIvY2hh/Y28tbWVucy16LTIt/Y2xhc3NpYy1zYW5k/YWxzLWNsb3Nlb3V0/LmpwZw",
+      "resolver": "brave",
+      "valid": true
+    }
+  ],
+  "resolvedLinks": {
+    "https://www.outdoorgearlab.com/reviews/shoes-and-boots/sandals-womens/teva-original-universal-womens": {
+      "title": "Teva Original Universal - Women's Review",
+      "description": "The Teva Original Universal are a solid pair of high-value sandals built for exploring and moderate adventuring. They cost less than half of many others...",
+      "image": "https://d1i8d6ce8wwubf.cloudfront.net/photos/22/72/348696_29337_XXL.jpg",
+      "url": "https://www.outdoorgearlab.com/reviews/shoes-and-boots/sandals-womens/teva-original-universal-womens"
+    },
+    "https://www.cleverhiker.com/footwear/womens-teva-original-universal-review/": {
+      "title": "Women's Teva Original Universal Review | CleverHiker",
+      "description": "The Teva Original Universal sandals are affordable and durable. Our tester's pair lasted three years without signs of wear.",
+      "image": "https://www.cleverhiker.com/wp-content/uploads/2024/12/teva-original-universal-11-scaled.jpg",
+      "url": "https://www.cleverhiker.com/footwear/womens-teva-original-universal-review/"
+    },
+    "https://www.dickssportinggoods.com/p/papillio-by-birkenstock-womens-arizona-chunky-platform-sandals-21birwwrznchnkyblfot/21birwwrznchnkyblfot/": {
+      "title": "",
+      "description": "",
+      "image": "",
+      "url": "https://www.dickssportinggoods.com/p/papillio-by-birkenstock-womens-arizona-chunky-platform-sandals-21birwwrznchnkyblfot/21birwwrznchnkyblfot/"
+    },
+    "https://www.dickssportinggoods.com/p/birkenstock-womens-arizona-birkibuc-sandals-19birwrznmchbrkbcfot/19birwrznmchbrkbcfot/": {
+      "title": "",
+      "description": "",
+      "image": "",
+      "url": "https://www.dickssportinggoods.com/p/birkenstock-womens-arizona-birkibuc-sandals-19birwrznmchbrkbcfot/19birwrznmchbrkbcfot/"
+    },
+    "https://www.outdoorgearlab.com/reviews/shoes-and-boots/sandals-mens/chaco-z-2-classic": {
+      "title": "Chaco Z/2 Classic Review",
+      "description": "The Chaco Z/2 Classic is one of the sturdiest sandals in the lineup, providing superior support and traction for any adventure. Known for their ruggedness...",
+      "image": "https://d1i8d6ce8wwubf.cloudfront.net/photos/32/21/443586_1892_XXL.jpg",
+      "url": "https://www.outdoorgearlab.com/reviews/shoes-and-boots/sandals-mens/chaco-z-2-classic"
+    },
+    "https://www.treelinereview.com/gearreviews/best-fly-fishing-wet-wading-shoes": {
+      "title": "5 Best Wet Wading Shoes for Fly Fishing of 2025 (Tested)",
+      "description": "Wet wading shoes for fly fishing are a lightweight affordable alternative to wading boots. We review the best wet wading shoe and wading sandal for fly fishing",
+      "image": "http://static1.squarespace.com/static/5b4544e485ede17941bc95fc/t/625ee44f14eb8955c1c60bab/1650385999168/simms-wet-wade.jpg?format=1500w",
+      "url": "https://www.treelinereview.com/gearreviews/best-fly-fishing-wet-wading-shoes"
+    }
+  }
+}

@@ -1,0 +1,113 @@
+{
+  "slug": "cat-beds",
+  "query": "best cat beds",
+  "title": "Best cat beds | Bin Diving",
+  "description": "AI-dug recommendations for best cat beds. Compare options and find one that fits.",
+  "dugAt": "2026-03-18T19:09:30.932Z",
+  "recommendations": [
+    {
+      "product_name": "Best Friends by Sheri The Original Calming Donut Cuddler",
+      "pros": [
+        "Plush, calming donut shape",
+        "Machine washable cover",
+        "Widely recommended by reviewers"
+      ],
+      "cons": [
+        "May flatten over long use",
+        "Not ideal for very large cats"
+      ],
+      "price": null,
+      "amazon_id": "B01MV0IX66",
+      "sources": [
+        "https://www.chewy.com/education/cat/health-and-wellness/best-cat-beds",
+        "https://bigbangprice.com/product/B07P6FS2VT//",
+        "https://www.catster.com/lifestyle/best-donut-cat-beds/"
+      ],
+      "amazon_url": "https://www.amazon.com/Best-Friends-Sheri-Calming-Cuddler/dp/B01MV0IX66",
+      "gpt_azn": "B07P6FS2VT",
+      "image_url": "https://imgs.search.brave.com/wFx4H83INNW6AzVUgOCEE3YsGxtNBSdF3QwY3JJ8gGg/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9pNS53/YWxtYXJ0aW1hZ2Vz/LmNvbS9zZW8vQmVz/dC1GcmllbmRzLWJ5/LVNoZXJpLUNhbG1p/bmctRG9udXQtU2hh/Zy1DdWRkbGVyLTIz/eDIzLUZyb3N0Xzcz/YmMzNTM5LTdmNjEt/NDZmNi1hODM4LTQx/NTE4NWMxZGVhMy41/ZjFjMzgyZGFkM2I0/MjgwYjFhODY1NGFm/NmQ2MTE2Mi5qcGVn/P29kbkhlaWdodD01/NzMmb2RuV2lkdGg9/NTczJm9kbkJnPUZG/RkZGRg",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "Furhaven ThermaNAP Self-Warming Cat Bed Mat",
+      "pros": [
+        "Self-warming reflective layer (no plug)",
+        "Very affordable and machine washable",
+        "Lightweight/portable"
+      ],
+      "cons": [
+        "Thin padding (mat-style)",
+        "Can slide on smooth floors"
+      ],
+      "price": null,
+      "amazon_id": "B06XF6VH2N",
+      "sources": [
+        "https://thecattitudecentral.com/furhaven-thermanap-self-warming-cat-bed/",
+        "https://reviewdetector.ai/fr/product/B06XF6VH2N",
+        "https://bestviewsreviews.com/cat-beds/furhaven-thermanap-self-warming-cat-bed-for-indoor-cats-small-dogs-washable-reflects-body-heat-quilted-faux-fur-reflective-bed-mat-gray-small-visit-the-furhaven-store/"
+      ],
+      "amazon_url": "https://www.amazon.com/Furhaven-Pet-Heating-ThermaNAP-Self-Warming/dp/B06XF6VH2N",
+      "gpt_azn": "B06XF6VH2N",
+      "image_url": "https://imgs.search.brave.com/T1aW_rmEv_ZvAfXn9V0Dn8BHL_6RV_FGuBeN-JIMWS8/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9pNS53/YWxtYXJ0aW1hZ2Vz/LmNvbS9zZW8vRnVy/SGF2ZW4tUGV0LVBy/b2R1Y3RzLVRoZXJt/YU5BUC1GYXV4LUZ1/ci1TZWxmLVdhcm1p/bmctUGV0LUJlZC1N/YXQtQmxhY2stU21h/bGxfNzFlOGZhZWQt/MjM2Yi00Y2M5LWE2/YjYtMTZhN2YwMzA5/ODQ2XzEuZTNhNTlk/MmZmOGMwNzQ0OGI5/NTA1MjU0Njg1MTJh/YjkuanBlZz9vZG5I/ZWlnaHQ9NTczJm9k/bldpZHRoPTU3MyZv/ZG5CZz1GRkZGRkY",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "Hepper Nest Cat Bed (Modern Nest)",
+      "pros": [
+        "Stylish, modern bowl design cats love",
+        "Removable, machine‑washable Sherpa liner",
+        "Durable molded shell resists crushing"
+      ],
+      "cons": [
+        "Higher price than basic mats",
+        "Shell should be spot-cleaned (not machine-washable)"
+      ],
+      "price": null,
+      "amazon_id": "B071LJ5DHX",
+      "sources": [
+        "https://www.hepper.com/products/hepper-nest-cat-bed/",
+        "https://articles.hepper.com/best-cat-bed/",
+        "https://pangovet.com/pet-lifestyle/best-cat-beds/"
+      ],
+      "amazon_url": "https://www.amazon.com/HEPPER-Furniture-Removable-Washable-Microfiber/dp/B071LJ5DHX",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/PXyBQO55zP9mxXU3Y8uCfsWDFQ2sTP6plkjHDGjLCVc/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly93d3cu/cm95YWxwZXRjbHVi/Lm5ldC9pbWFnZS9j/YWNoZS9jYXRhbG9n/L2ltZy80MU0vNDFN/Z0htdU04WEwuX0FD/Xy01MDB4NTAwLmpw/Zy53ZWJw",
+      "resolver": "brave",
+      "valid": true
+    }
+  ],
+  "resolvedLinks": {
+    "https://www.chewy.com/education/cat/health-and-wellness/best-cat-beds": {
+      "title": "The Best Cat Beds, According to Chewy Cat Parents | Chewy",
+      "description": "Feline tested and pet parent approved, these are the best cat beds to make their day (and night, of course!), from cat caves to window beds.",
+      "image": "https://pet-health-content-media.chewy.com/wp-content/uploads/2025/04/22150602/202504202211Featured-Bestof-CatBeds.jpg",
+      "url": "https://www.chewy.com/education/cat/health-and-wellness/best-cat-beds"
+    },
+    "https://bigbangprice.com/product/B07P6FS2VT//": {
+      "title": "Best Friends by Sheri The Original Calming Donut Dog Bed – Washable Plush Pet Bed for Medium Breeds up to 45 lbs, Shag Faux Fur, Frost Gray, Medium (30\" x 30\") (B07P6FS2VT | BigBangPrice | Amazon Price Tracker & History Charts",
+      "description": "Amazon price tracker, Amazon price history charts, price watches, and price drop alerts. Get notified as soon as price drops. Track coupons on Amazon.",
+      "image": "https://m.media-amazon.com/images/I/41+6C2cTN2L._SL500_.jpg",
+      "url": "https://bigbangprice.com/product/B07P6FS2VT/"
+    },
+    "https://thecattitudecentral.com/furhaven-thermanap-self-warming-cat-bed/": {
+      "title": "Furhaven ThermaNAP Self-Warming Cat Bed Review | The Cattitude Central",
+      "description": "Explore our in-depth review of the Furhaven ThermaNAP Self-Warming Cat Bed, including pros, cons, FAQs, and a comparison with similar cat beds....",
+      "image": "https://thecattitudecentral.com/wp-content/uploads/2025/08/Furhaven-ThermaNAP-Self-Warming-Cat-Bed2.webp",
+      "url": "https://thecattitudecentral.com/furhaven-thermanap-self-warming-cat-bed/"
+    },
+    "https://reviewdetector.ai/fr/product/B06XF6VH2N": {
+      "title": "FurHaven ThermaNAP Self Warmin... Trust Score: B (75%) | Review Detector",
+      "description": "Analyze 29948 reviews, average rating 4.6. View Trust Score and fake review reports, spot fake Amazon reviews, get smart product picks and Reddit feedback.",
+      "image": "",
+      "url": "https://reviewdetector.ai/fr/product/B06XF6VH2N"
+    },
+    "https://bestviewsreviews.com/cat-beds/furhaven-thermanap-self-warming-cat-bed-for-indoor-cats-small-dogs-washable-reflects-body-heat-quilted-faux-fur-reflective-bed-mat-gray-small-visit-the-furhaven-store/": {
+      "title": "Reviews for Furhaven ThermaNAP Self-Warming Cat Bed for Indoor Cats & Small Dogs, Washable & Reflects Body Heat - Quilted Faux Fur Reflective Bed Mat - Gray, Small ; Visit the Furhaven Store: Sep 30, 2024 - Bestviewsreviews",
+      "description": "Furhaven ThermaNAP Self-Warming Cat Bed for Indoor Cats & Small Dogs, Washable & Reflects Body Heat - Quilted Faux Fur Reflective Bed Mat - Gray, Small ; Visit the Furhaven Store. Best Cat Beds based on Value for money, Material Quality, Color, Overall Satisfaction;",
+      "image": "https://m.media-amazon.com/images/I/41+7YS2mbWL._SL500_.jpg",
+      "url": "https://bestviewsreviews.com/cat-beds/furhaven-thermanap-self-warming-cat-bed-for-indoor-cats-small-dogs-washable-reflects-body-heat-quilted-faux-fur-reflective-bed-mat-gray-small-visit-the-furhaven-store/"
+    }
+  }
+}

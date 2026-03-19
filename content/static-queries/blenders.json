@@ -1,0 +1,138 @@
+{
+  "slug": "blenders",
+  "query": "best blenders",
+  "title": "Best blenders | Bin Diving",
+  "description": "AI-dug recommendations for best blenders. Compare options and find one that fits.",
+  "dugAt": "2026-03-18T16:47:32.020Z",
+  "recommendations": [
+    {
+      "product_name": "Vitamix Ascent X5",
+      "pros": [
+        "Professional power and durability",
+        "Smart presets and self-cleaning",
+        "48‑ounce container good for small batches"
+      ],
+      "cons": [
+        "High price",
+        "Large footprint for small kitchens"
+      ],
+      "price": null,
+      "amazon_id": "B0D9ZHXDZ3",
+      "sources": [
+        "https://www.rtings.com/blender/reviews/vitamix/ascent-x5",
+        "https://www.vitamix.com/us/en_us/shop/ascent-x5",
+        "https://www.tomsguide.com/home/home-appliances/the-vitamix-ascent-blender-is-the-easiest-5-star-review-ive-ever-given-and-its-usd200-off-for-prime-day"
+      ],
+      "amazon_url": "https://www.amazon.com/Vitamix-Professional-Grade-Container-Self-Cleaning-Stainless/dp/B0D9ZHXDZ3",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/mSX7mUlLCKtCVZ55SkUPriOm97Hsyii9DmSJI9XntpM/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly93d3cu/c2VyaW91c2VhdHMu/Y29tL3RobWIvMXMt/OU1DNkk0Z0NubmlL/WlJKOUlxOXVkNW4w/PS9maXQtaW4vMTUw/MHgyNjY4L2ZpbHRl/cnM6bm9fdXBzY2Fs/ZSgpOm1heF9ieXRl/cygxNTAwMDApOnN0/cmlwX2ljYygpOmZv/cm1hdCh3ZWJwKS9z/ZWEtdml0YW1peC1i/bGVuZGVycy10ZXN0/LWRlYy0yNC12aXRh/bWl4LWFzY2VudC14/NS1uc2ltcHNvbi0x/ODk3LTIyODJlMGFm/OWIwNDQwNWNiNjBj/OGMzZTYxNGIzNzgz/LmpwZWc",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "Ninja Professional Plus Blender BN701",
+      "pros": [
+        "Powerful 1400‑peak‑watt motor",
+        "Large 72‑oz total‑crushing pitcher",
+        "Strong value for the price"
+      ],
+      "cons": [
+        "Can struggle with very fibrous ingredients",
+        "Relatively loud",
+        "Some reviewers report uneven blending on tough recipes"
+      ],
+      "price": "$112.99",
+      "amazon_id": "B0855B5Z6F",
+      "sources": [
+        "https://shouldit.com/blenders/reviews/ninja/ninja-professional-plus-bn701/",
+        "https://www.bestbuy.com/site/reviews/ninja-professional-plus-blender-with-auto-iq-gray/6395885",
+        "https://zynuvo.com/ninja-bn701-professional-plus-blender-review/"
+      ],
+      "amazon_url": "https://www.amazon.com/Ninja-BN701-Professional-capacity-Crushing/dp/B0855B5Z6F",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/cLYiiP90vS5kIA8WxzR8jfkfzMy78lSVy8kEgEFV7p8/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9pNS53/YWxtYXJ0aW1hZ2Vz/LmNvbS9zZW8vTmlu/amEtUHJvZmVzc2lv/bmFsLVBsdXMtQmxl/bmRlci13aXRoLUF1/dG8taVEtMTQwMC1X/X2Q5YTM0OGVlLTcy/NWYtNDZiMy1hNTNm/LTA0NGNkMmVmZTdh/Zi5jZTg3NTMyYTBh/Y2M3NWNiODI0ZmUy/NTM5NzVkNzBiMS5q/cGVnP29kbkhlaWdo/dD01NzMmb2RuV2lk/dGg9NTczJm9kbkJn/PUZGRkZGRg",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "Breville The Fresh & Furious (Fresh and Furious)",
+      "pros": [
+        "Good mid‑range performance and build quality",
+        "Useful presets and countdown timer",
+        "Quieter operation than many competitors"
+      ],
+      "cons": [
+        "Not as powerful as top commercial models",
+        "Some mixed reports on long‑term reliability"
+      ],
+      "price": null,
+      "amazon_id": "B07GJ24VXV",
+      "sources": [
+        "https://www.rtings.com/blender/reviews/breville/the-fresh-furious",
+        "https://www.techradar.com/best/best-blenders",
+        "https://www.techgearlab.com/reviews/kitchen/blender/breville-fresh-furious"
+      ],
+      "amazon_url": "https://www.amazon.com/Breville-BBL620-Furious-Blender-Silver/dp/B07GJ24VXV",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/feeHYZQc_TGtubpkByRw0LYY10QhVgv7BQ_mrITDyfM/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9zYWxp/c2J1cnlraXRjaGVu/c3RvcmUuY29tL2Nk/bi9zaG9wL2ZpbGVz/L0Z1bGxTaXplUmVu/ZGVyXzA5NjEwOGZk/LTg0OGMtNDg4My1h/MjFmLTY2NjNhMTkz/NTFkYS5qcGc_dj0x/NzI0MjU4MjEwJndp/ZHRoPTE0NDU",
+      "resolver": "brave",
+      "valid": true
+    }
+  ],
+  "resolvedLinks": {
+    "https://www.rtings.com/blender/reviews/vitamix/ascent-x5": {
+      "title": "Vitamix Ascent X5 Review",
+      "description": "The Vitamix Ascent X5 is a high-end full-size blender. It's the most expensive model in the Ascent-X lineup, which includes the Vitamix Ascent X2, the Vitamix As...",
+      "image": "https://i.rtings.com/assets/products/83lgwAcP/vitamix-ascent-x5/design-medium.jpg?format=auto",
+      "url": "https://www.rtings.com/blender/reviews/vitamix/ascent-x5"
+    },
+    "https://www.vitamix.com/us/en_us/shop/ascent-x5": {
+      "title": "Vitamix Ascent X5",
+      "description": "The Ascent X Series is Vitamix’s premium blender line. Its reimagined design combines an intuitive touch interface with a sophisticated, timeless look that feels at home in any home. It’s the best in blending, enhanced by customer feedback and updated for",
+      "image": "https://www.vitamix.com/us/en_us/products/media_7ca6b121cca4cd1397c0c9bf32637ef925950836.png",
+      "url": "https://www.vitamix.com/us/en_us/products/ascent-x5"
+    },
+    "https://www.tomsguide.com/home/home-appliances/the-vitamix-ascent-blender-is-the-easiest-5-star-review-ive-ever-given-and-its-usd200-off-for-prime-day": {
+      "title": "The Vitamix Ascent blender is the easiest 5-star review I've ever given, and it's $200 off for Prime Day",
+      "description": "An unmissable early Prime Day deal",
+      "image": "https://cdn.mos.cms.futurecdn.net/jWQmBu4PuPVoMC2fhSXYbf-1920-80.jpg",
+      "url": "https://www.tomsguide.com/home/home-appliances/the-vitamix-ascent-blender-is-the-easiest-5-star-review-ive-ever-given-and-its-usd200-off-for-prime-day"
+    },
+    "https://shouldit.com/blenders/reviews/ninja/ninja-professional-plus-bn701/": {
+      "title": "Ninja BN701 Professional Plus Blender In-depth Review - Shouldit Blender Series",
+      "description": "Ninja Professional Plus Blender (BN701) review. Despite its innovative features, find out why performance doesn’t quite match up.",
+      "image": "https://cdn.shouldit.com/reviews/images/blenders/cmituim26000em688ffe5c5my.jpg",
+      "url": "https://shouldit.com/blenders/reviews/ninja/ninja-professional-plus-bn701/"
+    },
+    "https://www.bestbuy.com/site/reviews/ninja-professional-plus-blender-with-auto-iq-gray/6395885": {
+      "title": "Customer Reviews: Ninja Professional Plus Blender with Auto-iQ Gray BN701 - Best Buy",
+      "description": "",
+      "image": "",
+      "url": "https://www.bestbuy.com/site/reviews/ninja-professional-plus-blender-with-auto-iq-gray/6395885"
+    },
+    "https://zynuvo.com/ninja-bn701-professional-plus-blender-review/": {
+      "title": "Ninja BN701 Professional Plus Blender Review (2025): 1400W Peak Power, Auto-iQ & 72-oz Pitcher",
+      "description": "Our 2025 deep-dive on the Ninja BN701: 1400 peak watts, Auto-iQ presets, 72-oz Total Crushing pitcher, pros/cons, real-world tests, FAQs and buying guide—before you buy.",
+      "image": "https://zynuvo.com/wp-content/uploads/2025/09/Ninja-BN701-Professional-Plus-Blender.jpg",
+      "url": "https://zynuvo.com/ninja-bn701-professional-plus-blender-review/"
+    },
+    "https://www.rtings.com/blender/reviews/breville/the-fresh-furious": {
+      "title": "Breville the Fresh & Furious Review",
+      "description": "Breville's the Fresh & Furious is a full-size blender with a 50oz jar. It has automatic blending programs, including an 'auto-pulse' mode, and always stops after...",
+      "image": "https://i.rtings.com/assets/products/MoTJlTDa/breville-the-fresh-furious/design-medium.jpg?format=auto",
+      "url": "https://www.rtings.com/blender/reviews/breville/the-fresh-furious"
+    },
+    "https://www.techradar.com/best/best-blenders": {
+      "title": "I'm a kitchen appliance reviewer, and these are the top blenders I recommend for silky sauces, soups, and smoothies",
+      "description": "Powerful home blenders from big brands, tested with real recipes and rated for power, performance, and volume.",
+      "image": "https://cdn.mos.cms.futurecdn.net/c99YyhrjCa7KpQNoSskUdN-2000-80.jpg",
+      "url": "https://www.techradar.com/best/best-blenders"
+    },
+    "https://www.techgearlab.com/reviews/kitchen/blender/breville-fresh-furious": {
+      "title": "Breville Fresh & Furious Review",
+      "description": "The Fresh and Furious is extremely easy to use with nine presets, a digital timer, and a clearly labeled interface. The 60-second green smoothie setting...",
+      "image": "https://djd1xqjx2kdnv.cloudfront.net/photos/35/95/481036_8528_XXL.jpg",
+      "url": "https://www.techgearlab.com/reviews/kitchen/blender/breville-fresh-furious"
+    }
+  }
+}

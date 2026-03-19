@@ -1,0 +1,113 @@
+{
+  "slug": "projectors",
+  "query": "best projectors",
+  "title": "Best projectors | Bin Diving",
+  "description": "AI-dug recommendations for best projectors. Compare options and find one that fits.",
+  "dugAt": "2026-03-18T21:55:15.164Z",
+  "recommendations": [
+    {
+      "product_name": "Sony VPL‑XW5000ES 4K HDR Laser Home Theater Projector",
+      "pros": [
+        "Native 4K SXRD panel",
+        "Excellent contrast and color processing"
+      ],
+      "cons": [
+        "High price",
+        "Lower brightness vs some competitors"
+      ],
+      "price": null,
+      "amazon_id": "B09XC1K3NH",
+      "sources": [
+        "https://www.whathifi.com/tv-home-cinema/projectors/benq-w5850-vs-sony-vpl-xw5000es-which-five-star-projector-should-you-buy",
+        "https://www.sony.com/electronics/support/projectors-home-cinema-projectors/vpl-xw5000es"
+      ],
+      "amazon_url": "https://www.amazon.com/Sony-VPL-XW5000ES-Theater-Projector-Native/dp/B09XC1K3NH",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/XQmI56R4ks5rXmh7F7cBzVJUe5LNeOah8z6LdOTu9nI/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9iaWdk/YWRkeXNzdGVyZW8u/Y29tL3dwLWNvbnRl/bnQvdXBsb2Fkcy8y/MDIzLzA1L3RodW1i/bmFpbHMtbGFyZ2Ut/QXNzZXRIaWVyYXJj/aHktQ29uc3VtZXJB/c3NldHMtSG9tZUF1/ZGlvLVZpZGVvLUZZ/MjAyMi1WUEwtWFc1/MDAwRVMtUHJvZHVj/dEltYWdlcy1CLWVD/b21tLXZwbHh3NTAw/MF9vdGhlcnNfMjIw/MjAxXzA2LnBuZw",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "BenQ X3100i True 4K UHD Gaming Projector",
+      "pros": [
+        "Low input lag for gaming",
+        "High brightness for varied room lighting"
+      ],
+      "cons": [
+        "Premium price for a gaming model",
+        "Some smart-platform/audio limitations reported"
+      ],
+      "price": null,
+      "amazon_id": "B0CK3K8G8J",
+      "sources": [
+        "https://www.rtings.com/projector/reviews/best/projector",
+        "https://www.techradar.com/seasonal-sales/the-benq-x3100i-is-one-of-the-best-gaming-projectors-you-can-buy-and-its-getting-a-prime-day-discount"
+      ],
+      "amazon_url": "https://www.amazon.com/BenQ-X3100i-Projector-Speakers-Vertical/dp/B0CK3K8G8J",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/OV9le986ixkd99ZoUxDFbOwUamL4vnkqSLuKds5tdVE/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9hdnN0/b3JlLmluL2Nkbi9z/aG9wL2ZpbGVzLzEu/QVZTdG9yZS1CZW5R/LVgtMzEwMC1pLUZy/b250LUFuZ2xlZC1W/aWV3LUhlcm8uanBn/P3Y9MTcwOTI4ODIx/MSZ3aWR0aD0yMDAw",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "Epson EH‑LS12000 (LS12000) 4K PRO‑UHD Laser Projector",
+      "pros": [
+        "Laser light source with long life",
+        "Strong color performance (3LCD)"
+      ],
+      "cons": [
+        "Large and costly for premium home theaters",
+        "Availability and dealer pricing can vary"
+      ],
+      "price": null,
+      "amazon_id": "B09TS2M1ZS",
+      "sources": [
+        "https://www.projectorcentral.com/best-home-theater-projectors.htm",
+        "https://www.whathifi.com/tv-home-cinema/projectors/epson-eh-ls12000-vs-eh-qb1000-which-five-star-4k-projector-should-you-buy"
+      ],
+      "amazon_url": "https://www.amazon.com/Epson-LS11000-Projector-Brightness-Motorized/dp/B09TS2M1ZS",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/qi2p6aziOX4Lfuh_i8fWcnLWZol0XLsE7Pbt_AwfXxk/rs:fit:0:180:1:0/g:ce/aHR0cHM6Ly9pLmVi/YXlpbWcuY29tL2lt/YWdlcy9nL2JXVUFB/T1N3MmdSa21jQWcv/cy1sMjI1LmpwZw",
+      "resolver": "brave",
+      "valid": true
+    }
+  ],
+  "resolvedLinks": {
+    "https://www.whathifi.com/tv-home-cinema/projectors/benq-w5850-vs-sony-vpl-xw5000es-which-five-star-projector-should-you-buy": {
+      "title": "Can BenQ's new five-star 4K projector usurp the Award-winning Sony VPL-XW5000ES?",
+      "description": "Can BenQ’s newcomer challenge the reigning Sony champ?",
+      "image": "https://cdn.mos.cms.futurecdn.net/B5pZomWU4DAkJoBhjZbmBW-1920-80.jpg",
+      "url": "https://www.whathifi.com/tv-home-cinema/projectors/benq-w5850-vs-sony-vpl-xw5000es-which-five-star-projector-should-you-buy"
+    },
+    "https://www.sony.com/electronics/support/projectors-home-cinema-projectors/vpl-xw5000es": {
+      "title": "Support for VPL-XW5000ES | Sony USA",
+      "description": "",
+      "image": "",
+      "url": "https://www.sony.com/electronics/support/projectors-home-cinema-projectors/vpl-xw5000es"
+    },
+    "https://www.rtings.com/projector/reviews/best/projector": {
+      "title": "The 8 Best Projectors of 2026",
+      "description": "If you want the best projector overall, get the XGIMI TITAN. It is a long-throw 4k pixel-shift DLP projector with a dual-laser light engine that delivers exceptional brightness.",
+      "image": "https://i.rtings.com/assets/pages/V9POoEyj/best-projectors-20240506-medium.jpg?format=auto",
+      "url": "https://www.rtings.com/projector/reviews/best/projector"
+    },
+    "https://www.techradar.com/seasonal-sales/the-benq-x3100i-is-one-of-the-best-gaming-projectors-you-can-buy-and-its-getting-a-prime-day-discount": {
+      "title": "Act fast or lose out on this Amazon Prime Day gaming projector deal",
+      "description": "Get the BenQ X3100i for $300 less",
+      "image": "https://cdn.mos.cms.futurecdn.net/aadpD9q73KBKyGg6H9ZEV5-1920-80.jpg",
+      "url": "https://www.techradar.com/seasonal-sales/the-benq-x3100i-is-one-of-the-best-gaming-projectors-you-can-buy-and-its-getting-a-prime-day-discount"
+    },
+    "https://www.projectorcentral.com/best-home-theater-projectors.htm": {
+      "title": "Best Home Theater Projectors March 2026",
+      "description": "The best home theater projectors of 2026 that sell over $5000.  If you want a huge 4k image that.",
+      "image": "https://www.projectorcentral.com/images/top10/top10HomeTheater.jpg",
+      "url": "https://www.projectorcentral.com/best-home-theater-projectors.htm"
+    },
+    "https://www.whathifi.com/tv-home-cinema/projectors/epson-eh-ls12000-vs-eh-qb1000-which-five-star-4k-projector-should-you-buy": {
+      "title": "Should you spend the extra grand on Epson's more premium projector? We tested them side by side to find out",
+      "description": "Epson's acclaimed laser projectors go head-to-head – but is the newer model worth the extra money?",
+      "image": "https://cdn.mos.cms.futurecdn.net/LNPPXW3W8NUesQnyJVDcqK-1920-80.jpg",
+      "url": "https://www.whathifi.com/tv-home-cinema/projectors/epson-eh-ls12000-vs-eh-qb1000-which-five-star-4k-projector-should-you-buy"
+    }
+  }
+}

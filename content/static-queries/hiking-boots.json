@@ -1,0 +1,116 @@
+{
+  "slug": "hiking-boots",
+  "query": "best hiking boots",
+  "title": "Best hiking boots | Bin Diving",
+  "description": "AI-dug recommendations for best hiking boots. Compare options and find one that fits.",
+  "dugAt": "2026-03-18T18:28:16.566Z",
+  "recommendations": [
+    {
+      "product_name": "Salomon Quest 4 GTX",
+      "pros": [
+        "Supportive for heavy packs",
+        "Durable leather/Gore‑Tex upper"
+      ],
+      "cons": [
+        "Can be stiff at first",
+        "Some quality-control reports"
+      ],
+      "price": null,
+      "amazon_id": "B0BKJKNGV5",
+      "sources": [
+        "https://www.productreviewcrew.com/product/salomon-quest-4-gtx-mens/best-for-rough-terrain",
+        "https://www.switchbacktravel.com/best-hiking-boots",
+        "https://www.rei.com/learn/expert-advice/the-best-hiking-boots.html"
+      ],
+      "amazon_url": "https://www.amazon.com/SALOMON-Mens-Quest-Hiking-Boots/dp/B0BKJKNGV5",
+      "gpt_azn": "B08LGNWN48",
+      "image_url": "https://imgs.search.brave.com/l4sKgI6iAUUkGCKD41wls5bTQsK6v2YxnZY_kIWKsYo/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9zLnR1/cmJpZnljZG4uY29t/L2FhaC95aHN0LTM3/ODY0ODk3MDU4MTEv/c2Fsb21vbi1xdWVz/dC00LWd0eC1vbGl2/ZS1uaWdodC1wZWF0/LXNhZmFyaS02Lmpw/Zw",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "LOWA Renegade GTX Mid",
+      "pros": [
+        "Excellent all‑around fit and stability",
+        "Longstanding reputation for durability"
+      ],
+      "cons": [
+        "Higher price point",
+        "Takes a bit to break in"
+      ],
+      "price": null,
+      "amazon_id": "B005HUYU72",
+      "sources": [
+        "https://www.outdoorgearlab.com/reviews/shoes-and-boots/hiking-boots-men/lowa-renegade-gtx-mid",
+        "https://www.lowaboots.com/blogs/news/the-renegade-gtx-mid-named-best-overall-among-glamour-s-cutest-hiking-boots",
+        "https://www.switchbacktravel.com/best-hiking-boots"
+      ],
+      "amazon_url": "https://www.amazon.com/Lowa-Mens-Renegade-GTX-Hiking/dp/B005HUYU72",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/G2txeEWnek3hrEozeNvDomuIDu0DbfElZQZ2iw8Fv40/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9tLm1l/ZGlhLWFtYXpvbi5j/b20vaW1hZ2VzL0kv/NzFCWGlqV2VWK0wu/anBn",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "Merrell Moab 3 Mid Waterproof",
+      "pros": [
+        "Comfortable out of the box",
+        "Good value and wide fit options"
+      ],
+      "cons": [
+        "Less technical for very rugged terrain",
+        "Mixed reports on long‑term durability"
+      ],
+      "price": null,
+      "amazon_id": "B0C64B38Z8",
+      "sources": [
+        "https://www.rei.com/product/201986/merrell-moab-3-mid-waterproof-hiking-boots-mens",
+        "https://www.outdoorgearlab.com/reviews/shoes-and-boots/hiking-boots-men/merrell-moab-3-mid-waterproof",
+        "https://www.tomsguide.com/best-picks/best-hiking-boots"
+      ],
+      "amazon_url": "https://www.amazon.com/Merrell-Mens-Moab-Waterproof-Hiking/dp/B0C64B38Z8",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/3547Xb-isFa9BeZoTlIw5SpeLu6K8m9cooBa-wuJND0/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9ib290/bGVnZ2Vyc2Zvb3R3/ZWFyLmNvbS93cC1j/b250ZW50L3VwbG9h/ZHMvMjAyMi8wOC9N/b2FiLTMtTWlkLVdh/dGVycHJvb2YtcHIu/anBn",
+      "resolver": "brave",
+      "valid": true
+    }
+  ],
+  "resolvedLinks": {
+    "https://www.switchbacktravel.com/best-hiking-boots": {
+      "title": "Switchback Travel | Best Hiking Boots of 2026",
+      "description": "From lightweight day hikers to heavy-duty footwear for serious backpacking, below are the year’s top hiking boots",
+      "image": "https://www.switchbacktravel.com/sites/default/files/images/articles/hiking-boots-header.jpg",
+      "url": "https://www.switchbacktravel.com/best-hiking-boots"
+    },
+    "https://www.rei.com/learn/expert-advice/the-best-hiking-boots.html": {
+      "title": "The 9 Best Hiking Boots of 2026: Tested | REI Co-op",
+      "description": "Our testers spent months putting the best hiking and backpacking boots sold at REI through their paces. These 9 are the best hiking, thru-hiking and backpacking boots.",
+      "image": "https://www.rei.com/dam/21507774_chorski_20250114_0009_film_web_med.jpeg",
+      "url": "https://www.rei.com/learn/expert-advice/the-best-hiking-boots.html"
+    },
+    "https://www.outdoorgearlab.com/reviews/shoes-and-boots/hiking-boots-men/lowa-renegade-gtx-mid": {
+      "title": "Lowa Renegade GTX Mid Review",
+      "description": "The Lowa Renegade GTX Mid is a perfect example of a classic hiking boot. Featuring a tall ankle cuff, solid underfoot stability, and top-notch durability...",
+      "image": "https://d1i8d6ce8wwubf.cloudfront.net/photos/23/99/361429_6343_XXL.jpg",
+      "url": "https://www.outdoorgearlab.com/reviews/shoes-and-boots/hiking-boots-men/lowa-renegade-gtx-mid"
+    },
+    "https://www.lowaboots.com/blogs/news/the-renegade-gtx-mid-named-best-overall-among-glamour-s-cutest-hiking-boots": {
+      "title": "The Renegade GTX Mid Named 'Best Overall' Among Glamour’s Cutest Hikin",
+      "description": "Read the full list and review of the Renegade GTX Mid from Glamour here. Hiking shoes and boots are built with function in mind, and the right pair needs to check off a lot of boxes. Some things to consider: Can it withstand all the elements (rarin, snow, mud…) you may run into on a multiday camping trip? Does it offer",
+      "image": "http://www.lowaboots.com/cdn/shop/articles/Seigal-8999.jpg?v=1719159008",
+      "url": "https://www.lowaboots.com/blogs/news/the-renegade-gtx-mid-named-best-overall-among-glamour-s-cutest-hiking-boots"
+    },
+    "https://www.outdoorgearlab.com/reviews/shoes-and-boots/hiking-boots-men/merrell-moab-3-mid-waterproof": {
+      "title": "Merrell Moab 3 Mid Waterproof Review",
+      "description": "The Merrell Moab 3 Mid Waterproof is a very comfortable boot that we really enjoyed wearing. It is soft and supple, made of quality suede, and is easy to...",
+      "image": "https://d1i8d6ce8wwubf.cloudfront.net/photos/28/71/408621_31172_XXL.jpg",
+      "url": "https://www.outdoorgearlab.com/reviews/shoes-and-boots/hiking-boots-men/merrell-moab-3-mid-waterproof"
+    },
+    "https://www.tomsguide.com/best-picks/best-hiking-boots": {
+      "title": "The best hiking boots to buy — tested and rated for mountain trails and casual hikes",
+      "description": "The best hiking boots for any condition, tested for comfort, style and support",
+      "image": "https://cdn.mos.cms.futurecdn.net/rv4XRuwT3unRwFXoQKf2tk-2560-80.jpg",
+      "url": "https://www.tomsguide.com/best-picks/best-hiking-boots"
+    }
+  }
+}

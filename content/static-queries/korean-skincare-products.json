@@ -1,0 +1,131 @@
+{
+  "slug": "korean-skincare-products",
+  "query": "best korean skin‑care products",
+  "title": "Best korean skin‑care products | Bin Diving",
+  "description": "AI-dug recommendations for best korean skin‑care products. Compare options and find one that fits.",
+  "dugAt": "2026-03-18T18:03:49.688Z",
+  "recommendations": [
+    {
+      "product_name": "COSRX Advanced Snail 96 Mucin Power Essence",
+      "pros": [
+        "Highly hydrating essence",
+        "Barrier-repairing snail mucin (96%)",
+        "Widely recommended by editors and users"
+      ],
+      "cons": [
+        "Tacky texture for some users",
+        "Not ideal for snail/allergy-sensitive skin"
+      ],
+      "price": null,
+      "amazon_id": "B00PBX3L7K",
+      "sources": [
+        "https://www.cosrx.com/products/advanced-snail-96-mucin-power-essence",
+        "https://www.marieclaire.com/beauty/korean-skincare-brands/",
+        "https://www.prevention.com/beauty/skin-care/a65351178/cosrx-snail-mucin-96-percent-power-repairing-essence-prime-day-sale-2025/"
+      ],
+      "amazon_url": "https://www.amazon.com/COSRX-Repairing-Hydrating-Secretion-Phthalates/dp/B00PBX3L7K",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/nr9AjyHwt4jjKLWaMTXtHpadW73dO6te5s_HjE1bxkM/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9ub3J0/aGFuZHN0YXRlLmNv/bS9jZG4vc2hvcC9m/aWxlcy8wNDZmNzI5/MDFmNmNmYjhiNTdj/NmJhYjM0MjZjZWY3/NWFhNWFhMDQ5ZDk1/MmMyMTM0Yzk3ZjM0/YTFhZWU0NjljXzc0/MHgucG5nP3Y9MTcw/MDg1NjgwNg",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "LANEIGE Lip Sleeping Mask",
+      "pros": [
+        "Cult-favorite overnight lip treatment",
+        "Intensely moisturizing and long-lasting",
+        "Popular across social media and editorial lists"
+      ],
+      "cons": [
+        "Can feel heavy/greasy on some users",
+        "Not a facial treatment (lip-only)"
+      ],
+      "price": null,
+      "amazon_id": "B07XXPHQZK",
+      "sources": [
+        "https://us.laneige.com/products/lip-sleeping-mask",
+        "https://www.koreakyung.com/2025/03/ranked-no2-on-amazon-my-honest-laneige.html",
+        "https://www.yahoo.com/lifestyle/tiktok-famous-celeb-loved-laneige-221940122.html"
+      ],
+      "amazon_url": "https://www.amazon.com/Laneige-Sleeping-Berry/dp/B07XXPHQZK",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/zY5Pyi8KeaKTZuvAt7KAZ-cLjLBYzSgQZIOAEx0H30Q/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly93d3cu/ZWNvc21ldGljcy5j/b20vd3AtY29udGVu/dC91cGxvYWRzLzIw/MjIvMTIvbGFuZWln/ZS1saXAtc2xlZXBp/bmctbWFzay0yMGct/ODgwOTY0MzA1MzI3/My5wbmc",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "MISSHA Time Revolution The First Treatment Essence",
+      "pros": [
+        "Classic K‑Beauty essence for hydration and texture",
+        "Frequently recommended as an accessible SK-II alternative",
+        "Multiple recent positive reviews and user reports"
+      ],
+      "cons": [
+        "Formula variations across generations can confuse buyers",
+        "May be too moisturizing for very oily skin"
+      ],
+      "price": null,
+      "amazon_id": "B01FG5VLLU",
+      "sources": [
+        "https://kpopsessed.com/missha-time-revolution-the-first-treatment-essence-review-the-k-beauty-secret-to-glass-skin/",
+        "https://www.hwahae.com/en/products/MISSHA-Time-Revolution-The-First-Treatment-Essence/677",
+        "https://www.fakespot.com/product/missha-time-revolution-the-first-treatment-essence-intensive-moist"
+      ],
+      "amazon_url": "https://www.amazon.com/MISSHA-Revolution-Treatment-Essence-Intensive/dp/B01FG5VLLU",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/cUaIiVq6D2_zVbpboaR6LYHUpIziHpUEFd6Ypspet4Q/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9vaGxv/bGx5LmNvbS9jZG4v/c2hvcC9wcm9kdWN0/cy9NaXNzaGEtVGlt/ZS1SZXZvbHV0aW9u/LUZpcnN0LVRyZWF0/bWVudC1Fc3NlbmNl/LTUuanBnP3Y9MTc1/ODg0MTc2OCZ3aWR0/aD05NzU",
+      "resolver": "brave",
+      "valid": true
+    }
+  ],
+  "resolvedLinks": {
+    "https://www.cosrx.com/products/advanced-snail-96-mucin-power-essence": {
+      "title": "COSRX Snail 96 Mucin Essence | Award-Winning Hydration & Glow",
+      "description": "Award-winning 96% snail mucin essence clinically proven to repair the skin barrier and boost visible glow. Trusted K-beauty essential for glass-like, healthy skin.",
+      "image": "http://www.cosrx.com/cdn/shop/files/james_800x1067_1_1_4e9750cc-2cd6-4817-ace5-be2305a85806_1200x1200.jpg?v=1763111577",
+      "url": "https://www.cosrx.com/products/advanced-snail-96-mucin-power-essence"
+    },
+    "https://www.marieclaire.com/beauty/korean-skincare-brands/": {
+      "title": "Everyone With Glass Skin Swears by This Under-the-Radar K-Beauty Brand",
+      "description": "I put it to the test.",
+      "image": "https://cdn.mos.cms.futurecdn.net/gzCW9SRpkDWyxDqZ547Cj7-1536-80.jpg",
+      "url": "https://www.marieclaire.com/beauty/korean-skincare-brands/"
+    },
+    "https://www.prevention.com/beauty/skin-care/a65351178/cosrx-snail-mucin-96-percent-power-repairing-essence-prime-day-sale-2025/": {
+      "title": "Shoppers Swear This Viral Serum Is ‘Magic in a Bottle’—and It’s Only $13 for Amazon Prime Day",
+      "description": "Snag the popular serum (which is packed with a secret ingredient!) while it’s nearly 50% off.",
+      "image": "https://hips.hearstapps.com/hmg-prod/images/cosrx-serum-686e81a0534ba.jpg?crop=1xw:1xh;center,top&resize=1200:*",
+      "url": "https://www.prevention.com/beauty/skin-care/a65351178/cosrx-snail-mucin-96-percent-power-repairing-essence-prime-day-sale-2025/"
+    },
+    "https://us.laneige.com/products/lip-sleeping-mask": {
+      "title": "Lip Sleeping Mask",
+      "description": "Try the best Korean lip mask for intense overnight hydration. This lip sleeping mask smooths, moisturizes, and softens your lips while you sleep. Shop now for softer lips!",
+      "image": "http://us.laneige.com/cdn/shop/files/PDPImage_1000x1000_LSM.jpg?v=1771426377",
+      "url": "https://us.laneige.com/products/lip-sleeping-mask"
+    },
+    "https://www.yahoo.com/lifestyle/tiktok-famous-celeb-loved-laneige-221940122.html": {
+      "title": "The TikTok-Famous, Celeb-Loved Laneige Lip Sleeping Mask Is on Sale at Amazon for 30% Today",
+      "description": "We couldn't keep our lips sealed about this major Prime Day deal.",
+      "image": "https://s.yimg.com/os/en/wwd_ecomm_787/79ead2dffea40cc04194faa93b140e1c",
+      "url": "https://www.yahoo.com/lifestyle/tiktok-famous-celeb-loved-laneige-221940122.html"
+    },
+    "https://kpopsessed.com/missha-time-revolution-the-first-treatment-essence-review-the-k-beauty-secret-to-glass-skin/": {
+      "title": "MISSHA Time Revolution The First Treatment Essence Review: The K-Beauty Secret to Glass Skin",
+      "description": "The Cult-Favorite Essence That Launched a ThousandRoutines If you've ever wondered how K-Pop idols achieve that luminous, almost translucent glow—even",
+      "image": "https://kpopsessed.com/wp-content/uploads/2026/01/featured_image-445.png",
+      "url": "https://kpopsessed.com/missha-time-revolution-the-first-treatment-essence-review-the-k-beauty-secret-to-glass-skin/"
+    },
+    "https://www.hwahae.com/en/products/MISSHA-Time-Revolution-The-First-Treatment-Essence/677": {
+      "title": "",
+      "description": "",
+      "image": "",
+      "url": "https://www.hwahae.com/en/products/MISSHA-Time-Revolution-The-First-Treatment-Essence/677"
+    },
+    "https://www.fakespot.com/product/missha-time-revolution-the-first-treatment-essence-intensive-moist": {
+      "title": "Investing in what moves the internet forward | The Mozilla Blog",
+      "description": "Firefox is the only major browser not backed by a billionaire and our independence shapes everything we build. This independence allows us to prioritize bu",
+      "image": "https://blog.mozilla.org/wp-content/blogs.dir/278/files/2025/03/Mozilla-Blog-Thumbnail@2x-1080x720.png",
+      "url": "https://blog.mozilla.org/en/mozilla/building-whats-next/"
+    }
+  }
+}

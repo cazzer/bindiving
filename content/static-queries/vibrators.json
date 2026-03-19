@@ -1,0 +1,98 @@
+{
+  "slug": "vibrators",
+  "query": "best vibrators",
+  "title": "Best vibrators | Bin Diving",
+  "description": "AI-dug recommendations for best vibrators. Compare options and find one that fits.",
+  "dugAt": "2026-03-18T18:07:18.820Z",
+  "recommendations": [
+    {
+      "product_name": "Magic Wand Rechargeable (Vibratex)",
+      "pros": [
+        "Very powerful deep vibrations",
+        "Rechargeable and cordless option"
+      ],
+      "cons": [
+        "Bulky for travel",
+        "Not waterproof"
+      ],
+      "price": null,
+      "amazon_id": "B07Q8G5LW9",
+      "sources": [
+        "https://www.forbes.com/sites/forbes-personal-shopper/article/best-vibrators/",
+        "https://magicwandoriginal.com/rechargeable/"
+      ],
+      "amazon_url": "https://www.amazon.com/Original-Rechargeable-Cordless-Vibratex-IntiMD/dp/B07Q8G5LW9",
+      "gpt_azn": null,
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "Womanizer PREMIUM 2 (Pleasure Air stimulator)",
+      "pros": [
+        "Pleasure Air suction technology",
+        "Quiet Smart Silence and multiple intensity levels"
+      ],
+      "cons": [
+        "Higher price point",
+        "External-only stimulation (not for G-spot)"
+      ],
+      "price": null,
+      "amazon_id": "B09J1L3KLG",
+      "sources": [
+        "https://www.womanizer.com/us/premium-2",
+        "https://www.womanandhome.com/health-wellbeing/best-vibrators-on-amazon/"
+      ],
+      "amazon_url": "https://www.amazon.com/Womanizer-Clitoral-Vibrator-Massaging-Massager/dp/B09J1L3KLG",
+      "gpt_azn": null,
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "Satisfyer Pro 2 (Air-Pulse/Suction Vibrator)",
+      "pros": [
+        "Hands-free-feel suction-style stimulation",
+        "Affordable and widely recommended"
+      ],
+      "cons": [
+        "Can feel intense for some users",
+        "Requires good seal for best performance"
+      ],
+      "price": null,
+      "amazon_id": "B071CPR2V4",
+      "sources": [
+        "https://www.womanandhome.com/health-wellbeing/sex/how-to-clean-sex-toys-the-body-safe-way/",
+        "https://teenvogue.com/story/best-vibrators-on-amazon"
+      ],
+      "amazon_url": "https://www.amazon.com/Satisfyer-Vibrator-Clitoris-Stimulator-Vibrators/dp/B071CPR2V4",
+      "gpt_azn": null,
+      "resolver": "brave",
+      "valid": true
+    }
+  ],
+  "resolvedLinks": {
+    "https://www.womanizer.com/us/premium-2": {
+      "title": "Womanizer Premium 2 | Shop Clit Sucker Vibrator",
+      "description": "Shop the Womanizer Premium 2 clit sucker vibrator in our wide range of clitoral suction vibrators with 5 years warranty, discreet packaging & free shipping!",
+      "image": "https://www.womanizer.com/media/catalog/product/cache/1811fe6d3b412f0f16d56ffe9f5c4792/w/m/wmz_premium2_blueberry_generic_internal_pdp_gallery_01a_1.jpg",
+      "url": "https://www.womanizer.com/us/premium-2"
+    },
+    "https://www.womanandhome.com/health-wellbeing/best-vibrators-on-amazon/": {
+      "title": "The best vibrators on Amazon with discreet delivery guaranteed",
+      "description": "We tested the best vibrators on Amazon, with fast and discreet delivery guaranteed",
+      "image": "https://cdn.mos.cms.futurecdn.net/bSwKK3gWR4B6MPuypwukTA-1920-80.jpg",
+      "url": "https://www.womanandhome.com/health-wellbeing/best-vibrators-on-amazon/"
+    },
+    "https://www.womanandhome.com/health-wellbeing/sex/how-to-clean-sex-toys-the-body-safe-way/": {
+      "title": "How to clean sex toys the body-safe way",
+      "description": "Wondering how to clean sex toys? Here are the best products for each type of toy",
+      "image": "https://cdn.mos.cms.futurecdn.net/HkVxrawixiubRNZNnVNKMR-1920-80.jpg",
+      "url": "https://www.womanandhome.com/health-wellbeing/sex/how-to-clean-sex-toys-the-body-safe-way/"
+    },
+    "https://teenvogue.com/story/best-vibrators-on-amazon": {
+      "title": "These Tiny but Mighty Vibrators Will Amp Up Your “Me Time”",
+      "description": "And they're all available on Amazon!",
+      "image": "https://assets.teenvogue.com/photos/5e7d1327b789000008fe21a4/16:9/w_1280,c_limit/ID_03-26_VIBRATORS_SOCIAL.jpg",
+      "url": "https://www.teenvogue.com/story/best-vibrators-on-amazon"
+    }
+  }
+}

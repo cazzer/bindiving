@@ -1,0 +1,113 @@
+{
+  "slug": "espresso-machines",
+  "query": "best espresso machines",
+  "title": "Best espresso machines | Bin Diving",
+  "description": "AI-dug recommendations for best espresso machines. Compare options and find one that fits.",
+  "dugAt": "2026-03-18T17:11:40.988Z",
+  "recommendations": [
+    {
+      "product_name": "Breville Barista Express Impress (BES876)",
+      "pros": [
+        "Integrated conical burr grinder",
+        "Assisted tamping for consistency",
+        "Good value for semi-automatic workflow"
+      ],
+      "cons": [
+        "Built-in grinder limits light-roast performance",
+        "Louder grinding noise",
+        "Not as feature-rich as prosumer dual-boilers"
+      ],
+      "price": null,
+      "amazon_id": "B0BBYNPV33",
+      "sources": [
+        "https://www.techradar.com/reviews/breville-the-barista-express-impress-review",
+        "https://thecoffeelocator.com/espresso-machines/breville-barista-express-impress-review/"
+      ],
+      "amazon_url": "https://www.amazon.com/Breville-Express%C2%AE-Espresso-Stainless-BES876BSS/dp/B0BBYNPV33",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/ETYI4HFgg5PtsMp1oI8MdtnZfpgKR7wh3S7sLftvScc/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9jb2Zm/ZWVicm9zLmNvbS9j/ZG4vc2hvcC9maWxl/cy9CcmV2aWxsZS1i/YXJpc3RhLWV4cHJl/c3MtaW1wcmVzcy1l/c3ByZXNzby1tYWNo/aW5lLWFzc2lzdGVk/LXRhbXBpbmdfZmY4/ZWU3M2UtYTA4YS00/ZGRhLTg1NzYtOGM1/NDkwOGNjYjM3Lmpw/Zz92PTE2OTcwNTA4/ODgmd2lkdGg9NTUw",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "Breville / Sage Oracle Dual Boiler",
+      "pros": [
+        "True dual boilers for shot/steam stability",
+        "Automated features (auto-puck prep, dosing)",
+        "Fast heat-up and consistent milk steaming"
+      ],
+      "cons": [
+        "Very expensive",
+        "Some reviewers note grinder and automation inconsistencies",
+        "Large footprint and complexity"
+      ],
+      "price": null,
+      "amazon_id": "B00I6JGGP0",
+      "sources": [
+        "https://www.tomsguide.com/home/coffee-makers/breville-oracle-dual-boiler-review",
+        "https://tomscoffeecorner.com/sage-breville-oracle-dual-boiler-review/"
+      ],
+      "amazon_url": "https://www.amazon.com/Breville-BES920XL-Boiler-Espresso-Machine/dp/B00I6JGGP0",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/KrVxwmSa8I6XLaffY_YTcid4kaAOPZzKRBTtolH_PdI/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9jZG4u/bW9zLmNtcy5mdXR1/cmVjZG4ubmV0L0dF/UVhFWERlUnNRdmdn/aW9xYlROTmEuanBn",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "Jura Z10 (super-automatic)",
+      "pros": [
+        "Top-tier super-automatic espresso quality",
+        "Extensive programmable drinks including cold-brew-style options",
+        "Excellent built-in grinder and milk performance"
+      ],
+      "cons": [
+        "High price vs manual machines",
+        "Less hands-on control for purists",
+        "Regular maintenance/cleaning required for long-term performance"
+      ],
+      "price": null,
+      "amazon_id": "B095J6NKPK",
+      "sources": [
+        "https://www.juraespressomachines.com/jura-z10-coffee-machine/",
+        "https://nookcoffeebar.com/espresso-machines/jura/z10-review/"
+      ],
+      "amazon_url": "https://www.amazon.com/Jura-15361-Z10-Aluminum-White/dp/B095J6NKPK",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/LvFSaRgryMKNTQjHXHKwCG7EoeFS2oXB183nWy1gCNw/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9ob21l/Y29mZmVlZXhwZXJ0/LmNvbS93cC1jb250/ZW50L3VwbG9hZHMv/MjAyMy8wNi9KdXJh/LVoxMC1NYWtpbmct/Q29sZC1CcmV3Lmpw/Zw",
+      "resolver": "brave",
+      "valid": true
+    }
+  ],
+  "resolvedLinks": {
+    "https://www.techradar.com/reviews/breville-the-barista-express-impress-review": {
+      "title": "Breville the Barista Express Impress coffee machine review",
+      "description": "This bean-to-cup coffee machine with a smart dosing system delivers delicious barista-style espresso at home",
+      "image": "https://cdn.mos.cms.futurecdn.net/VgfhdbS8AavJZyUZSa7Aje-2560-80.jpg",
+      "url": "https://www.techradar.com/reviews/breville-the-barista-express-impress-review"
+    },
+    "https://thecoffeelocator.com/espresso-machines/breville-barista-express-impress-review/": {
+      "title": "Breville Barista Express Impress Review 2026",
+      "description": "For beginners avoiding bad espresso: assisted tamping eliminates mistakes, built-in grinder, PID control. Tested vs Bambino Plus and Gaggia Classic Pro.",
+      "image": "https://thecoffeelocator.com/images/products/espresso-machines/breville-barista-express-impress-hero.jpg",
+      "url": "https://thecoffeelocator.com/espresso-machines/breville-barista-express-impress-review/"
+    },
+    "https://www.tomsguide.com/home/coffee-makers/breville-oracle-dual-boiler-review": {
+      "title": "Breville Oracle Dual Boiler review: The most futuristic espresso machine I've ever used",
+      "description": "A supercomputer and a coffee machine walk into a bar…",
+      "image": "https://cdn.mos.cms.futurecdn.net/VVBBvLUGvgELt7yv8SKdQa-2560-80.jpg",
+      "url": "https://www.tomsguide.com/home/coffee-makers/breville-oracle-dual-boiler-review"
+    },
+    "https://tomscoffeecorner.com/sage-breville-oracle-dual-boiler-review/": {
+      "title": "Sage (Breville) Oracle Dual Boiler Review",
+      "description": "The long awaited Dual Boiler by Sage (Breville) is back - but in Oracle design. How does it perform, and is it worth $3,000?",
+      "image": "https://tomscoffeecorner.com/wp-content/uploads/2025/10/TCC-Thumbnails-2025-Oracle-Dual-Boiler-full-Review-1.jpeg",
+      "url": "https://tomscoffeecorner.com/sage-breville-oracle-dual-boiler-review/"
+    },
+    "https://www.juraespressomachines.com/jura-z10-coffee-machine/": {
+      "title": "Jura Z10 Review (2026): Flagship Performance, Cold Brew, P.R.G. Grinder",
+      "description": "Jura Z10 review (2026): current price, cold brew, P.R.G. grinder, and 32 specialties vs the E8. Is the $1,000 premium worth it? Full breakdown of what you gain, what you give up, and who should buy it.",
+      "image": "https://juraespressomachines.com/media/jura-z10.webp",
+      "url": "https://juraespressomachines.com/jura-z10-coffee-machine/"
+    }
+  }
+}

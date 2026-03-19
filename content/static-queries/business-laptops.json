@@ -1,0 +1,89 @@
+{
+  "slug": "business-laptops",
+  "query": "best business laptops",
+  "title": "Best business laptops | Bin Diving",
+  "description": "AI-dug recommendations for best business laptops. Compare options and find one that fits.",
+  "dugAt": "2026-03-18T19:31:39.496Z",
+  "recommendations": [
+    {
+      "product_name": "Apple MacBook Air (13-inch, M5)",
+      "pros": [
+        "Excellent battery life",
+        "Lightweight and portable",
+        "Strong performance for productivity"
+      ],
+      "cons": [
+        "macOS app compatibility for niche Windows apps",
+        "Limited internal upgradeability"
+      ],
+      "price": null,
+      "amazon_id": "B0GR1BY1SZ",
+      "sources": [
+        "https://www.tomsguide.com/best-picks/best-13-inch-laptops"
+      ],
+      "amazon_url": "https://www.amazon.com/Apple-2026-MacBook-13-inch-Laptop/dp/B0GR1BY1SZ",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/XkrUYJo6904lY6PtDGmS6F5AHMDnhMVZCMCN46Oh0-o/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9iZmFz/c2V0LmNvc3Rjby1z/dGF0aWMuY29tL1U0/NDdJSDM1L2FzL2dw/OG10bTN0cnAyNmNo/NzdiOThmcXMvNDAw/MDQ0NDI3Mi04NDdf/c2lsdmVyXzE_YXV0/bz13ZWJwJmZvcm1h/dD1qcGcmd2lkdGg9/MzUwJmhlaWdodD0z/NTAmZml0PWJvdW5k/cyZjYW52YXM9MzUw/LDM1MA",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "Lenovo ThinkPad X1 Carbon (latest Gen)",
+      "pros": [
+        "Durable, business-grade design",
+        "Best-in-class keyboard and security features",
+        "Repairable and serviceable for enterprises"
+      ],
+      "cons": [
+        "Premium price",
+        "Some configurations can be heavy on cost"
+      ],
+      "price": null,
+      "amazon_id": "B0BBSWM18S",
+      "sources": [
+        "https://www.techfinitive.com/features/best-of-ces-2026-for-business-our-pick-of-the-laptops-pcs-and-office-improvers-from-the-worlds-biggest-tech-show/"
+      ],
+      "amazon_url": "https://www.amazon.com/Lenovo-Anti-Glare-GB-Fingerprint-Authorized/dp/B0BBSWM18S",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/QHfLY5LYV8LQAOHW0VQhbTfbQXKfmvmGW6As3BRml10/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9pbWFn/ZXMtbmEuc3NsLWlt/YWdlcy1hbWF6b24u/Y29tL2ltYWdlcy9J/LzcxQ1VwbGJDRUJM/LmpwZw",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "Dell 16 Premium",
+      "pros": [
+        "High-end Windows performance",
+        "Enterprise-focused features and build quality",
+        "Strong display and thermal design"
+      ],
+      "cons": [
+        "Expensive",
+        "Larger/heavier than ultraportables"
+      ],
+      "price": null,
+      "amazon_id": "B0G4BBY58X",
+      "sources": [
+        "https://www.itpro.com/hardware/laptops/the-dell-16-premium-is-a-striking-and-sophisticated-high-end-enterprise-grade-machine-with-best-in-class-windows-performance-but-it-will-set-you-back-considerably"
+      ],
+      "amazon_url": "https://www.amazon.com/Dell-Previously-Performance-Touchscreen-Fingerprint/dp/B0G4BBY58X",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/hrkNpi83x0n7V7UkGx0KdgP6LZrCK7O_casP_f-Qne4/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly93d3cu/c3R1ZmYudHYvd3At/Y29udGVudC91cGxv/YWRzL3NpdGVzLzIv/MjAyNS8xMS9EZWxs/LTE2LVByZW1pdW0t/cmV2aWV3LWRlc2t0/b3AuanBn",
+      "resolver": "brave",
+      "valid": true
+    }
+  ],
+  "resolvedLinks": {
+    "https://www.tomsguide.com/best-picks/best-13-inch-laptops": {
+      "title": "The best 13-inch laptops in 2026 — top picks worth your money",
+      "description": "Looking for portability? These are the best 13-inch laptops right now",
+      "image": "https://cdn.mos.cms.futurecdn.net/9WewLFGGuEX6mfwAKBrohk-2560-80.jpg",
+      "url": "https://www.tomsguide.com/best-picks/best-13-inch-laptops"
+    },
+    "https://www.itpro.com/hardware/laptops/the-dell-16-premium-is-a-striking-and-sophisticated-high-end-enterprise-grade-machine-with-best-in-class-windows-performance-but-it-will-set-you-back-considerably": {
+      "title": "The Dell 16 Premium is a striking and sophisticated high-end enterprise-grade machine with best-in-class Windows performance – but it will set you back considerably",
+      "description": "A powerful and capable, yet imperfect, spiritual successor to the Dell XPS 16",
+      "image": "https://cdn.mos.cms.futurecdn.net/Ewe7dCMZfUTQj92h4GutMd-2560-80.jpg",
+      "url": "https://www.itpro.com/hardware/laptops/the-dell-16-premium-is-a-striking-and-sophisticated-high-end-enterprise-grade-machine-with-best-in-class-windows-performance-but-it-will-set-you-back-considerably"
+    }
+  }
+}

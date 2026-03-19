@@ -1,0 +1,123 @@
+{
+  "slug": "external-hard-drives",
+  "query": "best external hard drives",
+  "title": "Best external hard drives | Bin Diving",
+  "description": "AI-dug recommendations for best external hard drives. Compare options and find one that fits.",
+  "dugAt": "2026-03-18T19:13:37.520Z",
+  "recommendations": [
+    {
+      "product_name": "SanDisk Extreme Portable SSD (V2)",
+      "pros": [
+        "High sustained speeds",
+        "Durable IP55-rated build",
+        "Good encryption support"
+      ],
+      "cons": [
+        "Higher cost per GB than HDDs",
+        "Some user reports of occasional failures"
+      ],
+      "price": null,
+      "amazon_id": "B0CSPQD4S3",
+      "sources": [
+        "https://www.techgearlab.com/reviews/electronics/external-hard-drive/sandisk-extreme-portable-v2",
+        "https://www.tomshardware.com/reviews/sandisk-extreme-v2-portable-ssd-review",
+        "https://www.macworld.com/article/2633199/sandisk-extreme-portable-ssd-review.html"
+      ],
+      "amazon_url": "https://www.amazon.com/SanDisk-Extreme-Portable-2TB-External/dp/B0CSPQD4S3",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/d9ShVkJEYS5WmeXFODKAokjYVAsd7G6_9yaMKzvJ9j8/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly93d3cu/Y2FtZXJhbGFicy5j/b20vd3AtY29udGVu/dC91cGxvYWRzLzIw/MjAvMTIvc2FuZGlz/ay1leHRyZW1lLXBy/by1wb3J0YWJsZS1z/c2QtdjItaGVybzIt/OTQ1eDcwOS5qcGc",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "Samsung Portable SSD T9 (or T7 where T9 unavailable)",
+      "pros": [
+        "Very fast NVMe speeds in a compact shell",
+        "Strong brand reliability and software",
+        "Low power draw for laptops/mobile use"
+      ],
+      "cons": [
+        "Pricier than budget SSDs",
+        "Thermal throttling under very heavy continuous load"
+      ],
+      "price": null,
+      "amazon_id": "B0CHFSZX9W",
+      "sources": [
+        "https://www.tomshardware.com/reviews/best-external-hard-drive-ssd%2C5987.html",
+        "https://www.pcworld.com/article/406861/best-external-drives.html"
+      ],
+      "amazon_url": "https://www.amazon.com/SAMSUNG-Portable-Professionals-MU-PG4T0B-AM/dp/B0CHFSZX9W",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/R44NjX_K0JfUnRPrFnpNDIsaRwFk1TuhB_OlZ-_KJbY/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9tLm1l/ZGlhLWFtYXpvbi5j/b20vaW1hZ2VzL0kv/NTEzVFhwcUhMVkwu/anBn",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "WD My Passport (portable HDD)",
+      "pros": [
+        "Lower cost per TB",
+        "Plug-and-play backup features",
+        "Widely available capacities (1TB–5TB+)"
+      ],
+      "cons": [
+        "Much slower than SSDs",
+        "Larger and less rugged than portable SSDs"
+      ],
+      "price": null,
+      "amazon_id": "B07VTWX8MN",
+      "sources": [
+        "https://www.techgearlab.com/reviews/electronics/external-hard-drive/western-digital-my-passport-portable",
+        "https://tech.yahoo.com/computing/articles/best-external-hard-drives-2026-150000907.html"
+      ],
+      "amazon_url": "https://www.amazon.com/Passport-Portable-External-Drive-Black/dp/B07VTWX8MN",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/ZUaNXTJ0fgQqcM-2woatPID37j3D7F_W6MmTKYWc4fI/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly93d3cu/d2VzdGVybmRpZ2l0/YWwuY29tL2NvbnRl/bnQvZGFtL3N0b3Jl/L2VuLXVzL2Fzc2V0/cy9wcm9kdWN0cy9w/b3J0YWJsZS9teS1w/YXNzcG9ydC9nYWxs/ZXJ5L2JsYWNrLzEt/MnRiL015UGFzc3Bv/cnQtMVRCLTJUQi1C/bGFjay1IZXJvLnBu/Zy53ZHRodW1iLjEy/ODAuMTI4MC53ZWJw",
+      "resolver": "brave",
+      "valid": true
+    }
+  ],
+  "resolvedLinks": {
+    "https://www.techgearlab.com/reviews/electronics/external-hard-drive/sandisk-extreme-portable-v2": {
+      "title": "SanDisk Extreme Portable V2 Review",
+      "description": "The SanDisk Extreme Portable V2 easily sped past all of its competitors during every single one of our head-to-head hard drive assessments. While the price...",
+      "image": "https://djd1xqjx2kdnv.cloudfront.net/photos/40/6/522107_4559_XXL.jpg",
+      "url": "https://www.techgearlab.com/reviews/electronics/external-hard-drive/sandisk-extreme-portable-v2"
+    },
+    "https://www.tomshardware.com/reviews/sandisk-extreme-v2-portable-ssd-review": {
+      "title": "SanDisk Extreme v2 Portable SSD Review: Twice the Speed, Better Security",
+      "description": "Integrating WD’s Blue SN550E and leveraging BiCS4 TLC flash, the SanDisk Extreme offers responsive performance in a secure and portable package.",
+      "image": "",
+      "url": "https://www.tomshardware.com/reviews/sandisk-extreme-v2-portable-ssd-review"
+    },
+    "https://www.macworld.com/article/2633199/sandisk-extreme-portable-ssd-review.html": {
+      "title": "SanDisk Extreme Portable SSD review-a good all-rounder at a good price",
+      "description": "SanDisk’s rugged drive is even more rugged than before, and provides higher storage capacity too.",
+      "image": "https://www.macworld.com/wp-content/uploads/2025/07/SanDisk-extreme-portable-ssd-1.jpg?quality=50&strip=all&w=1024",
+      "url": "https://www.macworld.com/article/2633199/sandisk-extreme-portable-ssd-review.html"
+    },
+    "https://www.tomshardware.com/reviews/best-external-hard-drive-ssd%2C5987.html": {
+      "title": "Best External SSDs 2026",
+      "description": "These are the best external SSDs and hard drives we've tested, from dozens of models on the market.",
+      "image": "https://cdn.mos.cms.futurecdn.net/nbtHJx4DAUSRPqR7hjWMg5-2560-80.jpg",
+      "url": "https://www.tomshardware.com/reviews/best-external-hard-drive-ssd,5987.html"
+    },
+    "https://www.pcworld.com/article/406861/best-external-drives.html": {
+      "title": "We tested a bunch of external drives, and these 9 are our favorites",
+      "description": "Whether you're looking for speed, capacity, portability, or all of the above, a USB external hard disk or SSD is a necessary complement to your desktop PC setup.",
+      "image": "https://www.pcworld.com/wp-content/uploads/2026/03/markus-spiske-hL8slYnc-bM-unsplash.jpg?quality=50&strip=all&w=1024",
+      "url": "https://www.pcworld.com/article/406861/best-external-drives.html"
+    },
+    "https://www.techgearlab.com/reviews/electronics/external-hard-drive/western-digital-my-passport-portable": {
+      "title": "Western Digital My Passport Portable Review",
+      "description": "For years now, Western Digital has claimed the leader's jersey among external hard drive manufacturers, and that doesn't just stop with high-end models...",
+      "image": "https://djd1xqjx2kdnv.cloudfront.net/photos/40/6/522151_27269_XXL.jpg",
+      "url": "https://www.techgearlab.com/reviews/electronics/external-hard-drive/western-digital-my-passport-portable"
+    },
+    "https://tech.yahoo.com/computing/articles/best-external-hard-drives-2026-150000907.html": {
+      "title": "The Best External Hard Drives for 2026",
+      "description": "Laptop drive almost full? Need to back up your photos? Desktop-size and portable platter storage has never been cheaper. Our deep-dive reviews help you track down the right external hard drive.",
+      "image": "https://s.yimg.com/lo/mysterio/api/D580A3B73589C7B3E617DC2B8319F342DE93CD9CC16769DBF3900E5586652DB1/subgraphmysterio/resizefit_w1200;quality_90;format_webp/https:%2F%2Fs.yimg.com%2Fos%2Fen%2Fpc_mag_263%2F77d3cbcc2c06f720bea1ea5da813e0ba",
+      "url": "https://www.pcmag.com/picks/the-best-external-hard-drives"
+    }
+  }
+}

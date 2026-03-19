@@ -1,0 +1,104 @@
+{
+  "slug": "dish-soaps",
+  "query": "best dish soaps",
+  "title": "Best dish soaps | Bin Diving",
+  "description": "AI-dug recommendations for best dish soaps. Compare options and find one that fits.",
+  "dugAt": "2026-03-18T17:23:59.086Z",
+  "recommendations": [
+    {
+      "product_name": "Dawn Ultra Dishwashing Liquid",
+      "pros": [
+        "Strong grease-cutting",
+        "Widely available",
+        "Works on cookware and oily stains"
+      ],
+      "cons": [
+        "Some users dislike newer scents",
+        "Can leave residue for sensitive users"
+      ],
+      "price": null,
+      "amazon_id": "B01H7DFM32",
+      "sources": [
+        "https://www.epicurious.com/expert-advice/best-liquid-dish-soaps-article",
+        "https://www.goodhousekeeping.com/home-products/g29209634/best-dish-soaps//"
+      ],
+      "amazon_url": "https://www.amazon.com/Dawn-Ultra-Dishwashing-Liquid-Original/dp/B01H7DFM32",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/BIbeCt4n_M_0cplhuFJsI-u7CxMra3q6A2rZBKmmFPg/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9kMmxu/cjVtaGE3Ynljai5j/bG91ZGZyb250Lm5l/dC9wcm9kdWN0LWlt/YWdlL2ZpbGUvbGFy/Z2VfY2JiNWUyYjUt/NTRkNy00OGIwLWE5/YzUtOTM3NzRmYThm/OWUxLmpwZWc",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "Seventh Generation Free & Clear Dish Soap",
+      "pros": [
+        "Fragrance-free, good for sensitive skin",
+        "Biodegradable formula",
+        "Solid cleaning power for everyday dishes"
+      ],
+      "cons": [
+        "Slightly less degreasing than top synthetic brands",
+        "Thinner consistency"
+      ],
+      "price": null,
+      "amazon_id": "B0091DS0UY",
+      "sources": [
+        "https://www.bobvila.com/diy/best-dish-soaps/",
+        "https://www.goodhousekeeping.com/home-products/g29209634/best-dish-soaps//"
+      ],
+      "amazon_url": "https://www.amazon.com/Seventh-Generation-Concentrated-Detergent-Unscented/dp/B0091DS0UY",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/bD-xQ4rQbF5ItU2Ei9wdI1uthS2gYx53kPInPv1MkPI/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly93d3cu/aW5zdGFjYXJ0LmNv/bS9hc3NldHMvZG9t/YWlucy9wcm9kdWN0/LWltYWdlL2ZpbGUv/bGFyZ2VfZTU4MzQ3/MDctN2E2Ny00MGY5/LThhOTYtNzQxNTc3/ODIxYzVmLnBuZw",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "Palmolive Ultra Dish Soap",
+      "pros": [
+        "Effective on grease",
+        "Affordable and widely available",
+        "Trusted legacy brand"
+      ],
+      "cons": [
+        "Some formulas have strong fragrances",
+        "Performance varies by specific Palmolive line"
+      ],
+      "price": null,
+      "amazon_id": "B0BJYKVLRN",
+      "sources": [
+        "https://www.chefsresource.com/best-dish-soaps/",
+        "https://vigour-group.com/insights/9-best-dish-soap-for-grease-2025/"
+      ],
+      "amazon_url": "https://www.amazon.com/Palmolive-Ultra-Dishwashing-Liquid-Fragrance/dp/B0BJYKVLRN",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/Fr9sLn2qyv8aV_ndh8nFl8Cx_w2fsPKZ-mmFFmfrgOI/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9pbWFn/ZXMtbmEuc3NsLWlt/YWdlcy1hbWF6b24u/Y29tL2ltYWdlcy9J/LzYxNWZtdnp4NE5M/LmpwZw",
+      "resolver": "brave",
+      "valid": true
+    }
+  ],
+  "resolvedLinks": {
+    "https://www.epicurious.com/expert-advice/best-liquid-dish-soaps-article": {
+      "title": "The Best Dish Soaps for Everyday Messes and Crusty Cookware",
+      "description": "We tested more than 20 liquid dish soaps to find the best conventional and eco-friendly options.",
+      "image": "https://assets.epicurious.com/photos/60b7f61dabe3ade6e6aefea9/16:9/w_1280,c_limit/The-Best-Dish-Soap-HERO-04252019_VOG.jpg",
+      "url": "https://www.epicurious.com/expert-advice/best-liquid-dish-soaps-article"
+    },
+    "https://www.goodhousekeeping.com/home-products/g29209634/best-dish-soaps//": {
+      "title": "The Best Dish Soaps That Will Make You Actually Want to Do Dishes",
+      "description": "These great dish soaps cut right through grease and grime.",
+      "image": "https://hips.hearstapps.com/hmg-prod/images/gh-index-dishdetergents-132-web-1670960238.jpg?crop=0.896xw:0.672xh;0.0977xw,0.120xh&resize=1200:*",
+      "url": "https://www.goodhousekeeping.com/home-products/g29209634/best-dish-soaps/"
+    },
+    "https://www.bobvila.com/diy/best-dish-soaps/": {
+      "title": "The Best Dish Soaps for Squeaky-Clean Dishes, Tested",
+      "description": "We tested 10 top-rated dish soaps to find out how well they cut through grease and stuck-on food. Discover the best one in this review.",
+      "image": "https://www.bobvila.com/wp-content/uploads/2024/07/The-Best-Dish-Soap-Options.jpg?quality=85&w=1200",
+      "url": "https://www.bobvila.com/diy/best-dish-soaps/"
+    },
+    "https://vigour-group.com/insights/9-best-dish-soap-for-grease-2025/": {
+      "title": "9 Best Dish Soap for Grease 2025 - Sunshine Detergent Manufacturer",
+      "description": "The best dish soap for grease in 2025 not only cuts through tough residues but also aligns with your personal needs—whether that’s skin sensitivity,",
+      "image": "https://vigour-group.com/wp-content/uploads/2024/10/DOLL-dishwash-liquid.pic_-1024x1024.jpg",
+      "url": "https://vigour-group.com/insights/9-best-dish-soap-for-grease-2025/"
+    }
+  }
+}

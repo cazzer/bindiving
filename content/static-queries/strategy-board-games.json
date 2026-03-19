@@ -1,0 +1,110 @@
+{
+  "slug": "strategy-board-games",
+  "query": "best strategy board games",
+  "title": "Best strategy board games | Bin Diving",
+  "description": "AI-dug recommendations for best strategy board games. Compare options and find one that fits.",
+  "dugAt": "2026-03-18T18:54:10.568Z",
+  "recommendations": [
+    {
+      "product_name": "Twilight Struggle",
+      "pros": [
+        "Deep two-player Cold War strategy",
+        "Highly rated on BoardGameGeek",
+        "Tight, historically themed card-driven play"
+      ],
+      "cons": [
+        "Steep learning curve",
+        "Long playtime (90–180+ mins)"
+      ],
+      "price": null,
+      "amazon_id": "B0060L6EE4",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Twilight_Struggle",
+        "https://www.thegamer.com/best-strategy-board-games/"
+      ],
+      "amazon_url": "https://www.amazon.com/GMT-Games-Twilight-Struggle-Deluxe/dp/B0060L6EE4",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/m4N75wHQyhmpBelG90LKbETDUIlJ28yN9U1eF0_FRqI/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly93d3cu/Ym9hcmRnYW1laGFs/di5jb20vd3AtY29u/dGVudC91cGxvYWRz/LzIwMjAvMTAvVHdp/bGlnaHRTdHJ1Z2ds/ZV9Cb2FyZEdhbWVf/Qm94QXJ0LTEwMjR4/NjgzLmpwZw",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "Gloomhaven",
+      "pros": [
+        "Massive campaign depth and replayability",
+        "Strong tactical combat and legacy elements",
+        "Widely praised by hobby gamers"
+      ],
+      "cons": [
+        "Very large box and long setup",
+        "Significant time investment to complete campaign"
+      ],
+      "price": null,
+      "amazon_id": "B01LZXVN4P",
+      "sources": [
+        "https://boardgamegeek.com/boardgame/174430/gloomhaven",
+        "https://www.gamesradar.com/gloomhaven-has-fallen-to-its-lowest-ever-price-in-this-board-game-sale-on-amazon/"
+      ],
+      "amazon_url": "https://www.amazon.com/Cephalofair-Games-CPH0201-Gloomhaven/dp/B01LZXVN4P",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/G4slpl3uNwWPeBuey7_kMvjfOQjss2B_3e85MLkC-WI/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9zdGF0/aWMwLnRoZWdhbWVy/aW1hZ2VzLmNvbS93/b3JkcHJlc3Mvd3At/Y29udGVudC91cGxv/YWRzLzIwMjEvMTAv/RmVhdHVyZWQtaW1h/Z2UuanBnP3E9NTAm/Zml0PWNyb3Amdz0z/NjAmaD0yNDAmZHBy/PTEuNQ",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "Ark Nova",
+      "pros": [
+        "Modern engine-builder with strong strategic depth",
+        "Well-reviewed since release (awards/nominations)",
+        "Plays solo to 4 players"
+      ],
+      "cons": [
+        "Moderate-to-high complexity",
+        "Card/text density can be intimidating"
+      ],
+      "price": null,
+      "amazon_id": "B09L6FCP9S",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Ark_Nova",
+        "https://needforthis.com/toys-games/ark-nova-board-game-capstone-games-review/"
+      ],
+      "amazon_url": "https://www.amazon.com/Capstone-Games-Drafting-Management-Strategy/dp/B09L6FCP9S",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/IoW2DBCT__q1zyEJOuvgTSwEfoioJYoAVyfh45iC3Gw/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9jZG4u/c2hvcGxpZ2h0c3Bl/ZWQuY29tL3Nob3Bz/LzYzODkzNS9maWxl/cy80NDM4MjgyOC8x/NjUyeDIzMTN4Mi9j/YXBzdG9uZS1nYW1l/cy1hcmstbm92YS5q/cGc",
+      "resolver": "brave",
+      "valid": true
+    }
+  ],
+  "resolvedLinks": {
+    "https://en.wikipedia.org/wiki/Twilight_Struggle": {
+      "title": "Twilight Struggle - Wikipedia",
+      "description": "",
+      "image": "https://upload.wikimedia.org/wikipedia/en/c/c1/GMTtwilightStruggle.jpg",
+      "url": "https://en.wikipedia.org/wiki/Twilight_Struggle"
+    },
+    "https://www.thegamer.com/best-strategy-board-games/": {
+      "title": "The Best Strategy Board Games In 2024",
+      "description": "These board games will test your strategic thinking to the limit.",
+      "image": "https://static0.thegamerimages.com/wordpress/wp-content/uploads/wm/2024/07/collage-image-featuring-three-board-games-dune-imperium-horrified-and-terraforming-mars.jpg?w=1600&h=900&fit=crop",
+      "url": "https://www.thegamer.com/best-strategy-board-games/"
+    },
+    "https://www.gamesradar.com/gloomhaven-has-fallen-to-its-lowest-ever-price-in-this-board-game-sale-on-amazon/": {
+      "title": "Gloomhaven has fallen to its lowest ever price in this board game sale on Amazon",
+      "description": "Gloomhaven has had a massive 55% discount along with other big board game savings at Amazon",
+      "image": "https://cdn.mos.cms.futurecdn.net/MovPP9tDE6KdbN7ZoR4c69-1280-80.jpg",
+      "url": "https://www.gamesradar.com/gloomhaven-has-fallen-to-its-lowest-ever-price-in-this-board-game-sale-on-amazon/"
+    },
+    "https://en.wikipedia.org/wiki/Ark_Nova": {
+      "title": "Ark Nova - Wikipedia",
+      "description": "",
+      "image": "https://upload.wikimedia.org/wikipedia/en/4/42/Ark_Nova_box_cover.jpg",
+      "url": "https://en.wikipedia.org/wiki/Ark_Nova"
+    },
+    "https://needforthis.com/toys-games/ark-nova-board-game-capstone-games-review/": {
+      "title": "Ark Nova Board Game Capstone Games Review: Is This Top-Rated Amazon Pi",
+      "description": "Read our in-depth Ark Nova Board Game Capstone Games review. Rated 4.7/5 stars. Available for $50. Find out if this product is worth buying.",
+      "image": "https://needforthis.com/wp-content/uploads/2026/02/ark-nova-board-game-capstone-games-review-is-this-product-1-1-759x1024.jpg",
+      "url": "https://needforthis.com/toys-games/ark-nova-board-game-capstone-games-review/"
+    }
+  }
+}

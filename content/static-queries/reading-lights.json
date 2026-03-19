@@ -1,0 +1,122 @@
+{
+  "slug": "reading-lights",
+  "query": "best reading lights",
+  "title": "Best reading lights | Bin Diving",
+  "description": "AI-dug recommendations for best reading lights. Compare options and find one that fits.",
+  "dugAt": "2026-03-18T18:46:32.701Z",
+  "recommendations": [
+    {
+      "product_name": "BenQ WiT / e-Reading Desk Lamp",
+      "pros": [
+        "Wide, even illumination",
+        "Eye‑care tech (low blue light, flicker‑free)"
+      ],
+      "cons": [
+        "Premium price",
+        "Large footprint for small desks"
+      ],
+      "price": "$229",
+      "amazon_id": "B0178HLTXO",
+      "sources": [
+        "https://www.benq.com/en-us/lighting/e-reading-desk-lamp.html",
+        "https://appleinsider.com/articles/23/03/25/benq-e-reading-lamp-review-screen-friendly-desk-lighting",
+        "https://hobbiespoint.com/best-desk-lamps-of-2025-wirecutter/"
+      ],
+      "amazon_url": "https://www.amazon.com/BenQ-eReading-LED-Desk-Lamp/dp/B0178HLTXO",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/6MngYf3cFFVQeLOSIsJKd2sVK-7oBfxFzMTZF33hoUk/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9kYXNo/LmNvb2xzbWFydHBo/b25lLmNvbS93cC1j/b250ZW50L3VwbG9h/ZHMvMjAxNy8xMi9J/TUdfMjAxNzEyMDhf/MDkxMzIxLTcwMHg1/MjUuanBn",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "Lampat Dimmable LED Desk Lamp",
+      "pros": [
+        "Very affordable",
+        "Multiple color modes and dim levels"
+      ],
+      "cons": [
+        "Not as bright as premium eye‑care lamps",
+        "Build feels budget in some reviews"
+      ],
+      "price": "$19.99",
+      "amazon_id": "B00KSQ8ZNA",
+      "sources": [
+        "https://hblifebuy.com/lampat-dimmable-led-desk-lamp-review-a-long-term-users-perspective/",
+        "https://bestviewsreviews.com/desk-lamps/lampat-led-desk-lamp-dimmable-led-table-lamp-black-4-lighting-modes-5-level-dimmer-touch-sensitive-control-panel-1-hour-auto-timer-5v2a-usb-charging-port-brand-lampat/",
+        "https://hobbiespoint.com/best-desk-lamps-of-2025-wirecutter/"
+      ],
+      "amazon_url": "https://www.amazon.com/Dimmable-Lighting-5-Level-Touch-Sensitive-Charging/dp/B00KSQ8ZNA",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/TOdDKEHjQmmGmCpC3d38Hnraa0u4xkNKBTBnInc8h04/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9mcmVz/aHNzaG9lLmNvbS9j/ZG4vc2hvcC9wcm9k/dWN0cy9MQU1QQVRE/aW1tYWJsZUxFRERl/c2tMYW1wNExpZ2h0/aW5nTW9kZXM1LUxl/dmVsRGltbWVyXzVf/ODAweC5wbmc_dj0x/NjU2MzU1MjQw",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "Gritin 9/19‑LED Rechargeable Clip‑On Book Light",
+      "pros": [
+        "Compact, rechargeable clip‑on design",
+        "Long battery life and multiple color temps"
+      ],
+      "cons": [
+        "Smaller beam (best for close-up/book use)",
+        "Some listings show variable review quality"
+      ],
+      "price": "$12",
+      "amazon_id": "B08GG42WXY",
+      "sources": [
+        "https://www.awaytravelguide.com/best-clip-on-reading-light-rechargeable-3/",
+        "https://bestreviews.guide/book-reading-lights/gritin-9-led-rechargeable-book-light-b08gg42wxy",
+        "https://notionreads.com/blog/best-reading-lights"
+      ],
+      "amazon_url": "https://www.amazon.com/Book-Light-Gritin-Rechargeable-Reading/dp/B08GG42WXY",
+      "gpt_azn": "B0C3BC4QG2",
+      "image_url": "https://imgs.search.brave.com/gzcuB28y5eDs9wTL_277u2eWf3Hc-l-9E1AeFNa3sK4/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9tLm1l/ZGlhLWFtYXpvbi5j/b20vaW1hZ2VzL0kv/NzF1LThaTi1BVEwu/anBn",
+      "resolver": "brave",
+      "valid": true
+    }
+  ],
+  "resolvedLinks": {
+    "https://www.benq.com/en-us/lighting/e-reading-desk-lamp.html": {
+      "title": "e-Reading Desk Lamp",
+      "description": "BenQ's best desk lamps: From clamp-on to swing arm adjustable. Perfect for home, office, video conferencing, and studying. Enhance workspace lighting and comfort. Shop your ideal desk lamps today!",
+      "image": "https://image.benq.com/is/image/benqco/index-m-6?$ResponsivePreset$",
+      "url": "https://www.benq.com/en-us/lighting/e-reading-desk-lamp.html"
+    },
+    "https://hobbiespoint.com/best-desk-lamps-of-2025-wirecutter/": {
+      "title": "Best Desk Lamps of 2025 (Wirecutter vs Real Life) - Hobbies Point",
+      "description": "In the modern era, where remote work, online learning, and digital consumption are increasingly prevalent, the quality of our immediate environment has a profound impact on productivity, comfort, and long-term well-being. Among the most overlooked yet critical elements of any workspace or reading nook is the desk lamp. Far from being a mere accessory, a...",
+      "image": "",
+      "url": "https://hobbiespoint.com/best-desk-lamps-of-2025-wirecutter/"
+    },
+    "https://hblifebuy.com/lampat-dimmable-led-desk-lamp-review-a-long-term-users-perspective/": {
+      "title": "Lampat Dimmable LED Desk Lamp Review: A Long-Term User's Perspective - Happy Life Buy",
+      "description": "For years, I struggled with inadequate desk lighting, leading to eye strain and headaches. The Lampat Dimmable LED Desk Lamp, available here, would have been",
+      "image": "",
+      "url": "https://hblifebuy.com/lampat-dimmable-led-desk-lamp-review-a-long-term-users-perspective/"
+    },
+    "https://bestviewsreviews.com/desk-lamps/lampat-led-desk-lamp-dimmable-led-table-lamp-black-4-lighting-modes-5-level-dimmer-touch-sensitive-control-panel-1-hour-auto-timer-5v2a-usb-charging-port-brand-lampat/": {
+      "title": "Reviews for Lampat Dimmable LED Desk Lamp, 4 Lighting Modes (Reading/Studying/Relaxation/Bedtime), 5-Level Dimmer, Touch-Sensitive Control Panel, 1-Hour Auto Timer, 5V/1A USB Charging Port, Piano Black ; Lampat: Jul 24, 2024 - Bestviewsreviews",
+      "description": "Lampat Dimmable LED Desk Lamp, 4 Lighting Modes (Reading/Studying/Relaxation/Bedtime), 5-Level Dimmer, Touch-Sensitive Control Panel, 1-Hour Auto Timer, 5V/1A USB Charging Port, Piano Black ; Lampat. Best Desk Lamps based on Build Quality, Design, Light Output, Overall Performance; Pros- Comes with 4 lighting modes and 5 level brightness that meets varied requirements, Provides natural light that protects the eyes from harmful rays, The lamp automatically turns of after 1 hour that helps cut down on electricity cost.",
+      "image": "https://m.media-amazon.com/images/I/316cyUcw7bL._SL500_.jpg",
+      "url": "https://bestviewsreviews.com/desk-lamps/lampat-led-desk-lamp-dimmable-led-table-lamp-black-4-lighting-modes-5-level-dimmer-touch-sensitive-control-panel-1-hour-auto-timer-5v2a-usb-charging-port-brand-lampat/"
+    },
+    "https://www.awaytravelguide.com/best-clip-on-reading-light-rechargeable-3/": {
+      "title": "Top Clip‑on Reading Light (Rechargeable) That Lights Nights - Away Travel Guide",
+      "description": "Find out why this rechargeable clip‑on light turns late nights into brilliant reading sessions, and discover its standout feature that surprises everyone.",
+      "image": "https://www.awaytravelguide.com/wp-content/uploads/2026/03/gritin_rechargeable_19_led_clip_on_zuq4r.jpg",
+      "url": "https://www.awaytravelguide.com/best-clip-on-reading-light-rechargeable-3/"
+    },
+    "https://bestreviews.guide/book-reading-lights/gritin-9-led-rechargeable-book-light-b08gg42wxy": {
+      "title": "Gritin 9 led rechargeable book light Review | BestReviews.guide",
+      "description": "BestReviews.guide analyzes thousands of articles and customer reviews to find the top-rated products at today's lowest prices. Best products, best offers.",
+      "image": "https://images-proxy.bestreviews.guide/RPNM1PcmliQ9WV-ouKcbAWNalFY=/0x300/https://m.media-amazon.com/images/I/51XIT4tKtBL._AC_CX679_.jpg",
+      "url": "https://www.bestreviews.guide/book-reading-lights/gritin-9-led-rechargeable-book-light-b08gg42wxy"
+    },
+    "https://notionreads.com/blog/best-reading-lights": {
+      "title": "Best Reading Lights (2026): 4 Amazon Picks for Bedtime Reading",
+      "description": "Looking for the best reading light? Here are four practical Amazon picks, focused on clip-on and neck lights for bedtime reading.",
+      "image": "https://m.media-amazon.com/images/I/711p9Q6p0vL._AC_UF894,1000_QL80_.jpg",
+      "url": "https://www.notionreads.com/blog/best-reading-lights"
+    }
+  }
+}

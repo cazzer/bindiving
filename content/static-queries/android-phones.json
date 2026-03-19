@@ -1,0 +1,95 @@
+{
+  "slug": "android-phones",
+  "query": "best android phones",
+  "title": "Best android phones | Bin Diving",
+  "description": "AI-dug recommendations for best android phones. Compare options and find one that fits.",
+  "dugAt": "2026-03-18T19:22:17.328Z",
+  "recommendations": [
+    {
+      "product_name": "Samsung Galaxy S26 Ultra",
+      "pros": [
+        "Top-tier cameras",
+        "Privacy Display feature",
+        "High-end performance"
+      ],
+      "cons": [
+        "Expensive flagship",
+        "Large size/weight"
+      ],
+      "price": null,
+      "amazon_id": "B0G4SW3XXP",
+      "sources": [
+        "https://www.tomsguide.com/best-picks/best-phones"
+      ],
+      "amazon_url": "https://www.amazon.com/Samsung-Unlocked-Smartphone-Charging-Warranty/dp/B0G4SW3XXP",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/_JPEgsdiM_DRI67HaEIpkAuXuk8Pb3tshOZERtN_iWA/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly93d3cu/c2FtbXlmYW5zLmNv/bS93cC1jb250ZW50/L3VwbG9hZHMvMjAy/Ni8wMy9zYW1zdW5n/LWdhbGF4eS1zMjYt/dWx0cmEtcmVhci1z/ZzI2LXVsdHJhLTY2/LmpwZw",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "Google Pixel 10 Pro",
+      "pros": [
+        "Leading AI features and software",
+        "Excellent cameras",
+        "Bright, high-quality display"
+      ],
+      "cons": [
+        "Tensor chipset less gaming-focused vs Snapdragon",
+        "Can be pricey at launch"
+      ],
+      "price": null,
+      "amazon_id": "B0FFTT2J6N",
+      "sources": [
+        "https://www.tomsguide.com/phones/google-pixel-phones/the-google-pixel-10-pro-is-the-smartest-phone-weve-ever-tested-and-its-back-to-its-lowest-price-ever-on-amazon"
+      ],
+      "amazon_url": "https://www.amazon.com/Google-Pixel-Pro-Smartphone-Fast-Charging/dp/B0FFTT2J6N",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/1cQz_JcZlNuacL2Cv2p3w_Uv_YJRCSUbc3LGleSRzWA/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9jZG4u/bW9zLmNtcy5mdXR1/cmVjZG4ubmV0L1pK/ZUVLZTc3RkVNUU11/eDZXczJFSDUuanBn",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "OnePlus 12",
+      "pros": [
+        "Strong performance and fast charging",
+        "Good value for flagship specs",
+        "Solid camera system (Hasselblad-tuned)"
+      ],
+      "cons": [
+        "Software update promise shorter than Google/Samsung",
+        "Some availability/compatibility concerns in certain regions"
+      ],
+      "price": null,
+      "amazon_id": "B0D2R84QDF",
+      "sources": [
+        "https://www.androidauthority.com/oneplus-12-review-3413973/"
+      ],
+      "amazon_url": "https://www.amazon.com/OnePlus-Dual-SIM-Smartphone-Processor-Hasselblad/dp/B0D2R84QDF",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/Hrb0ba4okQrXyuI2aQw7jKV2uFeg-QkFaTN45-CbXFs/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly93d3cu/c3R1ZmYudHYvd3At/Y29udGVudC91cGxv/YWRzL3NpdGVzLzIv/MjAyNC8wMS9vbmVw/bHVzLTEyLTEyOS5q/cGc_cXVhbGl0eT03/NSZ3PTEwODA",
+      "resolver": "brave",
+      "valid": true
+    }
+  ],
+  "resolvedLinks": {
+    "https://www.tomsguide.com/best-picks/best-phones": {
+      "title": "Best phones 2026 tested — Our top picks",
+      "description": "We've reviewed dozens of handsets to find the best phones at a wide range of prices",
+      "image": "https://cdn.mos.cms.futurecdn.net/srZUJrAtoEHtxk4vysaxUn-2560-80.jpg",
+      "url": "https://www.tomsguide.com/best-picks/best-phones"
+    },
+    "https://www.tomsguide.com/phones/google-pixel-phones/the-google-pixel-10-pro-is-the-smartest-phone-weve-ever-tested-and-its-back-to-its-lowest-price-ever-on-amazon": {
+      "title": "The Google Pixel 10 Pro is the smartest phone we’ve ever tested, and it's back to its lowest price ever on Amazon",
+      "description": "The Google Pixel 10 Pro does everything you could ask from a phone and more, and it’s currently 25% off",
+      "image": "https://cdn.mos.cms.futurecdn.net/m2HvdBLcUGvZDkBXJRNiHH-2000-80.jpg",
+      "url": "https://www.tomsguide.com/phones/google-pixel-phones/the-google-pixel-10-pro-is-the-smartest-phone-weve-ever-tested-and-its-back-to-its-lowest-price-ever-on-amazon"
+    },
+    "https://www.androidauthority.com/oneplus-12-review-3413973/": {
+      "title": "OnePlus 12 review: Should you buy it?",
+      "description": "It's got all that and the kitchen sink, but is the OnePlus 12 worth your money? Find out in our OnePlus 12 review.",
+      "image": "https://www.androidauthority.com/wp-content/uploads/2024/02/oneplus-12-camera-on-box.jpg",
+      "url": "https://www.androidauthority.com/oneplus-12-review-3413973/"
+    }
+  }
+}

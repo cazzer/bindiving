@@ -1,0 +1,110 @@
+{
+  "slug": "slow-cookers",
+  "query": "best slow cookers",
+  "title": "Best slow cookers | Bin Diving",
+  "description": "AI-dug recommendations for best slow cookers. Compare options and find one that fits.",
+  "dugAt": "2026-03-18T16:53:58.807Z",
+  "recommendations": [
+    {
+      "product_name": "Crock-Pot Programmable 6-Quart Slow Cooker (6 qt)",
+      "pros": [
+        "Reliable basic slow-cooking",
+        "Programmable timer",
+        "Good capacity for families"
+      ],
+      "cons": [
+        "Few advanced features",
+        "Basic design"
+      ],
+      "price": null,
+      "amazon_id": "B004P2NG0K",
+      "sources": [
+        "https://www.theguardian.com/thefilter-us/2025/oct/27/best-slow-cooker-us",
+        "https://www.bonappetit.com/story/best-slow-cookers"
+      ],
+      "amazon_url": "https://www.amazon.com/Crock-Pot-SCCPVL610-S-6-Quart-Programmable-Stainless/dp/B004P2NG0K",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/OWlMAlFBx4amiZU-p7vyi5x83jdhof0F7fHYp4Qkr9c/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9pNS53/YWxtYXJ0aW1hZ2Vz/LmNvbS9zZW8vSGFt/aWx0b24tQmVhY2gt/UHJvZ3JhbW1hYmxl/LVN0YXktb3ItR28t/U2xvdy1Db29rZXIt/Ny1RdWFydC1DYXBh/Y2l0eS1TaWx2ZXIt/MzM2NzZfZWU3OTg0/YTAtNmEwNy00YzY3/LWI5OWYtMTExMGM3/NTBkZjc4LmNhMmI4/Yjg1Y2NkOTE1YmVj/M2U5ZjQ1MDY5ODA3/MjUyLmpwZWc_b2Ru/SGVpZ2h0PTMyMCZv/ZG5XaWR0aD0zMjAm/b2RuQmc9RkZGRkZG",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "Hamilton Beach Set & Forget / Programmable 6-Quart Slow Cooker (Set 'n Forget)",
+      "pros": [
+        "Temperature probe / timer options",
+        "Consistent heating",
+        "Affordable"
+      ],
+      "cons": [
+        "Controls can be fiddly on some models",
+        "Stoneware can be heavy"
+      ],
+      "price": null,
+      "amazon_id": "B00EZI26GO",
+      "sources": [
+        "https://www.foodnetwork.com/how-to/packages/shopping/product-reviews/best-slow-cookers",
+        "https://www.theguardian.com/thefilter-us/2025/oct/27/best-slow-cooker-us"
+      ],
+      "amazon_url": "https://www.amazon.com/Hamilton-Beach-Programmable-Temperature-33969A/dp/B00EZI26GO",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/1IWJ7ALTft2WGx76gbdA1qb7c2WWZB8lrnDA-iQnr7g/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9waXNj/ZXMuYmJ5c3RhdGlj/LmNvbS9pbWFnZTIv/QmVzdEJ1eV9VUy9p/bWFnZXMvcHJvZHVj/dHMvNjM5MS82Mzkx/OTM4X3NkLmpwZztt/YXhIZWlnaHQ9NDI3/O21heFdpZHRoPTY0/MD9mb3JtYXQ9d2Vi/cA",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "Ninja Foodi PossibleCooker PRO 8.5-Quart Multicooker (slow-cook + multicook functions)",
+      "pros": [
+        "Multi-function (slow cook, sear, sous-vide, oven-safe pot)",
+        "Large capacity",
+        "Strong recent positive reviews and frequent deals"
+      ],
+      "cons": [
+        "Some users report lower slow-cook temps vs traditional cookers",
+        "More complex than a basic crockpot"
+      ],
+      "price": null,
+      "amazon_id": "B0B4PPHG8G",
+      "sources": [
+        "https://www.techradar.com/home/small-appliances/the-ninja-foodi-possiblecooker-is-an-excellent-value-multicooker-and-its-crashed-to-a-record-low-price-on-amazon",
+        "https://www.techgearlab.com/reviews/kitchen/slow-cooker/ninja-foodi-possiblecooker-pro-8-5-quart"
+      ],
+      "amazon_url": "https://www.amazon.com/Ninja-MC1001-PossibleCooker-Multi-Cooker-Integrated/dp/B0B4PPHG8G",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/O6Ue9Y9PA2s_ySSROM5ZuhAC9VWwHk7tplKYA3g0Om0/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9kamQx/eHFqeDJrZG52LmNs/b3VkZnJvbnQubmV0/L3Bob3Rvcy8zOC8x/OC81MDMzMzRfODQ1/NV9MMi5qcGc",
+      "resolver": "brave",
+      "valid": true
+    }
+  ],
+  "resolvedLinks": {
+    "https://www.theguardian.com/thefilter-us/2025/oct/27/best-slow-cooker-us": {
+      "title": "The best slow cookers in the US for every type of home cook",
+      "description": "We cooked countless pounds of pot roast, potatoes, carrots and parsnips to find the top slow cookers and Crock-Pots on the market",
+      "image": "https://i.guim.co.uk/img/media/5d35e43ee1b4df91b9c4f54ae371f0093f81c43d/362_0_4079_3264/master/4079.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvZmlsdGVyLXVzLnBuZw&enable=upscale&s=245894f8b9b9c7080a9ff2a6187e0e0a",
+      "url": "https://www.theguardian.com/thefilter-us/2025/oct/27/best-slow-cooker-us"
+    },
+    "https://www.bonappetit.com/story/best-slow-cookers": {
+      "title": "The Best Slow Cookers for Your Stews, Braises, and Dips",
+      "description": "It's for so much more than that Velveeta queso",
+      "image": "https://assets.bonappetit.com/photos/67e5a9437c7de560474e4d20/16:9/w_1280,c_limit/Best%20Slow%20Cooker.jpg",
+      "url": "https://www.bonappetit.com/story/best-slow-cookers"
+    },
+    "https://www.foodnetwork.com/how-to/packages/shopping/product-reviews/best-slow-cookers": {
+      "title": "7 Best Slow Cookers of 2026, Tested and Reviewed",
+      "description": "After more than 150 hours of cooking, we found the best slow cookers you can buy.",
+      "image": "https://food.fnr.sndimg.com/content/dam/images/food/fullset/2023/1/03/fn_best-slow-cookers_s4x3.png.rend.hgtvcom.616.462.85.suffix/1672777670738.webp",
+      "url": "https://www.foodnetwork.com/how-to/packages/shopping/product-reviews/best-slow-cookers"
+    },
+    "https://www.techradar.com/home/small-appliances/the-ninja-foodi-possiblecooker-is-an-excellent-value-multicooker-and-its-crashed-to-a-record-low-price-on-amazon": {
+      "title": "One of our favourite kitchen gadgets from last year drops to a new record-low price on Amazon",
+      "description": "Here's your chance to bag a gob-smacking record-low price for the 4.5-star-rated multicooker from Ninja that was one of our favourite kitchen gadgets from last year.",
+      "image": "https://cdn.mos.cms.futurecdn.net/ue5CK5QjPrDoFzsHLjKxfk-2000-80.jpg",
+      "url": "https://www.techradar.com/home/small-appliances/the-ninja-foodi-possiblecooker-is-an-excellent-value-multicooker-and-its-crashed-to-a-record-low-price-on-amazon"
+    },
+    "https://www.techgearlab.com/reviews/kitchen/slow-cooker/ninja-foodi-possiblecooker-pro-8-5-quart": {
+      "title": "Ninja Foodi PossibleCooker Pro 8.5-Quart Review",
+      "description": "With eight cooking functions and the ability to replace 14 cooking tools and appliances, the Ninja Foodi PossibleCooker Pro 8.5-Quart is a solid...",
+      "image": "https://djd1xqjx2kdnv.cloudfront.net/photos/38/17/503198_25708_XXL.jpg",
+      "url": "https://www.techgearlab.com/reviews/kitchen/slow-cooker/ninja-foodi-possiblecooker-pro-8-5-quart"
+    }
+  }
+}

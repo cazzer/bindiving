@@ -1,0 +1,113 @@
+{
+  "slug": "carbon-steel-pans",
+  "query": "best carbon steel pans",
+  "title": "Best carbon steel pans | Bin Diving",
+  "description": "AI-dug recommendations for best carbon steel pans. Compare options and find one that fits.",
+  "dugAt": "2026-03-18T16:56:28.907Z",
+  "recommendations": [
+    {
+      "product_name": "de Buyer MINERAL B Carbon Steel Fry Pan (Mineral B)",
+      "pros": [
+        "Professional-grade French carbon steel",
+        "Mirror-smooth surface for good searing",
+        "Made in France, durable construction"
+      ],
+      "cons": [
+        "Requires seasoning and break-in",
+        "Heavier than lightweight options"
+      ],
+      "price": "$110",
+      "amazon_id": "B00462QP1G",
+      "sources": [
+        "https://www.debuyer-usa.com/products/mineral-b-fry-pan",
+        "https://prudentreviews.com/wp-content/uploads/Frying-Pan-Chart-Sheet29.pdf",
+        "https://www.reviewed.com/cooking/best-right-now/best-carbon-steel-pans"
+      ],
+      "amazon_url": "https://www.amazon.com/Buyer-MINERAL-Carbon-Steel-Fry/dp/B00462QP1G",
+      "gpt_azn": "B00462QP1G",
+      "image_url": "https://imgs.search.brave.com/FwKnmMB4XpmdJNouVc7q6ZiimlcA98E5a_UeCcBTXu8/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9tLm1l/ZGlhLWFtYXpvbi5j/b20vaW1hZ2VzL0kv/NTFtWEF0RG9xTEwu/anBn",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "Matfer Bourgeat Black Steel Round Frying Pan",
+      "pros": [
+        "Restaurant-grade thickness and heat retention",
+        "Well-regarded by cooks and test labs",
+        "Simple, long-lasting design"
+      ],
+      "cons": [
+        "Needs seasoning; some users report surface blemishes on delivery",
+        "Size/handle options vary by model"
+      ],
+      "price": null,
+      "amazon_id": "B002ONP7UY",
+      "sources": [
+        "https://matferbourgeatusa.com/product/black-steel-round-frying-pan-10/",
+        "https://www.cooksdirect.com/matfer-bourgeat-062005-11-7-8-round-frying-pan-cooks-illustrated-1-fry-pan-22854f9",
+        "https://www.reviewed.com/cooking/best-right-now/best-carbon-steel-pans"
+      ],
+      "amazon_url": "https://www.amazon.com/Matfer-Bourgeat-62005-Frying-Handle/dp/B002ONP7UY",
+      "gpt_azn": "B00076QWUY",
+      "image_url": "https://imgs.search.brave.com/Dw8mQxu0YwVjAQgGqdfSV6B3QlqK0hTNHyhXUx65NFk/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9tLm1l/ZGlhLWFtYXpvbi5j/b20vaW1hZ2VzL0kv/MjE1bTVSblZQckwu/anBn",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "Lodge Carbon Steel Skillet, Pre-Seasoned (Lodge CRS)",
+      "pros": [
+        "Pre-seasoned and ready to use out of box",
+        "Very affordable and widely available",
+        "Made by a long-established US cookware maker"
+      ],
+      "cons": [
+        "Rougher surface finish than some European pans",
+        "Heavier than thin carbon-steel alternatives"
+      ],
+      "price": "$45",
+      "amazon_id": "B0D7NS3KJJ",
+      "sources": [
+        "https://www.lodgecastiron.com/carbon-steel-skillet",
+        "https://www.reviewed.com/cooking/best-right-now/best-carbon-steel-pans",
+        "https://prudentreviews.com/wp-content/uploads/Frying-Pan-Chart-Sheet29.pdf"
+      ],
+      "amazon_url": "https://www.amazon.com/Lodge-Carbon-Steel-Skillet-Pre-Seasoned/dp/B0D7NS3KJJ",
+      "gpt_azn": "B009418TN6",
+      "image_url": "https://imgs.search.brave.com/cvX2_ZPSGbKX5pNfDBNlsNGO_fj5lAXUF7YktSFTfIc/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9tLm1l/ZGlhLWFtYXpvbi5j/b20vaW1hZ2VzL0kv/MjFrWE5iaThQbkwu/anBn",
+      "resolver": "brave",
+      "valid": true
+    }
+  ],
+  "resolvedLinks": {
+    "https://www.debuyer-usa.com/products/mineral-b-fry-pan": {
+      "title": "MINERAL B Carbon Steel Fry Pan | de Buyer USA",
+      "description": "Our MINERAL B Carbon Steel Fry Pan is the perfect choice for your kitchen. Elevate your cooking experience now with high-quality French-made cookware.",
+      "image": "http://www.debuyer-usa.com/cdn/shop/files/5610-28_packshot.jpg?v=1762446187",
+      "url": "https://www.debuyer-usa.com/products/mineral-b-fry-pan"
+    },
+    "https://prudentreviews.com/wp-content/uploads/Frying-Pan-Chart-Sheet29.pdf": {
+      "title": "",
+      "description": "",
+      "image": "",
+      "url": "https://prudentreviews.com/wp-content/uploads/Frying-Pan-Chart-Sheet29.pdf"
+    },
+    "https://www.reviewed.com/cooking/best-right-now/best-carbon-steel-pans": {
+      "title": "The Best Carbon Steel Pans of 2026",
+      "description": "Can this one pan replace your stainless steel, cast-iron, and nonstick pans?",
+      "image": "https://reviewed-com-res.cloudinary.com/image/fetch/s--KE2llc6a--/b_white,c_limit,cs_srgb,f_auto,fl_progressive.strip_profile,g_center,q_auto,w_1200/https://reviewed-production.s3.amazonaws.com/1613059142000/hero.JPG",
+      "url": "https://www.reviewed.com/cooking/best-right-now/best-carbon-steel-pans"
+    },
+    "https://matferbourgeatusa.com/product/black-steel-round-frying-pan-10/": {
+      "title": "Matfer Bourgeat Black Carbon Steel Frying Pan | Products | Matfer Bourgeat USA",
+      "description": "",
+      "image": "",
+      "url": "https://matferbourgeatusa.com/product/black-steel-round-frying-pan-10/"
+    },
+    "https://www.lodgecastiron.com/carbon-steel-skillet": {
+      "title": "Carbon Steel Skillet",
+      "description": "Made in the USA. Shop Seasoned Carbon Steel Pans at Lodge Cast Iron, offering quality carbon steel cookware, frying pans, skillets & more.",
+      "image": "http://www.lodgecastiron.com/cdn/shop/files/CRS10_L.jpg?v=1741190300",
+      "url": "https://www.lodgecastiron.com/products/carbon-steel-skillet"
+    }
+  }
+}

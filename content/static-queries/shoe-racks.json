@@ -1,0 +1,107 @@
+{
+  "slug": "shoe-racks",
+  "query": "best shoe racks",
+  "title": "Best shoe racks | Bin Diving",
+  "description": "AI-dug recommendations for best shoe racks. Compare options and find one that fits.",
+  "dugAt": "2026-03-18T16:15:28.121Z",
+  "recommendations": [
+    {
+      "product_name": "Joseph Joseph Level Adjustable Tier Shoe Rack Organizer",
+      "pros": [
+        "Slim, space-saving profile",
+        "Adjustable shelves fit boots or trainers"
+      ],
+      "cons": [
+        "Holds only a few pairs per unit",
+        "May require wall attachment when stacked"
+      ],
+      "price": "$39 (reported)",
+      "amazon_id": "B0CQTD5GJ8",
+      "sources": [
+        "https://www.homesandgardens.com/solved/adjustable-joseph-joseph-shoe-rack",
+        "https://www.goodhousekeeping.com/home-products/g63606174/best-shoe-rack/"
+      ],
+      "amazon_url": "https://www.amazon.com/Joseph-Adjustable-Organiser-Durable-Shelves/dp/B0CQTD5GJ8",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/4FXzMlNLbekkpUM5And7Y1bYmT6yFzINFePEKq8f2a8/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9tLm1l/ZGlhLWFtYXpvbi5j/b20vaW1hZ2VzL0kv/NDFoU3NGc042cEwu/anBn",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "SONGMICS 4-Tier/5-Tier Stackable Shoe Rack (shoe tower)",
+      "pros": [
+        "High capacity and stackable",
+        "Customizable/configurable layout"
+      ],
+      "cons": [
+        "Assembly can be time-consuming",
+        "Plastic/mesh shelves less durable than wood/metal"
+      ],
+      "price": null,
+      "amazon_id": "B076J4RX7G",
+      "sources": [
+        "https://www.reviewed.com/home-outdoors/best-right-now/best-shoe-racks",
+        "https://www.nbcnews.com/select/shopping/best-shoe-racks-rcna225196"
+      ],
+      "amazon_url": "https://www.amazon.com/SONGMICS-Adjustable-Organizer-Stackable-ULMR05A/dp/B076J4RX7G",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/qru3AP3docwXjyvn5Tj_0tZ7uZqBcCVIGV5O1pisE5M/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9tLm1l/ZGlhLWFtYXpvbi5j/b20vaW1hZ2VzL0kv/NTFnaktkSW5wTkwu/anBn",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "VASAGLE Shoe Bench / 3-Tier Shoe Rack (industrial entryway bench)",
+      "pros": [
+        "Doubles as a seat with storage",
+        "Stylish furniture-like appearance"
+      ],
+      "cons": [
+        "Takes more floor space than slim racks",
+        "Higher price than simple metal/plastic racks"
+      ],
+      "price": null,
+      "amazon_id": "B07F31MQLB",
+      "sources": [
+        "https://www.forbes.com/sites/forbes-personal-shopper/article/best-shoe-racks/",
+        "https://rank1one.com/best-shoe-racks/"
+      ],
+      "amazon_url": "https://www.amazon.com/VASAGLE-Storage-Entryway-Furniture-Industrial/dp/B07F31MQLB",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/qRht658ciTIhyLkAt09d-WFqR_pU9kQGHtbE9FVAzCo/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9tLm1l/ZGlhLWFtYXpvbi5j/b20vaW1hZ2VzL0kv/NTFEc1VoNlZtc0wu/anBn",
+      "resolver": "brave",
+      "valid": true
+    }
+  ],
+  "resolvedLinks": {
+    "https://www.homesandgardens.com/solved/adjustable-joseph-joseph-shoe-rack": {
+      "title": "This $39 Adjustable and Sleek Joseph Joseph Shoe Rack Solves Winter Shoe Pileups in Compact Entryways",
+      "description": "It's quick to assemble and adjustable for better functionality in your space from one season to the next",
+      "image": "https://cdn.mos.cms.futurecdn.net/27tuNJUcdboEi8a7sjMT8C-1600-80.jpg",
+      "url": "https://www.homesandgardens.com/solved/adjustable-joseph-joseph-shoe-rack"
+    },
+    "https://www.goodhousekeeping.com/home-products/g63606174/best-shoe-rack/": {
+      "title": "Eliminate That Pile of Shoes in the Doorway With These Top-Tested Shoe Racks",
+      "description": "It hardly takes any effort.",
+      "image": "https://hips.hearstapps.com/hmg-prod/images/ghk-indextesting-shoeracks-028-1-67a4d09a5ac2d.jpg?crop=1.00xw:0.752xh;0,0.0938xh&resize=1200:*",
+      "url": "https://www.goodhousekeeping.com/home-products/g63606174/best-shoe-racks/"
+    },
+    "https://www.reviewed.com/home-outdoors/best-right-now/best-shoe-racks": {
+      "title": "The Best Shoe Racks of 2026",
+      "description": "The Best Shoe Racks",
+      "image": "https://reviewed-com-res.cloudinary.com/image/fetch/s--176DQI69--/b_white,c_limit,cs_srgb,f_auto,fl_progressive.strip_profile,g_center,q_auto,w_1200/https://reviewed-production.s3.amazonaws.com/1653045979024/8D65F082-4CBB-4C57-9153-83D0C249469A_1_201_a.jpeg",
+      "url": "https://www.reviewed.com/home-outdoors/best-right-now/best-shoe-racks"
+    },
+    "https://www.nbcnews.com/select/shopping/best-shoe-racks-rcna225196": {
+      "title": "The best way to organize all of your shoes (sneakers, boots, heels and more)",
+      "description": "To save some space, here are expert-recommended shoe racks, shelves and organizers for your closet, entryway and more.",
+      "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2025-08/250813-best-shoe-rack-vl-main-2568c8.jpg",
+      "url": "https://www.nbcnews.com/select/shopping/best-shoe-racks-rcna225196"
+    },
+    "https://rank1one.com/best-shoe-racks/": {
+      "title": "The 5 Best Shoe Racks in 2025 2026 | Rank1one",
+      "description": "Keeping your shoes organized is not only about cleanliness but also about extending the life of your footwear and making your space look stylish. In 2025,",
+      "image": "https://rank1one.com/wp-content/uploads/2025/08/image-111.png",
+      "url": "https://rank1one.com/best-shoe-racks/"
+    }
+  }
+}

@@ -1,0 +1,95 @@
+{
+  "slug": "stroller-wagons",
+  "query": "best stroller wagons",
+  "title": "Best stroller wagons | Bin Diving",
+  "description": "AI-dug recommendations for best stroller wagons. Compare options and find one that fits.",
+  "dugAt": "2026-03-18T22:38:27.203Z",
+  "recommendations": [
+    {
+      "product_name": "Veer Cruiser All-Terrain Stroller Wagon",
+      "pros": [
+        "Premium all-terrain build",
+        "Converts between wagon and stroller modes"
+      ],
+      "cons": [
+        "High price",
+        "Bulky for small trunks"
+      ],
+      "price": null,
+      "amazon_id": "B074YJY8LQ",
+      "sources": [
+        "https://babygearsreview.com/reviews/stroller/veer-cruiser",
+        "https://manuals.plus/asin/B074YJY8LQ.pdf"
+      ],
+      "amazon_url": "https://www.amazon.com/Veer-All-Terrain-Certified-Lightweight-Collapsible/dp/B074YJY8LQ",
+      "gpt_azn": "B074YJY8LQ",
+      "image_url": "https://imgs.search.brave.com/OQtGyGYCDivkIbJ3C0pJgFtAh9W4yWJ_EWAZOf-tyXo/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly93d3cu/ZGVzdGluYXRpb25i/YWJ5a2lkcy5jb20v/Y2RuL3Nob3AvcHJv/ZHVjdHMvdmVlci1j/cnVzaWVyLXdhZ29u/LnBuZz92PTE2MzMw/NjIxMTQmd2lkdGg9/MTIwMA",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "Wonderfold W2 Stroller Wagon (W2 Original / W2 Elite)",
+      "pros": [
+        "Robust multi-passenger design",
+        "Adjustable canopy and 5‑point harnesses"
+      ],
+      "cons": [
+        "Large and heavy",
+        "Can be pricey for features"
+      ],
+      "price": null,
+      "amazon_id": "B089QJ6X3X",
+      "sources": [
+        "https://wonderfold.com/collections/w2-models/products/w2-stroller-wagon",
+        "https://fathercraft.com/wonderfold-wagon-review/"
+      ],
+      "amazon_url": "https://www.amazon.com/WONDERFOLD-Original-Stroller-Wagon-Seater/dp/B089QJ6X3X",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/F1fZRxBpT74FuzZU4U7Hmr0WXwuuZBctzs8Gd55Tje8/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9sYWtl/bGFuZGJhYnlvbmxp/bmUuY29tL2Nkbi9z/aG9wL2ZpbGVzLzI1/MDIxNy1Qcm9kdWN0/LVcyRUxUUFJPLUJM/Sy0wOV8xX2U5MTBj/YmVmLWU3NDctNGEz/NC04NjZkLWZkOWYz/MTE4YTJlZC5qcGc_/dj0xNzY4MjMwMjE2",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "Keenz 7S Stroller Wagon (7S / 7S 2.0)",
+      "pros": [
+        "Lightweight aluminum frame",
+        "Collapsible fold and good accessory support"
+      ],
+      "cons": [
+        "Less premium ride than Veer",
+        "Some reports of parts/accessory reliance"
+      ],
+      "price": "$429.99",
+      "amazon_id": "B0B4B89JNP",
+      "sources": [
+        "https://keenz.us/products/keenz-7s-replacement-harness-complete-set",
+        "https://monkeybunks.com/products/the-original-keenz-7s-2-0-ultimate-adventure-stroller-wagon-2-passenger"
+      ],
+      "amazon_url": "https://www.amazon.com/Keenz-Original-Stroller-Wagon-Collapsible/dp/B0B4B89JNP",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/Wn_PJ8_KrLPNryKFZPX9n7e-i0CWK0QOPD-KiRzKHwk/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9tb25r/ZXlidW5rcy5jb20v/Y2RuL3Nob3AvcHJv/ZHVjdHMva2Vlbnot/a2VlbnotN3MtdWx0/aW1hdGUtYWR2ZW50/dXJlLXN0cm9sbGVy/LXdhZ29uLTQtcGFz/c2VuZ2VyLTM3MzUz/NF80MDB4LmpwZz92/PTE2NjAxODM1NzY",
+      "resolver": "brave",
+      "valid": true
+    }
+  ],
+  "resolvedLinks": {
+    "https://babygearsreview.com/reviews/stroller/veer-cruiser": {
+      "title": "Veer Cruiser Review: Premium All-Terrain Stroller Wagon",
+      "description": "Comprehensive review of the Veer Cruiser stroller wagon - features, pros, cons, specifications, and buying guide for 2024-2025",
+      "image": "",
+      "url": "https://babygearsreview.com/reviews/stroller/veer-cruiser"
+    },
+    "https://wonderfold.com/collections/w2-models/products/w2-stroller-wagon": {
+      "title": "W2 Double Stroller Wagon l Two-Seater Wagon | WonderFold",
+      "description": "Introducing WonderFold’s W2 double stroller wagon, featuring an easy fold and push handle for safe, comfy transport—perfect for parents to enjoy quality time with their kids.",
+      "image": "http://wonderfold.com/cdn/shop/files/w2originalstrollerwagon1_0452ead4-94a7-4e8f-aaf7-f76599de2d5c.jpg?v=1739923463",
+      "url": "https://wonderfold.com/products/w2-stroller-wagon"
+    },
+    "https://keenz.us/products/keenz-7s-replacement-harness-complete-set": {
+      "title": "Keenz 7S Replacement Harness (complete set)",
+      "description": "Shop Keenz's 7S Ultimate Adventure replacement parts replacement harness set for your stroller wagon. Browse Keenz's replacement part selection today!",
+      "image": "http://keenz.us/cdn/shop/files/Screenshot_2024-03-19_at_3.06.31_PM.png?crop=center&height=1200&v=1710875216&width=1200",
+      "url": "https://keenz.us/products/keenz-7s-replacement-harness-complete-set"
+    }
+  }
+}

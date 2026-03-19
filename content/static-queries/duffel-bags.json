@@ -1,0 +1,107 @@
+{
+  "slug": "duffel-bags",
+  "query": "best duffel bags",
+  "title": "Best duffel bags | Bin Diving",
+  "description": "AI-dug recommendations for best duffel bags. Compare options and find one that fits.",
+  "dugAt": "2026-03-18T18:35:32.415Z",
+  "recommendations": [
+    {
+      "product_name": "The North Face Base Camp Duffel",
+      "pros": [
+        "Very durable, water-resistant fabric",
+        "Multiple carry options (grab handles + backpack straps)",
+        "Proven long-term popularity"
+      ],
+      "cons": [
+        "Relatively heavy when empty",
+        "Can be bulky for strict carry-on limits",
+        "Zippers can be stiff initially"
+      ],
+      "price": null,
+      "amazon_id": "B078KNPJQ9",
+      "sources": [
+        "https://gearjunkie.com/travel/best-duffel-bags",
+        "https://www.wired.com/review/the-north-face-base-camp-duffel-bag/"
+      ],
+      "amazon_url": "https://www.amazon.com/THE-NORTH-FACE-Base-Camp/dp/B078KNPJQ9",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/c61zTzHlQZinD45tGmRTT_XeWq_43xECHNOTzM2DsvM/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9ka3Mu/c2NlbmU3LmNvbS9p/cy9pbWFnZS9ka3Nj/ZG4vMjFUTk9VQlND/TVBWWUdSREZDVFBf/VE5GX0JsYWNrX0Fz/cGhhbHRfR3JleV9p/cy8_d2lkPTI1MiZo/ZWk9MjUyJnFsdD04/NSwwJmZtdD1qcGcm/b3Bfc2hhcnBlbj0x",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "Patagonia Black Hole Duffel (55L)",
+      "pros": [
+        "Rugged, weather-resistant fabric",
+        "Padded backpack straps that stow away",
+        "Trusted all‑around travel duffel"
+      ],
+      "cons": [
+        "No hip belt for heavy loads",
+        "Can be larger than some airline carry-on limits",
+        "Older/stylish finishes have changed over time"
+      ],
+      "price": null,
+      "amazon_id": "B0CV5RNFJK",
+      "sources": [
+        "https://www.outdoorgearlab.com/reviews/travel/duffel-bag/patagonia-black-hole-duffel",
+        "https://www.gearpatrol.com/outdoors/a43845235/patagonia-black-hole-duffel-deal-2026/"
+      ],
+      "amazon_url": "https://www.amazon.com/PATAGONIA-BLACK-HOLE-DUFFEL-55L/dp/B0CV5RNFJK",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/vi5SUTmgYEP0vvtipUFguZShPpdbOg49ZbgpDRdDuNA/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9jZG4u/c2hvcGxpZ2h0c3Bl/ZWQuY29tL3Nob3Bz/LzYzNDY4NS9maWxl/cy82MTg4OTUwMi85/MDB4NjYweDIvcGF0/YWdvbmlhLXBhdGFn/b25pYS1ibGFjay1o/b2xlLWR1ZmZlbC01/NWwtY2xlYXJhbmMu/anBn",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "Osprey Transporter Duffel",
+      "pros": [
+        "Lightweight yet rugged construction",
+        "Comfortable stowable backpack harness",
+        "Good organizational features and handles"
+      ],
+      "cons": [
+        "Less weatherproof than coated TPU bags",
+        "Fewer internal pockets on some sizes",
+        "Not as heavy-duty as expedition duffels"
+      ],
+      "price": null,
+      "amazon_id": "B0CLVNWZB4",
+      "sources": [
+        "https://www.outdoorgearlab.com/reviews/travel/duffel-bag/osprey-transporter",
+        "https://gearjunkie.com/travel/best-duffel-bags"
+      ],
+      "amazon_url": "https://www.amazon.com/Osprey-Transporter-Travel-Duffel-Bag/dp/B0CLVNWZB4",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/yf7tv4L7frTATzgNuSMDPc_HnoXwE17YLNYtolNkIX4/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly93d3cu/dGhlYnJva2ViYWNr/cGFja2VyLmNvbS93/cC1jb250ZW50L3Vw/bG9hZHMvMjAyNC8w/My90YmJ0ZWFtLWdl/YXItb3NwcmV5LXRy/YW5zcG9ydGVyLWR1/ZmZlbC1zaXguanBn",
+      "resolver": "brave",
+      "valid": true
+    }
+  ],
+  "resolvedLinks": {
+    "https://gearjunkie.com/travel/best-duffel-bags": {
+      "title": "The Best Duffel Bags of 2026",
+      "description": "We tested the best duffel bags of 2026 with options for every adventure and budget. Top picks include Patagonia, Black Diamond, and more!",
+      "image": "https://s3.amazonaws.com/images.gearjunkie.com/uploads/2023/08/ATP01150-e1693263078223.jpg",
+      "url": "https://gearjunkie.com/travel/best-duffel-bags"
+    },
+    "https://www.wired.com/review/the-north-face-base-camp-duffel-bag/": {
+      "title": "This Is the No-Frills Pickup Truck of Duffel Bags",
+      "description": "The iconic Base Camp is a bombproof, bare-bones workhorse that lacks the features of newer bags.",
+      "image": "https://media.wired.com/photos/648bb2f0ef8671d76d4a88d4/191:100/w_1280,c_limit/The-North-Face-Base-Camp-Duffel-Bag-Review-Gear.jpg",
+      "url": "https://www.wired.com/review/the-north-face-base-camp-duffel-bag/"
+    },
+    "https://www.outdoorgearlab.com/reviews/travel/duffel-bag/patagonia-black-hole-duffel": {
+      "title": "Patagonia Black Hole Duffel Review",
+      "description": "The Patagonia Black Hole Duffel is an impressive duffel bag that outperformed the rest of our duffel bag lineup thanks to its user-friendly design and...",
+      "image": "https://d1i8d6ce8wwubf.cloudfront.net/photos/28/58/407369_9282_XXL.jpg",
+      "url": "https://www.outdoorgearlab.com/reviews/travel/duffel-bag/patagonia-black-hole-duffel"
+    },
+    "https://www.outdoorgearlab.com/reviews/travel/duffel-bag/osprey-transporter": {
+      "title": "Osprey Transporter Review",
+      "description": "The Osprey Transporter carries on your back better than all other models we've reviewed and has the most comfortable carrying system among the duffel bags...",
+      "image": "https://d1i8d6ce8wwubf.cloudfront.net/photos/32/67/448203_6736_XXL.jpg",
+      "url": "https://www.outdoorgearlab.com/reviews/travel/duffel-bag/osprey-transporter"
+    }
+  }
+}

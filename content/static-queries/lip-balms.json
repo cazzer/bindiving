@@ -1,0 +1,127 @@
+{
+  "slug": "lip-balms",
+  "query": "best lip balms",
+  "title": "Best lip balms | Bin Diving",
+  "description": "AI-dug recommendations for best lip balms. Compare options and find one that fits.",
+  "dugAt": "2026-03-18T18:14:19.851Z",
+  "recommendations": [
+    {
+      "product_name": "Laneige Lip Sleeping Mask",
+      "pros": [
+        "Intense overnight hydration",
+        "Pleasant flavors/scents"
+      ],
+      "cons": [
+        "Jar format (finger application)",
+        "Some users find it sticky/overhyped"
+      ],
+      "price": null,
+      "amazon_id": "B07XXPHQZK",
+      "sources": [
+        "https://us.laneige.com/products/lip-sleeping-mask",
+        "https://www.the-independent.com/extras/indybest/fashion-beauty/beauty/laneige-lip-sleeping-mask-review-b2614188.html",
+        "https://www.theguardian.com/thefilter-us/2026/jan/10/best-lip-balms-us"
+      ],
+      "amazon_url": "https://www.amazon.com/Laneige-Sleeping-Berry/dp/B07XXPHQZK",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/zY5Pyi8KeaKTZuvAt7KAZ-cLjLBYzSgQZIOAEx0H30Q/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly93d3cu/ZWNvc21ldGljcy5j/b20vd3AtY29udGVu/dC91cGxvYWRzLzIw/MjIvMTIvbGFuZWln/ZS1saXAtc2xlZXBp/bmctbWFzay0yMGct/ODgwOTY0MzA1MzI3/My5wbmc",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "Burt's Bees Beeswax Lip Balm (Original)",
+      "pros": [
+        "Classic, non-greasy beeswax formula",
+        "Widely available and affordable"
+      ],
+      "cons": [
+        "Contains peppermint (may sting sensitive lips)",
+        "Formula changes reported by some users"
+      ],
+      "price": null,
+      "amazon_id": "B0054LHI5A",
+      "sources": [
+        "https://www.whowhatwear.com/best-lip-balm",
+        "https://www.hometesterclub.com/us/en/reviews/burts-bees-100-natural-moisturizing-lip-balm-honey-with-beeswax"
+      ],
+      "amazon_url": "https://www.amazon.com/Burts-Bees-Moisturizing-Original-Peppermint/dp/B0054LHI5A",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/J3sttFiyi2ymRQaoJg8-5ckEAwT39ixGgluN4sn7YUA/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9tLm1l/ZGlhLWFtYXpvbi5j/b20vaW1hZ2VzL0kv/NTFiM21aemhaUkwu/anBn",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "Aquaphor Lip Repair / Healing Ointment",
+      "pros": [
+        "Dermatologist-recommended for severely chapped lips",
+        "Very occlusive — excellent for repair"
+      ],
+      "cons": [
+        "Can feel heavy/greasy",
+        "Some prefer stick format over ointment jar/tube"
+      ],
+      "price": null,
+      "amazon_id": "B004FHZKOA",
+      "sources": [
+        "https://www.consumerreports.org/health/best-lip-balms-a3434916037/",
+        "https://yukaapproved.com/best-lip-balms-yuka-100/",
+        "https://theinsidereview.com/04_beauty/aquaphor-lip-repair-balm-with-coconut-oil-shea-butter-review-pros-cons-rumors-debunked/"
+      ],
+      "amazon_url": "https://www.amazon.com/Aquaphor-Repair-Fluid-Ounce-Carded/dp/B004FHZKOA",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/X_S-gTH4wzl-v3wo1ZS-Zf93jbp9Z_Uk0Dn8T3TAMMM/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly93d3cu/c3VwcmVtZW1lZC5j/b20vd3AtY29udGVu/dC91cGxvYWRzLzIw/MjUvMDEvQXF1YXBo/b3ItTGlwLVJlcGFp/ci1EcnktQ2hhcHBl/ZC1MaXAtQmFsbS0w/LTM1LW96LTU5NXg1/OTUuanBn",
+      "resolver": "brave",
+      "valid": true
+    }
+  ],
+  "resolvedLinks": {
+    "https://us.laneige.com/products/lip-sleeping-mask": {
+      "title": "Lip Sleeping Mask",
+      "description": "Try the best Korean lip mask for intense overnight hydration. This lip sleeping mask smooths, moisturizes, and softens your lips while you sleep. Shop now for softer lips!",
+      "image": "http://us.laneige.com/cdn/shop/files/PDPImage_1000x1000_LSM.jpg?v=1771426377",
+      "url": "https://us.laneige.com/products/lip-sleeping-mask"
+    },
+    "https://www.the-independent.com/extras/indybest/fashion-beauty/beauty/laneige-lip-sleeping-mask-review-b2614188.html": {
+      "title": "Best lip balms to treat and nourish dry, chapped lips",
+      "description": "Treat and nourish dry, chapped lips, with these skincare saviours",
+      "image": "https://static.independent.co.uk/2024/09/06/16/Lip-balms.jpg?width=1200&height=800&crop=1200:800",
+      "url": "https://www.independent.co.uk/extras/indybest/fashion-beauty/skincare/best-lip-balm-b2463245.html"
+    },
+    "https://www.theguardian.com/thefilter-us/2026/jan/10/best-lip-balms-us": {
+      "title": "We tested 37 US lip balms – these are the best to soothe and hydrate",
+      "description": "From trusty Vaseline to trendy Supergoop, our top balms will help keep even the driest of lips moisturized this winter",
+      "image": "https://i.guim.co.uk/img/media/4a0e742581cd34b383031ad857ae39891254ab5a/39_30_4684_3749/master/4684.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvZmlsdGVyLXVzLnBuZw&enable=upscale&s=c4a71fc28a26a552003d57b8767ebc55",
+      "url": "https://www.theguardian.com/thefilter-us/2026/jan/10/best-lip-balms-us"
+    },
+    "https://www.whowhatwear.com/best-lip-balm": {
+      "title": "Our Lip Balm Collections Are Extensive, But We Reach For These 10 the Most",
+      "description": "We put hundreds of lip balms to the test and crowned only 10 as the most effective. Click here to see them all.",
+      "image": "https://cdn.mos.cms.futurecdn.net/V5VcaNB3NX2gxXGRzKYxQF-1200-80.jpg",
+      "url": "https://www.whowhatwear.com/best-lip-balm"
+    },
+    "https://www.hometesterclub.com/us/en/reviews/burts-bees-100-natural-moisturizing-lip-balm-honey-with-beeswax": {
+      "title": "Burt's Bees 100% Natural Moisturizing Lip Balm Honey with Beeswax | Home Tester Club",
+      "description": "Burt's Bees 100% Natural Moisturizing Lip Balm Honey with Beeswax | 4.7 from 934 reviews | Join Home Tester Club for free product tests and 1,000s of product reviews.",
+      "image": "https://d25f87opgd5a05.cloudfront.net/Products_479165_image_B718_1633354.jpg",
+      "url": "https://www.hometesterclub.com/us/en/reviews/burts-bees-100-natural-moisturizing-lip-balm-honey-with-beeswax"
+    },
+    "https://www.consumerreports.org/health/best-lip-balms-a3434916037/": {
+      "title": "4 Best Lip Balms of 2026 for Smooth, Hydrated Lips, Tested by Experts - Consumer Reports",
+      "description": "To find the best lip balms for smooth, hydrated CR evaluated eight popular products from ChapStick, Eos, Laniege, Rhode, Summer Fridays, and other brands.",
+      "image": "https://article.images.consumerreports.org/image/upload/t_article_tout/v1761327277/prod/content/dam/CRO-Images-2025/Rapid%20Response/CR-RR-InlineHero-Lip-Balms-10-25",
+      "url": "https://www.consumerreports.org/health/best-lip-balms-a3434916037/"
+    },
+    "https://yukaapproved.com/best-lip-balms-yuka-100/": {
+      "title": "Best Lip Balms 2026: Top 5 with Perfect Yuka Scores",
+      "description": "Discover the 5 best lip balms with 100/100 Yuka scores. Clean ingredients, dermatologist-approved, and proven hydration for every lip type. Updated 2026 guide.",
+      "image": "https://yukaapproved.com/static/72d03e6bafb75b25f4e1922d96643519/aquaphor-lip-repair-stick.webp",
+      "url": "https://yukaapproved.com/best-lip-balms-yuka-100/"
+    },
+    "https://theinsidereview.com/04_beauty/aquaphor-lip-repair-balm-with-coconut-oil-shea-butter-review-pros-cons-rumors-debunked/": {
+      "title": "Aquaphor Lip Repair Balm with Coconut Oil & Shea Butter Review: Pros, Cons & Rumors Debunked",
+      "description": "Aquaphor Naturally Inspired Lip Repair Stick with Coconut Oil and Natural Shea Butter, Hydrating Lip Balm Immediately Re...",
+      "image": "https://theinsidereview.com/wp-content/uploads/2025/04/71U1kmtvPIL._SX679_.jpg",
+      "url": "https://theinsidereview.com/04_beauty/aquaphor-lip-repair-balm-with-coconut-oil-shea-butter-review-pros-cons-rumors-debunked/"
+    }
+  }
+}

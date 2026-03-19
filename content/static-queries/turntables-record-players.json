@@ -1,0 +1,125 @@
+{
+  "slug": "turntables-record-players",
+  "query": "best turntables & record players",
+  "title": "Best turntables & record players | Bin Diving",
+  "description": "AI-dug recommendations for best turntables & record players. Compare options and find one that fits.",
+  "dugAt": "2026-03-18T21:46:28.432Z",
+  "recommendations": [
+    {
+      "product_name": "Pro-Ject Debut Carbon EVO Turntable",
+      "pros": [
+        "Excellent price-to-performance",
+        "Stable, low-noise platter and tonearm",
+        "Widely recommended by reviewers"
+      ],
+      "cons": [
+        "May be sold out or discontinued in some markets",
+        "No built-in Bluetooth or streaming features"
+      ],
+      "price": "$599 (typical MSRP, may vary)",
+      "amazon_id": "B08FRL1KMH",
+      "sources": [
+        "https://www.techradar.com/reviews/pro-ject-carbon-debut-evo",
+        "https://www.avforums.com/reviews/pro-ject-debut-carbon-evo-turntable-review.18042/",
+        "https://soundcontroltech.com/product-reviews/pro-ject-debut-carbon-evo-turntable-review/"
+      ],
+      "amazon_url": "https://www.amazon.com/Pro-Ject-Debut-Carbon-EVO-pre-Mounted/dp/B08FRL1KMH",
+      "gpt_azn": "B08G8BFRRN",
+      "image_url": "https://imgs.search.brave.com/ozAxaDgNa0kCRaC2paQcviJTZ0pXsmhVVtrijrDmVIY/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly93d3cu/cGFyYWdvbnNucy5j/b20vY2RuL3Nob3Av/ZmlsZXMvcHJval9l/dm8yXzEwMDB4MTAw/MF8wMDAyX0RlYnV0/LUVWTy0yLVdoaXRl/LUxpZmVzdHlsZS1E/ZXRhaWwtV2ViXzYw/MHguanBnP3Y9MTcy/NTU1NTg4Mw",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "Audio‑Technica AT‑LP7X Turntable",
+      "pros": [
+        "Step-up, audiophile-focused design",
+        "Built-in switchable phono preamp (MM/MC)",
+        "New 2026 model with modern refinements"
+      ],
+      "cons": [
+        "Higher price point",
+        "Fully manual operation may not suit all users"
+      ],
+      "price": null,
+      "amazon_id": "B07CD29KMF",
+      "sources": [
+        "https://www.techradar.com/audio/turntables/audio-technica-just-updated-one-of-its-best-ever-turntables-at-ces-2026-and-i-want-it",
+        "https://tech.yahoo.com/audio/articles/6-best-hi-fi-products-172603832.html",
+        "https://hometheaterreview.com/audio-technicas-at-lp7x-turntable-looks-basic-until-you-see-what-it-can-do/"
+      ],
+      "amazon_url": "https://www.amazon.com/Audio-Technica-AT-LP7-Manual-Belt-Drive-Turntable/dp/B07CD29KMF",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/gc_gb1iB-mlxKxcsZcKUW7YXyJ_AmW3ap0rnQZQMtzk/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9jZG4u/c2hvcGxpZ2h0c3Bl/ZWQuY29tL3Nob3Bz/LzYzNTE2OC9maWxl/cy8xOTgwMzcwMi8x/NjAweDIwNDh4Mi9h/dWRpby10ZWNobmlj/YS1hdWRpby10ZWNo/bmljYS1hdC1scDYw/eC10dXJudGFibGUu/anBn",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "Rega Planar 1 Plus Turntable",
+      "pros": [
+        "Built-in phono stage for easy setup",
+        "Excellent entry-level hi-fi sound",
+        "Consistently recommended by expert reviewers"
+      ],
+      "cons": [
+        "Limited upgrade path without aftermarket cartridges",
+        "No USB/Bluetooth on the Plus model"
+      ],
+      "price": null,
+      "amazon_id": "B07G9NC48R",
+      "sources": [
+        "https://www.whathifi.com/rega/planar-1-plus/review",
+        "https://www.tomsguide.com/best-picks/best-record-players",
+        "https://www.worldwidestereo.com/blogs/guides/rega-planar-1-plus-review"
+      ],
+      "amazon_url": "https://www.amazon.com/REGA-Planar-Plus-Turntable-White/dp/B07G9NC48R",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/2t9St9YDw7ylRxt6Hmub4IODo4N6gYflCUQohkTn5u0/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9jZG4x/MS5iaWdjb21tZXJj/ZS5jb20vcy05ZGsy/OHA4NTY3L2ltYWdl/cy9zdGVuY2lsL29y/aWdpbmFsL3Byb2R1/Y3RzLzEwMzI5LzY4/NzczL1JFUEwxUExf/Mi1XSFRDQVItTGFy/Z2VfXzEyMjcxLjE3/Mjc3ODg4MjkuanBn/P2M9MQ",
+      "resolver": "brave",
+      "valid": true
+    }
+  ],
+  "resolvedLinks": {
+    "https://www.techradar.com/reviews/pro-ject-carbon-debut-evo": {
+      "title": "Pro-ject Debut Carbon Evo review",
+      "description": "21 years is a long time to be making your Debut",
+      "image": "https://cdn.mos.cms.futurecdn.net/DHuwJMtv8QWd4ATDesKgNG-2560-80.jpg",
+      "url": "https://www.techradar.com/reviews/pro-ject-carbon-debut-evo"
+    },
+    "https://soundcontroltech.com/product-reviews/pro-ject-debut-carbon-evo-turntable-review/": {
+      "title": "Pro-Ject Debut Carbon EVO Turntable Review Audiophile-Grade Sound and Elegant Design - Soundcontroltech.com",
+      "description": "Exceptional sound clarity with warm, natural tones that enhance the listening experience. The sturdy build quality ensures long-term durability and minimal vibrations during playback. Elegant satin walnut finish adds a touch of sophistication, blending seamlessly into any decor. The quick electronic speed adjustment feature makes switching between vinyl records effortless.",
+      "image": "https://soundcontroltech.com/wp-content/uploads/2025/07/713N7vAyMZL.__AC_SY300_SX300_QL70_ML2_.jpg",
+      "url": "https://soundcontroltech.com/product-reviews/pro-ject-debut-carbon-evo-turntable-review/"
+    },
+    "https://www.techradar.com/audio/turntables/audio-technica-just-updated-one-of-its-best-ever-turntables-at-ces-2026-and-i-want-it": {
+      "title": "Audio-Technica just updated one of its best ever turntables at CES 2026, and I want it",
+      "description": "The new AT-LP7X updates an already talented turntable",
+      "image": "https://cdn.mos.cms.futurecdn.net/g45buTVefiN55WhEwNrPvZ-2048-80.png",
+      "url": "https://www.techradar.com/audio/turntables/audio-technica-just-updated-one-of-its-best-ever-turntables-at-ces-2026-and-i-want-it"
+    },
+    "https://tech.yahoo.com/audio/articles/6-best-hi-fi-products-172603832.html": {
+      "title": "6 of the best hi-fi products we saw at CES 2026 — turntables, speakers and more",
+      "description": "Cambridge's first ever speakers; Fender's first Bluetooth options (and that's just for starters)",
+      "image": "https://s.yimg.com/ny/api/res/1.2/1qhwqL5y5ffWs7bkNUJ57w--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/techradar_949/f0f34b51f6c99b42d4b5dd51d6af8965",
+      "url": "https://www.techradar.com/audio/hi-fi/the-best-hi-fi-kit-we-saw-at-ces-2026-an-iconic-turntable-updated-edifiers-first-earc-active-speakers-and-much-more"
+    },
+    "https://www.whathifi.com/rega/planar-1-plus/review": {
+      "title": "Rega Planar 1 Plus review",
+      "description": "The Planar 1 Plus offers the winning combination of convenience and superb sound",
+      "image": "https://cdn.mos.cms.futurecdn.net/FcupzVMysiD6a8U5eYeVCo-790-80.jpg",
+      "url": "https://www.whathifi.com/rega/planar-1-plus/review"
+    },
+    "https://www.tomsguide.com/best-picks/best-record-players": {
+      "title": "The best record players: Top turntables for any budget",
+      "description": "We’ve tested the best record players available today — from entry-level to high-end, we've got your budget covered",
+      "image": "https://cdn.mos.cms.futurecdn.net/YTp45y8z9qYxZbmyVJKtmF-2000-80.jpg",
+      "url": "https://www.tomsguide.com/best-picks/best-record-players"
+    },
+    "https://www.worldwidestereo.com/blogs/guides/rega-planar-1-plus-review": {
+      "title": "Review: Rega Planar 1 Plus Turntable | World Wide Stereo",
+      "description": "The new Rega Planar 1 Plus turntable is easy to use and sounds incredible. This is a simple plug and play turntable ready for you to enjoy your vinyl collection.",
+      "image": "http://www.worldwidestereo.com/cdn/shop/articles/Rega_20Planar_201_20Plus_20-_20Banner-Opt.jpg?v=1690918816",
+      "url": "https://www.worldwidestereo.com/blogs/guides/rega-planar-1-plus-review"
+    }
+  }
+}

@@ -1,0 +1,124 @@
+{
+  "slug": "womens-jeans",
+  "query": "best women’s jeans",
+  "title": "Best women’s jeans | Bin Diving",
+  "description": "AI-dug recommendations for best women’s jeans. Compare options and find one that fits.",
+  "dugAt": "2026-03-18T22:44:18.861Z",
+  "recommendations": [
+    {
+      "product_name": "Levi's 501 Original Women's Jeans",
+      "pros": [
+        "Classic timeless fit",
+        "Durable rigid denim",
+        "Wide size range"
+      ],
+      "cons": [
+        "May require breaking in",
+        "Limited stretch in rigid versions"
+      ],
+      "price": null,
+      "amazon_id": "B077T29T24",
+      "sources": [
+        "https://www.forbes.com/sites/forbes-personal-shopper/article/best-jeans-for-women/",
+        "https://www.whowhatwear.com/fashion/denim/best-jeans-of-2025",
+        "https://www.marieclaire.com/fashion/best-levis-jeans/"
+      ],
+      "amazon_url": "https://www.amazon.com/Levis-501-Original-Jeans-Women/dp/B077T29T24",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/R4ruAV82Hl1MEmkgbWIdMN3mnrD0KpVYaRfXj0oRztU/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9sc2Nv/LnNjZW5lNy5jb20v/aXMvaW1hZ2UvbHNj/by9BMTk1OTAwMDUt/ZHluYW1pYzEtcGRw/P2ZtdD1qcGVnJnFs/dD03MCZyZXNNb2Rl/PXNoYXJwMiZmaXQ9/Y3JvcCwxJm9wX3Vz/bT0wLjYsMC42LDgm/d2lkPTg4MCZoZWk9/ODgw",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "Madewell The Perfect Vintage Jean (Perfect Vintage / Perfect Vintage Wide Leg)",
+      "pros": [
+        "Flattering high-rise vintage silhouette",
+        "Many washes and lengths",
+        "Frequently recommended by editors and shoppers"
+      ],
+      "cons": [
+        "Can vary by wash/production (fit changes)",
+        "Higher price point vs fast fashion"
+      ],
+      "price": null,
+      "amazon_id": "B0D8QHGG9H",
+      "sources": [
+        "https://www.madewell.com/p/womens/clothing/jeans/kick-out/the-perfect-vintage-jean-in-deming-wash/NM185/",
+        "https://www.whowhatwear.com/fashion/shopping/best-madewell-jeans-2026",
+        "https://www.yahoo.com/lifestyle/26-best-jeans-women-wear-180717654.html"
+      ],
+      "amazon_url": "https://www.amazon.com/Madewell-Womens-Perfect-Vintage-Jeans/dp/B0D8QHGG9H",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/UoO5vYuUGLEvS-KzepuNEwuXmlmjkuhkVTi-5IU7_qQ/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9pLmVi/YXlpbWcuY29tL2lt/YWdlcy9nL0FDY0FB/T1N3cFBoblhkU2Qv/cy1sNTAwLmpwZw",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "Everlane The Cheeky / Curvy 90s Cheeky Straight (Everlane)",
+      "pros": [
+        "Butt-lifting fit with straight leg",
+        "Good value for quality denim",
+        "Well-reviewed for comfort and fit"
+      ],
+      "cons": [
+        "Some styles run large or stretch with wear",
+        "Limited color selection on occasion"
+      ],
+      "price": "$128.00",
+      "amazon_id": "B0FGXSXYWV",
+      "sources": [
+        "https://www.forbes.com/sites/forbes-personal-shopper/article/best-jeans-for-women/",
+        "https://www.vogue.com/article/best-jeans-for-women",
+        "https://www.glamourmagazine.co.uk/gallery/best-high-waisted-jeans"
+      ],
+      "image_url": "789_QL65_.jpg",
+      "images": [
+        "789_QL65_.jpg"
+      ],
+      "amazon_url": "https://www.amazon.com/Everlane-Original-Cheeky%C2%AE-Jean-Inseam/dp/B0FGXSXYWV/ref=mp_s_a_1_1?dib=eyJ2IjoiMSJ9.limDN-29UFVN_lLy8gNUjp5ZJhCH3evQcCr4_wWLVgw.t8LxIvIvbMbRKyfyWtU2-3fNzWTS9Y72v1bWVwKfC6E&dib_tag=se&keywords=Everlane+The+Cheeky+%2F+Curvy+90s+Cheeky+Straight+%28Everlane%29&nsdOptOutParam=true&qid=1773873853&sr=8-1",
+      "brand": "Everlane",
+      "blackFriday": false,
+      "gpt_azn": null,
+      "resolver": "cheerio",
+      "valid": true
+    }
+  ],
+  "resolvedLinks": {
+    "https://www.whowhatwear.com/fashion/denim/best-jeans-of-2025": {
+      "title": "I Tried On Hundreds of Jeans in 2025—Here Are My Top 10 Pairs",
+      "description": "Denim expert Jane Herman shares her top 10 list of jeans she tried and loved in 2025.",
+      "image": "https://cdn.mos.cms.futurecdn.net/bufcZdj9FehHibNf6ZEBYT-1200-80.jpg",
+      "url": "https://www.whowhatwear.com/fashion/denim/best-jeans-of-2025"
+    },
+    "https://www.marieclaire.com/fashion/best-levis-jeans/": {
+      "title": "Denim Trends Fade—But the Best Levi’s Jeans Are Forever",
+      "description": "From the classic 501 to boyfriend styles.",
+      "image": "https://cdn.mos.cms.futurecdn.net/TQ5kLhTbcFTEm2JFPj4m34-1920-80.jpg",
+      "url": "https://www.marieclaire.com/fashion/best-levis-jeans/"
+    },
+    "https://www.madewell.com/p/womens/clothing/jeans/kick-out/the-perfect-vintage-jean-in-deming-wash/NM185/": {
+      "title": "The Mid-Rise Perfect Vintage Jeans",
+      "description": "The cut: complete with Magic Pockets&trade; in front, our best-selling tapered momjeans have a 9 1/2&quot; mid rise for a laid-back vibe (they're great for everyone, but an absolute must if you've got a shorter torso).",
+      "image": "https://www.madewell.com/images/NM185_DM7080_m?wid=700&hei=889&fmt=jpeg&fit=crop&qlt=75",
+      "url": "https://www.madewell.com/p/womens/clothing/jeans/kick-out/the-perfect-vintage-jean-in-deming-wash/NM185/"
+    },
+    "https://www.whowhatwear.com/fashion/shopping/best-madewell-jeans-2026": {
+      "title": "I Hated Trying On Jeans Until I Went to Madewell—5 Chic Pairs That Changed My Mind",
+      "description": "Denim lovers to the front.",
+      "image": "https://cdn.mos.cms.futurecdn.net/RoDCkqpxu2wt8jGHHPEspG-1200-80.jpg",
+      "url": "https://www.whowhatwear.com/fashion/shopping/best-madewell-jeans-2026"
+    },
+    "https://www.vogue.com/article/best-jeans-for-women": {
+      "title": "Vogue’s Ultimate Guide to the Best Jeans for Women",
+      "description": "The foolproof silhouettes to shop now and wear forever.",
+      "image": "https://assets.vogue.com/photos/687fd28a857643719079f0d1/16:9/w_1280,c_limit/jeans-tryp.jpg",
+      "url": "https://www.vogue.com/article/best-jeans-for-women"
+    },
+    "https://www.glamourmagazine.co.uk/gallery/best-high-waisted-jeans": {
+      "title": "7 editors spent months testing the best jeans for women – these get their seal of approval",
+      "description": "Saving you from a dreaded trip to the fitting room.",
+      "image": "https://media.glamourmagazine.co.uk/photos/69417d1bafc831ca7ee01ce4/16:9/w_1280,c_limit/UGC%20best%20jeans%20for%20women%2016122025%20%20(6).jpg",
+      "url": "https://www.glamourmagazine.co.uk/gallery/best-jeans-for-women"
+    }
+  }
+}

@@ -1,0 +1,100 @@
+{
+  "slug": "mens-dress-pants",
+  "query": "best men’s dress pants",
+  "title": "Best men’s dress pants | Bin Diving",
+  "description": "AI-dug recommendations for best men’s dress pants. Compare options and find one that fits.",
+  "dugAt": "2026-03-18T22:45:00.263Z",
+  "recommendations": [
+    {
+      "product_name": "Amazon Essentials Men's Classic-Fit Wrinkle-Resistant Flat-Front Dress Pant",
+      "pros": [
+        "Very affordable",
+        "Wrinkle-resistant, easy care"
+      ],
+      "cons": [
+        "Basic construction",
+        "Limited premium fabric options"
+      ],
+      "price": null,
+      "amazon_id": "B0DGN3HGZY",
+      "sources": [
+        "https://us.amazon.com/Amazon-Essentials-Classic-Fit-Wrinkle-Resistant-Flat-Front/dp/B0DCVWZ56N",
+        "https://bestviewsreviews.com/mens-dress-pants/amazon-essentials-mens-classic-fit-expandable-waist-flat-front-dress-pant-visit-the-amazon-essentials-store-0/"
+      ],
+      "amazon_url": "https://www.amazon.com/Amazon-Essentials-Classic-Fit-Wrinkle-Resistant-Flat-Front/dp/B0DGN3HGZY",
+      "gpt_azn": "B0DCVWZ56N",
+      "image_url": "https://imgs.search.brave.com/e3qhyWl6iC4QdJvCCDOLr2pbrNfCI6cCeFe0vKfqe7Y/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9tLm1l/ZGlhLWFtYXpvbi5j/b20vaW1hZ2VzL0kv/NzFBUWxuRUlvRFMu/anBn",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "Dockers Men's Classic Fit Workday Smart 360 Flex Pants",
+      "pros": [
+        "Stretchy Smart 360 fabric for comfort",
+        "Wrinkle-resistant, good value"
+      ],
+      "cons": [
+        "Fit can vary by style",
+        "Not as dressy as wool trousers"
+      ],
+      "price": null,
+      "amazon_id": "B0972PRBBF",
+      "sources": [
+        "https://brickseek.com/p/dockers-men-s-straight-fit-ultimate/587414",
+        "https://findthisbest.com/best-pants-for-men"
+      ],
+      "amazon_url": "https://www.amazon.com/Dockers-Classic-Workday-Khaki-Standard/dp/B0972PRBBF",
+      "gpt_azn": "B08BSR8LVH",
+      "image_url": "https://imgs.search.brave.com/u5OLOtNeqH5dJwNxoWiP3VDWNjGDZp4E6H1VWri0Aw4/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9zbGlt/YWdlcy5tYWN5c2Fz/c2V0cy5jb20vaXMv/aW1hZ2UvTUNZL3By/b2R1Y3RzLzMvb3B0/aW1pemVkLzk1MzUy/ODNfZnB4LnRpZg",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "Bonobos Jetsetter Stretch Wool Dress Pant",
+      "pros": [
+        "Refined wool stretch fabric",
+        "Multiple fits and good tailoring options"
+      ],
+      "cons": [
+        "Higher price point",
+        "Dry clean only for wool versions"
+      ],
+      "price": "$32.99",
+      "amazon_id": "B01MY7IS7N",
+      "sources": [
+        "https://bonobos.com/products/jetsetter-wool-dress-pant",
+        "https://www.nordstrom.com/s/jetsetter-slim-fit-stretch-wool-dress-pants/8819429"
+      ],
+      "image_url": "789_QL65_.jpg",
+      "images": [
+        "789_QL65_.jpg"
+      ],
+      "amazon_url": "https://www.amazon.com/Haggar-J-M-Stretch-Superflex-Charcoal/dp/B01MY7IS7N/ref=mp_s_a_1_1?dib=eyJ2IjoiMSJ9.zf-S3JRtr1eZP4PLwWw6TVW0jaemOBVKpn4Ydx0ODCoKDddr5ole8nd35NrIKAUUkemccEWQkkwWzqTMvHkBhnAt79pCf7vQW_hT5c6rkwwAFsHT98AaEYpxMB6SBZVq4q3K7t3clGtYvifkEB-JSaGx2hyXWqc9uR8dwFuKaYiBJBKT-t93Gh6yybdWsG9sz1VfFuvuVJk_qLIvi1dLFg231CdvokyMkO4SV6-la4dNZOQXvuhKUkgnhPb8giEx.Y9FT75JDXLD2djk00xuvmAeCDjtAxSaHBl7e3VLSRX8&dib_tag=se&keywords=Bonobos+Jetsetter+Stretch+Wool+Dress+Pant&qid=1773873892&sr=8-1",
+      "brand": "Haggar",
+      "blackFriday": false,
+      "gpt_azn": null,
+      "resolver": "cheerio",
+      "valid": true
+    }
+  ],
+  "resolvedLinks": {
+    "https://us.amazon.com/Amazon-Essentials-Classic-Fit-Wrinkle-Resistant-Flat-Front/dp/B0DCVWZ56N": {
+      "title": "Amazon.com: Amazon Essentials Men's Classic-Fit Wrinkle-Resistant Flat-Front Chino Pant (Available in Big & Tall) : Clothing, Shoes & Jewelry",
+      "description": "",
+      "image": "",
+      "url": "https://us.amazon.com/Amazon-Essentials-Classic-Fit-Wrinkle-Resistant-Flat-Front/dp/B0DCVWZ56N"
+    },
+    "https://bestviewsreviews.com/mens-dress-pants/amazon-essentials-mens-classic-fit-expandable-waist-flat-front-dress-pant-visit-the-amazon-essentials-store-0/": {
+      "title": "Reviews for Amazon Essentials Mens Classic-Fit Expandable-Waist Flat-Front Dress Pant \" ; Visit the Amazon Essentials Store: Dec 18, 2024 - Bestviewsreviews",
+      "description": "Amazon Essentials Mens Classic-Fit Expandable-Waist Flat-Front Dress Pant \" ; Visit the Amazon Essentials Store. Best Men's Dress Pants based on Easy to Maintain, Color Range, Durability, Material Quality;",
+      "image": "https://m.media-amazon.com/images/I/31dzB1dz6fL._SL500_.jpg",
+      "url": "https://bestviewsreviews.com/mens-dress-pants/amazon-essentials-mens-classic-fit-expandable-waist-flat-front-dress-pant-visit-the-amazon-essentials-store-0/"
+    },
+    "https://bonobos.com/products/jetsetter-wool-dress-pant": {
+      "title": "Jetsetter Wool Dress Pant",
+      "description": "Our favorite wool suit pants that are perfectly tailored with a hint of stretch for comfort. Find your right fit and size amongst our variety of different colors.",
+      "image": "https://bonobos-prod-s3.imgix.net/products/367767/original/SUIT_SUIT-PANT_BSB11544SBL895_1.jpg?1752513222=?auto=format%2Ccompress&q=25&cs=srgb&w=750",
+      "url": "https://bonobos.com/products/jetsetter-wool-dress-pant"
+    }
+  }
+}

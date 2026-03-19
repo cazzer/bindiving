@@ -1,0 +1,128 @@
+{
+  "slug": "wine-glasses",
+  "query": "best wine glasses",
+  "title": "Best wine glasses | Bin Diving",
+  "description": "AI-dug recommendations for best wine glasses. Compare options and find one that fits.",
+  "dugAt": "2026-03-18T17:19:14.735Z",
+  "recommendations": [
+    {
+      "product_name": "Zalto Denk'Art Universal Wine Glass",
+      "pros": [
+        "Very light, delicate feel",
+        "Excellent aroma presentation"
+      ],
+      "cons": [
+        "Fragile/expensive",
+        "Hand-blown variability"
+      ],
+      "price": null,
+      "amazon_id": "B08DH1F81Q",
+      "sources": [
+        "https://www.vinerra.com/in-depth-guides/which-is-the-best-wine-glass-zalto-vs-riedel-expert-comparison",
+        "https://shopsavvy.com/best-picks/best-wine-glass",
+        "https://weekendkitchen.net/the-best-wine-glasses-extensively-tested/"
+      ],
+      "amazon_url": "https://www.amazon.com/Zalto-DenkArt-Universal-Hand-Blown-Crystal/dp/B08DH1F81Q",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/BjIJclRuTu1qeZQGohB02TxwoBQ1D00V-Im_dOPkTTQ/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9pbWFn/ZXMtbmEuc3NsLWlt/YWdlcy1hbWF6b24u/Y29tL2ltYWdlcy9J/LzYxUTBiMjMwY1hM/LmpwZw",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "Schott Zwiesel Pure (Tritan) Wine Glasses",
+      "pros": [
+        "Durable Tritan crystal",
+        "Versatile, 'universal' shape"
+      ],
+      "cons": [
+        "Heavier than hand‑blown crystal",
+        "Some prefer thinner-rimmed glasses"
+      ],
+      "price": null,
+      "amazon_id": "B000LI182A",
+      "sources": [
+        "https://www.goodhousekeeping.com/home-products/g44652567/best-wine-glasses/",
+        "https://www.bestreviews.guide/schott-zwiesel-wine-glass",
+        "https://www.wayfair.com/-X118674.html"
+      ],
+      "amazon_url": "https://www.amazon.com/ZWIESEL-Cabernet-Graceful-Glasses-Dishwasher-Safe/dp/B000LI182A",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/m7murZznidnL4GaiRIbFDc0CtCPktEIDETryZ2uFN70/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly93d3cu/dGhlYWRkaXNvbndl/c3QuY29tL2Nkbi9z/aG9wL3Byb2R1Y3Rz/L1RyaXRhbldpbmVH/bGFzc18xLmpwZz92/PTE3MTY0OTI4NDkm/d2lkdGg9MTIwMA",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "Riedel Vinum Series Wine Glasses",
+      "pros": [
+        "Varietal-specific shapes improve aromatics",
+        "Widely recommended and available"
+      ],
+      "cons": [
+        "Somewhat fragile",
+        "Varietal approach means buying multiple shapes"
+      ],
+      "price": null,
+      "amazon_id": "B000NB03L2",
+      "sources": [
+        "https://expertbeacon.com/riedel-wine-glasses-review/",
+        "https://top5best.com/riedel-vinum-wine-glass",
+        "https://www.riedeldrinkware.com/riedel-vinum-extreme-pinot-noir-wine-glasses-set-of-4/"
+      ],
+      "amazon_url": "https://www.amazon.com/Riedel-6416-07-VINUM-Pinot/dp/B000NB03L2",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/yYLnrOdRKpB0BUtbp86SsTgu_8J97cIujfxQ1iX1S5E/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9tLm1l/ZGlhLWFtYXpvbi5j/b20vaW1hZ2VzL0kv/MzF2RU5vM3RUMEwu/anBn",
+      "resolver": "brave",
+      "valid": true
+    }
+  ],
+  "resolvedLinks": {
+    "https://www.vinerra.com/in-depth-guides/which-is-the-best-wine-glass-zalto-vs-riedel-expert-comparison": {
+      "title": "Which Is the Best Wine Glass: Zalto vs Riedel Expert Comparison",
+      "description": "Discover how to choose the perfect wine glass for any occasion, and enhance your wine experience with our practical guide",
+      "image": "https://cdn.prod.website-files.com/63ece3c9f3224f440f3b6da7/698206b33ddf968b5810c65f_Which%20Is%20the%20Best%20Wine%20Glass%20Zalto%20vs%20Riedel%20Expert%20Comparison.webp",
+      "url": "https://www.vinerra.com/in-depth-guides/which-is-the-best-wine-glass-zalto-vs-riedel-expert-comparison"
+    },
+    "https://shopsavvy.com/best-picks/best-wine-glass": {
+      "title": "Best Wine Glasses of 2025 🍷 - ShopSavvy Best Picks",
+      "description": "Finding the right wine glass can really make a difference in how you enjoy your wine, whether you’re...",
+      "image": "",
+      "url": "https://shopsavvy.com/best-picks/best-wine-glass"
+    },
+    "https://weekendkitchen.net/the-best-wine-glasses-extensively-tested/": {
+      "title": "The Best Wine Glasses in 2026 (Extensively Tested) - Weekend Kitchen",
+      "description": "We tested the best wine glasses of 2026 from budget to premium crystal. Our top pick is the Zalto Denk'Art Universal for its exceptional clarity and design.",
+      "image": "https://weekendkitchen.net/the-best-wine-glasses-extensively-tested/hero.webp",
+      "url": "https://weekendkitchen.net/the-best-wine-glasses-extensively-tested/"
+    },
+    "https://www.goodhousekeeping.com/home-products/g44652567/best-wine-glasses/": {
+      "title": "9 Best Wine Glasses of 2024, According to Experts",
+      "description": "Top sommeliers weigh in on what's important when shopping for glasses.",
+      "image": "https://hips.hearstapps.com/hmg-prod/images/gh-wine-glasses-64d161f7edffc.png?crop=1.00xw:1.00xh;0,0&resize=1200:*",
+      "url": "https://www.goodhousekeeping.com/home-products/g44652567/best-wine-glasses/"
+    },
+    "https://www.bestreviews.guide/schott-zwiesel-wine-glass": {
+      "title": "10 Best Schott Zwiesel Wine Glass 2026 in the US | There's One Clear Winner | BestReviews.guide",
+      "description": "BestReviews.guide analyzes thousands of articles and customer reviews to find the top-rated products at today's lowest prices. Best products, best offers.",
+      "image": "https://images-proxy.bestreviews.guide/tz3OaCx_HlNL9u9guu9HsgGlMAg=/0x150/https://m.media-amazon.com/images/I/31duFO8lMaL._AC_CX679_.jpg",
+      "url": "https://www.bestreviews.guide/schott-zwiesel-wine-glass"
+    },
+    "https://www.wayfair.com/-X118674.html": {
+      "title": "Wayfair.com - Online Home Store for Furniture, Decor, Outdoors & More",
+      "description": "Shop Wayfair for A Zillion Things Home across all styles and budgets. 5,000 brands of furniture, lighting, cookware, and more. Free Shipping on most items.",
+      "image": "https://assets.wfcdn.com/im/46063920/resize-h630-w1200%5Ecompr-r85/3173/317352646/.jpg",
+      "url": "https://www.wayfair.com/-X118674.html"
+    },
+    "https://top5best.com/riedel-vinum-wine-glass": {
+      "title": "Top 5 Best Riedel Vinum Wine Glass (Expert Handpicked 2026)",
+      "description": "2026's Top 5 Best Riedel Vinum Wine Glass Top Rated and Reviewed. Easily choose and compare the Best Riedel Vinum Wine Glass for you all in one place. (Expert Handpicked 2026)",
+      "image": "https://images.top5best.com/images/list_img/list_3203/riedel_32024046.jpg",
+      "url": "https://top5best.com/riedel-vinum-wine-glass"
+    },
+    "https://www.riedeldrinkware.com/riedel-vinum-extreme-pinot-noir-wine-glasses-set-of-4/": {
+      "title": "Riedel Vinum Extreme Pinot Noir Wine Glasses (Set Of 4) Uses Retro Series with Fashionable Color and Material Focus.",
+      "description": "Best Design Riedel Vinum Extreme Pinot Noir Wine Glasses (Set Of 4) at Riedel: Quality and Affordability Combined.",
+      "image": "https://www.riedeldrinkware.com/wp-content/uploads/2025/06/44407.webp",
+      "url": "https://www.riedeldrinkware.com/riedel-vinum-extreme-pinot-noir-wine-glasses-set-of-4/"
+    }
+  }
+}

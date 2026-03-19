@@ -1,0 +1,93 @@
+{
+  "slug": "personal-blenders",
+  "query": "best personal blenders",
+  "title": "Best personal blenders | Bin Diving",
+  "description": "AI-dug recommendations for best personal blenders. Compare options and find one that fits.",
+  "dugAt": "2026-03-18T16:47:59.819Z",
+  "recommendations": [
+    {
+      "product_name": "Nutribullet Ultra Personal Blender",
+      "pros": [
+        "Powerful (up to ~1200W)",
+        "Compact, easy-clean design"
+      ],
+      "cons": [
+        "Low capacity for larger batches",
+        "Needs liquid for best results"
+      ],
+      "price": null,
+      "amazon_id": "B0CBWD3PN7",
+      "sources": [
+        "https://www.wired.com/story/best-portable-blenders/"
+      ],
+      "amazon_url": "https://www.amazon.com/nutribullet-Ultra-Personal-Blender-NB50500/dp/B0CBWD3PN7",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/4c0-cg3jMtPh8cKLkfJWPr6thjGodomJCKvf0HRkW8A/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly93d3cu/Zm9vZGFuZHdpbmUu/Y29tL3RobWIvcXhS/bERQaERTVW1Pekhz/SjlhUHVLblRQVUNr/PS9maXQtaW4vMTUw/MHgxMDAwL2ZpbHRl/cnM6bm9fdXBzY2Fs/ZSgpOm1heF9ieXRl/cygxNTAwMDApOnN0/cmlwX2ljYygpOmZv/cm1hdCh3ZWJwKS9u/dXRyaWJ1bGxldC11/bHRyYS1wZXJzb25h/bC1ibGVuZGVyLW5i/NTA1MDAtMGE5MjBk/NTEyZTMzNGI1MTkw/ZmI0NzY1YzlmZTBi/MjcuanBn",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "Ninja Blast Max (portable/personal)",
+      "pros": [
+        "Strong blending for a portable unit",
+        "Good at crushing ice and frozen fruit"
+      ],
+      "cons": [
+        "Battery-limited vs. corded models",
+        "May be pricier than budget personal blenders"
+      ],
+      "price": null,
+      "amazon_id": "B0DB8ZN253",
+      "sources": [
+        "https://www.wired.com/story/best-portable-blenders/",
+        "https://www.t3.com/features/best-blender"
+      ],
+      "amazon_url": "https://www.amazon.com/Ninja-removable-Dishwasher-Leakproof-BC251NV/dp/B0DB8ZN253",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/MXMUL5mNPFWzhKD_MWgFeaTJ5b8xWBlNC_CphyKJyes/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9pNS53/YWxtYXJ0aW1hZ2Vz/LmNvbS9zZW8vTmlu/amEtQmxhc3QtTUFY/LVBlcnNvbmFsLUNv/cmRsZXNzLUJsZW5k/ZXItZm9yLVNtb290/aGllcy1Gcm96ZW4t/RHJpbmtzLUljZS1D/cnVzaC0yMC1vei1U/d2lzdC1Hby1WZXNz/ZWwtR3JheV85YWY2/YzIwNy01OGRkLTQx/NmItYTdlNS0zNTFm/ZmI5MGQyMmIuMDc1/NmRhNjExMjk5Y2Jh/NDFlZjY3MDViMDlh/ZTA5ZmIuanBlZz9v/ZG5IZWlnaHQ9NTcz/Jm9kbldpZHRoPTU3/MyZvZG5CZz1GRkZG/RkY",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "Hamilton Beach Portable Personal Blender",
+      "pros": [
+        "Very budget-friendly",
+        "Dishwasher-safe and travel lid included"
+      ],
+      "cons": [
+        "Small capacity (~14 oz)",
+        "Less powerful than high-watt personal blenders"
+      ],
+      "price": null,
+      "amazon_id": "B00KVZ27UA",
+      "sources": [
+        "https://www.self.com/story/best-blender"
+      ],
+      "amazon_url": "https://www.amazon.com/Hamilton-Beach-51101BA-Personal-Smoothies/dp/B00KVZ27UA",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/nzzHyVDKDByEVmOAHBHfPc9Tl6St0Lcb8_fPHZdOAnY/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9zdGF0/aWMucGxhdGZvcm0u/bWljaGFlbHMuY29t/LzJjLXByZC8yMzA1/ODQ0OTIzMzg5OTM5/ODU2LmpwZWc_Zml0/PWluc2lkZXwxMjgw/OjEyODA",
+      "resolver": "brave",
+      "valid": true
+    }
+  ],
+  "resolvedLinks": {
+    "https://www.wired.com/story/best-portable-blenders/": {
+      "title": "Want a Cordless Portable Blender for Your Next Picnic? Only Two Are Worth Considering",
+      "description": "Cordless portable blenders have come a long way since their introduction a decade back. Here's why the Ninja Blast Max smokes them all.",
+      "image": "https://media.wired.com/photos/6973ee87a4f81cacd731c91a/191:100/w_1280,c_limit/Best%20Portable%20Blenders_.png",
+      "url": "https://www.wired.com/story/best-portable-blenders/"
+    },
+    "https://www.t3.com/features/best-blender": {
+      "title": "Best blenders 2026: blitzing machines for smoothies, soups and liquidising",
+      "description": "T3 picks of the best blenders from Nutribullet, KitchenAid and everything in between",
+      "image": "https://cdn.mos.cms.futurecdn.net/nSTxD7WeHmsDMrdKdPDqUo-2560-80.jpeg",
+      "url": "https://www.t3.com/features/best-blender"
+    },
+    "https://www.self.com/story/best-blender": {
+      "title": "The Best Nutritionist-Approved Blenders for Smoothies, Salsas, and More",
+      "description": "Meet your new kitchen BFF.",
+      "image": "https://media.self.com/photos/679956d94bac0d6054af050e/2:1/w_1280,c_limit/Best%20blenders%20012025%20Social%20(2x1).jpg",
+      "url": "https://www.self.com/story/best-blender"
+    }
+  }
+}

@@ -1,0 +1,95 @@
+{
+  "slug": "coolers",
+  "query": "best coolers",
+  "title": "Best coolers | Bin Diving",
+  "description": "AI-dug recommendations for best coolers. Compare options and find one that fits.",
+  "dugAt": "2026-03-18T18:21:56.754Z",
+  "recommendations": [
+    {
+      "product_name": "YETI Tundra 45",
+      "pros": [
+        "Industry-leading ice retention",
+        "Extremely durable rotomolded build",
+        "Trusted brand and warranty"
+      ],
+      "cons": [
+        "High price",
+        "Heavy when loaded"
+      ],
+      "price": null,
+      "amazon_id": "B004U6MHV0",
+      "sources": [
+        "https://www.forbes.com/sites/forbes-personal-shopper/article/best-cooler/",
+        "https://www.foodnetwork.com/how-to/packages/shopping/product-reviews/best-coolers"
+      ],
+      "amazon_url": "https://www.amazon.com/YETI-Tundra-45-Cooler-White/dp/B004U6MHV0",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/3s5YdGuz2n_OWWIp3qNWt65JfxhZ-_BalnkoJLRQY9o/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9hdGxh/bnRhZ3JpbGxjb21w/YW55LmNvbS9jZG4v/c2hvcC9maWxlcy9X/XzEwMDQ1NDUwMDAx/XzcwMDAwMDAzODE3/X1lFVElfV0hTTF9z/dHVkaW9faGFyZF9j/b29sZXJzX1R1bmRy/YV80NV9CaWdfU2t5/X0JsdWVfM19xcnRf/TGlkX2Rvd25fMzQx/OV9MYXllcnNfMjQw/MHgyNDAwX2FmNzQ2/N2EyLWY0OGQtNDE3/NS05NzQzLWZlYmJh/NTQxMWE2MV81MzV4/LnBuZz92PTE3Mzk4/MTM0MjM",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "Pelican Elite Cooler (rotomolded)",
+      "pros": [
+        "Excellent ice retention in independent tests",
+        "Rugged, sit-on-ready lid and construction"
+      ],
+      "cons": [
+        "Heavier than soft coolers",
+        "Fewer size/color options than some rivals"
+      ],
+      "price": null,
+      "amazon_id": "B09211PLC7",
+      "sources": [
+        "https://www.reviewed.com/home-outdoors/features/11-knock-off-yeti-coolers-youll-wish-you-tried-sooner"
+      ],
+      "amazon_url": "https://www.amazon.com/Pelican-Elite-Quart-Cooler-Americana/dp/B09211PLC7",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/K-hm5kdBDIZJAVwsFUpaW0yoRKQ8lzuEkJ5dFgkvdvw/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9tLm1l/ZGlhLWFtYXpvbi5j/b20vaW1hZ2VzL0kv/NjFEY1NtSmpaeEwu/anBn",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "Coleman Xtreme 5-Day Cooler",
+      "pros": [
+        "Great value for short- to mid-term ice retention",
+        "Lightweight and widely available"
+      ],
+      "cons": [
+        "Not as long-lasting as premium rotomolded coolers",
+        "Plastic construction less durable long-term"
+      ],
+      "price": null,
+      "amazon_id": "B0CDNJC1LV",
+      "sources": [
+        "https://weather.com/atmosphere/reviews/news/2024-04-15-best-portable-coolers/",
+        "https://www.foodnetwork.com/how-to/packages/shopping/product-reviews/best-coolers"
+      ],
+      "amazon_url": "https://www.amazon.com/Coleman-Portable-Rolling-Cooler-Wheeled/dp/B0CDNJC1LV",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/c-AlkNn4ieOmR7zCS1x5A5zs_yInD2GtkIbMd0jrWyw/rs:fit:0:180:1:0/g:ce/aHR0cDovL3d3dy5j/b29sZXJzb25zYWxl/LmNvbS93cC1jb250/ZW50L3VwbG9hZHMv/MjAxNC8wNy9Db2xl/bWFuMTAwV2hpdGUt/MzAweDE3OC5qcGc",
+      "resolver": "brave",
+      "valid": true
+    }
+  ],
+  "resolvedLinks": {
+    "https://www.foodnetwork.com/how-to/packages/shopping/product-reviews/best-coolers": {
+      "title": "6 Best Coolers of 2026, Tested and Reviewed",
+      "description": "We melted popsicles in top coolers in sweltering heat. See which ones passed the test!",
+      "image": "https://food.fnr.sndimg.com/content/dam/images/food/products/2022/7/25/FN-ProductTestingImages-33-COOLERS-v1.png.rend.hgtvcom.616.462.85.suffix/1658850559597.webp",
+      "url": "https://www.foodnetwork.com/how-to/packages/shopping/product-reviews/best-coolers"
+    },
+    "https://www.reviewed.com/home-outdoors/features/11-knock-off-yeti-coolers-youll-wish-you-tried-sooner": {
+      "title": "Yeti coolers are great—but these 12 affordable dupes might be even better",
+      "description": "Why spend hundreds on a cooler when you don't have to?",
+      "image": "https://reviewed-com-res.cloudinary.com/image/fetch/s--_xEVPdep--/b_white,c_limit,cs_srgb,f_auto,fl_progressive.strip_profile,g_center,q_auto,w_1200/https://reviewed-production.s3.amazonaws.com/1627558273619/Cooler-TBRN-Carry.jpg",
+      "url": "https://www.reviewed.com/home-outdoors/features/11-knock-off-yeti-coolers-youll-wish-you-tried-sooner"
+    },
+    "https://weather.com/atmosphere/reviews/news/2024-04-15-best-portable-coolers/": {
+      "title": "10 Best Portable Coolers of 2025 | Weather.com",
+      "description": "Beat the heat of the great outdoors with one of the best portable coolers of 2025, from RTIC and Igloo to Yeti and Coleman.",
+      "image": "https://s.w-x.co/RTICHero2-Amazon.png",
+      "url": "https://weather.com/atmosphere/reviews/news/2024-04-15-best-portable-coolers"
+    }
+  }
+}

@@ -1,0 +1,116 @@
+{
+  "slug": "laser-printers",
+  "query": "best laser printers",
+  "title": "Best laser printers | Bin Diving",
+  "description": "AI-dug recommendations for best laser printers. Compare options and find one that fits.",
+  "dugAt": "2026-03-18T21:35:02.633Z",
+  "recommendations": [
+    {
+      "product_name": "Brother MFC-L2750DW XL",
+      "pros": [
+        "Fast monochrome printing",
+        "High-capacity toner/low cost per page",
+        "ADF + second paper tray for heavy office use"
+      ],
+      "cons": [
+        "Monochrome only",
+        "No color printing capabilities"
+      ],
+      "price": null,
+      "amazon_id": "B07641MHV2",
+      "sources": [
+        "https://www.tomsguide.com/us/brother-mfc-l2750dwxl%2Creview-5419.html",
+        "https://www.tomsguide.com/us/best-all-in-one-printers%2Creview-2026.html"
+      ],
+      "amazon_url": "https://www.amazon.com/Brother-Multi-function-MFCL2750DWXL-Touchscreen-Connectivity/dp/B07641MHV2",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/f75asFHzo6xVzmWd4jhRd3KzXCmu9Epjx0zksdVjvLs/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9tLm1l/ZGlhLWFtYXpvbi5j/b20vaW1hZ2VzL0kv/MzFnVWx4djNPc0wu/anBn",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "Canon imageCLASS MF656Cdw",
+      "pros": [
+        "Full-color MFP with scanning/copying/fax",
+        "Strong color print quality for documents",
+        "Sturdy build for small-office use"
+      ],
+      "cons": [
+        "Some user-reported Wi‑Fi/driver quirks",
+        "Can be loud during printing"
+      ],
+      "price": null,
+      "amazon_id": "B0BSMZVH26",
+      "sources": [
+        "https://www.rtings.com/printer/reviews/canon/color-imageclass-mf656cdw-mf654cdw",
+        "https://www.canon.com.mx/media/documentosproducto/fichero/1/1062_Brochure_iC-MF656Cdw_1123.pdf"
+      ],
+      "amazon_url": "https://www.amazon.com/Canon-Color-imageCLASS-MF656Cdw-Wireless/dp/B0BSMZVH26",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/o9MnsJ_w1C4KYhMwSeGPN-mI_Rqhj3FinPBtDu9vDis/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9zbnBp/LmRlbGwuY29tL3Nu/cC9pbWFnZXMvcHJv/ZHVjdHMvbGFyZ2Uv/QUM0NjE2NzJfTVZJ/My5qcGc",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "HP LaserJet M209dw",
+      "pros": [
+        "Compact and affordable micro laser",
+        "Crisp text output",
+        "Good option for small teams/home offices"
+      ],
+      "cons": [
+        "Monochrome only",
+        "Limited advanced features/ADF"
+      ],
+      "price": null,
+      "amazon_id": "B08VF3XRQ8",
+      "sources": [
+        "https://www.techradar.com/pro/hp-laserjet-m209dw-printer-review",
+        "https://www.pcguide.com/printer/review/hp-laserjet-m209dw/"
+      ],
+      "amazon_url": "https://www.amazon.com/HP-LaserJet-Wireless-printing-6GW62F/dp/B08VF3XRQ8",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/IjZ_Cku9kSeb0ClVqAn7mNMmVyMD2WR1DC2M6FEF1Fs/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly93ZWJv/YmplY3RzMi5jZHcu/Y29tL2lzL2ltYWdl/L0NEVy82NjEwMzY5/PyRwcm9kdWN0LWRl/dGFpbCQ",
+      "resolver": "brave",
+      "valid": true
+    }
+  ],
+  "resolvedLinks": {
+    "https://www.tomsguide.com/us/brother-mfc-l2750dwxl%2Creview-5419.html": {
+      "title": "Brother MFC-L2750DW XL Review: The New Laser Champ",
+      "description": "The Brother MFC-L2750DW is a quick small-office all-in-one that delivers a low cost per page, plenty of features and lots of speed.",
+      "image": "https://cdn.mos.cms.futurecdn.net/WvLbGgKUhDtsSRxkGX7BSi-1500-80.jpg",
+      "url": "https://www.tomsguide.com/us/brother-mfc-l2750dwxl,review-5419.html"
+    },
+    "https://www.tomsguide.com/us/best-all-in-one-printers%2Creview-2026.html": {
+      "title": "Best all-in-one printers in 2025: Our top picks tested and rated",
+      "description": "Print, scan, copy, repeat — all from a single Wi-Fi connected printer",
+      "image": "https://cdn.mos.cms.futurecdn.net/S396YeAc3kZpKHpgkXkmD9-2000-80.jpg",
+      "url": "https://www.tomsguide.com/computing/printers/best-all-in-one-printers"
+    },
+    "https://www.rtings.com/printer/reviews/canon/color-imageclass-mf656cdw-mf654cdw": {
+      "title": "Canon Color imageCLASS MF656Cdw/MF654Cdw Review",
+      "description": "The Canon Color imageCLASS MF656Cdw is an all-in-one color laser printer designed mainly for business use. It's compatible with Canon 067 standard-format and 067...",
+      "image": "https://i.rtings.com/assets/products/SRWJJEBq/canon-color-imageclass-mf656cdw-mf654cdw/design-medium.jpg?format=auto",
+      "url": "https://www.rtings.com/printer/reviews/canon/color-imageclass-mf656cdw-mf654cdw"
+    },
+    "https://www.canon.com.mx/media/documentosproducto/fichero/1/1062_Brochure_iC-MF656Cdw_1123.pdf": {
+      "title": "",
+      "description": "",
+      "image": "",
+      "url": "https://www.canon.com.mx/media/documentosproducto/fichero/1/1062_Brochure_iC-MF656Cdw_1123.pdf"
+    },
+    "https://www.techradar.com/pro/hp-laserjet-m209dw-printer-review": {
+      "title": "I reviewed the HP LaserJet M209dw - and this cheap printer is the best micro laser model I’ve tested",
+      "description": "Miniature mono laser is a perfect fit for the micro office",
+      "image": "https://cdn.mos.cms.futurecdn.net/2TB9Jy3ex7uC2AJwfBRudn-2560-80.jpg",
+      "url": "https://www.techradar.com/pro/hp-laserjet-m209dw-printer-review"
+    },
+    "https://www.pcguide.com/printer/review/hp-laserjet-m209dw/": {
+      "title": "HP LaserJet M209dw review: a cheap and crisp printer for small businesses",
+      "description": "Stripping back the HP printer to the basics, we check out the LaserJet M209dw in our review, a monochrome laser printer on a budget.",
+      "image": "https://www.pcguide.com/wp-content/uploads/2026/02/HP-LaserJet-M209dw-printer-box-Image-by-PC-Guide.jpg",
+      "url": "https://www.pcguide.com/printer/review/hp-laserjet-m209dw/"
+    }
+  }
+}

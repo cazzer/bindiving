@@ -1,0 +1,95 @@
+{
+  "slug": "ant-killers",
+  "query": "best ant killers",
+  "title": "Best ant killers | Bin Diving",
+  "description": "AI-dug recommendations for best ant killers. Compare options and find one that fits.",
+  "dugAt": "2026-03-18T16:18:19.805Z",
+  "recommendations": [
+    {
+      "product_name": "TERRO Liquid Ant Baits (T300)",
+      "pros": [
+        "Effective colony-targeting borax bait",
+        "Easy-to-use prefilled stations"
+      ],
+      "cons": [
+        "Some species ignore sweet baits",
+        "Occasional leaking reported"
+      ],
+      "price": null,
+      "amazon_id": "B07F2NTSHV",
+      "sources": [
+        "https://www.thisoldhouse.com/pest-control/22907911/best-ant-killer",
+        "https://www.terro.com/terro-liquid-ant-baits-t300-all-reviews"
+      ],
+      "amazon_url": "https://www.amazon.com/Terro-T300-3-Killer-Liquid-Ant/dp/B07F2NTSHV",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/lNxQjVHvSr-lfMtPlkkGUuGVsq1E1jKogA3PZS6j0mY/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9pNS53/YWxtYXJ0aW1hZ2Vz/LmNvbS9zZW8vVEVS/Uk8tMTAyODE0LTc1/NTUwNS1UMzAwLUxp/cXVpZC1BbnQtQmFp/dHMtMS1QYWNrLTYt/U3RhdGlvbnNfYWU1/MGI2MGMtYzZlMC00/MDA4LWFiMjUtN2Y0/ZDdhMzVlZDUzLjFj/YzlkOGNkZGVlYTBj/ZmQ0YTZjMjFhOTY0/MmM0NjJkLnBuZz9v/ZG5IZWlnaHQ9NjQw/Jm9kbldpZHRoPTY0/MCZvZG5CZz1GRkZG/RkY",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "ADVION Ant Gel (indoxacarb)",
+      "pros": [
+        "Professional-grade gel; highly attractive to many ant species",
+        "Non-repellent—ants carry bait back to colony"
+      ],
+      "cons": [
+        "May be restricted or harder to find in some areas",
+        "Commercial product handling precautions advised"
+      ],
+      "price": null,
+      "amazon_id": "B0CT84RT4S",
+      "sources": [
+        "https://www.syngentappm.com/sites/g/files/kgtney981/files/media/document/2024/05/09/advion_ant_brochure.pdf",
+        "https://www.intermountainturf.com/products/advion-ant-bait-gel-tube-30-gm-tube"
+      ],
+      "amazon_url": "https://www.amazon.com/Advion-Insecticide-Ingredient-Indoxacarb-Long-Lasting/dp/B0CT84RT4S",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/LmpVABvdmJXkDeyVRFpmoefE3581N2sz7gfKqAkGhHw/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9wZXN0/aWxlc3MuY29tL3dw/LWNvbnRlbnQvdXBs/b2Fkcy8yMDIyLzAx/L0Fkdmlvbi1BbnQt/R2VsLTMwZy00YnIt/MS5qcGc",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "Raid Ant & Roach Killer Spray (aerosol)",
+      "pros": [
+        "Fast, on-contact knockdown for visible ants",
+        "Widely available and affordable"
+      ],
+      "cons": [
+        "Doesn’t eliminate colony (not a bait)",
+        "Residue/odor and limited residual protection outdoors"
+      ],
+      "price": null,
+      "amazon_id": "B00NES7LMU",
+      "sources": [
+        "https://amp.cnn.com/cnn/cnn-underscored/home/best-ant-killer",
+        "https://www.thisoldhouse.com/pest-control/22907911/best-ant-killer"
+      ],
+      "amazon_url": "https://www.amazon.com/Raid-Roach-Killer-Fragrance-Free/dp/B00NES7LMU",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/yND5G831sOJrPysCuDjQKax227mYGhrIe80EljB5fAw/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly93d3cu/c2NqcC5jb20vc2l0/ZXMvZGVmYXVsdC9m/aWxlcy9zdHlsZXMv/cHJvZHVjdC9wdWJs/aWMvMjAyNS0wMy9S/YWlkJUMyJUFFJTIw/QW50JTIwJiUyMFJv/YWNoJTIwS2lsbGVy/JTIwMzY2MDAwLmpw/Zw",
+      "resolver": "brave",
+      "valid": true
+    }
+  ],
+  "resolvedLinks": {
+    "https://www.terro.com/terro-liquid-ant-baits-t300-all-reviews": {
+      "title": "TERRO® Liquid Ant Baits | Model T300",
+      "description": "",
+      "image": "",
+      "url": "https://www.terro.com/terro-liquid-ant-baits-t300-all-reviews"
+    },
+    "https://www.intermountainturf.com/products/advion-ant-bait-gel-tube-30-gm-tube": {
+      "title": "Advion Ant Bait Gel  tube (30 gm tube)",
+      "description": "Advion Ant Gel Bait kills sweet-feeding ants with colony-wide control. Safe, non-staining, and effective on 19+ species. For indoor/outdoor use.",
+      "image": "http://www.intermountainturf.com/cdn/shop/files/advion_ant_gel_single_163bbbe1-7112-4d51-bf5a-45889961e08d.jpg?v=1773779954",
+      "url": "https://www.intermountainturf.com/products/advion-ant-bait-gel-tube-30-gm-tube"
+    },
+    "https://amp.cnn.com/cnn/cnn-underscored/home/best-ant-killer": {
+      "title": "15 best ant killers, according to pest control experts | CNN Underscored",
+      "description": "We spoke to eight pest-control experts and compiled a list of the best ant killers for every type of infestation.",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/best-ant-killer-cnnu.jpg?c=16x9&q=w_800,c_fill",
+      "url": "https://www.cnn.com/cnn-underscored/home/best-ant-killer"
+    }
+  }
+}

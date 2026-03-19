@@ -1,0 +1,113 @@
+{
+  "slug": "surroundsound-speakers",
+  "query": "best surround‑sound speakers",
+  "title": "Best surround‑sound speakers | Bin Diving",
+  "description": "AI-dug recommendations for best surround‑sound speakers. Compare options and find one that fits.",
+  "dugAt": "2026-03-18T21:39:00.339Z",
+  "recommendations": [
+    {
+      "product_name": "Sonos Arc Ultra + Sub (Premium Immersive set with two rear speakers)",
+      "pros": [
+        "Top-tier Dolby Atmos performance",
+        "Seamless multiroom/streaming integration"
+      ],
+      "cons": [
+        "Very expensive",
+        "Proprietary ecosystem limits flexibility"
+      ],
+      "price": null,
+      "amazon_id": "B0DFK28LBB",
+      "sources": [
+        "https://www.sonos.com/en-us/shop/arc-ultra",
+        "https://www.technobezz.com/best/amazon-discounts-sonos-arc-ultra-soundbar-and-sub-4-to-1599-2026-01-30-2hsy"
+      ],
+      "amazon_url": "https://www.amazon.com/Sonos-Ultra-Soundbar-Dolby-Control/dp/B0DFK28LBB",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/kFbqeacCDWgqO__Ghu8nAY2AZIKuZaB-7DgHFtdLfW4/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly90YXJn/ZXQuc2NlbmU3LmNv/bS9pcy9pbWFnZS9U/YXJnZXQvR1VFU1Rf/Y2I5MWVhODUtODFl/OC00NmRjLWJhMGMt/YTQ4YzMwNWZjMTM2/P3dpZD04MDAmaGVp/PTgwMCZxbHQ9ODAm/Zm10PXBqcGVn",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "Klipsch Reference/R-625FA based 5.1 Home Theater (Reference Dolby Atmos bundle variants)",
+      "pros": [
+        "Dynamic, cinema-style presentation",
+        "Good value for discrete 5.1 setups"
+      ],
+      "cons": [
+        "Bulky for small rooms",
+        "Center channel can be hit-or-miss in some bundles"
+      ],
+      "price": null,
+      "amazon_id": "B08WPPL38V",
+      "sources": [
+        "https://projectoreviews.com/klipsch-reference-5-1-home-theater-system/",
+        "https://comfortalife.com/vetted/best-surround-sound-systems/"
+      ],
+      "amazon_url": "https://www.amazon.com/Klipsch-Reference-Standing-Subwoofer-Bookshelf/dp/B08WPPL38V",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/DUuMdzeDOJ2RpOHhsqkNgw4_FQV49lzhFnAkw6Yfkdg/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9tLm1l/ZGlhLWFtYXpvbi5j/b20vaW1hZ2VzL0kv/NzFtT1hubmFSbkwu/anBn",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "KEF Q Concerto Meta 5.1 Speaker System",
+      "pros": [
+        "Exceptional timbre-matched speakers for cinematic clarity",
+        "Highly praised in recent expert reviews"
+      ],
+      "cons": [
+        "Premium price",
+        "Requires quality AVR and room setup to shine"
+      ],
+      "price": null,
+      "amazon_id": "B0DH8FTSK4",
+      "sources": [
+        "https://www.whathifi.com/tv-home-cinema/surround-sound-systems/kef-q-concerto-meta-5-1-speaker-system",
+        "https://www.whathifi.com/best-buys/best-surround-sound-systems"
+      ],
+      "amazon_url": "https://www.amazon.com/KEF-Concerto-Three-Way-Bookshelf-Speaker/dp/B0DH8FTSK4",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/h53UNz9Vm138PipGESvVgX_VIvVHn7tLGYvxKT5XiN0/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly83cmV2/aWV3LmNvbS93cC1j/b250ZW50L3VwbG9h/ZHMvMjAyNC8xMC9L/RUYtUS1Db25jZXJ0/by1NZXRhLVJldmll/dy00LmpwZw",
+      "resolver": "brave",
+      "valid": true
+    }
+  ],
+  "resolvedLinks": {
+    "https://www.sonos.com/en-us/shop/arc-ultra": {
+      "title": "Arc Ultra: Home Theater Soundbar with Dolby Atmos - Sonos",
+      "description": "Featuring breakthrough Sound Motion™ technology, Arc Ultra brings your entertainment to life like no other soundbar.",
+      "image": "https://media.sonos.com/images/znqtjj88/production/c6e84e0ad4ee82bcada3148dee547f972f2e2d7f-2880x2880.png?q=75&fit=clip&auto=format",
+      "url": "https://www.sonos.com/en-us/shop/arc-ultra"
+    },
+    "https://www.technobezz.com/best/amazon-discounts-sonos-arc-ultra-soundbar-and-sub-4-to-1599-2026-01-30-2hsy": {
+      "title": "Amazon discounts Sonos Arc Ultra soundbar and Sub 4 to $1599",
+      "description": "Save $398 on the Sonos Arc Ultra soundbar and Sub 4 bundle for immersive Dolby Atmos home theater audio in this limited-time Amazon deal.",
+      "image": "https://cdn.technobezz.com/c/Super_Deal_d495d869a1.png",
+      "url": "https://www.technobezz.com/best/amazon-discounts-sonos-arc-ultra-soundbar-and-sub-4-to-1599-2026-01-30-2hsy"
+    },
+    "https://projectoreviews.com/klipsch-reference-5-1-home-theater-system/": {
+      "title": "Klipsch Reference 5.1 Home Theater System",
+      "description": "Immerse yourself in cinematic sound with the Klipsch Reference 5.1 Home Theater System. This powerful bundle boasts everything you need to create a truly",
+      "image": "https://projectoreviews.com/wp-content/uploads/2024/04/Klipsch-Reference-5.1-Home-Theater-System.jpg",
+      "url": "https://projectoreviews.com/klipsch-reference-5-1-home-theater-system/"
+    },
+    "https://comfortalife.com/vetted/best-surround-sound-systems/": {
+      "title": "10 Best Surround Sound Systems of 2026 for Immersive Home Theater Experiences - Comfort a Life",
+      "description": "Learn about the top 10 surround sound systems of 2026 that will transform your home theater—discover which one is perfect for your space and needs.",
+      "image": "https://comfortalife.com/wp-content/uploads/2025/12/top_2026_home_theater_systems_dvxy1.jpg",
+      "url": "https://comfortalife.com/vetted/best-surround-sound-systems/"
+    },
+    "https://www.whathifi.com/tv-home-cinema/surround-sound-systems/kef-q-concerto-meta-5-1-speaker-system": {
+      "title": "We took a pair of five-star KEF Q Concerto Metas and added more speakers to make a 5.1 package – here's the result",
+      "description": "What Hi-Fi? Awards 2025 winner. KEF’s latest surround sound system is a cinematic delight",
+      "image": "https://cdn.mos.cms.futurecdn.net/xmkDQxACdXyNCQztR2wgrF-1920-80.jpg",
+      "url": "https://www.whathifi.com/tv-home-cinema/surround-sound-systems/kef-q-concerto-meta-5-1-speaker-system"
+    },
+    "https://www.whathifi.com/best-buys/best-surround-sound-systems": {
+      "title": "We've tested countless surround sound systems, but these are the very best of the bunch",
+      "description": "The perfect home theatre solutions for every budget and space",
+      "image": "https://cdn.mos.cms.futurecdn.net/QaGo8SDumdNz8kvdsGrBxF-1920-80.jpg",
+      "url": "https://www.whathifi.com/best-buys/best-surround-sound-systems"
+    }
+  }
+}

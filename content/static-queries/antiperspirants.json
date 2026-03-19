@@ -1,0 +1,112 @@
+{
+  "slug": "antiperspirants",
+  "query": "best antiperspirants",
+  "title": "Best antiperspirants | Bin Diving",
+  "description": "AI-dug recommendations for best antiperspirants. Compare options and find one that fits.",
+  "dugAt": "2026-03-18T18:04:15.944Z",
+  "recommendations": [
+    {
+      "product_name": "Secret Clinical Strength Antiperspirant Deodorant",
+      "pros": [
+        "Strong clinical-level sweat control",
+        "Widely recommended for heavy sweating",
+        "Available in multiple scents/unscented"
+      ],
+      "cons": [
+        "Can irritate very sensitive skin",
+        "Some formulations leave residue on clothes"
+      ],
+      "price": null,
+      "amazon_id": "B00HF3XSO0",
+      "sources": [
+        "https://www.nbcnews.com/select/shopping/best-deodorants-antiperspirants-rcna97537",
+        "https://www.shape.com/best-antiperspirants-7564534",
+        "https://productreviewcrew.com/review/best-deodorants-for-women-2026-compared"
+      ],
+      "amazon_url": "https://www.amazon.com/Secret-Antiperspirant-Deodorant-Invisible-Completely/dp/B00HF3XSO0",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/DCJlpaLY7NwbnTaRuzXgAkwuWa-9fR45CWtbzC0q4E0/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9pbWFn/ZXMtbmEuc3NsLWlt/YWdlcy1hbWF6b24u/Y29tL2ltYWdlcy9J/LzcxOFZWVTZHNkZM/LmpwZw",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "Dove Advanced Care / Dove Men+Care Antiperspirant",
+      "pros": [
+        "Good balance of sweat protection and skin care",
+        "Gentle formulas for sensitive skin options",
+        "High reviewer satisfaction in recent editor tests"
+      ],
+      "cons": [
+        "Scent may be too mild for some",
+        "Not as strong as 'clinical strength' options for heavy sweaters"
+      ],
+      "price": null,
+      "amazon_id": "B0CHZFLLWX",
+      "sources": [
+        "https://www.gq.com/story/antipersperant-stain",
+        "https://www.bestreviews.guide/antiperspirants",
+        "https://www.sagewisereviews.com/categories/deodorants"
+      ],
+      "amazon_url": "https://www.amazon.com/Dove-Deodorant-Spray-Advanced-Women/dp/B0CHZFLLWX",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/-_gO0nqpnV9duMwRvc3uNoJRQbNsLBtMR6zp5BL4x5s/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9pbWFn/ZXMtbmEuc3NsLWlt/YWdlcy1hbWF6b24u/Y29tL2ltYWdlcy9J/LzYxRUZkeDJIS1BM/LmpwZw",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "Certain Dri Extra Strength Antiperspirant Deodorant",
+      "pros": [
+        "Clinical-strength formula for excessive sweating",
+        "Longstanding positive user reports for hyperhidrosis",
+        "Compact, easy-to-apply roll-on/stick options"
+      ],
+      "cons": [
+        "Can be too strong for sensitive skin",
+        "Some need nightly application for best results"
+      ],
+      "price": null,
+      "amazon_id": "B07QSRWJS7",
+      "sources": [
+        "https://www.verywellfit.com/best-deodorants-4158696",
+        "https://bestreviews.guide/antiperspirants"
+      ],
+      "amazon_url": "https://www.amazon.com/Certain-Dri-Antiperspirant-Deodorant-Protection/dp/B07QSRWJS7",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/x-DyWI4JVoSGobuSf2wOgcjuW8g_l44HPdvjp8IcyV0/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9jZG4x/LnNraW5zYWZlcHJv/ZHVjdHMuY29tL3Bo/b3RvLzA1NUZEOUQ1/MTg0RUQ1L2xhcmdl/XzE2MjgwMjY4MzAu/anBlZ2pwZWc_MTYy/ODAyNjgzMA",
+      "resolver": "brave",
+      "valid": true
+    }
+  ],
+  "resolvedLinks": {
+    "https://www.nbcnews.com/select/shopping/best-deodorants-antiperspirants-rcna97537": {
+      "title": "Deodorant and antiperspirant aren’t the same — so which is more effective? We asked experts",
+      "description": "If body odor is a concern, experts recommend an antiperspirant that plugs sweat ducts and prevents odor-causing bacteria from growing.",
+      "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2023-08/230801-deodorant-social-3c49d4.jpg",
+      "url": "https://www.nbcnews.com/select/shopping/best-deodorants-antiperspirants-rcna97537"
+    },
+    "https://www.gq.com/story/antipersperant-stain": {
+      "title": "The Best Antiperspirants Keep You Dry Without Staining Your Shirts",
+      "description": "Don't sweat it—we got you covered.",
+      "image": "https://media.gq.com/photos/671275d3bc5a6ff6a644d1f8/16:9/w_1280,c_limit/deoderantlede.png",
+      "url": "https://www.gq.com/story/best-antiperspirants"
+    },
+    "https://www.bestreviews.guide/antiperspirants": {
+      "title": "10 Best Antiperspirants 2026 in the US | There's One Clear Winner | BestReviews.guide",
+      "description": "BestReviews.guide analyzes thousands of articles and customer reviews to find the top-rated products at today's lowest prices. Best products, best offers.",
+      "image": "https://images-proxy.bestreviews.guide/G6uujE3S7j4sVIoBkH9z8pJv9AE=/0x150/https://m.media-amazon.com/images/I/41sRItXjvYL._AC_CX679_.jpg",
+      "url": "https://www.bestreviews.guide/antiperspirants"
+    },
+    "https://www.sagewisereviews.com/categories/deodorants": {
+      "title": "Best Deodorants for 2026 | Sagewise Reviews",
+      "description": "Discover comprehensive reviews of the best deodorants to help you stay fresh and confident throughout the day. Our expert analysis covers a wide range of formulas, from natural and aluminum-free options to clinical-strength antiperspirants, helping you find the perfect match for your lifestyle and body chemistry.",
+      "image": "https://www.sagewisereviews.com/images/categories/deodorants/B01N4B9IIG.webp",
+      "url": "https://www.sagewisereviews.com/categories/deodorants"
+    },
+    "https://bestreviews.guide/antiperspirants": {
+      "title": "10 Best Antiperspirants 2026 in the US | There's One Clear Winner | BestReviews.guide",
+      "description": "BestReviews.guide analyzes thousands of articles and customer reviews to find the top-rated products at today's lowest prices. Best products, best offers.",
+      "image": "https://images-proxy.bestreviews.guide/G6uujE3S7j4sVIoBkH9z8pJv9AE=/0x150/https://m.media-amazon.com/images/I/41sRItXjvYL._AC_CX679_.jpg",
+      "url": "https://www.bestreviews.guide/antiperspirants"
+    }
+  }
+}

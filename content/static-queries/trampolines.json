@@ -1,0 +1,95 @@
+{
+  "slug": "trampolines",
+  "query": "best trampolines",
+  "title": "Best trampolines | Bin Diving",
+  "description": "AI-dug recommendations for best trampolines. Compare options and find one that fits.",
+  "dugAt": "2026-03-18T22:35:01.071Z",
+  "recommendations": [
+    {
+      "product_name": "Springfree Large Oval Trampoline",
+      "pros": [
+        "Springless design — no exposed springs",
+        "High-quality safety features and awards"
+      ],
+      "cons": [
+        "High price vs. standard models",
+        "Usually sold through Springfree/retailers (limited Amazon availability)"
+      ],
+      "price": null,
+      "amazon_id": "B0B57PV1TY",
+      "sources": [
+        "https://www.forbes.com/sites/forbes-personal-shopper/article/best-trampoline//",
+        "https://www.springfreetrampoline.com/pages/awards"
+      ],
+      "amazon_url": "https://www.amazon.com/Springfree-Trampoline-Enclosure-FlexrStep-Trampolines/dp/B0B57PV1TY",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/xy0fsyayrfk54fjsJdjT-aydUP9uDKHCg1J8ufXFyIk/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9yYWlu/Ym93bmV3LmNvbS93/cC1jb250ZW50L3Vw/bG9hZHMvMjAyNC8w/OS9zcHJpbmdmcmVl/LWxhcmdlLW92YWwt/dHJhbXBvbGluZS53/ZWJw",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "Zupapa Rectangular Trampoline (10x17 / 9x15 / 8x14 models)",
+      "pros": [
+        "Rectangular shape — excellent for gymnastics/tumbling",
+        "Strong frame ratings and good value for size"
+      ],
+      "cons": [
+        "Large models are heavy and may require professional assembly",
+        "Some reports of variable customer service experiences"
+      ],
+      "price": "$699.99 (manufacturer site listing; Amazon prices vary)",
+      "amazon_id": "B0DWX8BHM3",
+      "sources": [
+        "https://www.rosenberryrooms.com/best-rectangular-trampoline/",
+        "https://www.zupapa.us/products/zupapa-rectangular-trampoline-outdoor-square-trampolines"
+      ],
+      "amazon_url": "https://www.amazon.com/Zupapa-Trampoline-Gymnastics-Trampolines-Rectangular/dp/B0DWX8BHM3",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/SMDpzFpI1eRwN76q8XjRej0CZCEGu1X7E1XeXDzQkbA/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9tLm1l/ZGlhLWFtYXpvbi5j/b20vaW1hZ2VzL0kv/NzF2aUFlWkM5c0wu/anBn",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "Skywalker Trampolines Jump N' Dunk (12 ft / 8 ft variants)",
+      "pros": [
+        "Budget-friendly and widely available",
+        "Includes basketball hoop — popular for family play"
+      ],
+      "cons": [
+        "Lower-end materials vs premium brands",
+        "Smaller warranty/shorter lifespan than premium models"
+      ],
+      "price": null,
+      "amazon_id": "B0B78LTWWJ",
+      "sources": [
+        "https://thejumpcentral.com/skywalker-12-foot-trampoline-jump-n-dunk-review/",
+        "https://www.babybargains.com/the-best-trampoline/"
+      ],
+      "amazon_url": "https://www.amazon.com/Skywalker-Trampolines-Jump-Trampoline-Enclosure/dp/B0B78LTWWJ",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/AZe750GbZL_1oDuX3cdrmu01rOfM4XUi0S-jWCgjiug/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9tLm1l/ZGlhLWFtYXpvbi5j/b20vaW1hZ2VzL0kv/NDFaSkFTWEdwcUwu/anBn",
+      "resolver": "brave",
+      "valid": true
+    }
+  ],
+  "resolvedLinks": {
+    "https://www.springfreetrampoline.com/pages/awards": {
+      "title": "Our International Awards | Springfree® Trampoline",
+      "description": "Springfree Trampoline is one of the Most Awarded Trampolines internationally. View the awards received for safety, quality, customer care, design and more.",
+      "image": "http://www.springfreetrampoline.com/cdn/shop/files/Springfree_DM181_edit_1.jpg?v=1761232275",
+      "url": "https://www.springfreetrampoline.com/pages/awards"
+    },
+    "https://www.zupapa.us/products/zupapa-rectangular-trampoline-outdoor-square-trampolines": {
+      "title": "Zupapa 1800LBS/2500LBS Rectangular Trampoline",
+      "description": "Zupapa 1800LBS Weight Capacity Rectangle Trampoline 10x17FT 9X15FT 8X14FT Outdoor Square Gymnastics Trampolines for Kids Adults Rectangular Tumbling Trampoline",
+      "image": "http://www.zupapa.us/cdn/shop/files/Zupapa_1500LBS_Weight_Capacity_Rectangle_Trampoline_10x17FT.01.webp?v=1773590386",
+      "url": "https://www.zupapa.us/products/zupapa-rectangular-trampoline-outdoor-square-trampolines"
+    },
+    "https://www.babybargains.com/the-best-trampoline/": {
+      "title": "Best Trampoline - Baby Bargains",
+      "description": "What are the best trampoline? We surveyed the readers of our parenting books (2 million copies in print) to find the best trampolines. We looked for trampolines that were easy to assemble, durable and, of course, FUN! Here are the ones that are the best bets. FYI: Since 1994, we've been rating and reviewing products for families, children and the home. We don't take money from the brands we review. Our work is 100% reader supported, so we appreciate you reading this article.",
+      "image": "https://dev.babybargains.com/wp-content/uploads/2020/04/besttrampolines.jpg",
+      "url": "https://www.babybargains.com/the-best-trampoline/"
+    }
+  }
+}

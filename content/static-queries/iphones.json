@@ -1,0 +1,107 @@
+{
+  "slug": "iphones",
+  "query": "best iphones",
+  "title": "Best iphones | Bin Diving",
+  "description": "AI-dug recommendations for best iphones. Compare options and find one that fits.",
+  "dugAt": "2026-03-18T19:23:01.050Z",
+  "recommendations": [
+    {
+      "product_name": "Apple iPhone 17 Pro Max",
+      "pros": [
+        "Top-tier camera system",
+        "Largest display and best battery life",
+        "Premium titanium build"
+      ],
+      "cons": [
+        "Most expensive model",
+        "Largest size may be unwieldy for some"
+      ],
+      "price": null,
+      "amazon_id": "B0FTC2PRVZ",
+      "sources": [
+        "https://www.tomsguide.com/us/best-apple-iphone%2Creview-6348.html",
+        "https://www.engadget.com/mobile/smartphones/best-iphone-160012979.html",
+        "https://www.macrumors.com/guide/iphone/Roundups/"
+      ],
+      "amazon_url": "https://www.amazon.com/Apple-Version-Orange-Unlocked-Renewed/dp/B0FTC2PRVZ",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/W-rkw0QHwBBfwQ41KML7cJkYqCeNirKGZBQgEyMR9UE/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9mZG4u/Z3NtYXJlbmEuY29t/L2ltZ3Jvb3QvcmV2/aWV3cy8yNS9hcHBs/ZS1pcGhvbmUtMTct/cHJvLW1heC9saWZl/c3R5bGUvLTEwMjR3/Mi9nc21hcmVuYV8w/MjQuanBn",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "Apple iPhone 17 Pro",
+      "pros": [
+        "High-end performance and camera features",
+        "Smaller, more pocketable Pro hardware",
+        "ProMotion 120Hz display and durable materials"
+      ],
+      "cons": [
+        "Still expensive compared with non‑Pro models",
+        "Less battery life than Pro Max"
+      ],
+      "price": null,
+      "amazon_id": "B0FSB8V9NK",
+      "sources": [
+        "https://www.tomsguide.com/us/best-apple-iphone%2Creview-6348.html",
+        "https://www.engadget.com/mobile/smartphones/best-iphone-160012979.html",
+        "https://www.macrumors.com/guide/iphone/Roundups/"
+      ],
+      "amazon_url": "https://www.amazon.com/Apple-iPhone-Version-Unlocked-Renewed/dp/B0FSB8V9NK",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/Ht6kU7nU6Uvy8hXS659pg_wa4yC3mjN7ObTTKahrQAo/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9tZWRp/YS5jbm4uY29tL2Fw/aS92MS9pbWFnZXMv/c3RlbGxhci9wcm9k/L2FwcGxlLWlwaG9u/ZS0xNy1wcm8tYW5k/LXByby1tYXgtY25u/dS1yZXZpZXctbGVh/ZC1pbWFnZS5qcGc_/Yz0xNng5JnE9aF84/MzMsd18xNDgwLGNf/ZmlsbA",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "Apple iPhone 17",
+      "pros": [
+        "Best balance of price and performance",
+        "Modern A19 chip and improved cameras",
+        "Smaller, easier to handle than Pro Max"
+      ],
+      "cons": [
+        "Fewer advanced camera/telephoto features than Pro models",
+        "No Max battery headroom"
+      ],
+      "price": null,
+      "amazon_id": "B0FTC2NM5K",
+      "sources": [
+        "https://www.tomsguide.com/us/best-apple-iphone%2Creview-6348.html",
+        "https://www.t-mobile.com/dialed-in/devices/best-iphones/",
+        "https://www.macrumors.com/guide/iphone/Roundups/"
+      ],
+      "amazon_url": "https://www.amazon.com/Apple-Version-Silver-Unlocked-Renewed/dp/B0FTC2NM5K",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/RQN2h-A7v23Xh7paRENgeofe6lsQoQHJmXcvNIyjd3Y/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9mZG4u/Z3NtYXJlbmEuY29t/L2ltZ3Jvb3QvcmV2/aWV3cy8yNS9hcHBs/ZS1pcGhvbmUtMTcv/bGlmZXN0eWxlLy0x/MDI0dzIvZ3NtYXJl/bmFfMDIwLmpwZw",
+      "resolver": "brave",
+      "valid": true
+    }
+  ],
+  "resolvedLinks": {
+    "https://www.tomsguide.com/us/best-apple-iphone%2Creview-6348.html": {
+      "title": "Best iPhones in 2026: Which iPhone should you buy?",
+      "description": "Here are the best iPhones for every budget",
+      "image": "https://cdn.mos.cms.futurecdn.net/2csZR2o8dLWDWufjC9YSwQ-2560-80.jpg",
+      "url": "https://www.tomsguide.com/us/best-apple-iphone,review-6348.html"
+    },
+    "https://www.engadget.com/mobile/smartphones/best-iphone-160012979.html": {
+      "title": "The best iPhones for 2026: Which model should you buy?",
+      "description": "Of the seven iPhone models Apple sells today, these are the best to buy right now.",
+      "image": "https://s.yimg.com/ny/api/res/1.2/Jq21CokA4HLmUPOh9XhXrw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03MjA-/https://s.yimg.com/os/creatr-uploaded-images/2026-01/e5ccc4f0-fe01-11f0-bfff-13aa6795e667",
+      "url": "https://www.engadget.com/mobile/smartphones/best-iphone-160012979.html"
+    },
+    "https://www.macrumors.com/guide/iphone/Roundups/": {
+      "title": "iPhone: 2025/2026 Buyer's Guide",
+      "description": "In 2007, Apple launched the original iPhone, kickstarting the modern smartphone era which is now dominated by iPhone and Android devices. We've had 19 generations of iPhones so far, with the latest models, the iPhone 17, iPhone 17 Pro, iPhone 17 Pro Max, and iPhone Air, introduced in September 2025. Apple follows an annual update cycle, introducing new flagship models while discounting prior-year models and selling them at more affordable price points.",
+      "image": "https://images.macrumors.com/t/JFHUpgN1n5AARh5FRBWeg0FfVXg=/2000x/article-new/2025/09/iphone-17-pro-air.jpg",
+      "url": "https://www.macrumors.com/guide/iphone/"
+    },
+    "https://www.t-mobile.com/dialed-in/devices/best-iphones/": {
+      "title": "Ranking Our Best iPhones: Your Buying Guide For 2024 | T-Mobile",
+      "description": "Find the best iPhone for you in 2024 with our expert guide, comparing top models and features like camera, battery life and more, so you can find the right fit.",
+      "image": "https://www.t-mobile.com/dialed-in/_admin/uploads/2023/06/iphones-1024x576.png",
+      "url": "https://www.t-mobile.com/dialed-in/devices/best-iphones"
+    }
+  }
+}

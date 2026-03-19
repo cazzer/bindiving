@@ -1,0 +1,118 @@
+{
+  "slug": "duvet-covers",
+  "query": "best duvet covers",
+  "title": "Best duvet covers | Bin Diving",
+  "description": "AI-dug recommendations for best duvet covers. Compare options and find one that fits.",
+  "dugAt": "2026-03-18T16:36:44.720Z",
+  "recommendations": [
+    {
+      "product_name": "Bedsure Washed Cotton Duvet Cover Set",
+      "pros": [
+        "Affordable, popular Amazon bestseller",
+        "Prewashed, relaxed linen-like texture",
+        "Includes corner ties and zipper closure"
+      ],
+      "cons": [
+        "Lower price-point means variable long-term durability",
+        "Some color/size inconsistencies reported"
+      ],
+      "price": "$89.99",
+      "amazon_id": "B0BP6DZ862",
+      "sources": [
+        "https://us.amazon.com/Bedsure-Washed-Cotton-Duvet-Oversized/dp/B0CSYXYWDZ",
+        "https://www.yahoo.com/lifestyle/24-best-duvet-covers-amazon-212249938.html"
+      ],
+      "amazon_url": "https://www.amazon.com/Bedsure-Washed-Cotton-Duvet-Cover/dp/B0BP6DZ862",
+      "gpt_azn": "B0CSYXYWDZ",
+      "image_url": "https://imgs.search.brave.com/8-o1Ql8NaeaUTYYn3ruFfXbfDFpdIu0BSqNfhHo12HE/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9pbWFn/ZXMtbmEuc3NsLWlt/YWdlcy1hbWF6b24u/Y29tL2ltYWdlcy9J/LzgxSU9QY1ZRTkxM/LmpwZw",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "Brooklinen Luxe Sateen Duvet Cover",
+      "pros": [
+        "Buttery, hotel-style sateen feel",
+        "Frequently recommended by editors and reviewers",
+        "High thread-count cotton for smooth finish"
+      ],
+      "cons": [
+        "Premium price",
+        "Some users report durability/quality variability over time"
+      ],
+      "price": null,
+      "amazon_id": "B07D1BBZBK",
+      "sources": [
+        "https://www.forbes.com/sites/forbes-personal-shopper/article/best-duvet-cover-on-amazon/",
+        "https://www.brooklinen.com/products/luxe-duvet-cover",
+        "https://www.nbcnews.com/select/shopping/best-duvet-covers-rcna102409"
+      ],
+      "amazon_url": "https://www.amazon.com/Brooklinen-Luxury-Sateen-Duvet-Cover/dp/B07D1BBZBK",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/G7LQQkD3suoE5HmBfI6FvaPPawJns1Tc4SNdfqlPXZ8/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9kaTJw/b252MHY1b3R3LmNs/b3VkZnJvbnQubmV0/L3Bvc3RzLzIwMjUv/MDQvMTkvNjgwM2Nm/NGY0NGFkNGQ3ODhm/ODU4NzgyL21fNjgw/M2NmNGY0NGFkNGQ3/ODhmODU4NzgzLmpw/Zw",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "Cozy Earth Bamboo Duvet Cover",
+      "pros": [
+        "Very soft, breathable bamboo viscose (good for hot sleepers)",
+        "Luxury feel, strong editorial recommendations",
+        "Temperature-regulating properties"
+      ],
+      "cons": [
+        "Premium price",
+        "Mixed user reports on long-term durability and care"
+      ],
+      "price": null,
+      "amazon_id": "B008Q5PKNS",
+      "sources": [
+        "https://www.mattressclarity.com/bedding/comforters-duvets/best-duvet-covers/",
+        "https://www.findthisbest.com/best-bedding-duvet-covers/luxury",
+        "https://cozyearth.com/"
+      ],
+      "amazon_url": "https://www.amazon.com/Cozy-Earth-Premium-Bamboo-Duvet/dp/B008Q5PKNS",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/uigzN8rnGENddzFcfgY82eVX22dmsQTe8_8vtPuEhXA/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9uYXR1/cmFsbGluZW5zLmNv/bS9jZG4vc2hvcC9m/aWxlcy80X0RvdmVn/cmV5X2R1dmV0Y292/ZXJfNDgweC5qcGc_/dj0xNzI2Mjc4Njgz",
+      "resolver": "brave",
+      "valid": true
+    }
+  ],
+  "resolvedLinks": {
+    "https://us.amazon.com/Bedsure-Washed-Cotton-Duvet-Oversized/dp/B0CSYXYWDZ": {
+      "title": "Amazon.com: Bedsure 100% Washed Cotton Duvet Cover Oversized King - Oatmeal Minimalist Cotton Duvet Cover Linen Like for All Seasons - GentleSoft™ Plain Simple Bedding, Oatmeal, Oversized King, 120\"x98\" : Home & Kitchen",
+      "description": "",
+      "image": "",
+      "url": "https://us.amazon.com/Bedsure-Washed-Cotton-Duvet-Oversized/dp/B0CSYXYWDZ"
+    },
+    "https://www.yahoo.com/lifestyle/24-best-duvet-covers-amazon-212249938.html": {
+      "title": "The 24 Best Duvet Covers on Amazon for Sweet Dreams and Quality Sleep",
+      "description": "Need some beauty sleep? Head right this way.",
+      "image": "https://s.yimg.com/os/en/wwd_ecomm_787/9387b337f57d40ff169e0ffcd84a26eb",
+      "url": "https://www.yahoo.com/lifestyle/24-best-duvet-covers-amazon-212249938.html"
+    },
+    "https://www.brooklinen.com/products/luxe-duvet-cover": {
+      "title": "Luxe Sateen Duvet Cover",
+      "description": "Woven from 480 thread count long‑staple cotton, our best-selling Sateen Duvet Cover is luxuriously soft and smooth, perfect for year-round coziness.",
+      "image": "https:////www.brooklinen.com/cdn/shop/files/BKL_25-05_Bedding_Luxe_White_DUV_1x_WOgrey.jpg?v=1758748351&width=1200",
+      "url": "https://www.brooklinen.com/products/luxe-duvet-cover"
+    },
+    "https://www.nbcnews.com/select/shopping/best-duvet-covers-rcna102409": {
+      "title": "How to find a duvet cover for your ideal sleeping temperature",
+      "description": "Plus, tips and tricks on how to find the right fabric for your cover",
+      "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2024-11/241113-best-duvet-covers-lm-main-04499c.jpg",
+      "url": "https://www.nbcnews.com/select/shopping/best-duvet-covers-rcna102409"
+    },
+    "https://www.mattressclarity.com/bedding/comforters-duvets/best-duvet-covers/": {
+      "title": "Best Duvet Covers (2026) | Mattress Clarity",
+      "description": "In our roundup of the best duvet covers, we break down our top picks based on desing, feel, and breathability.",
+      "image": "https://www.mattressclarity.com/wp-content/uploads/2019/02/best-duvet-cover-feature-image.jpg",
+      "url": "https://www.mattressclarity.com/bedding/comforters-duvets/best-duvet-covers/"
+    },
+    "https://cozyearth.com/": {
+      "title": "Life-Changing Luxury Bedding and Loungewear | Cozy Earth",
+      "description": "Cozy Earth offers luxury bedding & loungewear known for its incredible softness and temperature regulation. Browse today. Never worry about sleeping hot again!",
+      "image": "https://cdn.shopify.com/s/files/1/2114/3697/files/Cozy_Earth_Logo_13eabc42-c4ef-4c30-badc-4cb5ae20af16.png?v=1769596906",
+      "url": "https://cozyearth.com/"
+    }
+  }
+}

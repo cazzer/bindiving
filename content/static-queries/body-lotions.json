@@ -1,0 +1,107 @@
+{
+  "slug": "body-lotions",
+  "query": "best body lotions",
+  "title": "Best body lotions | Bin Diving",
+  "description": "AI-dug recommendations for best body lotions. Compare options and find one that fits.",
+  "dugAt": "2026-03-18T17:59:09.677Z",
+  "recommendations": [
+    {
+      "product_name": "CeraVe Daily Moisturizing Lotion (body & face)",
+      "pros": [
+        "Ceramides + hyaluronic acid",
+        "Fragrance-free, non-comedogenic"
+      ],
+      "cons": [
+        "Some counterfeit reports on marketplace sellers",
+        "May feel thin for very dry skin"
+      ],
+      "price": null,
+      "amazon_id": "B000YJ2SLG",
+      "sources": [
+        "https://www.reviewed.com/beauty/best-right-now/best-body-lotions",
+        "https://www.asinsight.com/report/US/cerave-daily-moisturizing-lotion"
+      ],
+      "amazon_url": "https://www.amazon.com/CeraVe-Moisturizing-Lotion-Hyaluronic-Fragrance/dp/B000YJ2SLG",
+      "gpt_azn": "B00TTD9BRC",
+      "image_url": "https://imgs.search.brave.com/d55dGsPuzDzupnn8_tHpYKSpyP5s8Vf4r06yHrzK18A/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9waG9y/Y3lzLXN0YXRpYy5l/d2cub3JnL2Nkbi1j/Z2kvaW1hZ2Uvd2lk/dGg9MjgwLGhlaWdo/dD00MDAscXVhbGl0/eT02MC9odHRwczov/L3Bob3JjeXMtc3Rh/dGljLmV3Zy5vcmcv/aW1hZ2UvY29udGVu/dHMvNjQyOTAyL29y/aWdpbmFsLg",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "Aveeno Daily Moisturizing Lotion (with soothing oat)",
+      "pros": [
+        "Soothing oat formula for dry/sensitive skin",
+        "Widely affordable and available"
+      ],
+      "cons": [
+        "Some users report recent formula/odor changes",
+        "Not as rich as thicker creams for very dry skin"
+      ],
+      "price": null,
+      "amazon_id": "B001459IEE",
+      "sources": [
+        "https://www.allure.com/review/aveeno-active-naturals-moisturizing-lotion/amp",
+        "https://www.aveeno.com/products/daily-moisturizing-lotion-with-soothing-oat"
+      ],
+      "amazon_url": "https://www.amazon.com/Aveeno-Moisturizing-Soothing-Emollients-Fragrance-Free/dp/B001459IEE",
+      "gpt_azn": "B00KZ214ZS",
+      "image_url": "https://imgs.search.brave.com/dI5gTNgqTYUExS69Y4RSwPcGw00TNvdn4Tjc0qzpJrs/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9tLm1l/ZGlhLWFtYXpvbi5j/b20vaW1hZ2VzL0kv/MzEzV3Q5M0tkK0wu/anBn",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "Eucerin Advanced Repair Lotion (16.9 fl oz)",
+      "pros": [
+        "Long-lasting hydration for very dry skin",
+        "Contains ceramides and natural moisturizing factors"
+      ],
+      "cons": [
+        "Thinner lotion texture vs heavy creams",
+        "Some buyers prefer fragrance-free variants"
+      ],
+      "price": null,
+      "amazon_id": "B003BMJGKE",
+      "sources": [
+        "https://homewisereview.com/eucerin-advanced-repair-lotion-review/",
+        "https://www.goodontop.com/body-lotions/eucerin-advanced-repair-lotion-by-eucerin.html"
+      ],
+      "amazon_url": "https://www.amazon.com/Eucerin-Advanced-Repair-Skin-Lotion/dp/B003BMJGKE",
+      "gpt_azn": "B000XY9LT4",
+      "image_url": "https://imgs.search.brave.com/FfBF0y-UU4wybIORcO56lNdZLjsjs5FuE5IbfTIQJ5g/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9pNS53/YWxtYXJ0aW1hZ2Vz/LmNvbS9hc3IvNTAw/OTc4YWQtOGQ3Ny00/NTAxLTk1M2EtNGVk/MjZkNTVlZDYxLmFh/M2Q4NzUxNjk2ZmZh/NWI5NjAwOTVkOGNh/NGQxNGEyLmpwZWc_/b2RuSGVpZ2h0PTYx/MiZvZG5XaWR0aD02/MTImb2RuQmc9RkZG/RkZG",
+      "resolver": "brave",
+      "valid": true
+    }
+  ],
+  "resolvedLinks": {
+    "https://www.reviewed.com/beauty/best-right-now/best-body-lotions": {
+      "title": "The Best Body Lotions of 2026",
+      "description": "We tested the top body lotions to see which ones are worth your money.",
+      "image": "https://reviewed-com-res.cloudinary.com/image/fetch/s--hrtmGz63--/b_white,c_limit,cs_srgb,f_auto,fl_progressive.strip_profile,g_center,q_auto,w_1200/https://reviewed-production.s3.amazonaws.com/1639866951213/DSC_2251.jpg",
+      "url": "https://www.reviewed.com/beauty/best-right-now/best-body-lotions"
+    },
+    "https://www.asinsight.com/report/US/cerave-daily-moisturizing-lotion": {
+      "title": "2025 Amazon Best Selling cerave daily moisturizing lotion: Latest Data & Rankings",
+      "description": "Updated list of the best-selling cerave daily moisturizing lotion on Amazon, based on real sales data. See top brands, rankings, and market trends.",
+      "image": "https://www.asinsight.com/logo.svg",
+      "url": "https://www.asinsight.com/report/US/cerave-daily-moisturizing-lotion"
+    },
+    "https://www.allure.com/review/aveeno-active-naturals-moisturizing-lotion/amp": {
+      "title": "This Is the Best Body Moisturizer $11 Can Buy",
+      "description": "Say bye-bye to dry, itchy skin.",
+      "image": "https://media.allure.com/photos/5912350aa88d231d41daffea/16:9/w_1280,c_limit/rca-2017-social-aveeno-daily-moisturizing-lotion.jpg",
+      "url": "https://www.allure.com/review/aveeno-active-naturals-moisturizing-lotion"
+    },
+    "https://www.aveeno.com/products/daily-moisturizing-lotion-with-soothing-oat": {
+      "title": "Daily Moisturizing Body Lotion With Soothing Oat | Aveeno®",
+      "description": "The gentle daily lotion nourishes & helps replenish skin's natural moisture barrier & has clinically proven moisturization that lasts 24 hours.",
+      "image": "https://images.ctfassets.net/mgaihfszrtka/6GjNQY9eM192bralFU0IS2/33278f6def11d747e2d5281550a632de/ave_381370038443_us_daily_moisturizing_lotion_18oz_00000_0-en-us",
+      "url": "https://www.aveeno.com/products/daily-moisturizing-lotion-with-soothing-oat"
+    },
+    "https://www.goodontop.com/body-lotions/eucerin-advanced-repair-lotion-by-eucerin.html": {
+      "title": "Eucerin Advanced Repair Lotion",
+      "description": "Price: $14.97. 1 Bottle(500 mL). Eucerin Advanced Repair Lotion is enriched with ceramides-3 and natural moisturizing factors to repair very dry skin and fight",
+      "image": "https://www.goodontop.com/images/foods/low-card-foods/body-lotions/eucerin-advanced-repair-lotion-by-eucerin.webp",
+      "url": "https://www.goodontop.com/body-lotions/eucerin-advanced-repair-lotion-by-eucerin.html"
+    }
+  }
+}

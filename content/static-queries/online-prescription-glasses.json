@@ -1,0 +1,125 @@
+{
+  "slug": "online-prescription-glasses",
+  "query": "best online prescription glasses",
+  "title": "Best online prescription glasses | Bin Diving",
+  "description": "AI-dug recommendations for best online prescription glasses. Compare options and find one that fits.",
+  "dugAt": "2026-03-18T23:08:17.606Z",
+  "recommendations": [
+    {
+      "product_name": "Warby Parker (online prescription glasses)",
+      "pros": [
+        "Home try-on program",
+        "Good in-person support at retail locations"
+      ],
+      "cons": [
+        "Higher starting price than budget retailers",
+        "Limited selection at lowest price tier"
+      ],
+      "price": "$95+ (typical starting price)",
+      "amazon_id": "B0BV94S62W",
+      "sources": [
+        "https://www.healthline.com/health/warby-parker-vs-zenni",
+        "https://www.aol.com/the-best-places-to-order-glasses-online-194906791.html",
+        "https://www.yahoo.com/entertainment/rs-recommends-best-places-buy-152000355.html"
+      ],
+      "image_url": "789_QL65_.jpg",
+      "images": [
+        "789_QL65_.jpg"
+      ],
+      "amazon_url": "https://www.amazon.com/Foster-Grant-Anti-fog-Rubberized-Tortoise/dp/B0BV94S62W/ref=mp_s_a_1_1?dib=eyJ2IjoiMSJ9.DhDH7JL4jF0tiQY4EITdY2_-6ZY9mHtW4MqvoVDU6MhQ1moP_roAQddYNl1fU00xk8qG-waFcUJUF5qWRtHCpUfO4npkSAPCQ7TwnfKxIeuU-eaJUX8WSxkeDONswSnTnGRJdbSBAkMxqR40ks4JajgRMXvDxkltZ2gEDPll_S3jmgLih7PfshOOz92G8lmo.vkyD2PZqrUM0pWZyMqvs8ahBt72TIzfzyNSidCf8aoY&dib_tag=se&keywords=Warby+Parker+%28online+prescription+glasses%29&qid=1773875291&sr=8-1",
+      "brand": "Foster Grant",
+      "blackFriday": false,
+      "gpt_azn": null,
+      "resolver": "cheerio",
+      "valid": true
+    },
+    {
+      "product_name": "Zenni Optical (budget online prescription glasses)",
+      "pros": [
+        "Very low starting prices",
+        "Huge selection and frequent styles"
+      ],
+      "cons": [
+        "Fit may require local adjustment",
+        "Variable lens quality reported by some users"
+      ],
+      "price": "$19.99",
+      "amazon_id": "B07VBL5M92",
+      "sources": [
+        "https://www.thepennyhoarder.com/save-money/cheap-eyeglasses-online/",
+        "https://en.wikipedia.org/wiki/Zenni_Optical",
+        "https://www.aol.com/the-best-places-to-order-glasses-online-194906791.html"
+      ],
+      "image_url": "https://images-na.ssl-images-amazon.com/images/G/01/x-locale/common/grey-pixel.gif",
+      "images": [
+        "https://images-na.ssl-images-amazon.com/images/G/01/x-locale/common/grey-pixel.gif"
+      ],
+      "amazon_url": "https://www.amazon.com/ZENOTTIC-Optical-Transparent-Non-prescription-Eyeglasses/dp/B07VBL5M92/ref=mp_s_a_1_1?dib=eyJ2IjoiMSJ9.lpOwet-HJSw-7-T2KFnB3XnuOoiGBgMOusAIxhMthMJYuwdIyOZ9a18uGt_eelae.zOxCxeCnibxdIGu3JnMN74xdcYt5NsUgZ8VHkgF9wME&dib_tag=se&keywords=Zenni+Optical+%28budget+online+prescription+glasses%29&qid=1773875292&sr=8-1",
+      "brand": "ZENOTTIC",
+      "blackFriday": false,
+      "gpt_azn": null,
+      "resolver": "cheerio",
+      "valid": true
+    },
+    {
+      "product_name": "EyeBuyDirect (mid-range online prescription glasses)",
+      "pros": [
+        "Affordable mid-range pricing",
+        "Virtual try-on and lens options"
+      ],
+      "cons": [
+        "Mixed user reports on durability",
+        "Occasional prescription errors reported by users"
+      ],
+      "price": "$8.99",
+      "amazon_id": "B077P1WGHJ",
+      "sources": [
+        "https://www.thepennyhoarder.com/save-money/cheap-eyeglasses-online/",
+        "https://www.yahoo.com/entertainment/rs-recommends-best-places-buy-152000355.html",
+        "https://onlineglassesreview.com/zenni-vs-eyebuydirect-vs-warby-parker/"
+      ],
+      "image_url": "https://images-na.ssl-images-amazon.com/images/G/01/x-locale/common/grey-pixel.gif",
+      "images": [
+        "https://images-na.ssl-images-amazon.com/images/G/01/x-locale/common/grey-pixel.gif"
+      ],
+      "amazon_url": "https://www.amazon.com/Pro-Acme-Non-prescription-Glasses-Eyeglasses/dp/B077P1WGHJ/ref=mp_s_a_1_1?dib=eyJ2IjoiMSJ9.MDNJj3ltm8buENseBqB-aW5zonHjPWDxICe59L7WGFz8uuHt_344J8Yh2OWPer0MZK4NbP6a5dPQ1s3Vxghc1q6IbcMBSy_Vrril4DDtvc69MGE8yhU_gkANysXzNkAwY-jRAESPrHL34tYFzHlNrCcxsn4GhaDslG2cPfBRAlAzCS5A7OaqIANAjA6vZGyqPejjFxTdgtcsn2qIw7i3ug.MBHe1Pp-e69sUvlAaYSf6AZ72ay23S0vcOfG1MSYhFQ&dib_tag=se&keywords=EyeBuyDirect+%28mid-range+online+prescription+glasses%29&qid=1773875293&sr=8-1",
+      "brand": "Pro Acme",
+      "blackFriday": false,
+      "gpt_azn": null,
+      "resolver": "cheerio",
+      "valid": true
+    }
+  ],
+  "resolvedLinks": {
+    "https://www.healthline.com/health/warby-parker-vs-zenni": {
+      "title": "Comparing Warby Parker vs. Zenni Optical for Your Next Eyeglasses",
+      "description": "We break down how to choose the right one for you.",
+      "image": "https://media.post.rvohealth.io/wp-content/uploads/2021/05/happy_female_and_male_on_couch_wearing_glasses-1200x628-facebook.jpg",
+      "url": "https://www.healthline.com/health/warby-parker-vs-zenni"
+    },
+    "https://www.aol.com/the-best-places-to-order-glasses-online-194906791.html": {
+      "title": "The best places to order glasses online",
+      "description": "We tested out the best online glasses retailers to find the best one. Did Warby Parker win?",
+      "image": "https://s.yimg.com/ny/api/res/1.2/O3tfjO3XWxZod909hJBpqA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2025-07/464762e0-6730-11f0-8bf9-39d58f1885b7",
+      "url": "https://www.aol.com/the-best-places-to-order-glasses-online-194906791.html"
+    },
+    "https://www.yahoo.com/entertainment/rs-recommends-best-places-buy-152000355.html": {
+      "title": "The 9 Best Places to Buy Glasses Online Right Now",
+      "description": "These eyewear e-tailers make it easy to shop for glasses, with virtual try-ons and online eye exams",
+      "image": "https://s.yimg.com/ny/api/res/1.2/767ERgNJljKQonqdWyQ.cA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD0xNjkzO2NmPXdlYnA-/https://media.zenfs.com/en/rolling_stone_ecomm_619/4d8d3c58a1313b3467dbe914e1156829",
+      "url": "https://www.yahoo.com/entertainment/rs-recommends-best-places-buy-152000355.html"
+    },
+    "https://www.thepennyhoarder.com/save-money/cheap-eyeglasses-online/": {
+      "title": "Don't Get Ripped Off for Eyeglasses Ever Again — Get Them Way Cheaper Online",
+      "description": "Like with most things, shopping online for prescription eyeglasses has become the new norm thanks to the convenience of being able to try on frames virtually or at home. Now that there are so many options, finding the right pair of cheap prescription glasses online may feel overwhelming.  Because you should expect to replace your...",
+      "image": "https://cdn.thepennyhoarder.com/wp-content/uploads/2024/01/15141507/eyeglasses-1024x683.jpg",
+      "url": "https://www.thepennyhoarder.com/save-money/cheap-eyeglasses-online/"
+    },
+    "https://en.wikipedia.org/wiki/Zenni_Optical": {
+      "title": "Zenni Optical - Wikipedia",
+      "description": "",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Zenni_HQ.png/1280px-Zenni_HQ.png",
+      "url": "https://en.wikipedia.org/wiki/Zenni_Optical"
+    }
+  }
+}

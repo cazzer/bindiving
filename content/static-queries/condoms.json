@@ -1,0 +1,81 @@
+{
+  "slug": "condoms",
+  "query": "best condoms",
+  "title": "Best condoms | Bin Diving",
+  "description": "AI-dug recommendations for best condoms. Compare options and find one that fits.",
+  "dugAt": "2026-03-18T18:08:11.596Z",
+  "recommendations": [
+    {
+      "product_name": "LifeStyles SKYN Original Non-Latex Condoms",
+      "pros": [
+        "Non-latex (polyisoprene)",
+        "Barely-there feel",
+        "Budget-friendly in multi-packs"
+      ],
+      "cons": [
+        "May not fit all sizes",
+        "Some users report sensitivity to formula"
+      ],
+      "price": "$14 (approx.)",
+      "amazon_id": "B002CZ58SK",
+      "sources": [
+        "https://www.wereview.com/best-condoms-11817497"
+      ],
+      "amazon_url": "https://www.amazon.com/Lifestyles-Skyn-Non-Latex-Condoms-Pack/dp/B002CZ58SK",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/JUj29Yb3riCgVyDDuZgaOU3-lUZgN1ZtL7e3PGU0Xgg/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9wZWx2/aWN0ZWNoLmNvbS9j/ZG4vc2hvcC9wcm9k/dWN0cy81OTE0Ml8x/XzZmZjRiOTdmLWIz/NjktNGFjNi04M2U4/LTdmNzY4MTBhMDli/Nl84MDB4LmpwZz92/PTE2NjczMDUwMjE",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "TROJAN ENZ Lubricated Condoms",
+      "pros": [
+        "Strong latex construction",
+        "Built-in reservoir",
+        "Budget-friendly"
+      ],
+      "cons": [
+        "Thicker than some ultrathin options",
+        "May reduce sensitivity for some users"
+      ],
+      "price": "$18 (approx.)",
+      "amazon_id": "B0073R7TWU",
+      "sources": [
+        "https://www.wereview.com/best-condoms-11817497"
+      ],
+      "amazon_url": "https://www.amazon.com/Trojan-ENZ-Lubricated-Condoms-36ct/dp/B0073R7TWU",
+      "gpt_azn": null,
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "Durex Real Feel (polyisoprene) Condoms",
+      "pros": [
+        "Non-latex polyisoprene",
+        "Good sensation transfer",
+        "Widely available at pharmacies"
+      ],
+      "cons": [
+        "Limited size options",
+        "Higher per-condom cost in small packs"
+      ],
+      "price": "$20 (approx.)",
+      "amazon_id": "B088P8SJHN",
+      "sources": [
+        "https://www.wired.com/gallery/best-condoms/"
+      ],
+      "amazon_url": "https://www.amazon.com/Durex-Avanti-Polyisoprene-Non-Latex-Condoms/dp/B088P8SJHN",
+      "gpt_azn": null,
+      "resolver": "brave",
+      "valid": true
+    }
+  ],
+  "resolvedLinks": {
+    "https://www.wired.com/gallery/best-condoms/": {
+      "title": "The Best Condoms for Safer, More Enjoyable Sex",
+      "description": "From graphene to non-latex, give these extraordinary condoms a try as you practice safe sex.",
+      "image": "https://media.wired.com/photos/66ff1f757f862d2f2b326825/191:100/w_1280,c_limit/Lelo%20Hex%20Condom%20Abstract%20Background%2010204%20SOURCE%20Lelo.jpg",
+      "url": "https://www.wired.com/gallery/best-condoms/"
+    }
+  }
+}

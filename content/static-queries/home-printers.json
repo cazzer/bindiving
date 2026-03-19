@@ -1,0 +1,96 @@
+{
+  "slug": "home-printers",
+  "query": "best home printers",
+  "title": "Best home printers | Bin Diving",
+  "description": "AI-dug recommendations for best home printers. Compare options and find one that fits.",
+  "dugAt": "2026-03-18T16:26:38.160Z",
+  "recommendations": [
+    {
+      "product_name": "HP OfficeJet Pro 9125e All-in-One Printer",
+      "pros": [
+        "Fast print speeds",
+        "Good overall value for home office",
+        "Feature-rich (scan/copy/fax)"
+      ],
+      "cons": [
+        "Ink subscription may be required for full features",
+        "Cartridge costs can be higher than tank printers"
+      ],
+      "price": null,
+      "amazon_id": "B0F77KZ5J5",
+      "sources": [
+        "https://www.forbes.com/sites/forbes-personal-shopper/article/best-home-printer/",
+        "https://archive.vn/2026.01.13-021208/https%3A/www.nytimes.com/wirecutter/reviews/best-home-printers/"
+      ],
+      "amazon_url": "https://www.amazon.com/HP-OfficeJet-Printer-Printer-Business/dp/B0F77KZ5J5",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/vs9ROdaELoXznYIbjHwnWsclKpucGJCUSvLR8jCXf90/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly93ZWJv/YmplY3RzMi5jZHcu/Y29tL2lzL2ltYWdl/L0NEVy83NzYzNTI0/PyRwcm9kdWN0LWRl/dGFpbCQ",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "Epson EcoTank ET-2800 Wireless All-in-One Supertank Printer",
+      "pros": [
+        "Very low running costs (bottled ink)",
+        "Good for moderate home printing volumes"
+      ],
+      "cons": [
+        "Higher upfront cost than cartridge models",
+        "Larger footprint than compact printers"
+      ],
+      "price": null,
+      "amazon_id": "B096N8DN2H",
+      "sources": [
+        "https://www.techradar.com/news/best-home-printer",
+        "https://archive.vn/2026.01.13-021208/https%3A/www.nytimes.com/wirecutter/reviews/best-home-printers/"
+      ],
+      "amazon_url": "https://www.amazon.com/Epson-EcoTank-Wireless-Cartridge-Free-Supertank/dp/B096N8DN2H",
+      "gpt_azn": "B096N8CNBZ",
+      "image_url": "https://imgs.search.brave.com/Cr7O_v0ZnxX2cbkEUq4EnJ6aMUGVtuxE5lcgrXn2pnM/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9pLmVi/YXlpbWcuY29tL2lt/YWdlcy9nL1hyQUFB/ZVN3NFpOcG5uejcv/cy1sMjI1LmpwZw",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "Canon MegaTank PIXMA G3290 All-in-One Supertank Printer",
+      "pros": [
+        "Strong photo and document quality",
+        "Low running costs with refillable tanks"
+      ],
+      "cons": [
+        "Connectivity quirks reported by some users",
+        "Not as fast as some office-oriented models"
+      ],
+      "price": null,
+      "amazon_id": "B0DF4GTWWK",
+      "sources": [
+        "https://www.tomsguide.com/computing/printers/canon-megatank-pixma-g3290-review",
+        "https://www.usa.canon.com/shop/p/megatank-pixma-g3290"
+      ],
+      "amazon_url": "https://www.amazon.com/Canon-Megatank-Wireless-Supertank-Touchscreen/dp/B0DF4GTWWK",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/0qAwI0mh40hZJIPmtyjXQxcYHwiRAwznXkIsMMUy18I/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9pbWFn/ZXMuZmxleHNob3Bw/ZXIueHl6LzgwMHg4/MDAvbWFya2V0cGxh/Y2UtcHJvZHVjdGlv/bi1sYi9mYWRjZTk0/Zi0zN2E2LTVhMGYt/YWY5NS00MWZmOTMy/MjY2ZWQuanBn",
+      "resolver": "brave",
+      "valid": true
+    }
+  ],
+  "resolvedLinks": {
+    "https://www.techradar.com/news/best-home-printer": {
+      "title": "I've tested over 100 of the best home printers and these are my top picks for 2025",
+      "description": "My recommended picks for the best printers for home use and the home office",
+      "image": "https://cdn.mos.cms.futurecdn.net/XKHxDR9ZxL2JmF4WAPS9uT-2560-80.jpg",
+      "url": "https://www.techradar.com/news/best-home-printer"
+    },
+    "https://www.tomsguide.com/computing/printers/canon-megatank-pixma-g3290-review": {
+      "title": "Canon MegaTank Pixma G3290 review",
+      "description": "A great entry-level ink tank printer for people on a budget",
+      "image": "https://cdn.mos.cms.futurecdn.net/AkTAkbukYR9G8EhX6bjxx8-2000-80.jpg",
+      "url": "https://www.tomsguide.com/computing/printers/canon-megatank-pixma-g3290-review"
+    },
+    "https://www.usa.canon.com/shop/p/megatank-pixma-g3290": {
+      "title": "MegaTank PIXMA G3290",
+      "description": "Wireless Print/Copy/Scan\nUp to 2 years of ink included in the boxFootnote21Print up to 6,000 black &amp; white / 7,700 color pages using a single set of inks!Footnote6\nSave up to $1,000 on ink\n2.7” LCD Color Touchscreen\nAuto 2-sided printing",
+      "image": "https://s7d1.scene7.com/is/image/canon/6706C022_G3290_primary?fmt=webp-alpha&wid=380",
+      "url": "https://www.usa.canon.com/shop/p/megatank-pixma-g3290"
+    }
+  }
+}

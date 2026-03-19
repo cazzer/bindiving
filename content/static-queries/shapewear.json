@@ -1,0 +1,129 @@
+{
+  "slug": "shapewear",
+  "query": "best shapewear",
+  "title": "Best shapewear | Bin Diving",
+  "description": "AI-dug recommendations for best shapewear. Compare options and find one that fits.",
+  "dugAt": "2026-03-18T23:06:06.049Z",
+  "recommendations": [
+    {
+      "product_name": "SKIMS Seamless Sculpt Bodysuit",
+      "pros": [
+        "Wide size and color range",
+        "Soft, four-way stretch material",
+        "Effective tummy smoothing without rolling"
+      ],
+      "cons": [
+        "Can feel snug — many recommend sizing up",
+        "Some reports of durability issues"
+      ],
+      "price": "$38.99",
+      "amazon_id": "B0B1HR89H4",
+      "sources": [
+        "https://www.forbes.com/sites/forbes-personal-shopper/article/the-best-tummy-control-shapewear/",
+        "https://skims.com/collections/seamless-sculpt",
+        "https://www.goodhousekeeping.com/clothing/best-shapewear/g2815/best-shapewear-for-women/"
+      ],
+      "image_url": "789_QL65_.jpg",
+      "images": [
+        "789_QL65_.jpg"
+      ],
+      "amazon_url": "https://www.amazon.com/SHAPERX-Bodysuit-Shapewear-Sculpting-SZ5215-Black-S/dp/B0B1HR89H4/ref=mp_s_a_1_1?dib=eyJ2IjoiMSJ9.tX5YCxG3JxupjEi5HA44II2iUA6F9iV408E7cRzfmDvPHuL_d1WV2ANEppHcv4orNWATfUgDLKbvy8qdYJSRE09SDH4nwo8rpgGETKvRxw-T5NEbPe7AXbgjfysjT1XhSfZqfCSlwJc_zoNg6D-hnsP6_T0KX0EW6fyc7i3TtYOTVQbpLm3_HmN5rDEKMF_aIgn_atNEQnJ0xLg4wOruyy3Lko6t5gGmNxLG7QXcQIYFhXg_DaSj3kp2oj4xX0NI3WYHbjPTaJOk-0puRxht1KNX0LeWMy0LZYqh6Om2Cxc.6LDekQvKgHgZBq0JUmbAmBcAAwsN1VqgkEjedRpcE24&dib_tag=se&keywords=SKIMS+Seamless+Sculpt+Bodysuit&qid=1773875161&sr=8-1",
+      "brand": "SHAPERX",
+      "blackFriday": false,
+      "gpt_azn": null,
+      "resolver": "cheerio",
+      "valid": true
+    },
+    {
+      "product_name": "SPANX SPANXshape Suit Your Fancy Plunge Low-Back Mid-Thigh Bodysuit",
+      "pros": [
+        "Reliable smoothing and mid-thigh coverage",
+        "Low-back/plunge options for special occasions",
+        "Multiple retailer availability (Nordstrom, Spanx)"
+      ],
+      "cons": [
+        "Higher price point",
+        "Some users report fit/length issues on certain body types"
+      ],
+      "price": "$148",
+      "amazon_id": "B07B9JDZ9X",
+      "sources": [
+        "https://spanx.com/products/spanxshape-suit-your-fancy-plunge-low-back-mid-thigh-bodysuit",
+        "https://www.womanandhome.com/fashion/best-shapewear/",
+        "https://www.glamour.com/story/best-shapewear-bodysuit"
+      ],
+      "amazon_url": "https://www.amazon.com/SPANX-Womens-Low-Back-Mid-Thigh-Bodysuit/dp/B07B9JDZ9X",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/iEGUClrMnM_yv_uWwHOrCFuBdQoQddRov5OqmbIoIII/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly94Y2Ru/Lm5leHQuY28udWsv/Y29tbW9uL2l0ZW1z/L2RlZmF1bHQvZGVm/YXVsdC9pdGVtaW1h/Z2VzLzNfNFJhdGlv/L3Byb2R1Y3QvbGdl/LzgxMDcwM3MuanBn/P2ltPVJlc2l6ZSx3/aWR0aD03NTA",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "Honeylove SuperPower Short",
+      "pros": [
+        "High-compression targeted panels",
+        "Stays in place for many users",
+        "Recommended for strong tummy/thigh shaping"
+      ],
+      "cons": [
+        "Higher compression can feel restrictive for some",
+        "Gusset/use requires practice for bathroom breaks"
+      ],
+      "price": "$89",
+      "amazon_id": "B0F74C97BH",
+      "sources": [
+        "https://www.honeylove.com/products/superpower-short-us",
+        "https://www.glamour.com/story/best-amazon-shapewear",
+        "https://www.forbes.com/sites/forbes-personal-shopper/article/the-best-tummy-control-shapewear/"
+      ],
+      "amazon_url": "https://www.amazon.com/HONEYLOVE-Shapewear-Women-SuperPower-Compression/dp/B0F74C97BH",
+      "gpt_azn": null,
+      "resolver": "brave",
+      "valid": true
+    }
+  ],
+  "resolvedLinks": {
+    "https://skims.com/collections/seamless-sculpt": {
+      "title": "Seamless Sculpt | SKIMS",
+      "description": "Explore Skims' Seamless Sculpt collection for flawless contouring. Discover smooth, sculpting essentials that enhance your shape with seamless elegance.",
+      "image": "",
+      "url": "https://skims.com/collections/seamless-sculpt"
+    },
+    "https://www.goodhousekeeping.com/clothing/best-shapewear/g2815/best-shapewear-for-women/": {
+      "title": "After Testing 27 Different Styles, We Found the Most Comfortable Shapewear",
+      "description": "Including popular brands like Skims and Spanx.",
+      "image": "https://hips.hearstapps.com/hmg-prod/images/best-shapewear-679a68ea62401.png?crop=1.00xw:1.00xh;0,0&resize=1200:*",
+      "url": "https://www.goodhousekeeping.com/clothing/g2815/best-shapewear-for-women/"
+    },
+    "https://spanx.com/products/spanxshape-suit-your-fancy-plunge-low-back-mid-thigh-bodysuit": {
+      "title": "Plunge Bodysuit – Low-Back Shapewear | SPANX",
+      "description": "Plunge low-back bodysuit with all-over shaping and no-slip fit—perfect under gowns, formal dresses, and special occasion outfits.",
+      "image": "",
+      "url": "https://spanx.com/products/spanxshape-suit-your-fancy-plunge-low-back-mid-thigh-bodysuit"
+    },
+    "https://www.womanandhome.com/fashion/best-shapewear/": {
+      "title": "The best shapewear to smooth your silhouette and boost your confidence this party season",
+      "description": "Tried and tested by our fashion team, these are the best shapewear pieces for a streamlined look",
+      "image": "https://cdn.mos.cms.futurecdn.net/ij8vxzSUqXXB6z4GAhyoyT-1920-80.jpg",
+      "url": "https://www.womanandhome.com/fashion/best-shapewear/"
+    },
+    "https://www.glamour.com/story/best-shapewear-bodysuit": {
+      "title": "We Tried 20+ Shapewear Bodysuits—Here’s What We Loved",
+      "description": "If you only own one piece of shapewear, make it this bodysuit.",
+      "image": "https://media.glamour.com/photos/6836134de41eea0733ccf5f8/16:9/w_1280,c_limit/5.13_GL_Best-Shapewear-Bodysuits---May-2025%20(1).jpg",
+      "url": "https://www.glamour.com/story/best-shapewear-bodysuit"
+    },
+    "https://www.honeylove.com/products/superpower-short-us": {
+      "title": "SuperPower Short | Honeylove",
+      "description": "These shapewear shorts feature a patented design that offers targeted compression right where you want it. Doubleknit panels sculpt without squeezing. ...",
+      "image": "",
+      "url": "https://www.honeylove.com/products/superpower-short"
+    },
+    "https://www.glamour.com/story/best-amazon-shapewear": {
+      "title": "I Found Amazon Shapewear Pieces for Your Fall Holiday Parties—and They’re on Sale",
+      "description": "From bodysuits to smoothing undies.",
+      "image": "https://media.glamour.com/photos/6669da08df00f3e330d456b2/16:9/w_1280,c_limit/IMG_7254.jpg",
+      "url": "https://www.glamour.com/story/best-shapewear-on-amazon"
+    }
+  }
+}

@@ -1,0 +1,107 @@
+{
+  "slug": "coffee-grinders",
+  "query": "best coffee grinders",
+  "title": "Best coffee grinders | Bin Diving",
+  "description": "AI-dug recommendations for best coffee grinders. Compare options and find one that fits.",
+  "dugAt": "2026-03-18T17:12:49.785Z",
+  "recommendations": [
+    {
+      "product_name": "Baratza Encore (Encore ESP / Encore variants)",
+      "pros": [
+        "Consistent burr grinding",
+        "Good entry-level value"
+      ],
+      "cons": [
+        "Not the quietest",
+        "Limited for very fine espresso"
+      ],
+      "price": null,
+      "amazon_id": "B0BW272XCV",
+      "sources": [
+        "https://coffeegeek.com/guides/feature-guides/best-budget-coffee-grinders-for-2025/",
+        "https://completehomebarista.com/guides/best-coffee-grinder-2026/"
+      ],
+      "amazon_url": "https://www.amazon.com/Baratza-Encore-Electric-Coffee-Grinder/dp/B0BW272XCV",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/duqLq3v9NcB1arGhIknAFNBBr8iYbOdjlQtF36a10kE/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9lbGVt/ZW50YWxjb2ZmZWUu/Y29tL3dwLWNvbnRl/bnQvdXBsb2Fkcy8y/MDI0LzAxL0JhcmF0/emEtRW5jb3JlLUVT/UC5wbmc",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "Breville Smart Grinder Pro",
+      "pros": [
+        "Wide grind settings for multiple brew methods",
+        "User-friendly dosing/timer controls"
+      ],
+      "cons": [
+        "Some users report durability issues",
+        "Can be pricier than basic models"
+      ],
+      "price": null,
+      "amazon_id": "B00OXGXW8O",
+      "sources": [
+        "https://www.forbes.com/sites/forbes-personal-shopper/article/best-coffee-grinder/",
+        "https://bigcupofcoffee.com/breville-smart-grinder-pro/"
+      ],
+      "amazon_url": "https://www.amazon.com/Breville-BCG820BSSXL-Grinder-Brushed-Stainless/dp/B00OXGXW8O",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/vHih2aVqaXdUdRZ5-mXBbowrwDZrLrkP3UsVUAba7fM/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly93d3cu/c2VyaW91c2VhdHMu/Y29tL3RobWIvVDhp/cVRhUHNhUDYtNHZt/b2xQWmJHN2NsWjhj/PS9maXQtaW4vMTUw/MHgxMDAwL2ZpbHRl/cnM6bm9fdXBzY2Fs/ZSgpOm1heF9ieXRl/cygxNTAwMDApOnN0/cmlwX2ljYygpOmZv/cm1hdCh3ZWJwKS9i/cmV2aWxsZS1zbWFy/dC1ncmluZGVyLXBy/by1jb2ZmZWUtYmVh/bi1ncmluZGVyLWVj/YWIxNzA1YWQwMDQ3/YTFiMmQ4ZGI5NTYy/ZDc3NDE5LmpwZw",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "1Zpresso JX / JX-Pro (manual)",
+      "pros": [
+        "Excellent grind consistency for a manual",
+        "Portable and durable build"
+      ],
+      "cons": [
+        "Requires manual effort",
+        "Smaller capacity than electric grinders"
+      ],
+      "price": null,
+      "amazon_id": "B0BJZZ51GY",
+      "sources": [
+        "https://brewcoffeehome.com/1zpresso-q2-review/",
+        "https://www.reddit.com/r/espresso/comments/12cpt6g/is_1zpresso_jmax_the_best_bang_for_buck_grinder/"
+      ],
+      "amazon_url": "https://www.amazon.com/1Zpresso-Capacity35g-Stainless-Adjustable-Efficiency/dp/B0BJZZ51GY",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/5zA_tqUOVqMsQIXwcP9ewEdXYpGGP5V0tmoHbRmg4QY/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9tLm1l/ZGlhLWFtYXpvbi5j/b20vaW1hZ2VzL0kv/MzFhNFdYOURPb0wu/anBn",
+      "resolver": "brave",
+      "valid": true
+    }
+  ],
+  "resolvedLinks": {
+    "https://coffeegeek.com/guides/feature-guides/best-budget-coffee-grinders-for-2025/": {
+      "title": "Best Budget Coffee Grinders for 2025",
+      "description": "Looking for a coffee grinder on a budget in 2025? Check out our fully tested and reviewed top coffee grinders offering great value.",
+      "image": "https://coffeegeek.com/wp-content/uploads/2025/02/BestGrinder2025-1.jpg",
+      "url": "https://coffeegeek.com/guides/feature-guides/best-budget-coffee-grinders-for-2025/"
+    },
+    "https://completehomebarista.com/guides/best-coffee-grinder-2026/": {
+      "title": "Coffee Grinder: How-To Selection Guide for 2026",
+      "description": "Coffee grinders use burr or blade mechanisms to reduce beans to uniform particle size. Home baristas select grinders by brewing method, daily volume, and consistency requirements for optimal extraction.",
+      "image": "https://completehomebarista.com/images/og-image.jpg",
+      "url": "https://completehomebarista.com/guides/best-coffee-grinder-2026"
+    },
+    "https://bigcupofcoffee.com/breville-smart-grinder-pro/": {
+      "title": "Online Casino Zonder CRUKS: Gokken zonder CRUKS - Casino20",
+      "description": "Casino20: Beste casino zonder CRUKS met snelle uitbetalingen en directe toegang zonder verificatie. Casino20 biedt online gokken zonder limieten.",
+      "image": "https://tada.city/en/wp-content/uploads/2025/07/android-chrome-512x512-1.png",
+      "url": "https://tada.city/en/"
+    },
+    "https://brewcoffeehome.com/1zpresso-q2-review/": {
+      "title": "1Zpresso Q2 Manual Coffee Grinder - Our Hands-on Review",
+      "description": "1Zpresso Q2 is a compact coffee grinder that provides excellent grind consistency and build quality. We have tested it, here is our hands-on review.",
+      "image": "https://www.brewcoffeehome.com/wp-content/uploads/2021/10/1Zpresso-Q2-coffee-grinder-review-featured-image2.jpg",
+      "url": "https://www.brewcoffeehome.com/1zpresso-q2-review/"
+    },
+    "https://www.reddit.com/r/espresso/comments/12cpt6g/is_1zpresso_jmax_the_best_bang_for_buck_grinder/": {
+      "title": "Reddit - The heart of the internet",
+      "description": "",
+      "image": "",
+      "url": "https://www.reddit.com/r/espresso/comments/12cpt6g/is_1zpresso_jmax_the_best_bang_for_buck_grinder/"
+    }
+  }
+}

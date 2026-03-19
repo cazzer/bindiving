@@ -1,0 +1,116 @@
+{
+  "slug": "colored-pencils",
+  "query": "best colored pencils",
+  "title": "Best colored pencils | Bin Diving",
+  "description": "AI-dug recommendations for best colored pencils. Compare options and find one that fits.",
+  "dugAt": "2026-03-18T18:47:58.516Z",
+  "recommendations": [
+    {
+      "product_name": "Faber-Castell Polychromos Artists' Colored Pencils (set options)",
+      "pros": [
+        "Excellent lightfastness and color permanence",
+        "Hard, oil-based cores hold a sharp point",
+        "Smooth layering and reliable point retention"
+      ],
+      "cons": [
+        "Higher price than student-grade pencils",
+        "Slightly firmer core less buttery for some blending techniques"
+      ],
+      "price": null,
+      "amazon_id": "B000C6RHBW",
+      "sources": [
+        "https://fabercastell.com/products/polychromos-artists-color-pencils-gift-box-of-36-110038",
+        "https://www.artchive.com/buying-guides/best-colored-pencils-for-beginners/"
+      ],
+      "amazon_url": "https://www.amazon.com/Faber-Castel-110060-Polychromos-Colored-Pencil/dp/B000C6RHBW",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/PnJaT2kDr-cQJjQPOteIhhnnPVmmlIF7AKxLeezyEZ0/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9pLmVi/YXlpbWcuY29tL2lt/YWdlcy9nL2drTUFB/T1N3UGd4Vk9qTjkv/cy1sNTAwLmpwZw",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "Prismacolor Premier Colored Pencils (Soft Core)",
+      "pros": [
+        "Very creamy, highly blendable wax core",
+        "Widely recommended for rich color laydown",
+        "Available in large color ranges and set sizes"
+      ],
+      "cons": [
+        "Softer cores can break if sharpened poorly",
+        "Wax bloom and lower lightfastness on some colors"
+      ],
+      "price": null,
+      "amazon_id": "B005O2ZU68",
+      "sources": [
+        "https://theartisticgnome.com/prismacolor-premier-coloured-pencils-review/",
+        "https://www.creativebloq.com/buying-guides/best-coloured-pencils"
+      ],
+      "amazon_url": "https://www.amazon.com/Prismacolor-Premier-Colored-Pencils-Soft/dp/B005O2ZU68",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/JT92Kv7DnV_nFN9hCzK2pntxjYosQgC11uy0YUwV1wg/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9zdGF0/aWMucGxhdGZvcm0u/bWljaGFlbHMuY29t/LzJjLXByZC8yMzA2/MjEwODg5MDU1MTg4/MjQwLmpwZWc_Zml0/PWluc2lkZXwxMjgw/OjEyODA",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "Caran d'Ache Luminance 6901 Colored Pencils (Professional)",
+      "pros": [
+        "Museum-grade lightfastness ratings on many colors",
+        "Smooth, dense pigment with excellent permanence",
+        "Premium build and consistent quality"
+      ],
+      "cons": [
+        "Most expensive option per pencil",
+        "Some artists find them heavy in laydown for delicate glazing"
+      ],
+      "price": null,
+      "amazon_id": "B002E3DG9S",
+      "sources": [
+        "https://www.carandache.com/us/en/luminance-6901-s-1090.htm",
+        "https://shopsavvy.com/reviews-tldr/caran-dache-luminance-box-100-assorted"
+      ],
+      "amazon_url": "https://www.amazon.com/Caran-dAche-Luminance-Pencil-6901-030/dp/B002E3DG9S",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/QMcWBXoVks-DeWX0RBwVOOUPTN1Lb0GAvxrmPmuY1HU/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly93d3cu/Y2FyYW5kYWNoZS5j/b20vcHJvZHVjdHNf/aW1hZ2VzL3Byb2Rf/MTExNTIvZV9ib2l0/ZS0yMC1jb3VsZXVy/cy1sdW1pbmFuY2Ut/NjkwMS1hc3NvcnRp/bWVudC1wb3J0cmFp/dC1jYXJhbi1kLWFj/aGUtZGV0YWlsMC0w/LnBuZw",
+      "resolver": "brave",
+      "valid": true
+    }
+  ],
+  "resolvedLinks": {
+    "https://fabercastell.com/products/polychromos-artists-color-pencils-gift-box-of-36-110038": {
+      "title": "Polychromos Artists' Color Pencils, Gift Box of 36 - #FC110038",
+      "description": "Polychromos Artists' Color Pencils are available in 120 colors that are part of a unique color matching system - encompassing all Faber-Castell Art &amp; Graphic products. They contain the highest qua",
+      "image": "http://fabercastell.com/cdn/shop/files/hhoylcugehdnq5n6hiak.jpg?v=1765913803",
+      "url": "https://fabercastell.com/products/polychromos-artists-color-pencils-gift-box-of-36-110038"
+    },
+    "https://www.artchive.com/buying-guides/best-colored-pencils-for-beginners/": {
+      "title": "We Tested and Reviewed the Best Colored Pencils for Artists (2025 Update) – Artchive",
+      "description": "",
+      "image": "",
+      "url": "https://www.artchive.com/buying-guides/best-colored-pencils-for-beginners/"
+    },
+    "https://theartisticgnome.com/prismacolor-premier-coloured-pencils-review/": {
+      "title": "Prismacolor Premier Pencils Review - The Artistic Gnome Blog",
+      "description": "Prismacolor Premier Coloured Pencils Review with drawings of Tom Ellis, Gianna Jun, Princess Diana and more.",
+      "image": "https://theartisticgnome.com/wp-content/uploads/2022/03/img_9157-e1647460046493.jpg",
+      "url": "https://theartisticgnome.com/prismacolor-premier-coloured-pencils-review/"
+    },
+    "https://www.creativebloq.com/buying-guides/best-coloured-pencils": {
+      "title": "The best coloured pencils",
+      "description": "We reveal the best coloured pencils for beginners and pros, tried and tested by our expert team.",
+      "image": "https://cdn.mos.cms.futurecdn.net/pssRjVAjJRJW8yoBbxDeQb-2560-80.jpg",
+      "url": "https://www.creativebloq.com/buying-guides/best-coloured-pencils"
+    },
+    "https://www.carandache.com/us/en/luminance-6901-s-1090.htm": {
+      "title": "Luminance 6901® Permanent Colored Pencils | Caran d'Ache | Buy online",
+      "description": "Luminance 6901® colour pencils combine exceptional lightfastness with the smoothness of a permanent lead. \nHigh pigment concentration for intense, bright colours and a maximum covering power.\nIdeal for creatives and professional artists.",
+      "image": "https://www.carandache.com/us/en/ximg/opengraph_logo.jpg",
+      "url": "https://www.carandache.com/us/en/luminance-6901-s-1090.htm"
+    },
+    "https://shopsavvy.com/reviews-tldr/caran-dache-luminance-box-100-assorted": {
+      "title": "Caran D'Ache Luminance Box - 100 Assorted - ShopSavvy TLDR Review",
+      "description": "Pros:\n\n- Exceptional color quality and smooth application for professional-looking artwork.\n- High pigmentation ensures vibrant and long-lasting results.\n- Sturdy construction withstands heavy pressur...",
+      "image": "https://x.shopsavvy.com/https://x.shopsavvy.com/https://m.media-amazon.com/images/I/41he2DJOQJL._SL500_.jpg",
+      "url": "https://shopsavvy.com/reviews-tldr/caran-dache-luminance-box-100-assorted"
+    }
+  }
+}

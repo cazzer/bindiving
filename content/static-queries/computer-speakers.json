@@ -1,0 +1,119 @@
+{
+  "slug": "computer-speakers",
+  "query": "best computer speakers",
+  "title": "Best computer speakers | Bin Diving",
+  "description": "AI-dug recommendations for best computer speakers. Compare options and find one that fits.",
+  "dugAt": "2026-03-18T21:39:34.356Z",
+  "recommendations": [
+    {
+      "product_name": "Audioengine A2+ (A2+ Next Gen)",
+      "pros": [
+        "Compact desktop size",
+        "USB-C DAC option",
+        "Clear, detailed sound"
+      ],
+      "cons": [
+        "Higher price than budget options",
+        "Limited deep bass without subwoofer"
+      ],
+      "price": "$279",
+      "amazon_id": "B07MYV2527",
+      "sources": [
+        "https://www.forbes.com/sites/forbes-personal-shopper/article/best-computer-speakers/",
+        "https://www.techradar.com/news/best-computer-speakers",
+        "https://audioengine.com/shop/wirelessspeakers/a2-wireless-computer-speakers/"
+      ],
+      "amazon_url": "https://www.amazon.com/wireless-computer-speakers/dp/B07MYV2527",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/qjAxnI_cLcaKbRsYjIP2lhID4Hr7D5TrHW9Zqkv8HJM/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly93d3cu/Z2VhcnBhdHJvbC5j/b20vd3AtY29udGVu/dC91cGxvYWRzL3Np/dGVzLzIvMjAyNS8w/Mi9BdWRpb2VuZ2lu/ZS1BMi1QbHVzLU5l/eHQtR2VuLTQtanBn/LndlYnA_dz0xMzAw",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "Creative Pebble Plus (2.1)",
+      "pros": [
+        "Excellent budget value",
+        "Includes down-firing subwoofer",
+        "Easy USB/aux setup"
+      ],
+      "cons": [
+        "Limited maximum volume for large rooms",
+        "Not audiophile-grade detail"
+      ],
+      "price": null,
+      "amazon_id": "B07NWLWM9B",
+      "sources": [
+        "https://www.pcworld.com/article/632478/the-best-budget-computer-speakers.html",
+        "https://us.creative.com/pebblefamily/",
+        "https://bestviewsreviews.com/computer-speakers/creative-pebble-plus-21-usb-powered-desktop-speakers-with-powerful-down-firing-subwoofer-and-far-field-drivers-up-to-8w-rms-total-power-for-computer-pcs-and-laptops-black/"
+      ],
+      "amazon_url": "https://www.amazon.com/Creative-USB-Powered-Down-Firing-Subwoofer-Far-Field/dp/B07NWLWM9B",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/lC0qA1Q_KqM2Y79U4RvDBRHCUl8Ue6_VGeg7Pp6a0K8/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9tdXNp/Y3Bob3RvbGlmZS5j/b20vd3AtY29udGVu/dC91cGxvYWRzLzIw/MTkvMDUvQ3JlYXRp/dmVfUGViYmxlX1Bs/dXNfMi5qcGc",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "Edifier R1280DB",
+      "pros": [
+        "Great value bookshelf sound",
+        "Multiple inputs (optical, Bluetooth, RCA)",
+        "Warm, musical tuning for desktop use"
+      ],
+      "cons": [
+        "Can sound colored in some rooms",
+        "Not a high-end studio monitor"
+      ],
+      "price": null,
+      "amazon_id": "B0719C132V",
+      "sources": [
+        "https://www.laptopmag.com/best-picks/best-computer-speakers-under-100",
+        "https://www.tomsguide.com/audio/speakers/edifier-s880db-mkii-review",
+        "https://bookshelfspeakershub.com/edifier-r1280db-optical-input-bluetooth-speakers-review/"
+      ],
+      "amazon_url": "https://www.amazon.com/Edifier-R1280DB-Bluetooth-Bookshelf-Speakers/dp/B0719C132V",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/z_tzeNRrLrgd_EABW7Rkg-HDX6a9TTPpQTqLgGYyCUk/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9pNS53/YWxtYXJ0aW1hZ2Vz/LmNvbS9zZW8vRWRp/Zmllci00MDAzMDU5/LVIxMjgwREItNDIt/V2F0dC1STVMtQW1w/bGlmaWVkLUJsdWV0/b290aC1Cb29rc2hl/bGYtU3BlYWtlci1T/eXN0ZW0tQmxhY2st/RmluaXNoXzRhM2M0/OTc1LTE3NWItNDc3/Ny04NTFmLWUwMmM0/NTYxNmYzOS4yZDUx/NmUzMTU4NTEyYTg4/ZDFjODg2YzgyY2Uz/M2I0Ny5qcGVnP29k/bkhlaWdodD01ODAm/b2RuV2lkdGg9NTgw/Jm9kbkJnPUZGRkZG/Rg",
+      "resolver": "brave",
+      "valid": true
+    }
+  ],
+  "resolvedLinks": {
+    "https://www.techradar.com/news/best-computer-speakers": {
+      "title": "The best computer speakers 2025: top tested and reviewed speakers for your PC",
+      "description": "Bring your setup to life with the best computer speakers on the market",
+      "image": "https://cdn.mos.cms.futurecdn.net/jM9JCM8RBSykEorEqDqpzW-2000-80.jpg",
+      "url": "https://www.techradar.com/news/best-computer-speakers"
+    },
+    "https://us.creative.com/pebblefamily/": {
+      "title": "Creative Pebble Series - Modern Computer Speakers for PC and Mac",
+      "description": "The ideal USB speakers for any desktops, our Creative Pebble Series fits right into any home, office, or even gaming setups. With 4.6 stars on Amazon US and over 50k ratings, these are our best-selling PC speakers with numerous awards and recommended buy ratings.",
+      "image": "https://d287ku8w5owj51.cloudfront.net/landingpages/pebblefamily/revamp/PEBBLEseries_mobileMHL_2024_EN.jpg?width=200",
+      "url": "https://us.creative.com/pebblefamily/"
+    },
+    "https://bestviewsreviews.com/computer-speakers/creative-pebble-plus-21-usb-powered-desktop-speakers-with-powerful-down-firing-subwoofer-and-far-field-drivers-up-to-8w-rms-total-power-for-computer-pcs-and-laptops-black/": {
+      "title": "Reviews for Creative Pebble Plus 2.1 USB-Powered Desktop Speakers with Powerful Down-Firing Subwoofer and Far-Field Drivers, Up to 8W RMS Total Power for Computer PCs and Laptops (Black) ; Brand: Creative: Aug 02, 2024 - Bestviewsreviews",
+      "description": "Creative Pebble Plus 2.1 USB-Powered Desktop Speakers with Powerful Down-Firing Subwoofer and Far-Field Drivers, Up to 8W RMS Total Power for Computer PCs and Laptops (Black) ; Brand: Creative. Best Computer Speakers based on Design, Compatibility, Durability, Sound Quality;",
+      "image": "https://m.media-amazon.com/images/I/31RJPso1KJL._SL500_.jpg",
+      "url": "https://bestviewsreviews.com/computer-speakers/creative-pebble-plus-21-usb-powered-desktop-speakers-with-powerful-down-firing-subwoofer-and-far-field-drivers-up-to-8w-rms-total-power-for-computer-pcs-and-laptops-black/"
+    },
+    "https://www.laptopmag.com/best-picks/best-computer-speakers-under-100": {
+      "title": "Best computer speakers in 2025: Budget and premium picks",
+      "description": "Here are our picks for the best computer speakers, based on hours of testing and research.",
+      "image": "https://cdn.mos.cms.futurecdn.net/k4oiZBdQH3D4tpm6iZUXoP-673-80.jpg",
+      "url": "https://www.laptopmag.com/articles/best-computer-speakers-1"
+    },
+    "https://www.tomsguide.com/audio/speakers/edifier-s880db-mkii-review": {
+      "title": "Edifier S880DB MKII review: Edifier is a luxury brand now",
+      "description": "Just as the artists intended it to sound",
+      "image": "https://cdn.mos.cms.futurecdn.net/3RvHuFNebHC3faSdijk6Pa-2560-80.jpg",
+      "url": "https://www.tomsguide.com/audio/speakers/edifier-s880db-mkii-review"
+    },
+    "https://bookshelfspeakershub.com/edifier-r1280db-optical-input-bluetooth-speakers-review/": {
+      "title": "Edifier R1280DB Optical Input Bluetooth Speakers review – bookshelfspeakershub.com",
+      "description": "",
+      "image": "",
+      "url": "https://bookshelfspeakershub.com/edifier-r1280db-optical-input-bluetooth-speakers-review/"
+    }
+  }
+}

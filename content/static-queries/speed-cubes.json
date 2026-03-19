@@ -1,0 +1,107 @@
+{
+  "slug": "speed-cubes",
+  "query": "best speed cubes",
+  "title": "Best speed cubes | Bin Diving",
+  "description": "AI-dug recommendations for best speed cubes. Compare options and find one that fits.",
+  "dugAt": "2026-03-18T19:01:38.947Z",
+  "recommendations": [
+    {
+      "product_name": "GAN 12 Maglev 3x3",
+      "pros": [
+        "Very fast maglev system",
+        "Lightweight, pro-level feel"
+      ],
+      "cons": [
+        "Some users report occasional lockups",
+        "Higher price point"
+      ],
+      "price": null,
+      "amazon_id": "B09JG69F6J",
+      "sources": [
+        "https://www.alibaba.com/product-insights/how-to-choose-the-best-rubik-s-cube-3x3-gan-a-complete-buying-guide.html",
+        "https://www.reddit.com/r/Cubers/comments/1ace0s8"
+      ],
+      "amazon_url": "https://www.amazon.com/GAN-Stickerless-Flagship-Primary-Internal/dp/B09JG69F6J",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/PJE87mNga1AjSFG2ersgPyW9oQr1Nq74AWFC2izXSdg/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9zcGVl/ZGN1YmVzaG9wLmNv/bS9jZG4vc2hvcC9m/aWxlcy9nYW4tMTYt/M3gzLW1heC1tYWdu/ZXRpYy1tYWdsZXYt/Y29yZS1tYWduZXRz/LXV2LWNvYXRlZC0x/Ni5qcGc_dj0xNzcx/NjE5NTI5JndpZHRo/PTEwMjQ",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "MoYu WeiLong WRM V11 (Weilong V11)",
+      "pros": [
+        "Maglev/ball-core design for smooth, stable turning",
+        "Favored by many competitive solvers"
+      ],
+      "cons": [
+        "UV coating durability reported by some users",
+        "Premium price for flagship models"
+      ],
+      "price": null,
+      "amazon_id": "B0FCD9848Q",
+      "sources": [
+        "https://themcubes.com/shop/mcubes-weilong-v11-ai-3x3-8-magnet-ball-core-maglev-uv-18th-anniversary/",
+        "https://hntcubing.com/review-rubik-moyu-weilong-wrm-v11-danh-gia-va-cam-nhan-ca-nhan-hnt-cubing/"
+      ],
+      "amazon_url": "https://www.amazon.com/Cubershop-Magnetic-Stickerless-Adjustable-Friendly/dp/B0FCD9848Q",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/DINWW2EJNagVWoaVJuZqeF5UCQN4vIwePiVAHjYxvCQ/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9jdWJv/c3MuY29tL3dwLWNv/bnRlbnQvdXBsb2Fk/cy8yMDI1LzA2L21v/eXUtd2VpbG9uZy12/MTEtM3gzLTEuanBn",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "QiYi Valk 3 Elite M",
+      "pros": [
+        "Trusted, stable magnetic design",
+        "Great balance of speed and control"
+      ],
+      "cons": [
+        "Older design compared with newest flagships",
+        "Not as 'airy' as some newer GAN/MoYu models"
+      ],
+      "price": null,
+      "amazon_id": "B082L4R3PF",
+      "sources": [
+        "https://cubejango.com/products/qiyi-valk-3-elite-m",
+        "https://rubikonline.vn/cac-cuber-tren-the-gioi-noi-gi-ve-valk-3-elite-m"
+      ],
+      "amazon_url": "https://www.amazon.com/cuberspeed-Elite-Magnetic-MoFangGe-Flagship/dp/B082L4R3PF",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/GYWKhyH-wV_kwqaQQrfQ0noM5WeozEUz9bjg0uPpWkM/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9tLm1l/ZGlhLWFtYXpvbi5j/b20vaW1hZ2VzL0kv/NjFlQlFLODEwd0wu/anBn",
+      "resolver": "brave",
+      "valid": true
+    }
+  ],
+  "resolvedLinks": {
+    "https://www.alibaba.com/product-insights/how-to-choose-the-best-rubik-s-cube-3x3-gan-a-complete-buying-guide.html": {
+      "title": "How To Choose The Best Rubik's Cube 3x3 GAN: A Complete Buying Guide",
+      "description": "",
+      "image": "",
+      "url": "https://www.alibaba.com/product-insights/how-to-choose-the-best-rubik-s-cube-3x3-gan-a-complete-buying-guide.html"
+    },
+    "https://www.reddit.com/r/Cubers/comments/1ace0s8": {
+      "title": "Reddit - The heart of the internet",
+      "description": "",
+      "image": "",
+      "url": "https://www.reddit.com/r/Cubers/comments/1ace0s8/"
+    },
+    "https://themcubes.com/shop/mcubes-weilong-v11-ai-3x3-8-magnet-ball-core-maglev-uv-18th-anniversary/": {
+      "title": "Buy MoYu WeiLong V11 AI 3x3 18th anniversary cube | Mcubes",
+      "description": "MoYu WeiLong V11 AI 18th anniversary 3x3 Smart Cube with Bluetooth, MagLev tensioning, 8-magnet ball core, UV coating & anniversary edition.",
+      "image": "https://themcubes.com/wp-content/uploads/2026/02/rn-image_picker_lib_temp_e339501a-93e5-4e1c-826c-a1d9936a4423.webp",
+      "url": "https://themcubes.com/shop/mcubes-weilong-v11-ai-3x3-8-magnet-ball-core-maglev-uv-18th-anniversary/"
+    },
+    "https://hntcubing.com/review-rubik-moyu-weilong-wrm-v11-danh-gia-va-cam-nhan-ca-nhan-hnt-cubing/": {
+      "title": "Review Rubik MoYu Weilong WRM v11 – Đánh giá và cảm nhận cá nhân HNT Cubing - HNT Cubing",
+      "description": "Đánh giá chi tiết MoYu WRM v11 – khối Rubik giúp Wang Yiheng lập kỷ lục thế giới. So sánh các phiên bản, ưu nhược điểm và link đặt mua giá tốt.",
+      "image": "https://hntcubing.com/wp-content/uploads/2025/06/Weilong-v11-4.webp",
+      "url": "https://hntcubing.com/review-rubik-moyu-weilong-wrm-v11-danh-gia-va-cam-nhan-ca-nhan-hnt-cubing/"
+    },
+    "https://rubikonline.vn/cac-cuber-tren-the-gioi-noi-gi-ve-valk-3-elite-m": {
+      "title": "Các Cuber trên thế giới đánh giá thế nào về Valk 3 Elite M",
+      "description": "Sau một thời gian dài vắng bóng, QiYi MoFange đã hợp tác với Mats Valk để cho ra đời dòng Rubik cao cấp và tốt nhất của hãng năm 2019 - Valk 3 Elite M. Hôm nay chúng ta sẽ cùng đến với chuyên mục đánh giá chuyên sâu về chiếc Rubik cao cấp này, nhưng không phải do H2 đánh giá mà...",
+      "image": "http://bizweb.dktcdn.net/thumb/grande/100/316/286/articles/danh-gia-valk-3-elite-m.jpg?v=1587030213193",
+      "url": "https://rubikonline.vn/cac-cuber-tren-the-gioi-noi-gi-ve-valk-3-elite-m"
+    }
+  }
+}

@@ -1,0 +1,104 @@
+{
+  "slug": "ereaders",
+  "query": "best e‑readers",
+  "title": "Best e‑readers | Bin Diving",
+  "description": "AI-dug recommendations for best e‑readers. Compare options and find one that fits.",
+  "dugAt": "2026-03-18T19:29:32.204Z",
+  "recommendations": [
+    {
+      "product_name": "Amazon Kindle Paperwhite (latest Paperwhite)",
+      "pros": [
+        "Excellent 300 ppi E Ink display",
+        "Waterproof IPX8",
+        "Long battery life"
+      ],
+      "cons": [
+        "Amazon ecosystem locked",
+        "Limited file-format support vs Kobo"
+      ],
+      "price": null,
+      "amazon_id": "B0CFPJYX7P",
+      "sources": [
+        "https://www.androidcentral.com/best-e-ink-tablet",
+        "https://www.forbes.com/sites/forbes-personal-shopper/article/best-kindle/"
+      ],
+      "amazon_url": "https://www.amazon.com/All-new-Amazon-Kindle-Paperwhite-glare-free/dp/B0CFPJYX7P",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/c-t2s7JPHBqRpwWb0sg4c4bm7nAIIJzGQFZN81cBKOo/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9oaXBz/LmhlYXJzdGFwcHMu/Y29tL3ZhZGVyLXBy/b2QuczMuYW1hem9u/YXdzLmNvbS8xNzM5/ODgwMTIyLWFtYXpv/bi1raW5kbGUtcGFw/ZXJ3aGl0ZS1zaWdu/YXR1cmUtMjAyNC02/N2I0NzY4ZmUxZTYz/LmpwZz9jcm9wPTF4/dzoxeGg7Y2VudGVy/LHRvcCZyZXNpemU9/OTgwOio",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "Amazon Kindle Scribe (Gen 2)",
+      "pros": [
+        "Large 10.2\" E Ink display for reading + note-taking",
+        "Comfortable stylus and note features",
+        "Good for heavy annotators/students"
+      ],
+      "cons": [
+        "Higher price than basic e-readers",
+        "Heavier / less pocketable"
+      ],
+      "price": null,
+      "amazon_id": "B0CZ9VFQ2P",
+      "sources": [
+        "https://www.tomsguide.com/computing/e-readers/kindle-scribe-gen-2-just-dropped-to-all-time-low-price-for-prime-day-you-wont-find-it-cheaper",
+        "https://www.forbes.com/sites/forbes-personal-shopper/article/best-kindle/"
+      ],
+      "amazon_url": "https://www.amazon.com/Amazon-Kindle-Scribe/dp/B0CZ9VFQ2P",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/wHQ0WpqWj6MWAah1ai5s085Nk3IlCXzpyPOD7Rc7Aks/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9pLmVi/YXlpbWcuY29tL2lt/YWdlcy9nL3R2MEFB/ZVN3YlpOcFFYWFov/cy1sMjI1LmpwZw",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "Kobo Libra Colour",
+      "pros": [
+        "Color E Ink for comics/illustrated books",
+        "Strong EPUB/library support",
+        "Ergonomic design with physical buttons"
+      ],
+      "cons": [
+        "Fewer apps/ecosystem than Android tablets",
+        "Color E Ink less vibrant than LCD"
+      ],
+      "price": null,
+      "amazon_id": "B0CZXX465Z",
+      "sources": [
+        "https://www.theguardian.com/thefilter-us/2025/oct/23/best-e-readers-kindle-kobo/",
+        "https://www.techradar.com/reviews/kobo-libra-2"
+      ],
+      "amazon_url": "https://www.amazon.com/Kobo-Glare-Free-KaleidoTM-Audiobooks-Waterproof/dp/B0CZXX465Z",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/EDOqubg8nAVLJzVCkVLjRGDFzIL5B7Jc2xfxtRRCxmw/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9wcmV2/aWV3LnJlZGQuaXQv/a29iby1saWJyYS1j/b2xvdXItaW1wcmVz/c2lvbnMtcmVwb3N0/ZWQtdjAtNmZ3NG5m/OGp1NHZjMS5qcGVn/P2Zvcm1hdD1wanBn/JmF1dG89d2VicCZz/PWIyNDc5N2M5M2U4/ZDQ0MGNhMDIyMmFm/NTRhMmFmMzQxNzY1/MmM1ZDI",
+      "resolver": "brave",
+      "valid": true
+    }
+  ],
+  "resolvedLinks": {
+    "https://www.androidcentral.com/best-e-ink-tablet": {
+      "title": "Best E Ink tablet",
+      "description": "Be kinder to your eyes, read and work on an e-ink tablet instead of a traditional one with an LCD or AMOLED screen.",
+      "image": "https://cdn.mos.cms.futurecdn.net/86NJe7L8rX3h695PkKQBYX-2048-80.jpg",
+      "url": "https://www.androidcentral.com/best-e-ink-tablet"
+    },
+    "https://www.tomsguide.com/computing/e-readers/kindle-scribe-gen-2-just-dropped-to-all-time-low-price-for-prime-day-you-wont-find-it-cheaper": {
+      "title": "Kindle Scribe Gen 2 just dropped to all-time low price for Prime Day — you won't find it cheaper",
+      "description": "The Kindle you can write on just hit its lowest price for Prime Day",
+      "image": "https://cdn.mos.cms.futurecdn.net/TxZW8bmNMt55jKn75x3ofJ-2000-80.jpg",
+      "url": "https://www.tomsguide.com/computing/e-readers/kindle-scribe-gen-2-just-dropped-to-all-time-low-price-for-prime-day-you-wont-find-it-cheaper"
+    },
+    "https://www.theguardian.com/thefilter-us/2025/oct/23/best-e-readers-kindle-kobo/": {
+      "title": "The best e-readers in the US, for every kind of book lover",
+      "description": "Whether you’re on a budget, looking for an easy way to read when you travel, or want one for kids, here are our picks (they’re not all Kindles)",
+      "image": "https://i.guim.co.uk/img/media/b4bc47984a7e7cb73510a6d3c96ddbd9949dc524/42_0_5356_4284/master/5356.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvZmlsdGVyLXVzLnBuZw&enable=upscale&s=e142b30b63a8d94e0c156f49bd498da2",
+      "url": "https://www.theguardian.com/thefilter-us/2025/oct/23/best-e-readers-kindle-kobo"
+    },
+    "https://www.techradar.com/reviews/kobo-libra-2": {
+      "title": "Kobo Libra 2 review: still the best ereader option around",
+      "description": "The best-value mainstream ereader yet",
+      "image": "https://cdn.mos.cms.futurecdn.net/yhpN8Bccac7dweQhuDoNL7-2560-80.jpg",
+      "url": "https://www.techradar.com/reviews/kobo-libra-2"
+    }
+  }
+}

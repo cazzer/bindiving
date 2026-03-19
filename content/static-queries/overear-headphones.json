@@ -1,0 +1,125 @@
+{
+  "slug": "overear-headphones",
+  "query": "best over‑ear headphones",
+  "title": "Best over‑ear headphones | Bin Diving",
+  "description": "AI-dug recommendations for best over‑ear headphones. Compare options and find one that fits.",
+  "dugAt": "2026-03-18T21:42:26.306Z",
+  "recommendations": [
+    {
+      "product_name": "Sony WH-1000XM5 Wireless Noise-Cancelling Headphones",
+      "pros": [
+        "Industry-leading noise cancellation",
+        "Comfortable long-wear design",
+        "Strong call quality and features"
+      ],
+      "cons": [
+        "Premium price",
+        "Some long-term build concerns reported"
+      ],
+      "price": null,
+      "amazon_id": "B09XS7JWHH",
+      "sources": [
+        "https://www.tomsguide.com/audio/over-ear-headphones/the-sony-wh-1000xm5-have-been-our-no-1-headphones-but-this-alternative-just-unseated-the-king",
+        "https://www.whathifi.com/best-buys/headphones/best-over-ear-headphones",
+        "https://amp.cnn.com/cnn-underscored/reviews/best-over-ear-headphones"
+      ],
+      "amazon_url": "https://www.amazon.com/Sony-WH-1000XM5-Canceling-Headphones-Hands-Free/dp/B09XS7JWHH",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/WK9gJTEo2aXzIOCZOXksH-1ampN-gwUEGWw5GmjjGc8/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9zbnBp/LmRlbGwuY29tL3Nu/cC9pbWFnZXMvcHJv/ZHVjdHMvbGFyZ2Uv/QUMwOTc3NzlfTVZJ/NC5qcGc",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "Apple AirPods Max (USB-C)",
+      "pros": [
+        "Excellent sound quality and build",
+        "Seamless integration with Apple devices",
+        "Premium materials and intuitive controls"
+      ],
+      "cons": [
+        "High price",
+        "Heavier than some rivals"
+      ],
+      "price": null,
+      "amazon_id": "B0DGJC52FP",
+      "sources": [
+        "https://www.macrumors.com/2025/01/17/amazon-discount-usb-c-airpods-max/",
+        "https://games.gg/news/airpods-max-drop-to-450-on-amazon/",
+        "https://www.tomsguide.com/audio/over-ear-headphones/not-a-typo-airpods-max-are-usd130-off-in-amazon-prime-day-deal"
+      ],
+      "amazon_url": "https://www.amazon.com/Apple-Headphones-Cancellation-Transparency-Personalized/dp/B0DGJC52FP",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/sT_wzL6rOq9y7sMqnuhGgEUdQC8b8p_3aJ_BG2ZHRws/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9oZWxp/b3MtaS5tYXNoYWJs/ZS5jb20vaW1hZ2Vy/eS9hcnRpY2xlcy8w/NW5BS1ZoSmYzdEpM/SVk4MWFnSzFTdC9o/ZXJvLWltYWdlLmZp/bGwuc2l6ZV8xMjQ4/eDcwMi52MTcyNTkx/NzM1NC5qcGc",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "Bowers & Wilkins Px7 S3 Wireless Over-Ear Headphones",
+      "pros": [
+        "Refined sound signature and stylish design",
+        "Strong noise cancellation for music",
+        "High-quality build and materials"
+      ],
+      "cons": [
+        "Pricey for some budgets",
+        "Some user reports of availability/quality variance"
+      ],
+      "price": null,
+      "amazon_id": "B07574TYWW",
+      "sources": [
+        "https://www.bowerswilkins.com/en-us/product/over-ear-headphones/px7-s3/301020.html",
+        "https://www.tomsguide.com/audio/over-ear-headphones/the-sony-wh-1000xm5-have-been-our-no-1-headphones-but-this-alternative-just-unseated-the-king",
+        "https://www.whathifi.com/headphones/wireless-headphones/theres-a-record-low-price-on-these-stylish-bowers-and-wilkins-headphones"
+      ],
+      "amazon_url": "https://www.amazon.com/Bowers-Wilkins-Cancelling-Wireless-Headphones/dp/B07574TYWW",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/u1QEjg9KUf8c2YJmTVH8qDoXlD7Ie77ZWbq0IDcbaIo/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9zdGF0/aWMuY2x1YnMubmZs/LmNvbS9pbWFnZS91/cGxvYWQvdF9uZXdf/cGhvdG9fYWxidW0v/dF9sYXp5L2ZfYXV0/by9yYWlkZXJzL2gy/cXZ4cDI3YXhxd2dq/b25oeGJmLmpwZw",
+      "resolver": "brave",
+      "valid": true
+    }
+  ],
+  "resolvedLinks": {
+    "https://www.tomsguide.com/audio/over-ear-headphones/the-sony-wh-1000xm5-have-been-our-no-1-headphones-but-this-alternative-just-unseated-the-king": {
+      "title": "The Sony WH-1000XM5 have been our No. 1 headphones — but this alternative just unseated the king",
+      "description": "A new best in town",
+      "image": "https://cdn.mos.cms.futurecdn.net/etVKqBsC6RV4WjgmTPvAS3-2560-80.jpg",
+      "url": "https://www.tomsguide.com/audio/over-ear-headphones/the-sony-wh-1000xm5-have-been-our-no-1-headphones-but-this-alternative-just-unseated-the-king"
+    },
+    "https://www.whathifi.com/best-buys/headphones/best-over-ear-headphones": {
+      "title": "Excited by the AirPods Max 2? First check out the best over-ears headphones",
+      "description": "Which is best for you?",
+      "image": "https://cdn.mos.cms.futurecdn.net/HE6WVm7zj3hDCLmh3kdPRK-1920-80.jpg",
+      "url": "https://www.whathifi.com/best-buys/headphones/best-over-ear-headphones"
+    },
+    "https://amp.cnn.com/cnn-underscored/reviews/best-over-ear-headphones": {
+      "title": "We found the best over-ear headphones after years of testing | CNN Underscored",
+      "description": "After testing dozens of top over-ear headphones from brands like Bose, Sony and Apple, we found the five best for every need and budget.",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/headphones-20251222195520649.jpg?c=16x9&q=w_800,c_fill",
+      "url": "https://www.cnn.com/cnn-underscored/reviews/the-best-over-ear-headphones"
+    },
+    "https://games.gg/news/airpods-max-drop-to-450-on-amazon/": {
+      "title": "AirPods Max Drop to $450 on Amazon | GAMES.GG",
+      "description": "Apple AirPods Max hit a record low of $450 on Amazon. Learn how ANC, Spatial Audio, and controls enhance gaming and media experiences.",
+      "image": "https://assets.gam3s.gg/medium_Air_Pods_Max_Drop_to_450_on_Amazon_a69dc47319.png",
+      "url": "https://games.gg/news/airpods-max-drop-to-450-on-amazon/"
+    },
+    "https://www.tomsguide.com/audio/over-ear-headphones/not-a-typo-airpods-max-are-usd130-off-in-amazon-prime-day-deal": {
+      "title": "This AirPods Max Prime Day deal will save you $120 — act fast!",
+      "description": "Get AirPods Max quality for less this Prime Day",
+      "image": "https://cdn.mos.cms.futurecdn.net/Pnnr8Ymi4agWxmW9wnyP5S-1920-80.jpg",
+      "url": "https://www.tomsguide.com/audio/over-ear-headphones/this-airpods-max-prime-day-deal-will-save-you-usd120-act-fast"
+    },
+    "https://www.bowerswilkins.com/en-us/product/over-ear-headphones/px7-s3/301020.html": {
+      "title": "Px7 S3 - High-performance noise-cancelling wireless headphones | Bowers & Wilkins - United States",
+      "description": "",
+      "image": "https://www.bowerswilkins.com/on/demandware.static/-/Sites-master-catalog-soundunited/default/dw39de6fc5/bowers/PDP/px7-s3/BW_Px7S3PDP_[BuyStack7]_967450-min.png",
+      "url": "https://www.bowerswilkins.com/en-us/product/over-ear-headphones/px7-s3/301020.html"
+    },
+    "https://www.whathifi.com/headphones/wireless-headphones/theres-a-record-low-price-on-these-stylish-bowers-and-wilkins-headphones": {
+      "title": "These five-star wireless headphones have a new lowest price – but only in one colour",
+      "description": "A great deal on the Bowers & Wilkins Px7 S3, but Frost Blue fans are out of luck",
+      "image": "https://cdn.mos.cms.futurecdn.net/JjQETqqDyGhPvKdJfWFFbE-1920-80.jpg",
+      "url": "https://www.whathifi.com/headphones/wireless-headphones/theres-a-record-low-price-on-these-stylish-bowers-and-wilkins-headphones"
+    }
+  }
+}

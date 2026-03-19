@@ -1,0 +1,131 @@
+{
+  "slug": "headphones",
+  "query": "best headphones",
+  "title": "Best headphones | Bin Diving",
+  "description": "AI-dug recommendations for best headphones. Compare options and find one that fits.",
+  "dugAt": "2026-03-18T21:41:56.812Z",
+  "recommendations": [
+    {
+      "product_name": "Sony WH-1000XM6",
+      "pros": [
+        "Best-in-class noise cancelling",
+        "Strong battery life (~30 hr)",
+        "Regular Amazon discounts/deals"
+      ],
+      "cons": [
+        "Premium price",
+        "Some users report fit/build issues"
+      ],
+      "price": null,
+      "amazon_id": "B0F3PQHWTZ",
+      "sources": [
+        "https://tech.yahoo.com/audio/articles/painstakingly-reviewed-best-over-ear-160241107.html/",
+        "https://www.tomsguide.com/audio/headphones/i-just-found-the-sony-wh-1000xm6-at-their-lowest-price-on-amazon-usd60-off",
+        "https://www.wired.com/story/sony-wh-1000xm6-prime-day-sale-october-2025"
+      ],
+      "amazon_url": "https://www.amazon.com/Sony-WH-1000XM6-Headphones-Microphones-Studio-Quality/dp/B0F3PQHWTZ",
+      "gpt_azn": "B0F2TT8Q7M",
+      "image_url": "https://imgs.search.brave.com/lZzavdPZIYms_P9BBpn2PgCS3zHTlyzj6B18XqDaVFU/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9pLmVi/YXlpbWcuY29tL2lt/YWdlcy9nLzVEZ0FB/ZVN3RUY5cEtrV3Mv/cy1sMjI1LmpwZw",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "Apple AirPods Max 2",
+      "pros": [
+        "Improved ANC and H2-powered features",
+        "Premium build and Apple ecosystem integration",
+        "Strong spatial audio/Transparency mode"
+      ],
+      "cons": [
+        "High price",
+        "Heavier than some rivals"
+      ],
+      "price": null,
+      "amazon_id": "B0DGJC52FP",
+      "sources": [
+        "https://www.whathifi.com/headphones/wireless-headphones/theyre-here-the-airpods-max-2-have-arrived-teasing-improved-anc-better-sound-and-a-raft-of-cutting-edge-features",
+        "https://www.techradar.com/audio/wireless-headphones/apple-finally-launches-airpods-max-2-with-all-the-features-from-airpods-pro-theyve-been-missing-plus-better-active-noise-cancellation-elevated-sound-quality",
+        "https://www.macrumors.com/2026/02/25/airpods-max-99-off-on-amazon/"
+      ],
+      "amazon_url": "https://www.amazon.com/Apple-Headphones-Cancellation-Transparency-Personalized/dp/B0DGJC52FP",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/UJOJWyzdZRtGuZ0_cDvudrrPh4EkExy3XLwQU2K8ooo/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly90aHVt/YnMuZHJlYW1zdGlt/ZS5jb20vYi9hcHBs/ZS1jb21wdXRlcnMt/YWlycG9kcy1tYXgt/b3Zlci1lYXItaGVh/ZHBob25lcy1waW5r/LXRhYmxldy1wYXJp/cy1mcmFuY2UtamFu/LWNsb3NlLXVwLW1h/Y3JvLXZpZXctbmV3/LWJlc3QtaW5zaWRl/LXNtYXJ0LWNhc2Ut/MjA4MTI4NTMwLmpw/Zw",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "Bose QuietComfort Ultra Headphones",
+      "pros": [
+        "Very comfortable fit",
+        "Excellent noise cancellation and call quality",
+        "Frequently discounted on Amazon"
+      ],
+      "cons": [
+        "Some reported feature/codec limitations",
+        "Can be pricey at launch"
+      ],
+      "price": null,
+      "amazon_id": "B0CCZ1L489",
+      "sources": [
+        "https://www.tomsguide.com/us/best-noise-cancelling-headphones%2Creview-5566.html",
+        "https://www.engadget.com/deals/the-bose-quietcomfort-ultra-headphones-are-100-off-for-prime-day-123043790.html/",
+        "https://phonearena.com/news/bose-quietcomfort-ultra-prime-day-price-amazon_id161255"
+      ],
+      "amazon_url": "https://www.amazon.com/Bose-QuietComfort-Wireless-Cancelling-Headphones/dp/B0CCZ1L489",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/gwNRv4cV0ibEyG4NEL8zoc8nger1MYCEfBGE8M0tjqY/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9hc3Nl/dHMuYm9zZWNyZWF0/aXZlLmNvbS90cmFu/c2Zvcm0vM2RhNTdm/OWYtNmZkYS00ZmFi/LWI4YTgtNGE5YmQ0/NjZlYmY4L1NGX1FD/VUhfUXVhbGl0eV9T/YW5kc3RvbmVfNDU2/eDQ1Nl94Mj9pbz10/cmFuc2Zvcm06Y3Jv/cCxoZWlnaHQ6OTEy/LHdpZHRoOjkxMixw/YXRoOnNxdWFyZSZx/dWFsaXR5PTk1",
+      "resolver": "brave",
+      "valid": true
+    }
+  ],
+  "resolvedLinks": {
+    "https://tech.yahoo.com/audio/articles/painstakingly-reviewed-best-over-ear-160241107.html/": {
+      "title": "I Meticulously Reviewed the Best Over-Ear Headphones of 2026. These Are the Strongest Contenders",
+      "description": "Men’s Journal aims to feature only the best products and services. If you buy something via one of our links, we may earn a commission. Prices are accurate and items in stock at time of publishing. If it seems like there's a new speaker, earbud, or headphone drop every month, that's because there ...",
+      "image": "https://s.yimg.com/os/en/men_s_journal_718/98041d9fbef7ab791a2429239c37898a",
+      "url": "https://www.mensjournal.com/gear/best-over-ear-headphones"
+    },
+    "https://www.wired.com/story/sony-wh-1000xm6-prime-day-sale-october-2025": {
+      "title": "The Best Noise-Canceling Headphones We've Ever Tested Are on Sale For Prime Day 2025",
+      "description": "Sony's best wireless headphones ever sound even better on sale during Amazon Prime Day.",
+      "image": "https://media.wired.com/photos/68e5bbe00d70947faf59dc2b/191:100/w_1280,c_limit/Sony's%20Noise-Crushing%20WH-1000XM6%20Headphones%20Are%20On%20Sale%20For%20Prime%20Day.png",
+      "url": "https://www.wired.com/story/sony-wh-1000xm6-prime-day-sale-october-2025/"
+    },
+    "https://www.whathifi.com/headphones/wireless-headphones/theyre-here-the-airpods-max-2-have-arrived-teasing-improved-anc-better-sound-and-a-raft-of-cutting-edge-features": {
+      "title": "The AirPods Max 2 have finally landed, promising better noise cancelling, improved sound and features galore",
+      "description": "The year's most anticipated headphones?",
+      "image": "https://cdn.mos.cms.futurecdn.net/tJ7UfpbsE2T3rBoVZGF8xC-2560-80.jpg",
+      "url": "https://www.whathifi.com/headphones/wireless-headphones/theyre-here-the-airpods-max-2-have-arrived-teasing-improved-anc-better-sound-and-a-raft-of-cutting-edge-features"
+    },
+    "https://www.techradar.com/audio/wireless-headphones/apple-finally-launches-airpods-max-2-with-all-the-features-from-airpods-pro-theyve-been-missing-plus-better-active-noise-cancellation-elevated-sound-quality": {
+      "title": "AirPods Max 2 are official! Apple H2 chip brings new features and better ANC — and there's a new 'high dynamic range amplifier for even cleaner audio'",
+      "description": "But there's bad news if you were hoping for a cheaper price…",
+      "image": "https://cdn.mos.cms.futurecdn.net/2H6VjvPic3UTDJMFEa7E2k-2560-80.jpg",
+      "url": "https://www.techradar.com/audio/wireless-headphones/apple-finally-launches-airpods-max-2-with-all-the-features-from-airpods-pro-theyve-been-missing-plus-better-active-noise-cancellation-elevated-sound-quality"
+    },
+    "https://www.macrumors.com/2026/02/25/airpods-max-99-off-on-amazon/": {
+      "title": "Get AirPods Max for $99 Off on Amazon",
+      "description": "Amazon this week is back with a notable discount on the USB-C AirPods Max, available for $449.99 in all five colors, down from $549.00. This is one of the first times in a few weeks that we've tracked every color of the AirPods Max on sale at $99 off. Note: MacRumors is an affiliate partner with some of these vendors. When you click a link and make a purchase, we may receive a small payment, which helps us keep the site running.",
+      "image": "https://images.macrumors.com/t/gQidlH8zbXSY10mnBryzECFkdIQ=/2500x/article-new/2023/05/Airpods-Max-Discount-Feature-Blue.jpg",
+      "url": "https://www.macrumors.com/2026/02/25/airpods-max-99-off-on-amazon/"
+    },
+    "https://www.tomsguide.com/us/best-noise-cancelling-headphones%2Creview-5566.html": {
+      "title": "The best noise-canceling headphones of 2026: Tested and reviewed",
+      "description": "These are the very best noise-canceling headphones we've tested",
+      "image": "https://cdn.mos.cms.futurecdn.net/vPkNbWYWPGMsPLVmRQbSu4-2000-80.jpg",
+      "url": "https://www.tomsguide.com/us/best-noise-cancelling-headphones,review-5566.html"
+    },
+    "https://www.engadget.com/deals/the-bose-quietcomfort-ultra-headphones-are-100-off-for-prime-day-123043790.html/": {
+      "title": "The Bose QuietComfort Ultra headphones are $100 off for Prime Day",
+      "description": "Our pick of the best noise-canceling headphones are down to $329 during day two of the sale.",
+      "image": "https://s.yimg.com/ny/api/res/1.2/BHifCdGxsPx.wpe_Rvmlpg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://s.yimg.com/os/creatr-uploaded-images/2025-10/6ee60ac0-a06b-11f0-befe-7aa1b8509841",
+      "url": "https://www.engadget.com/deals/the-bose-quietcomfort-ultra-headphones-are-100-off-for-prime-day-123043790.html"
+    },
+    "https://phonearena.com/news/bose-quietcomfort-ultra-prime-day-price-amazon_id161255": {
+      "title": "The superior Bose QuietComfort Ultra are back at their Prime Day price on Amazon",
+      "description": "Prime Day may be over and gone, but the Bose QuietComfort Ultra Headphones are back at their best price on Amazon! Save 19% while you can.",
+      "image": "https://m-cdn.phonearena.com/images/article/161255-wide-two_1200/The-superior-Bose-QuietComfort-Ultra-are-back-at-their-Prime-Day-price-on-Amazon.jpg",
+      "url": "https://www.phonearena.com/news/bose-quietcomfort-ultra-prime-day-price-amazon_id161255"
+    }
+  }
+}

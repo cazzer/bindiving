@@ -1,0 +1,105 @@
+{
+  "slug": "beach-umbrellas-shades",
+  "query": "best beach umbrellas & shades",
+  "title": "Best beach umbrellas & shades | Bin Diving",
+  "description": "AI-dug recommendations for best beach umbrellas & shades. Compare options and find one that fits.",
+  "dugAt": "2026-03-18T18:30:33.879Z",
+  "recommendations": [
+    {
+      "product_name": "beachBUB All-in-One Beach Umbrella System",
+      "pros": [
+        "Very wind-stable (sand‑bag base)",
+        "UPF 50+ large canopy",
+        "Includes setup tools & accessories"
+      ],
+      "cons": [
+        "Higher price vs basic umbrellas",
+        "Sand-filling can be messy"
+      ],
+      "price": "$159",
+      "amazon_id": "B00YF49VZC",
+      "sources": [
+        "https://www.travelandleisure.com/best-beach-umbrellas-7497881",
+        "https://www.nbcnews.com/select/shopping/best-beach-umbrellas-rcna96739"
+      ],
+      "amazon_url": "https://www.amazon.com/BEACHBUB-Beach-Umbrella-Oversize-Accessory/dp/B00YF49VZC",
+      "gpt_azn": "B00YF49VZC",
+      "image_url": "https://imgs.search.brave.com/D2RuELKuU_8JRWB92CjVCbq8n_2L5iwnRSl5Ml0MFCM/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9iZWFj/aGJ1Yi5jb20vY2Ru/L3Nob3AvcHJvZHVj/dHMvYmVhY2hCVUIt/QWxsLUluLU9uZS1V/bWJyZWxsYS1TeXN0/ZW0tMS1QYWNrLUxJ/TUUuanBnP3Y9MTcx/MjYwNzY4MCZ3aWR0/aD0xNDQ1",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "Shibumi Shade (Mini / Classic)",
+      "pros": [
+        "Extremely portable and fast one‑person setup",
+        "Excellent wind‑performance in coastal breezes",
+        "Large shaded footprint for its packed size"
+      ],
+      "cons": [
+        "Requires steady breeze to hold shape",
+        "Premium price; sand‑bag filling can be messy",
+        "Can flap/noise in strong gusts"
+      ],
+      "price": "$230.00",
+      "amazon_id": "B0B6CQTBY5",
+      "sources": [
+        "https://outdoorithm.com/gear/shibumi-shade-mini",
+        "https://rovology.com/united-states/hawaii/shibumi-shade-mini-review-real-shade-for-mauis-windy-beaches/"
+      ],
+      "amazon_url": "https://www.amazon.com/Shibumi-Shade-Mini%C2%AE-Original-Designed/dp/B0B6CQTBY5",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/cwMUfPDo3phGIEF7nQm2SWTLJi9HR0gXylVqQbCiUJk/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly93d3cu/c3VyZnN0YXRpb25z/dG9yZS5jb20vY2Ru/L3Nob3AvZmlsZXMv/bWluaTJfZTUyZWJk/ZTAtNzVlYy00OWY0/LThmYWEtNmJlYjAy/ZjBmMmVjXzEyMDB4/LmpwZz92PTE3NDE3/MDEwNDU",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "Tommy Bahama Beach Umbrella (7ft)",
+      "pros": [
+        "Solid build with tilt & vents",
+        "Good UPF 50+ sun protection",
+        "Lightweight and widely available"
+      ],
+      "cons": [
+        "Not as wind‑proof as anchored systems",
+        "Accessory tray is not detachable"
+      ],
+      "price": "$110",
+      "amazon_id": "B01MYUL1B0",
+      "sources": [
+        "https://www.nbcnews.com/select/shopping/best-beach-umbrellas-rcna96739",
+        "https://www.theinertia.com/gear/best-beach-umbrellas/"
+      ],
+      "amazon_url": "https://www.amazon.com/Tommy-Bahama-Anchor-Umbrella-Telescoping/dp/B01MYUL1B0",
+      "gpt_azn": "B084ZWQFX5",
+      "image_url": "https://imgs.search.brave.com/4pFR7n9pCHRrL6B4Xw-DfuSk8IZfq87d2dDGvRiWL7o/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9pLmVi/YXlpbWcuY29tL2lt/YWdlcy9nLzBiMEFB/T1N3SXFsaG5LUHov/cy1sOTYwLndlYnA",
+      "resolver": "brave",
+      "valid": true
+    }
+  ],
+  "resolvedLinks": {
+    "https://www.nbcnews.com/select/shopping/best-beach-umbrellas-rcna96739": {
+      "title": "Here’s what to look for when shopping for a beach umbrella",
+      "description": "A great day at the beach starts with a dependable, durable umbrella.",
+      "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2023-07/230630-beach-umbrellas-oo-social-10a6de.jpg",
+      "url": "https://www.nbcnews.com/select/shopping/best-beach-umbrellas-rcna96739"
+    },
+    "https://outdoorithm.com/gear/shibumi-shade-mini": {
+      "title": "Shibumi Shade Mini",
+      "description": "Shibumi Shade Mini by Shibumi. Breezy beach outings and travel — couples or small groups (1–2 people) who need a very packable, fast-to-deploy sun shelter. U...",
+      "image": "https://qewhrfvhtvxtmipwycct.supabase.co/storage/v1/object/public/gear-pictures/Shibumi_Shade_Mini.jpg",
+      "url": "https://outdoorithm.com/gear/shibumi-shade-mini"
+    },
+    "https://rovology.com/united-states/hawaii/shibumi-shade-mini-review-real-shade-for-mauis-windy-beaches/": {
+      "title": "Shibumi Shade Mini Review: Real Shade for Maui’s Windy Beaches",
+      "description": "I put the Shibumi Shade Mini to the test on some of West Maui's breeziest beaches to see if it could truly deliver reliable shade.",
+      "image": "https://rovology.com/wp-content/uploads/2025/12/This-is-what-a-perfect-beach-day-looks-like-in-Maui-with-the-Shibumi-Shade-Mini.-Photo-by-Sharon-Kurtz-.jpg",
+      "url": "https://rovology.com/united-states/hawaii/shibumi-shade-mini-review-real-shade-for-mauis-windy-beaches/"
+    },
+    "https://www.theinertia.com/gear/best-beach-umbrellas/": {
+      "title": "6 Best Beach Umbrellas | The Inertia Tested",
+      "description": "",
+      "image": "http://www.theinertia.com/wp-content/uploads/2023/08/Screen-Shot-2023-08-09-at-3.06.40-PM-1.png",
+      "url": "https://www.theinertia.com/gear/best-beach-umbrellas/"
+    }
+  }
+}

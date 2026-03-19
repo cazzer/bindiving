@@ -1,0 +1,104 @@
+{
+  "slug": "ski-goggles",
+  "query": "best ski goggles",
+  "title": "Best ski goggles | Bin Diving",
+  "description": "AI-dug recommendations for best ski goggles. Compare options and find one that fits.",
+  "dugAt": "2026-03-18T18:23:27.535Z",
+  "recommendations": [
+    {
+      "product_name": "Smith I/O MAG ChromaPop",
+      "pros": [
+        "Excellent lens clarity (ChromaPop)",
+        "Fast magnetic lens swaps",
+        "Strong anti-fog/venting"
+      ],
+      "cons": [
+        "Premium price",
+        "Occasional strap/fit complaints"
+      ],
+      "price": null,
+      "amazon_id": "B07VFCRBX2",
+      "sources": [
+        "https://www.rei.com/learn/expert-advice/best-snow-goggles.html",
+        "https://www.skimag.com/gear/helmets-goggles/the-10-best-ski-goggles-of-2025/"
+      ],
+      "amazon_url": "https://www.amazon.com/SMITH-Goggles-ChromaPop-Lens-Women/dp/B07VFCRBX2",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/xQKggskzqihiO2qx8NZ2iGNzTI-8JD8S7GBgoAgeKqU/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly93d3cu/c21pdGhvcHRpY3Mu/Y29tL2Nkbi9zaG9w/L2ZpbGVzL2lvLW1h/Zy1nb2dnbGVzX2Js/YWNrLWNwUGhvdG9j/aHJvbWljQ29wcGVy/Qmx1ZU1pcnJvcl9S/SUdIVC5wbmc_dj0x/NzYzNzQ0NjQyJndp/ZHRoPTE5NDY",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "Oakley Flight Deck (Prizm)",
+      "pros": [
+        "Very wide field of view",
+        "Oakley Prizm lenses enhance contrast",
+        "Helmets-compatible, popular fit"
+      ],
+      "cons": [
+        "Large fit may not suit small faces",
+        "Higher-end replacement lenses cost"
+      ],
+      "price": null,
+      "amazon_id": "B07J5S6FVJ",
+      "sources": [
+        "https://www.skimag.com/gear/helmets-goggles/the-10-best-ski-goggles-of-2025/",
+        "https://www.gearjunkie.com/winter/skiing/best-ski-goggles"
+      ],
+      "amazon_url": "https://www.amazon.com/Oakley-Flight-Prizm-Goggles-Iridium/dp/B07J5S6FVJ",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/GozbyieQCxuyCkvwiVWa2JEgj54gUtmiuXnjJbG5UAo/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly93d3cu/d2ludGVya2lkcy5j/b20vZmlsZXMvc3Rv/cmUvaXRlbXMvbGcv/Zi93L2Z3MjUyNl9v/YWtsZXlfcHJpem1m/bGlnaHRkZWNrbGdv/Z2dsZV9tYXR0ZWZv/cmdlZGlyb25mcmFt/ZXByaXptcm9zZWdv/bGRfMS5qcGc",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "Anon M4 Toric (with MFI)",
+      "pros": [
+        "Toric Perceive lens for edge-to-edge clarity",
+        "Integrated MFI magnetic face mask",
+        "Strong helmet compatibility and ventilation"
+      ],
+      "cons": [
+        "Expensive flagship model",
+        "Some availability/stock issues reported"
+      ],
+      "price": null,
+      "amazon_id": "B08JHT512M",
+      "sources": [
+        "https://www.switchbacktravel.com/best-ski-goggles",
+        "https://www.rei.com/product/225173/anon-m4s-toric-snow-goggles-with-mfi-face-mask"
+      ],
+      "amazon_url": "https://www.amazon.com/Anon-Perceive-Goggle-Toric-Spare/dp/B08JHT512M",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/D8fDKLclQ3hv0nO38dqz0onCX2KozPrLJ108keVvcwQ/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9pbWFn/ZXMuZXZvLmNvbS9p/bWdwLzcwMC8xMzU2/MjAvMTExNTc5Ni9h/bm9uLW00LXRvcmlj/LW1maS1nb2dnbGVz/LS5qcGc",
+      "resolver": "brave",
+      "valid": true
+    }
+  ],
+  "resolvedLinks": {
+    "https://www.rei.com/learn/expert-advice/best-snow-goggles.html": {
+      "title": "The 7 Best Ski Goggles of 2025/26: Tested | REI Co-op",
+      "description": "Our crew tested ski and snowboard goggles from Smith, Atomic, Oakley and more to find the best snow goggles for every type of skier and snowboarder.",
+      "image": "https://www.rei.com/dam/21776956_ea_botwin2025_best-ski-goggles1_web_med.jpeg",
+      "url": "https://www.rei.com/learn/expert-advice/best-snow-goggles.html"
+    },
+    "https://www.skimag.com/gear/helmets-goggles/the-10-best-ski-goggles-of-2025/": {
+      "title": "The 10 Best Ski Goggles of 2025",
+      "description": "Great goggles do more than stay fog-free. They help you see clearly in a wide range of light and snow conditions.",
+      "image": "https://www.skimag.com/wp-content/uploads/2024/09/Ski_Magazine_SkiTest_Tidwell_3.4.34-2851_h.jpg",
+      "url": "https://www.skimag.com/gear/helmets-goggles/the-10-best-ski-goggles-of-2025/"
+    },
+    "https://www.gearjunkie.com/winter/skiing/best-ski-goggles": {
+      "title": "The Best Ski Goggles of 2026",
+      "description": "We found the best ski goggles under $200, plus the best magnetic and photochromic lenses, including options from Smith, Giro, Julbo and more.",
+      "image": "https://s3.amazonaws.com/images.gearjunkie.com/uploads/2025/12/IMG_7247.jpg",
+      "url": "https://gearjunkie.com/winter/skiing/best-ski-goggles"
+    },
+    "https://www.switchbacktravel.com/best-ski-goggles": {
+      "title": "Switchback Travel | Best Ski Goggles of 2026",
+      "description": "From interchangeable-lens models to budget classics, we break down the top snow goggles on the market",
+      "image": "https://www.switchbacktravel.com/sites/default/files/images/articles/Ski%20goggles%20%28Oakley%20goggles%20in%20powder%29.jpg",
+      "url": "https://www.switchbacktravel.com/best-ski-goggles"
+    }
+  }
+}

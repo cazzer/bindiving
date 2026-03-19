@@ -1,0 +1,100 @@
+{
+  "slug": "32inch-tvs",
+  "query": "best 32‑inch tvs",
+  "title": "Best 32‑inch tvs | Bin Diving",
+  "description": "AI-dug recommendations for best 32‑inch tvs. Compare options and find one that fits.",
+  "dugAt": "2026-03-18T21:51:01.969Z",
+  "recommendations": [
+    {
+      "product_name": "LG 32LQ6300",
+      "pros": [
+        "Natural, consistent picture",
+        "Full HD with webOS smart features"
+      ],
+      "cons": [
+        "Not 4K",
+        "webOS version less feature-rich"
+      ],
+      "price": null,
+      "amazon_id": "B09YVRTRXQ",
+      "sources": [
+        "https://www.techradar.com/news/television/tv/10-best-32-inch-tvs-in-the-world-today-655660",
+        "https://www.techradar.com/televisions/lg-32lq6300-review-a-small-reliable-tv-that-packs-great-performance"
+      ],
+      "amazon_url": "https://www.amazon.com/LG-32-720p-Smart-LED/dp/B09YVRTRXQ",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/XZes3xlSERFu8Wh4OPysWDQkFQb4KfNxvpiMy0-0Xnc/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9tZWRp/YS5zaG9wcGluZy1j/b21wYXJlLmNvbS9m/aWxlcy9wcm9kdWN0/cy9waG90b3MvbGNk/L2xhcmdlL0xHMzJM/UTYzMDA2TEFfMTAu/anBn",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "TCL 3-Series 32S335 (32\" 3-Series Roku)",
+      "pros": [
+        "Good color fidelity for the price",
+        "Roku smart platform (easy to use)"
+      ],
+      "cons": [
+        "Limited brightness",
+        "720p/HD resolution on many SKUs"
+      ],
+      "price": null,
+      "amazon_id": "B088S3V3R4",
+      "sources": [
+        "https://www.tomsguide.com/reviews/tcl-3-series-roku-tv-32s335",
+        "https://www.whathifi.com/reviews/tcl-32s335"
+      ],
+      "amazon_url": "https://www.amazon.com/TCL-32-720p-ROKU-Smart/dp/B088S3V3R4",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/S1WliEYxtOcsPLxv7ye2z553XhwlzUgO2OSZ1zlbh2g/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9jZG4u/bW9zLmNtcy5mdXR1/cmVjZG4ubmV0L3dL/eHc2ZnFmNERMRGZY/azNZOFM5NjkuanBn",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "Amazon Fire TV 32\" 2-Series (Amazon 2‑Series)",
+      "pros": [
+        "Very affordable",
+        "Fire TV platform with HDR10/HLG support"
+      ],
+      "cons": [
+        "Basic picture performance vs higher-end 32\" sets",
+        "720p on many models"
+      ],
+      "price": null,
+      "amazon_id": "B0CJDSNN4T",
+      "sources": [
+        "https://www.techradar.com/news/television/tv/10-best-32-inch-tvs-in-the-world-today-655660"
+      ],
+      "amazon_url": "https://www.amazon.com/amazon-fire-tv-32-inch-2-series-hd-smart-tv/dp/B0CJDSNN4T",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/LIfVf299S6YHYODA0Z1SGh9HdVFwNLjMbKdFbNXQ92c/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9tLm1l/ZGlhLWFtYXpvbi5j/b20vaW1hZ2VzL0kv/NjF4WlRmdTBkYkwu/anBn",
+      "resolver": "brave",
+      "valid": true
+    }
+  ],
+  "resolvedLinks": {
+    "https://www.techradar.com/news/television/tv/10-best-32-inch-tvs-in-the-world-today-655660": {
+      "title": "The best 32-inch TV: small screens for any budget",
+      "description": "Great 32-inch smart TVs for small but mighty viewing",
+      "image": "https://cdn.mos.cms.futurecdn.net/f9twaS8buEiUeqvebDLQMd-2000-80.jpg",
+      "url": "https://www.techradar.com/news/television/tv/10-best-32-inch-tvs-in-the-world-today-655660"
+    },
+    "https://www.techradar.com/televisions/lg-32lq6300-review-a-small-reliable-tv-that-packs-great-performance": {
+      "title": "LG 32LQ6300 review: a small, reliable TV that packs great performance",
+      "description": "A solid performing small screen TV",
+      "image": "https://cdn.mos.cms.futurecdn.net/GeTG3GS6nWmcs8VtzzdSg3-2560-80.jpg",
+      "url": "https://www.techradar.com/televisions/lg-32lq6300-review-a-small-reliable-tv-that-packs-great-performance"
+    },
+    "https://www.tomsguide.com/reviews/tcl-3-series-roku-tv-32s335": {
+      "title": "TCL 3-Series Roku TV (32S335) review",
+      "description": "An above average HD TV with Roku smarts",
+      "image": "https://cdn.mos.cms.futurecdn.net/gFrwSHX7hrNztMYJBsNFiT-2000-80.jpg",
+      "url": "https://www.tomsguide.com/reviews/tcl-3-series-roku-tv-32s335"
+    },
+    "https://www.whathifi.com/reviews/tcl-32s335": {
+      "title": "TCL 32S335 32-inch TV review",
+      "description": "Small, smart and really rather good for the money",
+      "image": "https://cdn.mos.cms.futurecdn.net/4aZE38U3bcJpAYvgHojkXJ-1920-80.jpg",
+      "url": "https://www.whathifi.com/reviews/tcl-32s335"
+    }
+  }
+}

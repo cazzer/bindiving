@@ -1,0 +1,125 @@
+{
+  "slug": "soldering-irons",
+  "query": "best soldering irons",
+  "title": "Best soldering irons | Bin Diving",
+  "description": "AI-dug recommendations for best soldering irons. Compare options and find one that fits.",
+  "dugAt": "2026-03-18T18:48:29.832Z",
+  "recommendations": [
+    {
+      "product_name": "Weller WE1010NA Digital Soldering Station",
+      "pros": [
+        "Good temperature stability",
+        "Wide tip compatibility",
+        "Professional-grade build"
+      ],
+      "cons": [
+        "Higher price than hobby kits",
+        "Replacement tips cost more"
+      ],
+      "price": null,
+      "amazon_id": "B077JDGY1J",
+      "sources": [
+        "https://powersof10.com/best-soldering-iron-for-electronics/",
+        "https://www.weller-tools.com/us/en/industrial-soldering/products/soldering-stations/we1010na-120v",
+        "https://www.toolcobber.com.au/soldering-station/"
+      ],
+      "amazon_url": "https://www.amazon.com/Weller-Digital-Soldering-Station-WE1010NA/dp/B077JDGY1J",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/Kkvg33O7xbb0DKxAEJ0-D6aXFWjCMTB7M7ZLVUNsFWw/rs:fit:0:180:1:0/g:ce/aHR0cHM6Ly9pLmVi/YXlpbWcuY29tL2lt/YWdlcy9nL2N3d0FB/ZVN3ZENWcEtRdGsv/cy1sMjI1LmpwZw",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "Hakko FX-888D / FX-888DX Digital Soldering Station",
+      "pros": [
+        "Reliable thermal recovery",
+        "Long-lasting build and parts support",
+        "Ergonomic iron and widely available tips"
+      ],
+      "cons": [
+        "Some users report occasional UI/controls issues on older FX-888D model",
+        "Counterfeit risk when buying from unauthorised sellers"
+      ],
+      "price": null,
+      "amazon_id": "B0D4DJW54S",
+      "sources": [
+        "https://www.tomshardware.com/best-picks/best-soldering-irons",
+        "https://hakkousa.com/fx888d-digital-soldering-station.html",
+        "https://buyitforlifeproducts.com/products/fx888d-23by-soldering-iron"
+      ],
+      "amazon_url": "https://www.amazon.com/Hakko-FX888DX-010BY-Digital-Soldering-Station/dp/B0D4DJW54S",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/DnhoS_Ey15qg_GIOZzsof7wo8vEkfmJL-8KproLV5MA/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly93d3cu/YmF0dGVyZmx5LmNv/bS9zaG9wL2ltYWdl/L2NhY2hlL2NhdGFs/b2cvaGFra28vRlg4/ODhELTE2QlkvRlg4/ODhELTE2QllfMS01/MDB4NTAwLmpwZw",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "X-Tronic Model 3020-XTS 75W Digital Soldering Station",
+      "pros": [
+        "Good value with extras (tips, brass cleaner)",
+        "Digital display and sleep function",
+        "High user ratings for price tier"
+      ],
+      "cons": [
+        "Not as durable as premium brands",
+        "Third-party tips/parts vary in quality"
+      ],
+      "price": null,
+      "amazon_id": "B01DGZFSNE",
+      "sources": [
+        "https://www.walmart.com/ip/531826825",
+        "https://amzchart.com/product-research/soldering-stations-13837391",
+        "https://thehuts-eastbourne.co.uk/soldering-irons/best-soldering-iron-with-temperature-control/"
+      ],
+      "amazon_url": "https://www.amazon.com/X-Tronic-3020-XTS-Digital-Display-Soldering/dp/B01DGZFSNE",
+      "gpt_azn": "B079VVHPPS",
+      "image_url": "https://imgs.search.brave.com/-fvD5kfCU46hqTAWfTvRqviWmDEYGnoFnA_hFdfv28g/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9tLm1l/ZGlhLWFtYXpvbi5j/b20vaW1hZ2VzL0kv/ODFkT1g4RElzM1Mu/anBn",
+      "resolver": "brave",
+      "valid": true
+    }
+  ],
+  "resolvedLinks": {
+    "https://powersof10.com/best-soldering-iron-for-electronics/": {
+      "title": "Best Soldering Iron For Electronics 2026: 10 Top-Rated Models Tested",
+      "description": "Find the best soldering iron for electronics work. I tested 10 top models including Weller, Hakko, and YIHUA. Complete buyer's guide with temperature control, power, and tip compatibility.",
+      "image": "https://powersof10.com/wp-content/uploads/2025/10/featured_image_e82ky25s.jpg",
+      "url": "https://powersof10.com/best-soldering-iron-for-electronics/"
+    },
+    "https://www.weller-tools.com/us/en/industrial-soldering/products/soldering-stations/we1010na-120v": {
+      "title": "WE1010NA 120V",
+      "description": "1-channel-soldering station with WEP 70 soldering iron and PH 70 safety rest",
+      "image": "https://www.weller-tools.com/sites/default/files/styles/social_media/public/products/images/2026-02/WE_1010.jpg?itok=eGEPffMy",
+      "url": "https://www.weller-tools.com/us/en/industrial-soldering/products/soldering-stations/we1010na-120v"
+    },
+    "https://www.toolcobber.com.au/soldering-station/": {
+      "title": "Soldering Station Machines — Tool Cobber",
+      "description": "The best soldering station units in Australia offer precise temperature control, desoldering, and reassuring safety—crucial for home enthusiasts and trade pros.",
+      "image": "https://www.toolcobber.com.au/wp-content/uploads/2024/04/Soldering-Station-Machines-1.jpg",
+      "url": "https://www.toolcobber.com.au/soldering-station/"
+    },
+    "https://www.tomshardware.com/best-picks/best-soldering-irons": {
+      "title": "Best Soldering Irons and Stations 2026",
+      "description": "From inexpensive, beginner-friendly soldering irons to soldering guns and rework stations.",
+      "image": "https://cdn.mos.cms.futurecdn.net/dfqDs3rVtAxQixQ9DM898X-2560-80.jpg",
+      "url": "https://www.tomshardware.com/best-picks/best-soldering-irons"
+    },
+    "https://buyitforlifeproducts.com/products/fx888d-23by-soldering-iron": {
+      "title": "FX888D-23BY Soldering Iron Review 7.5/10 | Buy It For Life",
+      "description": "FX888D-23BY Soldering Iron by Hakko. BIFL Score: 7.5/10. The Hakko FX888D is a legitimate BIFL soldering iron with exceptional durability and...",
+      "image": "https://m.media-amazon.com/images/I/51KMr6jzhmL._SL1024_.jpg",
+      "url": "https://www.buyitforlifeproducts.com/products/fx888d-23by-soldering-iron"
+    },
+    "https://www.walmart.com/ip/531826825": {
+      "title": "X-Tronic 3020-XTS 75 W Digital Soldering Iron Station w/ Sleep Function, C°/F°, 5 Extra Tips & More - Walmart.com",
+      "description": "Buy X-Tronic 3020-XTS 75 W Digital Soldering Iron Station w/ Sleep Function, C°/F°, 5 Extra Tips & More at Walmart.com",
+      "image": "https://i5.walmartimages.com/seo/X-Tronic-3020-XTS-75-W-Digital-Soldering-Iron-Station-w-Sleep-Function-C-F-5-Extra-Tips-More_a583bf10-1f54-4035-85e1-380f33063535.bee1f5292f1e85d3eadb0d70374c78a4.jpeg",
+      "url": "https://www.walmart.com/ip/X-Tronic-3020-XTS-75-W-Digital-Soldering-Iron-Station-w-Sleep-Function-C-F-5-Extra-Tips-More/531826825"
+    },
+    "https://amzchart.com/product-research/soldering-stations-13837391": {
+      "title": "\"Soldering Stations\" in \"Soldering & Brazing Equipment\" Market & Product Research on Amazon | AmzChart",
+      "description": "",
+      "image": "",
+      "url": "https://amzchart.com/product-research/soldering-stations-13837391"
+    }
+  }
+}

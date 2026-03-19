@@ -1,0 +1,92 @@
+{
+  "slug": "tablecloths",
+  "query": "best tablecloths",
+  "title": "Best tablecloths | Bin Diving",
+  "description": "AI-dug recommendations for best tablecloths. Compare options and find one that fits.",
+  "dugAt": "2026-03-18T17:17:28.887Z",
+  "recommendations": [
+    {
+      "product_name": "Hotel Tablecloth (Williams Sonoma)",
+      "pros": [
+        "100% tight-weave cotton",
+        "Structured drape and mitered corners"
+      ],
+      "cons": [
+        "Higher price vs synthetic options",
+        "May require ironing for perfect look"
+      ],
+      "price": "$59.95 - $99.95",
+      "amazon_id": "B01G2R5EBO",
+      "sources": [
+        "https://www.williams-sonoma.com/products/hotel-tablecloth/"
+      ],
+      "amazon_url": "https://www.amazon.com/Williams-Sonoma-Hotel-Tablecloth-Pale-Lilac/dp/B01G2R5EBO",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/GLPY2Lwt1ZG0VKWG5AnduzeKotNigH73vdtEcXEWHP0/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly93d3cu/Zm9vZGFuZHdpbmUu/Y29tL3RobWIvN2pt/VFRxMFhha2daTXRB/di1rTURxbHg3WUNJ/PS9maXQtaW4vMTUw/MHgyNjY3L2ZpbHRl/cnM6bm9fdXBzY2Fs/ZSgpOm1heF9ieXRl/cygxNTAwMDApOnN0/cmlwX2ljYygpOmZv/cm1hdCh3ZWJwKS9m/YXctZmF3LXdpbGxp/YW1zLXNvbm9tYS1o/b3RlbC10YWJsZWNs/b3RoLWplbm5pZmVy/LXp5bWFuLTAxLTMx/ODg4NjE5YzdlMzQz/MWE5ZDJiZjE0MzE3/ZTRlOGU3LmpwZWc",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "Organic Cotton Casual Tablecloth (Pottery Barn)",
+      "pros": [
+        "100% organic cotton",
+        "Machine washable, durable drape"
+      ],
+      "cons": [
+        "Prone to stains if not treated quickly",
+        "Higher price point"
+      ],
+      "price": "$99.50",
+      "amazon_id": "B00ODL17UY",
+      "sources": [
+        "https://www.potterybarn.com/products/organic-cotton-casual-tablecloth/"
+      ],
+      "amazon_url": "https://www.amazon.com/Pottery-Barn-CLASSIC-THREAD-Set-Queen/dp/B00ODL17UY",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/tvQvFqqam7JH2OC9q9f9FcO2p_GTiYorcCCgrTYX1F0/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9pLmVi/YXlpbWcuY29tL2lt/YWdlcy9nL1FKb0FB/ZVN3bDhsb1ZJQkwv/cy1sNDAwLndlYnA",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "Utopia Kitchen Stretchable Spandex Tablecloth",
+      "pros": [
+        "Wrinkle- and stain-resistant; fits multiple table sizes",
+        "Machine washable and inexpensive"
+      ],
+      "cons": [
+        "Not a natural fiber (spandex/poly)",
+        "Less formal look than linen or cotton"
+      ],
+      "price": null,
+      "amazon_id": "B081GQ8MHG",
+      "sources": [
+        "https://www.amazon.com/Utopia-Kitchen-Stretchable-Tablecloth-Resistant/dp/B081GQ8MHG"
+      ],
+      "amazon_url": "https://www.amazon.com/Utopia-Kitchen-Stretchable-Tablecloth-Resistant/dp/B081GQ8MHG",
+      "gpt_azn": "B081GQ8MHG",
+      "image_url": "https://imgs.search.brave.com/xoTxeaF9exWazDHyTsIPFbEU1DXwLkRs2A53Z1YD-TI/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9pbWFn/ZXMtbmEuc3NsLWlt/YWdlcy1hbWF6b24u/Y29tL2ltYWdlcy9J/LzYxQnd5YktJNlZM/LmpwZw",
+      "resolver": "brave",
+      "valid": true
+    }
+  ],
+  "resolvedLinks": {
+    "https://www.williams-sonoma.com/products/hotel-tablecloth/": {
+      "title": "Hotel Tablecloth",
+      "description": "",
+      "image": "https://assets.wsimgs.com/wsimgs/ab/images/dp/wcm/202547/0189/hotel-tablecloth-d.jpg",
+      "url": "/products/hotel-tablecloth/"
+    },
+    "https://www.potterybarn.com/products/organic-cotton-casual-tablecloth/": {
+      "title": "Organic Cotton Casual Tablecloth",
+      "description": "",
+      "image": "https://assets.pbimgs.com/pbimgs/ab/images/dp/wcm/202552/0016/open-box-organic-cotton-casual-tablecloth-m.jpg",
+      "url": "/products/organic-cotton-casual-tablecloth/"
+    },
+    "https://www.amazon.com/Utopia-Kitchen-Stretchable-Tablecloth-Resistant/dp/B081GQ8MHG": {
+      "title": "Amazon.com: Utopia Kitchen Spandex Tablecloth 2 Pack [6FT, Black] Tight, Fitted, Washable and Wrinkle Resistant Stretch Rectangular Patio Table Cover for Event, Wedding, Banquet & Parties [72Lx30Wx30H Inch] : Home & Kitchen",
+      "description": "",
+      "image": "",
+      "url": "https://www.amazon.com/Utopia-Kitchen-Stretchable-Tablecloth-Resistant/dp/B081GQ8MHG"
+    }
+  }
+}

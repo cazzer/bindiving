@@ -1,0 +1,134 @@
+{
+  "slug": "pet-cameras",
+  "query": "best pet cameras",
+  "title": "Best pet cameras | Bin Diving",
+  "description": "AI-dug recommendations for best pet cameras. Compare options and find one that fits.",
+  "dugAt": "2026-03-18T19:10:06.857Z",
+  "recommendations": [
+    {
+      "product_name": "Furbo 360° Dog Camera",
+      "pros": [
+        "360° pan for full-room coverage",
+        "Treat dispenser and 2-way audio",
+        "Pet-focused alerts/behavior detection"
+      ],
+      "cons": [
+        "Subscription needed for some advanced features",
+        "Higher price vs basic cams",
+        "Treat size limits"
+      ],
+      "price": null,
+      "amazon_id": "B09GDQZLD1",
+      "sources": [
+        "https://www.safewise.com/furbo-360-dog-camera-review/",
+        "https://dogtechhq.com/furbo-dog-camera-review/",
+        "https://www.forbes.com/sites/forbes-personal-shopper/article/best-pet-cameras/"
+      ],
+      "amazon_url": "https://www.amazon.com/Furbo-Camera-with-360%C2%B0-View/dp/B09GDQZLD1",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/PErwmVpVnVpeTTT471u1gz6BQgLfWFsYVDAqskWzV6k/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9tLm1l/ZGlhLWFtYXpvbi5j/b20vaW1hZ2VzL0kv/MzFYUkpnR1VyLUwu/anBn",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "Wyze Cam Pan v3",
+      "pros": [
+        "Affordable with pan/tilt and motion tracking",
+        "Color night vision and two-way audio",
+        "Supports local storage (microSD)"
+      ],
+      "cons": [
+        "Some advanced features behind subscription",
+        "Indoor/outdoor caveats depending on model",
+        "App notifications can be chatty"
+      ],
+      "price": null,
+      "amazon_id": "B0B9TWY11Q",
+      "sources": [
+        "https://why.wyze.com/best-camera-to-monitor-pets-remotely-with-live-streaming-and-talk-feature-cam-pan-v3",
+        "https://www.security.org/security-cameras/best/pet/",
+        "https://www.wired.com/gallery/best-pet-cameras/"
+      ],
+      "amazon_url": "https://www.amazon.com/WYZE-IP65-Rated-Security-Compatible-Assistant/dp/B0B9TWY11Q",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/6VaDFMpD88aPZ3h-VrE3nkrpwz2F3BzuwuIgA18kjVo/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9nbG9i/YWwud3l6ZS5jb20v/Y2RuL3Nob3AvcHJv/ZHVjdHMvQ2FtUGFu/UHJvX0Zyb250XzAw/MDEuanBnP3Y9MTY3/NTY3MDE2MiZ3aWR0/aD0xNDQ1",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "eufy Pet Camera D605",
+      "pros": [
+        "Treat-dispensing with anti-clog design",
+        "Local storage and no-fee operation for many features",
+        "Pet-detection alerts and pan functionality"
+      ],
+      "cons": [
+        "Treat size limits; may not suit very large treats",
+        "Some features depend on app ecosystem",
+        "Older model compared with newest AI cameras"
+      ],
+      "price": null,
+      "amazon_id": "B099JYHTL5",
+      "sources": [
+        "https://thesmartsnout.com/2026/02/11/eufy-pet-camera-review-2026-privacy-setup/",
+        "https://bepug.com/eufy-pet-dog-camera-d605-review/",
+        "https://support.nz.eufy.com/support/solutions/articles/154000241362-introducing-eufy-pet-camera-d605"
+      ],
+      "amazon_url": "https://www.amazon.com/eufy-Dispenser-270-Degree-Rotatable-Tracking/dp/B099JYHTL5",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/HJHpqAetGy6pmmG89YCH_Wh8Ei51r4SmWEsYLay7kiE/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9pLmVi/YXlpbWcuY29tL2lt/YWdlcy9nL0RHOEFB/T1N3S01CakFGRmwv/cy1sNTAwLndlYnA",
+      "resolver": "brave",
+      "valid": true
+    }
+  ],
+  "resolvedLinks": {
+    "https://www.safewise.com/furbo-360-dog-camera-review/": {
+      "title": "Furbo 360° Dog Camera Review 2025 | SafeWise",
+      "description": "The Furbo 360° Dog Camera is part smart feeder, part security camera. It claims to do a lot, so we put it to the test and ended up loving it.",
+      "image": "https://www.safewise.com/app/uploads/2022/07/Furbo-featured-1.jpg",
+      "url": "https://www.safewise.com/furbo-360-dog-camera-review/"
+    },
+    "https://dogtechhq.com/furbo-dog-camera-review/": {
+      "title": "Furbo 360 Dog Camera Review (2026): Smarter Monitoring, Treat Tossing & Behavior Alerts",
+      "description": "Furbo 360 Dog Camera review for 2026. See how its AI alerts, 360° view, treat tossing, and behavior monitoring perform in real-world use for dog owners.",
+      "image": "",
+      "url": "https://dogtechhq.com/furbo-360-dog-camera-review/"
+    },
+    "https://why.wyze.com/best-camera-to-monitor-pets-remotely-with-live-streaming-and-talk-feature-cam-pan-v3": {
+      "title": "Smart Cameras | Pet Cams, Baby Monitoring, Security | Wyze",
+      "description": "High-resolution video (1080p to 2.5K), AI features, and seamless integration with smart assistants. Indoor/outdoor options. Discover easy plug-in, wireless, video doorbells, and floodlight cams.",
+      "image": "http://www.wyze.com/cdn/shop/collections/smart-cameras-4929231.webp?v=1773454873",
+      "url": "https://www.wyze.com/collections/smart-cameras"
+    },
+    "https://www.security.org/security-cameras/best/pet/": {
+      "title": "The Best Pet Camera of 2026 | Pet Cameras for Dogs, Cats & More!",
+      "description": "ADT's Google Nest cameras top the list for pet monitoring, offering automations and alerts. Ring Stick Up Cam excels with Alexa integration, while Wyze Cam is budget-friendly.",
+      "image": "https://www.security.org/app/uploads/2021/07/Best-for-Pets.jpg",
+      "url": "https://www.security.org/security-cameras/best/pet/"
+    },
+    "https://www.wired.com/gallery/best-pet-cameras/": {
+      "title": "Here Are the Best WIRED-Tested Pet Cameras for Helicopter Pet Parents",
+      "description": "Whether you’re near or far, keep an eye on your fur baby with our favorite pet cameras.",
+      "image": "https://media.wired.com/photos/6961c5bf88957c47d63b2b20/191:100/w_1280,c_limit/The%20Best%20Pet%20Cameras%20for%20Dogs%20and%20Cats2_.png",
+      "url": "https://www.wired.com/gallery/best-pet-cameras/"
+    },
+    "https://thesmartsnout.com/2026/02/11/eufy-pet-camera-review-2026-privacy-setup/": {
+      "title": "Eufy Pet Camera Review: Setup, Privacy Settings, and 2026 Performance - The Smart Snout",
+      "description": "Eufy Pet Camera Review (2026): A deep dive into the D605's treat-tossing performance, 4K AI tracking, and the latest privacy settings for subscription-free monitoring.",
+      "image": "https://thesmartsnout.com/wp-content/uploads/2026/02/eufy-pet-camera-review-setup-privacy-settings-and-2026-performance.png",
+      "url": "https://thesmartsnout.com/2026/02/11/eufy-pet-camera-review-2026-privacy-setup/"
+    },
+    "https://bepug.com/eufy-pet-dog-camera-d605-review/": {
+      "title": "Eufy Pet Dog Camera D605 Review: Features & Performance",
+      "description": "Discover the Eufy Pet Dog Camera D605, a smart pet monitoring system with treat tossing, motion tracking, and 360-degree view.",
+      "image": "https://bepug.com/wp-content/uploads/2025/03/eufyreview.jpg",
+      "url": "https://bepug.com/eufy-pet-dog-camera-d605-review/"
+    },
+    "https://support.nz.eufy.com/support/solutions/articles/154000241362-introducing-eufy-pet-camera-d605": {
+      "title": "Introducing eufy Pet Camera D605",
+      "description": "eufy’s mission of making the world a better place through its innovative products has recently reached another milestone with the launch of its brand new eufy Pet Care series called the Pet Camera D605. The eufy Pet Camera D605 is designed to cre...",
+      "image": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/154028473491/logo/O3c1JyX4ZsfLt6z9ki_WF4_Mp_05ELI45g.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=AKIAS6FNSMY2XLZULJPI%2F20260316%2Fus-east-1%2Fs3%2Faws4_request&amp;X-Amz-Date=20260316T094617Z&amp;X-Amz-Expires=604800&amp;X-Amz-SignedHeaders=host&amp;X-Amz-Signature=56a6e8d97f3dfc9e1bc99c5cc752901ddfe50ad7294c81b900f57d5e3da9c592",
+      "url": "https://support.nz.eufy.com/support/solutions/articles/154000241362-introducing-eufy-pet-camera-d605"
+    }
+  }
+}

@@ -1,0 +1,122 @@
+{
+  "slug": "milk-frothers",
+  "query": "best milk frothers",
+  "title": "Best milk frothers | Bin Diving",
+  "description": "AI-dug recommendations for best milk frothers. Compare options and find one that fits.",
+  "dugAt": "2026-03-18T17:15:00.969Z",
+  "recommendations": [
+    {
+      "product_name": "Breville The Milk Café BMF600XL",
+      "pros": [
+        "Large 25oz capacity",
+        "Adjustable heat and texture settings"
+      ],
+      "cons": [
+        "Higher price point",
+        "Bulky countertop footprint"
+      ],
+      "price": null,
+      "amazon_id": "B004RCNJ9Q",
+      "sources": [
+        "https://www.breville.com/en-us/product/bmf600",
+        "https://www.foodnetwork.com/how-to/packages/shopping/product-reviews/best-milk-frother",
+        "https://caffeinemaker.com/products/breville-cafe-milk-frother-bmf600xl-stainless-steel"
+      ],
+      "amazon_url": "https://www.amazon.com/Breville-BMF600XL-Milk-Cafe-Frother/dp/B004RCNJ9Q",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/HGmFKLp9w0kqkHjhhrmspGvKqpwusMkNuFC0BwTskYA/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly90YXJn/ZXQuc2NlbmU3LmNv/bS9pcy9pbWFnZS9U/YXJnZXQvR1VFU1Rf/MjljMWUyZjEtODhj/MS00YmJlLWJhZDAt/MTBjMGE3ODkxMDQw/P3dpZD04MDAmaGVp/PTgwMCZxbHQ9ODAm/Zm10PXBqcGVn",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "Nespresso Aeroccino 4",
+      "pros": [
+        "Simple one-touch operation",
+        "Hot and cold froth options"
+      ],
+      "cons": [
+        "Some users report durability issues",
+        "Limited control vs manual steam wand"
+      ],
+      "price": null,
+      "amazon_id": "B0BBH5B7MD",
+      "sources": [
+        "https://www.amazon.it/Nespresso-Aeroccino-4-Montalatte/dp/B0B462PH88",
+        "https://www.bonappetit.com/story/best-milk-frothers",
+        "https://www.bestbuy.com/site/nespresso-aeroccino-4-milk-frother-chrome/5897205.p"
+      ],
+      "amazon_url": "https://www.amazon.com/Nespresso-Aeroccino-4-Milk-Frother/dp/B0BBH5B7MD",
+      "gpt_azn": "B0B462PH88",
+      "image_url": "https://imgs.search.brave.com/H4FFRU2zZfQEbzlTrpt6GhzHVH3ACSKtvTbkNMTDFPo/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9hc3Nl/dHMud3NpbWdzLmNv/bS93c2ltZ3Mvcmsv/aW1hZ2VzL2RwL3dj/bS8yMDI1NDMvMDAw/NC9uZXNwcmVzc28t/YWVyb2NjaW5vLTQt/bWlsay1mcm90aGVy/LWouanBn",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "Secura 4-in-1 Automatic Electric Milk Frother (detachable jug models)",
+      "pros": [
+        "Multiple hot/cold programs",
+        "Quiet, quick operation"
+      ],
+      "cons": [
+        "Some models have small max capacity",
+        "Build quality varies by model"
+      ],
+      "price": null,
+      "amazon_id": "B07H195F48",
+      "sources": [
+        "https://bestviewsreviews.com/milk-frothers/secura-automatic-electric-frother-warmer-250ml/",
+        "https://www.bestchoice.com/secura-milk-frother-electric",
+        "https://www.hunker.com/13772880/best-milk-frothers-on-amazon"
+      ],
+      "amazon_url": "https://www.amazon.com/Secura-Automatic-Chocolate-Stainless-Dishwasher/dp/B07H195F48",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/VHj3aQvjta53G0RbHSQPqYzA1gT95Fet1unauG9ivTc/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9pNS53/YWxtYXJ0aW1hZ2Vz/LmNvbS9hc3IvODQ4/ZjYxZmEtOTEzMS00/MmNiLWJlZTgtNzJk/Mjc3N2RjOTg3LmFj/MTU2NDcxM2I2Njk2/ZTE2ZDVlMWFhYTU1/OTk0Zjg0LmpwZWc_/b2RuSGVpZ2h0PTQ0/OCZvZG5XaWR0aD00/NDgmb2RuQmc9RkZG/RkZG",
+      "resolver": "brave",
+      "valid": true
+    }
+  ],
+  "resolvedLinks": {
+    "https://www.breville.com/en-us/product/bmf600": {
+      "title": "The Milk Cafe™ Frother | Breville (US)",
+      "description": "Level up your coffee experience with our milk frothing accessories. Perfect your lattes and cappuccinos effortlessly, and explore barista-quality frothing at home.",
+      "image": "https://assets.breville.com/cdn-cgi/image/width=1300,format=auto/BMF600/BMF600BSS/pdp_1300px.png?pdp",
+      "url": "https://www.breville.com/en-us/product/bmf600"
+    },
+    "https://www.foodnetwork.com/how-to/packages/shopping/product-reviews/best-milk-frother": {
+      "title": "4 Best Milk Frothers of 2026, Tested and Reviewed",
+      "description": "We tested countertop and handheld models to find the best milk frothers.",
+      "image": "https://food.fnr.sndimg.com/content/dam/images/food/fullset/2023/2/24/FN-ProductTestingImages-6-MILK%20FROTHER-v1.png.rend.hgtvcom.616.462.85.suffix/1677257076248.webp",
+      "url": "https://www.foodnetwork.com/how-to/packages/shopping/product-reviews/best-milk-frother"
+    },
+    "https://caffeinemaker.com/products/breville-cafe-milk-frother-bmf600xl-stainless-steel": {
+      "title": "Breville Cafe Milk Frother BMF600XL - Stainless Steel",
+      "description": "Indulge in cafe-quality drinks at home with the Breville Cafe Milk Frother. This stainless steel frother creates silky, rich foam for your favorite beverages.",
+      "image": "https://cdn.freshstore.cloud/offer/images/7244/2899/c/breville-bmf600xl-cafe-milk-frother-2-stainless-steel-2899-original.jpg",
+      "url": "https://caffeinemaker.com/products/breville-cafe-milk-frother-bmf600xl-stainless-steel"
+    },
+    "https://www.amazon.it/Nespresso-Aeroccino-4-Montalatte/dp/B0B462PH88": {
+      "title": "NESPRESSO Aeroccino 4, Montalatte elettrico per cappuccino, 4 funzioni: schiuma calda leggera o densa, schiuma fredda e latte caldo, colore Nero : Amazon.it: Casa e cucina",
+      "description": "",
+      "image": "",
+      "url": "https://www.amazon.it/Nespresso-Aeroccino-4-Montalatte/dp/B0B462PH88"
+    },
+    "https://www.bonappetit.com/story/best-milk-frothers": {
+      "title": "The Best Milk Frothers for Creamy Cappuccinos and Luxurious Lattes",
+      "description": "For barista-quality clouds of foam at home.",
+      "image": "https://assets.bonappetit.com/photos/68e5250a5bb19e4eab1a530b/16:9/w_1280,c_limit/10.02_BA_Best_milk_frothers_lede%20(2).jpg",
+      "url": "https://www.bonappetit.com/story/best-milk-frothers"
+    },
+    "https://www.bestchoice.com/secura-milk-frother-electric": {
+      "title": "",
+      "description": "",
+      "image": "",
+      "url": "https://www.bestchoice.com/secura-milk-frother-electric"
+    },
+    "https://www.hunker.com/13772880/best-milk-frothers-on-amazon": {
+      "title": "The Best Milk Frothers On Amazon - Hunker",
+      "description": "Attention coffee lovers! Perfect for lattes, cappuccinos, and macchiatos, these are the best milk frothers on Amazon.",
+      "image": "https://www.hunker.com/hunker/best-milk-frothers-on-amazon/d809ff4f8fcf42eb8d2ef2c19dc25aae.jpeg",
+      "url": "https://www.hunker.com/13772880/best-milk-frothers-on-amazon/"
+    }
+  }
+}

@@ -1,0 +1,137 @@
+{
+  "slug": "macbooks",
+  "query": "best macbooks",
+  "title": "Best macbooks | Bin Diving",
+  "description": "AI-dug recommendations for best macbooks. Compare options and find one that fits.",
+  "dugAt": "2026-03-18T19:31:17.892Z",
+  "recommendations": [
+    {
+      "product_name": "Apple 2025 MacBook Air 13-inch (M4)",
+      "pros": [
+        "Excellent performance for everyday use",
+        "Very long battery life",
+        "Lightweight and portable"
+      ],
+      "cons": [
+        "Limited ports",
+        "Base storage may be small for some users"
+      ],
+      "price": "$799",
+      "amazon_id": "B0DZDC3WW5",
+      "sources": [
+        "https://www.laptopmag.com/deals/laptops/macbooks/laptop-mags-macbook-air-m3",
+        "https://www.yahoo.com/lifestyle/articles/apple-newest-13-inch-macbook-120000723.html",
+        "https://www.bitgree.com/p/e/amazon-com/146434-apple-2025-macbook-air-13-inch-laptop-with-m4-chip-built-for-apple-intelligence-136-inch-liquid-retina-display-16gb-unified-memory-256gb-ssd-storage-12mp-center-stage-camera-touch-id-starlight"
+      ],
+      "amazon_url": "https://www.amazon.com/Apple-2025-MacBook-13-inch-Laptop/dp/B0DZDC3WW5",
+      "gpt_azn": "B0DZDCPMGK",
+      "image_url": "https://imgs.search.brave.com/2p-i_Bfs5vtphrryuaJ9mmUF8xbeQdcaRtChAc8xPWA/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9tLm1l/ZGlhLWFtYXpvbi5j/b20vaW1hZ2VzL0kv/NzFpZ2pGeXI1Nkwu/anBn",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "Apple 14-inch MacBook Pro (M4 Pro, 2025)",
+      "pros": [
+        "Powerful performance for pro workloads",
+        "Excellent Liquid Retina XDR display",
+        "Good balance of ports and portability"
+      ],
+      "cons": [
+        "Higher price than Air",
+        "Heavier than Air models"
+      ],
+      "price": null,
+      "amazon_id": "B0DLHY2BJ6",
+      "sources": [
+        "https://www.apple.com/shop/buy-mac/macbook-pro/14-inch-m3",
+        "https://www.tomsguide.com/computing/macbooks/amazon-is-selling-the-macbook-pro-m4-for-lowest-price-yet-get-one-now",
+        "https://www.t3.com/features/best-macbook"
+      ],
+      "amazon_url": "https://www.amazon.com/Apple-MacBook-Laptop-12-core-16-core/dp/B0DLHY2BJ6",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/uJ6Sha_glEITAcyf2NS4fEFfd6ZSUZF9zqrGNMWnXu4/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9pLnBj/bWFnLmNvbS9pbWFn/ZXJ5L3Jldmlld3Mv/MDZWd1dXUDF1a1NX/S1NnbkFBVHpvUk0t/MTUtaGVyby1pbWFn/ZS1nYWxsZXJ5LmZp/dF9zY2FsZS5zaXpl/XzQwMHgyMjUudjE3/NjA5ODkzNDguanBn",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "Apple 16-inch MacBook Pro (M3 Max)",
+      "pros": [
+        "Top-tier performance for video/editing/3D",
+        "Large high-quality Liquid Retina XDR display",
+        "Excellent sustained performance and thermal design"
+      ],
+      "cons": [
+        "Very expensive",
+        "Bulky for frequent travel"
+      ],
+      "price": null,
+      "amazon_id": "B0CM5J4X7W",
+      "sources": [
+        "https://www.macrumors.com/2024/06/18/amazon-macbook-pro-m3/",
+        "https://www.tomsguide.com/best-picks/best-laptops-for-engineering-students",
+        "https://www.macrumors.com/2024/01/16/apples-m3-macbook-pro-low-prices/"
+      ],
+      "amazon_url": "https://www.amazon.com/Apple-MacBook-Laptop-16%E2%80%91core-40%E2%80%91core/dp/B0CM5J4X7W",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/iTPed6l97jpzYgkpwh6E4ZEwudP07pipVj6_s5mkxho/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly93d3cu/cHJvdmlkZW9jb2Fs/aXRpb24uY29tL3dw/LWNvbnRlbnQvdXBs/b2Fkcy9TeXN0ZW0t/SW5mb3JtYXRpb24t/MDAwMjI2LU0zLTJA/MnguanBn",
+      "resolver": "brave",
+      "valid": true
+    }
+  ],
+  "resolvedLinks": {
+    "https://www.laptopmag.com/deals/laptops/macbooks/laptop-mags-macbook-air-m3": {
+      "title": "Apple's M3 MacBook Air is rated Laptop Mag's best laptop of the year and it's now $200 off",
+      "description": "Save $200 on the M3 MacBook Air which we named the best laptop of 2024—period.",
+      "image": "https://cdn.mos.cms.futurecdn.net/CgiJceW5WNLuA5b4aqdwqh-2000-80.jpg",
+      "url": "https://www.laptopmag.com/deals/laptops/macbooks/laptop-mags-macbook-air-m3"
+    },
+    "https://www.yahoo.com/lifestyle/articles/apple-newest-13-inch-macbook-120000723.html": {
+      "title": "Apple’s Newest 13-Inch MacBook Just Hit Its Lowest Price Ever on Amazon",
+      "description": "Amazon has marked down Apple’s 2025 MacBook Air 13-inch laptop with M4 chip by $200. It’s a price drop from $999 to $799. See all the specs and shop it here.",
+      "image": "https://s.yimg.com/ny/api/res/1.2/QsWE8WPpfLMNGBVWJ_.iBg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU7Y2Y9d2VicA--/https://media.zenfs.com/en/prevention_ecomm_articles_120/7c34f5e287ecdd1f08fbb847c704fad4",
+      "url": "https://www.yahoo.com/lifestyle/articles/apple-newest-13-inch-macbook-120000723.html"
+    },
+    "https://www.bitgree.com/p/e/amazon-com/146434-apple-2025-macbook-air-13-inch-laptop-with-m4-chip-built-for-apple-intelligence-136-inch-liquid-retina-display-16gb-unified-memory-256gb-ssd-storage-12mp-center-stage-camera-touch-id-starlight": {
+      "title": "Apple 2025 MacBook Air 13-inch Laptop with M4 chip: Built for Apple Intelligence, 13.6-inch Liquid Retina Display, 16GB Unified Memory, 256GB SSD Storage, 12MP Center Stage Camera, Touch ID; Starlight - Bitgree",
+      "description": "",
+      "image": "https://www.bitgree.com/p/146434/img/FReugqtQGpxkCkFqFN2Q4vcT0PaqTdEs.jpg",
+      "url": "https://www.bitgree.com/p/e/amazon-com/146434-apple-2025-macbook-air-13-inch-laptop-with-m4-chip-built-for-apple-intelligence-136-inch-liquid-retina-display-16gb-unified-memory-256gb-ssd-storage-12mp-center-stage-camera-touch-id-starlight"
+    },
+    "https://www.apple.com/shop/buy-mac/macbook-pro/14-inch-m3": {
+      "title": "Buy MacBook Pro",
+      "description": "Get a new MacBook Pro laptop with M5, M5 Pro, or M5 Max from only $141.58 per month. Built for AI. Up to 24-hour battery life. Buy now at apple.com.",
+      "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/mac-macbook-pro-size-unselect-202601-gallery-1_FMT_WHH?wid=1200&hei=630&fmt=jpeg&qlt=95&.v=1767812219502",
+      "url": "https://www.apple.com/shop/buy-mac/macbook-pro"
+    },
+    "https://www.tomsguide.com/computing/macbooks/amazon-is-selling-the-macbook-pro-m4-for-lowest-price-yet-get-one-now": {
+      "title": "Amazon is selling the MacBook Pro M4 for lowest price yet — get one now!",
+      "description": "Save $300 thanks to this awesome deal",
+      "image": "https://cdn.mos.cms.futurecdn.net/qoymguJMXW6muwKKpBa6xA-2000-80.jpg",
+      "url": "https://www.tomsguide.com/computing/macbooks/amazon-is-selling-the-macbook-pro-m4-for-lowest-price-yet-get-one-now"
+    },
+    "https://www.t3.com/features/best-macbook": {
+      "title": "Best MacBook 2026: Apple's best laptops, expert reviewed and ranked",
+      "description": "The best MacBooks available, reviewed and ranked",
+      "image": "https://cdn.mos.cms.futurecdn.net/4ugdQRP4qV3W5ZEkeiHvEf-1920-80.jpg",
+      "url": "https://www.t3.com/features/best-macbook"
+    },
+    "https://www.macrumors.com/2024/06/18/amazon-macbook-pro-m3/": {
+      "title": "Amazon Takes Up to $350 Off M3 MacBook Pros, Starting at $1,399",
+      "description": "Amazon today has a selection of M3 MacBook Pro models on sale at steep discounts, including both 14-inch and 16-inch devices. Most of these computers are in stock and ready to be delivered as soon as the end of this week, and none of the deals below require a coupon code in order to see the discounted price. Note: MacRumors is an affiliate partner with Amazon. When you click a link and make a purchase, we may receive a small payment, which helps us keep the site running.",
+      "image": "https://images.macrumors.com/t/2UltHwnR_lZ40FAfdk2_CTwcyfM=/2000x/article-new/2024/03/m3-macbook-pro-new-blue.jpg",
+      "url": "https://www.macrumors.com/2024/06/18/amazon-macbook-pro-m3/"
+    },
+    "https://www.tomsguide.com/best-picks/best-laptops-for-engineering-students": {
+      "title": "Best laptops for engineering students in 2026: Our top picks tested and rated",
+      "description": "These are the best laptops for engineering students we recommend",
+      "image": "https://cdn.mos.cms.futurecdn.net/sEh32KCDXP8aSTmojUTnKD-2560-80.jpg",
+      "url": "https://www.tomsguide.com/best-picks/best-laptops-for-engineering-students"
+    },
+    "https://www.macrumors.com/2024/01/16/apples-m3-macbook-pro-low-prices/": {
+      "title": "Apple's M3 MacBook Pro Gets All-Time Low Prices on Amazon, Starting at $1,399",
+      "description": "Today we're tracking a collection of discounts on Apple's M3 14-inch and 16-inch MacBook Pro, all of which can be found on Amazon. Note: MacRumors is an affiliate partner with Amazon. When you click a link and make a purchase, we may receive a small payment, which helps us keep the site running. 14-inch MacBook Pro  Amazon has the 8-Core, 512GB M3 14-inch MacBook Pro for $1,399.00 in Space Gray, down from $1,599.00.",
+      "image": "https://images.macrumors.com/t/oJJ29_JDaeK4p98oIB-4rkIiPs8=/2500x/article-new/2023/10/m3-macbook-pro-blue.jpg",
+      "url": "https://www.macrumors.com/2024/01/16/apples-m3-macbook-pro-low-prices/"
+    }
+  }
+}

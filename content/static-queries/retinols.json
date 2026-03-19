@@ -1,0 +1,119 @@
+{
+  "slug": "retinols",
+  "query": "best retinols",
+  "title": "Best retinols | Bin Diving",
+  "description": "AI-dug recommendations for best retinols. Compare options and find one that fits.",
+  "dugAt": "2026-03-18T18:00:17.366Z",
+  "recommendations": [
+    {
+      "product_name": "Paula’s Choice Clinical 1% Retinol Treatment",
+      "pros": [
+        "Clinical-strength 1% retinol",
+        "Dermatologist-recommended formula",
+        "Slow-release delivery to reduce irritation"
+      ],
+      "cons": [
+        "Can be strong for beginners",
+        "May cause dryness/peeling initially"
+      ],
+      "price": "$52.00",
+      "amazon_id": "B00L5O2ZXK",
+      "sources": [
+        "https://www.forbes.com/sites/forbes-personal-shopper/article/best-retinol-cream//",
+        "https://www.nbcnews.com/select/shopping/paulas-choice-amazon-sale-2026-rcna252412",
+        "https://www.glamour.com/gallery/best-retinol-creams-serums"
+      ],
+      "amazon_url": "https://www.amazon.com/Paulas-Choice-CLINICAL-Treatment-Anti-Aging/dp/B00L5O2ZXK",
+      "gpt_azn": "B07PRXVYCK",
+      "image_url": "https://imgs.search.brave.com/-zND_ahBClHpLj1uGsneaRuoSixiFrZVJAjxRKehSm0/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly93d3cu/ZXhpdDE1LmNvbS9p/bWFnZS9jYWNoZS9j/YXRhbG9nL3BhdWxh/cy1jaG9pY2UvcGF1/bGFzLWNob2ljZS1j/bGluaWNhbC0xLXBl/cmNlbnRhZ2UtcmV0/aW5vbC10cmVhdG1l/bnQtd2l0aC1wLUIw/MEw1TzJaWEstNTAw/eDUwMC5qcGc",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "SkinCeuticals Retinol 0.3 (Night Cream)",
+      "pros": [
+        "Low-concentration beginner-friendly option",
+        "Backed by clinical formulation guidance",
+        "Available in graduated strengths (0.3/0.5/1.0)"
+      ],
+      "cons": [
+        "Premium price",
+        "May require buffering for sensitive skin"
+      ],
+      "price": null,
+      "amazon_id": "B0041LXL78",
+      "sources": [
+        "https://www.skinceuticals.com/skincare/retinol-creams/retinol-0.3/S68.html",
+        "https://www.aol.com/what-is-retinol-and-should-you-be-using-it-155648702.html",
+        "https://www.the-independent.com/extras/indybest/fashion-beauty/skincare/best-retinol-creams-b2390098.html"
+      ],
+      "amazon_url": "https://www.amazon.com/SkinCeuticals-Retinol-Night-Refining-Treatment/dp/B0041LXL78",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/0Gr7zGnwFH4lyR2nqFnn6GDnsboAV3rF4l9izAfXugg/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly93d3cu/c2tpbmRlZXBwcm9m/ZXNzaW9uYWwuY29t/L3dwLWNvbnRlbnQv/dXBsb2Fkcy8yMDIx/LzExL3NraW5jZXV0/aWNhbHMtcmV0aW5v/bC0wLjMtcmVmaW5p/bmctbmlnaHQtY3Jl/YW0uanBn",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "The Ordinary Retinol 1% in Squalane",
+      "pros": [
+        "High-strength retinol at an affordable price",
+        "Oil-based squalane delivery for hydration",
+        "Widely recommended for visible smoothing effects"
+      ],
+      "cons": [
+        "1% concentration is strong—start slowly",
+        "Counterfeit/fulfillment concerns on third-party marketplaces"
+      ],
+      "price": null,
+      "amazon_id": "B0779YGB2G",
+      "sources": [
+        "https://www.freestufffinder.com/the-ordinary-1-retinol-9-shipped-at-amazon/",
+        "https://www.aol.com/20-best-retinol-serums-every-110000329.html",
+        "https://www.glamour.com/gallery/best-retinol-creams-serums"
+      ],
+      "amazon_url": "https://www.amazon.com/Ordinary-Retinol-1-Squalane-1-Pack/dp/B0779YGB2G",
+      "gpt_azn": "B0779YGB2G",
+      "image_url": "https://imgs.search.brave.com/abnK-7SK3-twA2rGGhsihZo2il8zcQr_KY0R_YOKmKE/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9tLm1l/ZGlhLWFtYXpvbi5j/b20vaW1hZ2VzL0kv/MzF2RFNEdjVJREwu/anBn",
+      "resolver": "brave",
+      "valid": true
+    }
+  ],
+  "resolvedLinks": {
+    "https://www.nbcnews.com/select/shopping/paulas-choice-amazon-sale-2026-rcna252412": {
+      "title": "Stock up on these bestselling Paula’s Choice products during their 20% off sale",
+      "description": "Re-up on your skincare faves during the Paula’s Choice New Year, New You sale on Amazon",
+      "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-01/260106-paulas-choice-vl-main-4e5241.jpg",
+      "url": "https://www.nbcnews.com/select/shopping/paulas-choice-amazon-sale-2026-rcna252412"
+    },
+    "https://www.glamour.com/gallery/best-retinol-creams-serums": {
+      "title": "I've Tested Dozens of Retinols—This Is the Serum I Rely On for Smooth Skin",
+      "description": "Major results, minimal irritation.",
+      "image": "https://media.glamour.com/photos/6903dac00615935551ea8d69/16:9/w_1280,c_limit/10.29_GL_Best%20Retinol%20Serums_Creams.jpg",
+      "url": "https://www.glamour.com/gallery/best-retinol-serums-creams"
+    },
+    "https://www.aol.com/what-is-retinol-and-should-you-be-using-it-155648702.html": {
+      "title": "What is retinol and should you be using it? Here's what the experts say.",
+      "description": "You don't need to go to skin school to understand how to get good skin.",
+      "image": "https://s.yimg.com/ny/api/res/1.2/br4ooCUP8UwnhZ.x6IiDKg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2021-05/9d175460-b1de-11eb-af2b-bdfd1b5ab6ba",
+      "url": "https://www.aol.com/what-is-retinol-and-should-you-be-using-it-155648702.html"
+    },
+    "https://www.the-independent.com/extras/indybest/fashion-beauty/skincare/best-retinol-creams-b2390098.html": {
+      "title": "16 best retinol creams and serums, tried and tested by a beauty editor",
+      "description": "This is what you need to know about vitamin A, including our favourite formulas",
+      "image": "https://static.the-independent.com/2026/01/14/13/15/best-retinol.png?trim=0,0,0,0&width=1200&height=800&crop=1200:800",
+      "url": "https://www.the-independent.com/extras/indybest/fashion-beauty/skincare/best-retinol-creams-b2390098.html"
+    },
+    "https://www.freestufffinder.com/the-ordinary-1-retinol-9-shipped-at-amazon/": {
+      "title": "The Ordinary 1% Retinol $7.70 Shipped at Amazon",
+      "description": "Protect and renew your skin at Amazon with this The Ordinary Retinol 1% in Squalane Serum for anti-aging and skin smoothing! Regularly sold for $9.30, now on sale for just $7.70. Plus, you can score free shipping when you opt to Subscribe & Save! Don't wait, order your The Ordinary 1% Retinol he",
+      "image": "https://www.freestufffinder.com/wp-content/uploads/2025/06/The-Ordinary-Retinol-1-in-Squalane.jpg",
+      "url": "https://www.freestufffinder.com/the-ordinary-1-retinol-9-shipped-at-amazon/"
+    },
+    "https://www.aol.com/20-best-retinol-serums-every-110000329.html": {
+      "title": "The 25 Best Retinol Serums for Every Skin Type and Concern",
+      "description": "If you’re even remotely interested in skincare , chances are that you’ve heard of retinol ....",
+      "image": "https://s.yimg.com/os/en/aol_purewow_824/0bfbedb1cda940841cf13cfba4b825bf",
+      "url": "https://www.aol.com/20-best-retinol-serums-every-110000329.html"
+    }
+  }
+}

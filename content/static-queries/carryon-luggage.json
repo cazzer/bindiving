@@ -1,0 +1,104 @@
+{
+  "slug": "carryon-luggage",
+  "query": "best carry‑on luggage",
+  "title": "Best carry‑on luggage | Bin Diving",
+  "description": "AI-dug recommendations for best carry‑on luggage. Compare options and find one that fits.",
+  "dugAt": "2026-03-18T18:37:13.341Z",
+  "recommendations": [
+    {
+      "product_name": "Travelpro Platinum Elite Carry-On Spinner",
+      "pros": [
+        "durable construction",
+        "smooth self-aligning wheels",
+        "good organization"
+      ],
+      "cons": [
+        "higher price",
+        "limited color options"
+      ],
+      "price": null,
+      "amazon_id": "B07DL64SYP",
+      "sources": [
+        "https://www.travelandleisure.com/style/travel-bags/best-carry-on-luggage/",
+        "https://www.forbes.com/sites/forbes-personal-shopper/article/best-carry-on-bag/"
+      ],
+      "amazon_url": "https://www.amazon.com/Travelpro-Luggage-Platinum-Expandable-Spinner/dp/B07DL64SYP",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/K-VHxQx5VHg9cRnyFKxMq2uQOZpci8sb_H2FnDCdV9o/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9kMzRt/dncxaWYzdWQwZy5j/bG91ZGZyb250Lm5l/dC8yODA4My9UcmF2/ZWxwcm8tUGxhdGlu/dW0tRWxpdGUtMjEt/LS0tQ2FycnktT24t/U3Bpbm5lcl8yMDI1/MDQxOC0wNDM1MjZf/ZnVsbC5qcGVn",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "Samsonite Freeform Hardside Carry-On Spinner",
+      "pros": [
+        "lightweight hardshell",
+        "good value for price",
+        "widely available"
+      ],
+      "cons": [
+        "can scratch over time",
+        "limited internal organization"
+      ],
+      "price": null,
+      "amazon_id": "B01M0A3BKH",
+      "sources": [
+        "https://crwatchdog.com/best-carry-on-luggage-of-2025-consumer-reports-inspired-rankings/",
+        "https://www.t3.com/features/best-suitcase"
+      ],
+      "amazon_url": "https://www.amazon.com/Samsonite-Freeform-Hardside-Spinner-Black/dp/B01M0A3BKH",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/8axSX_SMpE7q3OcZl8EmxY-j35rLiu4wcWpd8wkdkiQ/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9jMS5u/ZXdlZ2dpbWFnZXMu/Y29tL3Byb2R1Y3Rp/bWFnZS9uYjY0MC9B/QzRaXzFfMjAxNzA1/MjIzNTQxODQzNS5q/cGc",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "Briggs & Riley Baseline Essential Carry-On Spinner",
+      "pros": [
+        "industry-leading warranty",
+        "robust build quality",
+        "excellent packing capacity"
+      ],
+      "cons": [
+        "premium price",
+        "heavier than ultralight models"
+      ],
+      "price": null,
+      "amazon_id": "B09Y2DBZGS",
+      "sources": [
+        "https://www.outdoorgearlab.com/reviews/travel/carry-on-luggage/briggs-riley-baseline-essential-spinner",
+        "https://www.cntraveler.com/gallery/the-best-carry-on-luggage"
+      ],
+      "amazon_url": "https://www.amazon.com/Briggs-Riley-Spinners-Baseline-Essential/dp/B09Y2DBZGS",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/Rxxf_cHvG46E7wYk1uzvTJporOSiqc5skiVBoPBzUfw/rs:fit:0:180:1:0/g:ce/aHR0cHM6Ly93d3cu/YnJpZ2dzYXV0by5j/b20vc3RhdGljL2Rl/YWxlci0yNDc4MC8y/XzExL0hvbWVwYWdl/L0JyaWdnc18yMDI1/X1JhbV8yNTAwX0RU/MjUxMTY3X18tXzE5/MjBfeF82MDAuanBn",
+      "resolver": "brave",
+      "valid": true
+    }
+  ],
+  "resolvedLinks": {
+    "https://crwatchdog.com/best-carry-on-luggage-of-2025-consumer-reports-inspired-rankings/": {
+      "title": "Best Carry-On Luggage of 2025 (Consumer Reports–Inspired Rankings)",
+      "description": "",
+      "image": "",
+      "url": "https://crwatchdog.com/best-carry-on-luggage-of-2025-consumer-reports-inspired-rankings/"
+    },
+    "https://www.t3.com/features/best-suitcase": {
+      "title": "Best suitcase 2026: quality luggage, bags and rolling models for your next trip",
+      "description": "Pack everything, including the kitchen sink, with the best suitcase, luggage and trunks",
+      "image": "https://cdn.mos.cms.futurecdn.net/Y8yasXGQpt6KK7U6fNHFTY-2560-80.jpg",
+      "url": "https://www.t3.com/features/best-suitcase"
+    },
+    "https://www.outdoorgearlab.com/reviews/travel/carry-on-luggage/briggs-riley-baseline-essential-spinner": {
+      "title": "Briggs & Riley Baseline Essential Spinner Review",
+      "description": "Right from the get-go, we could tell this cabin bag was something special. In fact, we think the average traveler could pick it out of a lineup solely on...",
+      "image": "https://d1i8d6ce8wwubf.cloudfront.net/photos/33/44/455908_29886_XXL.jpg",
+      "url": "https://www.outdoorgearlab.com/reviews/travel/carry-on-luggage/briggs-riley-baseline-essential-spinner"
+    },
+    "https://www.cntraveler.com/gallery/the-best-carry-on-luggage": {
+      "title": "The Best Carry-On Luggage, Tested and Reviewed by Our Editors",
+      "description": "These are the bags we've taken on the road time and time again.",
+      "image": "https://media.cntraveler.com/photos/68cc79ee60e833f10c4c7953/16:9/w_1280,c_limit/250824_CNT_Luggage-Week_006-webres-final.jpg",
+      "url": "https://www.cntraveler.com/story/best-carry-on-luggage"
+    }
+  }
+}

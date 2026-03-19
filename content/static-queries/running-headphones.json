@@ -1,0 +1,124 @@
+{
+  "slug": "running-headphones",
+  "query": "best running headphones",
+  "title": "Best running headphones | Bin Diving",
+  "description": "AI-dug recommendations for best running headphones. Compare options and find one that fits.",
+  "dugAt": "2026-03-18T17:29:11.959Z",
+  "recommendations": [
+    {
+      "product_name": "Beats Powerbeats Pro 2",
+      "pros": [
+        "Secure earhook fit",
+        "Long battery life (up to ~45 hrs with case)",
+        "Workout-focused features (heart-rate, sweat resistance)"
+      ],
+      "cons": [
+        "Bulkier than true wireless buds",
+        "ANC not as strong as flagship ANC earbuds"
+      ],
+      "price": "$199.00 - $249.99 (varies with deals)",
+      "amazon_id": "B0DT2LTRL7",
+      "sources": [
+        "https://www.tomsguide.com/audio/headphones/nike-and-beats-are-collaborating-on-a-pair-of-limited-edition-headphones-weve-already-run-150-miles-in-them-and-can-confirm-they-are-the-best-running-headphones-out-there",
+        "https://www.techradar.com/audio/earbuds-airpods/the-highly-rated-beats-powerbeats-pro-2-are-back-to-a-record-low-price-at-amazon",
+        "https://www.macrumors.com/2025/05/05/amazon-low-price-on-powerbeats-pro-2/"
+      ],
+      "amazon_url": "https://www.amazon.com/Beats-Powerbeats-Wireless-Bluetooth-Earbuds/dp/B0DT2LTRL7",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/OFGgd--6bdWq1xOc8Ge-pUTfrJyJwl5PFRAJ5Oq4Tkc/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly93d3cu/YmVhdHNieWRyZS5j/b20vY29udGVudC9k/YW0vYmVhdHMvd2Vi/L3Byb2R1Y3QvZWFy/YnVkcy9wb3dlcmJl/YXRzLXByby0yL3Bk/cC9wYnBybzItYXBw/bGUtbXVzaWMuanBn/LmxhcmdlLjJ4Lmpw/Zw",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "Shokz OpenRun Pro 2",
+      "pros": [
+        "Open-ear bone-conduction keeps ears aware of surroundings",
+        "Lightweight and secure for running",
+        "Solid battery life for open-ear design"
+      ],
+      "cons": [
+        "Soundstage lacks bass compared with in-ear buds",
+        "Some users report occasional audio coloration/echo"
+      ],
+      "price": "$179.95 - $199.95 (varies)",
+      "amazon_id": "B0DM27684P",
+      "sources": [
+        "https://www.techradar.com/best/best-running-headphones/",
+        "https://shokz.com/pages/openrunpro2",
+        "https://www.soundguys.com/shokz-announces-sky-blue-openrun-pro-2-146546/"
+      ],
+      "amazon_url": "https://www.amazon.com/SHOKZ-OpenRun-Pro-Conduction-Headphones/dp/B0DM27684P",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/LBcUI0GYClM_Opf9fAUOxMF_B7itY0fiWXyjUmEPddU/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9saWZl/aGFja2VyLmNvbS9p/bWFnZXJ5L3Jldmll/d3MvMDFKUzUwRzhR/QjdTMUdUQTJSQTZH/NVFaMkovcHJvZHVj/dC1pbWFnZS5maWxs/LnNpemVfYXV0b3hh/dXRvLnYxNzQ0OTk5/MTcyLmpwZw",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "JLab Go Sport+",
+      "pros": [
+        "Very affordable",
+        "Secure fit designed for workouts",
+        "IPX sweat resistance"
+      ],
+      "cons": [
+        "Sound and ANC (none) are basic",
+        "Shorter battery life vs premium models"
+      ],
+      "price": "Around $29.99 (retail varies)",
+      "amazon_id": "B0CYNFWD2R",
+      "sources": [
+        "https://www.tomsguide.com/audio/earbuds/jlab-go-sport-plus-review",
+        "https://www.runnersworld.com/gear/a20852590/the-best-wireless-headphones-for-running//"
+      ],
+      "amazon_url": "https://www.amazon.com/JLab-Wireless-Featuring-Bluetooth-Playtime/dp/B0CYNFWD2R",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/QEBb_gE5UfXSD8ZdEk8-vhNuSwW2yU6PSuXl8aj2aXg/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly93d3cu/amxhYi5jb20vY2Ru/L3Nob3AvZmlsZXMv/SkxhYi1Hby1BSXIt/U3BvcnQtVHJ1ZV9X/aXJlbGVzcy1TcG9y/dC1FYXJidWRzLVRl/YWxfNGU2NTUzNGIt/ZWRiMC00NGI1LTlk/ZDMtMzNhYmU4NjU1/YjdhLmpwZz92PTE3/NjI0NDYzODEmd2lk/dGg9MTk0Ng",
+      "resolver": "brave",
+      "valid": true
+    }
+  ],
+  "resolvedLinks": {
+    "https://www.tomsguide.com/audio/headphones/nike-and-beats-are-collaborating-on-a-pair-of-limited-edition-headphones-weve-already-run-150-miles-in-them-and-can-confirm-they-are-the-best-running-headphones-out-there": {
+      "title": "Forget AirPods Pro — Powerbeats Pro 2 Nike Special Edition headphones are a runner’s dream",
+      "description": "The Powerbeats Pro 2 will feature a Nike Swoosh for the first time",
+      "image": "https://cdn.mos.cms.futurecdn.net/mHysNxtsfUbNDxMZWmXqc7-1920-80.jpg",
+      "url": "https://www.tomsguide.com/audio/headphones/nike-and-beats-are-collaborating-on-a-pair-of-limited-edition-headphones-weve-already-run-150-miles-in-them-and-can-confirm-they-are-the-best-running-headphones-out-there"
+    },
+    "https://www.techradar.com/audio/earbuds-airpods/the-highly-rated-beats-powerbeats-pro-2-are-back-to-a-record-low-price-at-amazon": {
+      "title": "Some of the best workout earbuds from Beats are now down to their lowest-ever price",
+      "description": "Excellent fitness earbuds with fantastic battery life",
+      "image": "https://cdn.mos.cms.futurecdn.net/YjnNbsaY4iEgQa97xZu7RM-2000-80.jpg",
+      "url": "https://www.techradar.com/audio/earbuds-airpods/the-highly-rated-beats-powerbeats-pro-2-are-back-to-a-record-low-price-at-amazon"
+    },
+    "https://www.macrumors.com/2025/05/05/amazon-low-price-on-powerbeats-pro-2/": {
+      "title": "Amazon Introduces New Low $199.95 Price on Powerbeats Pro 2, Plus More Beats Discounts",
+      "description": "Amazon this week is discounting a collection of Beats audio devices, including a new all-time low price on the Powerbeats Pro 2. You can get this new 2025 model for $199.95 in all four colors, down from $249.99. Note: MacRumors is an affiliate partner with Amazon. When you click a link and make a purchase, we may receive a small payment, which helps us keep the site running. This sale includes major discounts on products like the Beats Solo Buds, which have hit $59.95, down from $79.99.",
+      "image": "https://images.macrumors.com/t/-EdOtaXo5vTHYxjby03z5nJNYQU=/1920x/article-new/2025/02/Orange-Powerbeats-Pro-2-Feature.jpg",
+      "url": "https://www.macrumors.com/2025/05/05/amazon-low-price-on-powerbeats-pro-2/"
+    },
+    "https://www.techradar.com/best/best-running-headphones/": {
+      "title": "The best running headphones 2025: Take your exercise to the next level",
+      "description": "Grab a pair of the best running headphones now",
+      "image": "https://cdn.mos.cms.futurecdn.net/WzwUbEpkcMEGpmXcstHVmf-2000-80.jpg",
+      "url": "https://www.techradar.com/best/best-running-headphones"
+    },
+    "https://shokz.com/pages/openrunpro2": {
+      "title": "Bone Conduction Headphones for Sports & Outdoor Training – Shokz",
+      "description": "Discover Shokz OpenRun Pro 2, open-ear bone conduction headphones designed for sports with secure comfort, wireless Bluetooth performance, and powerful sound for running, cycling, workouts, and marathons.",
+      "image": "",
+      "url": "https://shokz.com/pages/openrunpro2"
+    },
+    "https://www.tomsguide.com/audio/earbuds/jlab-go-sport-plus-review": {
+      "title": "I tested JLab’s $29 running earbuds for two weeks — they’re so secure I forgot I was wearing them",
+      "description": "Go, sports!",
+      "image": "https://cdn.mos.cms.futurecdn.net/rqGkyQgB8YVhjitY9rso2Y-2560-80.jpg",
+      "url": "https://www.tomsguide.com/audio/earbuds/jlab-go-sport-plus-review"
+    },
+    "https://www.runnersworld.com/gear/a20852590/the-best-wireless-headphones-for-running//": {
+      "title": "We Spent Weeks Running In the Newest Headphones—These 8 Picks Withstood Our Sweat Mile After Mile",
+      "description": "They continue to get better and more versatile.",
+      "image": "https://hips.hearstapps.com/hmg-prod/images/run-running-headphones-685030f986610.jpg?crop=1.00xw:0.752xh;0,0.248xh&resize=1200:*",
+      "url": "https://www.runnersworld.com/gear/a20852590/the-best-wireless-headphones-for-running/"
+    }
+  }
+}

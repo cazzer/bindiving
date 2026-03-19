@@ -1,0 +1,102 @@
+{
+  "slug": "checked-luggage",
+  "query": "best checked luggage",
+  "title": "Best checked luggage | Bin Diving",
+  "description": "AI-dug recommendations for best checked luggage. Compare options and find one that fits.",
+  "dugAt": "2026-03-18T18:34:59.489Z",
+  "recommendations": [
+    {
+      "product_name": "Travelpro Platinum Elite 29\" Expandable Spinner",
+      "pros": [
+        "Excellent maneuverability",
+        "Front-opening full-depth access"
+      ],
+      "cons": [
+        "Large size can be heavy when packed"
+      ],
+      "price": null,
+      "amazon_id": "B01MDSDK1U",
+      "sources": [
+        "https://www.reviewed.com/travel/best-right-now/the-best-checked-luggage"
+      ],
+      "amazon_url": "https://www.amazon.com/Travelpro-Luggage-Platinum-Expandable-Suitcase/dp/B01MDSDK1U",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/AGrMI_6ulFDwzy5fX5_eejhNy-zbpjSoriB-kqJreMY/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9sdWdn/YWdlYmFzZS5jb20v/Y2RuL3Nob3AvZmls/ZXMvVHJhdmVscHJv/X1BsYXRpbnVtX0Vs/aXRlXzI5X0V4cGFu/ZGFibGVfU3Bpbm5l/cl8tX0x1Z2dhZ2Vf/QmFzZS00Mzg0Nzcw/X21lZGl1bS5qcGc_/dj0xNzUwMTk2NDUw",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "Briggs & Riley Sympatico Large Expandable Spinner",
+      "pros": [
+        "Durable scratch-resistant hardshell",
+        "Good internal organization"
+      ],
+      "cons": [
+        "Handle can feel wobbly in testing"
+      ],
+      "price": null,
+      "amazon_id": "B09Y2DBZGS",
+      "sources": [
+        "https://www.reviewed.com/travel/best-right-now/the-best-checked-luggage"
+      ],
+      "amazon_url": "https://www.amazon.com/Briggs-Riley-Spinners-Baseline-Essential/dp/B09Y2DBZGS",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/Rxxf_cHvG46E7wYk1uzvTJporOSiqc5skiVBoPBzUfw/rs:fit:0:180:1:0/g:ce/aHR0cHM6Ly93d3cu/YnJpZ2dzYXV0by5j/b20vc3RhdGljL2Rl/YWxlci0yNDc4MC8y/XzExL0hvbWVwYWdl/L0JyaWdnc18yMDI1/X1JhbV8yNTAwX0RU/MjUxMTY3X18tXzE5/MjBfeF82MDAuanBn",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "Monos Check-In Medium (Hybrid)",
+      "pros": [
+        "Stylish hybrid build, multiple colorways",
+        "Popular mid-size checked option for overpackers"
+      ],
+      "cons": [
+        "Some user reports of dents/cracking in heavy use"
+      ],
+      "price": "$17.99",
+      "amazon_id": "B0BLR46G6M",
+      "sources": [
+        "https://www.sfgate.com/shopping/article/monos-luggage-review-check-in-medium-17799110.php",
+        "https://monos.com/products/check-in-medium",
+        "https://www.t3.com/home-living/travel/monos-expands-its-hybrid-luggage-range-with-two-stunning-new-colourways"
+      ],
+      "image_url": "https://m.media-amazon.com/images/I/417TKkZxnUL._AC_UL960_QL65_.jpg",
+      "images": [
+        "https://m.media-amazon.com/images/I/417TKkZxnUL._AC_UL960_QL65_.jpg"
+      ],
+      "amazon_url": "https://www.amazon.com/HYPER-VENTURE-Washable-Luggage-Cover/dp/B0BLR46G6M/ref=sr_1_1?dib=eyJ2IjoiMSJ9.U8vemALtWXYQjO0AYZnGxtq5yVhMS2lD9LgKc__OlHhkPhtuNX6XNOqH3HEELry9ljBgsrl_I3MZg5vRijpb8A.cm9mfuviqTy0g-93wyfKuXcbxraV5TkfFtLeoeDZ_LA&dib_tag=se&keywords=Monos+Check-In+Medium+%28Hybrid%29&qid=1773858895&sr=8-1",
+      "brand": "HYPER VENTURE",
+      "blackFriday": false,
+      "gpt_azn": null,
+      "resolver": "cheerio",
+      "valid": true
+    }
+  ],
+  "resolvedLinks": {
+    "https://www.reviewed.com/travel/best-right-now/the-best-checked-luggage": {
+      "title": "The Best Checked Luggage of 2026",
+      "description": "Pack for your next trip with the perfect suitcase.",
+      "image": "https://reviewed-com-res.cloudinary.com/image/fetch/s--bEJHoBnA--/b_white,c_limit,cs_srgb,f_auto,fl_progressive.strip_profile,g_center,q_auto,w_1200/https://reviewed-production.s3.amazonaws.com/1626715056499/checkedhero.jpg",
+      "url": "https://www.reviewed.com/travel/best-right-now/the-best-checked-luggage"
+    },
+    "https://www.sfgate.com/shopping/article/monos-luggage-review-check-in-medium-17799110.php": {
+      "title": "Monos luggage review: Overpackers can opt for Check-In Medium",
+      "description": "You don't need the larger luggage.",
+      "image": "https://s.hdnux.com/photos/01/31/50/23/23495893/3/rawImage.jpg",
+      "url": "https://www.sfgate.com/shopping/article/monos-luggage-review-check-in-medium-17799110.php"
+    },
+    "https://monos.com/products/check-in-medium": {
+      "title": "Check-In Medium",
+      "description": "Check-In Medium. Unbreakable polycarbonate shell, ultra-sturdy telescopic handle, whisper-quiet wheels, vegan leather details, and all-premium materials.",
+      "image": "http://monos.com/cdn/shop/products/Collection_Luggage_CheckIn_M_DesertTaupe_4c0a5696-0211-4d1c-95f4-b11693ac1083_grande.png?v=1692167861",
+      "url": "https://monos.com/products/check-in-medium"
+    },
+    "https://www.t3.com/home-living/travel/monos-expands-its-hybrid-luggage-range-with-two-stunning-new-colourways": {
+      "title": "Monos expands its Hybrid luggage range with two stunning new colourways",
+      "description": "Orchid and Mint have arrived just in time for spring",
+      "image": "https://cdn.mos.cms.futurecdn.net/yotGfDu3kZPdcw6VSpd4Li-2560-80.jpg",
+      "url": "https://www.t3.com/home-living/travel/monos-expands-its-hybrid-luggage-range-with-two-stunning-new-colourways"
+    }
+  }
+}

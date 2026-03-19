@@ -1,0 +1,115 @@
+{
+  "slug": "camping-tents",
+  "query": "best camping tents",
+  "title": "Best camping tents | Bin Diving",
+  "description": "AI-dug recommendations for best camping tents. Compare options and find one that fits.",
+  "dugAt": "2026-03-18T21:37:13.163Z",
+  "recommendations": [
+    {
+      "product_name": "Big Agnes Copper Spur HV UL3 (3-person)",
+      "pros": [
+        "Lightweight for 3-person",
+        "High-volume pole architecture (roomy)"
+      ],
+      "cons": [
+        "Premium price",
+        "Footprint/accessories sometimes sold separately"
+      ],
+      "price": null,
+      "amazon_id": "B0DHF4JHQD",
+      "sources": [
+        "https://www.outdoorgearlab.com/reviews/camping-and-hiking/backpacking-tent/big-agnes-copper-spur-hv-ul3",
+        "https://www.bigagnes.com/collections/backpacking-camp-gear/products/copper-spur-hv-ul-3-mtnglo",
+        "https://www.bestoutdoorgearreviews.com/big-agnes-copper-spur-hv-ul3-tent-review-is-it-worth-the-price-in-2026/"
+      ],
+      "amazon_url": "https://www.amazon.com/Big-Agnes-Tents-Copper-Spur/dp/B0DHF4JHQD",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/CY4o1dNWYBHryBAWpwRQmw9R4_ijIxnQ9Wn4R1t5qu4/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9iaWtl/cGFja2luZy5jb20v/d3AtY29udGVudC91/cGxvYWRzLzIwMTgv/MDQvbGEtdmVudGFu/YS1jYWJvLTMtNDI3/LTEtMTIwMHg4MDAu/anBn",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "REI Co-op Half Dome 2 Plus (2-person)",
+      "pros": [
+        "Roomy and well-ventilated for its class",
+        "Solid value and durable construction"
+      ],
+      "cons": [
+        "Heavier than backpacking ultralight models",
+        "Not ideal for extended high-wind alpine use"
+      ],
+      "price": "$29.86",
+      "amazon_id": "B0CSC668ZX",
+      "sources": [
+        "https://www.rei.com/product/243700/rei-co-op-half-dome-2-plus-tent-with-footprint",
+        "https://www.outdoorgearlab.com/reviews/camping-and-hiking/backpacking-tent/rei-half-dome-2-plus",
+        "https://www.switchbacktravel.com/reviews/rei-co-op-half-dome-sl-2"
+      ],
+      "image_url": "https://images-na.ssl-images-amazon.com/images/G/01/x-locale/common/grey-pixel.gif",
+      "images": [
+        "https://images-na.ssl-images-amazon.com/images/G/01/x-locale/common/grey-pixel.gif"
+      ],
+      "amazon_url": "https://www.amazon.com/JELUCAMP-Lightweight-Portable-Backpacking-Waterproof/dp/B0CSC668ZX/ref=mp_s_a_1_1?dib=eyJ2IjoiMSJ9.Qc4w1wLpFMtzV990yI3_w42fAjst3JZJlnzlGVgxHuO0Zc-IcFojBkW8_xQPmTAnARlow2mPQsAHaNMt98gJHSuwvHC_5R8qmYPQdbw_cweSuY7wMU9-fkZq62EfXF0OAh94Stxmw8sZ4ErrJWPLIsKNsnqSntMBeEnmjkEteQJM-3-q9trhbwp_AaWSt-NcmplyJeC4ghu3lhVbqipiQA.zepsBmSlIvLPfbiDl3iiiWJmsiXVb-YhzU38-L51HkM&dib_tag=se&keywords=REI+Co-op+Half+Dome+2+Plus+%282-person%29&qid=1773869829&sr=8-1",
+      "brand": "1/2/4/5/6 Person Dome Tents for Camping, Lightweight Portable Backpacking Tent, Small Easy Set Up Outdoor Waterproof Camping Hiking Tent for Adults",
+      "blackFriday": false,
+      "gpt_azn": null,
+      "resolver": "cheerio",
+      "valid": true
+    },
+    {
+      "product_name": "Coleman Sundome 4-Person Camping Tent",
+      "pros": [
+        "Very affordable and easy to set up",
+        "Widely available with thousands of user reviews"
+      ],
+      "cons": [
+        "Less robust in heavy storms than premium tents",
+        "Fewer features (venting/vestibule) than higher-end models"
+      ],
+      "price": null,
+      "amazon_id": "B004J2GUOU",
+      "sources": [
+        "https://www.coleman.com/tents-canopies/tents-by-style/sundome-4-person-camping-tent/SAP_2207036.html",
+        "https://www.yahoo.com/lifestyle/amazons-bestselling-tent-19-000-202531260.html",
+        "https://www.dealnews.com/products/Coleman/Coleman-Sundome-4-Person-Camping-Tent-with-Rainfly/494112.html"
+      ],
+      "amazon_url": "https://www.amazon.com/Coleman-Sundome-4-Person-Tent-Green/dp/B004J2GUOU",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/dzAsw_QfRpcIxBdlx7oJLgRwp9ey-i9ydyvc7rq6D2I/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9pLmVi/YXlpbWcuY29tLzAw/L3MvTVRZd01GZ3hO/akF3L3ovZFdvQUFP/U3d1ZHBrNms3MC8k/XzEyLkpQRz9zZXRf/aWQ9ODgwMDAwNTAw/Rg",
+      "resolver": "brave",
+      "valid": true
+    }
+  ],
+  "resolvedLinks": {
+    "https://www.outdoorgearlab.com/reviews/camping-and-hiking/backpacking-tent/big-agnes-copper-spur-hv-ul3": {
+      "title": "Big Agnes Copper Spur HV UL3 Review",
+      "description": "The Big Agnes Copper Spur HV UL3 offers all of the same great features as its two-person sibling, so it's no wonder that we like it just as much. Its two...",
+      "image": "https://d1i8d6ce8wwubf.cloudfront.net/photos/22/41/345609_25216_XXL.jpg",
+      "url": "https://www.outdoorgearlab.com/reviews/camping-and-hiking/backpacking-tent/big-agnes-copper-spur-hv-ul3"
+    },
+    "https://www.outdoorgearlab.com/reviews/camping-and-hiking/backpacking-tent/rei-half-dome-2-plus": {
+      "title": "REI Half Dome 2 Plus Review",
+      "description": "The REI Half Dome 2 Plus is an extremely comfortable tent for the money. It has a spacious interior and a thoughtful design with good ventilation and...",
+      "image": "https://d1i8d6ce8wwubf.cloudfront.net/photos/22/2/341684_18169_XXL.jpg",
+      "url": "https://www.outdoorgearlab.com/reviews/camping-and-hiking/backpacking-tent/rei-half-dome-2-plus"
+    },
+    "https://www.switchbacktravel.com/reviews/rei-co-op-half-dome-sl-2": {
+      "title": "Switchback Travel | REI Co-op Half Dome 2 Plus Tent Review",
+      "description": "The latest Half Dome offers a standout combination of livability, material quality, weight, and price",
+      "image": "https://www.switchbacktravel.com/sites/default/files/images/articles/REI%20Co-op%20Half%20Dome%202%20Plus%20tent%20%28smiling%20with%20dog%29.jpg",
+      "url": "https://www.switchbacktravel.com/reviews/rei-co-op-half-dome-2-plus"
+    },
+    "https://www.yahoo.com/lifestyle/amazons-bestselling-tent-19-000-202531260.html": {
+      "title": "Amazon's Bestselling Tent With 19,000+ 5-Star Ratings Is $67 Right Now, and Shoppers Say It's 'Perfect' for Summer",
+      "description": "\"This tent is super easy to set up, comfortable, and durable.\"",
+      "image": "https://s.yimg.com/os/en/men_s_journal_ecomm_550/894167ce03dd551dac8a347605de2367",
+      "url": "https://www.yahoo.com/lifestyle/amazons-bestselling-tent-19-000-202531260.html"
+    },
+    "https://www.dealnews.com/products/Coleman/Coleman-Sundome-4-Person-Camping-Tent-with-Rainfly/494112.html": {
+      "title": "Coleman Sundome 4-Person Camping Tent with Rainfly: $85",
+      "description": "It's $33 off, which is the lowest price at Amazon this year.",
+      "image": "https://c.dlnws.com/image/upload/f_auto,t_maximum,q_auto/cms/kx3dnqolb7j06mpnvrxy.jpg",
+      "url": "https://www.dealnews.com/products/Coleman/Coleman-Sundome-4-Person-Camping-Tent-with-Rainfly/494112.html"
+    }
+  }
+}

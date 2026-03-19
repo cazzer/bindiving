@@ -1,0 +1,125 @@
+{
+  "slug": "toolboxes",
+  "query": "best toolboxes",
+  "title": "Best toolboxes | Bin Diving",
+  "description": "AI-dug recommendations for best toolboxes. Compare options and find one that fits.",
+  "dugAt": "2026-03-18T16:14:32.953Z",
+  "recommendations": [
+    {
+      "product_name": "Milwaukee PACKOUT 22 in. Large Portable Tool Box (48-22-8425)",
+      "pros": [
+        "Modular/stackable system",
+        "Impact-resistant, weather-sealed",
+        "High load capacity and reinforced corners"
+      ],
+      "cons": [
+        "Heavier than simple totes",
+        "Higher price than basic boxes"
+      ],
+      "price": null,
+      "amazon_id": "B0CFLTNN7S",
+      "sources": [
+        "https://www.milwaukeetool.com/Products/48-22-8426",
+        "https://homegrail.com/best-tool-box-for-the-money/",
+        "https://studyfinds.com/best-tool-boxes/"
+      ],
+      "amazon_url": "https://www.amazon.com/48-22-8425-Milwaukee-Portable-100-Pound-Capacity/dp/B0CFLTNN7S",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/CTKSjVBlSHu806RfZBgrLTUTnruRVYOBztqVMaJ1BEA/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9tLm1l/ZGlhLWFtYXpvbi5j/b20vaW1hZ2VzL0kv/NTFDcHhSQXJnRkwu/anBn",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "DEWALT TSTAK VI 17 in. Deep Tool Box (DWST17806)",
+      "pros": [
+        "Stackable TSTAK system",
+        "Removable tray and metal latches",
+        "Lightweight and durable"
+      ],
+      "cons": [
+        "Not lockable without add-on",
+        "Smaller capacity than rolling chests"
+      ],
+      "price": null,
+      "amazon_id": "B00CBY2EIO",
+      "sources": [
+        "https://www.dewalt.com/product/dwst17806/tstak-vi-deep-box",
+        "https://homegrail.com/best-tool-box-for-the-money/",
+        "https://bestsawspoint.com/best-tool-box-review/"
+      ],
+      "amazon_url": "https://www.amazon.com/DEWALT-DWST17806-TSTAK-Deep-Box/dp/B00CBY2EIO",
+      "gpt_azn": "B00CBY2EIO",
+      "image_url": "https://imgs.search.brave.com/TNRVZbYz4QgNtQce08GsuN_K7RiLvAvL_b3048J1jpQ/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9pLmVi/YXlpbWcuY29tL2lt/YWdlcy9nL1JKNEFB/T1N3ajJwbn54MG0v/cy1sMjI1LmpwZw",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "STANLEY 50-Gallon Mobile Chest Toolbox (037025H)",
+      "pros": [
+        "Very large 50-gallon capacity",
+        "Wheels and extendable handle for mobility",
+        "Affordable for capacity"
+      ],
+      "cons": [
+        "Plastic construction — some hinge/latch wear reported",
+        "Bulkier to store/transport"
+      ],
+      "price": null,
+      "amazon_id": "B000Q5LZT4",
+      "sources": [
+        "https://foxwoll.us/blogs/best-tool-box/",
+        "https://morningchores.com/best-toolbox/",
+        "https://woodartsupply.com/products/stanley-tool-box-mobile-chest-50-gallon-037025h"
+      ],
+      "amazon_url": "https://www.amazon.com/Stanley-037025H-Gallon-Mobile-Chest/dp/B000Q5LZT4",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/SuLQtdTm4SZiLgVA-ug4NigjnQGOle0JAl_FchPYnqw/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9jZG4x/MS5iaWdjb21tZXJj/ZS5jb20vcy1nZHkx/ZWh6L2ltYWdlcy9z/dGVuY2lsLzUwMHg2/NTkvcHJvZHVjdHMv/Mjc3NTkwLzM4MjQx/My82ODAtMDM3MDI1/SF8xX18zNzQyMS4x/NzQwNDM1Njk3Lmpw/Zz9jPTI",
+      "resolver": "brave",
+      "valid": true
+    }
+  ],
+  "resolvedLinks": {
+    "https://www.milwaukeetool.com/Products/48-22-8426": {
+      "title": "PACKOUT Tool & Accessory Rolling Storage Box | Milwaukee Tool",
+      "description": "Our PACKOUT™ modular tool and accessory rolling storage box is heavy duty and easy to transport for daily jobsite use.",
+      "image": "https://www.milwaukeetool.com/--/web-images/sc/48891c7c37f14a9a843cd944ef6dbfb0?hash=5b94d1e4e7dc589283d67b0e75cd768a&lang=en&w=200&h=200",
+      "url": "https://www.milwaukeetool.com/products/details/packout-rolling-tool-box/48-22-8426"
+    },
+    "https://homegrail.com/best-tool-box-for-the-money/": {
+      "title": "10 Best Tool Boxes for the Money in 2026 - Reviews & Buyer's Guide | Home Grail",
+      "description": "A good toolbox does more than transport your tools, it protects them. Our experts have rated the best on the market and you might be surprised to learn ...",
+      "image": "https://homegrail.com/wp-content/uploads/2021/08/man-pulling-Milwaukee-Rolling-Modular-Tool-Box.jpg",
+      "url": "https://homegrail.com/best-tool-box-for-the-money/"
+    },
+    "https://studyfinds.com/best-tool-boxes/": {
+      "title": "Top 5 Ultimate Tool Boxes Experts Swear By (2025 Guide)",
+      "description": "StudyFinds compiled a list of the top five most recommended tool boxes from 10 expert websites, to find the best tool box for DIY projects.",
+      "image": "https://studyfinds.com/wp-content/uploads/2023/01/Best-Toolbox-scaled.jpg",
+      "url": "https://studyfinds.com/best-tool-boxes/"
+    },
+    "https://www.dewalt.com/product/dwst17806/tstak-vi-deep-box": {
+      "title": "DEWALT® TSTAK VI 17-in. (432mm) Stackable Deep Tool Storage Box",
+      "description": "The TSTAK deep box with flat top offers new innovation in storage options. This flexible platform allows different combinations; all units can stack on top of each other and able to connect with durable side latches for easy carrying and safe stacking. This unit can be used for storage of corded and cordless tools and features a removable tray for access to essential tools. Heavy duty metal latches and hinges are built for durability.",
+      "image": "https://assets.dewalt.com/NAG/PRODUCT/IMAGES/HIRES/WHITEBG/Ecomm_Large-DWST17806_1.jpg",
+      "url": "https://www.dewalt.com/en-us/product/dwst17806/dewalt-tstak-vi-17-432mm-stackable-deep-tool-storage-box"
+    },
+    "https://bestsawspoint.com/best-tool-box-review/": {
+      "title": "Best Tool Box Reviews: The Ultimate Guide for 2026 » Best Saws Point",
+      "description": "In this guide, we’ll break down the best tool box reviews, highlight key features to look for, and compare some of the top-rated products available today. By the end, you’ll have a clear idea of which toolbox fits your needs and budget.",
+      "image": "https://bestsawspoint.com/wp-content/uploads/2025/10/1a13fe5894-min.jpg",
+      "url": "https://bestsawspoint.com/best-tool-box-review/"
+    },
+    "https://morningchores.com/best-toolbox/": {
+      "title": "8 Best Toolbox Reviews: Amazingly Portable Tool Storage Organizers",
+      "description": "Keep all your tools and equipment handy with the best toolbox. No more lost tools, and struggling with arms full of falling spanners.",
+      "image": "https://cdn.morningchores.com/wp-content/uploads/2019/06/8-Best-Toolbox-Reviews-Amazingly-Portable-Tool-Storage-Organizers-FB.jpg",
+      "url": "https://morningchores.com/best-toolbox/"
+    },
+    "https://woodartsupply.com/products/stanley-tool-box-mobile-chest-50-gallon-037025h": {
+      "title": "STANLEY Tool Box, Mobile Chest, 50-Gallon (037025H)",
+      "description": "Brand: StanleyColor: MultiFeatures: Wide work surface on lid of the portable tool box includes two 2-inch x 4-inch saw grooves Pull-out steel handle with soft grip for easy maneuverability of the mechanic tool box. Large, nickel-plated metal latches come with the tool box organizers and storage. Lock and keys included.",
+      "image": "http://woodartsupply.com/cdn/shop/files/41n4byyx_WL.jpg?crop=center&height=1200&v=1720425328&width=1200",
+      "url": "https://woodartsupply.com/products/stanley-tool-box-mobile-chest-50-gallon-037025h"
+    }
+  }
+}

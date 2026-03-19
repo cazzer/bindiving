@@ -1,0 +1,107 @@
+{
+  "slug": "wired-earbuds",
+  "query": "best wired earbuds",
+  "title": "Best wired earbuds | Bin Diving",
+  "description": "AI-dug recommendations for best wired earbuds. Compare options and find one that fits.",
+  "dugAt": "2026-03-18T21:45:19.834Z",
+  "recommendations": [
+    {
+      "product_name": "Sennheiser IE 900",
+      "pros": [
+        "Audiophile-grade detail and bass",
+        "Premium build and accessories"
+      ],
+      "cons": [
+        "High price",
+        "Counterfeits circulate—buy reputable seller"
+      ],
+      "price": null,
+      "amazon_id": "B094DP3177",
+      "sources": [
+        "https://www.techradar.com/reviews/sennheiser-ie-900",
+        "https://www.whathifi.com/reviews/sennheiser-ie-900"
+      ],
+      "amazon_url": "https://www.amazon.com/Sennheiser-IE-900-Audiophile-Monitors/dp/B094DP3177",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/vTO2gDD5PprLXcXrHdleLnGGGqvKm99MvPvOSh_nKyo/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9tYWpv/cmhpZmkuY29tL3dw/LWNvbnRlbnQvdXBs/b2Fkcy9TZW5uaGVp/c2VyLUlFLTkwMC0x/LTM3NXg1MDAuanBn",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "soundMAGIC E11C",
+      "pros": [
+        "Excellent value for price",
+        "Warm, musical tuning with good clarity"
+      ],
+      "cons": [
+        "Non-detachable cable",
+        "Not as durable as higher-end IEMs"
+      ],
+      "price": null,
+      "amazon_id": "B07H2VPWFR",
+      "sources": [
+        "https://www.techradar.com/reviews/soundmagic-e11c",
+        "https://www.whathifi.com/best-buys/best-in-ear-headphones-budget-and-premium"
+      ],
+      "amazon_url": "https://www.amazon.com/SoundMAGIC-E11C-Earphones-Headphones-Microphone/dp/B07H2VPWFR",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/zErE69NNlAPbGNjA0AG8-WsNST5-BPUeD04Olmgn4YI/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9hdWRp/bzQ2LmNvbS9jZG4v/c2hvcC9wcm9kdWN0/cy9IZXJvXzAwOTdf/VFJBTlNQQVJFTlRf/MDAwNXNfMDAxM19F/MTEtQ19wbmdfNzQw/eC5qcGc_dj0xNzU5/NDQyNzQx",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "Apple EarPods (USB‑C)",
+      "pros": [
+        "Very affordable and widely compatible",
+        "Comfortable universal fit for many users"
+      ],
+      "cons": [
+        "Not ideal for workouts; average sound isolation",
+        "Not audiophile-grade sound"
+      ],
+      "price": null,
+      "amazon_id": "B0DCH8VDXF",
+      "sources": [
+        "https://www.forbes.com/sites/forbes-personal-shopper/article/best-wired-earbuds/",
+        "https://www.techgearlab.com/reviews/audio/earbuds/apple-earpods-usb-c"
+      ],
+      "amazon_url": "https://www.amazon.com/Apple-EarPods-Headphones-Built-Control/dp/B0DCH8VDXF",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/zYLBe4J_z86kjBzqNHbGjV-WfAR3FGurzUY_3rXuVzI/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9tLm1l/ZGlhLWFtYXpvbi5j/b20vaW1hZ2VzL0kv/NDErMW1UdTMzc0wu/anBn",
+      "resolver": "brave",
+      "valid": true
+    }
+  ],
+  "resolvedLinks": {
+    "https://www.techradar.com/reviews/sennheiser-ie-900": {
+      "title": "Sennheiser IE 900 review",
+      "description": "In-ear headphones that sound incredible",
+      "image": "https://cdn.mos.cms.futurecdn.net/DNSAknPbz8rEAGtmDU9b3S-2560-80.jpg",
+      "url": "https://www.techradar.com/reviews/sennheiser-ie-900"
+    },
+    "https://www.whathifi.com/reviews/sennheiser-ie-900": {
+      "title": "Sennheiser IE 900 review",
+      "description": "Sennheiser’s wired flagship earbuds set high standards",
+      "image": "https://cdn.mos.cms.futurecdn.net/Z6fvLgmcYw6bLbNyzY9ig9-1920-80.jpg",
+      "url": "https://www.whathifi.com/reviews/sennheiser-ie-900"
+    },
+    "https://www.techradar.com/reviews/soundmagic-e11c": {
+      "title": "SoundMagic E11C review",
+      "description": "Where the magic happens",
+      "image": "https://cdn.mos.cms.futurecdn.net/2KfroUCEHHsj4Nryk6L64N-2559-80.jpg",
+      "url": "https://www.techradar.com/reviews/soundmagic-e11c"
+    },
+    "https://www.whathifi.com/best-buys/best-in-ear-headphones-budget-and-premium": {
+      "title": "Want the absolute best sound for your ears? We've picked the 4 best wired earbuds at various price points",
+      "description": "Excellent earbuds for a range of budgets and requirements",
+      "image": "https://cdn.mos.cms.futurecdn.net/HqtGwS29mHvFKvnpCiaGdT-1920-80.jpg",
+      "url": "https://www.whathifi.com/best-buys/best-in-ear-headphones-budget-and-premium"
+    },
+    "https://www.techgearlab.com/reviews/audio/earbuds/apple-earpods-usb-c": {
+      "title": "Apple EarPods - USB-C Review",
+      "description": "The shadowed silhouette of a pair of white, wired Apple EarPods has been a mainstay in modern culture since the early 2000s. This latest generation, the...",
+      "image": "https://djd1xqjx2kdnv.cloudfront.net/photos/39/48/516352_28214_XXL.jpg",
+      "url": "https://www.techgearlab.com/reviews/audio/wired-earbuds/apple-earpods-usb-c"
+    }
+  }
+}

@@ -1,0 +1,110 @@
+{
+  "slug": "av-receivers",
+  "query": "best av receivers",
+  "title": "Best av receivers | Bin Diving",
+  "description": "AI-dug recommendations for best av receivers. Compare options and find one that fits.",
+  "dugAt": "2026-03-18T21:47:23.709Z",
+  "recommendations": [
+    {
+      "product_name": "Marantz Cinema 30",
+      "pros": [
+        "Premium sound quality",
+        "Supports Dolby Atmos & 8K",
+        "HEOS multi-room streaming"
+      ],
+      "cons": [
+        "High price",
+        "Large unit for small rooms"
+      ],
+      "price": null,
+      "amazon_id": "B0CTJSW59R",
+      "sources": [
+        "https://www.whathifi.com/reviews/marantz-cinema-30-av-receiver",
+        "https://www.marantz.com/en-us/product/system-products/cinema-30/300796.html"
+      ],
+      "amazon_url": "https://www.amazon.com/Marantz-Channel-Theater-Receiver-Enhanced/dp/B0CTJSW59R",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/23t8TNNdI4ibLzUcU12a5huCsiY0-_N0QjaqLT5X2uw/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9tYWlz/b25hZGFtLmNhL21l/ZGlhL3d5c2l3eWcv/ZmluaXRpb25fMS5q/cGc",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "Denon AVR-X4800H",
+      "pros": [
+        "Powerful multi-channel performance",
+        "Extensive surround formats (DTS:X Pro, Dolby Atmos)",
+        "Robust HDMI/8K feature set"
+      ],
+      "cons": [
+        "Can be complex to configure",
+        "Reports of occasional HDMI/firmware quirks"
+      ],
+      "price": null,
+      "amazon_id": "B0BHX2K5XL",
+      "sources": [
+        "https://www.tomsguide.com/reviews/denon-avr-x4800h",
+        "https://www.denon.com/product/av-receivers/avr-x4800h/300608.html"
+      ],
+      "amazon_url": "https://www.amazon.com/Denon-AVR-X4800H-9-4-Ch-Receiver-Built/dp/B0BHX2K5XL",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/tr0OHCNglQdbbyY7Pft3P5A57ihNDS86Wtk0_g6mPzI/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9ob21l/dGhlYXRlcmhpZmku/Y29tL3dwLWNvbnRl/bnQvdXBsb2Fkcy8y/MDE1LzA2L0ZpZ3Vy/ZV8zMS5qcGc",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "Yamaha RX-A2A (Aventage)",
+      "pros": [
+        "Reliable Aventage build and tone",
+        "Good room correction and music features",
+        "Supports 4K/HDMI & streaming services"
+      ],
+      "cons": [
+        "Some users report firmware/streaming hiccups",
+        "Not the top choice for ultra-high-end power"
+      ],
+      "price": null,
+      "amazon_id": "B08DWKCHH6",
+      "sources": [
+        "https://usa.yamaha.com/products/audio_visual/av_receivers_amps/rx-a2a/index.html",
+        "https://www.digitaltrends.com/home-theater/best-av-receivers/"
+      ],
+      "amazon_url": "https://www.amazon.com/YAMAHA-AVENTAGE-7-2-Channel-Receiver-MusicCast/dp/B08DWKCHH6",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/vzgjbaxIdkKsr_QMhkrw0KpYkmEL6qqRVieeN5Vq3RI/rs:fit:0:180:1:0/g:ce/aHR0cHM6Ly9pbWFn/ZXMuaG9tZXRoZWF0/ZXJyZXZpZXcuY29t/L2h0ci1zdGF0ZWxl/c3MvMjAyMS8wOC83/NjViZDc1MS02NDI0/NDY2Y3YxMWQtc2Nh/bGVkLmpwZw",
+      "resolver": "brave",
+      "valid": true
+    }
+  ],
+  "resolvedLinks": {
+    "https://www.whathifi.com/reviews/marantz-cinema-30-av-receiver": {
+      "title": "Marantz Cinema 30 review",
+      "description": "What Hi-Fi? Awards 2025 winner. Marantz delivers a premium AVR of rare ability",
+      "image": "https://cdn.mos.cms.futurecdn.net/7zw7r3zCUUwjpBRaXWf8zY-1920-80.jpg",
+      "url": "https://www.whathifi.com/reviews/marantz-cinema-30-av-receiver"
+    },
+    "https://www.marantz.com/en-us/product/system-products/cinema-30/300796.html": {
+      "title": "CINEMA 30 - Reference 11.4 Channel AV Receiver Powered by HEOS™ with Dolby Atmos, 140W, 8K and 7 HDMI Inputs | Marantz - US",
+      "description": "",
+      "image": "https://www.marantz.com/on/demandware.static/-/Sites-master-catalog-soundunited/default/dwd81b8dd8/marantz/PDP_Images/CINEMA30/CINEMA30-Black/CINEMA30-Black_Image_studio-front-on.png",
+      "url": "https://www.marantz.com/en-us/product/av-receivers/cinema-30/300796.html"
+    },
+    "https://www.tomsguide.com/reviews/denon-avr-x4800h": {
+      "title": "Denon AVR-X4800H review: One of the most thrilling AV receivers I've heard",
+      "description": "A future-proof home theater amp that sounds spectacular with all sources",
+      "image": "https://cdn.mos.cms.futurecdn.net/VhcwLStqBBuvxttCcq2kAg-1296-80.jpg",
+      "url": "https://www.tomsguide.com/reviews/denon-avr-x4800h"
+    },
+    "https://usa.yamaha.com/products/audio_visual/av_receivers_amps/rx-a2a/index.html": {
+      "title": "RX-A2A 7.2 Channel Dolby Atmos AV Receiver - Yamaha USA",
+      "description": "Feel True Sound with AVENTAGE 7.2 channel AV receiver A2A: Cinema DSP 3D, Dolby Atmos, DTS:X, HDMI 7-in/1-out, A.R.T technology and more.",
+      "image": "https://usa.yamaha.com/files/ogp_a2a_aaaef16fa459682df02e269c332749bb.jpg",
+      "url": "https://usa.yamaha.com/products/audio_visual/av_receivers_amps/rx-a2a/index.html"
+    },
+    "https://www.digitaltrends.com/home-theater/best-av-receivers/": {
+      "title": "Best AV receivers for 2025: top sound for your home theater",
+      "description": "An AV receiver is one of the most essential components in a complete home theater system. Here are all our favorite AV receivers you can grab in 2024.",
+      "image": "https://www.digitaltrends.com/tachyon/2024/11/marantz-cinema-30-lifestyle-1.jpg?resize=1200%2C630",
+      "url": "https://www.digitaltrends.com/home-theater/best-av-receivers/"
+    }
+  }
+}

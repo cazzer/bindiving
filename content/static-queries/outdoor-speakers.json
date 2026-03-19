@@ -1,0 +1,107 @@
+{
+  "slug": "outdoor-speakers",
+  "query": "best outdoor speakers",
+  "title": "Best outdoor speakers | Bin Diving",
+  "description": "AI-dug recommendations for best outdoor speakers. Compare options and find one that fits.",
+  "dugAt": "2026-03-18T21:40:03.511Z",
+  "recommendations": [
+    {
+      "product_name": "Sonos Outdoor by Sonance (Architectural Outdoor Speakers)",
+      "pros": [
+        "Designed for outdoor durability",
+        "Integrates with Sonos ecosystem"
+      ],
+      "cons": [
+        "Requires amp/wiring",
+        "Higher cost and professional install often recommended"
+      ],
+      "price": null,
+      "amazon_id": "B07M7LJDYZ",
+      "sources": [
+        "https://cdn.pimber.ly/public/asset/raw/5def48dca1cdcc0026e461d9/0ec1c710/664cb69f3e6972003fa2ddeb/PDS_FR_PIM00020190.pdf",
+        "https://www.adorama.com/soampg1usbos.html"
+      ],
+      "amazon_url": "https://www.amazon.com/Sonos-Speakers-Architectural-Speakers-Listening/dp/B07M7LJDYZ",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/mz-bSb00OXmDo6hVVu5uj5Ym_PCnocyWjYVJp5T1o_E/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9tb2Rl/cm5saXZpbmdzdXBw/bHkuY29tL2Nkbi9z/aG9wL2ZpbGVzLzcx/WGNSRjVfLTRMLl9B/Q19TTDE1MDBfODAw/eC5qcGc_dj0xNjk2/OTYzMzQz",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "JBL Charge 6 — Portable Waterproof Bluetooth Speaker",
+      "pros": [
+        "Powerful bass and long battery life",
+        "Rugged, waterproof design (good for outdoor use)"
+      ],
+      "cons": [
+        "Portable (not a mounted outdoor system)",
+        "Some reported availability/color inconsistencies"
+      ],
+      "price": null,
+      "amazon_id": "B0DN35M7S9",
+      "sources": [
+        "https://www.jbl.com/JBLCHARGE6BLKAM.html",
+        "https://www.whathifi.com/best-buys/best-outdoor-speakers-portable-wireless-waterproof"
+      ],
+      "amazon_url": "https://www.amazon.com/JBL-Charge-Waterproof-Drop-Proof-Built/dp/B0DN35M7S9",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/a1vgxsIs3RSPd64ICkJX-II-4ZnM0mZ-Sv1WKaPYDsE/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9tZWRp/YS5zd2VldHdhdGVy/LmNvbS9tL3Byb2R1/Y3RzL2ltYWdlLzE5/ZjFlMWRiMTFSS25C/dzRuN1VtWDM3cHZo/c0MwSzdFaHVxcGww/RDguanBnP3F1YWxp/dHk9MSZoYT0xOWYx/ZTFkYjExZWI0ZjUz",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "Yamaha NS-AW150W 2-Way Indoor/Outdoor Speakers (pair)",
+      "pros": [
+        "Affordable, proven all-weather wired speakers",
+        "Good value for mounted outdoor audio"
+      ],
+      "cons": [
+        "Wired installation required",
+        "Not a high-end audiophile option"
+      ],
+      "price": null,
+      "amazon_id": "B0001VHARE",
+      "sources": [
+        "https://usa.yamaha.com/products/audio_visual/speaker_systems/ns-aw150/index.html",
+        "https://www.tomsguide.com/reviews/yamaha-ns-aw150w"
+      ],
+      "amazon_url": "https://www.amazon.com/Yamaha-NS-AW150WH-Indoor-Outdoor-Speakers/dp/B0001VHARE",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/Xkj-IOVWELdX08W2LKcxGq858NvDE3UWDr5VhXW7Yz0/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9tLm1l/ZGlhLWFtYXpvbi5j/b20vaW1hZ2VzL0kv/NzFpVWR2U29Sakwu/anBn",
+      "resolver": "brave",
+      "valid": true
+    }
+  ],
+  "resolvedLinks": {
+    "https://cdn.pimber.ly/public/asset/raw/5def48dca1cdcc0026e461d9/0ec1c710/664cb69f3e6972003fa2ddeb/PDS_FR_PIM00020190.pdf": {
+      "title": "",
+      "description": "",
+      "image": "",
+      "url": "https://cdn.pimber.ly/public/asset/raw/5def48dca1cdcc0026e461d9/0ec1c710/664cb69f3e6972003fa2ddeb/PDS_FR_PIM00020190.pdf"
+    },
+    "https://www.adorama.com/soampg1usbos.html": {
+      "title": "Sonos Architectural Speaker",
+      "description": "Sonos Sonance Outdoor Set",
+      "image": "https://www.adorama.com/images/300x300/sonos-sonance-outdoor-set-black_soampg1usbos.webp",
+      "url": "https://www.adorama.com/sonos-sonance-architectural-outdoor-speakers-amp-set/p/soampg1usbos"
+    },
+    "https://www.whathifi.com/best-buys/best-outdoor-speakers-portable-wireless-waterproof": {
+      "title": "The weather right now is terrible – you need the best outdoor speakers to make it through the winter",
+      "description": "Great sound for the Great Outdoors",
+      "image": "https://cdn.mos.cms.futurecdn.net/upjuUq9WLX4Dh8dQLs4W6h-1920-80.jpg",
+      "url": "https://www.whathifi.com/best-buys/best-outdoor-speakers-portable-wireless-waterproof"
+    },
+    "https://usa.yamaha.com/products/audio_visual/speaker_systems/ns-aw150/index.html": {
+      "title": "NS-AW150 - Overview - Yamaha USA",
+      "description": "All-weather speaker system with wide frequency response.",
+      "image": "https://usa.yamaha.com/files/12977_12073_1_f8c4b6632defc1be78d52da0a1c4293e.jpg",
+      "url": "https://usa.yamaha.com/products/audio_visual/speaker_systems/ns-aw150/index.html"
+    },
+    "https://www.tomsguide.com/reviews/yamaha-ns-aw150w": {
+      "title": "Yamaha NS-AW150W review",
+      "description": "Affordable and flexible outdoor speakers with good overall sound",
+      "image": "https://cdn.mos.cms.futurecdn.net/JRPXTN9cZxQFbbtXTdCD7Z-2000-80.jpg",
+      "url": "https://www.tomsguide.com/reviews/yamaha-ns-aw150w"
+    }
+  }
+}

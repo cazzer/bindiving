@@ -1,0 +1,131 @@
+{
+  "slug": "toaster-ovens",
+  "query": "best toaster ovens",
+  "title": "Best toaster ovens | Bin Diving",
+  "description": "AI-dug recommendations for best toaster ovens. Compare options and find one that fits.",
+  "dugAt": "2026-03-18T16:52:17.347Z",
+  "recommendations": [
+    {
+      "product_name": "Breville Smart Oven Air Fryer Pro (BOV900BSS)",
+      "pros": [
+        "Large capacity (1 cu ft)",
+        "Element IQ precision heating",
+        "Air fry + many cooking modes"
+      ],
+      "cons": [
+        "Premium price",
+        "Can get hot on top"
+      ],
+      "price": null,
+      "amazon_id": "B01N5UPTZS",
+      "sources": [
+        "https://www.breville.com/en-us/product/bov900",
+        "https://rtings.com/toaster-oven/reviews/breville/the-smart-oven-air-fryer-pro-bov900bss",
+        "https://www.foodnetwork.com/how-to/packages/shopping/product-reviews/best-toaster-ovens"
+      ],
+      "amazon_url": "https://www.amazon.com/Breville-BOV900BSS-Convection-Brushed-Stainless/dp/B01N5UPTZS",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/BpMRDAZiOVC85fTIOKUWJE4Ady1RNkpYtJDvMmUzws8/rs:fit:0:180:1:0/g:ce/aHR0cHM6Ly9jZG4u/c2hvdWxkaXQuY29t/L3Jldmlld3MvaW1h/Z2VzL3RvYXN0ZXIt/b3ZlbnMvY21sYTlu/bnloMDAxemQ0ODgx/cnNlNjFicy5qcGc_/dz0yNTYmcT04MA",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "Cuisinart AirFryer Toaster Oven (TOA-60 / TOA-65 series)",
+      "pros": [
+        "Compact multi-function (air fry, bake, broil)",
+        "Good value for features",
+        "Consistent toasting performance"
+      ],
+      "cons": [
+        "Smaller capacity (best for small households)",
+        "Air-fry performance below basket-style fryers"
+      ],
+      "price": null,
+      "amazon_id": "B01K0W8LTE",
+      "sources": [
+        "https://www.tomsguide.com/reviews/cuisinart-air-fryer-toaster-oven",
+        "https://shouldit.com/toaster-ovens/reviews/cuisinart/cuisinart-toa-60/",
+        "https://www.homesandgardens.com/reviews/cuisinart-toa-60-air-fryer-toaster-oven-review"
+      ],
+      "amazon_url": "https://www.amazon.com/Cuisinart-TOA-60-Fryer-Toaster-Silver/dp/B01K0W8LTE",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/1HkXN4MRWUeRexdNpz6gOUBv-GGQ5rR-3SV9KVJhxEQ/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9tLm1l/ZGlhLWFtYXpvbi5j/b20vaW1hZ2VzL0kv/NzF4d2pBQk5FTkwu/anBn",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "BLACK+DECKER Crisp 'N Bake Air Fry Toaster Oven",
+      "pros": [
+        "Budget-friendly",
+        "Well-rated by users for everyday use",
+        "Space-saving footprint"
+      ],
+      "cons": [
+        "Fewer premium features",
+        "Smaller interior than high-end models"
+      ],
+      "price": null,
+      "amazon_id": "B0CKLXZRMC",
+      "sources": [
+        "https://www.nbcnews.com/select/shopping/best-toaster-oven-rcna134093",
+        "https://bestreviews.com/kitchen/toaster-ovens/best-toaster-ovens",
+        "https://relevantrankings.com/top-10-best-toaster-ovens/"
+      ],
+      "amazon_url": "https://www.amazon.com/BLACK-DECKER-TO1787SS-Functions-Stainless/dp/B0CKLXZRMC",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/MEyhrzt0Dn47Q-pvBzau2SFOEgTlpu_no3h5GgOsfa8/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly93d3cu/dGhlc3BydWNlZWF0/cy5jb20vdGhtYi9T/WC1sejJNamRMdnU1/SGQ3alo0MnQ2QTE2/QWs9L2ZpdC1pbi8x/NTAweDEwMDAvZmls/dGVyczpub191cHNj/YWxlKCk6bWF4X2J5/dGVzKDE1MDAwMCk6/c3RyaXBfaWNjKCk6/Zm9ybWF0KHdlYnAp/L2JsYWNrLWRlY2tl/ci1jcmlzcC1uLWJh/a2UtYWlyLWZyeS00/LXNsaWNlLXRvYXN0/ZXItb3Zlbi1lNzAz/NzBlZDk4M2Q0NmUw/YWJhY2M3ZjIyNGFm/NTRkOS5qcGc",
+      "resolver": "brave",
+      "valid": true
+    }
+  ],
+  "resolvedLinks": {
+    "https://www.breville.com/en-us/product/bov900": {
+      "title": "Smart Oven Air Fryer Pro - Convection Oven | Breville (US)",
+      "description": "Explore 13 smart cooking functions with our advanced smart oven. Air fry, bake, dehydrate, and more - all in one place. Elevate your cooking game effortlessly.",
+      "image": "https://assets.breville.com/cdn-cgi/image/width=1300,format=auto/BOV900/BOV900BSSUSC/pdp_1300px.png?pdp",
+      "url": "https://www.breville.com/en-us/product/bov900"
+    },
+    "https://rtings.com/toaster-oven/reviews/breville/the-smart-oven-air-fryer-pro-bov900bss": {
+      "title": "Breville the Smart Oven Air Fryer Pro BOV900BSS Review",
+      "description": "The Breville the Smart Oven Air Fryer Pro BOV900BSS is a large air fryer/toaster oven combo with a big capacity. This high-end model has some premium features, l...",
+      "image": "https://i.rtings.com/assets/products/or3dgIkh/breville-the-smart-oven-air-fryer-pro-bov900bss/design-medium.jpg?format=auto",
+      "url": "https://www.rtings.com/toaster-oven/reviews/breville/the-smart-oven-air-fryer-pro-bov900bss"
+    },
+    "https://www.foodnetwork.com/how-to/packages/shopping/product-reviews/best-toaster-ovens": {
+      "title": "5 Best Toaster Ovens of 2026, Tested and Reviewed",
+      "description": "We made toast, roasted a chicken and baked cookies to find our top toaster ovens.",
+      "image": "https://food.fnr.sndimg.com/content/dam/images/food/products/2021/9/29/44-FN-ProductTestingImages-ToasterOven-v1.jpg.rend.hgtvcom.616.462.85.suffix/1632949303475.webp",
+      "url": "https://www.foodnetwork.com/how-to/packages/shopping/product-reviews/best-toaster-ovens"
+    },
+    "https://www.tomsguide.com/reviews/cuisinart-air-fryer-toaster-oven": {
+      "title": "Cuisinart Air Fryer + Toaster Oven review: This mini oven puts Ninja to shame",
+      "description": "I’m cooking up a storm with this massive 17 liter oven + air fryer combo",
+      "image": "https://cdn.mos.cms.futurecdn.net/TLk3kJ5cSHYULx6Fj23i5k-2520-80.jpg",
+      "url": "https://www.tomsguide.com/home/home-appliances/cuisinart-air-fryer-and-toaster-oven-review"
+    },
+    "https://shouldit.com/toaster-ovens/reviews/cuisinart/cuisinart-toa-60/": {
+      "title": "Cuisinart TOA-60 AirFryer Toaster Oven In-depth Review",
+      "description": "Cuisinart TOA-60 AirFryer Toaster Oven Review. Simple and straightforward kitchen appliance, sturdy design, and durable material.",
+      "image": "https://cdn.shouldit.com/reviews/images/toaster-ovens/cmj18aadi0022m6888z0mb1zh.jpg",
+      "url": "https://shouldit.com/toaster-ovens/reviews/cuisinart/cuisinart-toa-60/"
+    },
+    "https://www.homesandgardens.com/reviews/cuisinart-toa-60-air-fryer-toaster-oven-review": {
+      "title": "Cuisinart TOA-60 Air Fryer Toaster Oven review",
+      "description": "The Cuisinart TOA-60 Air Fryer Toaster Oven is an air fryer, toaster, oven, and broiler in one, but the capacity means it’s best for small households.",
+      "image": "https://cdn.mos.cms.futurecdn.net/bA8iBjKJtjxwqk6VTbFnkN-2560-80.jpg",
+      "url": "https://www.homesandgardens.com/reviews/cuisinart-toa-60-air-fryer-toaster-oven-review"
+    },
+    "https://www.nbcnews.com/select/shopping/best-toaster-oven-rcna134093": {
+      "title": "Making toast is just the beginning of what these toaster ovens can do.",
+      "description": "Considered a kitchen workhorse, this gadget can help you make various foods.",
+      "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2024-01/240116-toaster-oven-vl-main-50efcd.jpg",
+      "url": "https://www.nbcnews.com/select/shopping/best-toaster-oven-rcna134093"
+    },
+    "https://bestreviews.com/kitchen/toaster-ovens/best-toaster-ovens": {
+      "title": "Best Toaster Ovens",
+      "description": "Few kitchen appliances are as versatile as the toaster oven.  Don't buy a toaster oven before reading these reviews.",
+      "image": "https://cdn.bestreviews.com/images/v4desktop/chubby/def169642fd02260ceea30542bf3d8d3.jpg",
+      "url": "https://bestreviews.com/kitchen/toaster-ovens/best-toaster-ovens"
+    }
+  }
+}

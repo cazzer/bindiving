@@ -1,0 +1,109 @@
+{
+  "slug": "kids-underwear",
+  "query": "best kids underwear",
+  "title": "Best kids underwear | Bin Diving",
+  "description": "AI-dug recommendations for best kids underwear. Compare options and find one that fits.",
+  "dugAt": "2026-03-18T22:22:47.215Z",
+  "recommendations": [
+    {
+      "product_name": "Hanna Andersson Organic Cotton Classic Underwear (kids)",
+      "pros": [
+        "100% organic cotton",
+        "tag-free/smooth seams",
+        "durable — long-lasting"
+      ],
+      "cons": [
+        "higher price than basics",
+        "limited seasonal prints sometimes"
+      ],
+      "price": null,
+      "amazon_id": "B07NYV2X6N",
+      "sources": [
+        "https://www.snkidsunderwear.com/top-10-best-underwear-bottoms-for-toddlers.html",
+        "https://driptu.com/blogs/kids/16-best-underwear-for-kids-2024-parent-picks"
+      ],
+      "amazon_url": "https://www.amazon.com/Moon-Back-Hanna-Andersson-Underwear/dp/B07NYV2X6N",
+      "gpt_azn": null,
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "Burt's Bees Baby Organic Cotton Briefs (5-pack)",
+      "pros": [
+        "organic combed cotton",
+        "soft on sensitive skin",
+        "simple, minimal seams"
+      ],
+      "cons": [
+        "may run small for some kids",
+        "fewer character prints"
+      ],
+      "price": null,
+      "amazon_id": "B0CHTFNYN8",
+      "sources": [
+        "https://www.snkidsunderwear.com/top-10-best-underwear-bottoms-for-toddlers.html",
+        "https://babytoddlerfamily.com/best-underwear-for-kids/"
+      ],
+      "amazon_url": "https://www.amazon.com/Burts-Bees-Baby-Underwear-Tag-Free/dp/B0CHTFNYN8",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/OmR5ZCOI9IrlOBVm2RA2WvO0iv5GLSblWXctt83i6-M/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9pNS53/YWxtYXJ0aW1hZ2Vz/LmNvbS9zZW8vQnVy/dC1zLUJlZXMtQmFi/eS0xMDAtT3JnYW5p/Yy1Db3R0b24tRXh0/cmEtQWJzb3JiZW50/LUluZmFudC1CdXJw/LUNsb3Rocy1Vbmlz/ZXgtNS1QYWNrXzUw/N2ViNjgxLTMxY2Ut/NDE5MS1iZmNlLWRh/Y2VkYzVlOTdjYS5m/ZjkyMTQ2MzgyZDBi/ZWI2MzA2NzdhNmIx/Zjc5MzI2MC5qcGVn/P29kbkhlaWdodD01/NzYmb2RuV2lkdGg9/NTc2Jm9kbkJnPUZG/RkZGRg",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "Hanes Kids 100% Cotton Briefs / Boxer Briefs (multi-pack)",
+      "pros": [
+        "budget-friendly and widely available",
+        "tag-free options",
+        "soft, breathable cotton"
+      ],
+      "cons": [
+        "less durable than premium organic brands",
+        "basic styling/prints"
+      ],
+      "price": null,
+      "amazon_id": "B072MNQZ9J",
+      "sources": [
+        "https://www.glamour.com/story/best-underwear-for-kids",
+        "https://101saw.com/kids-underwear/"
+      ],
+      "amazon_url": "https://www.amazon.com/Hanes-Briefs-Moisture-Wicking-Underwear-Multipack/dp/B072MNQZ9J",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/cZBjGxCONzKIm0VZMBffK2NEsFHwh9KNV4qc0zQBQyc/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9pbWFn/ZXMtbmEuc3NsLWlt/YWdlcy1hbWF6b24u/Y29tL2ltYWdlcy9J/LzgxZFphYk02WGJM/LmpwZw",
+      "resolver": "brave",
+      "valid": true
+    }
+  ],
+  "resolvedLinks": {
+    "https://www.snkidsunderwear.com/top-10-best-underwear-bottoms-for-toddlers.html": {
+      "title": "Top 10 Best Underwear Bottoms for Toddlers - Sui Nian",
+      "description": "",
+      "image": "",
+      "url": "https://www.snkidsunderwear.com/top-10-best-underwear-bottoms-for-toddlers.html"
+    },
+    "https://driptu.com/blogs/kids/16-best-underwear-for-kids-2024-parent-picks": {
+      "title": "16 Best Underwear for Kids (2024 Parent Picks)",
+      "description": "Discover the best underwear for kids in 2024—parent-approved, comfy, breathable, and perfect for everyday wear.",
+      "image": "",
+      "url": "https://driptu.com/blogs/kids/16-best-underwear-for-kids-2024-parent-picks"
+    },
+    "https://babytoddlerfamily.com/best-underwear-for-kids/": {
+      "title": "7 Best Underwear for Kids (2026 Reviews)",
+      "description": "Check out our list of the best underwear for kids with options for every budget and preference. These picks are highly rated and mom-approved!",
+      "image": "https://babytoddlerfamily.com/wp-content/uploads/2021/04/Children-playing-by-sun-flowers.jpg",
+      "url": "https://babytoddlerfamily.com/best-underwear-for-kids/"
+    },
+    "https://www.glamour.com/story/best-underwear-for-kids": {
+      "title": "Parents Say These Are the Best Underwear Brands for Kids",
+      "description": "Wedgie-free for all-day comfort",
+      "image": "https://media.glamour.com/photos/6733d1020bd3a06146b6da96/16:9/w_1280,c_limit/1987036814",
+      "url": "https://www.glamour.com/story/best-underwear-for-kids"
+    },
+    "https://101saw.com/kids-underwear/": {
+      "title": "Top 5 Kids Underwear: A Parent's Buying Guide",
+      "description": "Does your child complain about scratchy tags or waistbands that pinch? You're not alone! Finding the perfect underwear for kids can feel like a mission,",
+      "image": "https://101saw.com/wp-content/uploads/2025/10/Kids_Underwear_combined_image.jpg",
+      "url": "https://101saw.com/kids-underwear/"
+    }
+  }
+}

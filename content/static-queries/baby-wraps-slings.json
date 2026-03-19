@@ -1,0 +1,110 @@
+{
+  "slug": "baby-wraps-slings",
+  "query": "best baby wraps & slings",
+  "title": "Best baby wraps & slings | Bin Diving",
+  "description": "AI-dug recommendations for best baby wraps & slings. Compare options and find one that fits.",
+  "dugAt": "2026-03-18T22:14:28.196Z",
+  "recommendations": [
+    {
+      "product_name": "Solly Baby Wrap Carrier",
+      "pros": [
+        "Breathable, super-soft fabric",
+        "Universal fit, easy to stash",
+        "Popular newborn favorite"
+      ],
+      "cons": [
+        "Lower weight limit",
+        "Thinner fabric offers less long-term support"
+      ],
+      "price": "$74.00",
+      "amazon_id": "B0DBN1CQ76",
+      "sources": [
+        "https://www.babylist.com/hello-baby/best-baby-wraps",
+        "https://sollybaby.com/products/wrap-carrier-black"
+      ],
+      "amazon_url": "https://www.amazon.com/Solly-Baby-Lightweight-Hands-Free-Essentials/dp/B0DBN1CQ76",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/PH31jeW4z2NSdb2tc4GglsrvlyAOBvUOE9ArDaEuajA/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly93d3cu/dGhlbmF0dXJhbGJh/Ynljby5jb20vY2Ru/L3Nob3AvZmlsZXMv/U2NyZWVuc2hvdDIw/MjQtMTEtMDVhdDEw/LjUyLjM3QU0ucG5n/P3Y9MTczMTEwNDY5/NyZ3aWR0aD0xMDgw",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "Boba Baby Wrap (Boba Wrap)",
+      "pros": [
+        "Soft, stretchy material good for newborns",
+        "Machine washable, one-size fits many",
+        "Well-known brand with strong parent reviews"
+      ],
+      "cons": [
+        "Can feel too stretchy for some wearers",
+        "Less breathable than lightweight wraps"
+      ],
+      "price": null,
+      "amazon_id": "B005SP2LWW",
+      "sources": [
+        "https://boba.com/collections/shop-all-boba-wraps",
+        "https://www.thebump.com/a/best-baby-wrap"
+      ],
+      "amazon_url": "https://www.amazon.com/Boba-Baby-Wrap-Carrier-Grey/dp/B005SP2LWW",
+      "gpt_azn": "B0855FQJDC",
+      "image_url": "https://imgs.search.brave.com/gSnMwRgRsnrVDM6jHPAQpjfSXFRjdcff7KA7p7Q_Sqg/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9ib2Jh/LmNvbS9jZG4vc2hv/cC9maWxlcy9Cb2Jh/X1NlcmVuaXR5X0Jh/YnlfV3JhcF9CbG9v/bV8xLndlYnA_Y3Jv/cD1jZW50ZXImaGVp/Z2h0PTI1OTkmdj0x/NzQzNjk1MzcwJndp/ZHRoPTIwMDA",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "Moby Classic Wrap",
+      "pros": [
+        "Long-standing, highly adaptable wrap (many holds)",
+        "Fits all body types",
+        "Widely available and budget-friendly"
+      ],
+      "cons": [
+        "Learning curve to tie correctly",
+        "May be less supportive as baby grows"
+      ],
+      "price": "$44.99",
+      "amazon_id": "B000OY539A",
+      "sources": [
+        "https://www.todaysparent.com/baby/best-baby-carrier/",
+        "https://www.thebabyverse.org/moby-wrap-carrier-classic-review-the-ultimate-comfort-carrier-for-clingy-newborns/"
+      ],
+      "amazon_url": "https://www.amazon.com/Moby-Classic-Baby-Wrap-Black/dp/B000OY539A",
+      "gpt_azn": "B000OY539A",
+      "image_url": "https://imgs.search.brave.com/M-EsEr7ugF4N0xG72k6ITK5LukEDf4Mw85wlr5d9lZo/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9tb2J5/d3JhcC5jb20vY2Ru/L3Nob3AvcHJvZHVj/dHMvVGVycmF6em9f/OTI0MS5qcGc_dj0x/Njg5MDE0MTcxJndp/ZHRoPTcyMA",
+      "resolver": "brave",
+      "valid": true
+    }
+  ],
+  "resolvedLinks": {
+    "https://www.babylist.com/hello-baby/best-baby-wraps": {
+      "title": "",
+      "description": "",
+      "image": "",
+      "url": "https://www.babylist.com/hello-baby/best-baby-wraps"
+    },
+    "https://sollybaby.com/products/wrap-carrier-black": {
+      "title": "Black Wrap",
+      "description": "Wrap your newborn in comfort with the Solly Baby Wrap in Black Ultra-soft, breathable fabric supports bonding and hands-free carrying in the early months.",
+      "image": "http://sollybaby.com/cdn/shop/files/web_black_wrap_1.jpg?v=1745008463",
+      "url": "https://sollybaby.com/products/wrap-carrier-black"
+    },
+    "https://boba.com/collections/shop-all-boba-wraps": {
+      "title": "Shop all Boba Baby Wraps - Boba Inc.",
+      "description": "Boba Baby Wraps are designed to provide stylish comfort and convenience for parents and newborns. Begin your next adventure with a cosy Boba wrap.",
+      "image": "http://boba.com/cdn/shop/collections/boba_piran-13_2_f4af64b9-b1a0-4a33-829d-1cf260c9d26a.jpg?v=1688038592",
+      "url": "https://boba.com/collections/shop-all-boba-wraps"
+    },
+    "https://www.thebump.com/a/best-baby-wrap": {
+      "title": "10 Best Baby Wrap Carriers",
+      "description": "Looking for the best baby wrap? Check out our favorite baby wrap carriers, plus read our tips on how to choose a baby wrap that’s safe and comfy—for you and for your little passenger.",
+      "image": "https://images.ctfassets.net/6m9bd13t776q/6FdFXz8cqD0C6qCVzghOAi/ba05da3db1d65bc5df1e6350673ac852/Best-Baby-Wraps-Hero.png?q=75&w=660",
+      "url": "https://www.thebump.com/a/best-baby-wrap"
+    },
+    "https://www.thebabyverse.org/moby-wrap-carrier-classic-review-the-ultimate-comfort-carrier-for-clingy-newborns/": {
+      "title": "Moby Wrap Carrier Classic Review: The Ultimate Comfort Carrier for Clingy Newborns? - The BabyVerse",
+      "description": "I remember it with crystal clarity: the fourth-trimester fog. My newborn was perfect, but he had one non-negotiable rule—he needed to be held. Constantly. The",
+      "image": "",
+      "url": "https://www.thebabyverse.org/moby-wrap-carrier-classic-review-the-ultimate-comfort-carrier-for-clingy-newborns/"
+    }
+  }
+}

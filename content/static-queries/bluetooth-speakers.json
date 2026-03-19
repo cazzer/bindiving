@@ -1,0 +1,120 @@
+{
+  "slug": "bluetooth-speakers",
+  "query": "best bluetooth speakers",
+  "title": "Best bluetooth speakers | Bin Diving",
+  "description": "AI-dug recommendations for best bluetooth speakers. Compare options and find one that fits.",
+  "dugAt": "2026-03-18T20:20:41.887Z",
+  "recommendations": [
+    {
+      "product_name": "JBL Charge 6",
+      "pros": [
+        "Strong bass and balanced sound",
+        "Long battery life (up to ~28 hrs)",
+        "Rugged, waterproof design with powerbank feature"
+      ],
+      "cons": [
+        "Can be heavy for pocket portability",
+        "May lack high-end detail vs. audiophile models"
+      ],
+      "price": null,
+      "amazon_id": "B0DN2ZCZX6",
+      "sources": [
+        "https://www.techradar.com/audio/wireless-bluetooth-speakers/the-five-star-jbl-charge-6-drops-to-its-lowest-ever-price-on-amazon",
+        "https://www.whathifi.com/best-buys/best-bluetooth-speakers-portable-speakers-for-every-budget"
+      ],
+      "image_url": "https://images-na.ssl-images-amazon.com/images/G/01/x-locale/common/grey-pixel.gif",
+      "images": [
+        "https://images-na.ssl-images-amazon.com/images/G/01/x-locale/common/grey-pixel.gif"
+      ],
+      "amazon_url": "https://www.amazon.com/JBL-Charge-Waterproof-Drop-Proof-Built/dp/B0DN2ZCZX6/ref=mp_s_a_1_3?dib=eyJ2IjoiMSJ9.7p1xpgUjyAhCB8RtpnKqGQX1-28TTTPGkCtHD1yIrhVKh8waOrqAb7B_jnHq_O_Fpzih9Qb6PezWQ0CuJCfoIYfCnTiVTFuoJgkkjZ4r9K85By1LrF-YGHuo5WHavolY6lihWjBk-IFIih_NgOR9BfONjq2MAKri688-XHx_-hnobrgQMrTJh21sgI8odFVZCxDM7ejyyAUNMHo4O6g9Vw.oCu5w6bR0uZcBajbKR364C5-WB1cZhCKR6dmqi0yZ4E&dib_tag=se&keywords=JBL+Charge+6&qid=1773865236&sr=8-3",
+      "brand": "JBL",
+      "blackFriday": false,
+      "gpt_azn": null,
+      "resolver": "cheerio",
+      "valid": true
+    },
+    {
+      "product_name": "Bose SoundLink Max Portable Speaker",
+      "pros": [
+        "Clear, room-filling sound with strong mids",
+        "Solid build and reliable Bluetooth connection",
+        "Good portability for its size"
+      ],
+      "cons": [
+        "Pricey compared with midrange rivals",
+        "Lacks smart assistant integration"
+      ],
+      "price": "$349.00",
+      "amazon_id": "B0CVL1K7DX",
+      "sources": [
+        "https://www.bose.com/p/holiday-sale/bose-soundlink-max-portable-speaker/SLMAX-SPEAKERWIRELESS-BLUDK-NAPL.html",
+        "https://bestreviews.com/electronics/speakers/bose-soundlink-max-portable-speaker"
+      ],
+      "image_url": "https://images-na.ssl-images-amazon.com/images/G/01/x-locale/common/grey-pixel.gif",
+      "images": [
+        "https://images-na.ssl-images-amazon.com/images/G/01/x-locale/common/grey-pixel.gif"
+      ],
+      "amazon_url": "https://www.amazon.com/Bose-SoundLink-Portable-Waterproof-Bluetooth/dp/B0CVL1K7DX/ref=mp_s_a_1_2?dib=eyJ2IjoiMSJ9.mu3xPGVjQRyWzjjLCwbkyw9qdVFWNBX1fPkNhoPjZe2WTlSUMsY_WrwVPEqKA8nAz3bSz-B1tlnWxLAYbKnGMG6hFU6x4xPApxnENi4CWpt0DpeIVduMA-nrShwW77ljYFV8RGsoHRIW4Tw-BiK2I2OLy5QB2sRBHh2IsRSvbIBEshV1UNs3nP0-dDieTmqZG4f0QODpQi-5FoCEb7stow.5dOHQkF9DCziuyIayWNbhG5Y38gwd9oRv4jh1IDrDko&dib_tag=se&keywords=Bose+SoundLink+Max+Portable+Speaker&qid=1773865237&sr=8-2",
+      "brand": "Bose",
+      "blackFriday": false,
+      "gpt_azn": "B0CVLD42PD",
+      "resolver": "cheerio",
+      "valid": true
+    },
+    {
+      "product_name": "Sonos Move 2",
+      "pros": [
+        "Excellent outdoor/indoor sound and bass",
+        "Seamless streaming (Bluetooth + Sonos ecosystem)",
+        "Very good battery life for a smart portable speaker"
+      ],
+      "cons": [
+        "Heavier and pricier than small portables",
+        "Some features require Sonos app/account"
+      ],
+      "price": null,
+      "amazon_id": "B0CGGYYK2D",
+      "sources": [
+        "https://www.tomsguide.com/us/best-outdoor-speakers%2Creview-2785.html",
+        "https://www.whathifi.com/best-buys/best-bluetooth-speakers-portable-speakers-for-every-budget"
+      ],
+      "amazon_url": "https://www.amazon.com/Sonos-Move-Wireless-Portable-Bluetooth/dp/B0CGGYYK2D",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/NyS3pLDjCqo3E-HWMbLefTnh9NOILUPXEYrbkQG-NVk/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9wbGF0/Zm9ybS50aGV2ZXJn/ZS5jb20vd3AtY29u/dGVudC91cGxvYWRz/L3NpdGVzLzIvY2hv/cnVzL3VwbG9hZHMv/Y2hvcnVzX2Fzc2V0/L2ZpbGUvMjQ5Mjk3/NTcvRFNDRjI5MjZf/Mi5qcGc_cXVhbGl0/eT05MCZzdHJpcD1h/bGwmY3JvcD0wLDAs/MTAwLDEwMCZ3PTI0/MDA",
+      "resolver": "brave",
+      "valid": true
+    }
+  ],
+  "resolvedLinks": {
+    "https://www.techradar.com/audio/wireless-bluetooth-speakers/the-five-star-jbl-charge-6-drops-to-its-lowest-ever-price-on-amazon": {
+      "title": "Amazon has slashed the price of this five-star Bluetooth speaker down to a record low",
+      "description": "The JBL Charge 6 is now available at a record-low price of $129.95, thanks to a limited-time deal at Amazon.",
+      "image": "https://cdn.mos.cms.futurecdn.net/VPxuQsbG6Gvdqu8LKF8C4R-2000-80.jpg",
+      "url": "https://www.techradar.com/audio/wireless-bluetooth-speakers/the-five-star-jbl-charge-6-drops-to-its-lowest-ever-price-on-amazon"
+    },
+    "https://www.whathifi.com/best-buys/best-bluetooth-speakers-portable-speakers-for-every-budget": {
+      "title": "Summer will be here soon, and you know what that means: you need a great Bluetooth speaker!",
+      "description": "The best Bluetooth speakers for at-home and on-the-go",
+      "image": "https://cdn.mos.cms.futurecdn.net/omf9vwwbGRJmpXdbrPF9mY-2560-80.jpg",
+      "url": "https://www.whathifi.com/best-buys/best-bluetooth-speakers-portable-speakers-for-every-budget"
+    },
+    "https://www.bose.com/p/holiday-sale/bose-soundlink-max-portable-speaker/SLMAX-SPEAKERWIRELESS-BLUDK-NAPL.html": {
+      "title": "Shop the refurbished SoundLink Max Bluetooth Speaker - Boombox Speaker\n        | Bose",
+      "description": "",
+      "image": "",
+      "url": "https://www.bose.com/p/party/bose-soundlink-max-portable-speaker/SLMAX-SPEAKERWIRELESS-BLUDK-NAPL.html"
+    },
+    "https://bestreviews.com/electronics/speakers/bose-soundlink-max-portable-speaker": {
+      "title": "Bose  SoundLink Max Portable Speaker",
+      "description": "",
+      "image": "",
+      "url": "https://bestreviews.com/electronics/speakers/bose-soundlink-max-portable-speaker"
+    },
+    "https://www.tomsguide.com/us/best-outdoor-speakers%2Creview-2785.html": {
+      "title": "Best outdoor speakers 2025: Tested in our own backyards",
+      "description": "The best outdoor speakers let you enjoy your music in the fresh air — here are our top picks for any budget",
+      "image": "https://cdn.mos.cms.futurecdn.net/fwj9poYDW5jZKc72294hGT-2000-80.jpg",
+      "url": "https://www.tomsguide.com/us/best-outdoor-speakers,review-2785.html"
+    }
+  }
+}

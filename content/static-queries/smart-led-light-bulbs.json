@@ -1,0 +1,129 @@
+{
+  "slug": "smart-led-light-bulbs",
+  "query": "best smart led light bulbs",
+  "title": "Best smart led light bulbs | Bin Diving",
+  "description": "AI-dug recommendations for best smart led light bulbs. Compare options and find one that fits.",
+  "dugAt": "2026-03-18T22:01:41.784Z",
+  "recommendations": [
+    {
+      "product_name": "Philips Hue White and Color Ambiance A19",
+      "pros": [
+        "Excellent color accuracy",
+        "Wide ecosystem & integrations",
+        "Reliable Zigbee/Bluetooth performance"
+      ],
+      "cons": [
+        "More expensive than rivals",
+        "Full features require Hue Bridge"
+      ],
+      "price": null,
+      "amazon_id": "B08D9N7RJ4",
+      "sources": [
+        "https://www.techradar.com/home/smart-lights/philips-hue-smart-bulbs-black-friday-deal-2025",
+        "https://www.philips-hue.com/en-us/p/hue-white-and-color-ambiance-60w-a19-e26-smart-bulb/046677590826",
+        "https://www.t3.com/home-living/smart-home/ive-tested-the-entire-philips-hue-smart-lighting-lineup-here-are-the-3-actually-worth-your-money"
+      ],
+      "amazon_url": "https://www.amazon.com/Philips-Hue-Bluetooth-Compatible-Assistant/dp/B08D9N7RJ4",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/mgjULskP3GExDZk4o1gbkzNBQo7NmyrdOqL_MVh1xm8/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9tLm1l/ZGlhLWFtYXpvbi5j/b20vaW1hZ2VzL0kv/NjFvTlZrRHNuZEwu/anBn",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "Wyze Bulb Color (A19)",
+      "pros": [
+        "Very budget-friendly for color bulbs",
+        "High CRI and strong brightness for price"
+      ],
+      "cons": [
+        "App/firmware issues reported by some users",
+        "Occasional connectivity quirks in forums"
+      ],
+      "price": null,
+      "amazon_id": "B08WZ5THJ7",
+      "sources": [
+        "https://www.pcworld.com/article/579251/wyze-bulb-color-review.html",
+        "https://www.wyze.com/products/wyze-bulb-color",
+        "https://homesecurely.com/lighting/wyze-smart-bulb/"
+      ],
+      "amazon_url": "https://www.amazon.com/Wyze-Color-Tunable-Google-Assistant/dp/B08WZ5THJ7",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/bzNemU58Gk3IV4mcfEf8BC9k7O-Wz46ppfMPnYu76GM/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9tLm1l/ZGlhLWFtYXpvbi5j/b20vaW1hZ2VzL0kv/NTE5NHVORlNCWUwu/anBn",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "LIFX Color A19",
+      "pros": [
+        "Extremely bright and saturated colors",
+        "Direct Wi‑Fi (no hub) & Matter support on newer models"
+      ],
+      "cons": [
+        "Can be pricier than budget bulbs",
+        "Some users report occasional firmware/connectivity problems"
+      ],
+      "price": null,
+      "amazon_id": "B08FWH238Y",
+      "sources": [
+        "https://www.onoff.gr/blog/en/smart-home/lifx-smart-bulbs-review-2026/",
+        "https://www.bestbuy.com/site/reviews/lifx-adjustable-a19-wi-fi-smart-led-light-bulb-75w-equivalent-white/9634099",
+        "https://www.reddit.com/r/lifx/comments/16nw1xkq/does_lifx_now_suck/"
+      ],
+      "amazon_url": "https://www.amazon.com/LIFX-Color-1100lm-Edison-Screw/dp/B08FWH238Y",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/PrhXwc6M54be-xoeDGYlUNXS2lgTRIa_qUw6WfXRob4/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9vcHRp/bWl6ZXlvdXJiaW9s/b2d5LmNvbS93cC1j/b250ZW50L3VwbG9h/ZHMvMjAyNC8wNi9s/aWZ4LWNvbG9yLWEx/OS05dy1wcm9kdWN0/LWltYWdlLndlYnA",
+      "resolver": "brave",
+      "valid": true
+    }
+  ],
+  "resolvedLinks": {
+    "https://www.techradar.com/home/smart-lights/philips-hue-smart-bulbs-black-friday-deal-2025": {
+      "title": "Philips Hue lights have never been cheaper – save on light bulbs, switches, and the HDMI Sync Box",
+      "description": "If you've been waiting for the right time to stock up on Philips Hue bulbs, that moment is now.",
+      "image": "https://cdn.mos.cms.futurecdn.net/R98QXQFU2XniJApbGg7zUg-1920-80.jpg",
+      "url": "https://www.techradar.com/home/smart-lights/philips-hue-black-friday-deals-2025"
+    },
+    "https://www.philips-hue.com/en-us/p/hue-white-and-color-ambiance-60w-a19-e26-smart-bulb/046677590826": {
+      "title": "Hue White and color ambiance 60W A19 - E26 smart bulb | Philips Hue",
+      "description": "Bring the benefits of natural daylight into your home with our smartest bulb yet, redesigned to feature Chromasync™ precision color-matching as well as full-spectrum white light. Achieve your ideal color or tone of white light, then customize even further with ultra-low dimming from full brightness all the way down to 0.2%.",
+      "image": "https://www.assets.signify.com/is/image/Signify/046677590826-929003853701-Hue-WCA-810-A19-E26-1P-NAM-RTP",
+      "url": "https://www.philips-hue.com/en-us/p/hue-white-and-color-ambiance-60w-a19-e26-smart-bulb/046677590826"
+    },
+    "https://www.t3.com/home-living/smart-home/ive-tested-the-entire-philips-hue-smart-lighting-lineup-here-are-the-3-actually-worth-your-money": {
+      "title": "I’ve tested the entire Philips Hue smart lighting lineup – here are the 3 actually worth your money",
+      "description": "A few of these choices might surprise you",
+      "image": "https://cdn.mos.cms.futurecdn.net/LxCPUtNyntNRCSeKgnKTeB-1280-80.png",
+      "url": "https://www.t3.com/home-living/smart-home/ive-tested-the-entire-philips-hue-smart-lighting-lineup-here-are-the-3-actually-worth-your-money"
+    },
+    "https://www.pcworld.com/article/579251/wyze-bulb-color-review.html": {
+      "title": "Wyze Bulb Color review: So close to being our favorite smart bulb",
+      "description": "Wyze’s color smart bulb packs in impressive features given its price range, although some aren’t quite fully baked.",
+      "image": "https://www.pcworld.com/wp-content/uploads/2025/04/wyze-bulb-color-100877463-orig.jpeg?quality=50&strip=all&w=1024",
+      "url": "https://www.pcworld.com/article/579251/wyze-bulb-color-review.html"
+    },
+    "https://www.wyze.com/products/wyze-bulb-color": {
+      "title": "Wyze Color Bulbs | LED, Wifi & Dimmable Smart Light Bulbs",
+      "description": "Light up your life with a dimmable, color-changing smart E26 bulb. 16 million ultra-accurate colors and a wide lumen range. Connects directly to Wi-Fi and works with Google Assistant, Google Home, and Amazon Alexa.",
+      "image": "http://www.wyze.com/cdn/shop/files/wyze-bulb-color-wyze-labs-inc-733750.png?v=1762447654",
+      "url": "https://www.wyze.com/products/wyze-bulb-color"
+    },
+    "https://homesecurely.com/lighting/wyze-smart-bulb/": {
+      "title": "Wyze Smart Bulb Review 2025: Budget-Friendly Smart Lighting Without Compromise - HomeSecurely",
+      "description": "If you're looking to dip your toes into the world of smart lighting without breaking the bank, the Wyze Smart Bulb might be your perfect match. Known for",
+      "image": "https://i0.wp.com/homesecurely.com/wp-content/uploads/2025/04/Wyze-Bulbs.jpg",
+      "url": "https://homesecurely.com/lighting/wyze-smart-bulb/"
+    },
+    "https://www.bestbuy.com/site/reviews/lifx-adjustable-a19-wi-fi-smart-led-light-bulb-75w-equivalent-white/9634099": {
+      "title": "Customer Reviews: LIFX A19 Wi-Fi Smart LED Light Bulb, 75W Equivalent Adjustable White BUL-11-A19-E26-W - Best BuyLoading...",
+      "description": "",
+      "image": "",
+      "url": "https://www.bestbuy.com/site/reviews/lifx-a19-wi-fi-smart-led-light-bulb-75w-equivalent-adjustable-white/9634099"
+    },
+    "https://www.reddit.com/r/lifx/comments/16nw1xkq/does_lifx_now_suck/": {
+      "title": "Reddit - The heart of the internet",
+      "description": "",
+      "image": "",
+      "url": "https://www.reddit.com/r/lifx/comments/16nw1xkq/does_lifx_now_suck/"
+    }
+  }
+}

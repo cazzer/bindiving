@@ -1,0 +1,119 @@
+{
+  "slug": "eyeliners",
+  "query": "best eyeliners",
+  "title": "Best eyeliners | Bin Diving",
+  "description": "AI-dug recommendations for best eyeliners. Compare options and find one that fits.",
+  "dugAt": "2026-03-18T18:10:55.723Z",
+  "recommendations": [
+    {
+      "product_name": "Stila Stay All Day Waterproof Liquid Eye Liner",
+      "pros": [
+        "Very long‑wearing",
+        "Precise micro/brush tip",
+        "Highly pigmented"
+      ],
+      "cons": [
+        "Some users report drying over time",
+        "Limited matte finish options"
+      ],
+      "price": null,
+      "amazon_id": "B0031NNE56",
+      "sources": [
+        "https://www.whowhatwear.com/best-waterproof-eyeliner",
+        "https://www.allure.com/story/best-eyeliners",
+        "https://www.vogue.com/article/best-eyeliner"
+      ],
+      "amazon_url": "https://www.amazon.com/stila-Waterproof-Lasting-Smudge-Proof-Transfer-Resistant/dp/B0031NNE56",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/e8OCBuMn-US3wu2CunimsGlnNN2vGMCa8Q_48WYOWM0/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9pNS53/YWxtYXJ0aW1hZ2Vz/LmNvbS9zZW8vU3Rp/bGEtU3RheS1BbGwt/RGF5LVdhdGVycHJv/b2YtTGlxdWlkLUV5/ZS1MaW5lci1NaWNy/by1UaXAtRGFyay1C/cm93bi0wLTAxNi1v/ei1FeWVsaW5lcl9m/NmU3OGE2Mi01YmU5/LTQyY2EtYTY2MS0w/NmEzNmJkOTAzNzQu/M2VjYTc5MGJkNjRm/YWQ2NzUwMGEzMWNj/NzU3YTljZGMuanBl/Zz9vZG5IZWlnaHQ9/NTczJm9kbldpZHRo/PTU3MyZvZG5CZz1G/RkZGRkY",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "Urban Decay 24/7 Glide‑On Eye Pencil",
+      "pros": [
+        "Creamy, glide‑on formula",
+        "Wide shade range",
+        "Waterproof and long‑wearing"
+      ],
+      "cons": [
+        "Can blunt quickly — needs frequent sharpening",
+        "May smudge on very oily lids"
+      ],
+      "price": null,
+      "amazon_id": "B006Z79SBE",
+      "sources": [
+        "https://www.sephora.com/product/24-7-glide-on-eye-pencil-P133707",
+        "https://www.vogue.com/article/best-eyeliner",
+        "https://www.allure.com/story/best-eyeliners"
+      ],
+      "amazon_url": "https://www.amazon.com/URBAN-DECAY-COSURB224-EYE-PNCL-PERVERSION/dp/B006Z79SBE",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/R3Q1lIRR1_5adWtDt2NxHpyyKZqV0UxYni_tNIZTO18/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly93d3cu/YmVhdXRpZnVsd2l0/aGJyYWlucy5jb20v/d3AtY29udGVudC91/cGxvYWRzLzIwMTEv/MDgvcmV2aWV3LXVy/YmFuLWRlY2F5LTI0/Ny1nbGlkZS1vbi1l/eWUtcGVuY2lsLWlu/LXplcm8uanBn",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "Maybelline EyeStudio Lasting Drama (gel) / Lasting Drama Gel Eyeliner",
+      "pros": [
+        "Very pigmented gel formula",
+        "Great for tightlining and smudged looks",
+        "Affordable drugstore option"
+      ],
+      "cons": [
+        "Some recent users report formula/availability changes",
+        "Gel pots can dry out if not sealed"
+      ],
+      "price": null,
+      "amazon_id": "B0030HNNS6",
+      "sources": [
+        "https://www.maybelline.com/eye-makeup/eyeliner/eyestudio-lasting-drama-gel-eyeliner",
+        "https://www.today.com/shop/best-eyeliners-older-women-rcna190719",
+        "https://www.whowhatwear.com/best-liquid-eyeliners"
+      ],
+      "amazon_url": "https://www.amazon.com/Maybelline-Eyestudio-Lasting-Blackest-Waterproof/dp/B0030HNNS6",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/gCOvTwvsxaz5Ds4KgUm1yJAL-N39L-RbIIndlYsfcUY/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9pLnBp/bmltZy5jb20vb3Jp/Z2luYWxzLzVhLzgw/L2FiLzVhODBhYjJj/OWNiMjI1Y2MxYjAx/MWIzM2ZiNWY1MmIz/LmpwZw",
+      "resolver": "brave",
+      "valid": true
+    }
+  ],
+  "resolvedLinks": {
+    "https://www.whowhatwear.com/best-waterproof-eyeliner": {
+      "title": "We Swam, Sunbathed, and Sweated Through 16 \"Waterproof\" Eyeliners—These Came Out on Top",
+      "description": "They never smudged, faded, or transferred.",
+      "image": "https://cdn.mos.cms.futurecdn.net/wEeFiBTFp6qigPjGyYytMS-1200-80.jpg",
+      "url": "https://www.whowhatwear.com/best-waterproof-eyeliner"
+    },
+    "https://www.allure.com/story/best-eyeliners": {
+      "title": "We’ve Tested Hundreds of Eyeliners, and These Are the Absolute Best",
+      "description": "Zero tug, all glide.",
+      "image": "https://media.allure.com/photos/68dae77d3a7dbaf1784398de/16:9/w_1280,c_limit/Allure_BoB_On_Model_2024_Eyes.jpg",
+      "url": "https://www.allure.com/story/best-eyeliners-of-all-time"
+    },
+    "https://www.vogue.com/article/best-eyeliner": {
+      "title": "There’s No Debate—These Are the Best Eyeliners of All Time",
+      "description": "Foolproof formulas the pros and editors can’t live without.",
+      "image": "https://assets.vogue.com/photos/66f1d562c797ed594a31c3cf/16:9/w_1280,c_limit/435666837_18147916441312920_430225290617612130_n.jpg",
+      "url": "https://www.vogue.com/article/best-eyeliner"
+    },
+    "https://www.maybelline.com/eye-makeup/eyeliner/eyestudio-lasting-drama-gel-eyeliner": {
+      "title": "Eyestudio® Lasting Drama® Gel Eyeliner - Maybelline",
+      "description": "Discover Maybelline's Eyestudio Lasting Drama Gel Eyeliner Makeup for long-lasting gel that achieves dramatic eye looks with a smudge proof, waterproof formula.",
+      "image": "https://www.maybelline.com/-/media/project/loreal/brand-sites/mny/americas/us/global/seo-image/maybelline-logo.jpg?rev=5c1a69c210ee4a42a8ee84dc03620d90",
+      "url": "https://www.maybelline.com/eye-makeup/eyeliner/tattoo-studio-gel-pot-eyeliner"
+    },
+    "https://www.today.com/shop/best-eyeliners-older-women-rcna190719": {
+      "title": "Makeup Artists Reveal What to Look for In An Eyeliner for Mature Skin — Plus, Best Picks",
+      "description": "Shop easy-to-apply eyeliners from Charlotte Tilbury, Tarte, Maybelline and more.",
+      "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_social_share_1200x630_center,f_auto,q_auto:best/rockcms/2025-02/250205-eyeliner-mature-skin-vl-main-1ea298.jpg",
+      "url": "https://www.today.com/shop/best-eyeliners-older-women-rcna190719"
+    },
+    "https://www.whowhatwear.com/best-liquid-eyeliners": {
+      "title": "How to Apply Liquid Liner Like a Makeup Artist (Yes, It's Simpler Than You Think)",
+      "description": "It's as easy as 1, 2, 3.",
+      "image": "https://cdn.mos.cms.futurecdn.net/UaJw7SQXvseb8adCyFiQra-1200-80.jpg",
+      "url": "https://www.whowhatwear.com/best-liquid-eyeliners"
+    }
+  }
+}

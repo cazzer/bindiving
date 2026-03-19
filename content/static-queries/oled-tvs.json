@@ -1,0 +1,125 @@
+{
+  "slug": "oled-tvs",
+  "query": "best oled tvs",
+  "title": "Best oled tvs | Bin Diving",
+  "description": "AI-dug recommendations for best oled tvs. Compare options and find one that fits.",
+  "dugAt": "2026-03-18T21:49:34.510Z",
+  "recommendations": [
+    {
+      "product_name": "Sony BRAVIA XR A95L (QD‑OLED)",
+      "pros": [
+        "Outstanding color & contrast",
+        "Excellent HDR performance",
+        "Great built‑in sound"
+      ],
+      "cons": [
+        "Premium price",
+        "Large sizes are expensive"
+      ],
+      "price": null,
+      "amazon_id": "B0BYPYRH4F",
+      "sources": [
+        "https://www.rtings.com/tv/reviews/best/by-type/oled",
+        "https://www.tomsguide.com/tvs/oled-tvs/i-test-tvs-for-a-living-this-amazing-4-5-star-sony-oled-is-usd800-off-on-amazon-right-now",
+        "https://www.whathifi.com/best-buys/tvs/best-oled-tvs"
+      ],
+      "amazon_url": "https://www.amazon.com/Sony-QD-OLED-inch-BRAVIA-Ultra/dp/B0BYPYRH4F",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/CpqTV77Erub2LK6zYZ7dJyjH9hxkefmT8tlAqzmcrqA/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9tLm1l/ZGlhLWFtYXpvbi5j/b20vaW1hZ2VzL0kv/ODFrMmhJYjE5Y0wu/anBn",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "LG OLED evo G5 (G5 series)",
+      "pros": [
+        "High brightness for an OLED",
+        "Excellent color accuracy",
+        "Good value for a flagship"
+      ],
+      "cons": [
+        "Glossy screen can reflect light",
+        "Premium models are pricey"
+      ],
+      "price": null,
+      "amazon_id": "B0DYQR8R98",
+      "sources": [
+        "https://www.rtings.com/tv/reviews/best/by-type/oled",
+        "https://www.tomsguide.com/tvs/lg-g5-vs-sony-bravia-8-ii",
+        "https://www.wired.com/story/lg-g5-oled-deal-1025/"
+      ],
+      "amazon_url": "https://www.amazon.com/LG-Upscaling-Filmmaker-Orchestra-OLED65G5WUA/dp/B0DYQR8R98",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/PSpYfSJj3kjh_shFtXgc5IBx6xZeGG4YOfpB5iT4Z2I/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly93d3cu/bGcuY29tL2NvbnRl/bnQvZGFtL2NoYW5u/ZWwvd2Ntcy9jYV9l/bi8yMDI1X21zX2xn/LWNvbS90di9vbGVk/LWV2by9nNS9ncDEv/Z2FsbGVyeS82NS1n/NS1hL3RodW1ibmFp/bC9TWi0wMV9DQV9F/Tl9WMS5qcGc",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "Samsung S95F (QD‑OLED)",
+      "pros": [
+        "Very bright QD‑OLED panel",
+        "Matte/anti‑glare finish",
+        "Strong game features and HDMI 2.1"
+      ],
+      "cons": [
+        "Can be expensive at larger sizes",
+        "Some early firmware quirks reported"
+      ],
+      "price": null,
+      "amazon_id": "B0DXMJFJ7W",
+      "sources": [
+        "https://www.wired.com/review/samsung-s95f/",
+        "https://www.techradar.com/televisions/the-five-star-samsung-s90f-is-a-true-2025-tv-hero-and-right-now-its-the-ultimate-super-bowl-tv-deal-thanks-to-a-record-low-price-cut",
+        "https://www.rtings.com/tv/reviews/best/by-type/oled"
+      ],
+      "amazon_url": "https://www.amazon.com/SAMSUNG-65-Inch-Processor-Xcelerator-Samsung/dp/B0DXMJFJ7W",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/XVCJAgQRmGoUCB_gh8QGHP6a-RyA9vDa6EE2fZ8QVT8/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9zbWFy/dGhvbWVzb3VuZHMu/c2lydi5jb20vbGl2/ZS1tYWdlbnRvL3Nv/em9faW1hZ2lmeS81/ZTU2ZGY1ZWZmMzE5/Yzk3NGMxMjUzYmQy/OWRlMWM0Zi92YXIv/d3d3X20yL3NtYXJ0/aG9tZXNvdW5kcy5j/by51ay9odGRvY3Mv/d3Avd3AtY29udGVu/dC91cGxvYWRzLzIw/MjUvMDEvc2Ftc3Vu/Zy1zOTVmLWZpcnN0/LWxvb2stdGh1bWJu/YWlsLmpwZw",
+      "resolver": "brave",
+      "valid": true
+    }
+  ],
+  "resolvedLinks": {
+    "https://www.rtings.com/tv/reviews/best/by-type/oled": {
+      "title": "The 3 Best OLED TVs of 2026",
+      "description": "The Samsung S95F OLED is the best OLED TV we've tested. It truly does it all, with an outstanding combination of top-tier image quality, gaming performance, and versatility.",
+      "image": "https://i.rtings.com/assets/pages/k02H1h7p/best-oled-tv-20230913-medium.jpg?format=auto",
+      "url": "https://www.rtings.com/tv/reviews/best/by-type/oled"
+    },
+    "https://www.tomsguide.com/tvs/oled-tvs/i-test-tvs-for-a-living-this-amazing-4-5-star-sony-oled-is-usd800-off-on-amazon-right-now": {
+      "title": "I test TVs for a living — this amazing 4.5-star Sony OLED is $800 off on Amazon right now",
+      "description": "This 2023 remains one of the best OLEDs you can buy",
+      "image": "https://cdn.mos.cms.futurecdn.net/gVtjVVGPGpBp2A7aebK25L-2000-80.jpg",
+      "url": "https://www.tomsguide.com/tvs/oled-tvs/i-test-tvs-for-a-living-this-amazing-4-5-star-sony-oled-is-usd800-off-on-amazon-right-now"
+    },
+    "https://www.whathifi.com/best-buys/tvs/best-oled-tvs": {
+      "title": "LG's latest set just stormed into our best OLED TV guide",
+      "description": "5 top sets recommended by our reviewers",
+      "image": "https://cdn.mos.cms.futurecdn.net/eTtJEGDsCL85LRgP98BppY-1920-80.jpg",
+      "url": "https://www.whathifi.com/best-buys/tvs/best-oled-tvs"
+    },
+    "https://www.tomsguide.com/tvs/lg-g5-vs-sony-bravia-8-ii": {
+      "title": "LG G5 vs Sony Bravia 8 II: Which flagship OLED TV wins?",
+      "description": "Two of the best OLED TVs in the world clash in a brawl for the ages",
+      "image": "https://cdn.mos.cms.futurecdn.net/GQqrdQXWJgyGGHKs78pWpD-2000-80.jpg",
+      "url": "https://www.tomsguide.com/tvs/lg-g5-vs-sony-bravia-8-ii"
+    },
+    "https://www.wired.com/story/lg-g5-oled-deal-1025/": {
+      "title": "Our Favorite Premium TV Is $500 Off",
+      "description": "Save a chunk of cash on the amazing 65-inch LG G5 OLED.",
+      "image": "https://media.wired.com/photos/6904f29fb3f38e03db299fc3/191:100/w_1280,c_limit/Our%20Favorite%20Premium%20TV%20Is%20$500%20Off.png",
+      "url": "https://www.wired.com/story/lg-g5-oled-deal-1025/"
+    },
+    "https://www.wired.com/review/samsung-s95f/": {
+      "title": "I Hate the Interface, but This Is the Most Gorgeous TV I’ve Seen All Year",
+      "description": "This matte-screen QD-OLED is the prettiest TV I have seen in 2025.",
+      "image": "https://media.wired.com/photos/68af88b3cd4e8856fc655d8c/191:100/w_1280,c_limit/Review-%20Samsung%20S95F%20QD-OLED%20TV.png",
+      "url": "https://www.wired.com/review/samsung-s95f/"
+    },
+    "https://www.techradar.com/televisions/the-five-star-samsung-s90f-is-a-true-2025-tv-hero-and-right-now-its-the-ultimate-super-bowl-tv-deal-thanks-to-a-record-low-price-cut": {
+      "title": "Samsung is knocking a huge $1,100 off a model that we called 'A true 2025 TV hero' - just in time for the Super Bowl 2026",
+      "description": "We love the Samsung S90F's combination of picture quality, gaming chops, and value - especially with this record-low price at the official Samsung Store.",
+      "image": "https://cdn.mos.cms.futurecdn.net/X9qbwrKXvoRi5rwytGTBV6-2560-80.jpg",
+      "url": "https://www.techradar.com/televisions/the-five-star-samsung-s90f-is-a-true-2025-tv-hero-and-right-now-its-the-ultimate-super-bowl-tv-deal-thanks-to-a-record-low-price-cut"
+    }
+  }
+}

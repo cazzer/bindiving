@@ -1,0 +1,134 @@
+{
+  "slug": "modems",
+  "query": "best modems",
+  "title": "Best modems | Bin Diving",
+  "description": "AI-dug recommendations for best modems. Compare options and find one that fits.",
+  "dugAt": "2026-03-18T19:12:36.302Z",
+  "recommendations": [
+    {
+      "product_name": "ARRIS SURFboard S34 DOCSIS 3.1 Cable Modem",
+      "pros": [
+        "Multi‑Gig 2.5GbE port",
+        "DOCSIS 3.1 (future‑proof)",
+        "Approved for major US cable ISPs"
+      ],
+      "cons": [
+        "No built‑in Wi‑Fi (needs separate router)",
+        "Runs warm under heavy load",
+        "Some users report ISP activation quirks"
+      ],
+      "price": null,
+      "amazon_id": "B0D94ZWX81",
+      "sources": [
+        "https://www.tomsguide.com/us/best-modems%2Creview-2832.html",
+        "https://www.surfboard.com/products/cable-modems/s34/",
+        "https://minipcreviewer.com/arris-surfboard-s34-review-multi-gig-cable-modem/"
+      ],
+      "amazon_url": "https://www.amazon.com/ARRIS-Surfboard-S34-Multi-Gigabit-Next-Generation/dp/B0D94ZWX81",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/BA1oD7-no3glyYbCzAk2ZTck4v5oKwi4tV96-Mjxv-k/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9pLmVi/YXlpbWcuY29tL2lt/YWdlcy9nL2VMd0FB/ZVN3NEdocEJUVDYv/cy1sNTAwLmpwZw",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "Motorola MB8611 DOCSIS 3.1 Multi‑Gig Cable Modem",
+      "pros": [
+        "2.5GbE port for multi‑gig plans",
+        "Widely recommended and stable DOCSIS 3.1 modem",
+        "Compact design and easy setup"
+      ],
+      "cons": [
+        "Modem‑only (requires separate router)",
+        "Occasional user reports of ISP compatibility changes",
+        "Higher cost than basic DOCSIS 3.0 units"
+      ],
+      "price": null,
+      "amazon_id": "B08DDFKXKC",
+      "sources": [
+        "https://en-us.support.motorola.com/app/answers/detail/a_id/176946/~/mb8611-technical-specifications",
+        "https://www.modemguides.com/products/motorola-mb8611",
+        "https://en-us.support.motorola.com/app/answers/detail/a_id/176891/~/specifications---mb8611-%7C-cable-modem"
+      ],
+      "amazon_url": "https://www.amazon.com/MOTOROLA-MB8611-Ethernet-Approved-Comcast/dp/B08DDFKXKC",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/HMmHvlwn3n3tTz5f87iT3r3bUYNvef4wiX7aIUpKuro/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9pLmVi/YXlpbWcuY29tL2lt/YWdlcy9nL3dOMEFB/T1N3RDNwb0xic2Mv/cy1sNTAwLmpwZw",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "Hitron CODA56 DOCSIS 3.1 Cable Modem",
+      "pros": [
+        "2.5GbE multi‑gig capability",
+        "Approved for major US cable providers",
+        "Good value for multi‑gig features"
+      ],
+      "cons": [
+        "Mixed user reports about stability/firmware",
+        "Modem‑only (needs separate router)",
+        "Some users report activation/compatibility headaches with certain ISPs"
+      ],
+      "price": null,
+      "amazon_id": "B0BKZ4DHNL",
+      "sources": [
+        "https://us.hitrontech.com/products/consumers/coda56/",
+        "https://www.modemguides.com/products/hitron-coda56",
+        "https://minipcreviewer.com/hitron-coda56-modem-review-speed-and-savings/"
+      ],
+      "amazon_url": "https://www.amazon.com/Hitron-CODA56-Multi-Gigabit-Certified-Spectrum/dp/B0BKZ4DHNL",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/it1Tu_WWbZGvSJmDab-YeMiUGwnVn6V_-34rIgHJXxs/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9pLmVi/YXlpbWcuY29tL2lt/YWdlcy9nL0hJNEFB/ZVN3a29ocFc4U2wv/cy1sNTAwLmpwZw",
+      "resolver": "brave",
+      "valid": true
+    }
+  ],
+  "resolvedLinks": {
+    "https://www.tomsguide.com/us/best-modems%2Creview-2832.html": {
+      "title": "Best cable modems in 2026: Say goodbye to equipment rental fees for good",
+      "description": "The best cable modems can help lower your monthly internet bill — here's how",
+      "image": "https://cdn.mos.cms.futurecdn.net/bBkSdj8KqjJE7TBbHVEvFa-2000-80.jpg",
+      "url": "https://www.tomsguide.com/us/best-modems,review-2832.html"
+    },
+    "https://www.surfboard.com/products/cable-modems/s34/": {
+      "title": "S34 SURFboard® DOCSIS® 3.1 Cable Modem",
+      "description": "The SURFboard® S34 will future-proof your home with the latest DOCSIS® technology, supporting multi-gigabit Internet plans. Featuring support for Next Generation Upload Speed service Tiers with switchable low to mid support. The SURFboard S34 includes a 2.5 Gbps Ethernet port, and a 1 Gbps LAN ports.",
+      "image": "https://www.surfboard.com/upload/product-demo/cm_s34_hero_right.png.png",
+      "url": "https://www.surfboard.com/products/cable-modems/s34/"
+    },
+    "https://en-us.support.motorola.com/app/answers/detail/a_id/176946/~/mb8611-technical-specifications": {
+      "title": "MB8611 Technical specifications| Motorola Support US",
+      "description": "",
+      "image": "",
+      "url": "https://en-us.support.motorola.com/app/answers/detail/a_id/176946/~/mb8611-technical-specifications"
+    },
+    "https://www.modemguides.com/products/motorola-mb8611": {
+      "title": "Motorola MB8611 DOCSIS 3.1 Multi-Gig Cable Modem (2.5 Gbps)",
+      "description": "Unlock gigabit-plus internet with the Motorola MB8611. This DOCSIS 3.1 modem is approved for use with major cable ISPs and features a 2.5 GbE port, low-latency AQM, and seamless pairing with any Wi-Fi router. Key Features DOCSIS 3.1 (backward compatible with 32x8 DOCSIS 3.0) 2.5 Gbps Ethernet for multi-gig routers, PCs",
+      "image": "http://www.modemguides.com/cdn/shop/files/Copy_of_Untitled_Design_4_4d90dd55-4ef5-40c1-8fe2-b340f9d2586d.png?v=1762544840",
+      "url": "https://www.modemguides.com/products/motorola-mb8611"
+    },
+    "https://en-us.support.motorola.com/app/answers/detail/a_id/176891/~/specifications---mb8611-%7C-cable-modem": {
+      "title": "",
+      "description": "",
+      "image": "",
+      "url": "https://en-us.support.motorola.com/ci/fattach/get/82899680/1703008337/redirect/1/session/L2F2LzEvdGltZS8xNzczODYxMTUyL2dlbi8xNzczODYxMTUyL3NpZC9mVTBEZENVMFVJS1EzcVZXTjdQaGRzR01fT2szeUtXMWJsQlpYM0xwb3pjTEZpTk5COThZZno5OCU3RU84T1lwREtWcFhxT0xzb3V1Y2NZbmFuNGVnUUtUTWFjdFhNVnlhMFRUSyU3RWIyckgwOV9oendlazBqMEtLWFFRJTIxJTIx/filename/MB8611-DataSheet-21920.pdf"
+    },
+    "https://us.hitrontech.com/products/consumers/coda56/": {
+      "title": "Hitron CODA56 | Top Selling DOCSIS 3.1 Cable Modem",
+      "description": "Increase Internet speeds up to 2.5 Gbps with the Hitron CODA56 DOCSIS 3.1 cable modem. Enjoy faster streaming, gaming. Eliminate modem rental fees. Order now!",
+      "image": "https://us.hitrontech.com/wp-content/uploads/2022/11/Coda56_box_06_01.webp",
+      "url": "https://us.hitrontech.com/products/consumers/coda56/"
+    },
+    "https://www.modemguides.com/products/hitron-coda56": {
+      "title": "Hitron CODA56 DOCSIS 3.1 Cable Modem | 2.5GbE Multi-Gig",
+      "description": "Hitron CODA56 DOCSIS 3.1 cable modem with 2.5GbE Ethernet. Compatible with Xfinity, Spectrum & Cox. Ideal for gigabit and multi-gig plans.",
+      "image": "http://www.modemguides.com/cdn/shop/files/CopyofUntitledDesign_15.png?v=1769629359",
+      "url": "https://www.modemguides.com/products/hitron-coda56"
+    },
+    "https://minipcreviewer.com/hitron-coda56-modem-review-speed-and-savings/": {
+      "title": "Hitron CODA56 Modem Review: Speed and Savings - Mini PC Reviewer",
+      "description": "Unlock 2.5 Gbps potential and ditch monthly rental fees—discover if the Hitron CODA56 delivers real-world speed and savings.",
+      "image": "https://minipcreviewer.com/wp-content/uploads/2025/09/fast_performance_cost_effective_solution_jidyf.jpg",
+      "url": "https://minipcreviewer.com/hitron-coda56-modem-review-speed-and-savings/"
+    }
+  }
+}

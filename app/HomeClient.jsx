@@ -157,7 +157,7 @@ export default function HomeClient({ initialTeasers = [] }) {
       {hasError && !isSearching && <ErrorResponseParser valid={false} message={error?.message} />}
 
       {!hasResults && teasers.length > 0 && (
-        <section className="flex flex-col gap-4">
+        <section className="flex flex-col gap-4 mb-8">
           <h2 className="text-sm font-display text-base-content/70 text-center">
             Or keep digging through these pre-dug finds:
           </h2>
@@ -167,7 +167,7 @@ export default function HomeClient({ initialTeasers = [] }) {
                 key={teaser.slug}
                 type="button"
                 onClick={() => router.push(`/best/${teaser.slug}`)}
-                className="text-left rounded-xl border border-[var(--retro-border)] bg-base-100 p-4 hover:bg-base-200 transition-colors flex flex-col gap-3"
+                className="text-left rounded-xl border border-[var(--retro-border)] bg-base-100 p-4 hover:bg-base-200 transition-colors flex flex-col gap-3 min-w-0 overflow-hidden"
               >
                 {teaser.image && (
                   <div className="w-full aspect-[4/3] overflow-hidden rounded-lg bg-base-200">
@@ -185,10 +185,10 @@ export default function HomeClient({ initialTeasers = [] }) {
                     {teaser.query}
                   </span>
                 </div>
-                <ul className="text-xs space-y-1">
+                <ul className="text-xs space-y-1 min-w-0 break-words">
                   {teaser.recommendations?.slice(0, 2).map((rec, idx) => (
-                    <li key={idx} className="truncate">
-                      <span className="font-medium">{rec.product_name}</span>
+                    <li key={idx} className="break-words">
+                      <span className="font-medium break-words">{rec.product_name}</span>
                       {rec.price ? (
                         <span className="text-base-content/70"> · {rec.price}</span>
                       ) : null}

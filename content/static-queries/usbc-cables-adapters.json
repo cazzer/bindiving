@@ -1,0 +1,110 @@
+{
+  "slug": "usbc-cables-adapters",
+  "query": "best usb‑c cables & adapters",
+  "title": "Best usb‑c cables & adapters | Bin Diving",
+  "description": "AI-dug recommendations for best usb‑c cables & adapters. Compare options and find one that fits.",
+  "dugAt": "2026-03-18T19:20:48.689Z",
+  "recommendations": [
+    {
+      "product_name": "Anker PowerLine III / Anker Prime USB-C to USB-C (240W) cable",
+      "pros": [
+        "Supports up to 240W charging",
+        "Durable braided/silicone construction",
+        "USB-IF/EPR safety compliance (from manufacturer)"
+      ],
+      "cons": [
+        "Higher-cost than basic cables",
+        "Some reports of mixed longevity in user threads"
+      ],
+      "price": null,
+      "amazon_id": "B086DMNK8R",
+      "sources": [
+        "https://www.anker.com/products/a88e2-anker-prime-usb-c-cable-3-ft-240w-upcycled-braided",
+        "https://www.anker.com/blogs/cables/best-usb-c-cables-to-find-the-perfect-fit-for-you",
+        "https://www.howtogeek.com/768524/best-usb-c-cable/"
+      ],
+      "amazon_url": "https://www.amazon.com/Anker-Powerline-Charger-Charging-MacBook/dp/B086DMNK8R",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/6TyPmO87hm2mWcbZftiNUDL4FzKECwjpeVb8vcuEPNY/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9pbWFn/ZXMtbmEuc3NsLWlt/YWdlcy1hbWF6b24u/Y29tL2ltYWdlcy9J/LzgxUVpxZkVYTzdM/LmpwZw",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "Cable Matters USB-C to 8K HDMI / USB-C Multiport (48Gbps HDMI) cables/adapters",
+      "pros": [
+        "High-bandwidth HDMI cables (HDMI 2.1 / 48Gbps) for 8K/4K@120Hz",
+        "Good reputation for specs and value",
+        "Variety of multiport/multi-function adapters available"
+      ],
+      "cons": [
+        "Length and device compatibility matter for full bandwidth",
+        "Some hubs/adapters have mixed reports for specific laptop combinations"
+      ],
+      "price": null,
+      "amazon_id": "B08QDV5H4M",
+      "sources": [
+        "https://www.howtogeek.com/768524/best-usb-c-cable/",
+        "https://minipcreviewer.com/cable-matters-usb-c-adapter-review/"
+      ],
+      "amazon_url": "https://www.amazon.com/Cable-Matters-48Gbps-Adapter-Supporting/dp/B08QDV5H4M",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/vOAqDVA9TQex1wTEjlhO7d-QiIo4M5yi7ZeEuFi5bZ8/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly93d3cu/Y2FibGVtYXR0ZXJz/LmNvbS9pbWFnZXMv/UHJvZHVjdC9tZWRp/dW0vMTQ4NS53ZWJw",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "Satechi USB-C Multiport Adapter (Multiport Adapter 8K with Ethernet V3)",
+      "pros": [
+        "Well-regarded compact hub with HDMI, Ethernet, PD passthrough",
+        "Good build quality for travel/desk use",
+        "Positive reviews for feature set and reliability"
+      ],
+      "cons": [
+        "Power passthrough and display behavior can vary by host laptop",
+        "Larger multiport hubs exist if you need more ports"
+      ],
+      "price": null,
+      "amazon_id": "B0CVR1PJVM",
+      "sources": [
+        "https://www.macworld.com/article/2290458/satechi-usb-c-multiport-adapter-8k-with-ethernet-v3-review.html"
+      ],
+      "amazon_url": "https://www.amazon.com/Satechi-Multiport-Adapter-Charging-Ethernet/dp/B0CVR1PJVM",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/r9rD0AMXyy3f3jNY7GF5XaJZYY0XX6XwxfjbciqwdI4/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9jZG4u/c2hvcGlmeS5jb20v/cy9maWxlcy8xLzE1/MjAvNDM2Ni9maWxl/cy91c2ItYy1tdWx0/aXBvcnQtYWRhcHRl/ci04ay13aXRoLWV0/aGVybmV0LXYzLWFk/YXB0ZXJzLXNhdGVj/aGktOTU0NzEwLnBu/Zz92PTE3MDk1ODU1/MjA",
+      "resolver": "brave",
+      "valid": true
+    }
+  ],
+  "resolvedLinks": {
+    "https://www.anker.com/products/a88e2-anker-prime-usb-c-cable-3-ft-240w-upcycled-braided": {
+      "title": "Anker Prime USB-C to USB-C Cable (240W, Upcycled-Braided)",
+      "description": "Ultra-Powerful 240W Charging: Lead a more efficient life with the capability to boost a 16-inch MacBook Pro (M3 Pro) to 50% in just 26 minutes, thanks to t",
+      "image": "https://cdn.shopify.com/s/files/1/0493/9834/9974/files/A88E2011_Richimage_nocopy_2000x2000px_29105b88-b02b-4db3-8bc7-a1922c1dc75f.png?v=1768183217",
+      "url": "https://www.anker.com/products/a88e2-anker-prime-usb-c-cable-3-ft-240w-upcycled-braided"
+    },
+    "https://www.anker.com/blogs/cables/best-usb-c-cables-to-find-the-perfect-fit-for-you": {
+      "title": "Best USB C Cable in 2026 for Fast Charging",
+      "description": "Discover the best USB C cables, featuring top-rated picks for fast charging and quality for Android and Apple Users, plus tips on picking the right one.",
+      "image": "https://cdn.shopify.com/s/files/1/0493/9834/9974/articles/anker762_ecca287c-b07f-46f5-ae04-11132e755303.jpg?v=1768535847",
+      "url": "https://www.anker.com/blogs/cables/best-usb-c-cables-to-find-the-perfect-fit-for-you"
+    },
+    "https://www.howtogeek.com/768524/best-usb-c-cable/": {
+      "title": "The Best USB-C Cables of 2025",
+      "description": "Looking for a reliable USB-C cable? We have the perfect one for you.",
+      "image": "https://static0.howtogeekimages.com/wordpress/wp-content/uploads/2024/09/53742468342_0520fe1493_o.jpg?w=1600&h=900&fit=crop",
+      "url": "https://www.howtogeek.com/best-usb-c-cables/"
+    },
+    "https://minipcreviewer.com/cable-matters-usb-c-adapter-review/": {
+      "title": "Cable Matters USB C Adapter Review - Mini PC Reviewer",
+      "description": "You won't believe how this versatile USB-C adapter can transform your digital connectivity and boost your productivity in unexpected ways.",
+      "image": "https://minipcreviewer.com/wp-content/uploads/2024/06/usb_c_adapter_performance_review-2.jpg",
+      "url": "https://minipcreviewer.com/cable-matters-usb-c-adapter-review/"
+    },
+    "https://www.macworld.com/article/2290458/satechi-usb-c-multiport-adapter-8k-with-ethernet-v3-review.html": {
+      "title": "Satechi USB-C Multiport V3 hub review: A pint-sized powerhouse",
+      "description": "This multiport dock pushes speed and compatibility nearly as far as they can go, if you're OK with 4K.",
+      "image": "https://www.macworld.com/wp-content/uploads/2024/04/satechi-diagonal-3.jpeg?quality=50&strip=all&w=1024",
+      "url": "https://www.macworld.com/article/2290458/satechi-usb-c-multiport-adapter-8k-with-ethernet-v3-review.html"
+    }
+  }
+}

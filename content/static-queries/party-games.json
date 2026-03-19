@@ -1,0 +1,101 @@
+{
+  "slug": "party-games",
+  "query": "best party games",
+  "title": "Best party games | Bin Diving",
+  "description": "AI-dug recommendations for best party games. Compare options and find one that fits.",
+  "dugAt": "2026-03-18T18:55:25.939Z",
+  "recommendations": [
+    {
+      "product_name": "The Jackbox Party Pack (series)",
+      "pros": [
+        "Great for large groups",
+        "Plays on phones — no extra controllers"
+      ],
+      "cons": [
+        "Requires a host device/TV",
+        "Some packs have variable game quality"
+      ],
+      "price": null,
+      "amazon_id": "B09JT367ZF",
+      "sources": [
+        "https://en.wikipedia.org/wiki/The_Jackbox_Party_Pack",
+        "https://www.pockettactics.com/party-games"
+      ],
+      "amazon_url": "https://www.amazon.com/Jackbox-Party-Pack-Xbox-X/dp/B09JT367ZF",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/w00Yg6qdmNFUyGg-08TOPGJ2M31P0DOxb76FhBsRP-Q/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9zMy5h/bWF6b25hd3MuY29t/L2Ntcy1hc3NldHMu/amFja2JveGdhbWVz/LmNvbS9QUF82X3Rh/bGxfdGlsZV9iMjkw/NTdmNTAyLmpwZz9m/b3JtYXQ9YXV0bw",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "Codenames",
+      "pros": [
+        "Quick to teach and play",
+        "Excellent for mixed-age groups"
+      ],
+      "cons": [
+        "Best with 4+ players",
+        "Can stall with overly cautious clue-givers"
+      ],
+      "price": null,
+      "amazon_id": "B014Q1XX9S",
+      "sources": [
+        "https://www.forbes.com/advisor/board-games/best-party-board-games/",
+        "https://tabletopinfo.com/best-party-board-games-2025/"
+      ],
+      "amazon_url": "https://www.amazon.com/Czech-Games-00031CGE-Codenames/dp/B014Q1XX9S",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/HmJBjLU9w4dv_YkIBw64nGdZ_ZYT9pkRoMcsKOCzrQ8/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9jZG4u/c2hvcGxpZ2h0c3Bl/ZWQuY29tL3Nob3Bz/LzYyMzQzNy9maWxl/cy8xMTE0NDYwMC9p/bWFnZS5qcGc",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "Exploding Kittens",
+      "pros": [
+        "Fast, silly, and replayable",
+        "Low setup and table space"
+      ],
+      "cons": [
+        "Luck can dominate gameplay",
+        "Some humor may not suit all groups"
+      ],
+      "price": null,
+      "amazon_id": "B010TQY7A8",
+      "sources": [
+        "https://www.forbes.com/advisor/board-games/best-party-board-games/",
+        "https://www.purewow.com/home/best-party-games"
+      ],
+      "amazon_url": "https://www.amazon.com/Exploding-Kittens-LLC-EKG-ORG1-1-Card/dp/B010TQY7A8",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/9UKeQXVTLR6qaTCMjSiHL15T7Vr9E7Q6OU78g8EM8Ug/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly93d3cu/ZXhwbG9yYXRvcml1/bXN0b3JlLmNvbS9j/ZG4vc2hvcC9wcm9k/dWN0cy9leHBsb2Rp/bmcta2l0dGVucy1i/b3hfeDJfNjA1MWEw/MTktMDYxOC00NzAy/LWE0YjYtZTI2NGJj/MWE4OGVmLnBuZz92/PTE2MjYyMjEzOTEm/d2lkdGg9MTIwMA",
+      "resolver": "brave",
+      "valid": true
+    }
+  ],
+  "resolvedLinks": {
+    "https://en.wikipedia.org/wiki/The_Jackbox_Party_Pack": {
+      "title": "The Jackbox Party Pack - Wikipedia",
+      "description": "",
+      "image": "https://upload.wikimedia.org/wikipedia/en/c/c5/The_Jackbox_Party_Pack_logo.png",
+      "url": "https://en.wikipedia.org/wiki/The_Jackbox_Party_Pack"
+    },
+    "https://www.pockettactics.com/party-games": {
+      "title": "The best party games in 2026",
+      "description": "Party games are the perfect way to let off steam with all of your friends, so here's a list of the best ones available portably now.",
+      "image": "https://www.pockettactics.com/wp-content/sites/pockettactics/2024/11/party-games-header.jpeg",
+      "url": "https://www.pockettactics.com/party-games"
+    },
+    "https://tabletopinfo.com/best-party-board-games-2025/": {
+      "title": "Best Party Board Games 2025 [Top 25 list] - Tabletop Info",
+      "description": "🎲 Discover the Best Party Board Games 2025 for game nights! Fun, strategy, and laughter—perfect for families and friends! 🎉",
+      "image": "https://tabletopinfo.com/wp-content/uploads/2025/02/Best-Party-Board-Games-2025.webp",
+      "url": "https://tabletopinfo.com/best-party-board-games-2025/"
+    },
+    "https://www.purewow.com/home/best-party-games": {
+      "title": "The 40 Best Party Games for Adults to Upgrade Your Next Hangout",
+      "description": "Ending dinner parties with a round of charades? Yawn. Instead have fun playing some of the 40 best party games for a group of adults to upgrade your next social gathering. Funny adult games will have you LOLing through the night.",
+      "image": "https://publish.purewow.net/wp-content/uploads/sites/2/2024/02/best-party-games-editors-picks.png?fit=1174%2C630",
+      "url": "https://www.purewow.com/home/best-party-games"
+    }
+  }
+}

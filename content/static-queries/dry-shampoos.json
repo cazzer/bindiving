@@ -1,0 +1,124 @@
+{
+  "slug": "dry-shampoos",
+  "query": "best dry shampoos",
+  "title": "Best dry shampoos | Bin Diving",
+  "description": "AI-dug recommendations for best dry shampoos. Compare options and find one that fits.",
+  "dugAt": "2026-03-18T18:20:28.012Z",
+  "recommendations": [
+    {
+      "product_name": "Living Proof Perfect Hair Day (PhD) Advanced Clean Dry Shampoo",
+      "pros": [
+        "Cleans like a rinse-out shampoo",
+        "Leaves minimal residue/white cast",
+        "Good for oily scalps"
+      ],
+      "cons": [
+        "Higher price point",
+        "May be scented for sensitive users"
+      ],
+      "price": "$33.00 (5.5 oz)",
+      "amazon_id": "B0170GOCVO",
+      "sources": [
+        "https://www.livingproof.com/perfect-hair-day/advanced-clean-dry-shampoo/02944.html",
+        "https://www.nbcnews.com/select/shopping/best-dry-shampoo-ncna1264139",
+        "https://www.the-independent.com/extras/indybest/fashion-beauty/hair/best-dry-shampoo-b2147920.html"
+      ],
+      "amazon_url": "https://www.amazon.com/Living-Proof-Perfect-Hair-Shampoo/dp/B0170GOCVO",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/EbOmP6s-SkyMSald6Xoj2MUREKbOcsHib-mAkwAmO-s/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9jZG4x/MS5iaWdjb21tZXJj/ZS5jb20vcy02Yzgw/MC9pbWFnZXMvc3Rl/bmNpbC8xMjgweDEy/ODAvcHJvZHVjdHMv/NzQ1NC8zMzM3MS9M/aXZpbmctUHJvb2Yt/UGVyZmVjdC1IYWly/LURheS1QaEQtQWR2/YW5jZWQtQ2xlYW4t/RHJ5LVNoYW1wb28t/TFZQMjk0MzBfMTg1/OThfXzI3NjY4LjE3/MzQ2NDc3MDMuanBn/P2M9Mg",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "Oribe Gold Lust Dry Shampoo",
+      "pros": [
+        "Luxury formula with pleasant scent",
+        "Lightweight finish, adds volume",
+        "Highly rated by stylists/reviewers"
+      ],
+      "cons": [
+        "Expensive",
+        "Some users report it doesn't absorb heavy oil as well"
+      ],
+      "price": "$34.00 (approx. at Sephora)",
+      "amazon_id": "B07XW31GDL",
+      "sources": [
+        "https://www.gq.com/story/best-dry-shampoo",
+        "https://www.sephora.com/product/oribe-gold-lust-dry-shampoo-P469092"
+      ],
+      "amazon_url": "https://www.amazon.com/ORIBE-Gold-Lust-Dry-Shampoo/dp/B07XW31GDL",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/60ZW1ZuHBhUMmzsfS8dgUId0Yajg2ucSXApP-CyaoiI/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9jYW1l/cmFyZWFkeWNvc21l/dGljcy5jb20vY2Ru/L3Nob3AvcHJvZHVj/dHMvT3JpYmVfZ29s/ZC1sdXN0LWRyeS1z/aGFtcG9vLTMwMG1s/XzgwMHguanBnP3Y9/MTU2NDA5MDgyOQ",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "Batiste Dry Shampoo (Original)",
+      "pros": [
+        "Budget-friendly",
+        "Widely available and easy to find",
+        "Adds volume while absorbing oil"
+      ],
+      "cons": [
+        "Potential white cast on dark hair",
+        "Some formulation/quality concerns reported by users"
+      ],
+      "price": "$11.00 (typical Amazon price reported)",
+      "amazon_id": "B01CYDXMSW",
+      "sources": [
+        "https://www.allure.com/review/batiste-dry-shampoo",
+        "https://www.self.com/gallery/best-selling-dry-shampoos-on-amazon",
+        "https://amzchart.com/product-research/dry-shampoos-10656664011"
+      ],
+      "amazon_url": "https://www.amazon.com/Batiste-Shampoo-Original-Fragrance-6-73/dp/B01CYDXMSW",
+      "gpt_azn": "B01CYDXMSW",
+      "image_url": "https://imgs.search.brave.com/Sud6Y8Yt_HW_WelkeGzyVe1kLXZy-YA77_Jrg-dpTfY/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9tLm1l/ZGlhLWFtYXpvbi5j/b20vaW1hZ2VzL0kv/MzFablE3UEJaV0wu/anBn",
+      "resolver": "brave",
+      "valid": true
+    }
+  ],
+  "resolvedLinks": {
+    "https://www.livingproof.com/perfect-hair-day/advanced-clean-dry-shampoo/02944.html": {
+      "title": "Living Proof",
+      "description": "Award-winning, science-backed haircare products formulated for all hair types + textures. We are the science, you are the Living Proof.",
+      "image": "http://www.livingproof.com/cdn/shop/files/lp-logomark-black.png?v=1761855251",
+      "url": "https://www.livingproof.com/"
+    },
+    "https://www.nbcnews.com/select/shopping/best-dry-shampoo-ncna1264139": {
+      "title": "Can you really use dry shampoo instead of washing your hair? Experts weigh in",
+      "description": "How effective is dry shampoo in between styling, and which ones should you consider? We asked experts.",
+      "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2024-03/240320-dry-shampoo-oo-social-50172c.jpg",
+      "url": "https://www.nbcnews.com/select/shopping/best-dry-shampoo-ncna1264139"
+    },
+    "https://www.the-independent.com/extras/indybest/fashion-beauty/hair/best-dry-shampoo-b2147920.html": {
+      "title": "10 best dry shampoos that keep hair fresh between washes",
+      "description": "From K18 to Sam McKnight, these are the hair saviours to reach for on repeat",
+      "image": "https://static.the-independent.com/2025/02/11/17/44/Best-dry-shampoo-IndyBest-review.png?trim=0,0,0,0&width=1200&height=800&crop=1200:800",
+      "url": "https://www.the-independent.com/extras/indybest/fashion-beauty/hair/best-dry-shampoo-b2147920.html"
+    },
+    "https://www.gq.com/story/best-dry-shampoo": {
+      "title": "The Best Dry Shampoos Are Good Hair Days in a Can",
+      "description": "You shouldn't be washing your hair every time you shower, and the right dry shampoo will help you break the habit.",
+      "image": "https://media.gq.com/photos/69961dc4a58c58f262f69495/16:9/w_1280,c_limit/dry-shampoo-lede-art.jpg",
+      "url": "https://www.gq.com/story/best-dry-shampoo"
+    },
+    "https://www.allure.com/review/batiste-dry-shampoo": {
+      "title": "Batiste Dry Shampoo Original",
+      "description": "This dry shampoo in spray form absorbs oil and adds volume to dry hair.",
+      "image": "https://media.allure.com/photos/5771776ca87d31b25a7de373/16:9/w_1280,c_limit/beauty-products-hair-2010-batiste-dry-shampoo-en.jpg",
+      "url": "https://www.allure.com/review/batiste-dry-shampoo"
+    },
+    "https://www.self.com/gallery/best-selling-dry-shampoos-on-amazon": {
+      "title": "16 Best-Selling Dry Shampoos on Amazon, So You Can Put Off Washing Your Hair",
+      "description": "They're a not-so-secret beauty weapon.",
+      "image": "https://media.self.com/photos/5b6308a2ddf67c3078e029e5/2:1/w_1280,c_limit/hair-dry-shampoo-products.jpg",
+      "url": "https://www.self.com/gallery/best-selling-dry-shampoos-on-amazon"
+    },
+    "https://amzchart.com/product-research/dry-shampoos-10656664011": {
+      "title": "\"Dry Shampoos\" in \"Shampoo & Conditioner\" Market & Product Research on Amazon | AmzChart",
+      "description": "",
+      "image": "",
+      "url": "https://amzchart.com/product-research/dry-shampoos-10656664011"
+    }
+  }
+}

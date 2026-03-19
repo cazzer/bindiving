@@ -1,0 +1,113 @@
+{
+  "slug": "lcdled-tvs",
+  "query": "best lcd/led tvs",
+  "title": "Best lcd/led tvs | Bin Diving",
+  "description": "AI-dug recommendations for best lcd/led tvs. Compare options and find one that fits.",
+  "dugAt": "2026-03-18T21:50:28.214Z",
+  "recommendations": [
+    {
+      "product_name": "LG C5 65\" OLED evo AI 4K Smart TV (2025)",
+      "pros": [
+        "Excellent OLED contrast and blacks",
+        "Strong gaming features (144Hz, HDMI 2.1)"
+      ],
+      "cons": [
+        "OLED risk of burn-in with very static content",
+        "Premium price when not on sale"
+      ],
+      "price": "$1,496 (sale price reported)",
+      "amazon_id": "B0DYQM4BDB",
+      "sources": [
+        "https://www.tomsguide.com/tvs/oled-tvs/the-lg-c5-oled-is-the-best-tv-you-can-buy-in-2026-and-its-almost-50-percent-off-right-now",
+        "https://www.lg.com/us/tvs/lg-oled65c5pua-oled-4k-tv"
+      ],
+      "amazon_url": "https://www.amazon.com/LG-Upscaling-Filmmaker-Orchestra-OLED65C5PUA/dp/B0DYQM4BDB",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/A9M1hqGYsTPBLq6RrN5ig5O-mj1pWddoY9ySdPEuEvM/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly93d3cu/bGcuY29tL2JlX2Zy/L2ltYWdlcy90ZWxl/dmlzZXVycy9tZDA3/NjAzNTMzL2dhbGxl/cnkvTjA4X21lZGl1/bTA4LmpwZw",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "Samsung S95F 65\" OLED 4K Vision AI Smart TV (2025)",
+      "pros": [
+        "Very bright OLED with vivid colors",
+        "Strong motion handling and smart TV features"
+      ],
+      "cons": [
+        "Higher price than many alternatives",
+        "No Dolby Vision support on some Samsung models"
+      ],
+      "price": "$2,499.99 (manufacturer list)",
+      "amazon_id": "B0F5MMLCG6",
+      "sources": [
+        "https://www.samsung.com/us/tvs/oled-tv/65-class-oled-tvs95f-sku-qn65s95fafxza/",
+        "https://www.tomsguide.com/us/LCD-TV-Modell-780%2Cnews-2524.html"
+      ],
+      "amazon_url": "https://www.amazon.com/Samsung-Glare-Free-Exclusive-Protection-Beginners/dp/B0F5MMLCG6",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/6KG45mLgFTq04A1S1Bcq3Mf9nsmA681sHQ-yZAt21rk/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9tLm1l/ZGlhLWFtYXpvbi5j/b20vaW1hZ2VzL0kv/NTFHc0I5V0ltWkwu/anBn",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "Hisense U6 / U65QF 65\" Mini-LED ULED 4K (U6/U65QF series)",
+      "pros": [
+        "Outstanding value for brightness and HDR",
+        "Good gaming specs for the price (high refresh, low input lag)"
+      ],
+      "cons": [
+        "Software and UI can be less polished than premium brands",
+        "Occasional variability in panel quality for some batches"
+      ],
+      "price": "~$569.99 (reviewed price)",
+      "amazon_id": "B0DYW81FWH",
+      "sources": [
+        "https://www.tomsguide.com/tvs/4k-tvs/hisense-u65qf-mini-led-tv-review",
+        "https://www.hisense-usa.com/product-page/televisions-65-class-u6-series-miniled-uled-4k-fire-tv-65u65qf"
+      ],
+      "amazon_url": "https://www.amazon.com/Hisense-Class-Mini-LED-65U65QF-Built/dp/B0DYW81FWH",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/kMrjPijPR09UQuKr2lvVOQj1Q5UmnpFaZHdSRJLuobs/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly93d3cu/cGNyaWNoYXJkLmNv/bS9kdy9pbWFnZS92/Mi9CRlhNX1BSRC9v/bi9kZW1hbmR3YXJl/LnN0YXRpYy8tL1Np/dGVzLXBjcmljaGFy/ZC1tYXN0ZXItcHJv/ZHVjdC1jYXRhbG9n/L2RlZmF1bHQvZHdk/Y2JlYzI2MC9pbWFn/ZXMvaGlyZXMvWl82/NVU2NVFGLmpwZz9z/dz0zMDAmc2g9MzAw/JnNtPWZpdA",
+      "resolver": "brave",
+      "valid": true
+    }
+  ],
+  "resolvedLinks": {
+    "https://www.tomsguide.com/tvs/oled-tvs/the-lg-c5-oled-is-the-best-tv-you-can-buy-in-2026-and-its-almost-50-percent-off-right-now": {
+      "title": "The LG C5 OLED is the best TV you can buy in 2026, and it's almost 50% off right now",
+      "description": "Grab a huge discount on the LG C5 OLED TV",
+      "image": "https://cdn.mos.cms.futurecdn.net/aRtXSrTjZLiTmkmFFzuXB7-1510-80.jpg",
+      "url": "https://www.tomsguide.com/tvs/oled-tvs/the-lg-c5-oled-is-the-best-tv-you-can-buy-in-2026-and-its-almost-50-percent-off-right-now"
+    },
+    "https://www.lg.com/us/tvs/lg-oled65c5pua-oled-4k-tv": {
+      "title": "65 inch Class LG OLED evo AI C5 4K Smart TV 2025 - OLED65C5PUA | LG USA",
+      "description": "",
+      "image": "",
+      "url": "https://www.lg.com/us/tvs/lg-oled65c5pua-oled-4k-tv"
+    },
+    "https://www.samsung.com/us/tvs/oled-tv/65-class-oled-tvs95f-sku-qn65s95fafxza/": {
+      "title": "65\" Class 4K OLED TV, Samsung Vision AI Smart TV, S95F 2025 | Samsung US",
+      "description": "Immerse yourself into a 65\" Class OLED 4K TV (S95F). Experience breathtaking visuals, pure blacks, vivid colors, and Smart TV features with Samsung Vision AI.",
+      "image": "https://image-us.samsung.com/SamsungUS/home/samsung-logo-191-1.jpg",
+      "url": "https://www.samsung.com/us/tvs/oled-tv/65-class-oled-tv-s95f-sku-qn65s95fafxza/"
+    },
+    "https://www.tomsguide.com/us/LCD-TV-Modell-780%2Cnews-2524.html": {
+      "title": "Best TVs of 2026 tested: top OLEDs, Mini-LEDs and QLEDs for every budget",
+      "description": "New models are coming in soon, and we got the first look at all of them",
+      "image": "https://cdn.mos.cms.futurecdn.net/MdvZKk33HCGnW2cTzqHUHc-2000-80.jpg",
+      "url": "https://www.tomsguide.com/us/best-tvs,review-2224.html"
+    },
+    "https://www.tomsguide.com/tvs/4k-tvs/hisense-u65qf-mini-led-tv-review": {
+      "title": "Hisense U65QF Mini-LED TV review",
+      "description": "A terrific budget TV pick",
+      "image": "https://cdn.mos.cms.futurecdn.net/kWU4Xqqmx3nXWhvJZgJ6Ui-1500-80.jpg",
+      "url": "https://www.tomsguide.com/tvs/4k-tvs/hisense-u65qf-mini-led-tv-review"
+    },
+    "https://www.hisense-usa.com/product-page/televisions-65-class-u6-series-miniled-uled-4k-fire-tv-65u65qf": {
+      "title": "Hisense 65\" Class U6 Series MiniLED ULED 4K Fire TV | Hisense-USA",
+      "description": "",
+      "image": "",
+      "url": "https://www.hisense-usa.com/product-page/televisions-65-class-u6-series-miniled-uled-4k-fire-tv-65u65qf"
+    }
+  }
+}

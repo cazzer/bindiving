@@ -1,0 +1,91 @@
+{
+  "slug": "mixing-bowls",
+  "query": "best mixing bowls",
+  "title": "Best mixing bowls | Bin Diving",
+  "description": "AI-dug recommendations for best mixing bowls. Compare options and find one that fits.",
+  "dugAt": "2026-03-18T17:04:29.220Z",
+  "recommendations": [
+    {
+      "product_name": "Cuisinart Stainless Steel Mixing Bowls with Lids, Set of 3",
+      "pros": [
+        "Sturdy with tall sides",
+        "Comfortable rim for gripping",
+        "Includes airtight lids for storage"
+      ],
+      "cons": [
+        "Not microwave-safe",
+        "Can dent if dropped"
+      ],
+      "price": "$52.99",
+      "amazon_id": "B004YZEO9K",
+      "sources": [
+        "https://www.reviewed.com/cooking/best-right-now/the-best-mixing-bowls"
+      ],
+      "amazon_url": "https://www.amazon.com/Cuisinart-CTG-00-SMB-Stainless-Steel-Mixing/dp/B004YZEO9K",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/72tOrZvzWEASPZZ00TDevWlZnjSc7EEWMUjVSzNbLV0/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly96ZXN0/YmlsbGluZ3MuY29t/L2Nkbi9zaG9wL2Zp/bGVzL0N1aXNpbmFy/dC1DdWlzaW5hcnQt/U3RhaW5sZXNzLVN0/ZWVsLU1peGluZy1C/b3dscy13aXRoLUxp/ZHMtU2V0LW9mLTMu/anBnP3Y9MTc0MDMw/Njk3MSZ3aWR0aD0x/OTQ2",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "Pyrex 1123266 Smart Essentials Glass Bowl Set (8-Piece)",
+      "pros": [
+        "Durable tempered glass",
+        "Includes lids for storage",
+        "Microwave- and dishwasher-safe"
+      ],
+      "cons": [
+        "Lids may leak under upside-down transport",
+        "Heavier than metal alternatives"
+      ],
+      "price": null,
+      "amazon_id": "B01G96F2QA",
+      "sources": [
+        "https://www.reviewed.com/cooking/best-right-now/the-best-mixing-bowls",
+        "https://divdishes.com/10-best-mixing-bowl-sets-that-are-affordable-and-available-on-amazon/"
+      ],
+      "amazon_url": "https://www.amazon.com/Pyrex-Smart-Essentials-Plastic-8-Piece/dp/B01G96F2QA",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/mQC7FFW09vtx8tJlJz0Qq132feXCKdJ3MCgvi5EmfbA/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9oZW1s/b2NraGFyZHdhcmUu/Y29tL2Nkbi9zaG9w/L3Byb2R1Y3RzLzY1/NDE4M183NDB4Lmpw/Zz92PTE2NTIyODg2/MTQ",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "OXO Good Grips 3-Piece Stainless Steel Mixing Bowl Set",
+      "pros": [
+        "Non-slip handles and bases",
+        "Wide lips and pour spouts",
+        "Nests for compact storage"
+      ],
+      "cons": [
+        "Smaller set (1.5, 3, 5 qt) may not suit very large batches",
+        "Not intended for microwave use"
+      ],
+      "price": "$29.99",
+      "amazon_id": "B001715PN8",
+      "sources": [
+        "https://www.oxo.com/shop/kitchenware/cooking-baking/mixing-bowls/3-piece-mixing-bowl-set-2.html",
+        "https://www.culinaryhill.com/best-mixing-bowls/"
+      ],
+      "amazon_url": "https://www.amazon.com/OXO-Grips-3-Piece-Stainless-Steel-Mixing/dp/B001715PN8",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/GJVF56RVcFdzdIUJCivyPehULejIpavaKHrqiHRhS-c/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9pbWFn/ZXMtbmEuc3NsLWlt/YWdlcy1hbWF6b24u/Y29tL2ltYWdlcy9J/LzUxZG14TXpTNE5M/LmpwZw",
+      "resolver": "brave",
+      "valid": true
+    }
+  ],
+  "resolvedLinks": {
+    "https://www.reviewed.com/cooking/best-right-now/the-best-mixing-bowls": {
+      "title": "The Best Mixing Bowls of 2026",
+      "description": "Mixing bowls may be underrated, but a good one is sturdy and comfortable to use.",
+      "image": "https://reviewed-com-res.cloudinary.com/image/fetch/s--yBRJaTzJ--/b_white,c_limit,cs_srgb,f_auto,fl_progressive.strip_profile,g_center,q_auto,w_1200/https://reviewed-production.s3.amazonaws.com/1522097992000/hero.jpg",
+      "url": "https://www.reviewed.com/cooking/best-right-now/the-best-mixing-bowls"
+    },
+    "https://divdishes.com/10-best-mixing-bowl-sets-that-are-affordable-and-available-on-amazon/": {
+      "title": "10 Best Mixing Bowl Sets that are Affordable and Available on Amazon - Diverse Dishes and Lifestyle",
+      "description": "A list of the top ten mixing bowl sets that combine quality, functionality, and value. Categorized by material. Prices included, under $30.",
+      "image": "https://divdishes.com/wp-content/uploads/2025/04/New-image.jpg",
+      "url": "https://divdishes.com/10-best-mixing-bowl-sets-that-are-affordable-and-available-on-amazon/"
+    }
+  }
+}

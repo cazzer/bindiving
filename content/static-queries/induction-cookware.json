@@ -1,0 +1,125 @@
+{
+  "slug": "induction-cookware",
+  "query": "best induction cookware",
+  "title": "Best induction cookware | Bin Diving",
+  "description": "AI-dug recommendations for best induction cookware. Compare options and find one that fits.",
+  "dugAt": "2026-03-18T16:58:54.954Z",
+  "recommendations": [
+    {
+      "product_name": "All-Clad D3 3-Ply Stainless Steel 10-Piece Cookware Set",
+      "pros": [
+        "Excellent heat responsiveness",
+        "Durable professional-grade stainless steel",
+        "Verified induction-compatible tri-ply construction"
+      ],
+      "cons": [
+        "High price",
+        "Heavier than nonstick alternatives"
+      ],
+      "price": null,
+      "amazon_id": "B005H8KD3E",
+      "sources": [
+        "https://www.all-clad.com/d3-stainless-3-ply-bonded-cookware-set-10-pc-set.html",
+        "https://cookwarespace.com/best-cookware-for-induction-cooking-in-2025-a-buyers-guide/",
+        "https://www.theguardian.com/thefilter-us/2026/jan/09/best-induction-cookware"
+      ],
+      "amazon_url": "https://www.amazon.com/All-Clad-Tri-Ply-Cookware-Dishwasher-Stainless/dp/B005H8KD3E",
+      "gpt_azn": "B005H8KD3E",
+      "image_url": "https://imgs.search.brave.com/4TsWiZzVdVqLhZQmJKO4etVS1NqJLzYCfsiE6ww027U/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly93d3cu/Zm9vZGFuZHdpbmUu/Y29tL3RobWIvLUQw/WFU2aXBfU2pqREM1/bGNwZ3Z2OUJiZ2xB/PS8xNTAweDAvZmls/dGVyczpub191cHNj/YWxlKCk6bWF4X2J5/dGVzKDE1MDAwMCk6/c3RyaXBfaWNjKCkv/ZmF3LXByb2R1Y3Qt/YWxsLWNsYWQtZDMt/MTAtcGllY2Utcmtp/bGdvcmUtMDMtZmU3/OGE3ZWMyYjBiNDMy/ZmI2YjM2Mzg2NzZm/NWE0NWMuanBlZw",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "GreenPan Valencia Pro 11-Piece Hard-Anodized Ceramic Nonstick Set",
+      "pros": [
+        "PFAS-free ceramic nonstick",
+        "Designed for induction cooktops",
+        "Lightweight and easy to clean"
+      ],
+      "cons": [
+        "Ceramic coatings can wear faster than PTFE over many years",
+        "Not as oven-safe at extreme temps as stainless"
+      ],
+      "price": null,
+      "amazon_id": "B071HVQL76",
+      "sources": [
+        "https://www.greenpan.us/products/valencia-pro-ceramic-non-stick-11-piece-cookware-set-gray",
+        "https://housekeepingmaster.com/greenpan-valencia-pro-hard-anodized-11-piece-cookware-pots-and-pans-set-review/",
+        "https://www.nordstrom.com/s/greenpan-valencia-pro-11-piece-anodized-aluminum-ceramic-nonstick-cookware-set/4875962"
+      ],
+      "amazon_url": "https://www.amazon.com/GreenPan-CC000675-001-Valencia-Toxin-Free-Dishwasher/dp/B071HVQL76",
+      "gpt_azn": "B071HVQL76",
+      "image_url": "https://imgs.search.brave.com/5kigEkzh5NQgjVgJd1YF9xW2v0DRRprBlBy64d1B3O4/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9tLm1l/ZGlhLWFtYXpvbi5j/b20vaW1hZ2VzL0kv/NDEtRjh2WlRJcUwu/anBn",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "Made In CeramiClad™ Nonstick Frying Pan (CeramiClad line)",
+      "pros": [
+        "Five‑ply stainless construction for fast, even induction heating",
+        "High-rated ceramic nonstick alternative to PTFE",
+        "Well-reviewed for induction responsiveness"
+      ],
+      "cons": [
+        "Ceramic coatings may lose nonstick performance faster than some PTFE coatings",
+        "Higher cost than basic nonstick skillets"
+      ],
+      "price": null,
+      "amazon_id": "B0D4G26V83",
+      "sources": [
+        "https://madeincookware.com/products/ceramiclad-non-stick-frying-pan-set",
+        "https://prudentreviews.com/non-stick-cookware-induction/",
+        "https://www.homesandgardens.com/living/made-in-ceramiclad-pan-review"
+      ],
+      "amazon_url": "https://www.amazon.com/Made-Cookware-Stainless-Professional-Compatible/dp/B0D4G26V83",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/JYqoeP76cyDttmx2PRTqSYzmjDS7Qg3sTcL_QvcN7EQ/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9oaXBz/LmhlYXJzdGFwcHMu/Y29tL3ZhZGVyLXBy/b2QuczMuYW1hem9u/YXdzLmNvbS8xNzIz/MTI0MjczLWM4Njky/ODRmYWY5MDg0YmM4/MTY0MjZhMWY2MGE1/NzYwNTUwOGIxNzYt/MTUwMHgxNTAwLmpw/Zz9jcm9wPTF4dzox/LjAweGg7Y2VudGVy/LHRvcCZyZXNpemU9/OTgwOio",
+      "resolver": "brave",
+      "valid": true
+    }
+  ],
+  "resolvedLinks": {
+    "https://www.all-clad.com/d3-stainless-3-ply-bonded-cookware-set-10-pc-set.html": {
+      "title": "D3 Stainless 3-ply Bonded Cookware Set, 10 piece Set",
+      "description": "This essential 10-piece cookware set includes a 8 and 10-inch fry pan, 2-quart saucepan with lid, 3-quart casserole with lid, 3-quart sauté pan with lid, and a 8-quart stockpot with lid. Each piece features All-Clad's renowned D3 tri-ply construction for outstanding performance and durability.Built for professional kitchens & cherished by home cooks this heirloom cookware is Made in the USA with global components in our Pennsylvania Factory since 1971. As the inventor of bonded metal cookware, All-Clad continues to define trusted performance.D3® Stainless is the original fully bonded tri-ply cookware trusted by chefs. The aluminum core delivers fast, even heat, while the high-quality stainless steel surface sears beautifully for professional results and long-lasting durability.Inspired by professionals, D3 Stainless features a classic riveted handle designed for a chef’s underhand grip, delivering exceptional balance & control. The highly polished finish adds timeless style, and a flared edge ensures precise, drip-free pouring.Built to outlast, each piece is precision engineered and third-party tested for safety—delivering performance you can trust. Backed by five decades of manufacturing expertise, All-Clad sets the standard for professional kitchen performance.Backed by our Limited Lifetime Warranty. Our cookware is oven & broiler safe up to 600°F and compatible with any stovetop, including induction. Handwashing is recommended.",
+      "image": "https://www.all-clad.com/media/catalog/product/8/4/8400002426_401877lr_nto_hero.jpg?optimize=high&bg-color=255,255,255&fit=bounds&height=265&width=265&canvas=265:265",
+      "url": "https://www.all-clad.com/d3-stainless-3-ply-bonded-cookware-set-10-pc-set.html"
+    },
+    "https://cookwarespace.com/best-cookware-for-induction-cooking-in-2025-a-buyers-guide/": {
+      "title": "Best Cookware for Induction Cooking in 2025: A Buyer’s Guide - Cookware Space",
+      "description": "Induction cooking has taken the culinary world by storm in recent years, and in 2025, it’s more popular than ever. With its impressive efficiency and",
+      "image": "https://cookwarespace.com/wp-content/uploads/2025/04/Best-Cookware-for-Induction-Cooking-in-2025-A-Buyers-Guide2.jpg",
+      "url": "https://cookwarespace.com/best-cookware-for-induction-cooking-in-2025-a-buyers-guide/"
+    },
+    "https://www.theguardian.com/thefilter-us/2026/jan/09/best-induction-cookware": {
+      "title": "I cooked with 10 induction cookware sets for a month – these are the standouts",
+      "description": "From Caraway to Our Place and Staub, here are our top-rated picks for the best induction-ready cookware",
+      "image": "https://i.guim.co.uk/img/media/d4132793792448ab5d5d25435be7ea81329906f5/1_0_2999_2400/master/2999.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvZmlsdGVyLXVzLnBuZw&enable=upscale&s=a9e78467c9d0b2e0244bc139edf6b3f2",
+      "url": "https://www.theguardian.com/thefilter-us/2026/jan/09/best-induction-cookware"
+    },
+    "https://housekeepingmaster.com/greenpan-valencia-pro-hard-anodized-11-piece-cookware-pots-and-pans-set-review/": {
+      "title": "GreenPan Valencia Pro Hard Anodized 11 Piece Cookware Pots and Pans Set Review! - housekeepingmaster.com",
+      "description": "GreenPan Valencia Pro Hard Anodized 11 Piece Cookware Pots and Pans Set Review:The GreenPan Valencia Pro 11-Piece Cookware Set is a flagship offering from",
+      "image": "https://housekeepingmaster.com/wp-content/uploads/2025/09/GreenPan-Valencia-Pro-Hard-Anodized-11-Piece-Cookware-Pots-and-Pans-Set-Review.jpg",
+      "url": "https://housekeepingmaster.com/greenpan-valencia-pro-hard-anodized-11-piece-cookware-pots-and-pans-set-review/"
+    },
+    "https://madeincookware.com/products/ceramiclad-non-stick-frying-pan-set": {
+      "title": "Ceramic Non Stick Pans | CeramiClad™",
+      "description": "We coated our Award Winning 5-Ply Stainless Clad Frying Pan with a high-performance, American-made Non Stick ceramic for the ultimate clean eating, even-heating, everyday pan.",
+      "image": "https://cdn.sanity.io/images/fr9flhkd/main/f80afcaeb0f9361ff26c7dcb68d4861f2f410db9-1500x1500.jpg?q=75&w=1200&h=630",
+      "url": "https://madeincookware.com/products/ceramiclad-non-stick-frying-pan-set/sand-stainless-handle"
+    },
+    "https://prudentreviews.com/non-stick-cookware-induction/": {
+      "title": "Best Non-Stick Cookware for Induction Cooktops (Test Results)",
+      "description": "Looking for the best non-stick induction cookware? I rigorously tested GreenPan, Made In, All-Clad, Misen, HexClad, and Caraway. Find out which pans offer the best heat distribution, durability, and non-stick performance on induction cooktops.",
+      "image": "https://prudentreviews.com/wp-content/uploads/Best-nonstick-pans-for-induction-cooktops.jpg",
+      "url": "https://prudentreviews.com/non-stick-cookware-induction/"
+    },
+    "https://www.homesandgardens.com/living/made-in-ceramiclad-pan-review": {
+      "title": "Made In CeramiClad pan review – after testing tons of ceramic pans, this is the only option I’d actually buy as a chef",
+      "description": "I've trialled all the major brands – from Our Place to Caraway– and this pan is the best yet",
+      "image": "https://cdn.mos.cms.futurecdn.net/WXZhnWNX2KXWZr5K4JKi8R-1600-80.jpg",
+      "url": "https://www.homesandgardens.com/living/made-in-ceramiclad-pan-review"
+    }
+  }
+}

@@ -1,0 +1,92 @@
+{
+  "slug": "spatulas",
+  "query": "best spatulas",
+  "title": "Best spatulas | Bin Diving",
+  "description": "AI-dug recommendations for best spatulas. Compare options and find one that fits.",
+  "dugAt": "2026-03-18T21:36:16.661Z",
+  "recommendations": [
+    {
+      "product_name": "DI ORO Silicone Spoon Spatula (Spoonula)",
+      "pros": [
+        "Awarded Best Spoonula by Food Network",
+        "Seamless, high-heat silicone (up to ~600°F)"
+      ],
+      "cons": [
+        "Not ideal for flipping heavy foods"
+      ],
+      "price": null,
+      "amazon_id": "B00LBFPSA0",
+      "sources": [
+        "https://www.foodnetwork.com/how-to/packages/shopping/product-reviews/best-spatulas",
+        "https://www.dioro.com/products/seamless-spoonula"
+      ],
+      "amazon_url": "https://www.amazon.com/Premium-Seamless-Black-Silicone-Spatula/dp/B00LBFPSA0",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/XzLwq2SA9E7r--HNXBE_TQZ9ZRumZ6N5W0urA-_rgXs/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9tLm1l/ZGlhLWFtYXpvbi5j/b20vaW1hZ2VzL0kv/NjEyYTZETjM5Vkwu/anBn",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "OXO Good Grips Flexible Silicone Turner",
+      "pros": [
+        "Flexible edge for sliding under eggs/crepes",
+        "Comfortable non-slip handle"
+      ],
+      "cons": [
+        "Two-piece construction can trap residue over time"
+      ],
+      "price": null,
+      "amazon_id": "B000JPVCYE",
+      "sources": [
+        "https://www.forbes.com/sites/forbes-personal-shopper/article/best-spatulas/",
+        "https://www.bestreviews.guide/cookie-spatula"
+      ],
+      "amazon_url": "https://www.amazon.com/OXO-Grips-Silicone-Flexible-Turner/dp/B000JPVCYE",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/2y2q0PYv29A29-MF7dwpmiWI3yYMBEM6_5YhL5_l8xY/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9tLm1l/ZGlhLWFtYXpvbi5j/b20vaW1hZ2VzL0kv/MzFQMndVOU9OT0wu/anBn",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "Wüsthof Gourmet 7\" Slotted Fish Spatula (metal fish turner)",
+      "pros": [
+        "Thin, flexible stainless head—excellent for getting under delicate foods",
+        "Recommended winner by America's Test Kitchen"
+      ],
+      "cons": [
+        "Metal spatula can damage nonstick cookware"
+      ],
+      "price": null,
+      "amazon_id": "B0000DJYG2",
+      "sources": [
+        "https://archive.ph/2025.12.20-005120/https%3A/www.americastestkitchen.com/equipment_reviews/1913-metal-spatulas",
+        "https://knifemerchant.com/wusthof-slotted-fish-spatula.html"
+      ],
+      "amazon_url": "https://www.amazon.com/Wusthof-Gourmet-Offset-Slotted-Spatula/dp/B0000DJYG2",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/l1eO03KYOU0HBTNLQWVMib7V8sPfmwdzNrNDC-UiPps/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9pbWFn/ZXMtbmEuc3NsLWlt/YWdlcy1hbWF6b24u/Y29tL2ltYWdlcy9J/LzcxY2tUa0xiS25M/LmpwZw",
+      "resolver": "brave",
+      "valid": true
+    }
+  ],
+  "resolvedLinks": {
+    "https://www.foodnetwork.com/how-to/packages/shopping/product-reviews/best-spatulas": {
+      "title": "9 Best Spatulas of 2026, Tested and Reviewed",
+      "description": "We tested over 30 different spatulas in various types and designs to determine which were the best options in each category.",
+      "image": "https://food.fnr.sndimg.com/content/dam/images/food/fullset/2024/04/11/Original_Taylor-Murray_Spatula-Product-Test-GreenPan.jpg.rend.hgtvcom.616.411.85.suffix/1712862243781.webp",
+      "url": "https://www.foodnetwork.com/how-to/packages/shopping/product-reviews/best-spatulas"
+    },
+    "https://www.dioro.com/products/seamless-spoonula": {
+      "title": "Silicone Spoonula",
+      "description": "Discover the award-winning Silicone Spoonula—BPA-free, heat-resistant, and dishwasher safe. Perfect for all your cooking needs!",
+      "image": "http://www.dioro.com/cdn/shop/products/seamless-spoonula-494057_1200x1200.jpg?v=1632181955",
+      "url": "https://www.dioro.com/products/seamless-spoonula"
+    },
+    "https://www.bestreviews.guide/cookie-spatula": {
+      "title": "10 Best Cookie Spatula 2026 in the US | There's One Clear Winner | BestReviews.guide",
+      "description": "BestReviews.guide analyzes thousands of articles and customer reviews to find the top-rated products at today's lowest prices. Best products, best offers.",
+      "image": "https://images-proxy.bestreviews.guide/m5twUPnrLybQ88tIBPC_ZT2EJxo=/0x150/https://m.media-amazon.com/images/I/21DhARJuCeL._AC_CX679_.jpg",
+      "url": "https://www.bestreviews.guide/cookie-spatula"
+    }
+  }
+}

@@ -1,0 +1,122 @@
+{
+  "slug": "pencils-for-schoolwork",
+  "query": "best pencils for schoolwork",
+  "title": "Best pencils for schoolwork | Bin Diving",
+  "description": "AI-dug recommendations for best pencils for schoolwork. Compare options and find one that fits.",
+  "dugAt": "2026-03-18T22:28:32.501Z",
+  "recommendations": [
+    {
+      "product_name": "Dixon Ticonderoga #2 Wood-Cased Pencils (classic yellow, pre-sharpened)",
+      "pros": [
+        "Trusted classroom staple",
+        "Soft, break-resistant #2 lead"
+      ],
+      "cons": [
+        "More expensive than generic bulk pencils",
+        "Some batch variability reported"
+      ],
+      "price": null,
+      "amazon_id": "B00T24JBFA",
+      "sources": [
+        "https://www.weareteachers.com/best-pencils",
+        "https://dixonticonderogacompany.com/wp-content/uploads/2022/08/2022_Dixon-Ticonderoga-Catalog_8.22.pdf",
+        "https://dfdh6d2ni9hvo.cloudfront.net/156a9aa7-113-4fdc-8653-92042980c41f_67030_Rolling%20Ridge%20School%20Supply%20Lists%2025-26.pdf"
+      ],
+      "amazon_url": "https://www.amazon.com/Dixon-Ticonderoga-Pencil-Yellow-1-Pack/dp/B00T24JBFA",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/DHNi3OkDKJUX1_8dN0LMkzE28GQ6PSOwrRFle-ClBBw/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9pLmVi/YXlpbWcuY29tL2lt/YWdlcy9nL0RFY0FB/T1N3a1dOa0pMTkMv/cy1sNTAwLmpwZw",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "Amazon Basics Wood-Cased #2 HB Pencils — Bulk (pre-sharpened, 144–150 count)",
+      "pros": [
+        "Excellent value in bulk",
+        "Pre-sharpened and ready for class"
+      ],
+      "cons": [
+        "Less premium feel than branded artist pencils",
+        "Bulk size may be excessive for some users"
+      ],
+      "price": null,
+      "amazon_id": "B071JM699P",
+      "sources": [
+        "https://reviewradaronline.com/2025/07/14/amazonbasics-wood-cased-pencils/",
+        "https://www.bestreviews.guide/amazonbasics-pencils",
+        "https://www.reddit.com/r/RedditShoppingDeals/comments/zcl1re"
+      ],
+      "amazon_url": "https://www.amazon.com/AmazonBasics-Pre-sharpened-Wood-Cased-Pencils/dp/B071JM699P",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/ifcemA3dOH5uAEl4FmTXJY5hx6LO0aSKTJFESNmJ6Ks/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9pLmVi/YXlpbWcuY29tL2lt/YWdlcy9nL0lNMEFB/ZVN3aDBGbi1WY3Ev/cy1sMjI1LmpwZw",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "Paper Mate SharpWriter Mechanical Pencils (0.7mm, classroom packs available)",
+      "pros": [
+        "Consistent line width for tests and notes",
+        "No sharpening; refillable leads"
+      ],
+      "cons": [
+        "Lead can snap if pressed hard",
+        "Some users report recent packaging/quality changes"
+      ],
+      "price": null,
+      "amazon_id": "B00OQQ05JA",
+      "sources": [
+        "https://www.weareteachers.com/best-pencils",
+        "https://top5best.com/paper-mate-sharpwriter-mechanical-pencils",
+        "https://top5best.com/back-to-school-pencils"
+      ],
+      "amazon_url": "https://www.amazon.com/Paper-Mate-SharpWriter-Mechanical-Pencils/dp/B00OQQ05JA",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/WYqFySEePu5rQ_hT0I_0KLUt82veGf5ki6WmN6-YBF8/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9tLm1l/ZGlhLWFtYXpvbi5j/b20vaW1hZ2VzL0kv/NTFFQXRyNHV0Ykwu/anBn",
+      "resolver": "brave",
+      "valid": true
+    }
+  ],
+  "resolvedLinks": {
+    "https://www.weareteachers.com/best-pencils": {
+      "title": "11 Best Pencils for Writing and Erasing, Tested by Teachers",
+      "description": "Our picks for traditional wood and mechanical pencils.",
+      "image": "https://www.weareteachers.com/wp-content/uploads/best-pencils.jpg",
+      "url": "https://www.weareteachers.com/best-pencils/"
+    },
+    "https://dixonticonderogacompany.com/wp-content/uploads/2022/08/2022_Dixon-Ticonderoga-Catalog_8.22.pdf": {
+      "title": "",
+      "description": "",
+      "image": "",
+      "url": "https://dixonticonderogacompany.com/wp-content/uploads/2022/08/2022_Dixon-Ticonderoga-Catalog_8.22.pdf"
+    },
+    "https://reviewradaronline.com/2025/07/14/amazonbasics-wood-cased-pencils/": {
+      "title": "Why AmazonBasics Wood-Cased Pencils Are the Smartest Back-to-School Buy in 2025 – Review Radar OnlineExample Page",
+      "description": "",
+      "image": "",
+      "url": "https://reviewradaronline.com/2025/07/14/amazonbasics-wood-cased-pencils/"
+    },
+    "https://www.bestreviews.guide/amazonbasics-pencils": {
+      "title": "10 Best Amazonbasics Pencils 2026 in the US | There's One Clear Winner | BestReviews.guide",
+      "description": "BestReviews.guide analyzes thousands of articles and customer reviews to find the top-rated products at today's lowest prices. Best products, best offers.",
+      "image": "https://images-proxy.bestreviews.guide/s1UorCJouv4Z7FFxCfXwg7vEGi8=/0x150/https://m.media-amazon.com/images/I/41VLEyEVQ0L._AC_CX679_.jpg",
+      "url": "https://www.bestreviews.guide/amazonbasics-pencils"
+    },
+    "https://www.reddit.com/r/RedditShoppingDeals/comments/zcl1re": {
+      "title": "Reddit - The heart of the internet",
+      "description": "",
+      "image": "",
+      "url": "https://www.reddit.com/r/RedditShoppingDeals/comments/zcl1re/"
+    },
+    "https://top5best.com/paper-mate-sharpwriter-mechanical-pencils": {
+      "title": "Top 5 Best Paper Mate Sharpwriter Mechanical Pencils (Finalist Picks (2026))",
+      "description": "2026's Top 5 Best Paper Mate Sharpwriter Mechanical Pencils Top Rated and Reviewed. Easily choose and compare the Best Paper Mate Sharpwriter Mechanical Pencils for you all in one place. (Finalist Picks (2026))",
+      "image": "https://images.top5best.com/images/list_img_s/list_3051/four-candies_30500017.jpg",
+      "url": "https://top5best.com/paper-mate-sharpwriter-mechanical-pencils"
+    },
+    "https://top5best.com/back-to-school-pencils": {
+      "title": "Top 5 Best Back To School Pencils (Highest Rated This Year (2026))",
+      "description": "2026's Top 5 Best Back To School Pencils Top Rated and Reviewed. Easily choose and compare the Best Back To School Pencils for you all in one place. (Highest Rated This Year (2026))",
+      "image": "https://images.top5best.com/images/list_img_s/list_3369/four-candies_33682518.jpg",
+      "url": "https://top5best.com/back-to-school-pencils"
+    }
+  }
+}

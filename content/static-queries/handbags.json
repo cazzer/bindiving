@@ -1,0 +1,107 @@
+{
+  "slug": "handbags",
+  "query": "best handbags",
+  "title": "Best handbags | Bin Diving",
+  "description": "AI-dug recommendations for best handbags. Compare options and find one that fits.",
+  "dugAt": "2026-03-18T22:59:55.342Z",
+  "recommendations": [
+    {
+      "product_name": "COACH Tabby Shoulder Bag 26",
+      "pros": [
+        "Iconic, versatile silhouette",
+        "Good recent availability on Amazon",
+        "Popular editorial praise"
+      ],
+      "cons": [
+        "Can sell out quickly",
+        "Some reports of third‑party sellers on Amazon"
+      ],
+      "price": null,
+      "amazon_id": "B0F3XZH5KX",
+      "sources": [
+        "https://www.harpersbazaar.com/fashion/a64288447/amazon-spring-sale-2025-coach-tabby-bag-deals/",
+        "https://www.coach.com/products/tabby-shoulder-bag-26/73995.html",
+        "https://www.elle.com/fashion/accessories/g68152988/best-handbags-on-amazon-2025/"
+      ],
+      "amazon_url": "https://www.amazon.com/Coach-Tabby-Shoulder-Bag-26/dp/B0F3XZH5KX",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/cOKxVpvh9MFwgoZUwdLbu3Wq49z4AG0Eck9xcgjGe9w/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly93d3cu/ZGFuaWVsZm9vdHdl/YXIuY29tL2ltYWdl/cy9jb2FjaC10YWJi/eS1zaG91bGRlci1w/MTQzOTQxLTI5MjAy/M19tZWRpdW0uanBn",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "MICHAEL KORS Jet Set Travel Tote",
+      "pros": [
+        "Widely available on Amazon",
+        "Well‑reviewed for travel and work use",
+        "Typically good value during Amazon sales"
+      ],
+      "cons": [
+        "Logoed style may not suit minimalist tastes",
+        "Saffiano leather shows wear over years"
+      ],
+      "price": null,
+      "amazon_id": "B0DZRP4342",
+      "sources": [
+        "https://parade.com/shopping/amazon-michael-kors-jet-set-2-in-1-wallet-crossbody-bag-august-2025",
+        "https://www.dealnews.com/Michael-Kors-Jet-Set-Travel-Large-Logo-Tote-for-79-free-shipping/21732160.html",
+        "https://www.elle.com/fashion/accessories/g68152988/best-handbags-on-amazon-2025/"
+      ],
+      "amazon_url": "https://www.amazon.com/Michael-Kors-Travel-Large-Packable/dp/B0DZRP4342",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/Z2c-R5Av07-frY7qK3Vfi6rLomx_b2ST42S0aqw7jus/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9pLmVi/YXlpbWcuY29tL2lt/YWdlcy9nL2psUUFB/ZVN3RUU1cExJazIv/cy1sNDAwLndlYnA",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "Kate Spade Deco Medium Satchel",
+      "pros": [
+        "Classic Kate Spade styling",
+        "Frequently listed among Amazon‑available celebrity/popular picks",
+        "Structured everyday satchel"
+      ],
+      "cons": [
+        "Some colorways sell out fast",
+        "Higher price point versus mass‑market bags"
+      ],
+      "price": null,
+      "amazon_id": "B0FFHFTZR3",
+      "sources": [
+        "https://shopping.yahoo.com/style/accessories/articles/lola-tungs-kate-spade-bag-172600037.html",
+        "https://www.katespade.com/products/margaux-medium-satchel/PXRUA161.html",
+        "https://www.elle.com/fashion/accessories/g68152988/best-handbags-on-amazon-2025/"
+      ],
+      "amazon_url": "https://www.amazon.com/kate-spade-new-york-Pebbled/dp/B0FFHFTZR3",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/K6H51BieSCN5cR27VnAeP649710EDTBAogimHQZ91jk/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9rYXRl/c3BhZGUuc2NlbmU3/LmNvbS9pcy9pbWFn/ZS9LYXRlU3BhZGUv/S0k1NTJfOTYwPyRk/ZXNrdG9wUHJvZHVj/dCQ",
+      "resolver": "brave",
+      "valid": true
+    }
+  ],
+  "resolvedLinks": {
+    "https://www.harpersbazaar.com/fashion/a64288447/amazon-spring-sale-2025-coach-tabby-bag-deals/": {
+      "title": "Act Fast: Coach's Famous Tabby Bags Are on Rare Sale on Amazon",
+      "description": "Select celeb-approved styles are up to 40 percent off—but not for long",
+      "image": "https://hips.hearstapps.com/hmg-prod/images/jennifer-lopez-is-seen-on-may-28-2023-in-los-angeles-news-photo-1743019277.pjpeg?crop=1.00xw:0.668xh;0,0.108xh&resize=1200:*",
+      "url": "https://www.harpersbazaar.com/fashion/a64288447/amazon-spring-sale-2025-coach-tabby-bag-deals/"
+    },
+    "https://www.elle.com/fashion/accessories/g68152988/best-handbags-on-amazon-2025/": {
+      "title": "PSA: There Are So Many Celebrity-Loved Handbags Hiding on Amazon Right Now",
+      "description": "Including Bella Hadid and Kendall Jenner’s exact bags for under $500.",
+      "image": "https://hips.hearstapps.com/hmg-prod/images/screenshot-2025-10-01-at-11-40-05-am-68dd4c8101c4c.png?crop=1.00xw:0.914xh;0,0&resize=1200:*",
+      "url": "https://www.elle.com/fashion/accessories/g68152988/best-handbags-on-amazon-2025/"
+    },
+    "https://www.dealnews.com/Michael-Kors-Jet-Set-Travel-Large-Logo-Tote-for-79-free-shipping/21732160.html": {
+      "title": "Michael Kors Jet Set Travel Large Logo Tote: $79",
+      "description": "This is a great deal and just in time for Mother's Day, which falls on May 11. You'd pay $61 for this exact style and color today at Amazon.",
+      "image": "https://c.dlnws.com/image/upload/f_auto,t_maximum,q_auto/cms/dsyeufkml8ney7kjvdva.png",
+      "url": "https://www.dealnews.com/Michael-Kors-Jet-Set-Travel-Large-Logo-Tote-for-79-free-shipping/21732160.html"
+    },
+    "https://shopping.yahoo.com/style/accessories/articles/lola-tungs-kate-spade-bag-172600037.html": {
+      "title": "Lola Tung's Kate Spade Bag is 60% Off During Amazon Prime Big Deal Days",
+      "description": "Lola Tung's Kate Spade Liv Bag is 60% off during Amazon Prime Big Deal Days. Shop the celeb-worn bag here, along with other Kate Spade Prime Day deals.",
+      "image": "https://s.yimg.com/ny/api/res/1.2/.uZl1VhBc0D0yzvHH92D1g--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/cosmopolitan_ecomm_articles_400/5fa0a968de21881874f615c546b9b491",
+      "url": "https://www.cosmopolitan.com/style-beauty/fashion/a68878939/lola-tung-kate-spade-bag-amazon-prime-big-deal-days-2025/"
+    }
+  }
+}

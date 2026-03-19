@@ -1,0 +1,122 @@
+{
+  "slug": "meat-thermometers",
+  "query": "best meat thermometers",
+  "title": "Best meat thermometers | Bin Diving",
+  "description": "AI-dug recommendations for best meat thermometers. Compare options and find one that fits.",
+  "dugAt": "2026-03-18T17:00:35.345Z",
+  "recommendations": [
+    {
+      "product_name": "ThermoWorks Thermapen ONE",
+      "pros": [
+        "Industry-leading speed (≈1s)",
+        "High accuracy (±0.5°F)"
+      ],
+      "cons": [
+        "Premium price",
+        "Limited features (instant-read only)"
+      ],
+      "price": null,
+      "amazon_id": "B0DG71Q1LZ",
+      "sources": [
+        "https://www.tomsguide.com/best-picks/best-meat-thermometers",
+        "https://www.techradar.com/reviews/thermoworks-thermapen-one",
+        "https://www.thermoworks.com/content/pdf/thermapen-comparison-chart.pdf?srsltid=AfmBOooMHznU0SEQuoIhwMKxKm0-b4b45nlGqKMeqACbybh8_Pz0uwZg"
+      ],
+      "amazon_url": "https://www.amazon.com/ThermoWorks-Thermapen-Recommended-Instant-Read-Thermometer/dp/B0DG71Q1LZ",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/8kozvQ540siKgFFp73TtYDcQjtMRkssaYUV_dpuLMJw/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly93d3cu/Z3JpbGxzZWVrZXIu/Y29tL3dwLWNvbnRl/bnQvdXBsb2Fkcy8y/MDIxLzA2L1RoZXJt/YXBlbi1PbmUtUmV2/aWV3LXBpYzEuanBn",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "MEATER 2 Plus (MEATER Pro) Wireless Smart Meat Thermometer",
+      "pros": [
+        "Truly wireless leave-in probe",
+        "App-guided cooks and internal+ambient sensing"
+      ],
+      "cons": [
+        "Mixed long-term reliability reports",
+        "Range/connection limits in some setups"
+      ],
+      "price": "$99.95",
+      "amazon_id": "B07H8WTFHW",
+      "sources": [
+        "https://meater.com/products/meater-2-plus",
+        "https://www.engadget.com/meater-2-plus-review-a-more-precise-and-durable-wireless-meat-thermometer-160039734.html",
+        "https://www.the-ambient.com/reviews/meater-2-plus-review/"
+      ],
+      "amazon_url": "https://www.amazon.com/MEATER-Thermometer-Rotisserie-Bluetooth-Connectivity/dp/B07H8WTFHW",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/7kx_9Qex1C2WYuleVBwzPMfsWv9-CCiQFqlrB-4UrWw/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9pbWFn/ZXMtbmEuc3NsLWlt/YWdlcy1hbWF6b24u/Y29tL2ltYWdlcy9J/LzYxanZrOUxpeHpM/LmpwZw",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "ThermoPro TP20 Wireless Dual-Probe Meat Thermometer",
+      "pros": [
+        "Dual probes for monitoring two items/zones",
+        "Good value and widely recommended"
+      ],
+      "cons": [
+        "Occasional app/connection issues reported",
+        "Ambient probe accuracy can drift for some users"
+      ],
+      "price": null,
+      "amazon_id": "B01GE77QT0",
+      "sources": [
+        "https://www.grillingco.com/grill-accessory-reviews/thermopro-tp20-review/",
+        "https://www.diviloom.com/digital-thermometer/thermopro-tp20-wireless-meat-thermometer/",
+        "https://psychreg.org/best-wireless-meat-thermometer/"
+      ],
+      "amazon_url": "https://www.amazon.com/ThermoPro-Wireless-Digital-Cooking-Thermometer/dp/B01GE77QT0",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/f6ZFl3r2qOhbDqIwc9jDY_i7k_4AnexzXM28NFh_xGs/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9tLm1l/ZGlhLWFtYXpvbi5j/b20vaW1hZ2VzL0kv/NTFyOS02Mld6VEwu/anBn",
+      "resolver": "brave",
+      "valid": true
+    }
+  ],
+  "resolvedLinks": {
+    "https://www.tomsguide.com/best-picks/best-meat-thermometers": {
+      "title": "The best meat thermometers in 2025: expert tested and rated",
+      "description": "From instant-read to leave-in, here are the best meat thermometers you can buy right now",
+      "image": "https://cdn.mos.cms.futurecdn.net/76VNUEaYprpiahq6oQcwmX-1920-80.jpg",
+      "url": "https://www.tomsguide.com/best-picks/best-meat-thermometers"
+    },
+    "https://www.techradar.com/reviews/thermoworks-thermapen-one": {
+      "title": "ThermoWorks Thermapen One review",
+      "description": "Check the temperature of your food in just one second",
+      "image": "https://cdn.mos.cms.futurecdn.net/nPeEJ9wtwVg8zwy92YnQPJ-1020-80.jpg",
+      "url": "https://www.techradar.com/reviews/thermoworks-thermapen-one"
+    },
+    "https://www.thermoworks.com/content/pdf/thermapen-comparison-chart.pdf?srsltid=AfmBOooMHznU0SEQuoIhwMKxKm0-b4b45nlGqKMeqACbybh8_Pz0uwZg": {
+      "title": "",
+      "description": "",
+      "image": "",
+      "url": "https://www.thermoworks.com/content/pdf/thermapen-comparison-chart.pdf?srsltid=AfmBOooMHznU0SEQuoIhwMKxKm0-b4b45nlGqKMeqACbybh8_Pz0uwZg"
+    },
+    "https://meater.com/products/meater-2-plus": {
+      "title": "MEATER® | Wireless Smart Meat Thermometer | For BBQ & Kitchen Cooking",
+      "description": "Remove the guesswork from cooking with MEATER, the smartest cooking thermometer for your BBQ and Kitchen.",
+      "image": "",
+      "url": "https://meater.com/products/meater-2-plus"
+    },
+    "https://www.engadget.com/meater-2-plus-review-a-more-precise-and-durable-wireless-meat-thermometer-160039734.html": {
+      "title": "Meater 2 Plus review: A more precise and durable wireless meat thermometer",
+      "description": "Meater's latest wireless meat thermometer has additional sensors for more precise temperature readings, with increased heat resistance and enhanced durability alongside extended Bluetooth range.",
+      "image": "https://s.yimg.com/ny/api/res/1.2/umUh2rFqURsV654jXkDliw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2023-11/f554a2f1-7cba-11ee-a6dd-9eaffb8609ad",
+      "url": "https://www.engadget.com/meater-2-plus-review-a-more-precise-and-durable-wireless-meat-thermometer-160039734.html"
+    },
+    "https://www.grillingco.com/grill-accessory-reviews/thermopro-tp20-review/": {
+      "title": "ThermoPro TP20 Review | Grilling Co.",
+      "description": "",
+      "image": "",
+      "url": "https://www.grillingco.com/grill-accessory-reviews/thermopro-tp20-review/"
+    },
+    "https://psychreg.org/best-wireless-meat-thermometer/": {
+      "title": "Best Wireless Meat Thermometer of 2024",
+      "description": "A wireless meat thermometer is a game-changer in the kitchen, especially when precision is key.",
+      "image": "https://www.psychreg.org/wp-content/uploads/2024/01/typhur.png",
+      "url": "https://www.psychreg.org/best-wireless-meat-thermometer/"
+    }
+  }
+}

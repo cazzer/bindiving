@@ -1,0 +1,131 @@
+{
+  "slug": "blankets",
+  "query": "best blankets",
+  "title": "Best blankets | Bin Diving",
+  "description": "AI-dug recommendations for best blankets. Compare options and find one that fits.",
+  "dugAt": "2026-03-18T16:39:04.299Z",
+  "recommendations": [
+    {
+      "product_name": "Gravity Original Weighted Blanket",
+      "pros": [
+        "Clinically studied benefits",
+        "Multiple weight/size options",
+        "Durable construction"
+      ],
+      "cons": [
+        "Relatively expensive",
+        "May sleep warm for hot sleepers"
+      ],
+      "price": "$149.00 (sale price on official site)",
+      "amazon_id": "B08CS22G7Z",
+      "sources": [
+        "https://www.goodhousekeeping.com/home-products/blanket-reviews/a24734005/best-weighted-blankets//",
+        "https://gravityblankets.com/collections/featured-product",
+        "https://www.tomsguide.com/mattresses/pillows-bedding/toms-guide-sleep-awards-2025-best-weighted-blanket"
+      ],
+      "amazon_url": "https://www.amazon.com/Gravity-Blanket-Removable-Generation-Fastening/dp/B08CS22G7Z",
+      "gpt_azn": "B083QDJJGY",
+      "image_url": "https://imgs.search.brave.com/v17PSL8Yvpm0AyeJrNzpodyS3-16uUY5Ou-Cen4Es_Y/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9iZWRv/Zm5haWxzLm9yZy9j/ZG4vc2hvcC9maWxl/cy9HUlYuT3JpZ2lu/YWxXZWlnaHRlZC5H/cmV5LlBEUDQuanBn/P3Y9MTcxNTE5Nzk3/MiZ3aWR0aD03MjA",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "Bearaby Cotton Napper (Bearaby Napper)",
+      "pros": [
+        "Breathable knit (good for hot sleepers)",
+        "Stylish, high-quality materials",
+        "Highly rated by expert reviews"
+      ],
+      "cons": [
+        "Premium price",
+        "Knitted fabric can pill for some users"
+      ],
+      "price": "$199.00 (manufacturer site price for many sizes)",
+      "amazon_id": "B0C1F9MFH1",
+      "sources": [
+        "https://bearaby.com/products/the-napper",
+        "https://www.sleepfoundation.org/weighted-blanket-reviews/bearaby-weighted-blanket-review",
+        "https://www.hgtv.com/design/decorating/furniture-and-accessories/bearaby-weighted-blanket-review"
+      ],
+      "amazon_url": "https://www.amazon.com/Bearaby-Organic-Hand-Knit-Weighted-Blanket/dp/B0C1F9MFH1",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/Md1AD2xRxwvnDgXk3ivSpm3GZmsqFxy_BEAryqRiH0M/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9pLnNs/ZWVwb3BvbGlzLmNv/bS8zMTYvNzM0LzY0/NC84L2JlYXJhYnlf/YmxhbmtldC1mZWVs/LTIud2VicA",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "Bedsure GentleSoft Sherpa Fleece Throw Blanket",
+      "pros": [
+        "Very budget-friendly",
+        "Soft, reversible sherpa/flannel construction",
+        "Wide color/size selection and strong customer ratings"
+      ],
+      "cons": [
+        "Sheds or flattens for some heavy-use cases",
+        "Not a weighted or therapeutic blanket (regular throw)"
+      ],
+      "price": "$34.99 (manufacturer site listing; Amazon prices vary)",
+      "amazon_id": "B0158EQE2K",
+      "sources": [
+        "https://bedsurehome.com/products/sherpa-and-fleece-reversable-blanket",
+        "https://www.forbes.com/sites/forbes-personal-shopper/article/best-blanket/",
+        "https://www.yahoo.com/lifestyle/best-fleece-blanket--amazon-144042749.html"
+      ],
+      "amazon_url": "https://www.amazon.com/BEDSURE-Sherpa-Fleece-Blanket-Microfiber/dp/B0158EQE2K",
+      "gpt_azn": "B07H84F3CW",
+      "image_url": "https://imgs.search.brave.com/ZOD-8QnlIzjXaBaXG9SOILiDmrGheCAjfqTxq2bPPM4/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9pLmVi/YXlpbWcuY29tL2lt/YWdlcy9nL1d2b0FB/T1N3THZObk5Ob2Uv/cy1sOTYwLndlYnA",
+      "resolver": "brave",
+      "valid": true
+    }
+  ],
+  "resolvedLinks": {
+    "https://www.goodhousekeeping.com/home-products/blanket-reviews/a24734005/best-weighted-blankets//": {
+      "title": "Our Top-Tested Weighted Blankets Can Help You Finally Relax",
+      "description": "We evaluated more than 20 weighted blankets so you can find the best one for you.",
+      "image": "https://hips.hearstapps.com/hmg-prod/images/ghk-digital-weightedblankets-index-057-web-preview-654ea3379a40c.jpg?crop=0.856xw:0.643xh;0.135xw,0.211xh&resize=1200:*",
+      "url": "https://www.goodhousekeeping.com/home-products/a24734005/best-weighted-blankets/"
+    },
+    "https://gravityblankets.com/collections/featured-product": {
+      "title": "Gravity Blanket - The Weighted Blanket for Sleep and Stress",
+      "description": "Meet Gravity, the world's most popular weighted blanket for sleep and stress. Discover how you can improve sleep and reduce stress today by puchasing online or at a retailer new you.",
+      "image": "",
+      "url": "https://gravityblankets.com/collections/featured-product"
+    },
+    "https://www.tomsguide.com/mattresses/pillows-bedding/toms-guide-sleep-awards-2025-best-weighted-blanket": {
+      "title": "Tom’s Guide Sleep Awards 2025: Best Weighted Blanket",
+      "description": "Calming, affordable and breathable, our top pick for the best weighted blanket can also help you fall asleep faster",
+      "image": "https://cdn.mos.cms.futurecdn.net/eSAMbwNEtnmCZFtVXw5sTA-1920-80.png",
+      "url": "https://www.tomsguide.com/mattresses/pillows-bedding/toms-guide-sleep-awards-2025-best-weighted-blanket"
+    },
+    "https://bearaby.com/products/the-napper": {
+      "title": "Bearaby® Weighted Blanket - 100% Cotton Knitted Weighted Blanket",
+      "description": "Bearaby® Weighted Blanket is a knitted blanket to help you fall asleep faster and feel calmer, naturally. Made of 100% sustainable cotton.",
+      "image": "http://bearaby.com/cdn/shop/files/old-Asteroid-Grey_Blanket_1.jpg?v=1762198074",
+      "url": "https://bearaby.com/products/the-napper"
+    },
+    "https://www.sleepfoundation.org/weighted-blanket-reviews/bearaby-weighted-blanket-review": {
+      "title": "Bearaby Weighted Blanket Review",
+      "description": "Like extra weight but tend to sleep hot? Read our Bearaby Weighted Blanket review to decide if this natural, breathable option is right for you.",
+      "image": "https://www.sleepfoundation.org/wp-content/uploads/2021/10/123_BearabyNapperWeightedBlanket_SLEEP1-scaled.jpg",
+      "url": "https://www.sleepfoundation.org/best-weighted-blankets/bearaby-weighted-blanket-review"
+    },
+    "https://www.hgtv.com/design/decorating/furniture-and-accessories/bearaby-weighted-blanket-review": {
+      "title": "We’ve Never Slept Better Thanks to This Stylish, Chunky Knit Weighted Blanket",
+      "description": "It feels like a comforting hug and looks like those cozy chunky knit blankets all over the internet. Read our full review to find out why the HGTV editors are obsessed with Bearaby's Napper weighted blankets.",
+      "image": "https://hgtvhome.sndimg.com/content/dam/images/hgtv/products/2019/10/4/rx_bearaby_the-napper-weighted-blanket.jpeg.rend.hgtvcom.616.462.85.suffix/1570228327879.webp",
+      "url": "https://www.hgtv.com/shopping/product-reviews/bearaby-weighted-blanket-review"
+    },
+    "https://bedsurehome.com/products/sherpa-and-fleece-reversable-blanket": {
+      "title": "GentleSoft® Sherpa Blanket | Cozy Warmth & Comfort",
+      "description": "GentleSoft® sherpa fleece blanket: Award-winning, dual-sided comfort. Velvety flannel & plush sherpa for soft bedding. A cozy warmth for restful moments.",
+      "image": "http://bedsurehome.com/cdn/shop/files/1_138eba3b-64ef-4439-b346-6cb560d9c9fa.jpg?v=1769059917",
+      "url": "https://bedsurehome.com/products/sherpa-fleece-blanket"
+    },
+    "https://www.yahoo.com/lifestyle/best-fleece-blanket--amazon-144042749.html": {
+      "title": "Shoppers say this $20 fleece blanket on Amazon is so soft, it 'feels like you're sleeping in Santa's bed'",
+      "description": "If you're looking for the fluffiest affordable warming blanket on Amazon, this is the best of the best. Shoppers say it even rivals some of the most expensive ones.",
+      "image": "https://s.yimg.com/os/en/in_the_know_500/e402270eae87335100aa6fdf605a4ae9",
+      "url": "https://www.yahoo.com/lifestyle/best-fleece-blanket--amazon-144042749.html"
+    }
+  }
+}

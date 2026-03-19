@@ -1,0 +1,122 @@
+{
+  "slug": "basic-toolkits",
+  "query": "best basic toolkits",
+  "title": "Best basic toolkits | Bin Diving",
+  "description": "AI-dug recommendations for best basic toolkits. Compare options and find one that fits.",
+  "dugAt": "2026-03-18T16:13:54.582Z",
+  "recommendations": [
+    {
+      "product_name": "Amazon Basics Household Tool Kit with Storage Case, 142-Piece",
+      "pros": [
+        "Comprehensive starter set",
+        "Compact organized case"
+      ],
+      "cons": [
+        "Plastic case latches can be weak",
+        "Not heavy‑duty for professional use"
+      ],
+      "price": "$28.99",
+      "amazon_id": "B08KTV3VB8",
+      "sources": [
+        "https://www.a2basics.com/products/tools/amazon-basics-household-tool-kit-with-storage-case-b08ktv3vb8/",
+        "https://extremediy.org/amazon-basics-142-piece-tool-kit-review/",
+        "https://www.slashgear.com/2009518/best-selling-tool-sets-amazon-must-have-november-2025/"
+      ],
+      "amazon_url": "https://www.amazon.com/Amazon-Basics-Household-Tool-Storage/dp/B08KTV3VB8",
+      "gpt_azn": "B08KTV3VB8",
+      "image_url": "https://imgs.search.brave.com/WEYlhSHsLfW1ujcMRmhKFjVnZgUHVVUuknAHUR_lqOo/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9tLm1l/ZGlhLWFtYXpvbi5j/b20vaW1hZ2VzL0kv/ODFmRTQxZGRYdEwu/anBn",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "Apollo Tools 56-Piece Compact Auto/Household Tool Kit (zippered case)",
+      "pros": [
+        "Very compact — good for cars/roadside",
+        "Budget-friendly, durable-for-price tools"
+      ],
+      "cons": [
+        "Limited selection for larger projects",
+        "Smaller case — not as many full‑size tools"
+      ],
+      "price": "$29.99",
+      "amazon_id": "B000SZJMWO",
+      "sources": [
+        "https://apollotools.com/products/auto-tool-set-in-zipper-case-metric",
+        "https://www.walmart.com/ip/17420195",
+        "https://www.autoblog.com/deals/apollo-tools-56-piece-automotive-tool-kit-walmart-sale"
+      ],
+      "amazon_url": "https://www.amazon.com/Apollo-Tools-DT9774-Zippered-56-Piece/dp/B000SZJMWO",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/y1JSJTa1jeCjwUB8aF57EW-KRIkAF9un3w3Mix5Y_9g/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9tLm1l/ZGlhLWFtYXpvbi5j/b20vaW1hZ2VzL0kv/ODFTTldJcDRMQ0wu/anBn",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "DEKOPRO 228-Piece Socket Wrench & Home Tool Set (plastic toolbox)",
+      "pros": [
+        "Very wide variety of sockets and hand tools",
+        "Good value for number of pieces"
+      ],
+      "cons": [
+        "Heavier/bulkier case",
+        "Some pieces not pro-grade for constant heavy use"
+      ],
+      "price": "$58.99",
+      "amazon_id": "B0723914V1",
+      "sources": [
+        "https://business.walmart.com/ip/DEKOPRO-228-Piece-Socket-Wrench-Auto-Repair-Tool-Combination-Package-Mixed-Tool-Set-Hand-Tool-Kit-with-Plastic-Toolbox-Storage-Case/5404397451",
+        "https://topprotools24.com/our-review-of-the-dekopro-228-piece-socket-wrench-tool-set/",
+        "https://www.findthisbest.com/best-tool-sets"
+      ],
+      "amazon_url": "https://www.amazon.com/DEKOPRO-Combination-Package-Plastic-Toolbox/dp/B0723914V1",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/N8jG0lPJIf9ABIq1Y4V89PqqTKGILTwLysaLOr7jjEc/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9jMS5u/ZXdlZ2dpbWFnZXMu/Y29tL3Byb2R1Y3Rp/bWFnZS9uYjY0MC9C/TVlTRDIzMDkwODBD/M1FFUzA2LmpwZw",
+      "resolver": "brave",
+      "valid": true
+    }
+  ],
+  "resolvedLinks": {
+    "https://www.a2basics.com/products/tools/amazon-basics-household-tool-kit-with-storage-case-b08ktv3vb8/": {
+      "title": "Amazon Basics Household Tool Kit With Storage Case, 142 Piece, Turquoise, 13.39 x 9.25 x 2.95 inch",
+      "description": "Amazon Basics Household Tool Kit With Storage Case, 142 Piece, Turquoise, 13.39 x 9.25 x 2.95 inch\nPrice: $28.99\nFeatures 142-piece tool set for everyday …",
+      "image": "https://www.a2basics.com/products/tools/amazon-basics-household-tool-kit-with-storage-case-b08ktv3vb8/image-1.jpg",
+      "url": "https://www.a2basics.com/products/tools/amazon-basics-household-tool-kit-with-storage-case-b08ktv3vb8/"
+    },
+    "https://extremediy.org/amazon-basics-142-piece-tool-kit-review/": {
+      "title": "Amazon Basics 142 Piece Tool Kit Review - Extreme DIY",
+      "description": "Explore the Amazon Basics 142 Piece Tool Kit, perfect for home repairs and DIY projects. Durable, organized, and fit for every skill level with user-friendly tools.",
+      "image": "https://extremediy.org/wp-content/uploads/2024/12/amazon-basics-sturdy-142-piece-household-tool-kit-with-storage-case-turquoise-1339-x-925-x-295-inch-2.jpg",
+      "url": "https://extremediy.org/amazon-basics-142-piece-tool-kit-review/"
+    },
+    "https://www.slashgear.com/2009518/best-selling-tool-sets-amazon-must-have-november-2025/": {
+      "title": "The 13 Best-Selling Tool Sets On Amazon Everyone's Grabbing This November - SlashGear",
+      "description": "It's true, Amazon isn't always the best place for buying tools, but the store sells a lot of great, pre-assembled toolkits at different price points.",
+      "image": "https://www.slashgear.com/img/gallery/the-13-best-selling-tool-sets-on-amazon-everyones-grabbing-this-november/l-intro-1761667213.jpg",
+      "url": "https://www.slashgear.com/2009518/best-selling-tool-sets-amazon-must-have-november-2025/"
+    },
+    "https://apollotools.com/products/auto-tool-set-in-zipper-case-metric": {
+      "title": "56 Piece Metric Auto Tool Set In Zipper Case - DT9775",
+      "description": "This auto tool kit has most needed tools for the road in zippered case that fits in larger glove compartment, backpack, motorcycle saddle bag. Metric.",
+      "image": "http://apollotools.com/cdn/shop/files/DT9775-MAIN_1024x1024.jpg?v=1770053720",
+      "url": "https://apollotools.com/products/auto-tool-set-in-zipper-case-metric"
+    },
+    "https://www.walmart.com/ip/17420195": {
+      "title": "Apollo Tools DT9774 56-Piece Automotive Tool Kit - Walmart.com",
+      "description": "Buy Apollo Tools DT9774 56-Piece Automotive Tool Kit at Walmart.com",
+      "image": "https://i5.walmartimages.com/seo/Apollo-Tools-DT9774-56-Piece-Automotive-Tool-Kit_66e08d22-9eb1-480e-85fe-35197a649f51_1.52449b20561232bb833f4479fb1ff025.jpeg",
+      "url": "https://www.walmart.com/ip/Apollo-Tools-DT9774-56-Piece-Automotive-Tool-Kit/17420195"
+    },
+    "https://business.walmart.com/ip/DEKOPRO-228-Piece-Socket-Wrench-Auto-Repair-Tool-Combination-Package-Mixed-Tool-Set-Hand-Tool-Kit-with-Plastic-Toolbox-Storage-Case/5404397451": {
+      "title": "DEKOPRO 228 Piece Socket Wrench Auto Repair Tool Combination Package Mixed Tool Set Hand Tool Kit with Plastic Toolbox Storage Case - Walmart Business Supplies",
+      "description": "Buy DEKOPRO 228 Piece Socket Wrench Auto Repair Tool Combination Package Mixed Tool Set Hand Tool Kit with Plastic Toolbox Storage Case at business.walmart.com Facilities Maintenance, Repair & Operations - Walmart Business Supplies",
+      "image": "https://i5.walmartimages.com/seo/DEKOPRO-228-Piece-Socket-Wrench-Auto-Repair-Tool-Combination-Package-Mixed-Tool-Set-Hand-Tool-Kit-with-Plastic-Toolbox-Storage-Case_23317dfb-4bc6-4e43-bc08-44f9f975baa8.9d1ecbd73f7df610b64acc69389f3358.jpeg",
+      "url": "https://business.walmart.com/ip/DEKOPRO-228-Piece-Socket-Wrench-Auto-Repair-Tool-Combination-Package-Mixed-Tool-Set-Hand-Tool-Kit-with-Plastic-Toolbox-Storage-Case/5404397451"
+    },
+    "https://topprotools24.com/our-review-of-the-dekopro-228-piece-socket-wrench-tool-set/": {
+      "title": "Our Review of the DEKOPRO 228-Piece Socket Wrench Tool Set - Top Pro Tools 24 - Premium Power Tools, Hand Tools & Accessories",
+      "description": "When it comes to tackling auto repairs or general household projects, having the right tools makes all the difference. That's why we put the DEKOPRO 228-Piece Socket Wrench Tool Set to the test. This comprehensive kit impressed us with its wide variety of sockets, wrenches, and accessories, all neatly organized in a sturdy plastic toolbox. The quality feels solid, and the tools themselves are comfortable to handle, making even the tougher jobs more manageable. Whether you're a seasoned mechanic or a weekend DIYer, this set offers versatility and convenience. We appreciated how everything stays in place during transport, reducing the frustration of lost bits. Overall, the DEKOPRO set is a reliable companion for anyone looking to expand their toolkit without breaking the bank. Keep reading for our full breakdown of the features and uses!",
+      "image": "https://topprotools24.com/wp-content/uploads/2025/08/32147-our-review-of-the-dekopro-228-piece-socket-wrench-tool-set.jpg",
+      "url": "https://topprotools24.com/our-review-of-the-dekopro-228-piece-socket-wrench-tool-set/"
+    }
+  }
+}

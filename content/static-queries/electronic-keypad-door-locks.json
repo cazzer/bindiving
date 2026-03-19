@@ -1,0 +1,113 @@
+{
+  "slug": "electronic-keypad-door-locks",
+  "query": "best electronic keypad door locks",
+  "title": "Best electronic keypad door locks | Bin Diving",
+  "description": "AI-dug recommendations for best electronic keypad door locks. Compare options and find one that fits.",
+  "dugAt": "2026-03-18T16:22:45.145Z",
+  "recommendations": [
+    {
+      "product_name": "Schlage Encode Plus Smart Wi‑Fi Deadbolt",
+      "pros": [
+        "Built‑in Wi‑Fi and HomeKit support",
+        "Physical keypad for code entry",
+        "High build quality (Schlage)"
+      ],
+      "cons": [
+        "Some user reports of connectivity/keypad issues",
+        "Higher price than basic models"
+      ],
+      "price": null,
+      "amazon_id": "B09RS6C1SJ",
+      "sources": [
+        "https://www.tomsguide.com/us/best-smart-locks%2Creview-3352.html",
+        "https://www.smartdeviceadvisor.com/top-10-smart-door-locks-in-2025-expert-reviews-buyers-guide/",
+        "https://techvib.com/schlage-keypad-lock-reviews/"
+      ],
+      "amazon_url": "https://www.amazon.com/Schlage-BE499WB-CEN-622-Deadbolt/dp/B09RS6C1SJ",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/-vhBD0gcRBElKwtC_BkVe2Bq4NNpbqxv4Jp_GWSF3L4/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly93d3cu/c2NobGFnZS5jb20v/Y29udGVudC9kYW0v/dXMtcmVzLW1rdGcv/UHJvZHVjdC1pbWFn/ZXJ5L1NjaGxhZ2Uv/ZWxlY3Ryb25pYy1s/b2Nrcy9lbmNvZGUt/ZGItcGx1cy9CRTQ5/OV9DQU02MTlfRVhU/X0hPLmpwZy50aHVt/Yi4xMjgwLjEyODAu/cG5n",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "August Wi‑Fi Smart Lock (4th Gen)",
+      "pros": [
+        "Easy retrofit installation (keeps existing deadbolt)",
+        "Built‑in Wi‑Fi — no hub required",
+        "Strong app & ecosystem support (HomeKit, Alexa, Google)"
+      ],
+      "cons": [
+        "Battery life shorter than some competitors",
+        "Keypad sold as optional/accessory for some setups"
+      ],
+      "price": null,
+      "amazon_id": "B082VXRND2",
+      "sources": [
+        "https://www.tomsguide.com/us/best-smart-locks%2Creview-3352.html",
+        "https://phandroid.com/2025/08/26/best-smart-lock-2025/",
+        "https://www.bestbuy.com/site/august-wi-fi-smart-lock-4th-gen-silver/6360649.p"
+      ],
+      "amazon_url": "https://www.amazon.com/August-Wi-Fi-Smart-Generation-Matte/dp/B082VXRND2",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/xgr_DB7l_JqT2-k5379u9iGD05ymfTo7_nbIPvDH83I/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9pLmVi/YXlpbWcuY29tL2lt/YWdlcy9nL1hZNEFB/ZVN3Vmt0cFFITHIv/cy1sOTYwLndlYnA",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "Aqara U400 Smart Lock (UWB / Matter‑ready)",
+      "pros": [
+        "Modern UWB/automatic‑approach unlocking and Apple HomeKey support",
+        "Physical keypad plus Matter/Thread compatibility",
+        "IP65‑rated exterior keypad for durability"
+      ],
+      "cons": [
+        "Newer model with fewer long‑term user reviews",
+        "May require hub/compatibility checks for some setups"
+      ],
+      "price": null,
+      "amazon_id": "B0FRS6T6HL",
+      "sources": [
+        "https://www.tomsguide.com/home/home-security/aqara-u400-review",
+        "https://www.t3.com/home-living/smart-home/aqara-debuts-one-of-the-first-ever-smart-locks-that-unlocks-automatically-on-approach",
+        "https://www.techradar.com/tech-events/ces-2026-smart-locks"
+      ],
+      "amazon_url": "https://www.amazon.com/Aqara-Fingerprint-Touchscreen-Rechargeable-Assistant/dp/B0FRS6T6HL",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/_t1XbLYT4gixGMQrix4hbKimoEVowZhF4ZY18tScZS4/rs:fit:0:180:1:0/g:ce/aHR0cHM6Ly9leHRl/cm5hbC1wcmV2aWV3/LnJlZGQuaXQvcXo2/WWwtUDJncUs2TjdE/Zks3Z2RNTlN6aE9y/eUM4RnhmRXBzdzlH/czZhTS5qcGVnP3dp/ZHRoPTE0MCZoZWln/aHQ9MTA1JmF1dG89/d2VicCZzPTVkZjM1/MzRmMmIzZWQxYjdj/MDZjZTgwZmI1ZGUw/NGU3NjkzOTVmZWQ",
+      "resolver": "brave",
+      "valid": true
+    }
+  ],
+  "resolvedLinks": {
+    "https://www.tomsguide.com/us/best-smart-locks%2Creview-3352.html": {
+      "title": "Best Smart Locks of 2019",
+      "description": "Here are the best smart locks on the market. We considered installation time, security, convenience features and smart home compatibility.",
+      "image": "https://cdn.mos.cms.futurecdn.net/SkntRBhK5Jvws9SH8cS7Y5-1000-80.jpg",
+      "url": "https://www.tomsguide.com/us/best-smart-locks,review-3352.html"
+    },
+    "https://techvib.com/schlage-keypad-lock-reviews/": {
+      "title": "Schlage Keypad Lock Reviews – Best Models, Features & Buyer’s Guide",
+      "description": "Schlage smart keypad locks are secure and popular devices that let you set multiple access codes and manage them remotely through an app with a touch keypad.",
+      "image": "https://techvib.com/wp-content/uploads/2025/06/Copy-of-shakhes-23.webp",
+      "url": "https://techvib.com/schlage-keypad-lock-reviews/"
+    },
+    "https://www.tomsguide.com/home/home-security/aqara-u400-review": {
+      "title": "Aqara U400 review: Made for Apple Home",
+      "description": "A smart lock you never have to touch",
+      "image": "https://cdn.mos.cms.futurecdn.net/bh87bHcUhX2usXJYdYtA69-2000-80.jpg",
+      "url": "https://www.tomsguide.com/home/home-security/aqara-u400-review"
+    },
+    "https://www.t3.com/home-living/smart-home/aqara-debuts-one-of-the-first-ever-smart-locks-that-unlocks-automatically-on-approach": {
+      "title": "Aqara debuts one of the first-ever smart locks that unlocks automatically on approach",
+      "description": "It's available to buy immediately",
+      "image": "https://cdn.mos.cms.futurecdn.net/pxsLscnE6PDEWmeHQFnggh-1280-80.jpg",
+      "url": "https://www.t3.com/home-living/smart-home/aqara-debuts-one-of-the-first-ever-smart-locks-that-unlocks-automatically-on-approach"
+    },
+    "https://www.techradar.com/tech-events/ces-2026-smart-locks": {
+      "title": "Faster, smarter and safer – these are the 6 best new smart locks from CES 2026",
+      "description": "Will this be the year you upgrade your front door?",
+      "image": "https://cdn.mos.cms.futurecdn.net/gG3RbfpnQjxSUap7cLF983-2000-80.jpg",
+      "url": "https://www.techradar.com/tech-events/ces-2026-smart-locks"
+    }
+  }
+}

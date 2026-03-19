@@ -1,0 +1,113 @@
+{
+  "slug": "portable-induction-cooktops",
+  "query": "best portable induction cooktops",
+  "title": "Best portable induction cooktops | Bin Diving",
+  "description": "AI-dug recommendations for best portable induction cooktops. Compare options and find one that fits.",
+  "dugAt": "2026-03-18T16:44:19.687Z",
+  "recommendations": [
+    {
+      "product_name": "Duxtop Portable Induction Cooktop 9600LS",
+      "pros": [
+        "1800W power; fast boiling",
+        "Wide temperature/power presets",
+        "Lightweight and very portable"
+      ],
+      "cons": [
+        "Mixed long-term reliability reports",
+        "Some users report pan-detection issues"
+      ],
+      "price": null,
+      "amazon_id": "B01FLR0ET8",
+      "sources": [
+        "https://duxtop-induction.com/product/portable-cooktop-9600ls/",
+        "https://m.media-amazon.com/images/I/91sjn4dHu8L.pdf",
+        "https://weekendkitchen.net/best-induction-cooktops/"
+      ],
+      "amazon_url": "https://www.amazon.com/Duxtop-1800-Watt-Induction-Countertop-9600LS/dp/B01FLR0ET8",
+      "gpt_azn": "B01FLR0ET8",
+      "image_url": "https://imgs.search.brave.com/g9RJgk31zcJQD84XmZS9Ip-5lYWtM2jy0hRiOsZBP7w/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly93d3cu/Zm9vZGFuZHdpbmUu/Y29tL3RobWIvM1V5/bVdoYnVLc3RZT1VN/Rk8zQUZXaE5LM05v/PS9maXQtaW4vMTUw/MHgyNjY4L2ZpbHRl/cnM6bm9fdXBzY2Fs/ZSgpOm1heF9ieXRl/cygxNTAwMDApOnN0/cmlwX2ljYygpOmZv/cm1hdCh3ZWJwKS9m/YXctZHV4dG9wLWlu/ZHVjdGlvbi1jb29r/dG9wLXJraWxnb3Jl/LTAxNzctNjcxNmUy/MWYyZDMyNGM4YThj/YmE4MzkwMWQzMmE3/NjMuanBlZw",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "NuWave Precision Induction Cooktop (PIC) Gold",
+      "pros": [
+        "Precise temperature control (100–575°F)",
+        "Large 8\" heating coil on 12\" surface",
+        "Strong reputation for fast, even heating"
+      ],
+      "cons": [
+        "Higher-end PIC variants cost more",
+        "Some users report occasional control quirks"
+      ],
+      "price": null,
+      "amazon_id": "B01CHB1Y22",
+      "sources": [
+        "https://www.nuwavenow.com/products/nuwave-pic-gold-pro-induction-cooktop",
+        "https://device.report/nuwave/30242",
+        "https://slickdeals.net/f/19189804-89-99-nuwave-precision-induction-cooktop-gold-12-shatter-proof-ceramic-glass-surface-at-amazon"
+      ],
+      "amazon_url": "https://www.amazon.com/NuWave-Precision-Induction-Cooktop-Ceramic/dp/B01CHB1Y22",
+      "gpt_azn": "B01A1H33FA",
+      "image_url": "https://imgs.search.brave.com/dD0irDyuG2kSj4ofzkPo98Ni8XfaXgrEGPo1XmlnDPA/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9pLmVi/YXlpbWcuY29tL2lt/YWdlcy9nLzNNZ0FB/ZVN3eFlsb29nVXov/cy1sNDAwLndlYnA",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "Amazon Basics 1800W Portable Induction Cooktop",
+      "pros": [
+        "Budget-friendly and widely available",
+        "Standard 1800W performance with safety features",
+        "Simple controls suitable for dorms/RVs"
+      ],
+      "cons": [
+        "Fewer advanced features than premium models",
+        "Smaller control/temperature range vs. PIC units"
+      ],
+      "price": null,
+      "amazon_id": "B07S2628R9",
+      "sources": [
+        "https://manuals.plus/asin/B07S2628R9",
+        "https://appliancebee.com/amazonbasics-1800w-portable-induction-cooktop/",
+        "https://bestviewsreviews.com/countertop-burners/duxtop-duxtop-portable-induction-cooktop-countertop-burner-induction-hot-plate-with-lcd-sensor-touch-1800-watts-silver-9600lsbt-200dz/"
+      ],
+      "amazon_url": "https://www.amazon.com/AmazonBasics-1800W-Portable-Induction-Cooktop/dp/B07S2628R9",
+      "gpt_azn": "B07S2628R9",
+      "image_url": "https://imgs.search.brave.com/B1S3pr5sKI11MxZByizLIa6iTbYJQh2tpwBg3wnl7lk/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9pbWFn/ZXMtbmEuc3NsLWlt/YWdlcy1hbWF6b24u/Y29tL2ltYWdlcy9J/LzYxb29ZRmdjdVlM/LmpwZw",
+      "resolver": "brave",
+      "valid": true
+    }
+  ],
+  "resolvedLinks": {
+    "https://duxtop-induction.com/product/portable-cooktop-9600ls/": {
+      "title": "Portable Induction Cooktop Countertop Burner 9600LS - Duxtop Induction Cookware | Premium Induction Cooktops Website",
+      "description": "Brand:   Duxtop Product Dimensions:  11.4\"D x 14\"W x 2.5\"H Wattage:   1800 watts Voltage:   120 Volts",
+      "image": "https://duxtop-induction.com/wp-content/uploads/2024/03/duxtop-cookpot.jpg",
+      "url": "https://duxtop-induction.com/product/portable-cooktop-9600ls/"
+    },
+    "https://m.media-amazon.com/images/I/91sjn4dHu8L.pdf": {
+      "title": "",
+      "description": "",
+      "image": "",
+      "url": "https://m.media-amazon.com/images/I/91sjn4dHu8L.pdf"
+    },
+    "https://weekendkitchen.net/best-induction-cooktops/": {
+      "title": "Best Induction Cooktops for your Kitchen in 2026 - Tested & Ranked - Weekend Kitchen",
+      "description": "Expert-tested induction cooktops from budget to premium. Compare top picks including Duxtop, Breville Control Freak, and Cuisinart for your kitchen.",
+      "image": "https://weekendkitchen.net/best-induction-cooktops/hero.webp",
+      "url": "https://weekendkitchen.net/best-induction-cooktops/"
+    },
+    "https://slickdeals.net/f/19189804-89-99-nuwave-precision-induction-cooktop-gold-12-shatter-proof-ceramic-glass-surface-at-amazon": {
+      "title": "$89.99 | Nuwave Precision Induction Cooktop Gold, 12” Shatter-Proof Ceramic Glass Surface at Amazon - 2026-02-09",
+      "description": "Amazon [amazon.com] has Nuwave Precision Induction Cooktop Gold, 12\" Shatter-Proof Ceramic Glass Surface for $89.99.\nShipping is free.\n\nPrice\n$50 lower (36% savings) than the list price of $139.9",
+      "image": "https://slickdeals.net/attachment/1/1/7/1/5/2/7/450x450/19542730.thumb",
+      "url": "https://slickdeals.net/sh/thread-19189804/e/3/c/deal-details/au/adf22e1422e911f18836da4c27088c66/"
+    },
+    "https://bestviewsreviews.com/countertop-burners/duxtop-duxtop-portable-induction-cooktop-countertop-burner-induction-hot-plate-with-lcd-sensor-touch-1800-watts-silver-9600lsbt-200dz/": {
+      "title": "Reviews for Duxtop Portable Induction Cooktop, Countertop Burner Induction Hot Plate with LCD Sensor Touch 1800 Watts, Silver 9600LS/BT-200DZ ; duxtop: Oct 15, 2024 - Bestviewsreviews",
+      "description": "Duxtop Portable Induction Cooktop, Countertop Burner Induction Hot Plate with LCD Sensor Touch 1800 Watts, Silver 9600LS/BT-200DZ ; duxtop. Best Countertop Burners based on Easy to Maintain, Customer Support, Design, Build Quality; Pros- 20 preset power levels and temperature levels meet varied cooking requirements, Child safety lock avoids the cooking and timer settings from being accidentally changed once set, Auto-pan detection shuts off the automatically if no cookware or incorrect cookware is detected.",
+      "image": "https://m.media-amazon.com/images/I/41Vqjrj43GL._SL500_.jpg",
+      "url": "https://bestviewsreviews.com/countertop-burners/duxtop-duxtop-portable-induction-cooktop-countertop-burner-induction-hot-plate-with-lcd-sensor-touch-1800-watts-silver-9600lsbt-200dz/"
+    }
+  }
+}

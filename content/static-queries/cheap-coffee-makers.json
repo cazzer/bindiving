@@ -1,0 +1,104 @@
+{
+  "slug": "cheap-coffee-makers",
+  "query": "best cheap coffee makers",
+  "title": "Best cheap coffee makers | Bin Diving",
+  "description": "AI-dug recommendations for best cheap coffee makers. Compare options and find one that fits.",
+  "dugAt": "2026-03-18T17:10:42.087Z",
+  "recommendations": [
+    {
+      "product_name": "Braun PureFlavor (PureFlavor / BrewSense series) 14-Cup Drip Coffee Maker",
+      "pros": [
+        "Consistent temperature control",
+        "Large 12–14 cup capacity",
+        "Fast-brew option"
+      ],
+      "cons": [
+        "Basic UI on some models",
+        "Plastic components in places"
+      ],
+      "price": null,
+      "amazon_id": "B096TYCRZV",
+      "sources": [
+        "https://www.bonappetit.com/story/best-cheap-coffee-makers",
+        "https://www.braunhousehold.com/en-us/pureflavor-coffee-maker-kf5650bk/p/KF502AN-KF5650BK"
+      ],
+      "amazon_url": "https://www.amazon.com/BraunKF5650BK-Flavor-Coffee-Maker-Black/dp/B096TYCRZV",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/jK8e7Sa-C-eF6wvH9xt9rMuzJWowoTegg__LhXS4_Rg/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly90aGVr/aXRjaGVuYmFyaXN0/YS5jb20vY2RuL3No/b3AvZmlsZXMvQnJh/dW4tQ29mZmVlTWFj/aGluZS1QdXJlRmxh/dm9yQ29mZmVlTWFr/ZXJLRjU2NTAtMi1U/aGVLaXRjaGVuQmFy/aXN0YS5qcGc_dj0x/Njg2MDYzNjMyJndp/ZHRoPTQwMA",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "BLACK+DECKER 12-Cup Programmable Coffee Maker (CM1160B series)",
+      "pros": [
+        "Very affordable",
+        "Programmable auto-brew and sneak-a-cup",
+        "Widely available replacement parts/accessories"
+      ],
+      "cons": [
+        "Glass carafe/warming plate can affect flavor",
+        "Build quality is basic"
+      ],
+      "price": null,
+      "amazon_id": "B01GJOMWVA",
+      "sources": [
+        "https://www.techgearlab.com/reviews/kitchen/drip-coffee-maker/black-plusdecker-12-cup-programmable",
+        "https://www.blackanddeckerappliances.com/products/cm1160b-1"
+      ],
+      "amazon_url": "https://www.amazon.com/BLACK-DECKER-Programmable-Coffeemaker-CM1160B/dp/B01GJOMWVA",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/F9JhUF4qUQ3Xq0zkEB1_Uq9m1UkIEgyxIgdi42SQNmg/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9tLm1l/ZGlhLWFtYXpvbi5j/b20vaW1hZ2VzL0kv/MzFVeWplUmRZM0wu/anBn",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "Keurig K-Mini Single-Serve K-Cup Pod Coffee Maker",
+      "pros": [
+        "Extremely compact for small spaces",
+        "Fast single-cup brewing",
+        "Simple, easy-to-use operation"
+      ],
+      "cons": [
+        "Single-serve pods add ongoing cost",
+        "Limited temperature/strength control"
+      ],
+      "price": null,
+      "amazon_id": "B07GV2S1GS",
+      "sources": [
+        "https://www.tomsguide.com/reviews/keurig-k-mini",
+        "https://www.wired.com/story/keurig-k-mini-deal-1025"
+      ],
+      "amazon_url": "https://www.amazon.com/Keurig-K-Mini-Single-Serve-Coffee/dp/B07GV2S1GS",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/ubBN1toKMa01Bfp1Xz2yzuK1QRCnhnMk9FA2I4y0ktw/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9pbWFn/ZXMtbmEuc3NsLWlt/YWdlcy1hbWF6b24u/Y29tL2ltYWdlcy9J/LzYxOEQzNG44Z0xM/LmpwZw",
+      "resolver": "brave",
+      "valid": true
+    }
+  ],
+  "resolvedLinks": {
+    "https://www.bonappetit.com/story/best-cheap-coffee-makers": {
+      "title": "The Best Cheap Coffee Maker (That Isn't a Waste of Money)",
+      "description": "We tested eight machines under $100 to find the cheap coffee makers that make a quality brew.",
+      "image": "https://assets.bonappetit.com/photos/68b9f134c29aa6f7cdc4f24a/16:9/w_1280,c_limit/8.27_BA_Best-cheap-coffee-makers-lede-image%20(1).jpg",
+      "url": "https://www.bonappetit.com/story/best-cheap-coffee-makers"
+    },
+    "https://www.techgearlab.com/reviews/kitchen/drip-coffee-maker/black-plusdecker-12-cup-programmable": {
+      "title": "Black+Decker 12-Cup Programmable Review",
+      "description": "The Black+Decker 12-Cup Programmable is a reliable low-budget coffee maker that makes a hearty pot of strong coffee -- suitable for dark roast drinkers who...",
+      "image": "https://djd1xqjx2kdnv.cloudfront.net/photos/35/80/479478_5063_XXL.jpg",
+      "url": "https://www.techgearlab.com/reviews/kitchen/drip-coffee-maker/black-plusdecker-12-cup-programmable"
+    },
+    "https://www.tomsguide.com/reviews/keurig-k-mini": {
+      "title": "Keurig K-Mini review",
+      "description": "A barebones pod machine that serves as the easiest intro to Keurig",
+      "image": "https://cdn.mos.cms.futurecdn.net/VVgyQ9WXcuHGfdJyiV3aEj-2000-80.jpg",
+      "url": "https://www.tomsguide.com/reviews/keurig-k-mini"
+    },
+    "https://www.wired.com/story/keurig-k-mini-deal-1025": {
+      "title": "Our Favorite Compact Pod Coffee Maker Is $30 Off",
+      "description": "The Keurig K-Mini can easily sneak into the smallest kitchens.",
+      "image": "https://media.wired.com/photos/68fa61560af2899c38989d89/191:100/w_1280,c_limit/K-Mini%20DEAL.png",
+      "url": "https://www.wired.com/story/keurig-k-mini-deal-1025/"
+    }
+  }
+}

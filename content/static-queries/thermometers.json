@@ -1,0 +1,137 @@
+{
+  "slug": "thermometers",
+  "query": "best thermometers",
+  "title": "Best thermometers | Bin Diving",
+  "description": "AI-dug recommendations for best thermometers. Compare options and find one that fits.",
+  "dugAt": "2026-03-18T17:46:46.929Z",
+  "recommendations": [
+    {
+      "product_name": "iHealth No‑Touch Forehead Thermometer PT3",
+      "pros": [
+        "Fast 1s readings",
+        "No‑touch / hygienic",
+        "Simple display and memory"
+      ],
+      "cons": [
+        "Can be sensitive to sweat/hair",
+        "Variable accuracy reported by some users"
+      ],
+      "price": null,
+      "amazon_id": "B075QQ8VZW",
+      "sources": [
+        "https://www.tomsguide.com/best-picks/best-thermometers",
+        "https://ihealthlabs.com/pages/support-pt3",
+        "https://m.media-amazon.com/images/I/91uMnmT8ZUL.pdf"
+      ],
+      "amazon_url": "https://www.amazon.com/iHealth-Thermometer-Vibration-Notification-Thermopile/dp/B075QQ8VZW",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/fI0bYImIP2zK8ZSH2kAOLrUXSMgPc8Hf36LBCngK4Jc/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9pLmVi/YXlpbWcuY29tL2lt/YWdlcy9nL3lmc0FB/T1N3a0w5b1JNQlgv/cy1sNTAwLndlYnA",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "Kinsa QuickCare Smart Digital Thermometer",
+      "pros": [
+        "FDA‑cleared; works oral/rectal/underarm",
+        "Bluetooth + app for logging and guidance",
+        "Fast ~8s readings; pediatric‑friendly"
+      ],
+      "cons": [
+        "Requires Kinsa app for smart features",
+        "Rectal/oral use (not no‑touch) may be uncomfortable for some"
+      ],
+      "price": "$29.99",
+      "amazon_id": "B0795ZW85G",
+      "sources": [
+        "https://home.kinsahealth.com/products/kinsa-quickcare-smart-thermometer",
+        "https://www.hsahomemed.com/products/quickcare-thermometer",
+        "https://www.yahoo.com/lifestyle/articles/amazon-users-call-best-thermometer-174938727.html"
+      ],
+      "amazon_url": "https://www.amazon.com/Kinsa-Smart-Thermometer-Fever-Temperature/dp/B0795ZW85G",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/bvZKyxgZNgg5Prn-CSQlb21T7e1bOEd8TA_L9U8SLpY/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9zaG9w/LmtpbnNhaGVhbHRo/LmNvbS9jZG4vc2hv/cC9wcm9kdWN0cy9L/aW5zYV9RdWlja0Nh/cmVfU21hcnRfRGln/aXRhbF9UaGVybW9t/ZXRlcl93aXRoX1Bo/b25lXzEwMjR4MTAy/NC5qcGc_dj0xNTky/NjAyNTY5",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "Exergen TemporalScanner (Temporal Artery) TAT‑2000C",
+      "pros": [
+        "Temporal‑artery method with clinical backing",
+        "Noninvasive forehead scan; single measurement recommended",
+        "Used in many clinical settings"
+      ],
+      "cons": [
+        "Higher price than basic thermometers",
+        "Technique matters for accurate reading"
+      ],
+      "price": null,
+      "amazon_id": "B01MSD9C20",
+      "sources": [
+        "https://www.exergen.com/product/tat-2000c-temporal-artery-home-thermometer/",
+        "https://www.exergen.com/our-science-research/temporal-artery-thermometry/",
+        "https://techdrinking.com/best-temporal-scanner-thermometer/"
+      ],
+      "amazon_url": "https://www.amazon.com/Exergen-Temporal-Artery-Thermometer-TAT-2000C/dp/B01MSD9C20",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/VU_75AAqUnot6WlbR-ZUJtJ7Bqvj7ReEjY8UUNu7Ubg/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9lYWRu/LXdjMDItODUyNTc5/MS5ueGVkZ2UuaW8v/Y2RuL21lZGlhL2E0/L2ZhL2MwLzE2ODI3/MjYwNjgvZXhlcmdl/bl8xNDAwMDhfdGF0/XzIwMDBjX3RlbXBv/cmFsX2FydGVyeV90/aGVybW9tZXRlci5q/cGc",
+      "resolver": "brave",
+      "valid": true
+    }
+  ],
+  "resolvedLinks": {
+    "https://www.tomsguide.com/best-picks/best-thermometers": {
+      "title": "Best thermometers in 2025: tested and rated",
+      "description": "These are the best thermometers you can find right now",
+      "image": "https://cdn.mos.cms.futurecdn.net/rTyFM96AzC9mSSrx82MwJA-2000-80.jpg",
+      "url": "https://www.tomsguide.com/best-picks/best-thermometers"
+    },
+    "https://ihealthlabs.com/pages/support-pt3": {
+      "title": "Support | iHealth PT3 Non-Contact Infrared Forehead Thermometer",
+      "description": "Learn about the iHealth PT3 thermometer, including the owner's manual, a quick start guide, and FAQs about our non-contact infrared forehead thermometer.",
+      "image": "https://cdn.shopify.com/s/files/1/0428/9406/5826/files/3ce35383da7fffc26c8a00f26420b6f4_56b5acf2-522f-41be-ad51-f654f392bfef.jpg?v=1646435553",
+      "url": "https://ihealthlabs.com/pages/support-pt3"
+    },
+    "https://m.media-amazon.com/images/I/91uMnmT8ZUL.pdf": {
+      "title": "",
+      "description": "",
+      "image": "",
+      "url": "https://m.media-amazon.com/images/I/91uMnmT8ZUL.pdf"
+    },
+    "https://home.kinsahealth.com/products/kinsa-quickcare-smart-thermometer": {
+      "title": "Kinsa QuickCare Bluetooth® Smart Thermometer | Kinsa Health",
+      "description": "Pair this doctor-recommended stick thermometer to your smartphone for personalized guidance to feel better faster. Track symptoms and get tips to soothe symptoms in real-time. Takes oral, under arm or rectal readings, making it great for newborns and babies.",
+      "image": "https://cdn.prod.website-files.com/5fadc80e43b3211247d671d8/6035502362a3077f597c27cf_c-1-min%20(1).png",
+      "url": "https://home.kinsahealth.com/products/kinsa-quickcare-smart-thermometer"
+    },
+    "https://www.hsahomemed.com/products/quickcare-thermometer": {
+      "title": "Quickcare Thermometer",
+      "description": "More Than a Thermometer Meet QuickCare, Kinsas newest Bluetooth-enabled smart digital thermometer! QuickCare offers fast (8 seconds or less!), accurate, and reliable temperature readings. With a no-hassle wireless connection to any iPhone or Android smartphone, QuickCare syncs with Kinsas free app that provides persona",
+      "image": "http://www.hsahomemed.com/cdn/shop/files/shopping_6cf5101d-d72b-4c28-8a84-fbad15807734.webp?v=1713307954",
+      "url": "https://www.hsahomemed.com/products/quickcare-thermometer"
+    },
+    "https://www.yahoo.com/lifestyle/articles/amazon-users-call-best-thermometer-174938727.html": {
+      "title": "Amazon Users Call This 'The Best Thermometer Any Parent Could Ever Wish For'",
+      "description": "Anyone in the market for a smart thermometer that does more than just take your temperature needs to know about this Amazon deal.",
+      "image": "https://s.yimg.com/ny/api/res/1.2/kN5Ls55LBidD1E2c0vLG1w--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzQ7Y2Y9d2VicA--/https://media.zenfs.com/en/bgr_ecomm_183/0cfecd496cea59a28af7249dbb587450",
+      "url": "https://www.yahoo.com/lifestyle/articles/amazon-users-call-best-thermometer-174938727.html"
+    },
+    "https://www.exergen.com/product/tat-2000c-temporal-artery-home-thermometer/": {
+      "title": "Temporal Artery Thermometer TAT-2000C | Exergen",
+      "description": "NEW Exergen TemporalScanner SmartGlow home model with 25 SafetyScan Caps. Protect your family's health with reusable caps for the TAT-2000C Forehead Thermometer. Non contact thermometers are proven inaccurate by FDA studies and should not be used. Exergen Temporal Artery Thermometers with SafetyScan Caps are proven to be safe and accurate for fast public temperature screening.",
+      "image": "https://www.exergen.com/wp-content/uploads/2024/08/Exergen-SafetyScanCap-Contents.png",
+      "url": "https://www.exergen.com/product/tat-2000c-temporal-artery-home-thermometer-with-safetyscan-caps/"
+    },
+    "https://www.exergen.com/our-science-research/temporal-artery-thermometry/": {
+      "title": "Temporal Artery Thermometry - Exergen Corporation",
+      "description": "Temperature Assessment via the Temporal Artery What Exactly is Being Measured?It is helpful to see exactly what we are targeting when we are measuring temperature with the Temporal Artery Thermometer, and the following images will illustrate the areas of interest. It is not uncommon to see someone scanning down the side…",
+      "image": "https://www.exergen.com/wp-content/uploads/2024/09/three-infrared-heads2.jpg",
+      "url": "https://www.exergen.com/our-science-research/temporal-artery-thermometry/"
+    },
+    "https://techdrinking.com/best-temporal-scanner-thermometer/": {
+      "title": "10 Best Temporal Scanner Thermometer (Updated 2026)",
+      "description": "Ready to find the top best temporal scanner thermometer on the market? Our team has exhaustively researched and tested the leading products in this space, ensuring a comprehensive and comparative analysis. Each best temporal scanner thermometer was evaluated in various real-life situations and controlled tests to understand their full spectrum of features and limitations. Our",
+      "image": "",
+      "url": "https://techdrinking.com/best-temporal-scanner-thermometer/"
+    }
+  }
+}

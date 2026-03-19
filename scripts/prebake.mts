@@ -2,7 +2,8 @@
  * Prebake static query pages: run search → resolve products → resolve link previews → write JSON.
  * Run from repo root:
  *   npm run prebake                                    # run all entries in scripts/prebake-queries.json
- *   npm run prebake -- <slug> "<search term>"          # run one, e.g. prebake -- camping-chairs "best lightweight camping chairs"
+ *   npm run prebake -- --mode missing                  # run file entries, but skip slugs that already have JSON
+ *   npm run prebake -- <slug> "<search term>"         # run one custom page, e.g. prebake -- camping-chairs "best lightweight camping chairs"
  * Requires: OPEN_AI_KEY (and any env needed by product resolvers).
  */
 
@@ -102,7 +103,15 @@ async function resolveLinksForSources(sources: string[]): Promise<Record<string,
   return out
 }
 
-const prebakedUrls: string[] = []
+function outPathForSlug(slug: string): string {
+  return join(OUT_DIR, `${slug}.json`)
+}
+
+function urlForSlug(slug: string): string {
+  return `https://bindiving.com/best/${slug}`
+}
+
+const prebakedUrls = new Set<string>()
 
 async function runOne(entry: QueryEntry): Promise<void> {
   const { query, slug: slugOverride, title: titleOverride, description: descriptionOverride } = normalizeEntry(entry)
@@ -142,12 +151,11 @@ async function runOne(entry: QueryEntry): Promise<void> {
   }
 
   mkdirSync(OUT_DIR, { recursive: true })
-  const outPath = join(OUT_DIR, `${slug}.json`)
+  const outPath = outPathForSlug(slug)
   writeFileSync(outPath, JSON.stringify(payload, null, 2), 'utf-8')
   console.log(`[${slug}] wrote ${outPath}`)
 
-  const url = `https://bindiving.com/best/${slug}`
-  prebakedUrls.push(url)
+  prebakedUrls.add(urlForSlug(slug))
 }
 
 function ensureLlmEntries(urls: string[]): void {
@@ -228,20 +236,91 @@ function ensureSitemapEntries(urls: string[]): void {
 
 async function main(): Promise<void> {
   const args = process.argv.slice(2)
-  const slugArg = args[0]
-  const queryArg = args[1]
-  const queries: QueryEntry[] = slugArg && queryArg ? [{ slug: slugArg.trim(), query: queryArg.trim() }] : loadQueries()
+  let mode: 'file' | 'missing' | 'custom' = 'file'
+  const positional: string[] = []
 
-  console.log(`Prebaking ${queries.length} queries → ${OUT_DIR}`)
+  for (let i = 0; i < args.length; i++) {
+    const a = args[i]
+    if (a === '--mode') {
+      const next = args[i + 1]
+      if (!next) throw new Error('Missing value for --mode')
+      if (next === 'file' || next === 'missing' || next === 'custom') {
+        mode = next
+      } else {
+        throw new Error(`Unknown --mode "${next}" (expected: file | missing | custom)`)
+      }
+      i++
+      continue
+    }
+
+    // Optional named flags for custom mode
+    if (a === '--slug') {
+      const next = args[i + 1]
+      if (!next) throw new Error('Missing value for --slug')
+      positional.push(next)
+      i++
+      continue
+    }
+    if (a === '--query') {
+      const next = args[i + 1]
+      if (!next) throw new Error('Missing value for --query')
+      positional.push(next)
+      i++
+      continue
+    }
+
+    if (a.startsWith('--')) {
+      throw new Error(`Unknown flag: ${a}`)
+    }
+    positional.push(a)
+  }
+
+  // Back-compat: if invoked like `npm run prebake -- <slug> "<search term>"` then it's custom mode.
+  if (mode === 'file' && positional.length === 2) mode = 'custom'
+
+  let queries: QueryEntry[]
+  if (mode === 'custom') {
+    const slugArg = positional[0]?.trim()
+    const queryArg = positional[1]?.trim()
+    if (!slugArg || !queryArg) {
+      throw new Error('Custom mode requires: <slug> "<search term>" (or --slug <slug> --query "<search term>")')
+    }
+    queries = [{ slug: slugArg, query: queryArg }]
+  } else {
+    queries = loadQueries()
+  }
+
+  console.log(`Prebaking ${queries.length} queries → ${OUT_DIR} (mode=${mode})`)
   for (let i = 0; i < queries.length; i++) {
+    let ran = false
+
+    if (mode === 'missing') {
+      const entry = queries[i]
+      const { query, slug: slugOverride } = normalizeEntry(entry)
+      const coreForSlug = query.replace(/^best\s+/i, '').trim()
+      const slug = slugOverride ?? slugify(coreForSlug)
+      const outPath = outPathForSlug(slug)
+      if (existsSync(outPath)) {
+        prebakedUrls.add(urlForSlug(slug))
+        console.log(`[${slug}] exists, skipping`)
+        continue
+      }
+    }
+
     await runOne(queries[i])
-    if (i < queries.length - 1) {
+    ran = true
+
+    if (ran && i < queries.length - 1) {
+      // Space out OpenAI requests a bit.
       await new Promise((r) => setTimeout(r, 2000))
     }
   }
-  if (prebakedUrls.length > 0) {
-    ensureLlmEntries(prebakedUrls)
-    ensureSitemapEntries(prebakedUrls)
+
+  if (prebakedUrls.size > 0) {
+    const urls: string[] = []
+    prebakedUrls.forEach((u) => urls.push(u))
+    ensureLlmEntries(urls)
+    ensureSitemapEntries(urls)
   }
   console.log('Done.')
 }

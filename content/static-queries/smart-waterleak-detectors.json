@@ -1,0 +1,113 @@
+{
+  "slug": "smart-waterleak-detectors",
+  "query": "best smart water‑leak detectors",
+  "title": "Best smart water‑leak detectors | Bin Diving",
+  "description": "AI-dug recommendations for best smart water‑leak detectors. Compare options and find one that fits.",
+  "dugAt": "2026-03-18T22:02:52.428Z",
+  "recommendations": [
+    {
+      "product_name": "Flo by Moen Smart Water Monitor & Shutoff",
+      "pros": [
+        "Whole‑home flow monitoring",
+        "Automatic shutoff to stop major leaks",
+        "Integrates with Alexa/Google/Ring"
+      ],
+      "cons": [
+        "Requires plumber for installation for some models",
+        "Some users report app/connectivity issues",
+        "Valve actuator longevity concerns in reports"
+      ],
+      "price": null,
+      "amazon_id": "B00C03D01Q",
+      "sources": [
+        "https://www.tomsguide.com/best-picks/best-water-leak-detectors",
+        "https://m.media-amazon.com/images/I/91%2BHbIAW1jL.pdf"
+      ],
+      "amazon_url": "https://www.amazon.com/Moen-900-001-4-Inch-Smart-Shutoff/dp/B00C03D01Q",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/_HKMeip0vfOscvDnKL0dtpMS1SH623AAUNCdIsGNAtA/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9tLm1l/ZGlhLWFtYXpvbi5j/b20vaW1hZ2VzL0kv/NDFVYnIzWUlxREwu/anBn",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "Phyn Plus Smart Water Assistant + Shutoff",
+      "pros": [
+        "High‑resolution pressure sensing detects tiny leaks",
+        "Automatic shutoff and detailed usage analytics",
+        "Works with Alexa and Google Assistant"
+      ],
+      "cons": [
+        "Professional installation typically required",
+        "Higher upfront cost than simple sensors",
+        "May require stable Wi‑Fi/mesh adjustments"
+      ],
+      "price": null,
+      "amazon_id": "B081J4BMDY",
+      "sources": [
+        "https://phyn.com/products/phyn",
+        "https://www.tomsguide.com/best-picks/best-water-leak-detectors"
+      ],
+      "amazon_url": "https://www.amazon.com/Phyn-Smart-Assistant-Shutoff-Professionally-Installed/dp/B081J4BMDY",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/IYB5yh7AGm5W4paBKkI4sfeiqvKqZXJV9kTkNviw6Ho/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9waHlu/LmNvbS9jZG4vc2hv/cC9maWxlcy9waHlu/LXNodXQtb2ZmLXZh/bHZlcy1waHlwZjAw/Ny02NF8xMDAwcHgu/anBnP3Y9MTc3MzQz/OTU4MCZ3aWR0aD0x/MDAw",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "Flume Smart Home Water Monitor (Flume 2/Flume 3)",
+      "pros": [
+        "Non‑invasive DIY installation on your water meter",
+        "Good whole‑home flow monitoring and alerting",
+        "No plumber required for typical installs"
+      ],
+      "cons": [
+        "May miss very small fixture‑level leaks compared with pressure‑sense systems",
+        "Requires water‑meter compatibility check",
+        "Some user reports of connectivity/issues"
+      ],
+      "price": null,
+      "amazon_id": "B08DX6MP8X",
+      "sources": [
+        "https://www.gearbrain.com/best-smart-water-leak-detectors-2669457171.html",
+        "https://www.windowscentral.com/flume-smart-home-wi-fi-water-monitoring-system"
+      ],
+      "amazon_url": "https://www.amazon.com/Flume-Smart-Water-Monitor-Detector/dp/B08DX6MP8X",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/2gjlx8Ps8AowmbXKMHwVRwK6rn5iU_Z5i5aF1WPEkRU/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9iYWNr/eWFyZGxhbmRzY2Fw/ZXN1cHBseS5jb20v/d3AtY29udGVudC91/cGxvYWRzLzIwMjIv/MDMvNjF5RTA4QXZT/SkwuX0FDX1NMMTA4/MF8uanBn",
+      "resolver": "brave",
+      "valid": true
+    }
+  ],
+  "resolvedLinks": {
+    "https://www.tomsguide.com/best-picks/best-water-leak-detectors": {
+      "title": "Best water leak detectors",
+      "description": "The best water leak detectors can save you hundreds or thousands of dollars in repairs",
+      "image": "https://cdn.mos.cms.futurecdn.net/veDqjHVHxYNeCxGoBNxeH-2000-80.jpg",
+      "url": "https://www.tomsguide.com/best-picks/best-water-leak-detectors"
+    },
+    "https://m.media-amazon.com/images/I/91%2BHbIAW1jL.pdf": {
+      "title": "",
+      "description": "",
+      "image": "",
+      "url": "https://m.media-amazon.com/images/I/91%2BHbIAW1jL.pdf"
+    },
+    "https://phyn.com/products/phyn": {
+      "title": "Phyn Smart Water Assistant",
+      "description": "The self-installed water monitor that goes under a single sink, immediately notifies you if a leak is detected anywhere in your home, and provides detailed insights into how each fixture in your home uses water.",
+      "image": "http://phyn.com/cdn/shop/products/1280_products_section_6_1.jpg?v=1703179958",
+      "url": "https://phyn.com/products/phyn"
+    },
+    "https://www.gearbrain.com/best-smart-water-leak-detectors-2669457171.html": {
+      "title": "Find the best smart water leak detectors to protect your home in 2024.",
+      "description": "Explore the best smart water leak detectors for 2024. Get details on prices, key features, and smart home compatibility to protect your home from water damage. Find the perfect device for your needs.",
+      "image": "https://www.gearbrain.com/media-library/a-photo-of-a-pipe-bursting.jpg?id=17605119&width=1200&height=600&coordinates=0%2C271%2C0%2C272",
+      "url": "https://www.gearbrain.com/best-smart-water-leak-detectors-2669457171.html"
+    },
+    "https://www.windowscentral.com/flume-smart-home-wi-fi-water-monitoring-system": {
+      "title": "Save now and later with $40 off the Flume smart home water monitoring system",
+      "description": "",
+      "image": "https://cdn.mos.cms.futurecdn.net/sQWnpz9sJQXggPwNndd8ZY-1000-80.jpg",
+      "url": "https://www.androidcentral.com/flume-smart-home-wi-fi-water-monitoring-system"
+    }
+  }
+}

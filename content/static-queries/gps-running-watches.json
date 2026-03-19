@@ -1,0 +1,101 @@
+{
+  "slug": "gps-running-watches",
+  "query": "best gps running watches",
+  "title": "Best gps running watches | Bin Diving",
+  "description": "AI-dug recommendations for best gps running watches. Compare options and find one that fits.",
+  "dugAt": "2026-03-18T17:30:17.181Z",
+  "recommendations": [
+    {
+      "product_name": "Garmin Forerunner 265",
+      "pros": [
+        "Accurate GPS and pace features",
+        "AMOLED display; strong training metrics"
+      ],
+      "cons": [
+        "Not the cheapest option",
+        "Battery life varies with settings"
+      ],
+      "price": null,
+      "amazon_id": "B0BS1T9J4Y",
+      "sources": [
+        "https://www.techradar.com/reviews/garmin-forerunner-265s-review",
+        "https://runbikecalc.com/blog/best-running-watches-2026"
+      ],
+      "amazon_url": "https://www.amazon.com/Garmin-Forerunner-Smartwatch-Colorful-Training/dp/B0BS1T9J4Y",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/cLnbIa-3GQFqCsG_gLlObmrzcvpb8dY_CSm7sq94LjM/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9saWZl/aGFja2VyLmNvbS9p/bWFnZXJ5L3Jldmll/d3MvMDFKUFIxTVY3/MkRGWFdZSEdRWjE3/WEJDQzEvcHJvZHVj/dC1pbWFnZS5maWxs/LnNpemVfYXV0b3hh/dXRvLnYxNzQyNDE2/Mjc2LmpwZw",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "COROS Pace 3",
+      "pros": [
+        "Excellent battery life",
+        "Strong value for core running features"
+      ],
+      "cons": [
+        "Limited smartwatch features",
+        "No full-featured maps on-device"
+      ],
+      "price": null,
+      "amazon_id": "B0CFQQ9FDL",
+      "sources": [
+        "https://www.wareable.com/sport/coros-pace-3-review",
+        "https://www.cyclingweekly.com/news/coros-pace-4-adds-amoled-display-flashlight-voice-notes-and-even-better-battery-life-to-its-ultralight-gps-sport-watch"
+      ],
+      "amazon_url": "https://www.amazon.com/COROS-PACE-Lightweight-Dual-Frequency-Navigation/dp/B0CFQQ9FDL",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/Ntam2Co1YF0p82_gCDjx8TUE6WHAPNr9-mHgNlZAYWs/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9jZG4u/bW9zLmNtcy5mdXR1/cmVjZG4ubmV0L0sz/S2V4NGl5OE5IR25B/OVJvdzV1TFguanBn",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "Apple Watch Ultra 2",
+      "pros": [
+        "Robust multisport features; smooth iOS integration",
+        "Dual-frequency GPS and premium build"
+      ],
+      "cons": [
+        "Shorter battery life compared with dedicated GPS watches",
+        "Best features tied to Apple ecosystem"
+      ],
+      "price": null,
+      "amazon_id": "B0DGHYDYMR",
+      "sources": [
+        "https://www.tomsguide.com/wellness/smartwatches/hurry-apple-watch-ultra-2-is-on-sale-at-amazon-save-dollar80-on-one-of-our-favorite-smartwatches",
+        "https://www.aftonbladet.se/a/Vzvdd3"
+      ],
+      "amazon_url": "https://www.amazon.com/Apple-Watch-Cellular-Smartwatch-Titanium/dp/B0DGHYDYMR",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/nwdnf5cTWhc-jCYGU04R_GVugN0DgT3XR5YpO9GgEQ8/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9jZG4u/bW9zLmNtcy5mdXR1/cmVjZG4ubmV0L1BC/RE0yVk1IOXRRbVhT/VVFWTWpTRGcuanBn",
+      "resolver": "brave",
+      "valid": true
+    }
+  ],
+  "resolvedLinks": {
+    "https://www.techradar.com/reviews/garmin-forerunner-265s-review": {
+      "title": "Garmin Forerunner 265 review: Officially the best running watch for most people",
+      "description": "Garmin Forerunner 265 is an iterative but pretty update",
+      "image": "https://cdn.mos.cms.futurecdn.net/XrTyWzUFuM6wiKPnAAxPW6-2560-80.jpg",
+      "url": "https://www.techradar.com/reviews/garmin-forerunner-265s-review"
+    },
+    "https://www.cyclingweekly.com/news/coros-pace-4-adds-amoled-display-flashlight-voice-notes-and-even-better-battery-life-to-its-ultralight-gps-sport-watch": {
+      "title": "Coros PACE 4 adds AMOLED display, flashlight, voice notes and even better battery life to its ultralight GPS sport watch",
+      "description": "Coros’s latest watch is lighter, brighter and feature-packed — all in a minimalist 32-gram package with impressive battery life",
+      "image": "https://cdn.mos.cms.futurecdn.net/QhFY4EXGait3rqsJDwa7Gg-1920-80.jpg",
+      "url": "https://www.cyclingweekly.com/news/coros-pace-4-adds-amoled-display-flashlight-voice-notes-and-even-better-battery-life-to-its-ultralight-gps-sport-watch"
+    },
+    "https://www.tomsguide.com/wellness/smartwatches/hurry-apple-watch-ultra-2-is-on-sale-at-amazon-save-dollar80-on-one-of-our-favorite-smartwatches": {
+      "title": "Hurry! Apple Watch Ultra 2 is on sale at Amazon — save $80 on one of our favorite smartwatches",
+      "description": "The deal is $4 shy of its all-time price low",
+      "image": "https://cdn.mos.cms.futurecdn.net/wWcDNJEKhJuiVcnjjmvn38-2000-80.jpg",
+      "url": "https://www.tomsguide.com/wellness/smartwatches/hurry-apple-watch-ultra-2-is-on-sale-at-amazon-save-dollar80-on-one-of-our-favorite-smartwatches"
+    },
+    "https://www.aftonbladet.se/a/Vzvdd3": {
+      "title": "Löparklockor: Vi listar våra favoriter bland populära märken",
+      "description": "Rätt sportklocka kan ge dig en extra skjuts i din träning och hjälpa dig nå dina mål.  Här har vi samlat 13 modeller för alla nivåer, från prisvänliga vardagskl",
+      "image": "https://images.aftonbladet-cdn.se/v2/images/a2a0447a-11c0-4e1c-b98c-a8bb992608bc?fit=crop&format=auto&h=615&q=50&w=1436&s=1c0f9f2b1f3e0b7ab3317a16d05aef7523384a42",
+      "url": "https://www.aftonbladet.se/a/Vzvdd3"
+    }
+  }
+}

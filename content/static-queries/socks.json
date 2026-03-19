@@ -1,0 +1,110 @@
+{
+  "slug": "socks",
+  "query": "best socks",
+  "title": "Best socks | Bin Diving",
+  "description": "AI-dug recommendations for best socks. Compare options and find one that fits.",
+  "dugAt": "2026-03-18T22:58:53.344Z",
+  "recommendations": [
+    {
+      "product_name": "Darn Tough Hiker Micro Crew Cushion Socks (Men's)",
+      "pros": [
+        "Lifetime guarantee",
+        "Durable merino wool blend",
+        "Good cushioning for hiking"
+      ],
+      "cons": [
+        "Can feel snug for some foot shapes",
+        "Higher price than basics"
+      ],
+      "price": null,
+      "amazon_id": "B000XIFUZ4",
+      "sources": [
+        "https://www.guidespot.com/best-socks/",
+        "https://darntough.com/products/mens-merino-wool-hiker-micro-crew-cushioned-midweight-hiking-socks"
+      ],
+      "amazon_url": "https://www.amazon.com/Darn-Tough-Hiker-Micro-Cushion/dp/B000XIFUZ4",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/oz30VptrcNCcTQMP59xDQtDPoWCM95NJSQlDR7AENWs/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9tLm1l/ZGlhLWFtYXpvbi5j/b20vaW1hZ2VzL0kv/NDE1K05PeE1vbFMu/anBn",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "Bombas Everyday Ankle Socks",
+      "pros": [
+        "Comfortable fit and supportive design",
+        "Wide range of styles and multipacks",
+        "Positive mainstream reviews for everyday wear"
+      ],
+      "cons": [
+        "Mixed long-term durability reports",
+        "Some users report holes after months of wear"
+      ],
+      "price": null,
+      "amazon_id": "B07Q1KN4DC",
+      "sources": [
+        "https://www.nbcnews.com/select/shopping/best-workout-socks-rcna184130",
+        "https://bombas.com/collections/mens-everyday-ankle-socks"
+      ],
+      "amazon_url": "https://www.amazon.com/Bombas-Womens-Ankle-Socks-Brick/dp/B07Q1KN4DC",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/Pjb4ICZKVVz3Vy40s4GwTLcx2FP0DTzRBdKMBatWp1w/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9tLm1l/ZGlhLWFtYXpvbi5j/b20vaW1hZ2VzL0kv/NjFDM3RkWUpoR0wu/anBn",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "Smartwool Everyday Crew Socks",
+      "pros": [
+        "Soft merino wool, good temperature regulation",
+        "Virtually seamless toe for comfort",
+        "Trusted brand for everyday and light outdoor use"
+      ],
+      "cons": [
+        "Some users report variable fit across styles",
+        "Price higher than basic cotton socks"
+      ],
+      "price": null,
+      "amazon_id": "B0CNTZQ2SJ",
+      "sources": [
+        "https://thesmokingchair.com/best-wool-socks-2026/",
+        "https://www.smartwool.com/en-us/wool-apparel-and-socks/everyday-socks/s"
+      ],
+      "amazon_url": "https://www.amazon.com/Smartwool-Everyday-Cable-Crew-Socks/dp/B0CNTZQ2SJ",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/rrIvY_u_DqHUzLqER5ZkkKl663NZ8RG8narS21ljsLg/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9ka3Mu/c2NlbmU3LmNvbS9p/cy9pbWFnZS9ka3Nj/ZG4vMjVTTUFVQ0FT/VVZSWURZQ1pZSUxX/X0JsYWNrX011bHRp/X0RvbmVnYWxfaXM_/d2lkPTI1MCZoZWk9/MjUwJnFsdD04NSww/JmZtdD1qcGcmb3Bf/c2hhcnBlbj0x",
+      "resolver": "brave",
+      "valid": true
+    }
+  ],
+  "resolvedLinks": {
+    "https://darntough.com/products/mens-merino-wool-hiker-micro-crew-cushioned-midweight-hiking-socks": {
+      "title": "Men's Hiker Micro Crew Midweight Hiking Socks",
+      "description": "From the AT to the PCT, our \"1466\" Hiker raised the bar on what the ultimate hiking sock needs to deliver.",
+      "image": "http://darntough.com/cdn/shop/files/1466_Spruce.png?v=1767203457",
+      "url": "https://darntough.com/products/mens-merino-wool-hiker-micro-crew-cushioned-midweight-hiking-socks"
+    },
+    "https://www.nbcnews.com/select/shopping/best-workout-socks-rcna184130": {
+      "title": "Ditch your old cotton socks — here’s what you should be wearing while working out",
+      "description": "Unlike standard socks, workout socks are made from fabrics that specifically support you while exercising.",
+      "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2024-12/241212-workout-socks-vl-main-63b73a.jpg",
+      "url": "https://www.nbcnews.com/select/shopping/best-workout-socks-rcna184130"
+    },
+    "https://bombas.com/collections/mens-everyday-ankle-socks": {
+      "title": "Bombas",
+      "description": "Bombas is a comfort focused sock and apparel brand with a mission to help those in need. One purchased = one donated, always and forever",
+      "image": "https://assets.bombas.com/image/upload/v1681220767/frontend/Bombas_Logo_Seafoam.png",
+      "url": "https://shop.bombas.com/collections/mens-everyday-ankle-socks"
+    },
+    "https://thesmokingchair.com/best-wool-socks-2026/": {
+      "title": "The 10 Best Wool Socks for 2026: Warmth, Comfort, and Performance for Every Step",
+      "description": "Wool socks remain the gold standard for warmth, moisture control, and all-day comfort. Here are the 10 best wool socks for 2026, from rugged outdoor performers to refined everyday staples.",
+      "image": "https://thesmokingchair.com/wp-content/uploads/2025/12/Cozy-socks-against-a-snowy-backdrop.jpg",
+      "url": "https://thesmokingchair.com/best-wool-socks-2026/"
+    },
+    "https://www.smartwool.com/en-us/wool-apparel-and-socks/everyday-socks/s": {
+      "title": "Sites-swl-us-Site",
+      "description": "",
+      "image": "",
+      "url": "https://www.smartwool.com/on/demandware.store/Sites-swl-us-Site/en_US/PX-Show?url=aHR0cHM6Ly93d3cuc21hcnR3b29sLmNvbS9vbi9kZW1hbmR3YXJlLnN0b3JlL1NpdGVzLXN3bC11cy1TaXRlL2VuX1VTL1NlYXJjaC1TaG93P3ByZWZuMT1zaXplJnByZWZ2MT1TJmNnaWQ9U0FMRVNDQVRfQ0FTVUFMX1NPQ0tT&frame=1773874732545"
+    }
+  }
+}

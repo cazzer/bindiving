@@ -1,0 +1,111 @@
+{
+  "slug": "uninterruptible-power-supplies",
+  "query": "best uninterruptible power supplies",
+  "title": "Best uninterruptible power supplies | Bin Diving",
+  "description": "AI-dug recommendations for best uninterruptible power supplies. Compare options and find one that fits.",
+  "dugAt": "2026-03-18T19:18:03.250Z",
+  "recommendations": [
+    {
+      "product_name": "CyberPower CP1500PFCLCD PFC Sinewave UPS System (1500VA/1000W)",
+      "pros": [
+        "Pure sine wave output",
+        "LCD status display",
+        "High outlet count (12)"
+      ],
+      "cons": [
+        "Some reliability/firmware complaints in user forums",
+        "Heavier unit"
+      ],
+      "price": "$274.95",
+      "amazon_id": "B00429N19W",
+      "sources": [
+        "https://www.cyberpowersystems.com/product/uncategorized/cp1500pfclcd/",
+        "https://www.bhphotovideo.com/c/product/803221649-USE/cyberpower_cp1500pfclcd_pfc_sinewave_ups.html",
+        "https://securehomehero.com/recommended-products/recommended-electrical-safety-products/pros-cons-of-the-cyberpower-cp1500pfclcd-battery-power-backup/"
+      ],
+      "amazon_url": "https://www.amazon.com/CyberPower-CP1500PFCLCD-Sinewave-Outlets-Mini-Tower/dp/B00429N19W",
+      "gpt_azn": "B00429N19W",
+      "image_url": "https://imgs.search.brave.com/RRAIqG2ngDEIiF7GodcKThqKVwxowOtQUdFaUpTBhxc/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9pLmVi/YXlpbWcuY29tL2lt/YWdlcy9nL1Nsc0FB/ZVN3SmRCcGJZTEgv/cy1sNTAwLmpwZw",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "APC Back-UPS Pro 1500 (1500VA/900W line-interactive)",
+      "pros": [
+        "Line-interactive AVR for voltage regulation",
+        "Well-known mainstream model for home/office",
+        "Multiple outlets and surge protection"
+      ],
+      "cons": [
+        "Mixed long-term reliability reports in user communities",
+        "Not true double-conversion online UPS"
+      ],
+      "price": null,
+      "amazon_id": "B06VY6FXMM",
+      "sources": [
+        "https://tiacotech.com.ng/2025/09/03/apc-power-saving-back-ups-pro-1500-230v-a-comprehensive-review/",
+        "https://www.accio.com/plp/apc-back-ups-pro-1500-runtime-chart"
+      ],
+      "amazon_url": "https://www.amazon.com/APC-Battery-Protector-BackUPS-BX1500M/dp/B06VY6FXMM",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/iPw5O09LW8EtuNwLwrlqjEtfMOFBl4pdFNazef_Bgdg/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9iLnNj/ZG4uZ3IvaW1hZ2Vz/L3NrdV9tYWluX2lt/YWdlcy8wMDA0MjAv/NDIwODQ4L3hsYXJn/ZV8yMDIyMDExOTE3/MDIzN19hcGNfYmFj/a191cHNfcHJvXzE1/MDBfbGluZV9pbnRl/cmFjdGl2ZV8xNTAw/dmFfOTAwd19tZV82/X3NjaHVrb19wcml6/ZXMuanBlZw",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "APC Smart-UPS 1500 (SMT1500 / SMT1500C series)",
+      "pros": [
+        "Higher-end Smart-UPS line for servers and critical gear",
+        "LCD + SmartConnect/network options available",
+        "ENERGY STAR certified models available"
+      ],
+      "cons": [
+        "More expensive than consumer models",
+        "Requires proper maintenance and battery replacements for long life"
+      ],
+      "price": null,
+      "amazon_id": "B0762QJ6Y1",
+      "sources": [
+        "https://www.apc.com/us/en/product/SMT1500/apc-smartups-line-interactive-1500va-tower-120v-8x-nema-515r-outlets-smartslot-avr-lcd/",
+        "https://www.energystar.gov/productfinder/product/certified-uninterruptible-power-supplies/details/2377793/export/pdf"
+      ],
+      "amazon_url": "https://www.amazon.com/APC-Smart-UPS-SmartConnect-Uninterruptible-SMT1500C/dp/B0762QJ6Y1",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/nKtKhhd-ocBZZZ3noJ2daG7O4MfsLLiqLS2a8o9HEgQ/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9pLmVi/YXlpbWcuY29tL2lt/YWdlcy9nL2Z1NEFB/ZVN3SWNocGNLUncv/cy1sNDAwLndlYnA",
+      "resolver": "brave",
+      "valid": true
+    }
+  ],
+  "resolvedLinks": {
+    "https://www.cyberpowersystems.com/product/uncategorized/cp1500pfclcd/": {
+      "title": "CP1500PFCLCD",
+      "description": "A mini-tower UPS with line interactive topology, the CyberPower PFC Sinewave CP1500PFCLCD provides battery backup (using sine wave output) and surge protection for desktop computers, workstations, networking devices, and home entertainment systems requiring active PFC power source compatibility.  The CP1500PFCLCD features an advanced multifunction control panel with a color LCD to quickly confirm status and alerts at-a-glance. The screen tilts for easy viewing when the UPS is placed in a low position such as under a desk. Two USB charge ports (one Type-A and one Type-C) power portable devices such as mobile phones and tablets, even during a utility power failure. The CP1500PFCLCD uses Automatic Voltage Regulation (AVR) to correct minor power fluctuations without switching to battery power, which extends battery life. AVR is essential in areas where power fluctuations occur frequently. The CP1500PFCLCD comes with a three-year warranty (including coverage of batteries) and a $500,000 Connected Equipment Guarantee.",
+      "image": "https://www.cyberpowersystems.com/wp-content/uploads/2016/07/CP1500PFCLCD_F-3.jpg",
+      "url": "https://www.cyberpowersystems.com/product/ups/pfc-sinewave/cp1500pfclcd/"
+    },
+    "https://securehomehero.com/recommended-products/recommended-electrical-safety-products/pros-cons-of-the-cyberpower-cp1500pfclcd-battery-power-backup/": {
+      "title": "Pros & Cons of the CyberPower CP1500PFCLCD Battery Power Backup | Secure Home Hero",
+      "description": "Why I invested in a Battery Backup? Keeping the internet alive when the power goes out My life, my money, my family & friends are…",
+      "image": "",
+      "url": "https://securehomehero.com/recommended-products/recommended-electrical-safety-products/pros-cons-of-the-cyberpower-cp1500pfclcd-battery-power-backup/"
+    },
+    "https://www.accio.com/plp/apc-back-ups-pro-1500-runtime-chart": {
+      "title": "APC Back-UPS Pro 1500 Runtime Chart: Key Insights",
+      "description": "Find the best APC Back-UPS Pro 1500 runtime chart data. Compare specs, pricing, and supplier reliability. Click to explore top-rated models with real-time monitoring and long-term power backup solutions.",
+      "image": "https://s.alicdn.com/@img/imgextra/i3/O1CN01YlpcjM21ufK6QVkhC_!!6000000007045-2-tps-768-512.png",
+      "url": "https://www.accio.com/plp/apc-back-ups-pro-1500-runtime-chart"
+    },
+    "https://www.apc.com/us/en/product/SMT1500/apc-smartups-line-interactive-1500va-tower-120v-8x-nema-515r-outlets-smartslot-avr-lcd/": {
+      "title": "SMT1500 - APC Smart-UPS, Line Interactive, 1500VA, Tower, 120V, 8x NEMA 5-15R outlets, SmartSlot, AVR, LCD | Schneider Electric USA",
+      "description": "Schneider Electric USA. SMT1500 - APC Smart-UPS, Line Interactive, 1500VA, Tower, 120V, 8x NEMA 5-15R outlets, SmartSlot, AVR, LCD.",
+      "image": "https://download.schneider-electric.com/files?p_Doc_Ref=SPD_MPAO-A8THDV_B_V&p_File_Type=rendition_1500_jpg",
+      "url": "https://www.se.com/us/en/product/SMT1500/apc-smartups-line-interactive-1500va-tower-120v-8x-nema-515r-outlets-smartslot-avr-lcd/"
+    },
+    "https://www.energystar.gov/productfinder/product/certified-uninterruptible-power-supplies/details/2377793/export/pdf": {
+      "title": "",
+      "description": "",
+      "image": "",
+      "url": "https://www.energystar.gov/productfinder/product/certified-uninterruptible-power-supplies/details/2377793/export/pdf"
+    }
+  }
+}

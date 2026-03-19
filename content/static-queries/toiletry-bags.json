@@ -1,0 +1,113 @@
+{
+  "slug": "toiletry-bags",
+  "query": "best toiletry bags",
+  "title": "Best toiletry bags | Bin Diving",
+  "description": "AI-dug recommendations for best toiletry bags. Compare options and find one that fits.",
+  "dugAt": "2026-03-18T18:39:48.003Z",
+  "recommendations": [
+    {
+      "product_name": "Peak Design Wash Pouch (Small)",
+      "pros": [
+        "Durable, water-resistant fabric",
+        "Smart internal organization",
+        "Compact, stands or hangs easily"
+      ],
+      "cons": [
+        "Smaller capacity for bulkier items",
+        "Premium price for size"
+      ],
+      "price": null,
+      "amazon_id": "B0DCK65VNJ",
+      "sources": [
+        "https://www.travelandleisure.com/articles/madewell-sezane-paris-new-york",
+        "https://www.gq.com/story/best-dopp-kits-travel",
+        "https://pointspath.com/blog/best-hanging-toiletry-bags"
+      ],
+      "amazon_url": "https://www.amazon.com/Peak-Design-Small-Pouch-BWP-S-BK-2/dp/B0DCK65VNJ",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/fa7oqJv3aHh-aRi0jCHQq_x6VGm6kcPYmrzVZ98x6z0/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9jZG4u/c2hvcGlmeS5jb20v/cy9maWxlcy8xLzA3/NTAvMTAxNy9maWxl/cy9QZWFrLURlc2ln/bi1XYXNoLVBvdWNo/LVNtYWxsLTFfMTAy/NHgxMDI0LmpwZz92/PTE3NTUxMTg2MTg",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "Bellroy Hanging Toiletry Kit",
+      "pros": [
+        "Slim, well-organized layout",
+        "Wipeable, water-resistant materials",
+        "Hangs for easy access in small bathrooms"
+      ],
+      "cons": [
+        "Not ideal for very bulky items",
+        "Higher price vs basic kits"
+      ],
+      "price": null,
+      "amazon_id": "B0DZ1MT917",
+      "sources": [
+        "https://www.glamour.com/gallery/best-toiletry-bags",
+        "https://www.rei.com/product/C06308/bellroy-hanging-toiletry-kit",
+        "https://www.forbes.com/sites/forbes-personal-shopper/article/best-travel-toiletry-bag/"
+      ],
+      "amazon_url": "https://www.amazon.com/Bellroy-Hanging-Toiletry-toiletry-designed/dp/B0DZ1MT917",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/r8QEWR3fIgREUGDPb0DIYoHaRrgS2uMpqmfiG-3qItA/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9uYXNo/YW5kYmFua3MuY29t/L2Nkbi9zaG9wL2Zp/bGVzL0NsYXlfNF8x/MDAweDEwMDAuanBn/P3Y9MTc0MTE1MTYy/OA",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "NOMATIC Toiletry Bag 2.0",
+      "pros": [
+        "Excellent organization and dedicated toothbrush pocket",
+        "Water-resistant, streamlined design",
+        "Multiple sizes available"
+      ],
+      "cons": [
+        "Can feel snug when fully packed",
+        "Some prefer a softer/expandable shape"
+      ],
+      "price": null,
+      "amazon_id": "B0FHYKSZYV",
+      "sources": [
+        "https://www.nomatic.com/products/nomatic-toiletry-bag",
+        "https://packhacker.com/travel-gear/nomatic/toiletry-bag-2-0-small/",
+        "https://www.travelandleisure.com/articles/madewell-sezane-paris-new-york"
+      ],
+      "amazon_url": "https://www.amazon.com/NOMATIC-Toiletry-Bag-Trips-Toiletries/dp/B0FHYKSZYV",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/TnKoSG37Y0Tln213ES0niz3HIPNsiprW_LaMsMX7Sro/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9nb21h/dGljLmNvLnVrL2Nk/bi9zaG9wL2ZpbGVz/L0FDVEJTTUctQkxL/LTAzX1RvaWxldHJ5/QmFnU21hbGxfQmxh/Y2tfTk9NQVRJQ18w/MS5wbmc_dj0xNzU3/NDEyNTI3JndpZHRo/PTU0MA",
+      "resolver": "brave",
+      "valid": true
+    }
+  ],
+  "resolvedLinks": {
+    "https://www.gq.com/story/best-dopp-kits-travel": {
+      "title": "The Best Toiletry Bags to Toss in Your Carry-On",
+      "description": "For stylish, organized travelers, that flimsy Ziploc won't cut it.",
+      "image": "https://media.gq.com/photos/689e08e77027d42fd4e129a6/16:9/w_1280,c_limit/DoppKitLede.png",
+      "url": "https://www.gq.com/story/best-mens-toiletry-bags"
+    },
+    "https://pointspath.com/blog/best-hanging-toiletry-bags": {
+      "title": "The toiletry bag hack every traveler should know",
+      "description": "We rounded up seven of the best hanging toiletry bags available on Amazon. Keep your necessities organized on the road.",
+      "image": "https://cdn.sanity.io/images/7nph4ri2/production/b1a52ebd9108620bd76985783fbf3bf494441822-1254x836.jpg",
+      "url": "https://pointspath.com/blog/best-hanging-toiletry-bags"
+    },
+    "https://www.glamour.com/gallery/best-toiletry-bags": {
+      "title": "I’m a Travel Writer and This Is the Toiletry Bag I Take With Me Everywhere",
+      "description": "Picks with plenty of organizational compartments",
+      "image": "https://media.glamour.com/photos/6717d387cd758eb6184e9e49/16:9/w_1280,c_limit/10.21_GL_Best-Toiletry-Bags---October-2024.2.jpg",
+      "url": "https://www.glamour.com/gallery/best-toiletry-bags"
+    },
+    "https://www.nomatic.com/products/nomatic-toiletry-bag": {
+      "title": "Toiletry Bag 2.0",
+      "description": "The NOMATIC Toiletry Bag 2.0 comes in two sizes and features water-resistant materials, leak-proof zippers, a hanging strap, and a dedicated toothbrush pocket. Built for organized, mess-free travel.",
+      "image": "http://www.nomatic.com/cdn/shop/files/ACTBLG-NVY-03_ToiletryBagLarge_Navy_NOMATIC_05.png?v=1762198166&width=1024",
+      "url": "https://www.nomatic.com/products/nomatic-toiletry-bag"
+    },
+    "https://packhacker.com/travel-gear/nomatic/toiletry-bag-2-0-small/": {
+      "title": "NOMATIC Toiletry Bag 2.0 Review | Pack Hacker",
+      "description": "The small NOMATIC Toiletry Bag 2.0 has some great water resistance. Sadly, one of the zipper tracks often pulls apart, which gives us durability concerns.",
+      "image": "https://cdn.packhacker.com/2020/10/f2ac0a0a-nomatic-toiletry-bag-2-0-hanging-on-wall.jpg?auto=compress&auto=format&w=1200&h=630&fit=crop",
+      "url": "https://www.packhacker.com/travel-gear/nomatic/toiletry-bag-2-0-small/"
+    }
+  }
+}

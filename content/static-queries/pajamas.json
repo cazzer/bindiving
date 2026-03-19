@@ -1,0 +1,97 @@
+{
+  "slug": "pajamas",
+  "query": "best pajamas",
+  "title": "Best pajamas | Bin Diving",
+  "description": "AI-dug recommendations for best pajamas. Compare options and find one that fits.",
+  "dugAt": "2026-03-18T22:52:06.535Z",
+  "recommendations": [
+    {
+      "product_name": "Lunya Washable Silk Pajama Set",
+      "pros": [
+        "luxurious feel",
+        "machine-washable silk",
+        "editor-favorite for sleep quality"
+      ],
+      "cons": [
+        "premium price",
+        "limited color/size options"
+      ],
+      "price": "varies (premium)",
+      "amazon_id": "B0DV6Y5HXY",
+      "sources": [
+        "https://www.travelandleisure.com/best-pajamas-8576275",
+        "https://lunya.co/products/womens-washable-silk-tee-short-set-whist-jade"
+      ],
+      "amazon_url": "https://www.amazon.com/Lunya-Washable-Mens-Silk-Pajama/dp/B0DV6Y5HXY",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/38M-a07Mt2cWdQ8GSMzG0Ge7GHG4PG2M1ef0-zom02E/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9pbWdy/LnNvcGlja3MuY29t/L2ltYWdlcy9wcm9k/dWN0L3o3LzdiL3o3/N2J5eG8tbV9sdW55/YS13YXNoYWJsZS1z/aWxrLWJ1dHRvbi11/cC1zaG9ydC1wYWph/bWFzLWluLWRlZXAt/Ymx1ZS5qcGc",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "LAKE DreamModal Pajama Set",
+      "pros": [
+        "very soft modal fabric",
+        "stylish prints",
+        "comfortable for year-round wear"
+      ],
+      "cons": [
+        "higher price point",
+        "some reports of stretching over time"
+      ],
+      "price": "$44.99",
+      "amazon_id": "B0886JKNX3",
+      "sources": [
+        "https://www.wired.com/gallery/the-best-pajamas-for-women/",
+        "https://lakepajamas.com/products/storm-blue-primrose-dreammodal-daydream-pants-set"
+      ],
+      "image_url": "789_QL65_.jpg",
+      "images": [
+        "789_QL65_.jpg"
+      ],
+      "amazon_url": "https://www.amazon.com/Womens-Two-Piece-Classic-Pajama-Sleepwear/dp/B0886JKNX3/ref=mp_s_a_1_1?dib=eyJ2IjoiMSJ9.GQxlQBOFbhL6xPI7gvIeI6Hc86tIKtV0nZdhOE3_nG0UahnllPaqTAlHVwm70dW3M4CvmmrY2JC4vDY6PBQPoiqPLspMlQMywCA6pGlnBtdoF-ZEGiFsv1vL-ze5_t7ZwQyVA29wdUpBOV91QSeTAuFjYLE9gqHZesHC-11Vf0T3CClbIojwekBeM_Mrpgg2uEOlIT9j7d5MtPzk0Ttw1OEKJhAVfkeywNbjmC13RMCI-bdPTddrtB8DFi0LORmSHoKXa-EYJvm289BMwFvjpD9mWhdl5eExwxfjPDSmqCU.7BSbTcAuWROr8o5XH6xIl1m77YSchgjkfGsCMqC0Ldg&dib_tag=se&keywords=LAKE+DreamModal+Pajama+Set&qid=1773874320&sr=8-1",
+      "brand": "Aamikast",
+      "blackFriday": false,
+      "gpt_azn": null,
+      "resolver": "cheerio",
+      "valid": true
+    },
+    {
+      "product_name": "Cozy Earth Bamboo Long-Sleeve Pajama Set",
+      "pros": [
+        "breathable bamboo fabric",
+        "highly rated for softness",
+        "endorsed by multiple editorial roundups"
+      ],
+      "cons": [
+        "expensive compared with basics",
+        "mixed user experiences on durability"
+      ],
+      "price": "$148 (reported in reviews)",
+      "amazon_id": "B084RDM8NL",
+      "sources": [
+        "https://www.travelandleisure.com/best-pajamas-8576275",
+        "https://www.cozy-earth.com/collections/bamboo-pajamas"
+      ],
+      "amazon_url": "https://www.amazon.com/Cozy-Earth-Stretch-Knit-Bamboo-Pajama/dp/B084RDM8NL",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/BYqgYO0D3Wx0ydUU6MQXm-70cl5-kvHK31G-ndhlNRE/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9jb3p5/ZWFydGguY29tL2Nk/bi9zaG9wL2ZpbGVz/LzEwX1NwaWNld2l0/aGFsYWJhc3Rlcl9C/YW1ib29yaWJrbml0/Y2xhc3NpY2xvbmdz/bGVldmV0b3AuanBn/P3Y9MTcyMzIzOTEx/MiZ3aWR0aD0xNjAw",
+      "resolver": "brave",
+      "valid": true
+    }
+  ],
+  "resolvedLinks": {
+    "https://lunya.co/products/womens-washable-silk-tee-short-set-whist-jade": {
+      "title": "Washable Silk Sleepwear | The Softest Silk Pajamas by Lunya",
+      "description": "Did someone say washable silk sleepwear? It doesn’t get more luxurious than this. Shop the softest silk pajamas and sets for the sweetest night of sleep.",
+      "image": "http://lunya.co/cdn/shop/collections/LOOK_07_WS_MAXI_SKIRT_BLUE_1350-8.png?v=1770921408",
+      "url": "https://lunya.co/collections/womens-washable-silk"
+    },
+    "https://www.wired.com/gallery/the-best-pajamas-for-women/": {
+      "title": "I Tested 100+ Pajamas for Women, Here's What I Thought",
+      "description": "I tested 100-plus pajama sets. These are the best pajama brands for women, ranked from most recommended to forever in rotation.",
+      "image": "https://media.wired.com/photos/69a5e1c0374098e65918b633/191:100/w_1280,c_limit/The%20Best%20Pajamas%20for%20Women%20I've%20Slept%20In,%20Ranked.png",
+      "url": "https://www.wired.com/story/the-best-pajamas-brands-for-women/"
+    }
+  }
+}

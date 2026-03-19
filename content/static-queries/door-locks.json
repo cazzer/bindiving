@@ -1,0 +1,107 @@
+{
+  "slug": "door-locks",
+  "query": "best door locks",
+  "title": "Best door locks | Bin Diving",
+  "description": "AI-dug recommendations for best door locks. Compare options and find one that fits.",
+  "dugAt": "2026-03-18T16:23:34.272Z",
+  "recommendations": [
+    {
+      "product_name": "Yale Assure Lock 2 (Wi‑Fi)",
+      "pros": [
+        "Wide smart‑home compatibility",
+        "Multiple entry methods (keypad, key, app, fingerprint)"
+      ],
+      "cons": [
+        "Can be complex to set up for HomeKit/Z‑Wave",
+        "Battery life varies with Wi‑Fi use"
+      ],
+      "price": null,
+      "amazon_id": "B0B9HY3614",
+      "sources": [
+        "https://www.tomsguide.com/us/best-smart-locks%2Creview-3352.html",
+        "https://www.tomsguide.com/reviews/yale-assure-lock-2"
+      ],
+      "amazon_url": "https://www.amazon.com/Yale-Deadbolt-Keyless-Connected-YRD450-WF1-BSP/dp/B0B9HY3614",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/J3pJ-SNOWPe1D-jkiUxMQGhHcpXboojS_vD7q0q4hqc/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9pNS53/YWxtYXJ0aW1hZ2Vz/LmNvbS9zZW8vWWFs/ZS1Bc3N1cmUtTG9j/ay0yLUtleS1GcmVl/LVRvdWNoc2NyZWVu/LXdpdGgtV2ktRmkt/aW4tQmxhY2stU3Vl/ZGVfOTM5YWE4N2Mt/YjAwYy00ZDcxLTk0/NzEtMTQ3NWU1NjA1/OWUwLmUzY2U1ZmQy/MWZlMjI1NzFiYjdk/OTU2NmMyMmUxZmE5/LmpwZWc_b2RuSGVp/Z2h0PTU3MyZvZG5X/aWR0aD01NzMmb2Ru/Qmc9RkZGRkZG",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "Schlage Encode Smart Wi‑Fi Deadbolt",
+      "pros": [
+        "Built‑in Wi‑Fi — no bridge required",
+        "Strong reputation for physical security"
+      ],
+      "cons": [
+        "Some users report connectivity/setup issues",
+        "Lacks certain HomeKit features on older Encode models"
+      ],
+      "price": null,
+      "amazon_id": "B07HX9GSJM",
+      "sources": [
+        "https://theinsidereview.com/03_appliances/schlage-encode-smart-wi-fi-keyless-deadbolt-lock-matte-black-review-pros-cons-rumors-debunked/",
+        "https://ring.com/collections/smart-home-automation/products/schlage-encode-deadbolt"
+      ],
+      "amazon_url": "https://www.amazon.com/Schlage-Deadbolt-BE489WB-CAM-619/dp/B07HX9GSJM",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/DEhvtSlgxwd_Pg-NGky6RLhjrqhmZ39YyEyfsIUtfOU/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly93d3cu/c2NobGFnZS5jb20v/Y29udGVudC9kYW0v/dXMtcmVzLW1rdGcv/UHJvZHVjdC1pbWFn/ZXJ5L1NjaGxhZ2Uv/ZWxlY3Ryb25pYy1s/b2Nrcy9FbmNvZGUv/QkU0ODlfQ0FNNzE2/X0hPLmpwZy50aHVt/Yi4xMjgwLjEyODAu/cG5n",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "August Wi‑Fi Smart Lock + Connect (with Keypad)",
+      "pros": [
+        "Easy retrofit for existing deadbolts",
+        "Works with Alexa, Google — remote access via Connect bridge"
+      ],
+      "cons": [
+        "Some advanced integrations require the Wi‑Fi bridge",
+        "Physical keypad may add cost"
+      ],
+      "price": null,
+      "amazon_id": "B07H43TNNF",
+      "sources": [
+        "https://august.com/products/august-wi-fi-smart-lock-connect-with-keypad",
+        "https://www.augustmall.com/products/august-wifi-smart-lock"
+      ],
+      "amazon_url": "https://www.amazon.com/August-Smart-Connect-Satin-Nickel/dp/B07H43TNNF",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/b-Wt15hrZn5B0ypBcxt1lz7roO-T4tniJsGJg926FTA/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9tLm1l/ZGlhLWFtYXpvbi5j/b20vaW1hZ2VzL0kv/NjFpNVA4QmJ1MEwu/anBn",
+      "resolver": "brave",
+      "valid": true
+    }
+  ],
+  "resolvedLinks": {
+    "https://www.tomsguide.com/us/best-smart-locks%2Creview-3352.html": {
+      "title": "Best Smart Locks of 2019",
+      "description": "Here are the best smart locks on the market. We considered installation time, security, convenience features and smart home compatibility.",
+      "image": "https://cdn.mos.cms.futurecdn.net/SkntRBhK5Jvws9SH8cS7Y5-1000-80.jpg",
+      "url": "https://www.tomsguide.com/us/best-smart-locks,review-3352.html"
+    },
+    "https://www.tomsguide.com/reviews/yale-assure-lock-2": {
+      "title": "Yale Assure Lock 2 review",
+      "description": "The Yale Assure Lock 2 is a solid sequel to the original",
+      "image": "https://cdn.mos.cms.futurecdn.net/Pv9Y4Fmj2ipXbxgNVBHDF5-1525-80.jpg",
+      "url": "https://www.tomsguide.com/reviews/yale-assure-lock-2"
+    },
+    "https://theinsidereview.com/03_appliances/schlage-encode-smart-wi-fi-keyless-deadbolt-lock-matte-black-review-pros-cons-rumors-debunked/": {
+      "title": "Schlage Encode Smart Wi-Fi Keyless Deadbolt Lock Matte Black Review: Pros, Cons & Rumors Debunked",
+      "description": "Schlage Encode Smart WiFi Deadbolt Lock for Front Door - Keyless Entry with App or Touchscreen - Works with Alexa, Hey G...",
+      "image": "https://theinsidereview.com/wp-content/uploads/2025/06/71FrzWAJmbL._AC_SX679_.jpg",
+      "url": "https://theinsidereview.com/03_appliances/schlage-encode-smart-wi-fi-keyless-deadbolt-lock-matte-black-review-pros-cons-rumors-debunked/"
+    },
+    "https://ring.com/collections/smart-home-automation/products/schlage-encode-deadbolt": {
+      "title": "Schlage Encode Smart Wifi Deadbolt | Smart Deadbolt Lock",
+      "description": "Enjoy keyless access and connect directly to your home’s WiFi to easily lock and unlock your front door. The Schlage Encode Smart WiFi Deadbolt works with Ring Video Doorbells and Cameras.",
+      "image": "https://images.ctfassets.net/a3peezndovsu/variant-6867022774361/367ada8ece1cd374e26e153658119310/variant-6867022774361.jpg",
+      "url": "https://ring.com/products/schlage-encode-deadbolt"
+    },
+    "https://august.com/products/august-wi-fi-smart-lock-connect-with-keypad": {
+      "title": "August Wi-Fi Smart Lock + Connect with Keypad",
+      "description": "",
+      "image": "https://cdn.shopify.com/s/files/1/1354/7835/files/August_Wi-Fi_Smart_Lock_Keypad-Silver_2x_e1312178-9dde-4b45-a78e-1e623f1bec27.png?v=1723225367",
+      "url": "https://august.com/products/august-wi-fi-smart-lock-connect-with-keypad"
+    }
+  }
+}

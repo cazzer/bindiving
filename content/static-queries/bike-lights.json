@@ -1,0 +1,95 @@
+{
+  "slug": "bike-lights",
+  "query": "best bike lights",
+  "title": "Best bike lights | Bin Diving",
+  "description": "AI-dug recommendations for best bike lights. Compare options and find one that fits.",
+  "dugAt": "2026-03-18T17:31:24.765Z",
+  "recommendations": [
+    {
+      "product_name": "Ravemen K1400 Front Light",
+      "pros": [
+        "Very bright (1400 lm)",
+        "IPX7 waterproof, long runtime"
+      ],
+      "cons": [
+        "Can be pricier than basic lights",
+        "Larger size for some cockpits"
+      ],
+      "price": "$67.99",
+      "amazon_id": "B0CK1R5JDH",
+      "sources": [
+        "https://www.cyclingweekly.com/deals/outstanding-savings-on-our-tech-editors-1-choice-the-ravemen-k1400-in-the-amazon-spring-sale",
+        "https://barcelobicycles.com/product/ravemen-k1400-headlight/"
+      ],
+      "amazon_url": "https://www.amazon.com/RAVEMEN-Rechargeable-Display-Waterproof-Mountain/dp/B0CK1R5JDH",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/MJ8VurQPMiiI2LL76gbBNdPE_6MbN38vIEm8amIQR2U/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9pbWFn/ZXMubXRiaWtlci5z/ay9lc2hvcC9iaWcv/MzA1ODM1LXJhdmVt/ZW4tcHJlZG5pLXN2/ZXRsby1rMTQwMC0w/MzY4M2E0NjczNTY0/MzYwYmM1ZWFlM2Uw/MDg3ZmFlYV82NmVl/NGJjNDUzZjBjLmpw/Zw",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "Magicshine SEEMEE 300 Rear Taillight",
+      "pros": [
+        "Extremely visible 300-lumen rear",
+        "Long battery life and smart motion sensor"
+      ],
+      "cons": [
+        "May be overkill for casual city riders",
+        "Some reported reliability issues in isolated cases"
+      ],
+      "price": "$44.99",
+      "amazon_id": "B0FZTJNX66",
+      "sources": [
+        "https://www.cyclingweekly.com/products/its-back-the-best-rear-bike-light-weve-ever-tested-has-just-hit-its-lowest-ever-price-grab-a-massive-41-percent-off-the-magicshine-seemee300-at-amazon",
+        "https://www.bikeride.com/magicshine-seemee-300/"
+      ],
+      "amazon_url": "https://www.amazon.com/MagicShine-SEEMEE-Taillight-Visible-Waterproof/dp/B0FZTJNX66",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/LkFCkPhBlS9rce3-8-bxsMwUjP5D4Zck9W7Prv-xvMA/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly93d3cu/dWFlY3ljbGUuY29t/L2Nkbi9zaG9wL2Zp/bGVzL01hZ2ljc2hp/bmUtcmVzaG9vb3Qt/SmFrZUJhZ2dhbGV5/NTYyNl81MzV4Lmpw/Zz92PTE3MTA5NTEy/MjU",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "Lezyne Macro Drive 1300 (Macro Drive 1300XL)",
+      "pros": [
+        "Strong, focused beam for roads",
+        "Well-regarded build quality and battery life"
+      ],
+      "cons": [
+        "Higher-end price",
+        "Some users prefer wider beam for off-road"
+      ],
+      "price": null,
+      "amazon_id": "B07QNLJ679",
+      "sources": [
+        "https://www.biketown.se/sv/articles/2.332.293523/lezyne-framlampa-macro-drive-1300-xxl-usb",
+        "https://uploads-ssl.webflow.com/686a6a2917d329bcec24ba79/69197b27a82c2fb20eec38e5_60092579408.pdf"
+      ],
+      "amazon_url": "https://www.amazon.com/LEZYNE-Macro-Drive-Combo-1300XL/dp/B07QNLJ679",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/h3WBKjXcV06MKhorFXjNxI412DhxblNgI0WRuStHGDM/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9tYWNr/Y3ljbGUuY29tL2Nk/bi9zaG9wL3Byb2R1/Y3RzL2xlenluZS1t/YWNyby1kcml2ZS0x/MzAwLXh4bC1oZWFk/bGlnaHQtMS5qcGc_/dj0xNzYyMTk5OTUx/JndpZHRoPTE1MDA",
+      "resolver": "brave",
+      "valid": true
+    }
+  ],
+  "resolvedLinks": {
+    "https://www.cyclingweekly.com/deals/outstanding-savings-on-our-tech-editors-1-choice-the-ravemen-k1400-in-the-amazon-spring-sale": {
+      "title": "\"The beam quality is outstanding\": Save 20% on our tech editor's #1 choice, the Ravemen K1400 in the Amazon Spring Sale",
+      "description": "Impressing our tech editor enough to award it a 5-star rating, the K1400 boasts huge battery life, intelligent features, and an excellent beam pattern amongst its performance features",
+      "image": "https://cdn.mos.cms.futurecdn.net/TknXAdvwwvu4UshkimMM8e-2048-80.jpg",
+      "url": "https://www.cyclingweekly.com/deals/outstanding-savings-on-our-tech-editors-1-choice-the-ravemen-k1400-in-the-amazon-spring-sale"
+    },
+    "https://www.cyclingweekly.com/products/its-back-the-best-rear-bike-light-weve-ever-tested-has-just-hit-its-lowest-ever-price-grab-a-massive-41-percent-off-the-magicshine-seemee300-at-amazon": {
+      "title": "It's back! The best rear bike light we've ever tested has just hit its lowest ever price – grab a massive 41% off the Magicshine SEEMEE300 at Amazon",
+      "description": "For just £35, the Magicshine is a feature-packed rear bike light that massively improves your visibility on the road and makes this top-rated light a must-buy",
+      "image": "https://cdn.mos.cms.futurecdn.net/ocxGMXfH7AZ8MLdDKux2Q-678-80.jpg",
+      "url": "https://www.cyclingweekly.com/products/its-back-the-best-rear-bike-light-weve-ever-tested-has-just-hit-its-lowest-ever-price-grab-a-massive-41-percent-off-the-magicshine-seemee300-at-amazon"
+    },
+    "https://uploads-ssl.webflow.com/686a6a2917d329bcec24ba79/69197b27a82c2fb20eec38e5_60092579408.pdf": {
+      "title": "",
+      "description": "",
+      "image": "",
+      "url": "https://uploads-ssl.webflow.com/686a6a2917d329bcec24ba79/69197b27a82c2fb20eec38e5_60092579408.pdf"
+    }
+  }
+}

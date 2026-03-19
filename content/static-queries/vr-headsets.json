@@ -1,0 +1,113 @@
+{
+  "slug": "vr-headsets",
+  "query": "best vr headsets",
+  "title": "Best vr headsets | Bin Diving",
+  "description": "AI-dug recommendations for best vr headsets. Compare options and find one that fits.",
+  "dugAt": "2026-03-18T18:57:45.889Z",
+  "recommendations": [
+    {
+      "product_name": "Meta Quest 3",
+      "pros": [
+        "Standalone with strong mixed‑reality",
+        "Works wirelessly with PC VR",
+        "Large game/app library"
+      ],
+      "cons": [
+        "Battery life can be limited",
+        "Some content behind paid apps"
+      ],
+      "price": null,
+      "amazon_id": "B0CD1JTBSC",
+      "sources": [
+        "https://www.pcgamer.com/the-best-vr-headset/",
+        "https://www.techradar.com/news/the-best-vr-headset",
+        "https://vrrare.com/guides/best-vr-headsets-2026"
+      ],
+      "amazon_url": "https://www.amazon.com/Meta-Quest-512GB-Breakthrough-Reality-3/dp/B0CD1JTBSC",
+      "gpt_azn": "B0C8VKH1ZH",
+      "image_url": "https://imgs.search.brave.com/MDf1WurmpZ4PZFdNEtSaquHle3CTo01k07D4Y3ufZIY/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9jZG4u/bW9zLmNtcy5mdXR1/cmVjZG4ubmV0L2th/ODlYeEt4TGNIajVa/RkxVN1Faa1kuanBn",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "Sony PlayStation VR2",
+      "pros": [
+        "Excellent visuals and haptics on PS5",
+        "Eye tracking and 3D audio",
+        "Strong exclusive game lineup"
+      ],
+      "cons": [
+        "Requires PS5 for full experience",
+        "Limited standalone/wireless use"
+      ],
+      "price": null,
+      "amazon_id": "B0C1QJ6VHY",
+      "sources": [
+        "https://www.pcgamer.com/the-best-vr-headset/",
+        "https://www.techradar.com/news/the-best-vr-headset",
+        "https://thebestpicker.com/best-virtual-reality-headsets/"
+      ],
+      "amazon_url": "https://www.amazon.com/PlayStation-VR2-PSVR2-5/dp/B0C1QJ6VHY",
+      "gpt_azn": "B0BM4Q5DR6",
+      "image_url": "https://imgs.search.brave.com/sXW0Je6teZszDK5ayXVVSM71qECghSZzs33KPjXNFVs/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9pLmVi/YXlpbWcuY29tL2lt/YWdlcy9nL3NEMEFB/T1N3SmtGbGx5eVcv/cy1sOTYwLndlYnA",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "PICO 4",
+      "pros": [
+        "Good value for visuals and comfort",
+        "Lightweight balanced design",
+        "Works for standalone and PCVR via wireless apps"
+      ],
+      "cons": [
+        "Limited official US support/availability",
+        "Smaller app ecosystem than Meta/Sony"
+      ],
+      "price": null,
+      "amazon_id": "B0BRL8SBN9",
+      "sources": [
+        "https://vrrare.com/guides/best-vr-headsets-2026",
+        "https://thebestpicker.com/best-virtual-reality-headsets/",
+        "https://en.wikipedia.org/wiki/PICO_4"
+      ],
+      "amazon_url": "https://www.amazon.com/Pico-VR-Headset-256-GB/dp/B0BRL8SBN9",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/ZBBCJej1s5435fv2CxDYPv1fVHnnHxPTn4NjpLcHPWg/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9waWNv/LXdlYi10b2Iub3Nz/LWNuLWJlaWppbmcu/YWxpeXVuY3MuY29t/L293MmMvY29udGVu/dC8yMDI0MDkwNC9w/aWNvXzRfdWx0cmEt/MS5qcGc",
+      "resolver": "brave",
+      "valid": true
+    }
+  ],
+  "resolvedLinks": {
+    "https://www.pcgamer.com/the-best-vr-headset/": {
+      "title": "Best VR headset in 2026: my top picks for stunning virtual reality experiences",
+      "description": "Immerse yourself in stunning game worlds with the best VR headset.",
+      "image": "https://cdn.mos.cms.futurecdn.net/u5cggJUjzeNhRQnAo2bdtm-1920-80.jpg",
+      "url": "https://www.pcgamer.com/best-vr-headset/"
+    },
+    "https://www.techradar.com/news/the-best-vr-headset": {
+      "title": "The best VR headsets in 2026: VR gaming's top products from Apple, Meta, PlayStation, and more",
+      "description": "The best VR headsets available right now",
+      "image": "https://cdn.mos.cms.futurecdn.net/cQjofvvgDYFfbgKhN9n7Je-2000-80.jpg",
+      "url": "https://www.techradar.com/news/the-best-vr-headset"
+    },
+    "https://vrrare.com/guides/best-vr-headsets-2026": {
+      "title": "Best 5 VR Headsets 2026 — Expert Tested & Ranked | VRRare",
+      "description": "See which VR headset you should buy in 2026. Quest 3, Quest 3S, and PSVR2 compared side by side. Expert tested, honestly reviewed, and ranked.",
+      "image": "https://vrrare.com/assets/uploads/images/full/a-set-of-virtual-reality-with-headset-and-controll.jpg",
+      "url": "https://vrrare.com/guides/best-vr-headsets-2026"
+    },
+    "https://thebestpicker.com/best-virtual-reality-headsets/": {
+      "title": "6 Best Virtual Reality Headsets of 2026, Tested and Reviewed",
+      "description": "Explore the 6 best virtual reality headsets of 2026 for gaming, productivity, and mixed reality. Reviews, specs, features, and buying guide included.",
+      "image": "https://i0.wp.com/thebestpicker.com/wp-content/uploads/2025/10/Virtual-Reality-Headsets.jpg",
+      "url": "https://thebestpicker.com/best-virtual-reality-headsets/"
+    },
+    "https://en.wikipedia.org/wiki/PICO_4": {
+      "title": "PICO 4 - Wikipedia",
+      "description": "",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Pico_4_-_2.jpg/1280px-Pico_4_-_2.jpg",
+      "url": "https://en.wikipedia.org/wiki/PICO_4"
+    }
+  }
+}

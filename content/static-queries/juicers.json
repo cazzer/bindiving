@@ -1,0 +1,119 @@
+{
+  "slug": "juicers",
+  "query": "best juicers",
+  "title": "Best juicers | Bin Diving",
+  "description": "AI-dug recommendations for best juicers. Compare options and find one that fits.",
+  "dugAt": "2026-03-18T16:46:50.536Z",
+  "recommendations": [
+    {
+      "product_name": "Hurom H70 Easy Clean Slow Juicer",
+      "pros": [
+        "Easy-to-clean design",
+        "High nutrient retention (cold-press)",
+        "Compact, hands-free hopper"
+      ],
+      "cons": [
+        "Premium price",
+        "Some users report occasional part issues"
+      ],
+      "price": null,
+      "amazon_id": "B0CSGCKXGR",
+      "sources": [
+        "https://www.goodhousekeeping.com/appliances/juicer-reviews/g598/best-juicers/",
+        "https://www.hurom.com/products/h70-easy-clean-slow-juicer",
+        "https://www.theguardian.com/thefilter-us/2025/nov/11/best-juicers-to-buy"
+      ],
+      "amazon_url": "https://www.amazon.com/Hurom-H410-Slow-Juicer-Black/dp/B0CSGCKXGR",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/pfq5EsU6LS1J_OuFnZgCGomZAfl1WaW0fMzdOoU5s4g/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly93d3cu/aGVudXRoZS5jb20v/d3AtY29udGVudC91/cGxvYWRzLzIwMjMv/MDUvSHVyb20tSDcw/LUVhc3ktQ2xlYW4t/U2xvdy1KdWljZXIt/My5qcGc",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "Breville the Juice Fountain Cold (BJE430/BJE530 series)",
+      "pros": [
+        "Fast centrifugal extraction",
+        "Large capacity with clear juice yield",
+        "Well-reviewed for ease of use"
+      ],
+      "cons": [
+        "Produces foam on some juices",
+        "Not as good with leafy greens as cold-press models"
+      ],
+      "price": null,
+      "amazon_id": "B016J1ICDU",
+      "sources": [
+        "https://www.techradar.com/reviews/breville-the-juice-fountain-cold",
+        "https://www.foodnetwork.com/how-to/packages/shopping/product-reviews/best-juicers",
+        "https://www.breville.com/us/en/products/juicers/bje430.html"
+      ],
+      "amazon_url": "https://www.amazon.com/Breville-BJE430SIL-Juice-Fountain-Cold/dp/B016J1ICDU",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/T0TNCH57ioqpBIaTqP1YyKMRtov8mXAaojYoan82nek/rs:fit:0:180:1:0/g:ce/aHR0cHM6Ly9pLmVi/YXlpbWcuY29tL2lt/YWdlcy9nL0tMa0FB/T1N3cFZkbDEzbW8v/cy1sMjI1LmpwZw",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "Omega Effortless™ Batch Juicer (JC2022 series)",
+      "pros": [
+        "Extra-large hopper for batch juicing",
+        "Masticating (cold-press) yields dry pulp and high extraction",
+        "Designed for easier cleanup than many cold-press models"
+      ],
+      "cons": [
+        "Still a premium-priced cold-press option",
+        "Mixed availability across retailers"
+      ],
+      "price": null,
+      "amazon_id": "B0BWFTMGDM",
+      "sources": [
+        "https://www.goodhousekeeping.com/appliances/juicer-reviews/g598/best-juicers/",
+        "https://tastyshow.com/product-reviews/omega-juicer-masticating-jc2022gy11-review/",
+        "https://www.lowes.com/pd/Omega-Gray-Metal-Extractor-Juicer-cETL-Safety-Listed-Easy-Cleanup-2L-Capacity-Prepare-Fruit-Vegetable-Juices-Nut-Milks-Ice-Cream-More/5014627873"
+      ],
+      "amazon_url": "https://www.amazon.com/Omega-JC2022GY11-Masticating-Vegetable-Effortless/dp/B0BWFTMGDM",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/BkLlCqT8j1Mo6O03g14P5g85GzE4So4vtdoMWC_dvYg/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9iYWNr/eWFyZHByb3ZpZGVy/LmNvbS9jZG4vc2hv/cC9maWxlcy9KQzIw/MjJXSFQxMV9MUzE1/LmpwZz92PTE3MzUz/MDEyMDQ",
+      "resolver": "brave",
+      "valid": true
+    }
+  ],
+  "resolvedLinks": {
+    "https://www.goodhousekeeping.com/appliances/juicer-reviews/g598/best-juicers/": {
+      "title": "After Testing Over 50 Juicers, We're Confident These Are the Best for Your Money",
+      "description": "Make your best green juice yet.",
+      "image": "https://hips.hearstapps.com/hmg-prod/images/ghk-071625-index-juicers-087-687e5f7b2fb57.jpg?crop=1.00xw:0.752xh;0,0.142xh&resize=1200:*",
+      "url": "https://www.goodhousekeeping.com/appliances/juicer-reviews/g598/best-juicers/"
+    },
+    "https://www.hurom.com/products/h70-easy-clean-slow-juicer": {
+      "title": "H70 Easy Clean Slow Juicer",
+      "description": "Overview The H70 is the perfect balance of size and capability. In-between the size of our H310 &amp; H400, it's the goldilocks zone for anyone who's getting serious about their health but needs a juicer that fits perfectly on any countertop.   Self-Feeding Hopper:  The H70 comes with a large self feeding hopper. This",
+      "image": "http://www.hurom.com/cdn/shop/files/Frame1_grande.png?v=1773070414",
+      "url": "https://www.hurom.com/products/h70-easy-clean-slow-juicer"
+    },
+    "https://www.theguardian.com/thefilter-us/2025/nov/11/best-juicers-to-buy": {
+      "title": "The five best juicers in the US with the least mess, noise and cleanup",
+      "description": "With machines from brands including Nama, Kuvings and Cuisinart, I used 30lbs of fresh produce to determine the juicers most worth the squeeze",
+      "image": "https://i.guim.co.uk/img/media/9cc056aefcb9b759d2e4782f367b95b984eb1bb9/81_14_1766_1414/master/1766.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvZmlsdGVyLXVzLnBuZw&enable=upscale&s=a15198742db5a6c88ad1f9c974f12284",
+      "url": "https://www.theguardian.com/thefilter-us/2025/nov/11/best-juicers-to-buy"
+    },
+    "https://www.techradar.com/reviews/breville-the-juice-fountain-cold": {
+      "title": "Breville the Juice Fountain Cold juicer review",
+      "description": "A mid-range centrifugal juicer that makes very smooth juice",
+      "image": "https://cdn.mos.cms.futurecdn.net/uq7quh6kCZNBCudhqkZHEG-2560-80.jpg",
+      "url": "https://www.techradar.com/reviews/breville-the-juice-fountain-cold"
+    },
+    "https://www.foodnetwork.com/how-to/packages/shopping/product-reviews/best-juicers": {
+      "title": "6 Best Juicers of 2026, Tested and Reviewed",
+      "description": "The best juicers can make getting your daily fruits and vegetables fast and easy.",
+      "image": "https://food.fnr.sndimg.com/content/dam/images/food/fullset/2023/2/24/FN-ProductTestingImages-9-JUICER-v1.png.rend.hgtvcom.616.462.85.suffix/1677257069358.webp",
+      "url": "https://www.foodnetwork.com/how-to/packages/shopping/product-reviews/best-juicers"
+    },
+    "https://www.breville.com/us/en/products/juicers/bje430.html": {
+      "title": "Juice Fountain Cold - Whole Veggie & Fruit Juicer | Breville (US)",
+      "description": "Experience convenience with our whole veggie & fruit juicer. Preserve delicate vitamins & minerals while juicing a super-sized 70 fl oz of nourishing goodness.",
+      "image": "https://assets.breville.com/cdn-cgi/image/width=1300,format=auto/BJE430/BJE430SILUSC.jpg?pdp",
+      "url": "https://www.breville.com/en-us/product/bje430"
+    }
+  }
+}

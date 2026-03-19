@@ -1,0 +1,89 @@
+{
+  "slug": "solo-board-games",
+  "query": "best solo board games",
+  "title": "Best solo board games | Bin Diving",
+  "description": "AI-dug recommendations for best solo board games. Compare options and find one that fits.",
+  "dugAt": "2026-03-18T18:53:14.178Z",
+  "recommendations": [
+    {
+      "product_name": "Mage Knight Board Game",
+      "pros": [
+        "Deep, puzzle-like solo experience",
+        "High replayability and scaling difficulty"
+      ],
+      "cons": [
+        "Very long setup and playtime",
+        "Steep rules learning curve"
+      ],
+      "price": null,
+      "amazon_id": "B07BSM4SKL",
+      "sources": [
+        "https://boardgamegeek.com/boardgame/96848/mage-knight-board-game",
+        "https://boardgamequest.com/best-solo-board-games/"
+      ],
+      "amazon_url": "https://www.amazon.com/WizKids-Mage-Knight-Board-Game/dp/B07BSM4SKL",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/kdQydTkgQhhegE_DihpojO9Tr2dSdefdsAMXs8_dMGA/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly93d3cu/bWFnZWtuaWdodC5u/ZXQvd3AtY29udGVu/dC91cGxvYWRzL01h/Z2UtS25pZ2h0LUJv/YXJkLUdhbWUtQm94/LUJhY2suanBn",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "Gloomhaven: Jaws of the Lion (standalone)",
+      "pros": [
+        "Great campaign solo play",
+        "Streamlined intro to Gloomhaven systems"
+      ],
+      "cons": [
+        "Still a lengthy campaign",
+        "Some scenarios require bookkeeping"
+      ],
+      "price": null,
+      "amazon_id": "B088QSDB7S",
+      "sources": [
+        "https://boardgamegeek.com/wiki/page/Gloomhaven%3A_Jaws_of_the_Lion",
+        "https://boardgamegeek.com/boardgame/174430/gloomhaven"
+      ],
+      "amazon_url": "https://www.amazon.com/Cephalofair-Games-Gloomhaven-Strategy-Boxed/dp/B088QSDB7S",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/mDx4UqjDfc9zGDc3DW2jteEWd1sl0G3ExeO_bbemKwM/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9pLmVi/YXlpbWcuY29tL2lt/YWdlcy9nL0RXSUFB/ZVN3ZlZWcGpWdnEv/cy1sMjI1LmpwZw",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "Spirit Island",
+      "pros": [
+        "Excellent solo co-op depth",
+        "Strong asymmetrical powers and strategy"
+      ],
+      "cons": [
+        "High complexity for newcomers",
+        "Can be lengthy to play solo"
+      ],
+      "price": null,
+      "amazon_id": "B01MUHP51S",
+      "sources": [
+        "https://boardgamegeek.com/boardgame/162886/spirit-island",
+        "https://www.wargamer.com/spirit-island/board-game-amazon-deal"
+      ],
+      "amazon_url": "https://www.amazon.com/Greater-Than-Games-Spirit-Island/dp/B01MUHP51S",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/teXclfwmSXzEHyPzJ-ZNCiz9fiQAKHWrAQTCa8K-SmU/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly93d3cu/bW94Ym9hcmRpbmdo/b3VzZS5jb20vY2Ru/L3Nob3AvZmlsZXMv/OWZiZjAyNmY1LTI2/LTEuanBnP3Y9MTc1/MzgzMTEyMyZ3aWR0/aD0zODQw",
+      "resolver": "brave",
+      "valid": true
+    }
+  ],
+  "resolvedLinks": {
+    "https://boardgamequest.com/best-solo-board-games/": {
+      "title": "Verifying…",
+      "description": "",
+      "image": "",
+      "url": "https://boardgamequest.com/best-solo-board-games/"
+    },
+    "https://www.wargamer.com/spirit-island/board-game-amazon-deal": {
+      "title": "It's not Black Friday yet, but this fantastic board game is already half price",
+      "description": "Co-operative or solo board game fans should not miss out on this 50% off Amazon deal on Spirit Island - one of the best modern titles around.",
+      "image": "https://www.wargamer.com/wp-content/sites/wargamer/2024/11/spirit-island-board-game-amazon-deal.jpg",
+      "url": "https://www.wargamer.com/spirit-island/board-game-amazon-deal"
+    }
+  }
+}

@@ -1,0 +1,131 @@
+{
+  "slug": "3d-pens",
+  "query": "best 3d pens",
+  "title": "Best 3d pens | Bin Diving",
+  "description": "AI-dug recommendations for best 3d pens. Compare options and find one that fits.",
+  "dugAt": "2026-03-18T23:09:45.424Z",
+  "recommendations": [
+    {
+      "product_name": "3Doodler PRO 3D Pen (PRO 2025)",
+      "pros": [
+        "Professional-grade material support",
+        "Adjustable temperature & speed",
+        "Includes interchangeable nozzles & refills"
+      ],
+      "cons": [
+        "Higher price than hobby pens",
+        "Requires practice for fine detail"
+      ],
+      "price": "$146.77 (sale price reported Jan 12, 2026)",
+      "amazon_id": "B0DNMX28FK",
+      "sources": [
+        "https://www.creativebloq.com/3d/my-professional-3d-pen-just-got-a-rare-price-cut",
+        "https://intl.the3doodler.com/collections/pro",
+        "https://creativemarket.com/3doodler-pro-3d-pen"
+      ],
+      "amazon_url": "https://www.amazon.com/3Doodler-Prototyping-Professionals-Speciality-Interchangable/dp/B0DNMX28FK",
+      "gpt_azn": "8CPSBKUS3E",
+      "image_url": "https://imgs.search.brave.com/nTmmx2eYCflQLS5ncBdrKNqZAV0Ot9Bmt9pAyYRtjhw/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9tLm1l/ZGlhLWFtYXpvbi5j/b20vaW1hZ2VzL0kv/NDFuVTdsaEE4MEwu/anBn",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "MYNT3D Pro / MYNT3D Professional Printing 3D Pen",
+      "pros": [
+        "OLED display with precise controls",
+        "Good bundle options (filament kits, design pad)",
+        "Widely recommended by hobbyists"
+      ],
+      "cons": [
+        "Some reported reliability/individual-unit issues",
+        "Requires learning curve for consistent extrusion"
+      ],
+      "price": "~$59–$99 (typical Amazon range)",
+      "amazon_id": "B01BLQ24IW",
+      "sources": [
+        "https://bestreviews.com/toys-and-games/arts-crafts/best-3d-pens",
+        "https://3dpenhub.com/product/mynt3d-professional-printing-3d-pen-with-oled-display/",
+        "https://www.bestreviews.guide/3-d-printer-pens-for-adults/mynt3d-pro-3d-pen-kit-b08nx5dnb4"
+      ],
+      "amazon_url": "https://www.amazon.com/MYNT3D-Professional-Printing-OLED-Display/dp/B01BLQ24IW",
+      "gpt_azn": "B01BLQ24IW",
+      "image_url": "https://imgs.search.brave.com/k8o8ivom2kR639su5nAW6EVl2rEKsG6a7TJGTwOtkX8/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9pLmVi/YXlpbWcuY29tL2lt/YWdlcy9nL35Ca0FB/ZVN3Zmt4cGNFTlMv/cy1sNTAwLmpwZw",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "SCRIB3D P1 3D Printing Pen with Display",
+      "pros": [
+        "Very budget-friendly",
+        "High Amazon sales & many positive user ratings",
+        "Includes starter filaments and stencil guide"
+      ],
+      "cons": [
+        "Simpler feature set than pro pens",
+        "Some concerns about long-term durability"
+      ],
+      "price": "~$32–$35 (typical Amazon price)",
+      "amazon_id": "B08HM4133L",
+      "sources": [
+        "https://metricscart.com/bestseller-reports/amazon-com/brands/54511/",
+        "https://theinventory.com/scrib3d-p1-3d-printing-pen-with-display-now-32-off-1851711141",
+        "https://nullfake.com/amazon/us/B08HM4133L/scrib3d-p1-3d-printing-pen-with-display-includes-3d-pen-3"
+      ],
+      "amazon_url": "https://www.amazon.com/SCRIB3D-P1-Printing-Pen-Display/dp/B08HM4133L",
+      "gpt_azn": "B08HM4133L",
+      "image_url": "https://imgs.search.brave.com/7a5fpoQvM1bVEJd-wy8pceVJXrA7oQ5riK1vCcXhHLA/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9oaWxs/d2F2ZS5jb20vY2Ru/L3Nob3AvZmlsZXMv/U2NyZWVuc2hvdC0y/MDI0MTEyN18yMzMx/MTZfQW1hem9uX0J1/c2luZXNzLmpwZz92/PTE3MzI3NzIzNzQm/d2lkdGg9MTQ0NQ",
+      "resolver": "brave",
+      "valid": true
+    }
+  ],
+  "resolvedLinks": {
+    "https://www.creativebloq.com/3d/my-professional-3d-pen-just-got-a-rare-price-cut": {
+      "title": "My professional 3D pen just got a rare price cut",
+      "description": "Bag the 3Doodler PRO for only $146 while you can.",
+      "image": "https://cdn.mos.cms.futurecdn.net/27YvSRukrmRasa7g5RybzM-2560-80.jpg",
+      "url": "https://www.creativebloq.com/3d/my-professional-3d-pen-just-got-a-rare-price-cut"
+    },
+    "https://intl.the3doodler.com/collections/pro": {
+      "title": "Shop PRO",
+      "description": "The 3Doodler PRO+ pen allows creative professionals to take their ideas and concepts further than ever before.",
+      "image": "http://intl.the3doodler.com/cdn/shop/collections/PROS-generic.png?v=1744056022",
+      "url": "https://intl.the3doodler.com/collections/pro"
+    },
+    "https://bestreviews.com/toys-and-games/arts-crafts/best-3d-pens": {
+      "title": "Best 3D Pens",
+      "description": "If your kids enjoy drawing and building models, a 3D pen is an ideal way to combine the two activities.",
+      "image": "https://cdn.bestreviews.com/images/v4desktop/cover-image/feature_best-3d-pens.jpg",
+      "url": "https://bestreviews.com/toys-and-games/arts-crafts/best-3d-pens"
+    },
+    "https://3dpenhub.com/product/mynt3d-professional-printing-3d-pen-with-oled-display/": {
+      "title": "MYNT3D Professional Printing 3D Pen with OLED Display - 3D Pen Hub",
+      "description": "Technology: Molten Plastic Filament size: 1.75 mm Filament type: ABS, PLA Display: YES Wireless: sort of (it’s usb powered) Brand: MYNT3D Weight (g): 272 Sketch, print & doodle amazing three-dimensional masterpieces with this precision-crafted stylus! Adjustable feed lets you regulate speed & flow for optimal control of material while you’re drawing Temperature is adjustable in 1 degree increments from 130 to 240 […]",
+      "image": "https://m.media-amazon.com/images/I/51JIgroaSRL._SL500_.jpg",
+      "url": "https://3dpenhub.com/product/mynt3d-professional-printing-3d-pen-with-oled-display/"
+    },
+    "https://www.bestreviews.guide/3-d-printer-pens-for-adults/mynt3d-pro-3d-pen-kit-b08nx5dnb4": {
+      "title": "Mynt3d pro 3d pen kit Review | BestReviews.guide",
+      "description": "BestReviews.guide analyzes thousands of articles and customer reviews to find the top-rated products at today's lowest prices. Best products, best offers.",
+      "image": "https://images-proxy.bestreviews.guide/6XJo6ipxkeZzDWjyeNHKINydkvk=/0x300/https://m.media-amazon.com/images/I/51FXQitKPlL._AC_CX679_.jpg",
+      "url": "https://www.bestreviews.guide/3-d-printer-pens-for-adults/mynt3d-pro-3d-pen-kit-b08nx5dnb4"
+    },
+    "https://metricscart.com/bestseller-reports/amazon-com/brands/54511/": {
+      "title": "Bestselling Scrib3d products on Amazon in December 2025",
+      "description": "Scrib3d had 3 product(s) appear on the Amazon top 100 bestsellers during the month of December 2025 with an average bestseller rank of 24.8 across all these products.",
+      "image": "https://metricscart.com/bestseller-reports/amazon-com/images/brand_charts/bestseller_stats_54511.png",
+      "url": "https://metricscart.com/bestseller-reports/amazon-com/brands/54511/"
+    },
+    "https://theinventory.com/scrib3d-p1-3d-printing-pen-with-display-now-32-off-1851711141": {
+      "title": "SCRIB3D P1 3D Printing Pen with Display, Now 14% Off",
+      "description": "Save 14% on SCRIB3D P1 3D Printing Pen with Display at Amazon",
+      "image": "https://theinventory.com/cdn-cgi/image/width=300,quality=85,format=auto/https://assets.qz.com/media/ce872b495f66dfa9b788c1a0311db924.jpg",
+      "url": "https://theinventory.com/scrib3d-p1-3d-printing-pen-with-display-now-32-off-1851711141"
+    },
+    "https://nullfake.com/amazon/us/B08HM4133L/scrib3d-p1-3d-printing-pen-with-display-includes-3d-pen-3": {
+      "title": "Review Analysis: SCRIB3D P1 3D Printing Pen with Display - 0.00% Fake Reviews | Grade A",
+      "description": "AI analysis of 10 reviews reveals 0.00% are potentially fake. Get the real story behind Amazon product reviews with our comprehensive authenticity analysis.",
+      "image": "https://m.media-amazon.com/images/I/81%2B4z0Ki%2BxL._AC_SL1200_.jpg",
+      "url": "https://nullfake.com/amazon/us/B08HM4133L/scrib3d-p1-3d-printing-pen-with-display-includes"
+    }
+  }
+}

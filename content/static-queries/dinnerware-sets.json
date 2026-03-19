@@ -1,0 +1,127 @@
+{
+  "slug": "dinnerware-sets",
+  "query": "best dinnerware sets",
+  "title": "Best dinnerware sets | Bin Diving",
+  "description": "AI-dug recommendations for best dinnerware sets. Compare options and find one that fits.",
+  "dugAt": "2026-03-18T17:15:32.988Z",
+  "recommendations": [
+    {
+      "product_name": "East Fork Shallow Dinner Set (Everyday stoneware)",
+      "pros": [
+        "Handmade, attractive matte finish",
+        "Durable stoneware, versatile for everyday use"
+      ],
+      "cons": [
+        "Not the cheapest option",
+        "Limited color/stock on some sizes"
+      ],
+      "price": "$42.68",
+      "amazon_id": "B0899GYHD7",
+      "sources": [
+        "https://www.eastfork.com/products/shallow-dinner-set",
+        "https://www.bonappetit.com/story/best-dinnerware-sets",
+        "https://www.aol.com/news/9-dinnerware-sets-recommend-everyday-031944671.html"
+      ],
+      "image_url": "https://images-na.ssl-images-amazon.com/images/G/01/x-locale/common/grey-pixel.gif",
+      "images": [
+        "https://images-na.ssl-images-amazon.com/images/G/01/x-locale/common/grey-pixel.gif"
+      ],
+      "amazon_url": "https://www.amazon.com/Gibson-Home-Rockaway-Stoneware-Dinnerware/dp/B0899GYHD7/ref=mp_s_a_1_1?dib=eyJ2IjoiMSJ9.lWhEGlvhdojHPFMhUFaDEOYKX4PJ_Qbq97g0lxAc3lrqW2ZqSQVWpJRpYILBcgG-JShL9l9KJIxYyhVpfWDqzI-pdrZGlxvjch3-UsP_hG1w-f86Jt7GCcVwjZu_JkM3ZCSN4gqbPmdfn9IaNBOvUzgYVXZ2-SmfqOV23MPwaDHGsJuGIsS6xx7n41FJB0feM1t8hgIZ_SRcSygsLywVGQ.egukJP3I5nJpAwJ8Vuif1Jy2B58EUzq1L6JmVDai_rY&dib_tag=se&keywords=East+Fork+Shallow+Dinner+Set+%28Everyday+stoneware%29&qid=1773854126&sr=8-1",
+      "brand": "Gibson Home",
+      "blackFriday": false,
+      "gpt_azn": null,
+      "resolver": "cheerio",
+      "valid": true
+    },
+    {
+      "product_name": "Corelle Vitrelle 18-Piece Service for 6 (Winter Frost White)",
+      "pros": [
+        "Extremely lightweight and chip-resistant",
+        "Dishwasher and microwave safe"
+      ],
+      "cons": [
+        "Thin feel compared with heavy stoneware",
+        "Some marketplace listings have inconsistent sourcing"
+      ],
+      "price": null,
+      "amazon_id": "B00R790CLY",
+      "sources": [
+        "https://corelle.com/products/corelle-winter-frost-white-18-piece-dinnerware-set-service-for-6",
+        "https://www.kitchensradar.com/best-lightweight-durable-dinnerware/",
+        "https://www.bestchoice.com/review/Corelle-18-Piece-Dinnerware-Set-E693mrl0cs"
+      ],
+      "amazon_url": "https://www.amazon.com/Corelle-Winter-Dinnerware-18-Piece-Service/dp/B00R790CLY",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/1H2KiGDcH31MxjaB0C7WzeI6-xi0fX92f2fSBVhmI04/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9tLm1l/ZGlhLWFtYXpvbi5j/b20vaW1hZ2VzL0kv/MzE1ZWM5eFVrRUwu/anBn",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "Fiesta 4-Piece Place Setting (Homer Laughlin Fiesta)",
+      "pros": [
+        "Iconic, mix-and-match color options",
+        "Fully vitrified, lead-free china; long-lasting glaze"
+      ],
+      "cons": [
+        "Large collections can be costly",
+        "Some colors are retired/discontinued occasionally"
+      ],
+      "price": null,
+      "amazon_id": "B0714LN437",
+      "sources": [
+        "https://www.everythingkitchens.com/fiestaware-4piece-place-setting-ivory-831330.html",
+        "https://www.forbes.com/sites/forbes-personal-shopper/article/best-dinnerware-set/",
+        "https://www.dillards.com/p/fiesta-4-piece-place-setting/505220274"
+      ],
+      "amazon_url": "https://www.amazon.com/Homer-Laughlin-831-342-Dinnerware-Daffodil/dp/B0714LN437",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/byBesA0b50rO9SmO9UYn1qK3p6-1bVXp_lMlxp4w8YI/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9pbWFn/ZXMucmVwbGFjZW1l/bnRzLmNvbS9jZG4t/Y2dpL2ltYWdlL2Zv/cm1hdD1hdXRvL2h0/dHBzOi8vaW1hZ2Vz/LnJlcGxhY2VtZW50/cy5jb20vaW1hZ2Vz/L2ltYWdlczIvY2hp/bmEvSC9QMDAwMDUx/ODE1MVMwMDAwMDAw/NzcyNDdUMi5qcGc",
+      "resolver": "brave",
+      "valid": true
+    }
+  ],
+  "resolvedLinks": {
+    "https://www.eastfork.com/products/shallow-dinner-set": {
+      "title": "5-Piece Shallow Dinner Set by East Fork",
+      "description": "A dinner set made in the USA with regionally-sourced materials. Durable, lead free, microwave and dishwasher safe pottery. Save 15%.",
+      "image": "https://cdn.sanity.io/images/be6sw5hj/production/c575c6abc85cc3f464468f807098e1c7bab629bd-1024x1024.jpg?rect=0,243,1024,538&w=1200&h=630",
+      "url": "https://www.eastfork.com/products/shallow-dinner-set"
+    },
+    "https://www.bonappetit.com/story/best-dinnerware-sets": {
+      "title": "The Best Dinnerware Sets, Whether You're Fancy, Basic, or Somewhere in Between",
+      "description": "It might be time to break up with those plates you've had forever.",
+      "image": "https://assets.bonappetit.com/photos/67b8cdc6c8baffb687deca05/16:9/w_1280,c_limit/best-dinnerware-sets_LEDE_021925_1473_VOG_NoBadge_final.jpg",
+      "url": "https://www.bonappetit.com/story/best-dinnerware-sets"
+    },
+    "https://www.aol.com/news/9-dinnerware-sets-recommend-everyday-031944671.html": {
+      "title": "9 dinnerware sets we recommend for everyday meals and special occasions",
+      "description": "The best dinnerware sets for everyday use from Amazon, West Elm, Our Place, Fable and more. A buying guide to dinnerware sets across the best materials, colors and more.",
+      "image": "https://s.yimg.com/ny/api/res/1.2/HP8VATcuBaYRuJKmAR0xkw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02MDA-/https://media.zenfs.com/en/aol_nbc_universal_184/b11665f455c03a2965fe3c4975aff2d8",
+      "url": "https://www.aol.com/9-dinnerware-sets-recommend-everyday-031944671.html"
+    },
+    "https://corelle.com/products/corelle-winter-frost-white-18-piece-dinnerware-set-service-for-6": {
+      "title": "Corelle® Winter Frost White 18-piece Dinnerware Set, Service for 6",
+      "description": "Corelle's Winter Frost White 18-piece dinnerware set, Service for 6. Corelle white plates, dishes and bowls are lightweight, chip-resistant, and easy to handle.",
+      "image": "http://corelle.com/cdn/shop/files/cor_wfw_rnd_18pc_set_1088609_v2.jpg?crop=center&height=1200&v=1739895818&width=1200",
+      "url": "https://corelle.com/products/corelle-winter-frost-white-18-piece-dinnerware-set-service-for-6"
+    },
+    "https://www.kitchensradar.com/best-lightweight-durable-dinnerware/": {
+      "title": "The 10 Best Lightweight Durable Dinnerware of 2026, Tested & Reviewed",
+      "description": "Unsure if Best Lightweight Durable Dinnerware suits you? Kitchens Radar demystifies functionalities, and user e&#xAD;xperiences for informe&#xAD;d decisions....",
+      "image": "https://m.media-amazon.com/images/I/41eSjjSZDBL._SL500_.jpg",
+      "url": "https://www.kitchensradar.com/best-lightweight-durable-dinnerware/"
+    },
+    "https://www.bestchoice.com/review/Corelle-18-Piece-Dinnerware-Set-E693mrl0cs": {
+      "title": "",
+      "description": "",
+      "image": "",
+      "url": "https://www.bestchoice.com/review/Corelle-18-Piece-Dinnerware-Set-E693mrl0cs"
+    },
+    "https://www.dillards.com/p/fiesta-4-piece-place-setting/505220274": {
+      "title": "Fiesta 4-Piece Place Setting | Dillard's",
+      "description": "Shop for Fiesta 4-Piece Place Setting at Dillard's. Visit Dillard's to find clothing, accessories, shoes, cosmetics & more. The Style of Your Life.",
+      "image": "https://dimg.dillards.com/is/image/DillardsZoom/zoom/fiesta-4-piece-place-setting00000000_zi_46673a69-c732-4e98-966b-f226ee8dcb8e.jpg",
+      "url": "https://www.dillards.com/p/fiesta-4-piece-place-setting/505220274"
+    }
+  }
+}

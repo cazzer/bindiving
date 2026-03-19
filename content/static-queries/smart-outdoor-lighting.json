@@ -1,0 +1,134 @@
+{
+  "slug": "smart-outdoor-lighting",
+  "query": "best smart outdoor lighting",
+  "title": "Best smart outdoor lighting | Bin Diving",
+  "description": "AI-dug recommendations for best smart outdoor lighting. Compare options and find one that fits.",
+  "dugAt": "2026-03-18T22:03:30.511Z",
+  "recommendations": [
+    {
+      "product_name": "Philips Hue Calla Outdoor Bollard (White & Color Ambiance)",
+      "pros": [
+        "High-quality color and white light",
+        "Works with Hue ecosystem and HomeKit/Alexa/Google"
+      ],
+      "cons": [
+        "Higher cost than budget brands",
+        "Requires Hue Bridge for full features"
+      ],
+      "price": null,
+      "amazon_id": "B07DBN3FSQ",
+      "sources": [
+        "https://www.philips-hue.com/en-us/p/hue-white-and-color-ambiance-calla-outdoor-bollard/1741930V7",
+        "https://www.bobvila.com/reviews/smart-outdoor-lights-2025/",
+        "https://www.techradar.com/home/smart-lights/amazon-is-holding-a-secret-sale-on-philips-hue-lights-for-indoors-and-out-just-in-time-for-the-holidays"
+      ],
+      "amazon_url": "https://www.amazon.com/Philips-Hue-Ambiance-mounting-Requires/dp/B07DBN3FSQ",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/OdaG9ofgbJrkmDqX-D1c3Hb2zs15X8bOdvSdljHjYEQ/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9sdy1j/ZG4uY29tL2ltYWdl/cy81MDA4Qjk5MUFF/NkIva19iMDg1NTEx/N2FlYjhiMDI1NDJi/NGI3NDRhMDA0ZWRk/Nzt3XzE2MDA7aF8x/NjAwO3FfMTAwLzc1/MzQxMTUuanBn",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "Govee Permanent Outdoor Lights 2 (RGBICW, Matter compatible)",
+      "pros": [
+        "Bright RGBICW strips built for year-round outdoor use",
+        "Matter and voice-assistant support for easy control"
+      ],
+      "cons": [
+        "Limited ecosystem compared with Hue",
+        "Some users report firmware/setup quirks"
+      ],
+      "price": null,
+      "amazon_id": "B0D14WP9TB",
+      "sources": [
+        "https://9to5mac.com/2024/08/26/govee-permanent-outdoor-lights/",
+        "https://www.matteralpha.com/news/govee-permanent-outdoor-lights-2-with-matter-have-up-to-90-off-on-amazon",
+        "https://www.androidcentral.com/accessories/smart-home/govee-best-selling-outdoor-bulb-string-lights-amazing-upgrade"
+      ],
+      "amazon_url": "https://www.amazon.com/Govee-Permanent-Waterproof-Halloween-Assistant/dp/B0D14WP9TB",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/IczWL3Lx06xz8D1DkKgYcX6jvF7OUurAoSkee1PJWVQ/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9pNS53/YWxtYXJ0aW1hZ2Vz/LmNvbS9zZW8vR292/ZWUtUGVybWFuZW50/LU91dGRvb3ItTGln/aHRzLTJfZjE4YmE4/NGMtMTU5Mi00M2M1/LWFkOWItZjliZDNm/YWMxYjQ2LmRhYzYz/Yjc1N2RkM2U0MGNh/MDZhMmQ0ZGE4MmEx/NWI3LmpwZWc",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "Wyze Cam Floodlight v2 (Floodlight Camera)",
+      "pros": [
+        "Affordable floodlight camera option",
+        "Good value with integrated camera + bright LEDs"
+      ],
+      "cons": [
+        "Wyze products occasionally require firmware updates",
+        "Fewer advanced smart-home integrations than premium brands"
+      ],
+      "price": null,
+      "amazon_id": "B0C9VYBBST",
+      "sources": [
+        "https://why.wyze.com/floodlight-a-g",
+        "https://www.safewise.com/best-floodlight-camera/",
+        "https://www.reddit.com/r/wyzecam/comments/1hwtnou/wyze_cam_floodlight_pro_firmware_released_1225/"
+      ],
+      "amazon_url": "https://www.amazon.com/WYZE-WYZECFL2-Wyze-Floodlight-Cam/dp/B0C9VYBBST",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/p72GZFmCw0BHnhR4U7f2fELQKA6d0_93Li1V-d15Gfc/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly93d3cu/d3l6ZS5jb20vY2Ru/L3Nob3AvZmlsZXMv/V3l6ZV9DYW1fRmxv/b2RsaWdodF92Ml9Q/RFBfQXJ0Ym9hcmQt/M181Yzk1ODI1MS0w/MmI4LTRkNzQtOWU2/ZC05YzVjZGRhZDQw/YTEuanBnP3Y9MTcw/NTk1MjcwNyZ3aWR0/aD0xNTAw",
+      "resolver": "brave",
+      "valid": true
+    }
+  ],
+  "resolvedLinks": {
+    "https://www.philips-hue.com/en-us/p/hue-white-and-color-ambiance-calla-outdoor-bollard/1741930V7": {
+      "title": "Calla pedestal light | Philips Hue",
+      "description": "With a stainless steel exterior and colorful light, the Calla smart bollard brings a touch of style to your pathways.",
+      "image": "https://www.assets.signify.com/is/image/Signify/1742030P7-8718696167991-915005630301-Calla%20Hue%20ext_%20pedestal%20Black%201x8W%2024V-RTP-TRN",
+      "url": "https://www.philips-hue.com/en-us/p/hue-white-and-color-ambiance-calla-outdoor-bollard/1741930V7"
+    },
+    "https://www.bobvila.com/reviews/smart-outdoor-lights-2025/": {
+      "title": "The Best Smart Outdoor Lights to Brighten Every Space",
+      "description": "Discover the best smart outdoor lights for security and ambiance. We tested several models to find winners for every need and budget.",
+      "image": "https://www.bobvila.com/wp-content/uploads/2025/11/Best-Smart-Outdoor-Lights.jpg?w=1200",
+      "url": "https://www.bobvila.com/reviews/smart-outdoor-lights-2025/"
+    },
+    "https://www.techradar.com/home/smart-lights/amazon-is-holding-a-secret-sale-on-philips-hue-lights-for-indoors-and-out-just-in-time-for-the-holidays": {
+      "title": "Philips Hue lights are down to record-low prices at Amazon right now, so why wait for Black Friday?",
+      "description": "Get your home ready for Halloween, Thanksgiving, and Christmas",
+      "image": "https://cdn.mos.cms.futurecdn.net/PfnPECEm7A2fMSR6qNSBgT-2000-80.jpg",
+      "url": "https://www.techradar.com/home/smart-lights/amazon-is-holding-a-secret-sale-on-philips-hue-lights-for-indoors-and-out-just-in-time-for-the-holidays"
+    },
+    "https://9to5mac.com/2024/08/26/govee-permanent-outdoor-lights/": {
+      "title": "Govee Permanent Outdoor Lights 2 with Matter and HomeKit",
+      "description": "Learn about the Govee Permanent Outdoor Lights 2 with Matter support, integrating with HomeKit for enhanced, year-round outdoor lighting control and convenience",
+      "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2024/08/Govee-3-1.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "url": "https://9to5mac.com/2024/08/26/govee-permanent-outdoor-lights/"
+    },
+    "https://www.matteralpha.com/news/govee-permanent-outdoor-lights-2-with-matter-have-up-to-90-off-on-amazon": {
+      "title": "Govee Permanent Outdoor Lights 2 With Matter Have Up to $90 off on Amazon",
+      "description": "Brighten up your home this winter with up to 20% off the Govee Permanent Outdoor Lights 2 with Matter right now at Amazon.",
+      "image": "https://www.matteralpha.com/media/cache/resolve/article_og_image/uploads/govee-permanent-outdoor-lights-2-house-colorful.jpg",
+      "url": "https://www.matteralpha.com/news/govee-permanent-outdoor-lights-2-with-matter-have-up-to-90-off-on-amazon"
+    },
+    "https://www.androidcentral.com/accessories/smart-home/govee-best-selling-outdoor-bulb-string-lights-amazing-upgrade": {
+      "title": "Govee's best-selling outdoor lights get a huge upgrade — and a 20% discount",
+      "description": "The Outdoor Clear Bulb String Lights are guaranteed to liven up your backyard or patio.",
+      "image": "https://cdn.mos.cms.futurecdn.net/vB2bppShDTefGZP3ie2SqN-1464-80.jpg",
+      "url": "https://www.androidcentral.com/accessories/smart-home/govee-best-selling-outdoor-bulb-string-lights-amazing-upgrade"
+    },
+    "https://why.wyze.com/floodlight-a-g": {
+      "title": "Smart Cameras | Pet Cams, Baby Monitoring, Security | Wyze",
+      "description": "High-resolution video (1080p to 2.5K), AI features, and seamless integration with smart assistants. Indoor/outdoor options. Discover easy plug-in, wireless, video doorbells, and floodlight cams.",
+      "image": "http://www.wyze.com/cdn/shop/collections/smart-cameras-4929231.webp?v=1773454873",
+      "url": "https://www.wyze.com/collections/smart-cameras"
+    },
+    "https://www.safewise.com/best-floodlight-camera/": {
+      "title": "Best Floodlight Cameras for Home Security | SafeWise",
+      "description": "Floodlight cameras offer the stunning brightness of powerful LEDs while watching over your yard. Read our full comparison of nine floodlight cameras to see why Arlo is our top pick.",
+      "image": "https://www.safewise.com/app/uploads/2022/03/ring-floodlight-camera.jpg",
+      "url": "https://www.safewise.com/best-floodlight-camera/"
+    },
+    "https://www.reddit.com/r/wyzecam/comments/1hwtnou/wyze_cam_floodlight_pro_firmware_released_1225/": {
+      "title": "Reddit - The heart of the internet",
+      "description": "",
+      "image": "",
+      "url": "https://www.reddit.com/r/wyzecam/comments/1hwtnou/wyze_cam_floodlight_pro_firmware_released_1225/"
+    }
+  }
+}

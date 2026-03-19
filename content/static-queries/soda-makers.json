@@ -1,0 +1,114 @@
+{
+  "slug": "soda-makers",
+  "query": "best soda makers",
+  "title": "Best soda makers | Bin Diving",
+  "description": "AI-dug recommendations for best soda makers. Compare options and find one that fits.",
+  "dugAt": "2026-03-18T16:50:10.148Z",
+  "recommendations": [
+    {
+      "product_name": "SodaStream Terra (or SodaStream Art)",
+      "pros": [
+        "Easy to use",
+        "Widely available CO2 support"
+      ],
+      "cons": [
+        "Some models use proprietary connectors",
+        "Plastic bottles on many bundles"
+      ],
+      "price": null,
+      "amazon_id": "B0B2X132WK",
+      "sources": [
+        "https://www.foodnetwork.com/how-to/packages/shopping/product-reviews/best-soda-makers",
+        "https://www.consumerreports.org/appliances/soda-makers/best-soda-makers-from-consumer-reports-tests-a3296987937/"
+      ],
+      "amazon_url": "https://www.amazon.com/SodaStream-Terra-Sparkling-Water-Bottle/dp/B0B2X132WK",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/32qi6ZGBFCaxjSGb4XAR0TS-6sYp7eYlkQD1_dYe210/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9yYWxw/aHN3YXkuY29tL3dw/LWNvbnRlbnQvdXBs/b2Fkcy8yMDIzLzEy/L1NvZGFTdHJlYW0t/VEVSUkEuanBn",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "Aarke Carbonator III",
+      "pros": [
+        "Premium stainless-steel design",
+        "Precise carbonation control"
+      ],
+      "cons": [
+        "Higher price than basic models",
+        "Requires separate CO2 cylinder purchases"
+      ],
+      "price": null,
+      "amazon_id": "B08HR72YN1",
+      "sources": [
+        "https://www.foodnetwork.com/how-to/packages/shopping/product-reviews/best-soda-makers",
+        "https://aarke.com/products/carbonator-3-matte-black"
+      ],
+      "amazon_url": "https://www.amazon.com/Aarke-Carbonator-Premium-Sparkling-Stainless/dp/B08HR72YN1",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/hCvXc1ON7lbK9Kr9znRWCzb0EAVtPR8-Q29RBHAAxko/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9tZWRp/YS53aXJlZC5jb20v/cGhvdG9zLzYzMzM1/Y2IwZWVjZGU4YzEx/N2U3ZjYyNC9tYXN0/ZXIvd18xNjAwLGNf/bGltaXQvQWFya2Ut/Q2FyYm9uYXRvci1Q/cm8tQ08yLUdlYXIu/anBn",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "DrinkMate OmniFizz",
+      "pros": [
+        "Carbonates any beverage (not just water)",
+        "Strong carbonation performance"
+      ],
+      "cons": [
+        "1L bottles had a past recall — check current batch dates",
+        "Some users report fit/compatibility issues"
+      ],
+      "price": null,
+      "amazon_id": "B01EDNNGKK",
+      "sources": [
+        "https://kitchendepot.org/best-sparkling-water-makers/",
+        "https://threetwohome.com/best-sparkling-water-maker/",
+        "https://fado.vn/us/amazon/omnifizz-sparkling-water-and-soda-maker-carbonates-any-drink-without-co2-cylinder-not-included-classic-white-B01EDNNGIC.html"
+      ],
+      "amazon_url": "https://www.amazon.com/DrinkMate-OmniFizz-Sparkling-Carbonates-Diluting/dp/B01EDNNGKK",
+      "gpt_azn": "B01EDNNGIC",
+      "image_url": "https://imgs.search.brave.com/lEM9AE48tQoJFTRD-bs1YoPIwXyhC7kNqDdZlBnymOI/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9tLm1l/ZGlhLWFtYXpvbi5j/b20vaW1hZ2VzL0kv/NjFqcCt2Rk8xUUwu/anBn",
+      "resolver": "brave",
+      "valid": true
+    }
+  ],
+  "resolvedLinks": {
+    "https://www.foodnetwork.com/how-to/packages/shopping/product-reviews/best-soda-makers": {
+      "title": "6 Best Soda Makers of 2026, Tested and Reviewed",
+      "description": "Make sparkling water and other fizzy drinks at home with one of these top-rated soda makers.",
+      "image": "https://food.fnr.sndimg.com/content/dam/images/food/products/2024/9/16/Original_JessicaHarlan_SodaMakers_Group1.jpg.rend.hgtvcom.616.462.85.suffix/1726852419779.webp",
+      "url": "https://www.foodnetwork.com/how-to/packages/shopping/product-reviews/best-soda-makers"
+    },
+    "https://www.consumerreports.org/appliances/soda-makers/best-soda-makers-from-consumer-reports-tests-a3296987937/": {
+      "title": "Best Soda Makers - Consumer Reports",
+      "description": "Consumer Reports' tests have identified the best soda makers from Aarke, Drinkmate, Soda Sense, and SodaStream. These soda makers suit a variety of tastes and budgets.",
+      "image": "https://article.images.consumerreports.org/image/upload/t_article_tout/v1653503651/prod/content/dam/CRO-Images-2022/Home/05May/CR-Home-InlineHero-Best-Soda-Makers-From-CR-Tests-v2-0522",
+      "url": "https://www.consumerreports.org/appliances/soda-makers/best-soda-makers-from-consumer-reports-tests-a3296987937/"
+    },
+    "https://aarke.com/products/carbonator-3-matte-black": {
+      "title": "Aarke Carbonator 3 Matte Black - Sparkling Water Maker",
+      "description": "Aarke Carbonator 3 in Matte Black finish is an award-winning at-home sparkling water maker featuring made-to-last quality, premium materials and a unique design approach.",
+      "image": "http://aarke.com/cdn/shop/files/Carbonator-3_matte-black_45_be18ec72-aebc-48c8-ab91-6802a035bfab.png?v=1760525845",
+      "url": "https://aarke.com/products/carbonator-3-matte-black"
+    },
+    "https://kitchendepot.org/best-sparkling-water-makers/": {
+      "title": "Kitchen Depot",
+      "description": "",
+      "image": "",
+      "url": "https://kitchendepot.org/"
+    },
+    "https://threetwohome.com/best-sparkling-water-maker/": {
+      "title": "The Best Sparkling Water Maker for 2026 • ThreeTwoHome",
+      "description": "With a sparkling water maker you don't need to buy those expensive bottles of old, carbonated water from your local grocery store. Instead you'll enjoy",
+      "image": "https://threetwohome.com/wp-content/uploads/2020/09/best-sparkling-water-makers.jpg",
+      "url": "https://threetwohome.com/best-sparkling-water-maker/"
+    },
+    "https://fado.vn/us/amazon/omnifizz-sparkling-water-and-soda-maker-carbonates-any-drink-without-co2-cylinder-not-included-classic-white-B01EDNNGIC.html": {
+      "title": "Mua DrinkMate OmniFizz Sparkling Water and Soda Maker, Carbonates Any Drink, CO2 Cylinder Not Included (Classic White) trên Amazon Mỹ chính hãng 2026 | Fado",
+      "description": "Mua sản phẩm DrinkMate OmniFizz Sparkling Water and Soda Maker, Carbonates Any Drink, CO2 Cylinder Not Included (Classic White) trên Amazon Mỹ chính hãng 2026 | Fado",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/61piT-8uTkL.jpg",
+      "url": "https://fado.vn/us/amazon/omnifizz-sparkling-water-and-soda-maker-carbonates-any-drink-without-co2-cylinder-not-included-classic-white-B01EDNNGIC.html"
+    }
+  }
+}

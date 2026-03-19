@@ -1,23 +1,25 @@
 {
   "slug": "camping-chairs",
-  "query": "best lightweight camping chairs",
-  "title": "Best lightweight camping chairs | Bin Diving",
-  "description": "AI-dug recommendations for best lightweight camping chairs. Compare options and find one that fits.",
+  "query": "best camping chairs",
+  "title": "Best camping chairs | Bin Diving",
+  "description": "AI-dug recommendations for best camping chairs. Compare options and find one that fits.",
+  "dugAt": "2026-03-18T18:27:47.812Z",
   "recommendations": [
     {
       "product_name": "Helinox Chair One",
       "pros": [
-        "Very lightweight and packable",
-        "High-quality DAC aluminum frame"
+        "Extremely lightweight and packable",
+        "High build quality with 5-year warranty",
+        "Strong load capacity for its weight"
       ],
       "cons": [
-        "Premium price",
-        "Can sink in loose ground"
+        "Higher price than budget chairs",
+        "Small seat may feel narrow for some users"
       ],
-      "price": "$109.95",
+      "price": "$82.46",
       "amazon_id": "B007ZGOWZQ",
       "sources": [
-        "https://www.helinox.com/products/chair-one",
+        "https://helinox.com/products/chair-one",
         "https://www.gearpatrol.com/outdoors/a40288465/helinox-chair-one-review/",
         "https://www.outdoorgearlab.com/reviews/camping-and-hiking/camping-chair/helinox-chair-one"
       ],
@@ -28,59 +30,61 @@
       "valid": true
     },
     {
-      "product_name": "REI Co-op Flexlite Air Chair",
+      "product_name": "REI Co-op Campwell Chair",
       "pros": [
-        "Extremely light for a true camp chair",
-        "Lower price than some ultralight competitors"
+        "Comfortable X-web seat with good ventilation",
+        "Affordable mid-range price and REI-backed quality",
+        "Integrated cup holder and pockets"
       ],
       "cons": [
-        "Less durable on rough terrain for heavier users",
-        "Lower long-term durability reported by some users"
+        "Heavier/bulkier than ultralight options",
+        "Not ideal for long naps or very tall users"
       ],
-      "price": "$36.99",
-      "amazon_id": "B0B5LDC3CT",
+      "price": "$39.98",
+      "amazon_id": "B0CQJR8NLW",
       "sources": [
-        "https://www.rei.com/product/148036/rei-co-op-flexlite-air-chair",
-        "https://gearjunkie.com/outdoor/rei-co-op-flexlite-air-chair-review",
-        "https://www.goodgearonly.com/furniture/rei-flexlite-air-review"
+        "https://www.rei.com/product/229079/rei-co-op-campwell-chair",
+        "https://www.cleverhiker.com/camping/best-camping-chairs/",
+        "https://www.testedgearhub.com/best-camping-chairs-of-2026-tested-compared/"
       ],
       "image_url": "https://images-na.ssl-images-amazon.com/images/G/01/x-locale/common/grey-pixel.gif",
       "images": [
         "https://images-na.ssl-images-amazon.com/images/G/01/x-locale/common/grey-pixel.gif"
       ],
-      "amazon_url": "https://www.amazon.com/MARCHWAY-Lightweight-Portable-Festival-Backpacking/dp/B0B5LDC3CT/ref=mp_s_a_1_1?dib=eyJ2IjoiMSJ9.ueTOtgaFeKdSyqKyy6pKv0nwwxlW9QDy_tExVMumFSoJgjBF-aXs1_pd7s2wpW7dlbRDNLtAUiWrcdwG4MQPC0WNVGDRy37I2cPanZZaL_Ge-OkSBgikwoaancyj9XQUj7isuUSy_fcaCqPSDjEXpytyQWGqcAa4lqOovFKoZXTBG2nvLVaueTGOXcshUrDKR9pUWULjrILtMW-3l8Jzhw.G5Q9SVspdZnfRe0qABOhCiYzMXaAmurHN8ZugnE5S1A&dib_tag=se&keywords=REI+Co-op+Flexlite+Air+Chair&qid=1773697120&sr=8-1",
-      "brand": "MARCHWAY",
+      "amazon_url": "https://www.amazon.com/OneTigris-Tigerblade-Lightweight-Backpacking-Portable/dp/B0CQJR8NLW/ref=mp_s_a_1_1?dib=eyJ2IjoiMSJ9.R0qra1G6EFBnmGKc9b2eORpHO2xEcYHkafGHMKL9sBeX_OkfW8iapa9HXQ-K1ofk6S5BmmDdi2dx5YkSKrQWHIoSquldiq4R4hFKyym6cSS-KEi-lggDLbgFYjfQrWyPSY2PGc_2SVNIi7wVMc-DBZ2J9TU1EyNnrR_EO6yIA6ZWENkRqmPCNwXlH_FD3LOUhmNmh0lIagp3uemBMMApBw.LlgnRM3tq1WehcSHCJ0FKqeRGF6Z0opH5YcSVbebd_E&dib_tag=se&keywords=REI+Co-op+Campwell+Chair&qid=1773858458&sr=8-1",
+      "brand": "ONETIGRIS Tigerblade Camping Chair, Lightweight Folding Backpacking Hiking Chair, Compact Portable 330 lbs Capacity",
       "blackFriday": false,
       "gpt_azn": null,
       "resolver": "cheerio",
       "valid": true
     },
     {
-      "product_name": "Trekology YIZI GO / YIZI LITE (Trekology)",
+      "product_name": "Coleman Camping Chair with Built-In 4-Can Cooler (Cooler Quad Chair)",
       "pros": [
-        "Very affordable and compact",
-        "Popular budget ultralight option with strong user feedback"
+        "Very budget-friendly and widely available",
+        "Built-in cooler and padded seat for convenience",
+        "High weight capacity and roomy seat"
       ],
       "cons": [
-        "Not as premium or long-lasting as Helinox/REI",
-        "Some reported weight/advertising inconsistencies"
+        "Mixed long-term durability reports",
+        "Bulkier to carry than lightweight chairs"
       ],
       "price": null,
-      "amazon_id": "B08Q3FYCJS",
+      "amazon_id": "B01M18RYXI",
       "sources": [
-        "https://trekology.com/en-us/products/ultralight-camping-chair-yizi-lite-750g-hiking-backpacking-chairs",
-        "https://www.nbcnews.com/select/shopping/best-portable-camping-chair-ncna1282533",
-        "https://everythingbackyard.net/trekology-yizi-go-portable-camping-chair-review/"
+        "https://www.coleman.com/outdoor-living/furniture-sports/camp-chairs/cooler-quad-chair/SP_270977.html",
+        "https://www.wired.com/gallery/best-camping-chairs/",
+        "https://www.yahoo.com/lifestyle/amazon-shoppers-call-best-camping-093000578.html"
       ],
-      "amazon_url": "https://www.amazon.com/Ultralight-Backpacking-Lightweight-Portable-Collapsible/dp/B08Q3FYCJS",
+      "amazon_url": "https://www.amazon.com/Coleman-Portable-Camping-Chair-Cooler/dp/B01M18RYXI",
       "gpt_azn": null,
-      "image_url": "https://imgs.search.brave.com/SYBQGZDoZna303eDrBmG2jmSv1Dl87KZIeW1pBxodiI/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly90cmVr/b2xvZ3kuY29tL2Nk/bi9zaG9wL3Byb2R1/Y3RzLzFfODMxN2I3/NjQtNTVmMi00NGEz/LWEwNjgtNjdmOWJl/MDM5MTNlLmpwZz92/PTE2MzI5MjYwMTkm/d2lkdGg9ODAw",
+      "image_url": "https://imgs.search.brave.com/1nQmkraIqFP8-T61i7IzH7vA1sd4HX9chwckP-xz8gw/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9pNS53/YWxtYXJ0aW1hZ2Vz/LmNvbS9zZW8vQ29s/ZW1hbi1Db29sZXIt/UXVhZC1DaGFpcl8w/M2M0NmZiNC1jOTAz/LTQyZWYtOTc5MS05/ZGI3Yzc5ZTdhNTUu/YzY3NjZmOGIwNzFj/YzM1Y2QxMDI4MGNm/ZDA1Y2QyZTguanBl/Zz9vZG5IZWlnaHQ9/NTczJm9kbldpZHRo/PTU3MyZvZG5CZz1G/RkZGRkY",
       "resolver": "brave",
       "valid": true
     }
   ],
   "resolvedLinks": {
-    "https://www.helinox.com/products/chair-one": {
+    "https://helinox.com/products/chair-one": {
       "title": "Chair One",
       "description": "The Chair One’s patented design launched the category of lightweight, packable chairs with its effortless combination of comfort and compactness. It goes everywhere–bring yours to the beach, camping off the beaten path, or wherever adventure takes you.",
       "image": "http://helinox.com/cdn/shop/files/helinox_chair_one_black_hero_ea8a12ef-f947-4971-8da8-60b6122140c3_1024x1024.jpg?v=1773390628",
@@ -92,41 +96,29 @@
       "image": "https://d1i8d6ce8wwubf.cloudfront.net/photos/30/52/426742_6584_XXL.jpg",
       "url": "https://www.outdoorgearlab.com/reviews/camping-and-hiking/camping-chair/helinox-chair-one"
     },
-    "https://www.rei.com/product/148036/rei-co-op-flexlite-air-chair": {
-      "title": "REI Co-op Flexlite Air Chair | REI Co-op",
-      "description": "Enjoy a comfortable backcountry seat that packs down small and weighs only 1 pound! The REI Co-op Flexlite Air chair offers off-the-ground comfort at minimal weight.",
-      "image": "https://www.rei.com/media/product/242847",
-      "url": "https://www.rei.com/product/242847/rei-co-op-flexlite-air-chair"
+    "https://www.cleverhiker.com/camping/best-camping-chairs/": {
+      "title": "Best Camping Chairs of 2026, Tested & Reviewed | CleverHiker",
+      "description": "We tailgated, car camped, hung out on the sidelines, and backyard barbequed to test the best camping chairs on the market.",
+      "image": "https://www.cleverhiker.com/wp-content/uploads/2024/01/Camping-Chairs-16x9-Kelty-Low-Loveseat.jpg",
+      "url": "https://www.cleverhiker.com/camping/best-camping-chairs/"
     },
-    "https://gearjunkie.com/outdoor/rei-co-op-flexlite-air-chair-review": {
-      "title": "The Backpacking Luxury Item We Can't Leave Behind: REI Co-op Flexlite Air Chair Review",
-      "description": "At only 16 ounces and as small as a Nalgene, the REI Co-op Flexlite Air Chair hardly makes a dent in our pack weight, and it brings excellent camp comfort.",
-      "image": "https://s3.us-east-1.amazonaws.com/images.gearjunkie.com/uploads/2024/05/REIFlexlite_4.jpg",
-      "url": "https://gearjunkie.com/outdoor/rei-co-op-flexlite-air-chair-review"
+    "https://www.testedgearhub.com/best-camping-chairs-of-2026-tested-compared/": {
+      "title": "Best Camping Chairs of 2026 Tested & Compared",
+      "description": "Find the best camping chairs of 2026 tested for comfort, durability, and portability. Top picks from Helinox, YETI, REI, Kijaro and more..",
+      "image": "https://testedgearhub.com/wp-content/uploads/2026/01/best-camping-chairs.webp",
+      "url": "https://testedgearhub.com/best-camping-chairs-of-2026-tested-compared/"
     },
-    "https://www.goodgearonly.com/furniture/rei-flexlite-air-review": {
-      "title": "REI Co‑op Flexlite Air — Good Gear Only",
-      "description": "1 lb | $99.95",
-      "image": "http://static1.squarespace.com/static/68242c22a10d773d4ebec141/682961341dfd852556249872/685a1d5a58c6ee4a5fb1fa2c/1764996385947/IMG_0576.PNG?format=1500w",
-      "url": "https://www.goodgearonly.com/furniture/rei-flexlite-air-review"
+    "https://www.wired.com/gallery/best-camping-chairs/": {
+      "title": "The Best Camping Chairs for Hardcore Outdoor Relaxing",
+      "description": "Whether you’re hiking, tailgating, or relaxing in the garden, take the weight off in style with these WIRED-tested chairs for the great outdoors.",
+      "image": "https://media.wired.com/photos/6876f3861fc893183653d3d4/191:100/w_1280,c_limit/The%20Best%20Camping%20Chairs%20Source%20Coleman;%20Helinox.png",
+      "url": "https://www.wired.com/gallery/best-camping-chairs/"
     },
-    "https://trekology.com/en-us/products/ultralight-camping-chair-yizi-lite-750g-hiking-backpacking-chairs": {
-      "title": "Trekology | Compact, Lightweight, & Comfy Outdoor Gear",
-      "description": "Elevate every adventure with Trekology – where innovation meets outdoor comfort. Unleash compact, lightweight gear designed for explorers, ensuring convenience without compromise. Join us in redefining outdoor experiences, one compact adventure at a time",
-      "image": "",
-      "url": "https://trekology.com/"
-    },
-    "https://www.nbcnews.com/select/shopping/best-portable-camping-chair-ncna1282533": {
-      "title": "This camping chair makes camping a comfortable escape",
-      "description": "Though they’re often an afterthought, lightweight but supportive chairs like Trekology’s can turn camping comfy even if you don’t love the outdoors.",
-      "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/newscms/2021_43/3515064/211026-camp-chairs-bd-2x1.jpg",
-      "url": "https://www.nbcnews.com/select/shopping/best-portable-camping-chair-ncna1282533"
-    },
-    "https://everythingbackyard.net/trekology-yizi-go-portable-camping-chair-review/": {
-      "title": "Trekology YIZI GO Portable Camping Chair Review",
-      "description": "If you're looking for a great camping chair, we recommend the Trekology YIZI GO Portable Camping Chair. Here is our review of it and why you should consider purchasing it today.",
-      "image": "https://everythingbackyard.net/wp-content/uploads/2018/07/Trekology-YIZI-GO-Portable-Camping-Chair.png",
-      "url": "https://everythingbackyard.net/trekology-yizi-go-portable-camping-chair-review/"
+    "https://www.yahoo.com/lifestyle/amazon-shoppers-call-best-camping-093000578.html": {
+      "title": "Amazon Shoppers Call These the ‘Best Camping Chairs Ever’ — and They’re on Sale",
+      "description": "“This camping chair is like the king of all camping chairs.”",
+      "image": "https://s.yimg.com/ny/api/res/1.2/YEfTt6Go86kLi7DZHW8DNw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03NTA7Y2Y9d2VicA--/https://media.zenfs.com/en/travel.travelleisure.com/19bc59b5a1a582a813ca12aaabbd16ad",
+      "url": "https://www.yahoo.com/lifestyle/amazon-shoppers-call-best-camping-093000578.html"
     }
   }
 }

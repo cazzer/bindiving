@@ -1,0 +1,114 @@
+{
+  "slug": "lightning-cables",
+  "query": "best lightning cables",
+  "title": "Best lightning cables | Bin Diving",
+  "description": "AI-dug recommendations for best lightning cables. Compare options and find one that fits.",
+  "dugAt": "2026-03-18T19:16:15.247Z",
+  "recommendations": [
+    {
+      "product_name": "Apple USB-C to Lightning Cable (1 m)",
+      "pros": [
+        "Apple-certified/MFi",
+        "Reliable fast charging with USB‑C PD"
+      ],
+      "cons": [
+        "Higher price than third‑party options",
+        "Limited color/length choices"
+      ],
+      "price": null,
+      "amazon_id": "B0CX22JSR3",
+      "sources": [
+        "https://www.apple.com/shop/product/MUQ93AM/A/usb-c-to-lightning-cable-1-m",
+        "https://www.bestbuy.com/site/apple-3-3-foot-usb-c-to-lightning-cable-white/6409793.p",
+        "https://wisepickerai.com/apple-usb-c-lightning-cable-review-verdict"
+      ],
+      "amazon_url": "https://www.amazon.com/Apple-MUQ93AM-A-USB-C-Lightning/dp/B0CX22JSR3",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/MPOh5Wg8jfGoGS189hbof04SWBAnMCcsAVmmVL7ikRY/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9pLmVi/YXlpbWcuY29tL2lt/YWdlcy9nL1hwRUFB/T1N3Q1pCbXBDNWEv/cy1sMjI1LmpwZw",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "Anker PowerLine III (USB-C to Lightning)",
+      "pros": [
+        "MFi-certified; durable braided/flow designs",
+        "Strong recent reviewer consensus for reliability"
+      ],
+      "cons": [
+        "Varies by exact model (length/color)",
+        "Premium models cost more than basic cables"
+      ],
+      "price": null,
+      "amazon_id": "B08GFLBXSZ",
+      "sources": [
+        "https://www.anker.com/blogs/cables/best-usb-c-to-lightning-cable",
+        "https://www.techgearlab.com/topics/electronics/best-lightning-cable"
+      ],
+      "amazon_url": "https://www.amazon.com/Anker-Powerline-Lightning-Certified-Supports/dp/B08GFLBXSZ",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/AuXwm-7qJDA0BG6ZbbxQ_VuTZcz0Ki5qdZIXFgg-5fc/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9jMS5u/ZXdlZ2dpbWFnZXMu/Y29tL3Byb2R1Y3Rp/bWFnZS9uYjMwMC9B/Q0NVUzIxMDMwNUlT/SGFILmpwZw",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "Belkin BoostCharge USB-C to Lightning Cable",
+      "pros": [
+        "MFi-certified from a major accessory maker",
+        "Multiple lengths; widely available retail partners"
+      ],
+      "cons": [
+        "Some reports of fit issues on particular devices",
+        "Not the cheapest option"
+      ],
+      "price": null,
+      "amazon_id": "B084MZXJNK",
+      "sources": [
+        "https://www.belkin.com/p/lightning-to-usb-a-cable/CAA001bt2MBK.html",
+        "https://www.verizon.com/products/belkin-boostcharge-usb-c-cable-with-lightning-connector-2m/"
+      ],
+      "amazon_url": "https://www.amazon.com/Belkin-Lightning-Charging-MFi-Certified-CAA004bt1MWH/dp/B084MZXJNK",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/moUfgy-xdbTo0t-NJQNj5mEVOMl28tHNlAkvV88jcKA/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9tLm1l/ZGlhLWFtYXpvbi5j/b20vaW1hZ2VzL0kv/MzFtMFB6a2N0LUwu/anBn",
+      "resolver": "brave",
+      "valid": true
+    }
+  ],
+  "resolvedLinks": {
+    "https://www.apple.com/shop/product/MUQ93AM/A/usb-c-to-lightning-cable-1-m": {
+      "title": "USB-C to Lightning Cable (1 m)",
+      "description": "The USB-C to Lightning Cable connects any iPhone, iPad, or iPod with Lightning connector to a USB-C or Thunderbolt 3 (USB-C) enabled Mac. Buy now at apple.com.",
+      "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/MM0A3?wid=1200&hei=630&fmt=jpeg&qlt=95&.v=1632956386000",
+      "url": "https://www.apple.com/shop/product/muq93am/a/usb-c-to-lightning-cable-1-m"
+    },
+    "https://wisepickerai.com/apple-usb-c-lightning-cable-review-verdict": {
+      "title": "Apple USB-C to Lightning Cable Review: 8.7/10 Verdict",
+      "description": "Apple USB-C to Lightning Cable Review: Is it worth it? Users report fast charging and durability but warn about high-wattage adapter issues. Verdict: 8.7/10.",
+      "image": "https://cdn.wisepickerai.com/webp/a26398dca6f47b49876cbaffbc9954f9.webp",
+      "url": "https://wisepickerai.com/apple-usb-c-lightning-cable-review-verdict"
+    },
+    "https://www.anker.com/blogs/cables/best-usb-c-to-lightning-cable": {
+      "title": "Best USB-C to Lightning Cable for 2026",
+      "description": "Buy the best USB-C to lightning cable for fast charging and data transfer with our comprehensive guide. We provide a detailed discussion for each cable.",
+      "image": "https://cdn.shopify.com/s/files/1/0493/9834/9974/articles/anker-usb-c-to-lightning-cable_c185d48a-ce56-48e3-afb9-df687ab5f707.jpg?v=1768903683",
+      "url": "https://www.anker.com/blogs/cables/best-usb-c-to-lightning-cable"
+    },
+    "https://www.techgearlab.com/topics/electronics/best-lightning-cable": {
+      "title": "Best Lightning Cables",
+      "description": "Is your lightning cable too short, starting to split, or no longer pairing with your device? We've all been there. If your existing cable is on its way...",
+      "image": "https://djd1xqjx2kdnv.cloudfront.net/photos/33/20/453562_8656_XXL.jpg",
+      "url": "https://www.techgearlab.com/topics/electronics/best-lightning-cable"
+    },
+    "https://www.belkin.com/p/lightning-to-usb-a-cable/CAA001bt2MBK.html": {
+      "title": "BoostCharge Lightning to USB-A Cable for iPhones and Apple Products | Belkin US",
+      "description": "Fast charge your iPhone 14 or earlier with the BoostCharge USB-A to Lightning Cable. MFi certified for reliable, safe performance.",
+      "image": "",
+      "url": "https://www.belkin.com/p/lightning-to-usb-a-cable/CAA001bt2MBK.html"
+    },
+    "https://www.verizon.com/products/belkin-boostcharge-usb-c-cable-with-lightning-connector-2m/": {
+      "title": "Belkin BoostCharge USB-C Cable with Lightning Connector, 2M | Shop Now",
+      "description": "Shop the Belkin BoostCharge USB-C Cable with Lightning Connector. Stay charged, synced, and connected with reliable cables. Get it now at Verizon.",
+      "image": "https://ss7.vzw.com/is/image/VerizonWireless/caa015-2mwh-tl-iset?$acc-lg$",
+      "url": "https://www.verizon.com/products/belkin-boostcharge-usb-c-cable-with-lightning-connector-2m/"
+    }
+  }
+}

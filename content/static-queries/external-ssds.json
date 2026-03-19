@@ -1,0 +1,116 @@
+{
+  "slug": "external-ssds",
+  "query": "best external ssds",
+  "title": "Best external ssds | Bin Diving",
+  "description": "AI-dug recommendations for best external ssds. Compare options and find one that fits.",
+  "dugAt": "2026-03-18T19:14:39.637Z",
+  "recommendations": [
+    {
+      "product_name": "SanDisk Extreme PRO Portable SSD (USB4)",
+      "pros": [
+        "Top-tier sequential speeds",
+        "Designed for creatives/gamers",
+        "Rugged build variants available"
+      ],
+      "cons": [
+        "Requires USB4/40Gbps to reach max speeds",
+        "Higher price vs USB3 models"
+      ],
+      "price": null,
+      "amazon_id": "B0DN6DK3X4",
+      "sources": [
+        "https://www.pcgamer.com/hardware/ssds/the-fastest-external-ssd-ive-tested-is-still-available-for-a-great-price-after-prime-day-and-is-well-worth-a-look-if-you-need-some-extra-storage/",
+        "https://www.digitalcameraworld.com/cameras/ssds/sandisk-announces-its-fastest-ever-portable-ssd"
+      ],
+      "amazon_url": "https://www.amazon.com/SanDisk-Portable-Backwards-Compatible-Resistance/dp/B0DN6DK3X4",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/ry8vRwvgAJ2zjWFvRF7PH0CnBTc_9-CZLh0VQylh-r4/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly93d3cu/c2FuZGlzay5jb20v/Y29udGVudC9kYW0v/c3RvcmUvZW4tdXMv/YXNzZXRzL3Byb2R1/Y3RzL3BvcnRhYmxl/L3NhbmRpc2stZXh0/cmVtZS1wcm8tdXNi/LTQtcG9ydGFibGUt/c3NkL2dhbGxlcnkv/c2FuZGlzay1leHRy/ZW1lLXByby11c2It/NC1wb3J0YWJsZS1z/c2QtZnJvbnQucG5n/LndkdGh1bWIuMTI4/MC4xMjgwLndlYnA",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "Samsung T7 Shield Portable SSD",
+      "pros": [
+        "Reliable Samsung SSD tech",
+        "Rugged IP65-rated body",
+        "Excellent value for USB 3.2 performance class"
+      ],
+      "cons": [
+        "Not as fast as latest USB4 drives",
+        "Some isolated user reports of slow writes"
+      ],
+      "price": null,
+      "amazon_id": "B09VLHR4JC",
+      "sources": [
+        "https://www.engadget.com/computing/accessories/best-ssds-140014262.html",
+        "https://www.amazon.it/Samsung-MU-PE1T0S-WW-portatile-Shield/dp/B09YHQ3YZ5"
+      ],
+      "amazon_url": "https://www.amazon.com/SAMSUNG-Resistant-Photographers-MU-PE2T0S-AM/dp/B09VLHR4JC",
+      "gpt_azn": "B09S9N4T6K",
+      "image_url": "https://imgs.search.brave.com/WbsormGOS7Oo9M0i8zJwnVxC_zUZhFwXuobUiR_RhSQ/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9kb25n/a25vd3MuY29tL3dw/LWNvbnRlbnQvdXBs/b2Fkcy9TYW1zdW5n/LVQ3LVNoaWVsZC1Q/b3J0YWJsZS1TU0Qt/MTEuanBn",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "Crucial X8 Portable SSD",
+      "pros": [
+        "Strong price-to-performance",
+        "Durable design, good for everyday use",
+        "Consistently recommended by reviewers"
+      ],
+      "cons": [
+        "USB 3.2 limits peak speeds vs USB4",
+        "Larger than some ultra-compact options"
+      ],
+      "price": null,
+      "amazon_id": "B07YD5TK4F",
+      "sources": [
+        "https://www.techradar.com/reviews/crucial-x8-1tb-portable-ssd",
+        "https://www.pcworld.com/article/394605/fast-spacious-portable-the-1tb-crucial-x8-external-ssd-is-just-115.html"
+      ],
+      "amazon_url": "https://www.amazon.com/Crucial-1TB-Portable-SSD-USB/dp/B07YD5TK4F",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/UKG6O_3hu7vxqLmNvpQar6LekzzJxTXAJ2FFzy7oY0Q/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9uZXdi/Y29tcHV0ZXJidWls/ZC5jb20vd3AtY29u/dGVudC91cGxvYWRz/LzIwMTkvMTAvQ3J1/Y2lhbC1YOC1Qb3J0/YWJsZS1TU0QtRmFz/dGVzdC1Qb3J0YWJs/ZS1TU0QtOTU4eDUw/MS5wbmc",
+      "resolver": "brave",
+      "valid": true
+    }
+  ],
+  "resolvedLinks": {
+    "https://www.pcgamer.com/hardware/ssds/the-fastest-external-ssd-ive-tested-is-still-available-for-a-great-price-after-prime-day-and-is-well-worth-a-look-if-you-need-some-extra-storage/": {
+      "title": "The fastest external SSD I've tested is an extra $20 off its usual discounted price and well worth a look if you need some extra storage",
+      "description": "It's a whizz.",
+      "image": "https://cdn.mos.cms.futurecdn.net/kRomGeNb8YkRZWjhndu9Qj-1890-80.jpg",
+      "url": "https://www.pcgamer.com/hardware/ssds/the-fastest-external-ssd-ive-tested-is-still-available-for-a-great-price-after-prime-day-and-is-well-worth-a-look-if-you-need-some-extra-storage/"
+    },
+    "https://www.digitalcameraworld.com/cameras/ssds/sandisk-announces-its-fastest-ever-portable-ssd": {
+      "title": "SanDisk announces its fastest-ever portable SSD (and boy is it fast!)",
+      "description": "As well as new budget and mid-range offerings",
+      "image": "https://cdn.mos.cms.futurecdn.net/H774oWw9Pzvx9j23qS6R3o-1199-80.png",
+      "url": "https://www.digitalcameraworld.com/cameras/ssds/sandisk-announces-its-fastest-ever-portable-ssd"
+    },
+    "https://www.engadget.com/computing/accessories/best-ssds-140014262.html": {
+      "title": "The best SSDs in 2026",
+      "description": "Here are the best SSDs you can get right now, plus how to choose the right one for you.",
+      "image": "https://s.yimg.com/ny/api/res/1.2/_x81Q_TX1vaPbND2zyWG2Q--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03MjA-/https://s.yimg.com/os/creatr-uploaded-images/2025-12/48f38fd0-d44c-11f0-bf1f-a1e65d279710",
+      "url": "https://www.engadget.com/computing/accessories/best-ssds-140014262.html"
+    },
+    "https://www.amazon.it/Samsung-MU-PE1T0S-WW-portatile-Shield/dp/B09YHQ3YZ5": {
+      "title": "Samsung MU-PE1T0S/WW SSD portatile T7 Shield 1 TB Nero : Amazon.it: Informatica",
+      "description": "",
+      "image": "",
+      "url": "https://www.amazon.it/Samsung-MU-PE1T0S-WW-portatile-Shield/dp/B09YHQ3YZ5"
+    },
+    "https://www.techradar.com/reviews/crucial-x8-1tb-portable-ssd": {
+      "title": "Crucial X8 1TB Portable SSD review",
+      "description": "NVMe gets outside the computer to stretch its legs",
+      "image": "https://cdn.mos.cms.futurecdn.net/mRWCTscCPZHtGF2EcdhgY9-1920-80.jpg",
+      "url": "https://www.techradar.com/reviews/crucial-x8-1tb-portable-ssd"
+    },
+    "https://www.pcworld.com/article/394605/fast-spacious-portable-the-1tb-crucial-x8-external-ssd-is-just-115.html": {
+      "title": "Fast, spacious, portable: The 1TB Crucial X8 external SSD is just $115",
+      "description": "The 1TB Crucial X8 is available at its best price ever on Amazon right now.",
+      "image": "https://www.pcworld.com/wp-content/uploads/2025/04/crucial-x8-ssd-flat-front-100836535-orig.jpg?quality=50&strip=all&w=1024",
+      "url": "https://www.pcworld.com/article/394605/fast-spacious-portable-the-1tb-crucial-x8-external-ssd-is-just-115.html"
+    }
+  }
+}

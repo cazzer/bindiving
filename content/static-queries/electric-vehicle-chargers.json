@@ -1,0 +1,110 @@
+{
+  "slug": "electric-vehicle-chargers",
+  "query": "best electric vehicle chargers",
+  "title": "Best electric vehicle chargers | Bin Diving",
+  "description": "AI-dug recommendations for best electric vehicle chargers. Compare options and find one that fits.",
+  "dugAt": "2026-03-18T19:18:31.414Z",
+  "recommendations": [
+    {
+      "product_name": "Grizzl-E Classic Level 2 EV Charger",
+      "pros": [
+        "Rugged metal NEMA 4X enclosure",
+        "Simple, reliable 'dumb' operation",
+        "Good value for power (up to 40A)"
+      ],
+      "cons": [
+        "Limited smart features (if you want app control)",
+        "Some user reports of cable/plug wear over years",
+        "Heavier cable than some competitors"
+      ],
+      "price": null,
+      "amazon_id": "B082LMVSLY",
+      "sources": [
+        "https://evgearreviews.com/grizzl-e-classic-level-2-ev-charger-in-depth-review/",
+        "https://the-tech-vortex.com/2025/06/28/the-grizzl-e-classic-charger-review/",
+        "https://evchargingstations.com/chargingnews/best-home-ev-charging-stations-of-2025/"
+      ],
+      "amazon_url": "https://www.amazon.com/Grizzl-Electric-Vehicle-Certified-Charging/dp/B082LMVSLY",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/OwR9LnPXA07h2AkkpAcUlW_MHeyg_aaift0v1rlpFoI/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9tLm1l/ZGlhLWFtYXpvbi5j/b20vaW1hZ2VzL0kv/NzFpMXRQTjNiZ0wu/anBn",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "ChargePoint Home Flex Level 2 EV Charger",
+      "pros": [
+        "Adjustable 16–50A output for flexible installation",
+        "Well-known brand with solid app/ecosystem",
+        "Long cable options and outdoor rating"
+      ],
+      "cons": [
+        "Some users report app/account frustrations",
+        "Hardwired/plug options may affect price",
+        "Reported occasional reliability complaints in forums"
+      ],
+      "price": null,
+      "amazon_id": "B07WXZDHGV",
+      "sources": [
+        "https://www.ynetnews.com/products-reviews/automotive/chargepoint-home-flex-charger-review/",
+        "https://ev.motorwatt.com/ev-database/ev-charging-stations/go-e-charger-gemini-flex-11-kw",
+        "https://konigmotorsport.com/top-7-best-home-charging-station-for-tesla-model-3/"
+      ],
+      "amazon_url": "https://www.amazon.com/ChargePoint-Home-Electric-Vehicle-Charger/dp/B07WXZDHGV",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/kaw2UkB0-sXQ8LcP-XGiiy9kVa2ZUymYUhUsgzLGzCY/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9pNS53/YWxtYXJ0aW1hZ2Vz/LmNvbS9zZW8vQ2hh/cmdlUG9pbnQtSG9t/ZS1GbGV4LUxldmVs/LTItRVYtQ2hhcmdl/ci1ORU1BLTE0LTUw/LU91dGxldC0yNDBW/LUVWLUNvbXBhdGli/bGUtd2l0aC1BbGwt/RVZzLVRlc2xhLVJl/cXVpcmVzLUFkYXB0/ZXJfMTliODE0MDIt/OGMxZi00ZDNjLTgz/NGQtY2RiNTlkZGNj/MGU1LjExNTFkYTc1/YjZkYjMyN2I0MWI1/OGFhOWEyNDQwZDE5/LmpwZWc_b2RuSGVp/Z2h0PTU4MCZvZG5X/aWR0aD01ODAmb2Ru/Qmc9RkZGRkZG",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "Tesla Wall Connector (Universal/Gen 3)",
+      "pros": [
+        "High power (up to 48A) and long cable options",
+        "Native NACS support for Tesla; adapters allow other EVs",
+        "Good integration and firmware updates from Tesla"
+      ],
+      "cons": [
+        "Best for Tesla owners (others need adapters)",
+        "Some regional price/availability variation",
+        "Requires proper installation for full amperage"
+      ],
+      "price": null,
+      "amazon_id": "B0CNJH667W",
+      "sources": [
+        "https://konigmotorsport.com/top-7-best-home-charging-station-for-tesla-model-3/",
+        "https://www.accio.com/business/trend-of-tesla-wall-charger",
+        "https://device.report/tesla/1529455"
+      ],
+      "amazon_url": "https://www.amazon.com/Tesla-Universal-Wall-Connector-Compatible/dp/B0CNJH667W",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/x_555VaKZi6064p593crsXXsbYRVtn7nEEzqXi7X7Bw/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9ldmNo/YXJnaW5nc3RhdGlv/bnMuY29tL3dwLWNv/bnRlbnQvdXBsb2Fk/cy8yMDIzLzA5L1Rl/c2xhLVVuaXZlcnNh/bC1XYWxsLUNvbm5l/Y3Rvci01MDB4NTAw/LTEuanBn",
+      "resolver": "brave",
+      "valid": true
+    }
+  ],
+  "resolvedLinks": {
+    "https://the-tech-vortex.com/2025/06/28/the-grizzl-e-classic-charger-review/": {
+      "title": "Private SiteWordPress.com",
+      "description": "",
+      "image": "",
+      "url": "https://thetechvortex.wordpress.com/2025/06/28/the-grizzl-e-classic-charger-review/"
+    },
+    "https://evchargingstations.com/chargingnews/best-home-ev-charging-stations-of-2025/": {
+      "title": "These Are The Best Home EV Charging Stations Of 2025",
+      "description": "See State Of Charge's list of the best home EV charging stations of 2025.",
+      "image": "https://evchargingstations.com/wp-content/uploads/2025/11/Thumbnail_Best-of-2025_1-1024x576.jpg",
+      "url": "https://evchargingstations.com/chargingnews/best-home-ev-charging-stations-of-2025/"
+    },
+    "https://ev.motorwatt.com/ev-database/ev-charging-stations/go-e-charger-gemini-flex-11-kw": {
+      "title": "Go E-charger Gemini flex 11 kW Price and Review",
+      "description": "Efficiently charge your electric vehicle with the Go E-charger Gemini Flex 11 kW. Priced at just $698, it offers reliable performance and flexibility for all EV owners. Discover seamless charging today!",
+      "image": "https://ev.motorwatt.com/media/djcatalog2/images/item/5/go-e-charger-gemini-flex-11-kw_f.jpg",
+      "url": "https://ev.motorwatt.com/ev-database/ev-charging-stations/go-e-charger-gemini-flex-11-kw"
+    },
+    "https://www.accio.com/business/trend-of-tesla-wall-charger": {
+      "title": "trend of tesla wall charger: Gen 3 dominance & pedestal spikes",
+      "description": "Discover the trend of tesla wall charger driving demand. Gen 3 leads search interest, while pedestal variants show niche potential. Click to explore seasonal peaks and strategic insights for 2025.",
+      "image": "https://s.alicdn.com/@img/imgextra/i3/O1CN01YlpcjM21ufK6QVkhC_!!6000000007045-2-tps-768-512.png",
+      "url": "https://www.accio.com/business/trend-of-tesla-wall-charger"
+    }
+  }
+}

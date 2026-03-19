@@ -1,0 +1,125 @@
+{
+  "slug": "hdtv-antennas",
+  "query": "best hdtv antennas",
+  "title": "Best hdtv antennas | Bin Diving",
+  "description": "AI-dug recommendations for best hdtv antennas. Compare options and find one that fits.",
+  "dugAt": "2026-03-18T21:54:46.917Z",
+  "recommendations": [
+    {
+      "product_name": "Mohu Gateway Plus Amplified Indoor HDTV Antenna",
+      "pros": [
+        "Strong reception for indoor use",
+        "Built-in LED signal indicator",
+        "Integrated amplifier"
+      ],
+      "cons": [
+        "Larger footprint than tiny flat antennas",
+        "Occasional stutter in poor weather"
+      ],
+      "price": "$69 (reported)",
+      "amazon_id": "B0C6NH2Z81",
+      "sources": [
+        "https://www.tomsguide.com/us/best-tv-antennas%2Creview-2354.html",
+        "https://store.gomohu.com/mohu-gateway-plus-amplified-indoor-hdtv-antenna-grey-with-signal-indicator-10ft-coaxial-cable-and-base-stand.html?bvstate=pg%3A4%2Fct%3Ar",
+        "https://www.gomohu.com/news.html"
+      ],
+      "amazon_url": "https://www.amazon.com/Mohu-Gateway-Amplified-Indicator-Multi-Directional/dp/B0C6NH2Z81",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/_LbLsIR7Ajs81kLsgAPiGvlP31ULCOk0X19_-4Dxj7o/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9pLmVi/YXlpbWcuY29tL2lt/YWdlcy9nLzl3Z0FB/ZVN3ZGpob29saVcv/cy1sNTAwLmpwZw",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "Winegard FlatWave Amped (FL5500A) Indoor HDTV Antenna",
+      "pros": [
+        "Slim, easy-to-mount design",
+        "Includes embedded amplifier and long coax cable",
+        "Good UHF and VHF performance for many users"
+      ],
+      "cons": [
+        "May struggle on some weak VHF-Hi channels",
+        "Amplified models can show noise if placed near interference sources"
+      ],
+      "price": "$59.99 (MSRP reported)",
+      "amazon_id": "B00BN5Z2WM",
+      "sources": [
+        "https://winegard.com/flatwave-amplified-indoor-hdtv-antenna/",
+        "https://help.winegard.com/portal/en/kb/articles/winegard-flatwave-amplified-antenna",
+        "https://www.bestbuy.com/site/winegard-flatwave-amped-indoor-plate-hdtv-antenna-black-white/2938685.p"
+      ],
+      "amazon_url": "https://www.amazon.com/Winegard-FlatWave-FL5500A-Amplified-Ultra-Thin/dp/B00BN5Z2WM",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/ZWNPqADYjowEtZGt8W5MCNfurofPwFcEv2_eThYHQgY/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9pNS53/YWxtYXJ0aW1hZ2Vz/LmNvbS9hc3IvOGY3/NjFiNDQtYmFlZC00/Mjk1LWJlYTAtMzI3/MGI3ZmMwM2I0XzEu/ODdmNTRjNWMwZTVk/ZDNiZDdmNTE4M2Vi/YWZiMWIyMTcuanBl/Zz9vZG5XaWR0aD02/MTImb2RuSGVpZ2h0/PTYxMiZvZG5CZz1m/ZmZmZmY",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "Winegard Elite 7550 Outdoor HDTV Antenna",
+      "pros": [
+        "Long-range outdoor reception",
+        "Robust build and preamplifier options",
+        "High channel counts in tests"
+      ],
+      "cons": [
+        "Requires outdoor/attic installation",
+        "Higher cost and larger than indoor models"
+      ],
+      "price": null,
+      "amazon_id": "B076WXB3KR",
+      "sources": [
+        "https://www.tomsguide.com/us/best-tv-antennas%2Creview-2354.html",
+        "https://winegard.com/elite-7550-amplified-outdoor-antenna/",
+        "https://winegard.com/blog/winegard-unveils-the-new-elite-7550-a-powerful-antenna-delivering-superior-range-and-performance/"
+      ],
+      "amazon_url": "https://www.amazon.com/Winegard-Elite-Outdoor-HDTV-Antenna/dp/B076WXB3KR",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/-MoLz2QxPf9Kje1QErTZh1LuTk2Hpesww_wHqIa5IBY/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly93d3cu/dGFub3Rpcy5jb20v/Y2RuL3Nob3AvcHJv/ZHVjdHMvd2luZWdh/cmRfd2U3NTUwYV9l/bGl0ZV9hbXBsaWZp/ZWRfaGR0dl9hbnRl/bm5hXzE1NDU5NTM3/MzcwMDBfMTQ0OTk4/OF84MDB4LmpwZz92/PTE1NzYwMTI4NjI",
+      "resolver": "brave",
+      "valid": true
+    }
+  ],
+  "resolvedLinks": {
+    "https://www.tomsguide.com/us/best-tv-antennas%2Creview-2354.html": {
+      "title": "These are the 3 best TV antennas we've tested",
+      "description": "From New York to San Diego and everywhere in between",
+      "image": "https://cdn.mos.cms.futurecdn.net/527pXf3JSoWwfBtj74te9f-2000-80.jpg",
+      "url": "https://www.tomsguide.com/tvs/best-tv-antennas"
+    },
+    "https://store.gomohu.com/mohu-gateway-plus-amplified-indoor-hdtv-antenna-grey-with-signal-indicator-10ft-coaxial-cable-and-base-stand.html?bvstate=pg%3A4%2Fct%3Ar": {
+      "title": "Mohu Gateway Plus Amplified Indoor HDTV Antenna (Grey) with Signal Indicator, 10ft. Coaxial Cable, and Base Stand",
+      "description": "Watch TV For Free Using The Contoured Mohu Gateway Plus Amplified Antenna With A Built In TV Signal Indicator. Shop TV Antennas Online!",
+      "image": "https://cdn11.bigcommerce.com/s-m2bv6s8idr/products/182/images/923/GATEWAYXG_heroWcable_1280p__17464.1692282163.386.513.jpg?c=1",
+      "url": "https://store.gomohu.com/mohu-gateway-plus-amplified-indoor-hdtv-antenna-grey-with-signal-indicator-10ft-coaxial-cable-and-base-stand.html"
+    },
+    "https://www.gomohu.com/news.html": {
+      "title": "Mohu In The Press | Mohu Antennas",
+      "description": "",
+      "image": "https://cdn.gomohu.com/cmss_files/imagelibrary/MOHU_logo_1200x630.png",
+      "url": "https://www.gomohu.com/news.html"
+    },
+    "https://winegard.com/flatwave-amplified-indoor-hdtv-antenna/": {
+      "title": "FlatWave Amplified Indoor HDTV Antenna",
+      "description": "Enjoy crystal-clear, high-definition TV reception with the Winegard FlatWave Amplified Indoor HDTV Antenna. This sleek and compact antenna is designed to deliver excellent signal strength for local broadcast channels. With its built-in amplifier, it enhances signal reception and provides an impressive range. Cut the cord and enjoy your favorite shows and channels with the Winegard FlatWave Amplified Indoor HDTV Antenna.",
+      "image": "https://cdn11.bigcommerce.com/s-ltdyg0lu1n/products/337/images/1397/FL5500A__27282.1647974375.386.513.png?c=1",
+      "url": "https://winegard.com/flatwave-amplified-indoor-hdtv-antenna/"
+    },
+    "https://help.winegard.com/portal/en/kb/articles/winegard-flatwave-amplified-antenna": {
+      "title": "",
+      "description": "",
+      "image": "",
+      "url": "https://help.winegard.com/portal/en/kb/articles/winegard-flatwave-amplified-antenna"
+    },
+    "https://winegard.com/elite-7550-amplified-outdoor-antenna/": {
+      "title": "Elite 7550",
+      "description": "Experience unparalleled TV entertainment with the Winegard Elite 7550 HDTV antenna. Discover crystal-clear reception and an extensive range of channels in stunning HD. Say goodbye to cable bills and enjoy your favorite shows with this high-performance, easy-to-install antenna solution.",
+      "image": "https://cdn11.bigcommerce.com/s-ltdyg0lu1n/products/158/images/1405/WE7550A_main__46163.1647967013.386.513.png?c=1",
+      "url": "https://winegard.com/elite-7550-amplified-outdoor-antenna/"
+    },
+    "https://winegard.com/blog/winegard-unveils-the-new-elite-7550-a-powerful-antenna-delivering-superior-range-and-performance/": {
+      "title": "Winegard Unveils the New Elite 7550, a Powerful Antenna Delivering Superior Range and Performance",
+      "description": "Integrated LTE filter and embedded ultra-low noise amplifier allows for optimal reception in even the most populated urban environments\n\t\n\t BURLINGTON, Iowa (October 17, 2017)  — Winegard Company, the leading U.S. antenna manufacturer since 1953, introduces the new Elite 7550, the brandâ€&trade;s most compact, powerful, and cutting-edge antenna to-date bolstering an already impressive lineup of over-the-air options. For cord-cutters and TV enthusiasts, alike, this antennaâ€&trade;s long-range performance delivers reception from more than 70 miles away, ensuring the maximum channels with top-rated shows in high definition. \n\t\nâ€œAs with all our antennas, the Elite 7550 was engineered and designed right here at Winegard leveraging our more than six decades of antenna expertise, and underwent rigorous testing to ensure superior delivery and performance,â€ says Aaron Luttenegger, Consumer Products National Sales Manager, Winegard Company.  â€œInside the antennaâ€&trade;s sleek design, the printed element provides the best reception so our customers can enjoy their favorite programs, local news and sports.â€\n\t\n\t\nAn integrated LTE filter and embedded ultra-low noise amplifier with Winegardâ€&trade;s unique Clear Circuit Technology&tradel allows for the best reception.  Thatâ€&trade;s because the antenna provides an ultralow noise figure of 1 dB for less dropouts and pixilation.  Additionally, the Elite 7550 is optimized for dual-band VHF/UHF reception designed for maximum signal capture.\n\t\n\t\n\t Specifications:\n\t• Range:  70+ miles\n\t • Weight:  1lb\n\t • Dimensions:  30â€ x 17.5â€ x 5â€\n\t • High-Definition UHF/VHF\n\t • Integrated LTE filter\n\t • Embedded ultra-low noise amplifier with Clear Circuit TechnologyTM\n\t • Materials:  Printed element, stainless steel reflector \n\t • Includes 3â€&trade; USB cable and 110V wall adapter\n\t • Inline 5V power inverter with LED power indicator for energy-saving\n\t\nMounting the antenna is easy with the Flex Mounting System that provides angling options for optimal positioning in the attic or outside.  It comes with a power inverter, a USB connector and a 110V adapter making setup simple.  Durable and strong, the Elite 7550 has undergone Winegardâ€&trade;s vigorous testing to ensure great signal quality in a variety of environments. \n\t\n\t\nThe Elite 7550 retails for $149.99 MSRP.  For more information, please view \n\twww.winegard.com/elite.   \n\t\n\t\n\t\n\tAbout Winegard \nWinegard Company designs and manufacturers a spectrum of world class antenna products from mass produced consumer antennas and accessories to enterprise focused broadband solutions. Since its incorporation in 1954, Winegard has designed more than 1,000 antenna models and been granted over 80 U.S. patents. The company's heritage includes recognition by NASA for contributions to the Apollo 11 mission, and the induction of founder John Winegard into the Consumer Electronics Association Hall of Fame. Winegard's superior antenna design and manufacturing facilities that total 410,000 sq. ft include a state of the art testing and measurement center. The company's in-house and vertically integrated capabilities support its accelerated product design and development cycle.",
+      "image": "http://www.winegard.com/wp-content/uploads/we7550a.jpg",
+      "url": "https://winegard.com/blog/winegard-unveils-the-new-elite-7550-a-powerful-antenna-delivering-superior-range-and-performance/"
+    }
+  }
+}

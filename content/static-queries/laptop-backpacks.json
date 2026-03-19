@@ -1,0 +1,73 @@
+{
+  "slug": "laptop-backpacks",
+  "query": "best laptop backpacks",
+  "title": "Best laptop backpacks | Bin Diving",
+  "description": "AI-dug recommendations for best laptop backpacks. Compare options and find one that fits.",
+  "dugAt": "2026-03-18T23:03:38.040Z",
+  "recommendations": [
+    {
+      "product_name": "Peak Design Everyday Backpack V2 (20L / 30L)",
+      "pros": [
+        "Excellent organization and access",
+        "Well-reviewed for daily carry and camera/tech use"
+      ],
+      "cons": [
+        "Some users report strap comfort and zipper issues",
+        "Premium price"
+      ],
+      "price": null,
+      "amazon_id": "B07ZTQH3SV",
+      "sources": [
+        "https://www.techradar.com/reviews/peak-design-everyday-backpack-v2",
+        "https://packhacker.com/travel-gear/peak-design/everyday-backpack-30l-v2/"
+      ],
+      "amazon_url": "https://www.amazon.com/Peak-Design-Everyday-Backpack-Midnight/dp/B07ZTQH3SV",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/6SaHbMDCTqy8DSUugzc_oJAEnPKFBFcombENAWNk50k/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9pLmVi/YXlpbWcuY29tL2lt/YWdlcy9nL05qQUFB/ZVN3Y1JkcG4zbmkv/cy1sNDAwLndlYnA",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "Osprey Nebula 32 (Nebula Commuter)",
+      "pros": [
+        "Comfortable suspension for heavier loads",
+        "TSA-friendly laptop sleeve and good pocketing for commuters"
+      ],
+      "cons": [
+        "Laptop compartment can be narrow for very large laptops",
+        "Not highly weatherproof without a rain cover"
+      ],
+      "price": null,
+      "amazon_id": "B09ZPBPHNZ",
+      "sources": [
+        "https://www.rei.com/product/C09520/osprey-nebula-32-pack",
+        "https://cleverhiker.com/more-gear/more-gear-individual-gear-reviews/osprey-nebula-32-pack-review/"
+      ],
+      "amazon_url": "https://www.amazon.com/Osprey-Nebula-Laptop-Backpack-Black/dp/B09ZPBPHNZ",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/zm4o-dOW2aeTCWHCjnZ3bLOyTXHKrcPRx0gM3EI4fFA/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9rMi5j/b20uYXUvY2RuL3No/b3AvZmlsZXMvb3Nw/cmV5LW5lYnVsYS0z/Mi1saXRyZS1rMi1i/YXNlLWNhbXBfMy53/ZWJwP3Y9MTczMjg1/Nzg3MSZ3aWR0aD0x/MTEx",
+      "resolver": "brave",
+      "valid": true
+    }
+  ],
+  "resolvedLinks": {
+    "https://www.techradar.com/reviews/peak-design-everyday-backpack-v2": {
+      "title": "Peak Design Everyday Backpack V2 review",
+      "description": "A premium camera bag with magnetic appeal",
+      "image": "https://cdn.mos.cms.futurecdn.net/NPb5GDYgV2GsjRmMF9XZU8-2560-80.jpg",
+      "url": "https://www.techradar.com/reviews/peak-design-everyday-backpack-v2"
+    },
+    "https://packhacker.com/travel-gear/peak-design/everyday-backpack-30l-v2/": {
+      "title": "Peak Design Everyday Backpack 30L (V2) Review | Pack Hacker",
+      "description": "The Peak Design Everyday Backpack 30L (V2) is packed with thoughtful design details that work well for camera kits, EDC, and minimal travel—in that order.",
+      "image": "https://cdn.packhacker.com/2019/11/14c38cc5-peak-design-backpack-30l-v2.jpg?auto=compress&auto=format&w=1200&h=630&fit=crop",
+      "url": "https://www.packhacker.com/travel-gear/peak-design/everyday-backpack-30l-v2/"
+    },
+    "https://cleverhiker.com/more-gear/more-gear-individual-gear-reviews/osprey-nebula-32-pack-review/": {
+      "title": "Osprey Nebula 32 Pack Review | CleverHiker",
+      "description": "Perfect for bike commuting or catching the train, the Nebula 32 is a lightweight option for shorter trips. Learn more in our review",
+      "image": "https://www.cleverhiker.com/wp-content/uploads/2025/02/20250201_143623-scaled.jpg",
+      "url": "https://www.cleverhiker.com/more-gear/osprey-nebula-32-pack-review/"
+    }
+  }
+}

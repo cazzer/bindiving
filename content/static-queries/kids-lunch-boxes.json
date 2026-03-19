@@ -1,0 +1,134 @@
+{
+  "slug": "kids-lunch-boxes",
+  "query": "best kids lunch boxes",
+  "title": "Best kids lunch boxes | Bin Diving",
+  "description": "AI-dug recommendations for best kids lunch boxes. Compare options and find one that fits.",
+  "dugAt": "2026-03-18T22:26:26.760Z",
+  "recommendations": [
+    {
+      "product_name": "Bentgo Kids Leak-Proof 5-Compartment Bento-Style Lunch Box",
+      "pros": [
+        "Multiple compartments",
+        "Dishwasher-safe, BPA-free",
+        "Kid-friendly latch"
+      ],
+      "cons": [
+        "Smaller compartments for larger eaters",
+        "Some users report latch or seal issues",
+        "Requires thorough cleaning to avoid residue"
+      ],
+      "price": null,
+      "amazon_id": "B00PKNO7LK",
+      "sources": [
+        "https://www.forbes.com/sites/forbes-personal-shopper/article/best-lunch-box-for-kids/",
+        "https://www.nbcnews.com/select/shopping/best-kids-lunch-boxes-ncna1297718",
+        "https://www.goodhousekeeping.com/life/money/a64288685/bentgo-lunch-box-amazon-spring-sale-deal-2025/"
+      ],
+      "amazon_url": "https://www.amazon.com/Bentgo%C2%AE-Kids-Bento-Style-5-Compartment-Lunch/dp/B00PKNO7LK",
+      "gpt_azn": "B07R2FNH9S",
+      "image_url": "https://imgs.search.brave.com/yIWPEhW_MFrDFzABzW1H9xdmtImeDEoPunWbsLo8PYU/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9tLm1l/ZGlhLWFtYXpvbi5j/b20vaW1hZ2VzL0kv/NzF2RnJ6TXpOdUwu/anBn",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "OmieBox Hot & Cold Insulated Bento Lunch Box (with Thermos)",
+      "pros": [
+        "Keeps hot and cold foods separate",
+        "Includes leakproof thermos",
+        "Designed for young kids to open"
+      ],
+      "cons": [
+        "Bulkier/heavier than simple bento boxes",
+        "Some users report cleaning/fit quirks",
+        "Higher price point than basic containers"
+      ],
+      "price": null,
+      "amazon_id": "B074BDW6D6",
+      "sources": [
+        "https://www.omielife.com/collections/bento-lunch-boxes/products/omiebox",
+        "https://www.purewow.com/family/best-kids-lunch-box",
+        "https://www.foodnetwork.com/recipes/packages/recipes-for-kids/back-to-school/articles/best-lunchboxes-for-kids-elementary-school"
+      ],
+      "amazon_url": "https://www.amazon.com/OmieBox-Bento-Box-Kids-Compartments/dp/B074BDW6D6",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/TKEBuWNhusgnYEcb_mMfv4ZcvboM7krZSxTEr51gbBc/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly93d3cu/eW9iYWJ5c2hvcC5j/b20vY2RuL3Nob3Av/ZmlsZXMvWW9CYWJ5/U2hvcC1PbWllQm94/VXAtQ29zbWljQmx1/ZS0yLndlYnA_dj0x/NzIwNTUzMjUxJndp/ZHRoPTEwODA",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "PackIt Freezable Classic Lunch Box (Freezable Walls)",
+      "pros": [
+        "Built-in freezable walls—no separate ice pack needed",
+        "Collapsible for freezer storage",
+        "Durable, easy to wipe clean interior"
+      ],
+      "cons": [
+        "Not machine-washable—spot clean only",
+        "Horizontal shape may not fit all bento containers",
+        "Gel-lined walls add some bulk when frozen"
+      ],
+      "price": null,
+      "amazon_id": "B078H9VRTZ",
+      "sources": [
+        "https://packit.com/products/freezable-classic-lunch-box",
+        "https://www.target.com/p/-/A-88941435",
+        "https://www.walmart.com/ip/184626866"
+      ],
+      "amazon_url": "https://www.amazon.com/PackIt-Freezable-Classic-Lunch-Black/dp/B078H9VRTZ",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/2qla-0NnElAS7Db1vsRYd1v11g_tkJGjShTqmUpUsyk/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9tLm1l/ZGlhLWFtYXpvbi5j/b20vaW1hZ2VzL0kv/OTFERDBDU2FPNkwu/anBn",
+      "resolver": "brave",
+      "valid": true
+    }
+  ],
+  "resolvedLinks": {
+    "https://www.nbcnews.com/select/shopping/best-kids-lunch-boxes-ncna1297718": {
+      "title": "Getting your kid ready to return to school? Check out these highly rated lunch boxes",
+      "description": "Ahead of back-to-school season, here are some lunch boxes, bento boxes and lunch containers to help keep your child’s food safe and cold.",
+      "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/newscms/2023_33/3619162/230814-lunchboxes-aw-main.jpg",
+      "url": "https://www.nbcnews.com/select/shopping/best-kids-lunch-boxes-ncna1297718"
+    },
+    "https://www.goodhousekeeping.com/life/money/a64288685/bentgo-lunch-box-amazon-spring-sale-deal-2025/": {
+      "title": "Our Favorite Bentgo Lunchboxes Are Majorly Discounted Right Now",
+      "description": "Time to swap out your kids' grody lunchboxes.",
+      "image": "https://hips.hearstapps.com/hmg-prod/images/bentgo-sale-67e3017a3384a.png?crop=1xw:1xh;center,top&resize=1200:*",
+      "url": "https://www.goodhousekeeping.com/life/money/a64288685/bentgo-lunch-box-amazon-spring-sale-deal-2025/"
+    },
+    "https://www.omielife.com/collections/bento-lunch-boxes/products/omiebox": {
+      "title": "OmieBox® Hot & Cold Bento Lunch Box For Kids | Omie®",
+      "description": "Finally, a lunch system that stores hot and cold food so you can pack yummy, healthy meals. Double walled stainless steel bowl with vacuum insulation technology",
+      "image": "http://www.omielife.com/cdn/shop/files/8_970d903f-7c3c-436d-b36d-0c42f0396748_1200x1200.jpg?v=1771401369",
+      "url": "https://www.omielife.com/products/omiebox"
+    },
+    "https://www.purewow.com/family/best-kids-lunch-box": {
+      "title": "What’s the Best Kids’ Lunch Box? These 7 Are Kid-Tested, Mom-Approved",
+      "description": "Determining the best kids’ lunch box came down to a few factors, beyond price—durability, ease of use and cleanup (for kids and grownups alike) and size were critical. From Bentgo to budget buys from Target and Amazon, here are the top lunch boxes editors have tested.",
+      "image": "https://publish.purewow.net/wp-content/uploads/sites/2/2024/05/best-kids-lunch-box-tested-reviewed-univ.png",
+      "url": "https://www.purewow.com/family/best-kids-lunch-box"
+    },
+    "https://www.foodnetwork.com/recipes/packages/recipes-for-kids/back-to-school/articles/best-lunchboxes-for-kids-elementary-school": {
+      "title": "16 Best Lunchboxes for Kids, Tweens and Teens",
+      "description": "Whether your kid is eating at school or taking their lunch to camp, these lunchboxes will keep their food and drinks fresh.",
+      "image": "https://food.fnr.sndimg.com/content/dam/images/food/products/2021/7/23/rx_omiebox-.jpeg.rend.hgtvcom.616.493.85.suffix/1627066928216.webp",
+      "url": "https://www.foodnetwork.com/recipes/packages/recipes-for-kids/back-to-school/articles/best-lunchboxes-for-kids-elementary-school"
+    },
+    "https://packit.com/products/freezable-classic-lunch-box": {
+      "title": "EcoFreeze Lunch Box | Buy a Classic Soft Side Lunch Box Online - PackIt",
+      "description": "Shop online at PackIt.com for a collapsible soft side lunch box. This EcoFreeze lunch box features a convenient carry handle for travel to and from school. Explore more classic lunch boxes for sale at PackIt.com.",
+      "image": "http://packit.com/cdn/shop/files/freezable-classic-lunch-box-sea-shark-right-angle.jpg?v=1773853967",
+      "url": "https://packit.com/products/freezable-classic-lunch-box"
+    },
+    "https://www.target.com/p/-/A-88941435": {
+      "title": "Packit Freezable Classic Molded Lunch Box - Checked Out",
+      "description": "Read reviews and buy Packit Freezable Classic Molded Lunch Box - Checked Out at Target. Choose from contactless Same Day Delivery, Drive Up and more.",
+      "image": "https://target.scene7.com/is/image/Target/GUEST_5aa02dc5-40f3-4e47-bd5f-39866bfc31d6",
+      "url": "https://www.target.com/p/packit-freezable-classic-molded-lunch-box-checked-out/-/A-88941435"
+    },
+    "https://www.walmart.com/ip/184626866": {
+      "title": "PackIt Freezable Classic Lunch Box Black Solid Print Food BPA Free Non Toxic Polycanvas Reusable Lunch Boxes - Walmart.com",
+      "description": "Buy PackIt Freezable Classic Lunch Box Black Solid Print Food BPA Free Non Toxic Polycanvas Reusable Lunch Boxes at Walmart.com",
+      "image": "https://i5.walmartimages.com/seo/PACKITALL-CLASSIC-LUNCHBOX-Black_be045a29-9747-45c2-b872-45e90c2b60a6.60e27b8e4f3f166c20393913b76e29e3.jpeg",
+      "url": "https://www.walmart.com/ip/PACKITALL-CLASSIC-LUNCHBOX-Black/184626866"
+    }
+  }
+}

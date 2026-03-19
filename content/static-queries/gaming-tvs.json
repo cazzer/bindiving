@@ -1,0 +1,125 @@
+{
+  "slug": "gaming-tvs",
+  "query": "best gaming tvs",
+  "title": "Best gaming tvs | Bin Diving",
+  "description": "AI-dug recommendations for best gaming tvs. Compare options and find one that fits.",
+  "dugAt": "2026-03-18T21:52:30.362Z",
+  "recommendations": [
+    {
+      "product_name": "LG OLED C5 (C5 Series)",
+      "pros": [
+        "Low input lag & 4 HDMI 2.1 ports",
+        "Excellent OLED contrast and color",
+        "Strong value for price"
+      ],
+      "cons": [
+        "OLED burn-in risk with static HUDs",
+        "Brightness lower than flagship QD-OLEDs"
+      ],
+      "price": null,
+      "amazon_id": "B0DYQM4BDB",
+      "sources": [
+        "https://www.tomsguide.com/tvs/oled-tvs/the-lg-c5-oled-is-the-best-tv-you-can-buy-in-2026-and-its-almost-50-percent-off-right-now",
+        "https://www.rtings.com/tv/reviews/best/by-usage/video-gaming",
+        "https://www.lg.com/us/tvs/lg-oled65c5pua-oled-4k-tv"
+      ],
+      "amazon_url": "https://www.amazon.com/LG-Upscaling-Filmmaker-Orchestra-OLED65C5PUA/dp/B0DYQM4BDB",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/K21HBl_I7cXbG8qEFqbHmhsaTo2XBWkg1yXwU7ipGnk/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9jZG4u/bW9zLmNtcy5mdXR1/cmVjZG4ubmV0L2FS/dFhTclRqWkxpVG1r/bUZGenVYQjcuanBn",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "Samsung S95F (QD‑OLED)",
+      "pros": [
+        "Very high peak brightness for HDR gaming",
+        "Excellent color volume from QD‑OLED",
+        "Top-tier gaming features (low lag, VRR)"
+      ],
+      "cons": [
+        "Premium price",
+        "Some user-reported firmware/VRR quirks in past QD‑OLED models"
+      ],
+      "price": null,
+      "amazon_id": "B0DXMJFJ7W",
+      "sources": [
+        "https://www.techradar.com/televisions/the-best-oled-tvs",
+        "https://www.rtings.com/tv/reviews/best/by-usage/video-gaming",
+        "https://www.samsung.com/us/tvs/oled-tv/65-class-oled-tv-s95f-sku-qn65s95fafxza/"
+      ],
+      "amazon_url": "https://www.amazon.com/SAMSUNG-65-Inch-Processor-Xcelerator-Samsung/dp/B0DXMJFJ7W",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/XVCJAgQRmGoUCB_gh8QGHP6a-RyA9vDa6EE2fZ8QVT8/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9zbWFy/dGhvbWVzb3VuZHMu/c2lydi5jb20vbGl2/ZS1tYWdlbnRvL3Nv/em9faW1hZ2lmeS81/ZTU2ZGY1ZWZmMzE5/Yzk3NGMxMjUzYmQy/OWRlMWM0Zi92YXIv/d3d3X20yL3NtYXJ0/aG9tZXNvdW5kcy5j/by51ay9odGRvY3Mv/d3Avd3AtY29udGVu/dC91cGxvYWRzLzIw/MjUvMDEvc2Ftc3Vu/Zy1zOTVmLWZpcnN0/LWxvb2stdGh1bWJu/YWlsLmpwZw",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "Panasonic Z95B (Premium OLED)",
+      "pros": [
+        "Extremely high measured HDR brightness",
+        "Excellent built‑in audio for immersive gaming",
+        "Reference-grade color and processing"
+      ],
+      "cons": [
+        "Fewer HDMI 2.1 ports than some rivals",
+        "Higher price and more limited availability"
+      ],
+      "price": null,
+      "amazon_id": "B0F8M9QPJP",
+      "sources": [
+        "https://www.techradar.com/televisions/panasonic-z95b-review",
+        "https://testbeforeyoubuy.com/guides/tvs/best-oled-tv-2026",
+        "https://www.panasonic.com/content/dam/Panasonic/corporate/it/about-panasonic/news/articles/panasonic-presenta-il-modello-z95b-fiore-all-occhiello-nei-tv-oled-per-il-2025/download/Panasonic_OLED_Z95B_CES%202025_ITA_V2.pdf"
+      ],
+      "amazon_url": "https://www.amazon.com/PANASONIC-55-inch-Adaptive-Soundscape-Hands-Free/dp/B0F8M9QPJP",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/Ia6ik04ZwzufAg3gDZnAqgZnDx5zWQyNug2M-JV2KVw/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9jZG4u/bW9zLmNtcy5mdXR1/cmVjZG4ubmV0L0Jo/Z056VHhDTmozc2Y3/dm5qbnh1RVAuanBn",
+      "resolver": "brave",
+      "valid": true
+    }
+  ],
+  "resolvedLinks": {
+    "https://www.tomsguide.com/tvs/oled-tvs/the-lg-c5-oled-is-the-best-tv-you-can-buy-in-2026-and-its-almost-50-percent-off-right-now": {
+      "title": "The LG C5 OLED is the best TV you can buy in 2026, and it's almost 50% off right now",
+      "description": "Grab a huge discount on the LG C5 OLED TV",
+      "image": "https://cdn.mos.cms.futurecdn.net/aRtXSrTjZLiTmkmFFzuXB7-1510-80.jpg",
+      "url": "https://www.tomsguide.com/tvs/oled-tvs/the-lg-c5-oled-is-the-best-tv-you-can-buy-in-2026-and-its-almost-50-percent-off-right-now"
+    },
+    "https://www.rtings.com/tv/reviews/best/by-usage/video-gaming": {
+      "title": "The 6 Best Gaming TVs of 2026",
+      "description": "If you want the best of the best with almost no compromises, the best gaming TV we've tested overall is the Samsung S95F OLED.",
+      "image": "https://i.rtings.com/assets/pages/BZfoW14G/best-4k-gaming-tv-medium.jpg?format=auto",
+      "url": "https://www.rtings.com/tv/reviews/best/by-usage/video-gaming"
+    },
+    "https://www.lg.com/us/tvs/lg-oled65c5pua-oled-4k-tv": {
+      "title": "65 inch Class LG OLED evo AI C5 4K Smart TV 2025 - OLED65C5PUA | LG USA",
+      "description": "",
+      "image": "",
+      "url": "https://www.lg.com/us/tvs/lg-oled65c5pua-oled-4k-tv"
+    },
+    "https://www.techradar.com/televisions/the-best-oled-tvs": {
+      "title": "I tested this year’s best OLED TVs, and these are the ones you should spend your money on",
+      "description": "OLED tech means these elite TVs offer incredible contrast and no light bleed. Here are our top picks",
+      "image": "https://cdn.mos.cms.futurecdn.net/QUoMjPsSkCxwR4Ho7ugqXd-1920-80.jpg",
+      "url": "https://www.techradar.com/televisions/the-best-oled-tvs"
+    },
+    "https://www.samsung.com/us/tvs/oled-tv/65-class-oled-tv-s95f-sku-qn65s95fafxza/": {
+      "title": "65\" Class 4K OLED TV, Samsung Vision AI Smart TV, S95F 2025 | Samsung US",
+      "description": "Immerse yourself into a 65\" Class OLED 4K TV (S95F). Experience breathtaking visuals, pure blacks, vivid colors, and Smart TV features with Samsung Vision AI.",
+      "image": "https://image-us.samsung.com/SamsungUS/home/samsung-logo-191-1.jpg",
+      "url": "https://www.samsung.com/us/tvs/oled-tv/65-class-oled-tv-s95f-sku-qn65s95fafxza/"
+    },
+    "https://www.techradar.com/televisions/panasonic-z95b-review": {
+      "title": "I tested the Panasonic Z95B, and it’s like buying an OLED TV and getting a Dolby Atmos soundbar for free",
+      "description": "A winning combination",
+      "image": "https://cdn.mos.cms.futurecdn.net/j3jEZZDys9tfCudEKYjwTK-2560-80.jpg",
+      "url": "https://www.techradar.com/televisions/panasonic-z95b-review"
+    },
+    "https://www.panasonic.com/content/dam/Panasonic/corporate/it/about-panasonic/news/articles/panasonic-presenta-il-modello-z95b-fiore-all-occhiello-nei-tv-oled-per-il-2025/download/Panasonic_OLED_Z95B_CES%202025_ITA_V2.pdf": {
+      "title": "",
+      "description": "",
+      "image": "",
+      "url": "https://www.panasonic.com/content/dam/Panasonic/corporate/it/about-panasonic/news/articles/panasonic-presenta-il-modello-z95b-fiore-all-occhiello-nei-tv-oled-per-il-2025/download/Panasonic_OLED_Z95B_CES%202025_ITA_V2.pdf"
+    }
+  }
+}

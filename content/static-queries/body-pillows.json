@@ -1,0 +1,113 @@
+{
+  "slug": "body-pillows",
+  "query": "best body pillows",
+  "title": "Best body pillows | Bin Diving",
+  "description": "AI-dug recommendations for best body pillows. Compare options and find one that fits.",
+  "dugAt": "2026-03-18T22:05:37.370Z",
+  "recommendations": [
+    {
+      "product_name": "Coop Home Goods The Original Body Adjustable Pillow (20 x 54)",
+      "pros": [
+        "Adjustable shredded memory foam fill",
+        "Good for side sleepers & pregnancy",
+        "Machine-washable cover"
+      ],
+      "cons": [
+        "Can sleep warm for some users",
+        "Heavier than polyester inserts"
+      ],
+      "price": "$99",
+      "amazon_id": "B00OKY8BOY",
+      "sources": [
+        "https://www.tomsguide.com/best-picks/best-pillow",
+        "https://www.forbes.com/sites/forbes-personal-shopper/article/best-body-pillow//",
+        "https://www.walmart.com/ip/Coop-Home-Goods-Full-Body-Pillow-with-Adjustable-Shredded-Memory-Foam-20x54/548438472"
+      ],
+      "amazon_url": "https://www.amazon.com/Coop-Home-Goods-Body-Pillow-Full-Long-Memory-Foam-Quiet-Noiseless-Silent-Cover/dp/B00OKY8BOY",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/7DWIOpPXGETOIpbMRLtQiI-ZQOwDY014EdLHqhWSwvA/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9pLmVi/YXlpbWcuY29tL2lt/YWdlcy9nL3AzZ0FB/ZVN3MXl0cGY2SlAv/cy1sNDAwLndlYnA",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "Leachco Snoogle Total Body Pillow (Original/Horseshoe style)",
+      "pros": [
+        "Contoured horseshoe shape supports whole body",
+        "Long-established favorite for pregnancy",
+        "Breathable, machine-washable cover options"
+      ],
+      "cons": [
+        "Bulky; needs more bed space",
+        "Not as adjustable as shredded-foam pillows"
+      ],
+      "price": null,
+      "amazon_id": "B0000635WI",
+      "sources": [
+        "https://www.memoryfoammattress.org/leachco-snoogle-total-body-pillow-original/",
+        "https://amzchart.com/products/15787",
+        "https://pregily.org/leachco-back-n-belly-contoured-body-pillow/"
+      ],
+      "amazon_url": "https://www.amazon.com/Leachco-Snoogle-Original-Maternity-Pregnancy/dp/B0000635WI",
+      "gpt_azn": "B0000635WI",
+      "image_url": "https://imgs.search.brave.com/Wxz1ooaPQR-yHpDnz0INzP0Uy7007RgmoFWIRcreeqs/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9tLm1l/ZGlhLWFtYXpvbi5j/b20vaW1hZ2VzL0kv/NTFFbkx3MWFIZEwu/anBn",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "Tempur-Pedic TEMPUR-Body Pillow",
+      "pros": [
+        "Dense Tempur material for supportive contouring",
+        "Good pressure relief for side sleepers",
+        "Durable, premium memory foam construction"
+      ],
+      "cons": [
+        "Firmer feel may not suit everyone",
+        "Higher price than polyester alternatives"
+      ],
+      "price": null,
+      "amazon_id": "B003BGNIZE",
+      "sources": [
+        "https://www.tempurpedic.com/shop-pillows/bodypillow/",
+        "https://www.wired.com/gallery/best-body-pillow/",
+        "https://www.forbes.com/sites/forbes-personal-shopper/article/best-body-pillow//"
+      ],
+      "amazon_url": "https://www.amazon.com/Tempur-Pedic-TEMPUR-Body-Pressure-Adaptable-Assembled/dp/B003BGNIZE",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/8JlEybOIIr6-qcy951UjcAesUgqPVUfegox6BLxNZy4/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9pLmVi/YXlpbWcuY29tL2lt/YWdlcy9nLzBRc0FB/ZVN3RVJ0cG5FWWIv/cy1sNDAwLndlYnA",
+      "resolver": "brave",
+      "valid": true
+    }
+  ],
+  "resolvedLinks": {
+    "https://www.tomsguide.com/best-picks/best-pillow": {
+      "title": "Our top 8 pillows of 2026 for every kind of sleeper",
+      "description": "Here's our guide to the best pillows in the market for all sleeping styles, body types and budgets, tried and tested by experts.",
+      "image": "https://cdn.mos.cms.futurecdn.net/kU6pCUoSPyhxP54tz4gwR5-1920-80.jpg",
+      "url": "https://www.tomsguide.com/best-picks/best-pillow"
+    },
+    "https://www.memoryfoammattress.org/leachco-snoogle-total-body-pillow-original/": {
+      "title": "Leachco Snoogle Total Body Pillow (Original)",
+      "description": "Description and review of the Snoogle Total Body Pillow (Original) with comparisons to other body pillows.",
+      "image": "https://memoryfoammattress.org/wp-content/uploads/2017/10/Snoogle-Orig.jpg",
+      "url": "https://memoryfoammattress.org/leachco-snoogle-total-body-pillow-original/"
+    },
+    "https://amzchart.com/products/15787": {
+      "title": "亚马逊“孕妇枕”品类选品-热门“孕妇枕”产品（上级类目“枕头枕芯”）-AmzChart",
+      "description": "",
+      "image": "",
+      "url": "https://amzchart.com/products/15787"
+    },
+    "https://www.tempurpedic.com/shop-pillows/bodypillow/": {
+      "title": "BodyPillow",
+      "description": "Ideal for side-sleepers and expectant mothers, our Body Pillow™ features a medium-firm sleeve of TEMPUR® material filled with shapeable microcushions",
+      "image": "https://assets-www.tempurpedic.com/media/original_images/BodyPillow_Hero.jpg",
+      "url": "https://www.tempurpedic.com/shop-pillows/bodypillow/"
+    },
+    "https://www.wired.com/gallery/best-body-pillow/": {
+      "title": "Get the Support You Need With the Best WIRED-Tested Body Pillows for Side Sleepers",
+      "description": "From the classic body pillow to unique shapes for optimal limb support, we tested a wide range of body pillows designed for side sleepers.",
+      "image": "https://media.wired.com/photos/68d753aa589429b92c5403bf/191:100/w_1280,c_limit/The%20Best%20Body%20Pillows%20for%20Side%20Sleepers.png",
+      "url": "https://www.wired.com/gallery/best-body-pillows/"
+    }
+  }
+}

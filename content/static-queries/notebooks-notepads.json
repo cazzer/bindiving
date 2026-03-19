@@ -1,0 +1,102 @@
+{
+  "slug": "notebooks-notepads",
+  "query": "best notebooks & notepads",
+  "title": "Best notebooks & notepads | Bin Diving",
+  "description": "AI-dug recommendations for best notebooks & notepads. Compare options and find one that fits.",
+  "dugAt": "2026-03-18T16:33:45.691Z",
+  "recommendations": [
+    {
+      "product_name": "Leuchtturm1917 Hardcover Notebook (A5)",
+      "pros": [
+        "Numbered pages & index",
+        "Good all-round paper/format",
+        "Durable hardcover, lay-flat binding"
+      ],
+      "cons": [
+        "Paper may ghost with wet fountain pens",
+        "Higher cost than basic notebooks"
+      ],
+      "price": null,
+      "amazon_id": "B002CV9BBE",
+      "sources": [
+        "https://www.wired.com/gallery/the-best-paper-notebook-and-journals/",
+        "https://www.jetpens.com/Leuchtturm1917-Softcover-Notebook-Medium-A5-Powder-Dotted/pd/29183"
+      ],
+      "amazon_url": "https://www.amazon.com/Leuchtturm-Hardcover-Medium-Plain-Notebook/dp/B002CV9BBE",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/PH_J1tA7R7Sewl-chX6LTSUU_RaomQpdXWlIxpk7LUY/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9saWdo/dGhvdXNlcGFwZXIu/Y29tL2Nkbi9zaG9w/L2ZpbGVzL2xldWNo/dHR1cm0xOTE3LWhh/cmRjb3Zlci1ub3Rl/Ym9vay1hNS1ibGFu/ay1ibGFjay0xXzQw/MHgucG5nP3Y9MTc1/MDg4NjcwNQ",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "Rhodia Webnotebook (A5) / Rhodiarama",
+      "pros": [
+        "Very smooth Clairefontaine paper",
+        "Excellent for fountain pens and gel inks"
+      ],
+      "cons": [
+        "Cover can feel plain to some users",
+        "Slightly pricier than generic pads"
+      ],
+      "price": null,
+      "amazon_id": "B00PRVZ6S8",
+      "sources": [
+        "https://www.jetpens.com/Rhodia-Rhodiarama-Softcover-Webnotebook-A5-Dot-Grid-Anise/pd/21174",
+        "https://rhodiapads.com/pdf/Exaclair2023.pdf"
+      ],
+      "amazon_url": "https://www.amazon.com/Rhodia-Rhodiarama-Webnotebook-8-25-Lined/dp/B00PRVZ6S8",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/R0Yfj_CJ8_hwielwwAL8hewVTRM3HKa4QLlreGuMaK4/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly92YW5u/ZXNzMTkzOC5jb20v/Y2RuL3Nob3AvZmls/ZXMvMTE3NDU0X21h/aW5fMV83MDB4Lmpw/Zz92PTE3NDM1MjU4/NTE",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "Field Notes Original Kraft Memo Books (3-Pack)",
+      "pros": [
+        "Pocket-friendly, rugged design",
+        "Cheap, replaceable packs — great for quick notes"
+      ],
+      "cons": [
+        "Staple-bound, limited pages per book",
+        "Not ideal for fountain-pen heavy use"
+      ],
+      "price": null,
+      "amazon_id": "B0034KD9EW",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Field_Notes",
+        "https://woodlandsclothing.com/products/field-notes-original-48-page-memo-books-3-pack"
+      ],
+      "amazon_url": "https://www.amazon.com/Field-Notes-Memo-Book-Plain/dp/B0034KD9EW",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/P-k15cCNF7hNz8WrY2Ou0KxEs8lvESaGJ3Xmh8FyTH8/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9nYW1l/dGVlLmNvLnVrL2Nk/bi9zaG9wL3Byb2R1/Y3RzLzMtcGFjay1m/aWVsZC1ub3Rlcy1v/cmlnaW5hbC1rcmFm/dC1tZW1vLWJvb2tz/LXJ1bGVkLWdyYXBo/ZWQtcGxhaW4tb3It/bWl4ZWQtMzU2ODMw/LmpwZz9jcm9wPWNl/bnRlciZoZWlnaHQ9/MTIwMCZ2PTE2MDAz/NTk5MjUmd2lkdGg9/ODAw",
+      "resolver": "brave",
+      "valid": true
+    }
+  ],
+  "resolvedLinks": {
+    "https://www.wired.com/gallery/the-best-paper-notebook-and-journals/": {
+      "title": "Use It or Lose It: Write and Sketch in the Best Notebooks We Tested",
+      "description": "Celebrate National Handwriting Day (I did not make that up) with new notebooks, a journal, or sketchbooks.",
+      "image": "https://media.wired.com/photos/6972b691248c85b42bd99f91/191:100/w_1280,c_limit/The%20Best%20Paper%20Notebooks%20and%20Journals.png",
+      "url": "https://www.wired.com/gallery/the-best-paper-notebook-and-journals/"
+    },
+    "https://rhodiapads.com/pdf/Exaclair2023.pdf": {
+      "title": "",
+      "description": "",
+      "image": "",
+      "url": "https://rhodiapads.com/pdf/Exaclair2023.pdf"
+    },
+    "https://en.wikipedia.org/wiki/Field_Notes": {
+      "title": "Field Notes - Wikipedia",
+      "description": "",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/a/a5/Field_Notes_logo.png",
+      "url": "https://en.wikipedia.org/wiki/Field_Notes"
+    },
+    "https://woodlandsclothing.com/products/field-notes-original-48-page-memo-books-3-pack": {
+      "title": "Field Notes Original 48-Page Memo Books (3 Pack)",
+      "description": "Classic, durable, and ready for anything—our 48-page memo books. Each book measures 3-1/2\" × 5-1/2\" and is bound with a rugged three-staple saddle-stitch process for durability. Perfect for jotting down notes, sketches, and ideas wherever inspiration strikes.",
+      "image": "http://woodlandsclothing.com/cdn/shop/files/original_3d17e970-e597-4456-a606-6abd6c6924d0_1200x1200.jpg?v=1740709066",
+      "url": "https://woodlandsclothing.com/products/field-notes-original-48-page-memo-books-3-pack"
+    }
+  }
+}

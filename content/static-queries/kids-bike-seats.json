@@ -1,0 +1,124 @@
+{
+  "slug": "kids-bike-seats",
+  "query": "best kids bike seats",
+  "title": "Best kids bike seats | Bin Diving",
+  "description": "AI-dug recommendations for best kids bike seats. Compare options and find one that fits.",
+  "dugAt": "2026-03-18T22:38:57.380Z",
+  "recommendations": [
+    {
+      "product_name": "Hamax Caress Child Bike Seat (rear/frame)",
+      "pros": [
+        "Reclining backrest",
+        "Good suspension for smoother ride",
+        "Broad bike compatibility"
+      ],
+      "cons": [
+        "Requires specific clearance on some frames",
+        "Higher price than budget seats"
+      ],
+      "price": null,
+      "amazon_id": "B0DP3DDPT1",
+      "sources": [
+        "https://hamax.com/kid/child-bike-seat/frame-mounted/caress-bike-seat-frame-4499",
+        "https://rascalrides.com/hamax-caress-review/",
+        "https://www.twowheelingtots.com/hamax-caress-rear-bike-seat-review/"
+      ],
+      "amazon_url": "https://www.amazon.com/Hamax-Caress-Rear-Child-Bike/dp/B0DP3DDPT1",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/oQpG_5c-zHtG2BzvabgCi7f5qudhCQQMfs_DdfGc8d0/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly93d3cu/dWx0cmFwaWNrbGVi/YWxsLmNvbS9jZG4v/c2hvcC9wcm9kdWN0/cy82MUpaWjJ6VHlk/TF9ncmFuZGUuanBn/P3Y9MTU5MzE5NTAy/NA",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "Thule RideAlong (RideAlong 2) Child Bike Seat",
+      "pros": [
+        "Quick-release mounting bracket",
+        "Multiple recline positions for naps",
+        "Integrated protection wings"
+      ],
+      "cons": [
+        "Seat-model recall/chemical notice in 2024 (check model/date code)",
+        "May need adapter for some low saddles"
+      ],
+      "price": null,
+      "amazon_id": "B0DPJ664P1",
+      "sources": [
+        "https://www.thule.com/en-us/child-bike-seats/rear-mounted-child-bike-seats/thule-ridealong-2-_-100307",
+        "https://www.bicycleretailer.com/recalls/2024/04/04/thule-recalls-ridealong-kids-bike-seats-over-chemical-concern",
+        "https://www.thebabyverse.org/thule-ridealong-child-bike-seat-review-an-experts-deep-dive-on-safety-and-comfort/"
+      ],
+      "amazon_url": "https://www.amazon.com/Thule-RideAlong-Childproof-Adjustable-footrests/dp/B0DPJ664P1",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/ql-aytZrxrkIRrXI_Xb6QH9toCRzyWi4D7_wuKIRZMs/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9tLm1l/ZGlhLWFtYXpvbi5j/b20vaW1hZ2VzL1Mv/YXBsdXMtbWVkaWEv/dmMvZTMxOGY1Y2Qt/YzJlNS00ZTNiLTg5/OTItMzM4MTYwY2Ni/YjlmLl9TTDMwMF9f/LmpwZw",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "WeeRide Co-Pilot Front-Mounted Child Bike Seat",
+      "pros": [
+        "Front-mounted for eye contact and easier monitoring",
+        "Easy attach/detach and folds for storage",
+        "Good for ages ~4–9 (higher weight limits than many front seats)"
+      ],
+      "cons": [
+        "Not suitable for very young infants",
+        "Requires compatible seatpost/front frame space"
+      ],
+      "price": null,
+      "amazon_id": "B00QK4TN30",
+      "sources": [
+        "https://www.weeridekids.com/en/products/weeride-co-pilot/",
+        "https://averagejoecyclist.com/best-baby-and-child-bike-seats/"
+      ],
+      "amazon_url": "https://www.amazon.com/WeeRide-Pilot-Tagalong-Childrens-Trailer/dp/B00QK4TN30",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/BhbrgNp3SlSm-B-MBogbPoVm2BUPghg_DqtrN50KsN0/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly93d3cu/dHJpdG9uY3ljbGVz/LmNvLnVrL2ltYWdl/cy93ZWVyaWRlLWNv/LXBpbG90LXRhZ2Fs/b25nLXRyYWlsZXIt/Y2hpbGQtYmlrZS1z/ZWF0LXAzMTgxOC0x/NjAyNjVfaW1hZ2Uu/anBn",
+      "resolver": "brave",
+      "valid": true
+    }
+  ],
+  "resolvedLinks": {
+    "https://hamax.com/kid/child-bike-seat/frame-mounted/caress-bike-seat-frame-4499": {
+      "title": "Caress Bicycle Seat",
+      "description": "The top model",
+      "image": "https://hamax.com/kid/child-bike-seat/frame-mounted/caress-bike-seat-frame-4499?pid=Native-ProductBase-MainProductImage&r_n_d=579155_&adjust=1&x=1200&y=800",
+      "url": "https://hamax.com/kid/child-bike-seat/frame-mounted/caress-bike-seat-frame-4499"
+    },
+    "https://rascalrides.com/hamax-caress-review/": {
+      "title": "Hamax Caress Bike Seat Review - Rascal Rides",
+      "description": "",
+      "image": "https://rascalrides.com/wp-content/uploads/Hamax-Caress-Seat-on-Bike.jpg",
+      "url": "https://rascalrides.com/hamax-caress-review/"
+    },
+    "https://www.twowheelingtots.com/hamax-caress-rear-bike-seat-review/": {
+      "title": "Hamax Caress Child Bike Seat Review",
+      "description": "Durable construction, quick and easy adjustments, secure shoulder straps and with the ability to recline, you can't go wrong with the Hamax Carrier.",
+      "image": "https://www.twowheelingtots.com/wp-content/uploads/2020/07/Hamax-Caress-Action-5.jpg",
+      "url": "https://www.twowheelingtots.com/hamax-caress-rear-bike-seat-review/"
+    },
+    "https://www.thule.com/en-us/child-bike-seats/rear-mounted-child-bike-seats/thule-ridealong-2-_-100307": {
+      "title": "Thule RideAlong 2 | Thule | United States",
+      "description": "",
+      "image": "https://www.thule.com/-/p/WG8fC6tLeFUhSTSEbwST5qEi4NL3NVhP8aA_dcYHG2A/rs:fit/h:500/cb:4.9/w:500/plain/approved/std.lang.all/32/97/1383297.png",
+      "url": "https://www.thule.com/en-us/child-bike-seats/rear-mounted-child-bike-seats/thule-ridealong-2-_-100307"
+    },
+    "https://www.bicycleretailer.com/recalls/2024/04/04/thule-recalls-ridealong-kids-bike-seats-over-chemical-concern": {
+      "title": "Thule recalls RideAlong kids bike seats over chemical concern",
+      "description": "WASHINGTON (BRAIN) — Thule is recalling some RideAlong rear-mounted kids bike seats because the harness padding can contain an excess of a flame-retardant chemical that can be toxic if ingested or comes into contact with skin or eyes.The recall involves about 8,640 units sold in the U.S., and about 3,880 sold in Canada.Consumers should stop using the RideAlong and contact Thule Group to register for free replacement harness padding and to receive instructions on how to return the recalled padding.",
+      "image": "https://www.bicycleretailer.com/sites/default/files/images/article/thulegrayseat.png",
+      "url": "https://www.bicycleretailer.com/recalls/2024/04/04/thule-recalls-ridealong-kids-bike-seats-over-chemical-concern"
+    },
+    "https://www.thebabyverse.org/thule-ridealong-child-bike-seat-review-an-experts-deep-dive-on-safety-and-comfort/": {
+      "title": "Thule RideAlong Child Bike Seat Review: An Expert's Deep Dive on Safety and Comfort - The BabyVerse",
+      "description": "There's a unique kind of freedom that comes with cycling. It’s the wind in your face, the rhythmic hum of the tires on pavement, the simple joy of powering",
+      "image": "",
+      "url": "https://www.thebabyverse.org/thule-ridealong-child-bike-seat-review-an-experts-deep-dive-on-safety-and-comfort/"
+    },
+    "https://averagejoecyclist.com/best-baby-and-child-bike-seats/": {
+      "title": "7 of the Best Baby and Child Bike Seats for 2025 - Reviews and Videos",
+      "description": "7 of the Best Child Bike Seats to Keep your Kids Safe on Your Bike",
+      "image": "https://averagejoecyclist.com/wp-content/uploads/2017/08/7-of-the-best-child-bike-seats-header-21.jpg",
+      "url": "https://averagejoecyclist.com/best-baby-and-child-bike-seats/"
+    }
+  }
+}

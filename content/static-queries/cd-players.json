@@ -1,0 +1,109 @@
+{
+  "slug": "cd-players",
+  "query": "best cd players",
+  "title": "Best cd players | Bin Diving",
+  "description": "AI-dug recommendations for best cd players. Compare options and find one that fits.",
+  "dugAt": "2026-03-18T21:46:59.095Z",
+  "recommendations": [
+    {
+      "product_name": "Marantz CD6007",
+      "pros": [
+        "Excellent sound for the price",
+        "Built-in high-res capable DAC",
+        "USB playback support"
+      ],
+      "cons": [
+        "Relatively expensive for 'budget' tier",
+        "No streaming features"
+      ],
+      "price": "$650",
+      "amazon_id": "B08K2QB4K6",
+      "sources": [
+        "https://www.whathifi.com/best-buys/hi-fi/best-cd-players",
+        "https://www.marantz.com/en-us/product/cd-sacd-players/cd6007/300021.html"
+      ],
+      "amazon_url": "https://www.amazon.com/Marantz-CD6007-CD-Player/dp/B08K2QB4K6",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/On_mCA7GnzoIMQ1IBwfVX1JALAiQ-gtPlKLhYzcEZPI/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly93d3cu/YXVkaW9hZHZpY2Uu/Y29tL2Nkbi9zaG9w/L2ZpbGVzL2NkLWxp/ZmVfMS5qcGc_dj0x/NzE4MTQzNTQyJndp/ZHRoPTEyMDA",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "Arcam CD5",
+      "pros": [
+        "Engaging, musical presentation",
+        "Award-winning mid-range performer",
+        "Good build quality and outputs (optical/coaxial/RCA)"
+      ],
+      "cons": [
+        "No SACD support",
+        "Not a streaming device"
+      ],
+      "price": null,
+      "amazon_id": "B0DWZY7THQ",
+      "sources": [
+        "https://www.whathifi.com/best-buys/hi-fi/best-cd-players",
+        "https://www.whathifi.com/reviews/arcam-cd5"
+      ],
+      "amazon_url": "https://www.amazon.com/Arcam-CD5-Disc-Player/dp/B0DWZY7THQ",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/R8SVcQbTWAF6T-c9_nvIFDOtSioolHE9lONVSc3PiWk/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9kb3Vn/YnJhZHloaWZpLmNv/bS9jZG4vc2hvcC9m/aWxlcy9BcmNhbUNE/NUNEUGxheWVyQW5n/bGVWaWV3LmpwZz92/PTE3NTgxODk2OTIm/d2lkdGg9MTYwMA",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "Cyrus CDi",
+      "pros": [
+        "Highly detailed and dynamic sound",
+        "Longstanding What Hi‑Fi award winner",
+        "Simple, reliable design and upgradeable power options"
+      ],
+      "cons": [
+        "Basic feature set (focuses on playback quality)",
+        "Slot-loader can be noisy when loading discs"
+      ],
+      "price": "$129.98",
+      "amazon_id": "B0CP4BNG2B",
+      "sources": [
+        "https://www.whathifi.com/best-buys/hi-fi/best-cd-players",
+        "https://cyrusaudio.com/products/cdi/"
+      ],
+      "image_url": "https://images-na.ssl-images-amazon.com/images/G/01/x-locale/common/grey-pixel.gif",
+      "images": [
+        "https://images-na.ssl-images-amazon.com/images/G/01/x-locale/common/grey-pixel.gif"
+      ],
+      "amazon_url": "https://www.amazon.com/Speaker-Premium-Bluetooth-Connectivity-Tweeters/dp/B0CP4BNG2B/ref=mp_s_a_1_1?dib=eyJ2IjoiMSJ9.mCyXeHU0gC__HN4luhqPIG_80id0kyEzvKzrGWOphQCCTNA9vPHRCXvcaPtmby2cYJTqGU5QmL9y1T3027uHF2r0l-KbT9jn8G_GPPJ_qxeXO1xsmDJAehbolNbbPvpaIaT03kCJ3EIl4j0Na2CQaPfI4qiDO4wwBua7wQQ_20LIAKA57_v879eq2wrhbsk5PEbtDHJbjl5sUMPdjIeWyA.mCSgFm_UkxmbyaZmCcpjpOy5EuKCTe3FhqfhTOxlr2U&dib_tag=se&keywords=Cyrus+CDi&qid=1773870416&sr=8-1",
+      "brand": "AIWA Exos Home Speaker, Premium 30W RMS Sound System with CD Player, Bluetooth Connectivity, FM Radio, Optical Digital Input, Dual 1” Tweeters + Dual 2” Bass Units, IR Remote Control",
+      "blackFriday": false,
+      "gpt_azn": null,
+      "resolver": "cheerio",
+      "valid": true
+    }
+  ],
+  "resolvedLinks": {
+    "https://www.whathifi.com/best-buys/hi-fi/best-cd-players": {
+      "title": "From budget to premium models, these are the 6 best CD players we highly recommend",
+      "description": "Don't throw your CDs away – enjoy them on one of these fantastic disc spinners instead.",
+      "image": "https://cdn.mos.cms.futurecdn.net/Lzfx3MeLN4NHC99e75b4qZ-1920-80.jpg",
+      "url": "https://www.whathifi.com/best-buys/hi-fi/best-cd-players"
+    },
+    "https://www.marantz.com/en-us/product/cd-sacd-players/cd6007/300021.html": {
+      "title": "CD6007 - Slimline CD Player with Custom HDAM | Marantz - US",
+      "description": "",
+      "image": "https://www.marantz.com/on/demandware.static/-/Sites-master-catalog-soundunited/default/dw312ef435/marantz/PDP_Images/CD6007/CD6007-Black/CD6007-Black_Image_studio-front-on.png",
+      "url": "https://www.marantz.com/en-us/product/cd-sacd-players/cd6007/300021.html"
+    },
+    "https://www.whathifi.com/reviews/arcam-cd5": {
+      "title": "Arcam CD5 review",
+      "description": "What Hi-Fi? Awards 2025 winner. Affordable, capable and enjoyable",
+      "image": "https://cdn.mos.cms.futurecdn.net/xYrKtcMNEo5kFE3r6CnUWZ-1920-80.jpg",
+      "url": "https://www.whathifi.com/reviews/arcam-cd5"
+    },
+    "https://cyrusaudio.com/products/cdi/": {
+      "title": "Classic CDi - Cyrus Audio",
+      "description": "Integrated CD Player",
+      "image": "https://cyrusaudio.com/wp-content/uploads/2022/05/Featured-CDi_CDt.jpg",
+      "url": "https://cyrusaudio.com/products/cdi/"
+    }
+  }
+}

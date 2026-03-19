@@ -1,0 +1,117 @@
+{
+  "slug": "gaming-chairs",
+  "query": "best gaming chairs",
+  "title": "Best gaming chairs | Bin Diving",
+  "description": "AI-dug recommendations for best gaming chairs. Compare options and find one that fits.",
+  "dugAt": "2026-03-18T19:00:03.906Z",
+  "recommendations": [
+    {
+      "product_name": "Secretlab TITAN Evo 2022",
+      "pros": [
+        "Premium build and materials",
+        "Adjustable four‑way lumbar support",
+        "Wide size and upholstery options"
+      ],
+      "cons": [
+        "High price",
+        "Some users find seat firm"
+      ],
+      "price": null,
+      "amazon_id": "B0B3RDWTDD",
+      "sources": [
+        "https://www.techradar.com/gaming/best-gaming-chairs",
+        "https://www.tomsguide.com/best-picks/best-gaming-chairs",
+        "https://www.pcgamer.com/hardware/gaming-chairs/celebrate-warhammer-day-with-usd70-off-the-secretlab-titan-evo-sporting-ultramarines-colors/"
+      ],
+      "amazon_url": "https://www.amazon.com/Secretlab-Titan-Stealth-Gaming-Chair/dp/B0B3RDWTDD",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/6pVeJrFOqLw8ssiHQrxBMnZ8X-i3VQ-QPtHghmAnoXA/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9iYXNp/Yy10dXRvcmlhbHMu/Y29tL3dwLWNvbnRl/bnQvdXBsb2Fkcy8y/MDIyLzA5L3RpdGFu/LWV2by0yMDIyLWxv/cmRvc2UtMS0zOTB4/MjYwLmpwZw",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "AndaSeat Kaiser 4",
+      "pros": [
+        "Heavy‑duty frame and wide seat",
+        "Advanced lumbar system with smooth motion",
+        "Premium materials and large weight capacity"
+      ],
+      "cons": [
+        "Premium price",
+        "Large/heavy for some rooms"
+      ],
+      "price": null,
+      "amazon_id": "B0FMYM3ZQ1",
+      "sources": [
+        "https://www.andaseat.com/products/in-stock-andaseat-kaiser-4-series-premium-gaming-chair",
+        "https://www.productreviewcrew.com/review/best-gaming-chairs-2026-compared"
+      ],
+      "amazon_url": "https://www.amazon.com/Anda-Seat-Kaiser-Gaming-Adults/dp/B0FMYM3ZQ1",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/nYut9ZnhGcA55_6PPC__Hok-neCtMDXytn4KEWwAF5I/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly93d3cu/YW5kYXNlYXQuY29t/L2Nkbi9zaG9wL2Zp/bGVzL2thaXNlci00/LWdhbWluZy1jaGFp/ci1wZWJibGUtc2Vh/dC1iYXNlLXBjLTFf/MS53ZWJwP3Y9MTcy/MTk4MTI0Mw",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "Corsair TC100 (Relaxed)",
+      "pros": [
+        "Excellent budget/value pick",
+        "Comfortable fabric option",
+        "Good performance for price"
+      ],
+      "cons": [
+        "Fewer high‑end features than flagship chairs",
+        "Armrest adjustment is limited on some trims"
+      ],
+      "price": null,
+      "amazon_id": "B0BN7FDFVP",
+      "sources": [
+        "https://www.pcgamer.com/hardware/gaming-chairs/you-dont-need-to-spend-loads-for-a-quality-gaming-chair-this-corsair-tc100-is-usd160-and-one-of-our-favorites/",
+        "https://www.corsair.com/us/en/p/gaming-chairs/cf-9010052-ww/tc100-relaxed-gaming-chair-fabric-black-grey"
+      ],
+      "amazon_url": "https://www.amazon.com/Corsair-TC100-Relaxed-Gaming-Chair/dp/B0BN7FDFVP",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/rSD-5G2pVKK750yioYIixJLRec3rIZ2-FWlU6C7k86o/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9pbWFn/ZS5jb29sYmx1ZS5u/bC9tYXgvNzAweGF1/dG8vcHJvZHVjdHMv/MTk5OTk0MQ",
+      "resolver": "brave",
+      "valid": true
+    }
+  ],
+  "resolvedLinks": {
+    "https://www.techradar.com/gaming/best-gaming-chairs": {
+      "title": "Best gaming chair: we've tested a vast number of seats so you don't have to, and these are the best",
+      "description": "The top gaming chairs available right now as selected by expert testers",
+      "image": "https://cdn.mos.cms.futurecdn.net/QtuwiVfEjafsGUid5tZ6Zm-2000-80.jpg",
+      "url": "https://www.techradar.com/gaming/best-gaming-chairs"
+    },
+    "https://www.tomsguide.com/best-picks/best-gaming-chairs": {
+      "title": "Best gaming chairs of 2026: Top-tier seats for every battlestation",
+      "description": "From padded thrones to pro-grade ergonomics, these elite seats are built to keep you comfortable and playing longer",
+      "image": "https://cdn.mos.cms.futurecdn.net/uR24mGCafefdyniujCbeBf-2000-80.jpg",
+      "url": "https://www.tomsguide.com/best-picks/best-gaming-chairs"
+    },
+    "https://www.pcgamer.com/hardware/gaming-chairs/celebrate-warhammer-day-with-usd70-off-the-secretlab-titan-evo-sporting-ultramarines-colors/": {
+      "title": "Celebrate Warhammer Day with $70 off the Secretlab Titan Evo sporting Ultramarines colors",
+      "description": "Park it, and paint it.",
+      "image": "https://cdn.mos.cms.futurecdn.net/oZmhq3gjZXuSkbPWXWtU4c-1920-80.png",
+      "url": "https://www.pcgamer.com/hardware/gaming-chairs/celebrate-warhammer-day-with-usd70-off-the-secretlab-titan-evo-sporting-ultramarines-colors/"
+    },
+    "https://www.andaseat.com/products/in-stock-andaseat-kaiser-4-series-premium-gaming-chair": {
+      "title": "AndaSeat Kaiser 4 5D Armrest Gaming Chair",
+      "description": "AndaSeat's newest Kaiser 4 gaming chair. Elevate your sitting experience with Kaiser 4 gaming chair's pop-out lumbar system, stain resistant sustainable leather, 5D armrests, magnetic head pillow, stunning colors, and more.",
+      "image": "http://www.andaseat.com/cdn/shop/files/andaseat-kasier-4-series-gaming-chair-elegant-black-pcgamer_c9d27b7c-205e-4297-9567-cacca9324f29.webp?v=1744876474",
+      "url": "https://www.andaseat.com/products/in-stock-andaseat-kaiser-4-series-premium-gaming-chair"
+    },
+    "https://www.pcgamer.com/hardware/gaming-chairs/you-dont-need-to-spend-loads-for-a-quality-gaming-chair-this-corsair-tc100-is-usd160-and-one-of-our-favorites/": {
+      "title": "You don't need to spend loads for a quality gaming chair: this Corsair TC100 is $160 and one of our favorites",
+      "description": "This isn't the first time we've seen this chair at this price, but I'm glad it's come back round.",
+      "image": "https://cdn.mos.cms.futurecdn.net/zkWS5Ydr35MZps5a3tLrAc-1890-80.jpg",
+      "url": "https://www.pcgamer.com/hardware/gaming-chairs/you-dont-need-to-spend-loads-for-a-quality-gaming-chair-this-corsair-tc100-is-usd160-and-one-of-our-favorites/"
+    },
+    "https://www.corsair.com/us/en/p/gaming-chairs/cf-9010052-ww/tc100-relaxed-gaming-chair-fabric-black-grey": {
+      "title": "TC100 RELAXED Gaming Chair - Fabric Black/Grey",
+      "description": "Recline into comfort whether playing or working with the CORSAIR TC100 RELAXED Gaming Chair - Fabric, featuring a racing-inspired design with a wider seat surface.",
+      "image": "https://res.cloudinary.com/corsair-pwa/image/upload/c_scale%2Cq_auto%2Cw_96/products/Gaming-Chairs/CF-9010052-WW/Gallery/CF-9010052_01.png",
+      "url": "https://www.corsair.com/us/en/p/gaming-chairs/cf-9010052-ww/tc100-relaxed-gaming-chair-fabric-black-grey-cf-9010052-ww"
+    }
+  }
+}

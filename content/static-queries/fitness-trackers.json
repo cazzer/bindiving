@@ -1,0 +1,116 @@
+{
+  "slug": "fitness-trackers",
+  "query": "best fitness trackers",
+  "title": "Best fitness trackers | Bin Diving",
+  "description": "AI-dug recommendations for best fitness trackers. Compare options and find one that fits.",
+  "dugAt": "2026-03-18T17:29:51.262Z",
+  "recommendations": [
+    {
+      "product_name": "Fitbit Charge 6",
+      "pros": [
+        "Slim band-style design",
+        "Built-in GPS and long battery life",
+        "Good sleep & heart-rate features"
+      ],
+      "cons": [
+        "Occasional software/compatibility complaints",
+        "Some users report build/charging issues"
+      ],
+      "price": null,
+      "amazon_id": "B0CC62ZG1M",
+      "sources": [
+        "https://www.androidauthority.com/fitbit-charge-6-review-3370037/",
+        "https://www.tomsguide.com/wellness/fitness-trackers/the-fitbit-charge-6-just-crashed-to-usd99-at-amazon-lowest-price-ever"
+      ],
+      "amazon_url": "https://www.amazon.com/Fitbit-Exercise-Equipment-6-Months-Membership/dp/B0CC62ZG1M",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/vxeidmjJQLCmTf9KKF5aoVouuIylaF9Ng02-_xBLdU4/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9tZWRp/YS1jbGRucnkucy1u/YmNuZXdzLmNvbS9p/bWFnZS91cGxvYWQv/dF9maXQtNTYwdyxm/X2F1dG8scV9hdXRv/OmJlc3Qvcm9ja2Nt/cy8yMDI2LTAxLzI2/MDExMy1ET1RELWZp/dGJpdC1jaGFyZ2Ut/bW0tbWFpbi05OThk/OWEuanBn",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "Apple Watch Series 10",
+      "pros": [
+        "Comprehensive health tracking and ECG/SpO2",
+        "Deep iPhone/Fitness ecosystem integration",
+        "Fast charging and refined hardware"
+      ],
+      "cons": [
+        "Shorter battery life vs dedicated fitness watches",
+        "More expensive than band-style trackers"
+      ],
+      "price": null,
+      "amazon_id": "B0DGHQ2QH6",
+      "sources": [
+        "https://www.tomsguide.com/wellness/smartwatches/apple-watch-series-10-review",
+        "https://www.theguardian.com/technology/2024/nov/21/apple-watch-series-10-review-thinner-lighter-and-basically-the-same"
+      ],
+      "amazon_url": "https://www.amazon.com/Apple-Watch-Smartwatch-Aluminium-Always/dp/B0DGHQ2QH6",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/P2IFZ-_x1HrVN6u9C3PzG25HHMWAxpaDtjBmFmBI4PA/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9jZHNh/c3NldHMuYXBwbGUu/Y29tL2xpdmUvN1dV/QVMzNTAvaW1hZ2Vz/L2FwcGxlLXdhdGNo/L3NlcmllczQtYXBw/bGUtd2F0Y2gtYWx1/bWludW0tZ3BzLnBu/Zw",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "Garmin Forerunner 965",
+      "pros": [
+        "Top-tier GPS and running/triathlon training features",
+        "Long battery life and accurate metrics",
+        "Bright AMOLED display suited for outdoor use"
+      ],
+      "cons": [
+        "Pricey compared with basic trackers",
+        "Some users report occasional software quirks"
+      ],
+      "price": null,
+      "amazon_id": "B0BS1TN8QL",
+      "sources": [
+        "https://www.tomsguide.com/reviews/garmin-forerunner-965",
+        "https://www.techradar.com/health-fitness/smartwatches/garmin-forerunner-965-review-that-amoled-screen-brings-it-all-together-watch-out-apple"
+      ],
+      "amazon_url": "https://www.amazon.com/Garmin-Forerunner%C2%AE-Smartwatch-Colorful-Whitestone/dp/B0BS1TN8QL",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/WHEfYYNYr0q4vX2svpvEbWYlMQ6HxjNCaB0IQ7YOurU/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9hbnRp/ZW4udm4vZmlsZXMv/dXBsb2Fkcy9TS0c0/MDk4RS9TaG9rek9w/ZW5ydW5Qcm8vU2hv/a3pPcGVucnVuL1No/b2t6T3BlblN3aW0v/U2hva3pPcGVubW92/ZS9FZGdlNTQwL0Vk/Z2U4NDAvRlIyNjUv/RlI5NjUvZ2FybWlu/LWZvcmVydW5uZXIt/OTY1LXRpbmgtbmFu/Zy1kb25nLWx1Yy1o/b2MtY2hheS1iby5q/cGc",
+      "resolver": "brave",
+      "valid": true
+    }
+  ],
+  "resolvedLinks": {
+    "https://www.androidauthority.com/fitbit-charge-6-review-3370037/": {
+      "title": "Fitbit Charge 6 review: Should you buy it?",
+      "description": "Fitbit's latest tracker brings more features to the table for the same starting price. Find out more in our Fitbit Charge 6 review.",
+      "image": "https://www.androidauthority.com/wp-content/uploads/2023/11/Fitbit-Charge-6-Stats-scaled.jpg",
+      "url": "https://www.androidauthority.com/fitbit-charge-6-review-3370037/"
+    },
+    "https://www.tomsguide.com/wellness/fitness-trackers/the-fitbit-charge-6-just-crashed-to-usd99-at-amazon-lowest-price-ever": {
+      "title": "The Fitbit Charge 6 just crashed to $99 at Amazon — lowest price ever",
+      "description": "The Fitbit Charge 6 is the best fitness tracker we’ve tested, and it just hit its lowest price ever",
+      "image": "https://cdn.mos.cms.futurecdn.net/QeZn2NznZasJEcpi6cGdxS-2000-80.jpg",
+      "url": "https://www.tomsguide.com/wellness/fitness-trackers/the-fitbit-charge-6-just-crashed-to-usd99-at-amazon-lowest-price-ever"
+    },
+    "https://www.tomsguide.com/wellness/smartwatches/apple-watch-series-10-review": {
+      "title": "Apple Watch Series 10 review",
+      "description": "What to expect from Apple's flagship smartwatch",
+      "image": "https://cdn.mos.cms.futurecdn.net/U7gEYERUGF3AsMnquzTjWV-2560-80.png",
+      "url": "https://www.tomsguide.com/wellness/smartwatches/apple-watch-series-10-review"
+    },
+    "https://www.theguardian.com/technology/2024/nov/21/apple-watch-series-10-review-thinner-lighter-and-basically-the-same": {
+      "title": "Apple Watch Series 10 review: thinner, lighter and basically the same",
+      "description": "Tenth generation Apple smartwatch gets a bigger screen and body overhaul, but blink and you might miss it",
+      "image": "https://i.guim.co.uk/img/media/a2eba5727e437ad53967d2de7301e6ff51dfbb27/893_811_3797_2278/master/3797.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctYWdlLTIwMjQucG5n&enable=upscale&s=8549ef3411c3613ad62f0254d8e92f11",
+      "url": "https://www.theguardian.com/technology/2024/nov/21/apple-watch-series-10-review-thinner-lighter-and-basically-the-same"
+    },
+    "https://www.tomsguide.com/reviews/garmin-forerunner-965": {
+      "title": "Garmin Forerunner 965 review: An AMOLED screen, at last",
+      "description": "We put Garmin’s new Forerunner to the test",
+      "image": "https://cdn.mos.cms.futurecdn.net/VrmZK7Hxapt8cJjri2vEJN-2560-80.jpg",
+      "url": "https://www.tomsguide.com/reviews/garmin-forerunner-965"
+    },
+    "https://www.techradar.com/health-fitness/smartwatches/garmin-forerunner-965-review-that-amoled-screen-brings-it-all-together-watch-out-apple": {
+      "title": "Garmin Forerunner 965 review: that AMOLED screen brings it all together – watch out Apple",
+      "description": "The Garmin Forerunner 965 could be the best watch yet from the brand",
+      "image": "https://cdn.mos.cms.futurecdn.net/GLjga6Hz6gu63KP6ktSUuV-1920-80.jpg",
+      "url": "https://www.techradar.com/health-fitness/smartwatches/garmin-forerunner-965-review-that-amoled-screen-brings-it-all-together-watch-out-apple"
+    }
+  }
+}

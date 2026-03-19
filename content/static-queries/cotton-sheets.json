@@ -1,0 +1,109 @@
+{
+  "slug": "cotton-sheets",
+  "query": "best cotton sheets",
+  "title": "Best cotton sheets | Bin Diving",
+  "description": "AI-dug recommendations for best cotton sheets. Compare options and find one that fits.",
+  "dugAt": "2026-03-18T16:34:52.082Z",
+  "recommendations": [
+    {
+      "product_name": "Boll & Branch Signature Hemmed Organic Cotton Sheet Set",
+      "pros": [
+        "GOTS organic cotton",
+        "Soft & breathable",
+        "Luxury construction"
+      ],
+      "cons": [
+        "Premium price",
+        "Limited colorways"
+      ],
+      "price": null,
+      "amazon_id": "B0FXY36KVW",
+      "sources": [
+        "https://www.hgtv.com/shopping/product-reviews/best-cotton-sheets"
+      ],
+      "amazon_url": "https://www.amazon.com/BOLL-BRANCH-Turkish-Ribbed-Towel/dp/B0FXY36KVW",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/P-GXCRp9rexVH9w7kYNbVJonjgOgqXfWjG9TK0CLB2o/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly93d3cu/c2h1dHRlcnN0b2Nr/LmNvbS9pbWFnZS1w/aG90by9tYWxlLWhh/bmRzLWhvbGRpbmct/Y290dG9uLWJvbGxz/LTI2MG53LTIzNTE2/MTIxNDcuanBn",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "Coop Cotton Percale Sheet Set",
+      "pros": [
+        "Crisp percale weave",
+        "Breathable and durable",
+        "Highly rated in recent tests"
+      ],
+      "cons": [
+        "May feel cool for those who prefer sateen",
+        "Limited pattern options"
+      ],
+      "price": null,
+      "amazon_id": "B0GKVRNQ9L",
+      "sources": [
+        "https://www.tomsguide.com/mattresses/pillows-bedding/coop-cotton-percale-sheet-set-review",
+        "https://www.tomsguide.com/mattresses/pillows-bedding/toms-guide-sleep-awards-2025-best-bed-sheets"
+      ],
+      "amazon_url": "https://www.amazon.com/Percale-Cotton-Sheets-Pillowcases-Breathable/dp/B0GKVRNQ9L",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/uQpPhqZ6a19dPPLd0toLC7yyA69oCzcXjbh-V1kGSh8/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9pLnNs/ZWVwb3BvbGlzLmNv/bS8yNDgvMDkzLzEw/OC84L2ZlZWxpbmct/YS1zZXQtcGYtY29v/cC1zbGVlcC1nb29k/cy1jb3R0b24tcGVy/Y2FsZS1zaGVldHMu/d2VicA",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "Amazon Brand - Stone & Beam 100% Supima Cotton Sheet Set",
+      "pros": [
+        "Supima long-staple cotton",
+        "Good value on Amazon",
+        "Available in many sizes/colors"
+      ],
+      "cons": [
+        "Sateen can feel warm",
+        "Not organic-certified"
+      ],
+      "price": null,
+      "amazon_id": "B07BG5H95N",
+      "sources": [
+        "https://reviews.guide/supima-cotton-sheets",
+        "https://reviews.guide/supima-cotton-sheets#stone-beam"
+      ],
+      "amazon_url": "https://www.amazon.com/Stone-Beam-Cookware-Hard-Anodized-Non-Stick/dp/B07BG5H95N",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/f2wbHFruVXVlLnA1ybJeqMGjLrx2eKVbhsmeMTgb9uw/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9tLm1l/ZGlhLWFtYXpvbi5j/b20vaW1hZ2VzL0kv/ODFkclVqb2FEMkwu/anBn",
+      "resolver": "brave",
+      "valid": true
+    }
+  ],
+  "resolvedLinks": {
+    "https://www.hgtv.com/shopping/product-reviews/best-cotton-sheets": {
+      "title": "12 Best Cotton Sheets of 2026, Tested and Reviewed",
+      "description": "Cotton is one of the most popular materials for sheets, and for good reason. After testing dozens of brands, we've rounded up the best cotton sheets including budget-friendly options and specific cototn types like sateen and percale.",
+      "image": "https://hgtvhome.sndimg.com/content/dam/images/hgtv/products/2022/9/2/rx_thecompanystore_sateensheets.jpg.rend.hgtvcom.616.616.85.suffix/1662141058574.webp",
+      "url": "https://www.hgtv.com/shopping/product-reviews/best-cotton-sheets"
+    },
+    "https://www.tomsguide.com/mattresses/pillows-bedding/coop-cotton-percale-sheet-set-review": {
+      "title": "Coop Cotton Percale Sheet Set review 2025: Crisp texture and soft feel for year-round cozy comfort",
+      "description": "Made from 100% cotton for comfort and breathability, these Coop Cotton Percale bed sheets get softer with every wash",
+      "image": "https://cdn.mos.cms.futurecdn.net/QqFVnfWqQ7zXBdoNPkRvh5-2100-80.png",
+      "url": "https://www.tomsguide.com/mattresses/pillows-bedding/coop-cotton-percale-sheet-set-review"
+    },
+    "https://www.tomsguide.com/mattresses/pillows-bedding/toms-guide-sleep-awards-2025-best-bed-sheets": {
+      "title": "Tom's Guide Sleep Awards 2025: Best Bed Sheets",
+      "description": "Exceptional quality sheets for year-round use, our winners will give your bed a hotel-style look and feel",
+      "image": "https://cdn.mos.cms.futurecdn.net/EXFy9Cp5ucNJ8Vasfrchyf-1920-80.png",
+      "url": "https://www.tomsguide.com/mattresses/pillows-bedding/toms-guide-sleep-awards-2025-best-bed-sheets"
+    },
+    "https://reviews.guide/supima-cotton-sheets": {
+      "title": "10 Best Supima Cotton Sheets 2026 - Reviews.Guide.",
+      "description": "List of Top Rated Supima Cotton Sheets from thousands of customer reviews & feedback.",
+      "image": "https://reviews.guide/images/reviews-guide-preview.png",
+      "url": "https://reviews.guide/supima-cotton-sheets"
+    },
+    "https://reviews.guide/supima-cotton-sheets#stone-beam": {
+      "title": "10 Best Supima Cotton Sheets 2026 - Reviews.Guide.",
+      "description": "List of Top Rated Supima Cotton Sheets from thousands of customer reviews & feedback.",
+      "image": "https://reviews.guide/images/reviews-guide-preview.png",
+      "url": "https://reviews.guide/supima-cotton-sheets"
+    }
+  }
+}

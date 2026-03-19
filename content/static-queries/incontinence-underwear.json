@@ -1,0 +1,125 @@
+{
+  "slug": "incontinence-underwear",
+  "query": "best incontinence underwear",
+  "title": "Best incontinence underwear | Bin Diving",
+  "description": "AI-dug recommendations for best incontinence underwear. Compare options and find one that fits.",
+  "dugAt": "2026-03-18T17:55:31.729Z",
+  "recommendations": [
+    {
+      "product_name": "Depend Fit-Flex Incontinence Underwear (Depend)",
+      "pros": [
+        "Trusted brand",
+        "Good absorbency for moderate leaks"
+      ],
+      "cons": [
+        "Disposable waste",
+        "Can be noticeable under tight clothing"
+      ],
+      "price": null,
+      "amazon_id": "B09556SRJH",
+      "sources": [
+        "https://www.consumerreports.org/adaptive-living-aging-accessibility/best-incontinence-underwear-and-adult-diapers-a5954697203/",
+        "https://bestreviews.com/health-and-wellness/incontinence/best-bladder-control-underwear",
+        "https://mn.gov/dhs/assets/mhcp-incontinence-products-list-by-manufacturer_tcm1053-404291.pdf"
+      ],
+      "amazon_url": "https://www.amazon.com/Depend-FIT-Flex-Incontinence-Underwear-Absorbency/dp/B09556SRJH",
+      "gpt_azn": null,
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "TENA ProSkin Incontinence Underwear",
+      "pros": [
+        "Breathable skin-friendly design",
+        "Form-fitting, undetectable under clothing"
+      ],
+      "cons": [
+        "Disposable product cost over time",
+        "May be overkill for very light leaks"
+      ],
+      "price": null,
+      "amazon_id": "B07X2T97P1",
+      "sources": [
+        "https://shop.tena.us/products/tena-proskin-womens-incontinence-underwear",
+        "https://www.aol.com/lifestyle/best-incontinence-underwear-150804969.html",
+        "https://www.consumerreports.org/adaptive-living-aging-accessibility/best-incontinence-underwear-and-adult-diapers-a5954697203/"
+      ],
+      "amazon_url": "https://www.amazon.com/Tena-Overnight-Super-Disposable-Absorbency/dp/B07X2T97P1",
+      "gpt_azn": null,
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "Thinx / Speax by Thinx Washable Incontinence Underwear",
+      "pros": [
+        "Reusable and eco-friendly",
+        "Comfortable, looks like regular underwear"
+      ],
+      "cons": [
+        "Lower maximum absorbency than heavy disposable briefs",
+        "Absorbency can decline after many washes"
+      ],
+      "price": null,
+      "amazon_id": "B0829GT48W",
+      "sources": [
+        "https://www.thinx.com/products/bladder-lace-hi-waist",
+        "https://www.innerbody.com/best-incontinence-underwear-for-women",
+        "https://www.healthline.com/health/urinary-incontinence-underwear-pads"
+      ],
+      "amazon_url": "https://www.amazon.com/SPEAX-Hi-Waist-Underwear-Protection-XX-Large/dp/B0829GT48W",
+      "gpt_azn": null,
+      "resolver": "brave",
+      "valid": true
+    }
+  ],
+  "resolvedLinks": {
+    "https://www.consumerreports.org/adaptive-living-aging-accessibility/best-incontinence-underwear-and-adult-diapers-a5954697203/": {
+      "title": "Best Incontinence Underwear and Adult Diapers - Consumer Reports",
+      "description": "We tested adult diapers in our labs and got feedback from regular users to find the very best adult diapers and incontinence underwear.",
+      "image": "https://article.images.consumerreports.org/image/upload/t_article_tout/v1765567967/prod/content/dam/CRO-Images-2025/Health/CR-Health-Inlinehero-2-adult-diapers-1225",
+      "url": "https://www.consumerreports.org/adaptive-living-aging-accessibility/best-incontinence-underwear-and-adult-diapers-a5954697203/"
+    },
+    "https://bestreviews.com/health-and-wellness/incontinence/best-bladder-control-underwear": {
+      "title": "5 Best Bladder Control Underwear  - Mar. 2026 - BestReviews",
+      "description": "Our team of experts has selected the best bladder control underwear out of hundreds of models. Don't buy bladder control underwear before reading these reviews.",
+      "image": "https://cdn.bestreviews.com/images/v4desktop/chubby/adobestock_229477138-d5d710.jpg",
+      "url": "https://bestreviews.com/health-and-wellness/incontinence/best-bladder-control-underwear"
+    },
+    "https://mn.gov/dhs/assets/mhcp-incontinence-products-list-by-manufacturer_tcm1053-404291.pdf": {
+      "title": "",
+      "description": "",
+      "image": "",
+      "url": "https://mn.gov/dhs/assets/mhcp-incontinence-products-list-by-manufacturer_tcm1053-404291.pdf"
+    },
+    "https://shop.tena.us/products/tena-proskin-womens-incontinence-underwear": {
+      "title": "TENA ProSkin Underwear\n – TENA US Store",
+      "description": "",
+      "image": "https://cdn.shopify.com/s/files/1/0550/7150/6543/files/TENA_US_Proskin_Maximum_Beauty_NoSize_f4d9bbef-5252-47f2-baf3-d7133d45a266.png?v=1738769775",
+      "url": "https://shop.tena.us/products/tena-proskin-womens-incontinence-underwear"
+    },
+    "https://www.aol.com/lifestyle/best-incontinence-underwear-150804969.html": {
+      "title": "These are the best incontinence underwear out there, according to pelvic health specialists",
+      "description": "Looking for the best brand of incontinence underwear? Here are the ones our experts swear by.",
+      "image": "https://s.yimg.com/ny/api/res/1.2/0d4kfVwUNAaes5Z1C0S17Q--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2025-07/fa80b780-6d56-11f0-b4ff-0519eb04a62f",
+      "url": "https://www.aol.com/best-incontinence-underwear-150804969.html"
+    },
+    "https://www.thinx.com/products/bladder-lace-hi-waist": {
+      "title": "Lace High Waist Bladder Leak Underwear | ThinxCartCloseCloseCloseCloseCloseClosePlayPausePlayPauseFacebookFacebookFacebookFacebookFacebookFacebookFacebookFacebook",
+      "description": "",
+      "image": "https://cdn.shopify.com/s/files/1/0795/1599/files/TFAL_Lace_Hi-Waist_Blackberry_Front_3.jpg?v=1721166299",
+      "url": "https://www.thinx.com/products/bladder-lace-hi-waist"
+    },
+    "https://www.innerbody.com/best-incontinence-underwear-for-women": {
+      "title": "The Best Incontinence Underwear for Women [2026]",
+      "description": "We detail the most comfortable, reliable, and affordable women's incontinence underwear options.",
+      "image": "https://innerbody.imgix.net/best-incontinence-underwear-women-social-image.png",
+      "url": "https://www.innerbody.com/best-incontinence-underwear-for-women"
+    },
+    "https://www.healthline.com/health/urinary-incontinence-underwear-pads": {
+      "title": "7 Incontinence Underwear and Pads to Try",
+      "description": "If you find yourself experiencing urinary incontinence, we’ve got some good news: you’re not alone. Specially designed products can help prevent leakage. Check out these 7 underwear and pads options to get you started.",
+      "image": "https://media.post.rvohealth.io/wp-content/uploads/2020/08/12504-Incontinence_Pants_Roundup_Article-facebook-1200x628-1-1200x628.jpg",
+      "url": "https://www.healthline.com/health/urinary-incontinence-underwear-pads"
+    }
+  }
+}

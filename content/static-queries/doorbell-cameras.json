@@ -1,0 +1,113 @@
+{
+  "slug": "doorbell-cameras",
+  "query": "best doorbell cameras",
+  "title": "Best doorbell cameras | Bin Diving",
+  "description": "AI-dug recommendations for best doorbell cameras. Compare options and find one that fits.",
+  "dugAt": "2026-03-18T16:21:58.644Z",
+  "recommendations": [
+    {
+      "product_name": "Google Nest Doorbell (Wired, 3rd Gen)",
+      "pros": [
+        "Good 2K video and HDR",
+        "Strong smart-home integration (Google)"
+      ],
+      "cons": [
+        "Subscription required for cloud history",
+        "Wired installation recommended"
+      ],
+      "price": "$179.99",
+      "amazon_id": "B0FN7FK9G4",
+      "sources": [
+        "https://tech.yahoo.com/home/articles/best-video-doorbells-2026-153636971.html/",
+        "https://www.consumerreports.org/home-garden/home-security-cameras/best-video-doorbells-of-the-year-a1115426074/"
+      ],
+      "amazon_url": "https://www.amazon.com/Google-Nest-Doorbell-Wired-3rd/dp/B0FN7FK9G4",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/6HSdpL1F0lQLi2Xh1LNf4bs7dShbwTS5xtEkuojGPZw/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly85dG81/dG95cy5jb20vd3At/Y29udGVudC91cGxv/YWRzL3NpdGVzLzUv/MjAyNS8xMi9Hb29n/bGUtTmVzdC1Eb29y/YmVsbC1XaXJlZC0z/cmQtR2VuLmpwZz9x/dWFsaXR5PTgyJnN0/cmlwPWFsbCZ3PTE2/MDA",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "Ring Wired Doorbell Pro (4K)",
+      "pros": [
+        "High-resolution 4K option",
+        "Deep Alexa / Ring ecosystem integration"
+      ],
+      "cons": [
+        "Subscription required for video history",
+        "Privacy and policy concerns for some users"
+      ],
+      "price": null,
+      "amazon_id": "B0F151GFYR",
+      "sources": [
+        "https://www.tomsguide.com/us/best-video-doorbells%2Creview-4468.html",
+        "https://www.tomsguide.com/home/smart-home/amazon-just-discounted-rings-newest-video-doorbells-and-cameras-here-are-the-5-best-deals"
+      ],
+      "amazon_url": "https://www.amazon.com/Ring-Wired-Doorbell-Newest-Model/dp/B0F151GFYR",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/swfFZ-o-asYroJg4wZfFUNf-zSp_oIxa4OGD9CfbLs4/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly93d3cu/Y25ldC5jb20vYS9p/bWcvcmVzaXplL2Yz/YTk5ZTdiNjk3OWEy/NGNmNWFiNDU4OTNm/ZjQxZmM0ZmJmZjVi/MjEvaHViLzIwMjUv/MTAvMDMvNjM5OGFi/MTAtYmZlMy00N2Uy/LTgwMjgtZTA2MzUz/ZjA3ZjRlL3Jpbmct/d2lyZWQtZG9vcmJl/bGwtcHJvLTEuanBn/P2F1dG89d2VicCZo/ZWlnaHQ9NTAw",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "eufy S330 Video Doorbell",
+      "pros": [
+        "Strong on-device AI and local storage options",
+        "Positive recent hands-on reviews (good value)"
+      ],
+      "cons": [
+        "Eufy firmware/availability has varied by region",
+        "Some advanced features may need companion app"
+      ],
+      "price": null,
+      "amazon_id": "B09QFK3JWS",
+      "sources": [
+        "https://www.homesandgardens.com/solved/eufy-s330-video-doorbell-review",
+        "https://www.t3.com/home-living/smart-home/eufys-new-video-doorbell-has-the-most-affordable-and-impressive-ai-features-yet"
+      ],
+      "amazon_url": "https://www.amazon.com/eufy-Security-Battery-Powered-Detection-Recognition/dp/B09QFK3JWS",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/DDnha968hDXTurPV4-Ly4t-mbyVdTmmZpg2qVckbO0w/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9tLm1l/ZGlhLWFtYXpvbi5j/b20vaW1hZ2VzL0kv/NjFjWnNZVjVhTkwu/anBn",
+      "resolver": "brave",
+      "valid": true
+    }
+  ],
+  "resolvedLinks": {
+    "https://tech.yahoo.com/home/articles/best-video-doorbells-2026-153636971.html/": {
+      "title": "The Best Video Doorbells for 2026",
+      "description": "A video doorbell is a first line of defense against home invasion and package theft. These are the top models we've tested for improving the security of your entryway.",
+      "image": "https://s.yimg.com/lo/mysterio/api/C46D8986353B432F60F0A7A951468A69F4AC5C33519EA9AFB178A8FFF5B289AC/subgraphmysterio/resizefit_w1200;quality_90;format_webp/https:%2F%2Fs.yimg.com%2Fos%2Fen%2Fpc_mag_263%2F43e4fe8fd51893cd03f3d55d650cae96",
+      "url": "https://www.pcmag.com/picks/the-best-video-doorbells"
+    },
+    "https://www.consumerreports.org/home-garden/home-security-cameras/best-video-doorbells-of-the-year-a1115426074/": {
+      "title": "10 Best Video Doorbell Cameras of 2026, Lab-Tested and Reviewed - Consumer Reports",
+      "description": "The best video doorbell cameras from CR's latest ratings—complete with scores for data privacy and security—can ward off porch pirates and ding-dong ditchers.",
+      "image": "https://article.images.consumerreports.org/image/upload/t_article_tout/v1767387478/prod/content/dam/CRO-images-2026/Home/CR-Home-Inlinehero-v2-video-doorbells-0925",
+      "url": "https://www.consumerreports.org/home-garden/home-security-cameras/best-video-doorbells-of-the-year-a1115426074/"
+    },
+    "https://www.tomsguide.com/us/best-video-doorbells%2Creview-4468.html": {
+      "title": "Best video doorbells in 2026: Ring, Nest, Wyze and more tested",
+      "description": "These are the best video doorbells based on video quality, notifications, smart home integration and more",
+      "image": "https://cdn.mos.cms.futurecdn.net/dwdGjv9yikGx69dqhFJwaD-2000-80.jpg",
+      "url": "https://www.tomsguide.com/us/best-video-doorbells,review-4468.html"
+    },
+    "https://www.tomsguide.com/home/smart-home/amazon-just-discounted-rings-newest-video-doorbells-and-cameras-here-are-the-5-best-deals": {
+      "title": "Amazon just discounted Ring’s newest video doorbells and cameras — here are the 5 best deals",
+      "description": "Save up to 33% on these new devices",
+      "image": "https://cdn.mos.cms.futurecdn.net/wif7gefH2w2u9PHo3L6o6i-1200-80.jpg",
+      "url": "https://www.tomsguide.com/home/smart-home/amazon-just-discounted-rings-newest-video-doorbells-and-cameras-here-are-the-5-best-deals"
+    },
+    "https://www.homesandgardens.com/solved/eufy-s330-video-doorbell-review": {
+      "title": "I Installed the eufy S330 Video Doorbell Just as I Started a Whole-Home Remodel – And It Was a Lifesaver",
+      "description": "With dual cameras and smart alerts, this subscription-free video doorbell offers home security that's low-effort, low-commitment, but high effectiveness",
+      "image": "https://cdn.mos.cms.futurecdn.net/TwAtntdentJexcpJjfLoFY-1600-80.jpg",
+      "url": "https://www.homesandgardens.com/solved/eufy-s330-video-doorbell-review"
+    },
+    "https://www.t3.com/home-living/smart-home/eufys-new-video-doorbell-has-the-most-affordable-and-impressive-ai-features-yet": {
+      "title": "Eufy’s new video doorbell has the most affordable and impressive AI features yet",
+      "description": "Eufy’s CES launches are here – and it’s going to be a good year for smart home",
+      "image": "https://cdn.mos.cms.futurecdn.net/GhrLqEECu7vAdr9eap8BtR-1280-80.jpg",
+      "url": "https://www.t3.com/home-living/smart-home/eufys-new-video-doorbell-has-the-most-affordable-and-impressive-ai-features-yet"
+    }
+  }
+}

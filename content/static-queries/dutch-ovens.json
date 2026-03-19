@@ -1,0 +1,101 @@
+{
+  "slug": "dutch-ovens",
+  "query": "best dutch ovens",
+  "title": "Best dutch ovens | Bin Diving",
+  "description": "AI-dug recommendations for best dutch ovens. Compare options and find one that fits.",
+  "dugAt": "2026-03-18T16:57:32.185Z",
+  "recommendations": [
+    {
+      "product_name": "Le Creuset Enameled Cast Iron Signature Round Dutch Oven (5.5 qt)",
+      "pros": [
+        "Excellent heat retention",
+        "Long-lasting enamel finish"
+      ],
+      "cons": [
+        "High price",
+        "Heavy"
+      ],
+      "price": null,
+      "amazon_id": "B00VA5HG0Q",
+      "sources": [
+        "https://www.foodnetwork.com/how-to/packages/shopping/product-reviews/best-dutch-oven",
+        "https://www.homesandgardens.com/buying-guides/best-dutch-oven"
+      ],
+      "amazon_url": "https://www.amazon.com/Creuset-Signature-Enameled-Cast-Iron-Stainless/dp/B00VA5HG0Q",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/gXonDdXRwuH2n4kALTKeYkjsEvB3fPCz6uxyb5cxDuY/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9jYi5z/Y2VuZTcuY29tL2lz/L2ltYWdlL0NyYXRl/L0xlQ3JldVNnNXA1/cUR0Y2hPdmVuU2Vh/Uk9GMjM_JHdlYl9w/ZHBfbWFpbl9jYXJv/dXNlbF9tZWQk",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "Staub Cast Iron Round Cocotte (4.5–5.5 qt common sizes)",
+      "pros": [
+        "Matte black interior for better browning",
+        "Self-basting lid design"
+      ],
+      "cons": [
+        "Expensive",
+        "Heavier than alternatives"
+      ],
+      "price": null,
+      "amazon_id": "B000AXQADI",
+      "sources": [
+        "https://www.foodnetwork.com/how-to/packages/shopping/product-reviews/best-dutch-oven",
+        "https://www.mensjournal.com/shopping/staub-4-quart-cast-iron-dutch-oven-white-amazon-sale/"
+      ],
+      "amazon_url": "https://www.amazon.com/Staub-1102625-Round-Cocotte-5-5-quart/dp/B000AXQADI",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/k_X9ieEc3BbMl6abCfnhUmCX_BGRdJUpf8AJ53898NM/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9tLm1l/ZGlhLWFtYXpvbi5j/b20vaW1hZ2VzL0kv/NDFxVWJHNzMwU0wu/anBn",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "Lodge 6-Quart Enameled Cast Iron Dutch Oven",
+      "pros": [
+        "Great value",
+        "Durable, everyday performance"
+      ],
+      "cons": [
+        "Interior enamel not as refined as premium brands",
+        "Fewer color/finish options than premium brands"
+      ],
+      "price": null,
+      "amazon_id": "B000N4WN08",
+      "sources": [
+        "https://bestreviews.com/kitchen/cookware/best-dutch-ovens",
+        "https://bonappetit.com/story/just-buy-it-lodge-dutch-oven"
+      ],
+      "amazon_url": "https://www.amazon.com/Lodge-Quart-Enameled-Dutch-Enamel/dp/B000N4WN08",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/dfoaxy1R6cJxmmhg_JC6-hSu5tyzff_MHBn1PvCFSFw/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9pNS53/YWxtYXJ0aW1hZ2Vz/LmNvbS9zZW8vTG9k/Z2UtQ2FzdC1Jcm9u/LTYtNS1RdWFydC1F/bmFtZWxlZC1EdXRj/aC1PdmVuLUFzaF8y/YWRiYjVmMi02YmU2/LTQxYzEtYTZiNS01/MjQ1OGZlMjdkOWEu/ODlhMTcwNjY1ZmM5/YmVlNDc1YmU3ZDAx/NmFjMjUzMzIucG5n/P29kbkhlaWdodD01/NzMmb2RuV2lkdGg9/NTczJm9kbkJnPUZG/RkZGRg",
+      "resolver": "brave",
+      "valid": true
+    }
+  ],
+  "resolvedLinks": {
+    "https://www.foodnetwork.com/how-to/packages/shopping/product-reviews/best-dutch-oven": {
+      "title": "6 Best Dutch Ovens of 2026, Tested and Reviewed",
+      "description": "We braised, seared and boiled to find our favorite Dutch ovens.",
+      "image": "https://food.fnr.sndimg.com/content/dam/images/food/products/2022/12/8/FN-ProductTestingImages-20-DUTCH-OVENS-v1.png.rend.hgtvcom.616.462.85.suffix/1670600594192.webp",
+      "url": "https://www.foodnetwork.com/how-to/packages/shopping/product-reviews/best-dutch-oven"
+    },
+    "https://www.homesandgardens.com/buying-guides/best-dutch-oven": {
+      "title": "The 8 Best Dutch Ovens for Even Cooking and Decades of Use – From Heirloom Brands to Affordable Alternatives",
+      "description": "For home cooks, a good Dutch Oven is an investment that will bring you exceptional meals and easy cleanup for years to come",
+      "image": "https://cdn.mos.cms.futurecdn.net/Rrw8JQEySXTaL4JmCYC6Gh-1600-80.jpg",
+      "url": "https://www.homesandgardens.com/buying-guides/best-dutch-oven"
+    },
+    "https://bestreviews.com/kitchen/cookware/best-dutch-ovens": {
+      "title": "Best Dutch Ovens",
+      "description": "Dutch ovens are among the most versatile cookware, lending themselves not only to long, slow cooking but also to searing, boiling, roasting and even baking.",
+      "image": "https://cdn.bestreviews.com/images/v4desktop/cover-image/feature_best-dutch-ovens_2026.jpg",
+      "url": "https://bestreviews.com/kitchen/cookware/best-dutch-ovens"
+    },
+    "https://bonappetit.com/story/just-buy-it-lodge-dutch-oven": {
+      "title": "The Best Dutch Ovens for Braising, Baking, and Just About Anything",
+      "description": "Including one under $100.",
+      "image": "https://assets.bonappetit.com/photos/65948d4bad2a2bb5d1fa1fbb/16:9/w_1280,c_limit/20231109-v0224-COZY-7773.jpg",
+      "url": "https://www.bonappetit.com/story/best-dutch-ovens"
+    }
+  }
+}

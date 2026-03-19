@@ -1,0 +1,95 @@
+{
+  "slug": "singleserve-coffee-makers",
+  "query": "best single‑serve coffee makers",
+  "title": "Best single‑serve coffee makers | Bin Diving",
+  "description": "AI-dug recommendations for best single‑serve coffee makers. Compare options and find one that fits.",
+  "dugAt": "2026-03-18T17:09:54.729Z",
+  "recommendations": [
+    {
+      "product_name": "Nespresso Vertuo Next",
+      "pros": [
+        "Easy one-touch brewing",
+        "Produces full-bodied coffee and crema",
+        "Slim countertop footprint"
+      ],
+      "cons": [
+        "Requires proprietary capsules",
+        "Some models have reported reliability issues",
+        "Limited to Vertuo capsule ecosystem"
+      ],
+      "price": null,
+      "amazon_id": "B084GYKJ58",
+      "sources": [
+        "https://www.techradar.com/reviews/nespresso-vertuo-next",
+        "https://honestcoffeereviews.com/nespresso-vertuo-next-review-coffee-and-espresso-machine/"
+      ],
+      "amazon_url": "https://www.amazon.com/Nespresso-DeLonghi-ENV120WAE-Espresso-Aeroccino/dp/B084GYKJ58",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/JGOSMUXH6XJ4h9_52UjEX9CKm1csaHzfI0TDzrTPoxM/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9hc3Nl/dHMud3NpbWdzLmNv/bS93c2ltZ3Mvcmsv/aW1hZ2VzL2RwL3dj/bS8yMDI1MzcvMDAw/Mi9uZXNwcmVzc28t/dmVydHVvLW5leHQt/cHJlbWl1bS1lc3By/ZXNzby1tYWNoaW5l/LWJ5LWJyZXZpbGxl/LTctai5qcGc",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "Keurig K-Elite Single Serve Coffeemaker",
+      "pros": [
+        "Fast, convenient single‑serve K‑Cup brewing",
+        "Adjustable brew sizes and temperature control",
+        "Consistently available replacement parts and pods"
+      ],
+      "cons": [
+        "Uses single‑use K‑Cups (waste concern)",
+        "Not a true espresso-style machine",
+        "Some users report occasional reliability issues"
+      ],
+      "price": null,
+      "amazon_id": "B0788F3R8X",
+      "sources": [
+        "https://kitchen-advisor.com/keurig-k-elite-review-buyers-guide-hands-on-2025-is-this-the-best-single-serve-coffee-maker-for-busy-mornings/",
+        "https://honestcoffeereviews.com/keurig-k-elite-single-serve-coffeemaker-review/"
+      ],
+      "amazon_url": "https://www.amazon.com/Keurig-K-Elite-Strength-Temperature-Capability/dp/B0788F3R8X",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/s_4o-ZNtClSsnqDsFzV4spJGJAJ5tpNo7rrjbyOC3aU/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9tLm1l/ZGlhLWFtYXpvbi5j/b20vaW1hZ2VzL0kv/NzErTC15UVpTdkwu/anBn",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "Ninja Pods & Grounds Specialty Coffee Maker (PB051)",
+      "pros": [
+        "Brews both pods and ground coffee",
+        "Multiple cup sizes including large single‑serve options",
+        "Good versatility for different drink styles"
+      ],
+      "cons": [
+        "Pod compatibility varies by pod type",
+        "Can be bulky for very small kitchens",
+        "Some reports of grounds escaping with certain pods"
+      ],
+      "price": null,
+      "amazon_id": "B0C25Y15TL",
+      "sources": [
+        "https://www.homegrounds.co/ninja-coffee-maker-reviews/",
+        "https://pixiesbrew.com/blogs/beansblog/single-cup-coffee-maker"
+      ],
+      "amazon_url": "https://www.amazon.com/Ninja-PB051-Specialty-Single-Serve-Compatible/dp/B0C25Y15TL",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/9xixfTZrvWf9te6FH4bAz2GUqaNyhncDb4Q0d7YHpYU/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9pLmVi/YXlpbWcuY29tL3Ro/dW1icy9pbWFnZXMv/Zy8zM1FBQWVTd0h2/OW9yNVJBL3MtbDk2/MC53ZWJw",
+      "resolver": "brave",
+      "valid": true
+    }
+  ],
+  "resolvedLinks": {
+    "https://www.techradar.com/reviews/nespresso-vertuo-next": {
+      "title": "Nespresso Vertuo Next coffee maker review",
+      "description": "The simplest coffee maker we’ve ever used",
+      "image": "https://cdn.mos.cms.futurecdn.net/Rj6rDoLstb6YTWKrZCx7MD-2560-80.jpg",
+      "url": "https://www.techradar.com/reviews/nespresso-vertuo-next"
+    },
+    "https://pixiesbrew.com/blogs/beansblog/single-cup-coffee-maker": {
+      "title": "Top 7 Single Cup Coffee Maker Picks for 2026",
+      "description": "Picture the aroma of freshly brewed coffee swirling through your kitchen, promising a moment of calm crafted just for you, even on the busiest mornings. In 2026, the single cup coffee maker has become a daily essential, blending convenience and freshness with intentional ritual. This guide explores the top 7 single cup",
+      "image": "http://pixiesbrew.com/cdn/shop/articles/featured-top-7-single-cup-coffee-maker-picks-for-2026-6bcjug.jpg?v=1768306882",
+      "url": "https://pixiesbrew.com/blogs/beansblog/single-cup-coffee-maker"
+    }
+  }
+}

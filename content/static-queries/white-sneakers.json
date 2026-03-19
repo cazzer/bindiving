@@ -1,0 +1,95 @@
+{
+  "slug": "white-sneakers",
+  "query": "best white sneakers",
+  "title": "Best white sneakers | Bin Diving",
+  "description": "AI-dug recommendations for best white sneakers. Compare options and find one that fits.",
+  "dugAt": "2026-03-18T22:55:59.566Z",
+  "recommendations": [
+    {
+      "product_name": "Nike Air Force 1 '07",
+      "pros": [
+        "Timeless silhouette",
+        "Good cushioning and durability"
+      ],
+      "cons": [
+        "Can feel bulky for some outfits",
+        "shows dirt easily"
+      ],
+      "price": null,
+      "amazon_id": "B01HK4Y3KG",
+      "sources": [
+        "https://www.nationalgeographic.com/lifestyle/article/best-white-sneakers-for-travel",
+        "https://www.vogue.com/article/best-minimal-white-sneakers/"
+      ],
+      "amazon_url": "https://www.amazon.com/NIKE-Force-Shoes-White-315122-111/dp/B01HK4Y3KG",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/YaEBAl28oOzgKOhPp0BN4xGBFTKIoram38z1knkwKwM/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9pbWFn/ZXMuc3RvY2t4LmNv/bS8zNjAvTmlrZS1B/aXItRm9yY2UtMS1M/b3ctV2hpdGUtMDcv/SW1hZ2VzL05pa2Ut/QWlyLUZvcmNlLTEt/TG93LVdoaXRlLTA3/L0x2Mi9pbWcwMS5q/cGc_dz01NzYmcT02/MCZkcHI9MSZ1cGRh/dGVkX2F0PTE2MzUy/NzU0MjcmaD0zODQ",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "Adidas Stan Smith",
+      "pros": [
+        "Minimal, versatile tennis-style look",
+        "Widely available and affordable"
+      ],
+      "cons": [
+        "Some recent versions have mixed reviews on comfort",
+        "can crease over time"
+      ],
+      "price": null,
+      "amazon_id": "B0CN3SJQXS",
+      "sources": [
+        "https://www.vogue.com/article/best-minimal-white-sneakers/",
+        "https://www.forbes.com/sites/forbes-personal-shopper/article/best-white-sneakers-for-men/"
+      ],
+      "amazon_url": "https://www.amazon.com/adidas-Mens-Stan-Smith-Shoes/dp/B0CN3SJQXS",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/FVN76js1ZwxlO2kNFv4JeK2b44Qawq34QtONxS3l8sI/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9yZXZp/ZXdlZC1jb20tcmVz/LmNsb3VkaW5hcnku/Y29tL2ltYWdlL2Zl/dGNoL3MtLUstbE9L/QVROLS0vYl93aGl0/ZSxjX2xpbWl0LGNz/X3NyZ2IsZl9hdXRv/LGZsX3Byb2dyZXNz/aXZlLnN0cmlwX3By/b2ZpbGUsZ19jZW50/ZXIscV9hdXRvLHdf/NzkyL2h0dHBzOi8v/cmV2aWV3ZWQtcHJv/ZHVjdGlvbi5zMy5h/bWF6b25hd3MuY29t/L2F0dGFjaG1lbnQv/ZmY2ZGNhOGEwYjNm/NDkxOS9hZGlkYXMu/cG5n",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "Common Projects Achilles Low",
+      "pros": [
+        "Premium minimalist leather, very clean look",
+        "Long-standing fashion favorite for dressier casual wear"
+      ],
+      "cons": [
+        "High price",
+        "requires care to keep pristine white look"
+      ],
+      "price": null,
+      "amazon_id": "B084KLC3YY",
+      "sources": [
+        "https://manofmany.com/fashion/sneakers/best-white-sneakers-for-men",
+        "https://www.yahoo.com/lifestyle/articles/11-no-fail-white-sneakers-190200665.html"
+      ],
+      "amazon_url": "https://www.amazon.com/COMMON-PROJECTS-Achilles-Original-Leather/dp/B084KLC3YY",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/wM8xUXRgMYEiEXBWakJ-NEX5V0MLmGPJFj5eoEldcYI/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9pLmVi/YXlpbWcuY29tL2lt/YWdlcy9nLzdZSUFB/ZVN3aWxObzNvSm4v/cy1sNDAwLndlYnA",
+      "resolver": "brave",
+      "valid": true
+    }
+  ],
+  "resolvedLinks": {
+    "https://www.vogue.com/article/best-minimal-white-sneakers/": {
+      "title": "Simply the Best White Sneakers for Women—Plus the Ones With Kendall and Kaia’s Stamp of Approval",
+      "description": "Whether you’re searching for fashion or function, our list of best white sneakers provides a bit of it all. From designer takes (think Gucci and The Row) to heritage standbys (think Adidas and Nike), there is something for everyone here.",
+      "image": "https://assets.vogue.com/photos/68b756e7d0b8acdeeac9e92a/16:9/w_1280,c_limit/TRIP_holding%20(1).jpg",
+      "url": "https://www.vogue.com/article/best-minimal-white-sneakers"
+    },
+    "https://manofmany.com/fashion/sneakers/best-white-sneakers-for-men": {
+      "title": "8 Best White Sneakers for Men to Wear in 2024 | Man of Many",
+      "description": "Our list of the best white sneakers for men has simplicity, availability, and price point in mind. Add these pairs to add to your collection.",
+      "image": "https://manofmany.com/wp-content/uploads/2021/07/Best-White-Sneakers-for-Men.jpg",
+      "url": "https://manofmany.com/style/sneakers/best-white-sneakers-for-men"
+    },
+    "https://www.yahoo.com/lifestyle/articles/11-no-fail-white-sneakers-190200665.html": {
+      "title": "Our 15 Favorite Pairs of White Sneakers",
+      "description": "From minimalist shoes to high-fashion kicks, these are the 15 best white sneakers to shop on the market right now, from Nike, Greats, Reebok, and more.",
+      "image": "https://s.yimg.com/ny/api/res/1.2/kp2aaDJZHJyAmKQw4Gxl.w--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU7Y2Y9d2VicA--/https://media.zenfs.com/en/esquire_ecomm_articles_822/1589017a6f69f9a177e8184ac217b055",
+      "url": "https://shopping.yahoo.com/style/shoes/articles/11-no-fail-white-sneakers-190200665.html"
+    }
+  }
+}

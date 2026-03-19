@@ -1,0 +1,116 @@
+{
+  "slug": "mechanical-keyboards",
+  "query": "best mechanical keyboards",
+  "title": "Best mechanical keyboards | Bin Diving",
+  "description": "AI-dug recommendations for best mechanical keyboards. Compare options and find one that fits.",
+  "dugAt": "2026-03-18T19:37:36.662Z",
+  "recommendations": [
+    {
+      "product_name": "Keychron V1 Ultra 8K",
+      "pros": [
+        "8,000Hz polling for low-latency wireless",
+        "Excellent battery life (claimed ~660 hours)",
+        "Strong recent reviews for typing and gaming"
+      ],
+      "cons": [
+        "Newer model — limited aftermarket mods",
+        "May be pricier than basic boards"
+      ],
+      "price": "$114 (reported)",
+      "amazon_id": "B0DBZJWFDM",
+      "sources": [
+        "https://www.tomsguide.com/computing/keyboards/keychron-v1-ultra-8k-review",
+        "https://www.tomshardware.com/peripherals/keyboards/keychron-launches-wireless-q-ultra-keyboard-series-with-up-to-660-hours-of-battery-life-with-8k-polling-thanks-to-zmk-firmware"
+      ],
+      "amazon_url": "https://www.amazon.com/Keychron-Wireless-Bluetooth-Mechanical-Hot-swappable/dp/B0DBZJWFDM",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/Gc0aRYW50gGr73riYS_UGzazjP-8pIFgoiB3bGAzpy4/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly93d3cu/bm90ZWJvb2tjaGVj/ay5uZXQvZmlsZWFk/bWluL19wcm9jZXNz/ZWRfLzEvMi9jc21f/S2V5Y2hyb24tVjEt/VWx0cmEtOEstd2ly/ZWxlc3MtbWVjaGFu/aWNhbC1rZXlib2Fy/ZC1saWZlc3R5bGVf/MjRjM2U5YzhkMS5q/cGc",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "Razer BlackWidow V4 Pro",
+      "pros": [
+        "Feature-rich with Command Dial and OLED/controls",
+        "Highly customizable RGB and macro features",
+        "Widely available on Amazon and often on sale"
+      ],
+      "cons": [
+        "Higher price point",
+        "Some reports of quality/control issues from users"
+      ],
+      "price": "~$199.99 (sale reported)",
+      "amazon_id": "B0BV4BC7LV",
+      "sources": [
+        "https://www.windowscentral.com/gaming/pc-gaming/razers-blackwidow-v4-pro-keyboard-is-now-usd50-off-on-amazon-its-outstanding-for-gaming-work-and-rgb-fuelled-discos",
+        "https://www.wired.com/review/razer-blackwidow-v4-pro-75/"
+      ],
+      "amazon_url": "https://www.amazon.com/Razer-BlackWidow-Mechanical-Gaming-Keyboard/dp/B0BV4BC7LV",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/88jydKyFuZfllcdp1u8fxJuWvktxLlnATI5SGfzRb9k/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9jZG4u/bW9zLmNtcy5mdXR1/cmVjZG4ubmV0L0hm/ZWh3MlRGaDVGRTdZ/QVVnY3BEeWguanBn",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "Logitech G PRO X TKL",
+      "pros": [
+        "Trusted esports-grade performance and build",
+        "Detachable switches (variant) and solid software support",
+        "Strong value when discounted"
+      ],
+      "cons": [
+        "Relatively basic feature set vs premium boards",
+        "Several refreshed/competing Logitech models exist"
+      ],
+      "price": "~$184 (typical discounted price reported)",
+      "amazon_id": "B0BQBRPZ8M",
+      "sources": [
+        "https://9to5toys.com/2024/07/05/logitech-g-pro-mechanical-gaming-keyboard-hits-all-time-low-amazon/",
+        "https://www.rtings.com/keyboard/reviews/logitech/g-pro-x-keyboard"
+      ],
+      "amazon_url": "https://www.amazon.com/Logitech-Lightspeed-Ultra-Portable-Tenkeyless-LIGHTSYNC/dp/B0BQBRPZ8M",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/MfXliCjdh9spIL5Fhtm1dmGc1DxEKnNsft-teLIbWeE/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9wcm9z/ZXR0aW5ncy5uZXQv/d3AtY29udGVudC91/cGxvYWRzL2xvZ2l0/ZWNoLWctcHJvLXgt/dGtsLXJldmlldy1m/aWxsZXIuanBnP190/PTE3MDA1ODU0NzM",
+      "resolver": "brave",
+      "valid": true
+    }
+  ],
+  "resolvedLinks": {
+    "https://www.tomsguide.com/computing/keyboards/keychron-v1-ultra-8k-review": {
+      "title": "Keychron upgraded my favorite mechanical keyboard and packed 8,000Hz polling and 660 hours of battery into it — here’s my verdict after a week of testing",
+      "description": "The future of mechanical keyboards is bright",
+      "image": "https://cdn.mos.cms.futurecdn.net/hgFUFPhY568pmgtRdpChfM-2048-80.jpg",
+      "url": "https://www.tomsguide.com/computing/keyboards/keychron-v1-ultra-8k-review"
+    },
+    "https://www.tomshardware.com/peripherals/keyboards/keychron-launches-wireless-q-ultra-keyboard-series-with-up-to-660-hours-of-battery-life-with-8k-polling-thanks-to-zmk-firmware": {
+      "title": "Keychron launches wireless Q Ultra keyboard series with up to 660 hours of battery life with 8K polling — plus a keyboard made of marble",
+      "description": "Keychron's new special edition keyboards are made of (literal) stone.",
+      "image": "https://cdn.mos.cms.futurecdn.net/heP5N5AtuBybGU5BE2wmbK-2560-80.jpg",
+      "url": "https://www.tomshardware.com/peripherals/keyboards/keychron-launches-wireless-q-ultra-keyboard-series-with-up-to-660-hours-of-battery-life-with-8k-polling-thanks-to-zmk-firmware"
+    },
+    "https://www.windowscentral.com/gaming/pc-gaming/razers-blackwidow-v4-pro-keyboard-is-now-usd50-off-on-amazon-its-outstanding-for-gaming-work-and-rgb-fuelled-discos": {
+      "title": "This Razer keyboard just got a $50 discount— here's why gamers are calling it the ultimate RGB upgrade",
+      "description": "Packed with macro keys, dazzling lighting, and a plush wrist rest, the blackwidow v4 pro is now more affordable than ever.",
+      "image": "https://cdn.mos.cms.futurecdn.net/nxrsHLHSPjQx82GSDbfwfW-2048-80.jpg",
+      "url": "https://www.windowscentral.com/gaming/pc-gaming/razers-blackwidow-v4-pro-keyboard-is-now-usd50-off-on-amazon-its-outstanding-for-gaming-work-and-rgb-fuelled-discos"
+    },
+    "https://www.wired.com/review/razer-blackwidow-v4-pro-75/": {
+      "title": "Razer’s BlackWidow V4 Pro Is a Fancy Mechanical Keyboard With a Crazy Price",
+      "description": "The updated BlackWidow steps even further into the world of premium custom mechanical keyboards, with a price to match.",
+      "image": "https://media.wired.com/photos/674f8cfabf9b84c7253d2e92/191:100/w_1280,c_limit/Razer-BlackWidow-V4-Pro-75%25-Keyboard-Reviewer-Collage-122024-SOURCE-Henri-Robbins.jpg",
+      "url": "https://www.wired.com/review/razer-blackwidow-v4-pro-75/"
+    },
+    "https://9to5toys.com/2024/07/05/logitech-g-pro-mechanical-gaming-keyboard-hits-all-time-low-amazon/": {
+      "title": "Logitech G Pro mechanical gaming keyboard hits $60 all-time low on Amazon ($70 off)",
+      "description": "This offer has expired! Be sure to follow us on Twitter for the latest deals and more. Sign-up for our...",
+      "image": "https://i0.wp.com/9to5toys.com/wp-content/uploads/sites/5/2024/07/Logitech-G-Pro-mechanical-keyboard.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "url": "https://9to5toys.com/2024/07/05/logitech-g-pro-mechanical-gaming-keyboard-hits-all-time-low-amazon/"
+    },
+    "https://www.rtings.com/keyboard/reviews/logitech/g-pro-x-keyboard": {
+      "title": "Logitech G PRO X Keyboard Review",
+      "description": "The Logitech G PRO X Keyboard is a TenKeyLess (80%) gaming keyboard that's the successor to the Logitech G PRO Keyboard. It's nearly identical to the previous ve...",
+      "image": "https://i.rtings.com/assets/products/L8en5jwj/logitech-g-pro-x-keyboard/design-medium.jpg?format=auto",
+      "url": "https://www.rtings.com/keyboard/reviews/logitech/g-pro-x-keyboard"
+    }
+  }
+}

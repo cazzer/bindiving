@@ -1,0 +1,113 @@
+{
+  "slug": "flashlights",
+  "query": "best flashlights",
+  "title": "Best flashlights | Bin Diving",
+  "description": "AI-dug recommendations for best flashlights. Compare options and find one that fits.",
+  "dugAt": "2026-03-18T16:25:28.091Z",
+  "recommendations": [
+    {
+      "product_name": "Olight Seeker 4 Pro Rechargeable Flashlight",
+      "pros": [
+        "Extremely bright (4,600 lm)",
+        "Multiple brightness modes with smooth dimming"
+      ],
+      "cons": [
+        "Requires proprietary holster to charge",
+        "Very bright for close-up tasks"
+      ],
+      "price": null,
+      "amazon_id": "B0C9Q3Q62Q",
+      "sources": [
+        "https://www.t3.com/features/best-torch",
+        "https://www.adorama.com/olseeker4prw.html"
+      ],
+      "amazon_url": "https://www.amazon.com/OLIGHT-Rechargeable-Flashlights-Flashlight-Emergencies/dp/B0C9Q3Q62Q",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/Vs4Djdx6AkVG9vlKzVa0z0A-aY0m_D7vkT4oSIX9a7s/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9tLm1l/ZGlhLWFtYXpvbi5j/b20vaW1hZ2VzL0kv/NjFmdmNVT0pKS0wu/anBn",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "Fenix PD36R ACE Rechargeable Flashlight",
+      "pros": [
+        "Balanced throw and flood for EDC",
+        "Rugged build with long runtime"
+      ],
+      "cons": [
+        "Higher price than budget EDC lights",
+        "Button/interface can be stiff for some users"
+      ],
+      "price": null,
+      "amazon_id": "B0FX8Y7SQ5",
+      "sources": [
+        "https://gearjunkie.com/outdoor/hiking/best-flashlights",
+        "https://www.fenixlighting.com/products/fenix-pd36r-ace-flashlight"
+      ],
+      "amazon_url": "https://www.amazon.com/Fenix-Rechargeable-Flashlight-Waterproof-Emergency/dp/B0FX8Y7SQ5",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/0LQjnOfhwVPxYy0R5zDF7LAl6EwsG_cSXfmuu58DqVU/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9pbnNw/ZWN0b3JvdXRsZXQu/Y29tL2Nkbi9zaG9w/L2ZpbGVzL3Rob3Vn/aHRmdWxkZXNpZ24u/anBnP3Y9MTcxNzA5/MTc2NSZ3aWR0aD0x/NDQ1",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "Streamlight ProTac HL-X Tactical Flashlight",
+      "pros": [
+        "Proven, rugged tactical design",
+        "Multiple power options (rechargeable or CR123A)"
+      ],
+      "cons": [
+        "Counterfeit listings can appear on marketplaces",
+        "Simpler UI compared with newer models"
+      ],
+      "price": null,
+      "amazon_id": "B07B5CS8CG",
+      "sources": [
+        "https://www.streamlight.com/products/detail/protac-hl-x",
+        "https://www.batteryjunction.com/products/streamlight-protac-hlx-light-laser-opt"
+      ],
+      "amazon_url": "https://www.amazon.com/Streamlight-88074-Potrac-Flashlight-Batteries/dp/B07B5CS8CG",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/Jmklphi9_zYsAPKj4Z1JfLD7tpItBGCPxIQdYVtRDNg/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9jZG4x/MS5iaWdjb21tZXJj/ZS5jb20vcy1mNDA4/My9pbWFnZXMvc3Rl/bmNpbC81MDB4NjU5/L3Byb2R1Y3RzLzEz/MDUxNS8zMDA2NTUv/ODFpd09YbjF2Nkwu/X0FDX1NMMTUwMF9f/XzAzODQ1LjE3MTU1/NDY5NTguanBnP2M9/Mg",
+      "resolver": "brave",
+      "valid": true
+    }
+  ],
+  "resolvedLinks": {
+    "https://www.t3.com/features/best-torch": {
+      "title": "I tested the best torches of 2026, and here are my favourites",
+      "description": "Get the best torch for camping, night hiking, walking the dog or finding your way in a power cut",
+      "image": "https://cdn.mos.cms.futurecdn.net/bcZAuD2VKfvZRkxDjgAqCJ-1920-80.jpg",
+      "url": "https://www.t3.com/features/best-torch"
+    },
+    "https://www.adorama.com/olseeker4prw.html": {
+      "title": "Olight Seeker 4 Pro",
+      "description": "Olight Seeker 4 Pro High Power Cool White LED Flashlight, White",
+      "image": "https://www.adorama.com/images/300x300/olight-seeker-4-pro-white-flashlight_olseeker4prw.webp",
+      "url": "https://www.adorama.com/olight-seeker-4-pro-4600-lumen-led-flashlight-white/p/olseeker4prw"
+    },
+    "https://gearjunkie.com/outdoor/hiking/best-flashlights": {
+      "title": "The Best Flashlights of 2026",
+      "description": "We tested the best flashlights for 2026 with options for every budget. Top picks include Fenix, ThruNite, and more!",
+      "image": "https://s3.amazonaws.com/images.gearjunkie.com/uploads/2025/10/Fenix-PD36R-ACE-review.jpg",
+      "url": "https://gearjunkie.com/outdoor/hiking/best-flashlights"
+    },
+    "https://www.fenixlighting.com/products/fenix-pd36r-ace-flashlight": {
+      "title": "Fenix PD36R ACE Flashlight",
+      "description": "The Fenix PD36R ACE Rechargeable Flashlight pushes lighting to the next level. Delivering an impressive 3000 lumens with control only the ACE series offers.",
+      "image": "http://www.fenixlighting.com/cdn/shop/files/Fenix-PD36R_ACE-wShadow_1200x1200.jpg?v=1757278050",
+      "url": "https://www.fenixlighting.com/products/fenix-pd36r-ace-flashlight"
+    },
+    "https://www.streamlight.com/products/detail/protac-hl-x": {
+      "title": "ProTac® HL-X | Handheld Flashlight | Streamlight®",
+      "description": "",
+      "image": "",
+      "url": "https://www.streamlight.com/products/detail/protac-hl-x"
+    },
+    "https://www.batteryjunction.com/products/streamlight-protac-hlx-light-laser-opt": {
+      "title": "Streamlight ProTac Rail Mount HL-X Weapon Light with Laser | Battery Junction",
+      "description": "Streamlight ProTac Rail Mount HL-X Weapon Light with Laser Dual-Fuel Capable, Ten-Tap® Programming The Streamlight ProTac Rail Mount HL-X Weapon Light is the ultimate tactical light combination. The integrated red aiming laser and powerful tactical flashlight are an invaluable pairing for gun-mounted illumination. This",
+      "image": "https://www.batteryjunction.com/cdn/shop/files/streamlight-protac-rm-hlx-main_1.jpg?v=1754622926",
+      "url": "https://www.batteryjunction.com/products/streamlight-protac-hlx-light-laser-opt"
+    }
+  }
+}

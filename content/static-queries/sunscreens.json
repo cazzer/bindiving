@@ -1,0 +1,116 @@
+{
+  "slug": "sunscreens",
+  "query": "best sunscreens",
+  "title": "Best sunscreens | Bin Diving",
+  "description": "AI-dug recommendations for best sunscreens. Compare options and find one that fits.",
+  "dugAt": "2026-03-18T17:57:14.181Z",
+  "recommendations": [
+    {
+      "product_name": "EltaMD UV Clear Broad-Spectrum SPF 46",
+      "pros": [
+        "Dermatologist-recommended",
+        "Lightweight, non-greasy; good for acne-prone/sensitive skin"
+      ],
+      "cons": [
+        "Higher price point",
+        "Not water resistant"
+      ],
+      "price": "$40–$48",
+      "amazon_id": "B002MSN3QQ",
+      "sources": [
+        "https://eltamd-skincare.com/products/uv-clear-broad-spectrum-spf-46",
+        "https://www.elle.com/beauty/a32404938/elta-md-clear-sunscreen-review/",
+        "https://www.yahoo.com/lifestyle/articles/best-facial-sunscreens-2025-tested-153000004.html"
+      ],
+      "amazon_url": "https://www.amazon.com/EltaMD-Acne-Prone-Mineral-Based-Dermatologist-Recommended/dp/B002MSN3QQ",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/w4V4PuRQugN1qpz5qkEwHu3Ycn4tiJWkLKJ6BJ7A2PA/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9zaXRl/LWNkbi1tZWRpYS5k/ZXJtcHJvLmNvbS9j/YXRhbG9nL3Byb2R1/Y3QvY2FjaGUvNTg2/OTllODFhMjVkN2Vl/MDA3NGY2NWM3ZmNk/YjI2OTEvZS9sL2Vs/dGFtZC11di1jbGVh/ci1icm9hZC1zcGVj/dHJ1bS1zcGYtNDYt/Ml8xXzEucG5n",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "La Roche-Posay Anthelios Melt-In Milk Sunscreen SPF 60",
+      "pros": [
+        "High SPF (60) with lightweight, fast-absorbing texture",
+        "Well-suited for face and body; recommended for sensitive skin"
+      ],
+      "cons": [
+        "Some users report white cast on deeper skin tones",
+        "Contains chemical filters (not all reef-safe)"
+      ],
+      "price": "$24–$32",
+      "amazon_id": "B002CML1VG",
+      "sources": [
+        "https://www.laroche-posay.us/our-products/sun/body-sunscreen/anthelios-melt-in-milk-sunscreen-spf-60-3606000527355.html",
+        "https://www.allure.com/story/chemical-body-sunscreens",
+        "https://www.today.com/shop/best-spring-beauty-products-rcna198164"
+      ],
+      "amazon_url": "https://www.amazon.com/Roche-Posay-Anthelios-Melt-Sunscreen-Milk/dp/B002CML1VG",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/DSesRXzZduvZl-Dno4nXxD5YaVUMJCNUvlZs1cEN4Lg/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly84YzM0/MTJkNzYyMjVkMDRk/N2JhYS1iZTk4YjZl/YTE3OTIwOTUzZmI5/MzEyODJlZmY5YTY4/MS5pbWFnZXMubG92/ZWx5c2tpbi5jb20v/aHBnc29ldGRfMjAy/MjA1MDUxNjQwMTk1/NDczLmpwZw",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "Neutrogena Ultra Sheer Dry-Touch Sunscreen SPF 55",
+      "pros": [
+        "Affordable drugstore option",
+        "Lightweight, matte 'dry-touch' finish"
+      ],
+      "cons": [
+        "Some formula changes/users report variable performance",
+        "May feel drying for very dry skin"
+      ],
+      "price": "$6–$15",
+      "amazon_id": "B000EPA4GQ",
+      "sources": [
+        "https://www.neutrogena.com/products/sun/ultra-sheer-dry-touch-sunscreen-broad-spectrum-spf-55/6868790.html",
+        "https://www.beautysoldhere.com/categories/sunscreen/neutrogena-ultra-sheer-dry-touch-spf-55",
+        "https://thebeautyduty.com/2025/10/12/best-sunscreen-for-face-2025/"
+      ],
+      "amazon_url": "https://www.amazon.com/Neutrogena-Dry-Touch-Resistant-Non-Greasy-Sunscreen/dp/B000EPA4GQ",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/U_BjupeNV5uAvuhob03GjKQYEYA69k_r7cdGNuZXD_k/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9tLm1l/ZGlhLWFtYXpvbi5j/b20vaW1hZ2VzL0kv/MzE2aElCeXhDMUwu/anBn",
+      "resolver": "brave",
+      "valid": true
+    }
+  ],
+  "resolvedLinks": {
+    "https://www.elle.com/beauty/a32404938/elta-md-clear-sunscreen-review/": {
+      "title": "The One Sunscreen I Look Forward To Applying Everyday",
+      "description": "EltaMD's UV Clear is the Beyoncé of sunscreens.",
+      "image": "https://hips.hearstapps.com/hmg-prod/images/elleloves-eltamd-sunscreen-index-1588867149.jpg?crop=1.00xw:1.00xh;0,0&resize=1200:*",
+      "url": "https://www.elle.com/beauty/a32404938/elta-md-clear-sunscreen-review/"
+    },
+    "https://www.yahoo.com/lifestyle/articles/best-facial-sunscreens-2025-tested-153000004.html": {
+      "title": "We Found the Best Facial Sunscreens of 2025 After Testing 87 Products",
+      "description": "We’ve spent several sunny months testing 87 popular sunscreens. This is our ultimate summer guide to the best sunscreens for your face.",
+      "image": "https://s.yimg.com/ny/api/res/1.2/LI6vSjUEOoE2jv08XmeS5g--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU7Y2Y9d2VicA--/https://media.zenfs.com/en/cnet_articles_178/92678e1e5e8f267baf8618282905a7e7",
+      "url": "https://www.yahoo.com/lifestyle/articles/best-facial-sunscreens-2025-tested-153000004.html"
+    },
+    "https://www.allure.com/story/chemical-body-sunscreens": {
+      "title": "These Body Sunscreens Are a Joy to Slather On",
+      "description": "No white cast, no rubbing, no problem.",
+      "image": "https://media.allure.com/photos/68306aaca0278c490a7f0f89/16:9/w_1280,c_limit/5.22_ALL_Chemical-Body-Sunscreens.jpg",
+      "url": "https://www.allure.com/story/chemical-body-sunscreens"
+    },
+    "https://www.today.com/shop/best-spring-beauty-products-rcna198164": {
+      "title": "The Best Spring Beauty Products for a Routine Reset, According to a Dermatologist",
+      "description": "Spring clean with these dermatologist-loved beauty essentials.",
+      "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_social_share_1200x630_center,f_auto,q_auto:best/rockcms/2026-03/260303-spring-beauty-cleanout-mm-main-b0608d.jpg",
+      "url": "https://www.today.com/shop/best-beauty-products-spring-2026-rcna261399"
+    },
+    "https://www.neutrogena.com/products/sun/ultra-sheer-dry-touch-sunscreen-broad-spectrum-spf-55/6868790.html": {
+      "title": "Ultra Sheer® Dry-Touch Non-Comedogenic Sunscreen Lotion",
+      "description": "Protect skin with NEUTROGENA® Dry-Touch Sunscreen Lotion with Broad Spectrum SPF 55. This travel-sized sunscreen is lightweight for a non-greasy feel.",
+      "image": "https://images.ctfassets.net/bcjr30vxh6td/5rWPgt21sJBorQuXFD45Ll/1504097c91b67951208953df94995a14/6868790-carousel-1-2023-08",
+      "url": "https://www.neutrogena.com/products/sun/ultra-sheer-dry-touch-sunscreen-broad-spectrum-spf-55/6868790.html"
+    },
+    "https://www.beautysoldhere.com/categories/sunscreen/neutrogena-ultra-sheer-dry-touch-spf-55": {
+      "title": "Neutrogena Ultra Sheer Dry-Touch SPF 55 | Best Beauty Products",
+      "description": "Affordable non-greasy sunscreen with dry-touch finish.",
+      "image": "https://www.beautysoldhere.com/images/items/beauty/neutrogena-ultra-sheer-dry-touch-spf-55.jpg",
+      "url": "https://www.beautysoldhere.com/items/neutrogena-ultra-sheer-dry-touch-spf-55"
+    }
+  }
+}

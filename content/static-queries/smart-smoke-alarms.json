@@ -1,0 +1,121 @@
+{
+  "slug": "smart-smoke-alarms",
+  "query": "best smart smoke alarms",
+  "title": "Best smart smoke alarms | Bin Diving",
+  "description": "AI-dug recommendations for best smart smoke alarms. Compare options and find one that fits.",
+  "dugAt": "2026-03-18T16:25:02.250Z",
+  "recommendations": [
+    {
+      "product_name": "First Alert SC5 Battery Smart Smoke & Carbon Monoxide Alarm",
+      "pros": [
+        "Google Home integration",
+        "Photoelectric + electrochemical sensors"
+      ],
+      "cons": [
+        "Some user-reported false-alarms",
+        "Quieter voice alerts than Nest Protect"
+      ],
+      "price": "$129 (approx)",
+      "amazon_id": "B0DS2W3794",
+      "sources": [
+        "https://www.tomsguide.com/us/best-smart-smoke-detectors%2Creview-4472.html",
+        "https://www.firstalert.com/us/en/SC5-compatible-alarms/"
+      ],
+      "amazon_url": "https://www.amazon.com/First-Alert-Battery-Monoxide-SMCO600NV/dp/B0DS2W3794",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/qKbkrDsiRQ_ltXPJMSMnWP_Mbp818nSGJnvr-H79Kl0/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9pLmVi/YXlpbWcuY29tL2lt/YWdlcy9nL1ZCVUFB/ZVN3RX5KcEwwaUcv/cy1sNTAwLmpwZw",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "Kidde Smart Smoke Alarm with Ring (Ring-integrated Kidde)",
+      "pros": [
+        "Ring app real-time alerts",
+        "Affordable price point"
+      ],
+      "cons": [
+        "Hardwired vs battery model availability varies",
+        "Newer product with evolving firmware/features"
+      ],
+      "price": "$54.97 (smart smoke) / $74.97 (smoke+CO) (reported)",
+      "amazon_id": "B0F7N7WGWY",
+      "sources": [
+        "https://techcrunch.com/2025/01/06/kiddes-new-smoke-detectors-have-ring-technology-built-in/",
+        "https://aboutamazon.com/news/devices/ring-features-smart-smoke-alarms-kidde/",
+        "https://ring.com/carbon-monoxide-smoke-detector-kidde"
+      ],
+      "amazon_url": "https://www.amazon.com/Kidde-Monoxide-Real-Time-Notifications-Hardwired/dp/B0F7N7WGWY",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/dsmy-_ADXcBXa75GvA6Mf80GS2h02WAmKwu0-vOTRUs/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9wbGF0/Zm9ybS50aGV2ZXJn/ZS5jb20vd3AtY29u/dGVudC91cGxvYWRz/L3NpdGVzLzIvY2hv/cnVzL3VwbG9hZHMv/Y2hvcnVzX2Fzc2V0/L2ZpbGUvMjU4MTIz/ODEvS2lkZGVfU21h/cnRfU21va2VfQWxh/cm1zX3dpdGhfUmlu/Z19fMV8ucG5nP3F1/YWxpdHk9OTAmc3Ry/aXA9YWxsJmNyb3A9/MCwwLDEwMCwxMDAm/dz0yNDAw",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "Eufy Smoke Alarm E10",
+      "pros": [
+        "Photoelectric sensor to reduce false alarms",
+        "Long battery life (reported ~5 years)"
+      ],
+      "cons": [
+        "Requires Eufy HomeBase for full functionality",
+        "Newer launch — regional availability varies"
+      ],
+      "price": "$45.99 (reported)",
+      "amazon_id": "B0FB8NYT9S",
+      "sources": [
+        "https://www.t3.com/home-living/smart-home/eufy-unveils-smart-smoke-alarm-that-silences-with-a-quick-tap",
+        "https://www.forbes.com/sites/paullamkin/2026/02/19/eufy-rolls-out-three-new-smart-sensors-in-a-busy-week-of-launches/",
+        "https://www.eufy.com/products/t90s0121"
+      ],
+      "amazon_url": "https://www.amazon.com/eufy-Ultra-Compact-Communication-Compatible-Professional/dp/B0FB8NYT9S",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/TNmsnJT6MAZ9rxtirDEXYSkS0wy5_cvHUvnAyL99URA/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9jZG4u/c2hvcGlmeS5jb20v/cy9maWxlcy8xLzA1/MDQvNzA5NC80OTU0/L2ZpbGVzL1Q5MFMw/MTIxX1VTXzEyMDBY/MTIwMF9lMmVkYWYz/Ny1lNzk0LTRmOTct/YjcwYS03M2ZhMTBj/YzFiNjcucG5nP3Y9/MTc1ODg2MTg1OSZ3/aWR0aD0xOTIw",
+      "resolver": "brave",
+      "valid": true
+    }
+  ],
+  "resolvedLinks": {
+    "https://www.tomsguide.com/us/best-smart-smoke-detectors%2Creview-4472.html": {
+      "title": "Best smart smoke detectors in 2025",
+      "description": "The best smart smoke detectors add a layer of connectivity to this essential device in your home.",
+      "image": "https://cdn.mos.cms.futurecdn.net/jrfbzfcRCFdYhSLZZJAExT-1000-80.jpg",
+      "url": "https://www.tomsguide.com/us/best-smart-smoke-detectors,review-4472.html"
+    },
+    "https://www.firstalert.com/us/en/SC5-compatible-alarms/": {
+      "title": "SC5 Compatible Smoke and Carbon Monoxide Alarms",
+      "description": "See compatible units to interconnect and create a smart and connected fire and CO safety system.",
+      "image": "",
+      "url": "https://www.firstalert.com/pages/sc5-compatible-alarms"
+    },
+    "https://techcrunch.com/2025/01/06/kiddes-new-smoke-detectors-have-ring-technology-built-in/": {
+      "title": "Kidde’s new smoke detectors have Ring technology built in | TechCrunch",
+      "description": "Amazon announced a partnership with Kidde at CES 2025 on Monday that brings its Ring technology to the home safety stalwart’s smoke alarms. There will be",
+      "image": "https://techcrunch.com/wp-content/uploads/2025/01/ring-2.jpg?resize=1200,785",
+      "url": "https://techcrunch.com/2025/01/06/kiddes-new-smoke-detectors-have-ring-technology-built-in/"
+    },
+    "https://aboutamazon.com/news/devices/ring-features-smart-smoke-alarms-kidde/": {
+      "title": "3 things you didn’t know about Ring",
+      "description": "Ring offers way more than doorbells and cameras—and it’s always working to keep you better connected.",
+      "image": "https://assets.aboutamazon.com/dims4/default/b14f06d/2147483647/strip/true/crop/2000x1000+0+50/resize/1200x600!/quality/90/?url=https%3A%2F%2Famazon-blogs-brightspot.s3.amazonaws.com%2F2f%2F05%2F0522053c4aa2ad6b557d39cfd729%2Fring-devices-2000.jpg",
+      "url": "https://www.aboutamazon.com/news/devices/ring-features-smart-smoke-alarms-kidde"
+    },
+    "https://ring.com/carbon-monoxide-smoke-detector-kidde": {
+      "title": "KIDDE Wired Smart Smoke & Carbon Monoxide Alarm",
+      "description": "",
+      "image": "https://images.ctfassets.net/a3peezndovsu/35aej99T1Gv98WvdcufuGU/2607f2fa3628ab771deb505a58b0e4aa/ring_kidde_smoke_and_co_alarm_1500x1500.jpg",
+      "url": "https://ring.com/products/kidde-smart-smoke-carbon-monoxide-alarm"
+    },
+    "https://www.t3.com/home-living/smart-home/eufy-unveils-smart-smoke-alarm-that-silences-with-a-quick-tap": {
+      "title": "Eufy unveils smart smoke alarm that silences with a quick tap",
+      "description": "It joins a lineup of three other smart sensors revealed this week",
+      "image": "https://cdn.mos.cms.futurecdn.net/iCqUWGuB6VyyySnCJiWeu7-876-80.jpg",
+      "url": "https://www.t3.com/home-living/smart-home/eufy-unveils-smart-smoke-alarm-that-silences-with-a-quick-tap"
+    },
+    "https://www.eufy.com/products/t90s0121": {
+      "title": "eufy Smoke Alarm E10",
+      "description": "Detect smoke early without cooking false alarms. Ultra-compact design blends into any room with 5-year battery life for reliable fire protection. Shop now.",
+      "image": "https://cdn.shopify.com/s/files/1/0504/7094/4954/files/T90S0121_US_1200X1200_e2edaf37-e794-4f97-b70a-73fa10cc1b67.png?v=1758861859",
+      "url": "https://www.eufy.com/products/t90s0121"
+    }
+  }
+}

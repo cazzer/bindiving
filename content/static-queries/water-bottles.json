@@ -1,0 +1,119 @@
+{
+  "slug": "water-bottles",
+  "query": "best water bottles",
+  "title": "Best water bottles | Bin Diving",
+  "description": "AI-dug recommendations for best water bottles. Compare options and find one that fits.",
+  "dugAt": "2026-03-18T18:41:37.970Z",
+  "recommendations": [
+    {
+      "product_name": "Hydro Flask 32 oz Wide Mouth (Wide Mouth 2.0)",
+      "pros": [
+        "Excellent insulation",
+        "Wide-mouth easy to fill/clean",
+        "Large lid ecosystem (straw/chug)"
+      ],
+      "cons": [
+        "Heavier than plastic bottles",
+        "Can dent if dropped"
+      ],
+      "price": "$49.95",
+      "amazon_id": "B08XRQF3DW",
+      "sources": [
+        "https://gearjunkie.com/outdoor/best-water-bottles",
+        "https://www.hydroflask.com/32-oz-wide-mouth-aloe",
+        "https://www.tomsguide.com/best-picks/best-water-bottles"
+      ],
+      "amazon_url": "https://www.amazon.com/Hydro-Flask-W32BTS618-Water-Bottle/dp/B08XRQF3DW",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/IbExyGt5DBZETG5Ux0kO6tN3dXg8O3m_MVZPLcFbqsQ/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9oaWdo/Y291bnRyeW91dGZp/dHRlcnMuY29tL2Nk/bi9zaG9wL2ZpbGVz/L2h5ZHJvLWZsYXNr/LTMyLW96LXdpZGUt/bW91dGgtMi0wLXdp/dGgtZmxleC1jYXAt/MDgtZHJpbmt3YXJl/LXdhdGVyLWJvdHRs/ZXMtYWdhdmUtNjY0/LnBuZz9jcm9wPWNl/bnRlciZoZWlnaHQ9/MTUwMCZ2PTE3Mjk4/OTU2ODMmd2lkdGg9/MTUwMA",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "YETI Rambler 26 oz Bottle (Chug/Straw options)",
+      "pros": [
+        "Durable stainless steel construction",
+        "Very good temperature retention",
+        "Leak-resistant lids available"
+      ],
+      "cons": [
+        "Heavier than some competitors",
+        "Higher price for premium brand"
+      ],
+      "price": "$34.99",
+      "amazon_id": "B0842S56G8",
+      "sources": [
+        "https://www.yeti.com/drinkware/hydration/chug-bottle-26oz.html",
+        "https://www.outdoorgearlab.com/reviews/camping-and-hiking/water-bottle/yeti-rambler-26",
+        "https://www.cnn.com/amp/cnn-underscored/reviews/best-water-bottle"
+      ],
+      "amazon_url": "https://www.amazon.com/YETI-Rambler-Bottle-Insulated-Stainless/dp/B0842S56G8",
+      "gpt_azn": "B0842S68B4",
+      "image_url": "https://imgs.search.brave.com/u419DO73SUyDscVFuRB947aMwWH07A7ESANfWmORjSY/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9zb3V0/aGVybnNlYXNvbi5j/b20vY2RuL3Nob3Av/ZmlsZXMveWV0aS1y/YW1ibGVyLTI2LW96/LXdhdGVyLWJvdHRs/ZS13aXRoLXN0cmF3/LWNhcC1zZWFmb2Ft/LTM4MjM5MTMxNTY2/MjQzXzEyMDB4LnBu/Zz92PTE3MDYwMzM5/Njg",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "Nalgene Tritan Wide Mouth 32 oz",
+      "pros": [
+        "Lightweight and virtually indestructible",
+        "Very affordable",
+        "Wide mouth makes filling and cleaning easy"
+      ],
+      "cons": [
+        "No thermal insulation (not for hot/cold retention)",
+        "Plastic can retain odors over long use"
+      ],
+      "price": "$12.80",
+      "amazon_id": "B00FIFE0B2",
+      "sources": [
+        "https://www.rei.com/product/185814/nalgene-sustain-wide-mouth-water-bottle-32-fl-oz",
+        "https://gearjunkie.com/outdoor/best-water-bottles",
+        "https://www.walmart.com/ip/15479006919"
+      ],
+      "amazon_url": "https://www.amazon.com/Nalgene-32oz-Tritan-Mouth-Bottle/dp/B00FIFE0B2",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/iHR_OjJ143O-96pQyDn76oAGHouAtM_YB8l1vm1jP9Y/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9pbWFn/ZXMtbmEuc3NsLWlt/YWdlcy1hbWF6b24u/Y29tL2ltYWdlcy9J/LzYxSFhqdVd0RVJM/LmpwZw",
+      "resolver": "brave",
+      "valid": true
+    }
+  ],
+  "resolvedLinks": {
+    "https://gearjunkie.com/outdoor/best-water-bottles": {
+      "title": "The Best Water Bottles of 2026",
+      "description": "We tested and ranked our favorite water bottles for 2025, with options from YETI, Nalgene, and more.",
+      "image": "https://s3.amazonaws.com/images.gearjunkie.com/uploads/2024/08/IMG_5813-1.jpg",
+      "url": "https://gearjunkie.com/outdoor/best-water-bottles"
+    },
+    "https://www.tomsguide.com/best-picks/best-water-bottles": {
+      "title": "11 best water bottles to buy in 2025, tested and rated",
+      "description": "11 of the best water bottles to buy in 2025 according to our testing",
+      "image": "https://cdn.mos.cms.futurecdn.net/u2T3dB3AnygbuyUzHrf6Ba-2000-80.jpg",
+      "url": "https://www.tomsguide.com/best-picks/best-water-bottles"
+    },
+    "https://www.yeti.com/drinkware/hydration/chug-bottle-26oz.html": {
+      "title": "YETI Rambler 26 oz Insulated Water Bottle",
+      "description": "Our dishwasher-safe 26 oz reusable bottle, made of kitchen-grade stainless steel, comes in many colors. Vacuum insulated and 100% leakproof. Fast shipping.",
+      "image": "https://yeti-webmedia.imgix.net/m/6be64329365d2654/W-Drinkware_BottleChug_26oz_Navy_Studio_PrimaryB.png?bg=0fff&auto=format,compress&w=846&h=846",
+      "url": "https://www.yeti.com/drinkware/hydration/chug-bottle-26oz.html"
+    },
+    "https://www.outdoorgearlab.com/reviews/camping-and-hiking/water-bottle/yeti-rambler-26": {
+      "title": "The Best Water Bottles of 2026",
+      "description": "We tested the 16 best water bottles, including popular models by Hydro Flask, Klean Kanteen, Purist, CamelBak, Yeti, Nalgene, and more.",
+      "image": "https://d1i8d6ce8wwubf.cloudfront.net/photos/33/47/456189_7902_XXL.jpg",
+      "url": "https://www.outdoorgearlab.com/topics/camping-and-hiking/best-water-bottle"
+    },
+    "https://www.cnn.com/amp/cnn-underscored/reviews/best-water-bottle": {
+      "title": "Best water bottles of 2026, tried and tested | CNN Underscored",
+      "description": "I tested 36 of the best water bottles for months, measuring their durability, drinkability and more. After all my tests, three contenders rose to the top.",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/best-water-bottle-lead-badged-2026-cnnu.jpg?c=16x9&q=w_800,c_fill",
+      "url": "https://www.cnn.com/cnn-underscored/reviews/best-water-bottle"
+    },
+    "https://www.walmart.com/ip/15479006919": {
+      "title": "Nalgene Wide Mouth Sustain Bottle - 32 oz. -  Astro Motel - Walmart.com",
+      "description": "Buy Nalgene Wide Mouth Sustain Bottle - 32 oz. -  Astro Motel at Walmart.com",
+      "image": "https://i5.walmartimages.com/seo/Nalgene-Wide-Mouth-Sustain-Bottle-32-oz-Astro-Motel_b4549752-c748-4cec-97b9-54ec5caca6cb.ce5668c4d1db24c848249b3b5ee34759.jpeg",
+      "url": "https://www.walmart.com/ip/Nalgene-Wide-Mouth-Sustain-Bottle-32-oz-Astro-Motel/15479006919"
+    }
+  }
+}

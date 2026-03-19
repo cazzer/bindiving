@@ -1,0 +1,86 @@
+{
+  "slug": "sheets",
+  "query": "best sheets",
+  "title": "Best sheets | Bin Diving",
+  "description": "AI-dug recommendations for best sheets. Compare options and find one that fits.",
+  "dugAt": "2026-03-18T16:34:33.525Z",
+  "recommendations": [
+    {
+      "product_name": "Cozy Earth Bamboo Sheet Set",
+      "pros": [
+        "Very soft and cooling",
+        "Good for hot sleepers"
+      ],
+      "cons": [
+        "Higher price point",
+        "May pill for some users"
+      ],
+      "price": null,
+      "amazon_id": "B008Q5PKOW",
+      "sources": [
+        "https://www.tomsguide.com/mattresses/pillows-bedding/cozy-earth-bamboo-sheet-set-review"
+      ],
+      "amazon_url": "https://www.amazon.com/Cozy-Earth-Premium-Bamboo-Sheets/dp/B008Q5PKOW",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/n__zInvYA1aTt1wPUp_by9dWAf4rEtUzXV7l8MWFs4I/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9tLm1l/ZGlhLWFtYXpvbi5j/b20vaW1hZ2VzL0kv/MzFsTDVzRUgzdUwu/anBn",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "Brooklinen Luxe Sateen Core Sheet Set",
+      "pros": [
+        "Luxurious sateen feel",
+        "Well-reviewed for drape and comfort"
+      ],
+      "cons": [
+        "Sateen can be warmer than percale",
+        "May show wear over many washes"
+      ],
+      "price": null,
+      "amazon_id": "B07SLKNXD8",
+      "sources": [
+        "https://www.tomsguide.com/mattresses/pillows-bedding/brooklinen-luxe-sateen-core-sheet-set"
+      ],
+      "amazon_url": "https://www.amazon.com/Brooklinen-Luxe-Core-Sheet-Set/dp/B07SLKNXD8",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/sQskVTHEF7EityyoDz71F1nquWrWpj77EL1VZnekCAs/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly93d3cu/bWVuc2pvdXJuYWwu/Y29tLy5pbWFnZS93/XzM4NDAscV9hdXRv/Omdvb2QsY19maWxs/LGFyXzE2OjkvTWpF/ek5ESXdNamd3TmpR/NU9EZzFOVE16L2Jy/b29rbGluZW4tbHV4/ZS1zYXRlZW4tY29y/ZS1zaGVldC1zZXQt/c2FsZS5qcGc_YXJl/bmFfZl9hdXRv",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "Boll & Branch Signature Hemmed Sheet Set",
+      "pros": [
+        "High-quality long-staple cotton",
+        "Trusted brand with ethical sourcing"
+      ],
+      "cons": [
+        "Expensive compared with basics",
+        "Limited availability on some colors/sizes"
+      ],
+      "price": null,
+      "amazon_id": "B0FXY36KVW",
+      "sources": [
+        "https://www.forbes.com/sites/forbes-personal-shopper/article/best-amazon-sheets/"
+      ],
+      "amazon_url": "https://www.amazon.com/BOLL-BRANCH-Turkish-Ribbed-Towel/dp/B0FXY36KVW",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/P-GXCRp9rexVH9w7kYNbVJonjgOgqXfWjG9TK0CLB2o/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly93d3cu/c2h1dHRlcnN0b2Nr/LmNvbS9pbWFnZS1w/aG90by9tYWxlLWhh/bmRzLWhvbGRpbmct/Y290dG9uLWJvbGxz/LTI2MG53LTIzNTE2/MTIxNDcuanBn",
+      "resolver": "brave",
+      "valid": true
+    }
+  ],
+  "resolvedLinks": {
+    "https://www.tomsguide.com/mattresses/pillows-bedding/cozy-earth-bamboo-sheet-set-review": {
+      "title": "Cozy Earth Bamboo Sheet Set Review 2025: Luxuriously soft and cooling for those prone to sleeping hot",
+      "description": "Are these luxurious bed sheets worth their premium price tag? We put them to the test",
+      "image": "https://cdn.mos.cms.futurecdn.net/jwKBwGmxwBN9wQMU4P9pAQ-2100-80.png",
+      "url": "https://www.tomsguide.com/mattresses/pillows-bedding/cozy-earth-bamboo-sheet-set-review"
+    },
+    "https://www.tomsguide.com/mattresses/pillows-bedding/brooklinen-luxe-sateen-core-sheet-set": {
+      "title": "We tested this sateen sheet set — and it will immediately give your bedroom luxury hotel vibes",
+      "description": "Luxurious, high-quality and comfortable year-round",
+      "image": "https://cdn.mos.cms.futurecdn.net/4Eu22vMGTm9EvihGqj93se-2100-80.png",
+      "url": "https://www.tomsguide.com/mattresses/pillows-bedding/brooklinen-luxe-sateen-core-sheet-set"
+    }
+  }
+}

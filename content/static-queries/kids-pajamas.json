@@ -1,0 +1,105 @@
+{
+  "slug": "kids-pajamas",
+  "query": "best kids pajamas",
+  "title": "Best kids pajamas | Bin Diving",
+  "description": "AI-dug recommendations for best kids pajamas. Compare options and find one that fits.",
+  "dugAt": "2026-03-18T22:22:19.202Z",
+  "recommendations": [
+    {
+      "product_name": "Hanna Andersson Organic Cotton Pajamas (HannaJams)",
+      "pros": [
+        "High-quality organic cotton",
+        "Durable and long-lasting",
+        "Popular prints & matching family sets"
+      ],
+      "cons": [
+        "Higher price than budget brands",
+        "Sizing can run small for some kids"
+      ],
+      "price": null,
+      "amazon_id": "B07VYSS9DW",
+      "sources": [
+        "https://www.forbes.com/sites/forbes-personal-shopper/article/best-kids-pajamas/",
+        "https://www.hannaandersson.com/pajamas-kids/83916-4CR.html"
+      ],
+      "amazon_url": "https://www.amazon.com/Hanna-Andersson-Pajamas-Organic-Cotton/dp/B07VYSS9DW",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/msc0fCPvrHWJIB5vo0KULXjoLNfh9pmpr9jNckWRU8Y/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9pLmVi/YXlpbWcuY29tL2lt/YWdlcy9nL3RTUUFB/T1N3UHMxbkNDRUgv/cy1sNTAwLmpwZw",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "Little Sleepies Bamboo-Blend Kids Pajamas (Two-Piece or Zippie)",
+      "pros": [
+        "Ultra-soft bamboo/modal blend",
+        "Breathable and stretchy; good for sensitive skin",
+        "Wide range of prints and sizes including matching family options"
+      ],
+      "cons": [
+        "Can be pricier than basic cotton sets",
+        "Some users report variability in durability and sizing"
+      ],
+      "price": null,
+      "amazon_id": "B0BJSKTMDN",
+      "sources": [
+        "https://www.forbes.com/sites/forbes-personal-shopper/article/best-kids-pajamas/",
+        "https://littlesleepies.com/",
+        "https://seekandscore.com/little-sleepies-review/"
+      ],
+      "amazon_url": "https://www.amazon.com/Little-Sleepies-Two-Piece-Sleepwear-Matching/dp/B0BJSKTMDN",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/o2Vewzeph5S2vh8Uw_l54xGBJivEikDO6AfHVEN_IN8/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly93d3cu/Ymxvc3NvbS5iYWJ5/L3dwLWNvbnRlbnQv/d2VicC1leHByZXNz/L3dlYnAtaW1hZ2Vz/L3VwbG9hZHMvMjAy/MS8wMS9wanMtc3dl/ZXRoZWFydC1mbG9y/YWwtdHdvLXBpZWNl/LWJhbWJvby12aXNj/b3NlLXBhamFtYS1z/ZXQtMl8xMzIweC04/MDB4MTIwMC5qcGcu/d2VicA",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "Burt's Bees Baby 100% Organic Cotton Pajamas",
+      "pros": [
+        "GOTS/organic cotton; breathable and gentle on skin",
+        "Affordable and widely available on Amazon",
+        "Roomier fit appreciated for chunkier or long-torso babies"
+      ],
+      "cons": [
+        "Limited styles in bigger kid sizes",
+        "Mostly basic designs compared with boutique brands"
+      ],
+      "price": null,
+      "amazon_id": "B0CLQV9C89",
+      "sources": [
+        "https://burtsbeesbaby.com/collections/organic-kids-pajamas",
+        "https://www.forbes.com/sites/forbes-personal-shopper/article/best-kids-pajamas/"
+      ],
+      "amazon_url": "https://www.amazon.com/Burts-Bees-Baby-baby-boys-One-piece/dp/B0CLQV9C89",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/7e11Ju-mhP0V6OcpW_AyihqFlIVAaa_FX1b0WuNQwNA/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9tLm1l/ZGlhLWFtYXpvbi5j/b20vaW1hZ2VzL0kv/NjFld21zOFRIOEwu/anBn",
+      "resolver": "brave",
+      "valid": true
+    }
+  ],
+  "resolvedLinks": {
+    "https://www.hannaandersson.com/pajamas-kids/83916-4CR.html": {
+      "title": "Disney Mickey Mouse HannaJams™ Pajama Set | Hanna Andersson",
+      "description": "",
+      "image": "",
+      "url": "https://www.hannaandersson.com/pajamas-kids/83916-4CR.html"
+    },
+    "https://littlesleepies.com/": {
+      "title": "Matching PJs & Daywear for Babies, Kids & Adults | Bamboo Pajamas",
+      "description": "From adorable PJ prints that keep your families snug at bedtime to trendy daywear that ensures they’re cute and comfy for their daily adventures, Little Sleepies has the entire family covered in bamboo pajamas from infants to adults!",
+      "image": "https://cdn.shopify.com/s/files/1/0039/6479/7046/files/Untitled_design_15_37f82e7d-442e-4575-b4a1-930899ec1fb3.png?v=1763746234",
+      "url": "https://littlesleepies.com/"
+    },
+    "https://seekandscore.com/little-sleepies-review/": {
+      "title": "Little Sleepies Review",
+      "description": "Discover why Little Sleepies is the go-to brand for cozy, high-quality sleepwear in our comprehensive review. Explore top-selling products and firsthand experiences.",
+      "image": "https://seekandscore.com/wp-content/uploads/2024/08/Little-Sleepies.jpg",
+      "url": "https://seekandscore.com/little-sleepies-review/"
+    },
+    "https://burtsbeesbaby.com/collections/organic-kids-pajamas": {
+      "title": "Kids Organic Cotton Pajamas | Burt's Bees Baby®",
+      "description": "Explore our cozy, sustainable kids pajamas for ages 6-12. Perfect for dreamy adventures, ensuring your little ones sleep in comfort. Shop the perfect fit now!",
+      "image": "",
+      "url": "https://burtsbeesbaby.com/collections/organic-kids-pajamas"
+    }
+  }
+}

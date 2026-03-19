@@ -1,0 +1,103 @@
+{
+  "slug": "massage-guns",
+  "query": "best massage guns",
+  "title": "Best massage guns | Bin Diving",
+  "description": "AI-dug recommendations for best massage guns. Compare options and find one that fits.",
+  "dugAt": "2026-03-18T17:28:13.464Z",
+  "recommendations": [
+    {
+      "product_name": "Therabody Theragun Prime",
+      "pros": [
+        "Strong percussive power",
+        "Ergonomic triangle handle",
+        "App-guided routines"
+      ],
+      "cons": [
+        "Higher price than budget options",
+        "Some reported battery/service complaints"
+      ],
+      "price": null,
+      "amazon_id": "B0FKCJNHWB",
+      "sources": [
+        "https://www.forbes.com/sites/forbes-personal-shopper/article/best-massage-guns//",
+        "https://www.tomsguide.com/reviews/therabody-theragun-prime"
+      ],
+      "amazon_url": "https://www.amazon.com/TheraGun-Prime-Generation-Massage-Therabody/dp/B0FKCJNHWB",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/bXONjGxE6J1EOH3c_vNAtXviRH38QW9Op_-ZpGVP4hY/rs:fit:0:180:1:0/g:ce/aHR0cHM6Ly9pLmVi/YXlpbWcuY29tL2lt/YWdlcy9nL3Vkc0FB/ZVN3RElWcFcxQmgv/cy1sMjI1LmpwZw",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "Hyperice Hypervolt 3 Pro",
+      "pros": [
+        "Newer generation with improved quiet operation",
+        "Competitive pricing vs Theragun",
+        "Designed for professional-level recovery"
+      ],
+      "cons": [
+        "Top-tier model is heavier/larger",
+        "May be priced above budget models"
+      ],
+      "price": null,
+      "amazon_id": "B0G82HR62V",
+      "sources": [
+        "https://www.t3.com/active/hypericehypervolt-3-collection-launch-0326",
+        "https://www.wired.com/story/best-massage-guns/"
+      ],
+      "amazon_url": "https://www.amazon.com/Hyperice-Hypervolt-Pro-Professional-Attachments/dp/B0G82HR62V",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/E0KAH5GHZT_4KGywjmUt5Ivm2NOvgSSHWInjXSqJmLQ/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9pcnVu/ZmFyLmNvbS93cC1j/b250ZW50L3VwbG9h/ZHMvSHlwZXJpY2Ut/SHlwZXJ2b2x0LTIt/UHJvLVByb2R1Y3Qt/TGF5b3V0LXdpdGgt/QXR0YWNobWVudC1I/ZWFkcy5qcGc",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "Bob and Brad M7 Plus Mini",
+      "pros": [
+        "Very affordable",
+        "Compact and portable with heat attachment option"
+      ],
+      "cons": [
+        "Lower amplitude than pro models",
+        "Shorter battery life at max speed"
+      ],
+      "price": "$89",
+      "amazon_id": "B0DCJYKMQM",
+      "sources": [
+        "https://www.tomsguide.com/wellness/fitness/bob-and-brad-m7-plus-mini-massage-gun-review",
+        "https://www.verywellfit.com/best-massage-guns-4800201"
+      ],
+      "amazon_url": "https://www.amazon.com/BOB-BRAD-M7-Plus-Percussion/dp/B0DCJYKMQM",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/y24No4NjffNhJMuM48KuxbN9Vi6P8Fo1er5QWAeiN3Y/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly91bmRl/cnlvdXJzLmNvbS9j/ZG4vc2hvcC9maWxl/cy82MUg4NFRXR3FV/TC5qcGc_dj0xNzQ3/ODEzNjIwJndpZHRo/PTE1MDA",
+      "resolver": "brave",
+      "valid": true
+    }
+  ],
+  "resolvedLinks": {
+    "https://www.tomsguide.com/reviews/therabody-theragun-prime": {
+      "title": "Therabody Theragun Prime review",
+      "description": "While expensive, this powerful massage gun will take care of all your muscles",
+      "image": "https://cdn.mos.cms.futurecdn.net/xuU3yXovCQfea4jKdwJVK5-2000-80.jpg",
+      "url": "https://www.tomsguide.com/reviews/therabody-theragun-prime"
+    },
+    "https://www.t3.com/active/hypericehypervolt-3-collection-launch-0326": {
+      "title": "Hyperice’s new recovery gadgets promise more power than Theragun for less money",
+      "description": "The updated Hypervolt 3 collection adds bigger attachments, longer battery life and quieter motors",
+      "image": "https://cdn.mos.cms.futurecdn.net/VyTUkvJRrYUcVWibMwBw6J-1920-80.jpg",
+      "url": "https://www.t3.com/active/hypericehypervolt-3-collection-launch-0326"
+    },
+    "https://www.wired.com/story/best-massage-guns/": {
+      "title": "A Fitness Enthusiast’s Guide to the Best Massage Gun in 2026",
+      "description": "I’m almost always sore from working out. These are the percussive massage guns I recommend.",
+      "image": "https://media.wired.com/photos/69b20444efe683ba3718766e/191:100/w_1280,c_limit/The-Best-Massage-Guns-for-Muscle-Soreness-and-Pain-Relief.jpg",
+      "url": "https://www.wired.com/story/best-massage-guns/"
+    },
+    "https://www.tomsguide.com/wellness/fitness/bob-and-brad-m7-plus-mini-massage-gun-review": {
+      "title": "Bob and Brad M7 Plus Mini massage gun review: Super-powered, mini-sized",
+      "description": "It packs a major punch",
+      "image": "https://cdn.mos.cms.futurecdn.net/ocuiH978cABzZETmXTaKF3-2520-80.jpg",
+      "url": "https://www.tomsguide.com/wellness/fitness/bob-and-brad-m7-plus-mini-massage-gun-review"
+    }
+  }
+}

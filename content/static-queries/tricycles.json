@@ -1,0 +1,116 @@
+{
+  "slug": "tricycles",
+  "query": "best tricycles",
+  "title": "Best tricycles | Bin Diving",
+  "description": "AI-dug recommendations for best tricycles. Compare options and find one that fits.",
+  "dugAt": "2026-03-18T22:33:50.822Z",
+  "recommendations": [
+    {
+      "product_name": "Schwinn Roadster Tricycle (12\")",
+      "pros": [
+        "Durable steel frame",
+        "Classic vintage design",
+        "Low center of gravity for stability"
+      ],
+      "cons": [
+        "Limited seat adjustment",
+        "Not foldable",
+        "Higher price than plastic trikes"
+      ],
+      "price": null,
+      "amazon_id": "B000FH2Y9S",
+      "sources": [
+        "https://www.schwinnbikes.com/products/roadster-tricycle",
+        "https://www.forbes.com/sites/forbes-personal-shopper/article/best-tricycles/",
+        "https://www.bestreviews.guide/tricycles"
+      ],
+      "amazon_url": "https://www.amazon.com/Schwinn-Roadster-12-Inch-Trike-Red/dp/B000FH2Y9S",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/3hwmUuNIU4dt2aUctz8Srx9X6kLuRhiS7dqtIDlULGg/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9tLm1l/ZGlhLWFtYXpvbi5j/b20vaW1hZ2VzL0kv/NzFoZkFScDJHSEwu/anBn",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "Radio Flyer Red Rider Trike (Red Rider)",
+      "pros": [
+        "Sturdy steel construction",
+        "Adjustable seat grows with child",
+        "Trusted, widely available brand"
+      ],
+      "cons": [
+        "Limited handlebars/pedal features vs convertible trikes",
+        "Some assembly required",
+        "Not foldable"
+      ],
+      "price": null,
+      "amazon_id": "B00TLFTEUC",
+      "sources": [
+        "https://www.radioflyer.com/products/red-rider-trike",
+        "https://www.forbes.com/sites/forbes-personal-shopper/article/best-tricycles/",
+        "https://www.bestreviews.guide/tricycles"
+      ],
+      "amazon_url": "https://www.amazon.com/Radio-Flyer-Rider-Amazon-Exclusive/dp/B00TLFTEUC",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/PPVkhZkh__yCDsB1susgly0ttEAPMHAIWqdVx059FQY/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9nb29k/YnV5Z2Vhci5jb20v/Y2RuL3Nob3AvcHJv/ZHVjdHMvMWJjNmJm/NTAzOWJkZGEyNmUw/MGE5NjgwZDg5MTZi/NDNfNjAzeDcwMC5q/cGc_dj0xNjU2NDIy/OTA0",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "smarTrike STR7 (folding 6-in-1 pushchair/tricycle)",
+      "pros": [
+        "Multi-stage design that grows with child",
+        "Folds for travel/storage",
+        "Includes canopy and push-handle for parents"
+      ],
+      "cons": [
+        "Folding mechanism can be tricky for some users",
+        "Higher-cost than basic trikes",
+        "Some reports of durability issues on older units"
+      ],
+      "price": null,
+      "amazon_id": "B07JR8S8XZ",
+      "sources": [
+        "https://us.amazon.com/smarTrike-Urban-Folding-Tricycle-Black/dp/B07JR8S8XZ",
+        "https://littlediscoverer.com/smartrike-folding-trike-comparison-10158",
+        "https://www.trustpilot.com/review/www.smartrike.com"
+      ],
+      "amazon_url": "https://www.amazon.com/smarTrike-Urban-Folding-Tricycle-Black/dp/B07JR8S8XZ",
+      "gpt_azn": "B07JR8S8XZ",
+      "image_url": "https://imgs.search.brave.com/UemzioJyFSlw3PvWBOgz_5yeH-E1MNxu9rctcOeNXYw/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9pNS53/YWxtYXJ0aW1hZ2Vz/LmNvbS9zZW8vc21h/clRyaWtlLVNUUjct/Ni1pbi0xLVB1c2hj/aGFpci1TdHJvbGxl/ci1UcmljeWNsZS1m/b3ItNi0zNi1Nb250/aHMtUmVkX2MyYTQw/ODljLTc2ZmYtNDM0/ZS05MGM5LTA2OWFh/NmVkZjFjZC4zYWRl/ZWIyOTdjOTliYjYw/NjBhNmE0ODc1MjM1/MDRkYi5qcGVnP29k/bkhlaWdodD01NzMm/b2RuV2lkdGg9NTcz/Jm9kbkJnPUZGRkZG/Rg",
+      "resolver": "brave",
+      "valid": true
+    }
+  ],
+  "resolvedLinks": {
+    "https://www.schwinnbikes.com/products/roadster-tricycle": {
+      "title": "Roadster Tricycle 12in",
+      "description": "Roadster Tricycle brings vintage fun to young riders. Iconic design and comfy seat for memory-making rides. Start the adventure!",
+      "image": "http:products/S6805AZ_12U_RoadsterTrike-ORG_PD1.png",
+      "url": "https://www.schwinnbikes.com/products/roadster-tricycle"
+    },
+    "https://www.bestreviews.guide/tricycles": {
+      "title": "10 Best tricycles 2026 in the US | There's One Clear Winner | BestReviews.guide",
+      "description": "BestReviews.guide analyzes thousands of articles and customer reviews to find the top-rated products at today's lowest prices. Best products, best offers.",
+      "image": "https://images-proxy.bestreviews.guide/HDGzyjPpE9SWFUkOTeSkC58X9SU=/0x150/https://m.media-amazon.com/images/I/41vBO6j5DqL._AC_CX679_.jpg",
+      "url": "https://www.bestreviews.guide/tricycles"
+    },
+    "https://us.amazon.com/smarTrike-Urban-Folding-Tricycle-Black/dp/B07JR8S8XZ": {
+      "title": "Amazon.com: smarTrike STR7 6 in 1 Pushchair, Stroller, and Tricycle for 6-36 Months, With 5-Point Harness, Detachable Canopy, Storage bag, and Removeable Pedals, Black : Baby",
+      "description": "",
+      "image": "",
+      "url": "https://us.amazon.com/smarTrike-Urban-Folding-Tricycle-Black/dp/B07JR8S8XZ"
+    },
+    "https://littlediscoverer.com/smartrike-folding-trike-comparison-10158": {
+      "title": "SmarTrike 400 vs 500 vs 600 vs 700 Comparison Guide - Little Discoverer",
+      "description": "SmarTrike 400 vs 500 vs 600 vs 700 folding baby tricycles: which one is the best? We will explain their pros and cons, and compare their similarities and differences.",
+      "image": "https://littlediscoverer.com/wp-content/uploads/2021/01/SmarTrike-400-vs-500-vs-600-vs-700.jpg",
+      "url": "https://littlediscoverer.com/smartrike-folding-trike-comparison-10158"
+    },
+    "https://www.trustpilot.com/review/www.smartrike.com": {
+      "title": "smartrike is rated \"Great\" with 4.1 / 5 on Trustpilot",
+      "description": "Do you agree with smartrike's TrustScore? Voice your opinion today and hear what 160 customers have already said.",
+      "image": "https://share.trustpilot.com/images/company-rating?locale=en-US&businessUnitId=5cb48ce9c0ef6f00010527af&preset=consumersite",
+      "url": "https://www.trustpilot.com/review/www.smartrike.com"
+    }
+  }
+}

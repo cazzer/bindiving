@@ -1,0 +1,124 @@
+{
+  "slug": "toasters",
+  "query": "best toasters",
+  "title": "Best toasters | Bin Diving",
+  "description": "AI-dug recommendations for best toasters. Compare options and find one that fits.",
+  "dugAt": "2026-03-18T16:43:02.613Z",
+  "recommendations": [
+    {
+      "product_name": "Breville the 'A Bit More' 2-Slice Toaster (BTA720XL)",
+      "pros": [
+        "Consistent browning controls",
+        "Wide, deep slots fit thick slices",
+        "Lift & Look + A Bit More features"
+      ],
+      "cons": [
+        "Premium price compared with basic toasters",
+        "Some users report uneven toasting occasionally"
+      ],
+      "price": null,
+      "amazon_id": "B00COMHC12",
+      "sources": [
+        "https://www.techgearlab.com/reviews/kitchen/toaster/breville-bit-more-2-slice",
+        "https://www.tomsguide.com/home/home-appliances/breville-bit-more-4-slice-toaster-review",
+        "https://www.breville.com/en-us/product/BTA720"
+      ],
+      "amazon_url": "https://www.amazon.com/Breville-BTA720XL-More-2-Slice-Toaster/dp/B00COMHC12",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/ZdaCTj3l_7DMqo55hrgE41lqPVdp-OcTnJU9HNzBtSk/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9pLmVi/YXlpbWcuY29tL2lt/YWdlcy9nL2NtUUFB/ZVN3Y2Q5b3VoSE8v/cy1sNDAwLndlYnA",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "SMEG 50's Retro Style 2-Slice/4-Slice Toaster (TSF01/TSF02)",
+      "pros": [
+        "Iconic retro design / wide color choices",
+        "Solid build and easy controls",
+        "Good bagel and defrost functions"
+      ],
+      "cons": [
+        "Higher cost for the brand/aesthetic",
+        "Mixed long-term reliability reports"
+      ],
+      "price": null,
+      "amazon_id": "B00YVUFJ60",
+      "sources": [
+        "https://www.homesandgardens.com/celebrity-style/reese-witherspoon-smeg-toaster",
+        "https://pi-exchange.smeg.it/catalog/TSF01SSUS/en-US"
+      ],
+      "amazon_url": "https://www.amazon.com/4-Slice-Toaster-Extra-Wide-Functions-Stainless/dp/B00YVUFJ60",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/eaDdiPB-521bP6QV0ZodlZcdQbUey9bb_M2QrFVjPNI/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9pLmVi/YXlpbWcuY29tL2lt/YWdlcy9nLzFVRUFB/ZVN3LXkxb3RLSEgv/cy1sMjI1LmpwZw",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "KitchenAid 2-Slice Toaster with High-Lift Lever (KMT2116 series)",
+      "pros": [
+        "Sturdy, classic design",
+        "High-lift lever for easy removal",
+        "Reliable basic toasting functions"
+      ],
+      "cons": [
+        "Some newer models/distributions may be discontinued",
+        "Fewer high-tech features than premium models"
+      ],
+      "price": null,
+      "amazon_id": "B00Y2KFX56",
+      "sources": [
+        "https://kitchencritics.com/products/kitchenaida-2-slice-toaster-with-high-lift-lever",
+        "https://www.leons.ca/products/kitchenaid-contour-silver-2-slice-toaster-with-high-lift-lever-kmt2116cu",
+        "https://manuals.plus/m/33d13d39252808b869238b95c26a86d2e59226e9fdd655a01da88787e534cc13.pdf"
+      ],
+      "amazon_url": "https://www.amazon.com/KitchenAid-KMT2116CU-Toaster-Contour-Silver/dp/B00Y2KFX56",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/g2Uu_5_LVhmLy4TfW48JDarSMzYTGKsjtIi8debIlo4/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9tLm1l/ZGlhLWFtYXpvbi5j/b20vaW1hZ2VzL0kv/NTFIaDRndkN3U0wu/anBn",
+      "resolver": "brave",
+      "valid": true
+    }
+  ],
+  "resolvedLinks": {
+    "https://www.techgearlab.com/reviews/kitchen/toaster/breville-bit-more-2-slice": {
+      "title": "Breville Bit More 2 Slice Review",
+      "description": "The Breville Bit More 2 Slice toaster brings thoughtful design and user-friendly features to the breakfast table, though it comes with a few compromises...",
+      "image": "https://djd1xqjx2kdnv.cloudfront.net/photos/40/10/522517_18842_XXL.jpg",
+      "url": "https://www.techgearlab.com/reviews/kitchen/toaster/breville-bit-more-2-slice"
+    },
+    "https://www.tomsguide.com/home/home-appliances/breville-bit-more-4-slice-toaster-review": {
+      "title": "Breville Bit More 4-Slice Toaster review: It’s a winner",
+      "description": "The Breville Bit More 4-Slice Toaster offers an elegant approach to four-slice toasting",
+      "image": "https://cdn.mos.cms.futurecdn.net/ZWJhYYUMfyVbpfuXjsw53W-2560-80.jpg",
+      "url": "https://www.tomsguide.com/home/home-appliances/breville-bit-more-4-slice-toaster-review"
+    },
+    "https://www.breville.com/en-us/product/BTA720": {
+      "title": "the 'A Bit More'® | Breville (US)",
+      "description": "2-slice toaster with progress indicator.",
+      "image": "https://assets.breville.com/cdn-cgi/image/width=1300,format=auto/BTA720/BTA720XL.jpg?pdp",
+      "url": "https://www.breville.com/en-us/product/BTA720"
+    },
+    "https://www.homesandgardens.com/celebrity-style/reese-witherspoon-smeg-toaster": {
+      "title": "Reese Witherspoon Champions an Italian Design-Icon Toaster With 1950s Roots – and It Belongs in Every Modern Kitchen",
+      "description": "This toaster has stood on the chicest countertops since the '50s, and Reese has just reminded me why",
+      "image": "https://cdn.mos.cms.futurecdn.net/NKaiZvpMJWWUcNhwRRyuJP-1600-80.jpg",
+      "url": "https://www.homesandgardens.com/celebrity-style/reese-witherspoon-smeg-toaster"
+    },
+    "https://kitchencritics.com/products/kitchenaida-2-slice-toaster-with-high-lift-lever": {
+      "title": "KitchenAidÂ® 2-Slice Toaster with High Lift Lever Countour Silver (KMT2116CU) Reviews, Problems & Guides",
+      "description": "Make a statement on your counter with the newly designed KitchenAid&reg; 2-Slice Toaster. This toaster features 7 shade settings, including Bagel, Defrost, Reheat and Keep Warm....",
+      "image": "https://kitchencritics.com/assets/products/5370/thumbnails/main-image-kitchenaida-2-slice-toaster-with-high-lift-lever-460-460.jpg",
+      "url": "https://kitchencritics.com/products/kitchenaida-2-slice-toaster-with-high-lift-lever"
+    },
+    "https://www.leons.ca/products/kitchenaid-contour-silver-2-slice-toaster-with-high-lift-lever-kmt2116cu": {
+      "title": "KitchenAid Contour Silver 2-Slice Toaster with High-Lift Lever - KMT2116CU | Leon's\nWarningWarning",
+      "description": "This KitchenAid Contour two-slice toaster is finished in a two-tone silver colour for a sleek look in your kitchen. The rounded sides add a soft, modern shape to this toaster, while the high-lift lever and extra-wide toast slots provide convenience.",
+      "image": "http://www.leons.ca/cdn/shop/products/hmzmfieybacjexdxrhfz_800x.jpg?v=1571710308",
+      "url": "https://www.leons.ca/products/kitchenaid-contour-silver-2-slice-toaster-with-high-lift-lever-kmt2116cu"
+    },
+    "https://manuals.plus/m/33d13d39252808b869238b95c26a86d2e59226e9fdd655a01da88787e534cc13.pdf": {
+      "title": "",
+      "description": "",
+      "image": "",
+      "url": "https://manuals.plus/m/33d13d39252808b869238b95c26a86d2e59226e9fdd655a01da88787e534cc13.pdf"
+    }
+  }
+}

@@ -1,0 +1,105 @@
+{
+  "slug": "period-underwear",
+  "query": "best period underwear",
+  "title": "Best period underwear | Bin Diving",
+  "description": "AI-dug recommendations for best period underwear. Compare options and find one that fits.",
+  "dugAt": "2026-03-18T18:06:25.950Z",
+  "recommendations": [
+    {
+      "product_name": "Modibodi Classic Bikini Period Underwear",
+      "pros": [
+        "Multiple absorbency levels",
+        "Soft, seamfree options",
+        "Good for heavy days and overnight"
+      ],
+      "cons": [
+        "Can feel thicker at highest absorbency",
+        "Sizing can vary by style"
+      ],
+      "price": null,
+      "amazon_id": "B0BSLXVJZF",
+      "sources": [
+        "https://www.nbcnews.com/select/shopping/best-period-underwear-rcna214709",
+        "https://us.modibodi.com/collections/bikini",
+        "https://www.glamour.com/gallery/best-period-underwear/"
+      ],
+      "amazon_url": "https://www.amazon.com/Classic-Bikini-Overnight-Absorbency-Protection/dp/B0BSLXVJZF",
+      "gpt_azn": null,
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "Thinx Everyday (Hiphugger/Brief) Period Underwear",
+      "pros": [
+        "High absorbency options (all-day protection)",
+        "Widely reviewed and recommended by editors",
+        "Multiple styles available"
+      ],
+      "cons": [
+        "Past PFAS-related class-action issues (brand addressed changes)",
+        "Some styles can be thicker/bulkier"
+      ],
+      "price": null,
+      "amazon_id": "B08615KQJN",
+      "sources": [
+        "https://www.nbcnews.com/select/shopping/best-period-underwear-rcna214709",
+        "https://www.allure.com/gallery/best-period-panties",
+        "https://www.glamour.com/gallery/best-period-underwear/"
+      ],
+      "amazon_url": "https://www.amazon.com/Thinx-Hiphugger-Period-Underwear-Menstrual/dp/B08615KQJN",
+      "gpt_azn": null,
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "Knix Leakproof High Rise / Super Leakproof",
+      "pros": [
+        "Comfortable, popular among testers",
+        "Range of fits including high-rise and boyshorts",
+        "Transparent PFAS testing disclosure by brand noted in reviews"
+      ],
+      "cons": [
+        "Some recent user reports of quality/fit changes",
+        "Can be pricier than budget options"
+      ],
+      "price": null,
+      "amazon_id": "B0CKL4P729",
+      "sources": [
+        "https://www.forbes.com/sites/forbes-personal-shopper/article/best-period-underwear/",
+        "https://www.glamour.com/gallery/best-period-underwear/",
+        "https://www.nbcnews.com/select/shopping/best-period-underwear-rcna214709"
+      ],
+      "amazon_url": "https://www.amazon.com/KNIX-Super-Leakproof-High-Underwear/dp/B0CKL4P729",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/qh9zF_uS3Dy2I0UVZpGXhZv-kTpK4H2xu3CwZAVoNp4/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9pbWFn/ZXMtbmEuc3NsLWlt/YWdlcy1hbWF6b24u/Y29tL2ltYWdlcy9J/LzYxMVZ1SWdNLU1M/LmpwZw",
+      "resolver": "brave",
+      "valid": true
+    }
+  ],
+  "resolvedLinks": {
+    "https://www.nbcnews.com/select/shopping/best-period-underwear-rcna214709": {
+      "title": "Most period underwear can hold as much as (and sometimes more than) 5 regular tampons",
+      "description": "I rounded up the best period underwear for every type of flow based on gynecologists’ advice.",
+      "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2025-06/250623-period-underwear-oo-main-d4bcad.jpg",
+      "url": "https://www.nbcnews.com/select/shopping/best-period-underwear-rcna214709"
+    },
+    "https://us.modibodi.com/collections/bikini": {
+      "title": "Bikini Style Period Underwear | – Modibodi US",
+      "description": "Modibodi's period and leak proof bikini panties give you the confidence and freedom to move around freely and are designed to be absorbent and comfy. Switch to Modibodi and completely replace disposable pads, liners & tampons.",
+      "image": "http://us.modibodi.com/cdn/shop/collections/feat-seamfreebikini-sweatproofbra-0001.jpg?v=1718692481&width=5760",
+      "url": "https://us.modibodi.com/collections/bikini"
+    },
+    "https://www.glamour.com/gallery/best-period-underwear/": {
+      "title": "I Tested Tons of Period Underwear—This Pair Offered the Best Leak Protection",
+      "description": "Plus, they’re invisible under clothes.",
+      "image": "https://media.glamour.com/photos/6894ccd63a5ad5c73a1b12a9/16:9/w_1280,c_limit/best-period-underwear-2025.jpg",
+      "url": "https://www.glamour.com/gallery/best-period-underwear-brands"
+    },
+    "https://www.allure.com/gallery/best-period-panties": {
+      "title": "Period Underwear, or Regular Panties? We Can Barely Tell the Difference",
+      "description": "Goodbye, leaks. Hello, freedom.",
+      "image": "https://media.allure.com/photos/66f44410bb63086d54c706b3/16:9/w_1280,c_limit/period-underwear-lede.jpg",
+      "url": "https://www.allure.com/gallery/best-period-panties"
+    }
+  }
+}

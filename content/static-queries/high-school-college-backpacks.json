@@ -1,0 +1,101 @@
+{
+  "slug": "high-school-college-backpacks",
+  "query": "best high school & college backpacks",
+  "title": "Best high school & college backpacks | Bin Diving",
+  "description": "AI-dug recommendations for best high school & college backpacks. Compare options and find one that fits.",
+  "dugAt": "2026-03-18T22:25:31.456Z",
+  "recommendations": [
+    {
+      "product_name": "JanSport Big Student Backpack",
+      "pros": [
+        "Spacious main compartments",
+        "Durable and simple design"
+      ],
+      "cons": [
+        "Basic styling",
+        "May lack modern laptop protection"
+      ],
+      "price": null,
+      "amazon_id": "B0B6QNRS54",
+      "sources": [
+        "https://www.nbcnews.com/select/shopping/back-to-school-supplies-amazon-rcna166014",
+        "https://www.nullfake.com/amazon/us/B07K74LDCH/jansport-laptop-backpack-computer-bag-with-2-compartments"
+      ],
+      "amazon_url": "https://www.amazon.com/JanSport-Student-Backpack-Black-Size/dp/B0B6QNRS54",
+      "gpt_azn": "B07K74LDCH",
+      "image_url": "https://imgs.search.brave.com/EMjVIc6SzlAy2KH9QH5o5SRENJTyRxPrBgryfs_CIkk/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly93d3cu/YXNwZW5vZmhlcmVm/b3JkLmNvbS9jZG4v/c2hvcC9maWxlcy81/NDViZjRhZi0xNWUx/LTQxZDQtOTkyOC03/YTJhNWZkNWFhZWVf/NzAweDcwMC5qcGc_/dj0xNzYzMDI5MTA3",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "The North Face Borealis Backpack",
+      "pros": [
+        "Excellent back support and comfort",
+        "Well-organized laptop and tablet pockets"
+      ],
+      "cons": [
+        "Higher price than budget options",
+        "Can be heavier when fully loaded"
+      ],
+      "price": null,
+      "amazon_id": "B0CN9SD8JF",
+      "sources": [
+        "https://www.rei.com/learn/expert-advice/best-college-backpacks.html",
+        "https://time.com/shopping/article/best-backpacks-for-college/"
+      ],
+      "amazon_url": "https://www.amazon.com/NORTH-FACE-Borealis-Commuter-Black-NPF/dp/B0CN9SD8JF",
+      "gpt_azn": "B010MNTIIO",
+      "image_url": "https://imgs.search.brave.com/aDJaDnIwxQIyFJ4Wp10Fqp9iKFdldDDnH8oaPstnYBM/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9tLm1l/ZGlhLWFtYXpvbi5j/b20vaW1hZ2VzL0kv/NTFHYmxtNmxlWEwu/anBn",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "MATEIN Travel Laptop Backpack (TSA-friendly)",
+      "pros": [
+        "Very budget-friendly with lots of pockets",
+        "TSA-friendly laptop compartment and USB port"
+      ],
+      "cons": [
+        "Mixed long-term durability reports",
+        "Simpler materials and padding than premium packs"
+      ],
+      "price": null,
+      "amazon_id": "B07QN9NPKN",
+      "sources": [
+        "https://www.travelandleisure.com/amazon-matein-travel-backpack-sale-february-2025-11684201",
+        "https://www.nullfake.com/amazon/us/B07QN9NPKN/matein-travel-laptop-backpack-17-inch-work-tsa-approved"
+      ],
+      "amazon_url": "https://www.amazon.com/MATEIN-Backpack-Business-Approved-Rucksack/dp/B07QN9NPKN",
+      "gpt_azn": "B07N3WQ6H7",
+      "image_url": "https://imgs.search.brave.com/g3jUDNOLCDQALT2SE3-DBWuhxrgeZ8ibC9bbSiUucPI/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9tLm1l/ZGlhLWFtYXpvbi5j/b20vaW1hZ2VzL0kv/NDFyS01OK045aEwu/anBn",
+      "resolver": "brave",
+      "valid": true
+    }
+  ],
+  "resolvedLinks": {
+    "https://www.nbcnews.com/select/shopping/back-to-school-supplies-amazon-rcna166014": {
+      "title": "It’s okay to skip out on stressful back-to-school shopping and just get everything on Amazon",
+      "description": "Skip the store and simply add to cart.",
+      "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2024-08/240809-amazon-school-supplies-vl-main-d4124a.jpg",
+      "url": "https://www.nbcnews.com/select/shopping/back-to-school-supplies-amazon-rcna166014"
+    },
+    "https://www.nullfake.com/amazon/us/B07K74LDCH/jansport-laptop-backpack-computer-bag-with-2-compartments": {
+      "title": "Review Analysis: JanSport Laptop Backpack - Computer Bag - 55.00% Fake Reviews | Grade D",
+      "description": "AI analysis of 13 reviews reveals 55.00% are potentially fake. Get the real story behind Amazon product reviews with our comprehensive authenticity analysis.",
+      "image": "https://m.media-amazon.com/images/I/51wX5vhTB4L._AC_SL1200_.jpg",
+      "url": "https://www.nullfake.com/amazon/us/B07K74LDCH/jansport-laptop-backpack-computer-bag-with-2-com"
+    },
+    "https://www.rei.com/learn/expert-advice/best-college-backpacks.html": {
+      "title": "The 5 Best College Backpacks of 2025: Tested | REI Co-op",
+      "description": "These versatile college backpacks easily transition from classes to trail, according to our student tester.",
+      "image": "https://www.rei.com/dam/23923771_best-college-backpacks-hero_web_med.jpeg",
+      "url": "https://www.rei.com/learn/expert-advice/best-college-backpacks.html"
+    },
+    "https://www.nullfake.com/amazon/us/B07QN9NPKN/matein-travel-laptop-backpack-17-inch-work-tsa-approved": {
+      "title": "Review Analysis: MATEIN Travel Laptop Backpack, 17 Inch W - 46.20% Fake Reviews | Grade D",
+      "description": "AI analysis of 39 reviews reveals 46.20% are potentially fake. Get the real story behind Amazon product reviews with our comprehensive authenticity analysis.",
+      "image": "https://m.media-amazon.com/images/I/812dMsurRlL._AC_SL1200_.jpg",
+      "url": "https://www.nullfake.com/amazon/us/B07QN9NPKN/matein-travel-laptop-backpack-17-inch-work-tsa-ap"
+    }
+  }
+}

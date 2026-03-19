@@ -1,0 +1,116 @@
+{
+  "slug": "inwall-smart-light-switches-dimmers",
+  "query": "best in‑wall smart light switches & dimmers",
+  "title": "Best in‑wall smart light switches & dimmers | Bin Diving",
+  "description": "AI-dug recommendations for best in‑wall smart light switches & dimmers. Compare options and find one that fits.",
+  "dugAt": "2026-03-18T22:02:18.528Z",
+  "recommendations": [
+    {
+      "product_name": "Lutron Caseta PD-6WCL In‑Wall Dimmer",
+      "pros": [
+        "Very reliable/hardcore compatibility",
+        "No neutral required for many installs"
+      ],
+      "cons": [
+        "Requires Lutron Bridge for full features/HomeKit",
+        "Some LED compatibility flicker reports"
+      ],
+      "price": null,
+      "amazon_id": "B00KLAXFQA",
+      "sources": [
+        "https://www.tomsguide.com/us/best-smart-light-switches%2Creview-4463.html",
+        "https://www.alarmgrid.com/products/lutron-caseta-6wcl",
+        "https://www.lowes.com/pd/Lutron-Caseta-Wireless-150-Watt-Single-Pole-White-LED-Smart-Dimmer/50449012"
+      ],
+      "amazon_url": "https://www.amazon.com/Lutron-Wireless-Lighting-PD-6WCL-WH-Assistant/dp/B00KLAXFQA",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/v8zy4FeXbqwoUBQ8r21KAyCFInbexzrc5F51Aalw4Cs/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly93d3cu/YmVlc2xpZ2h0aW5n/LmNvbS9jZG4vc2hv/cC9maWxlcy9QRC02/V0NMLVdIX3dpcmVs/ZXNzLWRpbW1lci0w/MS5kZWZhdWx0XzQ2/MTJjY2ZmLTc2MjMt/NDZjNi1hNzc2LWNj/ZTU5ZDRlNWU2My5q/cGc_dj0xNzM4NTgy/MjkzJndpZHRoPTE1/MDA",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "Leviton Decora Smart Wi‑Fi ELV/LED Phase Selectable Dimmer (D2ELV)",
+      "pros": [
+        "Supports wide range of LED/ELV loads and phase selectable",
+        "Works with Alexa, Google, HomeKit and Matter support via updates"
+      ],
+      "cons": [
+        "Requires neutral for this model",
+        "Newer firmware/features evolving so check app updates"
+      ],
+      "price": null,
+      "amazon_id": "B0D7MX4D3J",
+      "sources": [
+        "https://leviton.com/company/press-releases/leviton-unveils-new-decora-smart-wi-fi-elv-led-phase-selectable-",
+        "https://leviton.com/products/d2elv-1bw",
+        "https://www.tomsguide.com/us/best-smart-light-switches%2Creview-4463.html"
+      ],
+      "amazon_url": "https://www.amazon.com/Leviton-Selectable-Neutral-Required-D2ELV-1BW/dp/B0D7MX4D3J",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/1NGu8BI3u1ZaTtH_ouJpbvs6Fuu2aKVwxwuKr4-5vOw/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9saWdo/dGluZ3N1cHBseS5j/b20vY2RuL3Nob3Av/ZmlsZXMvMDNfRDJF/TFZfRUxWX0xFRF9E/aW1tZXJfQWR2YW50/YWdlc183MDB4NzAw/LmpwZz92PTE3MzE5/NDY2MDg",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "TP‑Link Kasa Smart Dimmer (HS220 / KS225 family)",
+      "pros": [
+        "Budget‑friendly and easy app setup",
+        "Matter/Multi‑ecosystem options available in newer KS models"
+      ],
+      "cons": [
+        "Some models require neutral wire",
+        "Older Kasa models lack full dimmer features vs premium brands"
+      ],
+      "price": null,
+      "amazon_id": "B079775ZZQ",
+      "sources": [
+        "https://smartandsecurehome.com/kasa-smart-light-switch-hs200-review-2025/",
+        "https://www.tomsguide.com/us/best-smart-light-switches%2Creview-4463.html",
+        "https://www.techradar.com/reviews/tp-link-hs200-smart-wi-fi-light-switch"
+      ],
+      "amazon_url": "https://www.amazon.com/Kasa-Smart-HS220-Certified-Required/dp/B079775ZZQ",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/A75f5dw0S2sQg1OfzSbPaIusrxGtIeGIHGBE9dZbMlo/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9xdWVl/bmNpdHljb21tdW5p/Y2F0aW9ucy5jYS93/cC1jb250ZW50L3Vw/bG9hZHMvMjAyNS8w/Ni9UUC1MaW5rLUth/c2EtU21hcnQtV2kt/RmktRGltbWVyLVN3/aXRjaC1IUzIyMC0t/MzAweDMwMC53ZWJw",
+      "resolver": "brave",
+      "valid": true
+    }
+  ],
+  "resolvedLinks": {
+    "https://www.tomsguide.com/us/best-smart-light-switches%2Creview-4463.html": {
+      "title": "Best smart light switches in 2025",
+      "description": "The best smart light switches let you control your lights with a phone or voice assistant and can save you money",
+      "image": "https://cdn.mos.cms.futurecdn.net/AQDuR8suorukBnSfwsVAf9-2000-80.jpg",
+      "url": "https://www.tomsguide.com/us/best-smart-light-switches,review-4463.html"
+    },
+    "https://www.alarmgrid.com/products/lutron-caseta-6wcl": {
+      "title": "Lutron Caseta PD-6WCL - Wireless In-Wall Light Dimmer",
+      "description": "The Lutron PD-6WCL is an in-wall light dimmer switch that lets a user integrate their hardwired lights with a smart lighting setup. With an added Lutron Caseta Smart Bridge, a user can control their lights remotely using the Lutron Mobile App or Apple HomeKit. Buy Lutron In-Wall Dimmer here.",
+      "image": "",
+      "url": "https://www.alarmgrid.com/products/lutron-caseta-6wcl"
+    },
+    "https://leviton.com/company/press-releases/leviton-unveils-new-decora-smart-wi-fi-elv-led-phase-selectable-": {
+      "title": "Leviton Unveils New Decora Smart Wi-Fi Dimmer | Press Releases | Leviton",
+      "description": "",
+      "image": "",
+      "url": "https://leviton.com/company/press-releases/leviton-unveils-new-decora-smart-wi-fi-elv-led-phase-selectable-"
+    },
+    "https://leviton.com/products/d2elv-1bw": {
+      "title": "Decora Smart ELV/LED Phase Selectable Dimmer | D2ELV-1BW | Leviton",
+      "description": "<p>Decora Smart ELV/LED Phase Selectable Dimmer, Wi-Fi, Neutral Wire Required</p>",
+      "image": "https://leviton.com/content/dam/leviton/residential/product_images/d2elv-1bw/D2ELV_main.jpg",
+      "url": "https://leviton.com/products/d2elv-1bw"
+    },
+    "https://smartandsecurehome.com/kasa-smart-light-switch-hs200-review-2025/": {
+      "title": "Kasa Smart Light Switch HS200 Review 2025 | Affordable Smart Switch",
+      "description": "Upgrade your lighting with the Kasa Smart Light Switch HS200 — works with Alexa & Google, remote control via app, easy DIY install. 2025 guide.",
+      "image": "https://smartandsecurehome.com/wp-content/uploads/2025/10/Kasa-switches-1.jpg",
+      "url": "https://smartandsecurehome.com/kasa-smart-light-switch-hs200-review-2025/"
+    },
+    "https://www.techradar.com/reviews/tp-link-hs200-smart-wi-fi-light-switch": {
+      "title": "TP-Link HS200 Smart Wi-Fi Light Switch review",
+      "description": "You may never have to get up to use a light switch again",
+      "image": "https://cdn.mos.cms.futurecdn.net/CtPR5tLMkCk9CPtoPF3or6-700-80.jpg",
+      "url": "https://www.techradar.com/reviews/tp-link-hs200-smart-wi-fi-light-switch"
+    }
+  }
+}

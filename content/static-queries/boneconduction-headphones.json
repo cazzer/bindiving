@@ -1,0 +1,127 @@
+{
+  "slug": "boneconduction-headphones",
+  "query": "best bone‑conduction headphones",
+  "title": "Best bone‑conduction headphones | Bin Diving",
+  "description": "AI-dug recommendations for best bone‑conduction headphones. Compare options and find one that fits.",
+  "dugAt": "2026-03-18T21:44:08.371Z",
+  "recommendations": [
+    {
+      "product_name": "Shokz OpenRun Pro 2",
+      "pros": [
+        "Great situational awareness",
+        "Improved sound vs earlier models"
+      ],
+      "cons": [
+        "Some users report sweat/rain durability issues",
+        "Mixed reports on consistency"
+      ],
+      "price": "$179.95",
+      "amazon_id": "B0DM27684P",
+      "sources": [
+        "https://shokz.com/pages/openrunpro2",
+        "https://www.techradar.com/best/the-best-workout-headphones-for-every-sport",
+        "https://www.rtings.com/headphones/reviews/shokz/openrun-pro-bone-conduction"
+      ],
+      "amazon_url": "https://www.amazon.com/SHOKZ-OpenRun-Pro-Conduction-Headphones/dp/B0DM27684P",
+      "gpt_azn": "B0D2HKCMBP",
+      "image_url": "https://imgs.search.brave.com/LBcUI0GYClM_Opf9fAUOxMF_B7itY0fiWXyjUmEPddU/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9saWZl/aGFja2VyLmNvbS9p/bWFnZXJ5L3Jldmll/d3MvMDFKUzUwRzhR/QjdTMUdUQTJSQTZH/NVFaMkovcHJvZHVj/dC1pbWFnZS5maWxs/LnNpemVfYXV0b3hh/dXRvLnYxNzQ0OTk5/MTcyLmpwZw",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "H2O Audio TRI 2 PRO Multi‑Sport",
+      "pros": [
+        "Fully waterproof with onboard playlist storage (Playlist+)",
+        "Designed for triathlon/swimming use"
+      ],
+      "cons": [
+        "Higher price point",
+        "Fit/comfort reported as variable by some reviewers"
+      ],
+      "price": "$199.99",
+      "amazon_id": "B0DFQK6Q8R",
+      "sources": [
+        "https://www.tomsguide.com/audio/headphones/h2o-audio-tri-2-pro-review",
+        "https://h2oaudio.com/products/tri-2-pro-multi-sport-headphones-with-playlist",
+        "https://www.techradar.com/health-fitness/fitness-headphones/h2o-audio-tri-2-pro-multi-sport-review-a-triathletes-dream"
+      ],
+      "amazon_url": "https://www.amazon.com/H2O-Audio-Multi-Sport-Waterproof-Conduction/dp/B0DFQK6Q8R",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/iZEpZBP3CmnSE_-yJkkIuq_eSCHDYrbfTuCxSGuGzxI/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9jcmRt/cy5pbWFnZXMuY29u/c3VtZXJyZXBvcnRz/Lm9yZy9mX2F1dG8s/d182MDAvcHJvZC9w/cm9kdWN0cy9jci9t/b2RlbHMvNDE1Nzk1/LW5vbi1ub2lzZS1j/YW5jZWxpbmctd2ly/ZWxlc3MtZWFyYnVk/cy1oMm8tYXVkaW8t/dHJpLTItcHJvLW11/bHRpLXNwb3J0LXdp/dGgtcGxheWxpc3Qt/MTAwNDE2MjUucG5n",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "Nank (Runner) Diver2 Pro",
+      "pros": [
+        "Waterproof for swimming and capable on land",
+        "Strong battery life and durable build"
+      ],
+      "cons": [
+        "Priced toward the top of bone‑conduction market",
+        "Sound is bass‑heavy (typical for bone conduction)"
+      ],
+      "price": null,
+      "amazon_id": "B0D97YTR9K",
+      "sources": [
+        "https://www.techradar.com/health-fitness/fitness-headphones/nank-runner-diver2-pro-review",
+        "https://www.techradar.com/best/best-waterproof-headphones"
+      ],
+      "amazon_url": "https://www.amazon.com/NANK-Runner-Diver2-Pro-Conduction/dp/B0D97YTR9K",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/UkdoxE3I7bHZcqXyFuep36wBXASEdiPIf9izrZKwTOE/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly93d3cu/YXVkaW9waGlsZS1o/ZWF2ZW4uY29tL3dw/LWNvbnRlbnQvdXBs/b2Fkcy8yMDI0LzEy/L05hbmstUnVubmVy/LURpdmVyLVBSTy1E/aXZlcjItSGVhZGJh/bmQtQXJtYmFuZC1B/dWRpb3BoaWxlLUhl/YXZlbi1SZXZpZXct/MTMud2VicA",
+      "resolver": "brave",
+      "valid": true
+    }
+  ],
+  "resolvedLinks": {
+    "https://shokz.com/pages/openrunpro2": {
+      "title": "Bone Conduction Headphones for Sports & Outdoor Training – Shokz",
+      "description": "Discover Shokz OpenRun Pro 2, open-ear bone conduction headphones designed for sports with secure comfort, wireless Bluetooth performance, and powerful sound for running, cycling, workouts, and marathons.",
+      "image": "",
+      "url": "https://shokz.com/pages/openrunpro2"
+    },
+    "https://www.techradar.com/best/the-best-workout-headphones-for-every-sport": {
+      "title": "The best workout headphones for 2026: Top picks for every sport",
+      "description": "Workout earbuds that keep up with every rep, run, ride and more.",
+      "image": "https://cdn.mos.cms.futurecdn.net/SW7VP4m5F8GDWisqD2nAEb-2000-80.jpg",
+      "url": "https://www.techradar.com/best/the-best-workout-headphones-for-every-sport"
+    },
+    "https://www.rtings.com/headphones/reviews/shokz/openrun-pro-bone-conduction": {
+      "title": "Shokz OpenRun Pro Bone Conduction Review",
+      "description": "The Shokz OpenRun Pro Bone Conduction are the upgraded version of the Shokz OpenRun Bone Conduction. Like their sibling, they use vibrations on your cheekbones r...",
+      "image": "https://i.rtings.com/assets/products/Tj7YwQGp/shokz-openrun-pro-bone-conduction/design-medium.jpg?format=auto",
+      "url": "https://www.rtings.com/headphones/reviews/shokz/openrun-pro-bone-conduction"
+    },
+    "https://www.tomsguide.com/audio/headphones/h2o-audio-tri-2-pro-review": {
+      "title": "H2O Audio TRI 2 PRO review: Great for the pool but a total belly-flop everywhere else",
+      "description": "One for the water (only)",
+      "image": "https://cdn.mos.cms.futurecdn.net/a8a8LSDvi3sxPGwdeCXPAa-2520-80.jpg",
+      "url": "https://www.tomsguide.com/audio/headphones/h2o-audio-tri-2-pro-review"
+    },
+    "https://h2oaudio.com/products/tri-2-pro-multi-sport-headphones-with-playlist": {
+      "title": "TRI 2 PRO Multi-Sport with PLAYLIST+",
+      "description": "Discover TRI 2 PRO waterproof headphones with open ear design, perfect for triathlons. Swim, bike, and run with the best bone conduction headphones.",
+      "image": "http://h2oaudio.com/cdn/shop/files/H2O-TRI-2-PRO-Gold-01-with-PLAYLIST_white.png?v=1762460544",
+      "url": "https://h2oaudio.com/products/tri-2-pro-multi-sport-headphones-with-playlist"
+    },
+    "https://www.techradar.com/health-fitness/fitness-headphones/h2o-audio-tri-2-pro-multi-sport-review-a-triathletes-dream": {
+      "title": "H2O Audio Tri 2 Pro Multi-Sport review: A triathlete’s dream",
+      "description": "Good on land, great in the water",
+      "image": "https://cdn.mos.cms.futurecdn.net/o86ibjr8QjMEyfLor2cuE3-2560-80.jpg",
+      "url": "https://www.techradar.com/health-fitness/fitness-headphones/h2o-audio-tri-2-pro-multi-sport-review-a-triathletes-dream"
+    },
+    "https://www.techradar.com/health-fitness/fitness-headphones/nank-runner-diver2-pro-review": {
+      "title": "Nank Runner Diver2 Pro review: One of the best sets of waterproof headphones available today",
+      "description": "Outstanding on-road and in-water performance",
+      "image": "https://cdn.mos.cms.futurecdn.net/8GGLMtJBQxrV9rM5WMSdcc-2064-80.jpg",
+      "url": "https://www.techradar.com/health-fitness/fitness-headphones/nank-runner-diver2-pro-review"
+    },
+    "https://www.techradar.com/best/best-waterproof-headphones": {
+      "title": "The best swimming headphones 2026: Soundtrack your open water and pool swims with bone conduction",
+      "description": "The best way to listen to your favorite tunes as you swim",
+      "image": "https://cdn.mos.cms.futurecdn.net/mAdji7BnSdCwvYFUZFecqM-2000-80.jpg",
+      "url": "https://www.techradar.com/best/best-waterproof-headphones"
+    }
+  }
+}

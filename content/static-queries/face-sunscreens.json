@@ -1,0 +1,96 @@
+{
+  "slug": "face-sunscreens",
+  "query": "best face sunscreens",
+  "title": "Best face sunscreens | Bin Diving",
+  "description": "AI-dug recommendations for best face sunscreens. Compare options and find one that fits.",
+  "dugAt": "2026-03-18T17:57:53.290Z",
+  "recommendations": [
+    {
+      "product_name": "EltaMD UV Clear Broad-Spectrum SPF 46 (face)",
+      "pros": [
+        "Dermatologist-recommended",
+        "Lightweight, good for acne-prone/sensitive skin"
+      ],
+      "cons": [
+        "Can feel slightly oily on some skin types",
+        "Tint may not match all tones"
+      ],
+      "price": null,
+      "amazon_id": "B002MSN3QQ",
+      "sources": [
+        "https://go-snoop.com/product/eltamd-uv-clear-face-sunscreen-spf-46-oil-free-for-face-with-zinc-oxide",
+        "https://echoinsights.blog/eltamd-uv-face-sunscreen-spf-46-review/",
+        "https://www.dermatologyassociatesofmorris.com/storage/app/media/sunscreen-recommendations.pdf"
+      ],
+      "amazon_url": "https://www.amazon.com/EltaMD-Acne-Prone-Mineral-Based-Dermatologist-Recommended/dp/B002MSN3QQ",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/lzqIWZ1z_qSTS21iIK6zzfO3nARB_5Xs4BFfv21nGn0/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9za2lu/d2VsbG5lc3MuY29t/L2FwcC91cGxvYWRz/LzIwMjQvMDUvUFMw/MDU1ODg0X1VWLUNs/ZWFyLURlZXAtVGlu/dGVkLUZhY2UtU3Vu/c2NyZWVuLTEuN296/LVB1bXAtQm90dGxl/X0Zyb250LTEtNDAw/eDQwMC5wbmc",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "Supergoop! Unseen Sunscreen Invisible Broad Spectrum SPF 40/50 (face)",
+      "pros": [
+        "Completely invisible/weightless finish",
+        "Works well under makeup"
+      ],
+      "cons": [
+        "Higher price point",
+        "Some formulations changed SPF options over time"
+      ],
+      "price": "$38",
+      "amazon_id": "B08CFVM1TT",
+      "sources": [
+        "https://www.allure.com/story/readers-choice-skin-care-winners-2025",
+        "https://parade.com/shopping/best-sun-protection-products-2026"
+      ],
+      "amazon_url": "https://www.amazon.com/Supergoop-Unseen-Sunscreen-SPF-1-7/dp/B08CFVM1TT",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/9Rzr_7GvhFNVc2B6Zpoe8m0ska8HwACZVJ3RBHvKFoY/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9tLm1l/ZGlhLWFtYXpvbi5j/b20vaW1hZ2VzL0kv/NjFMcWtHUUltYkwu/anBn",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "La Roche-Posay Anthelios Melt-In Milk Lotion SPF 60 (face & body)",
+      "pros": [
+        "High broad-spectrum protection",
+        "Widely recommended by dermatologists for face use"
+      ],
+      "cons": [
+        "May pill under some skincare/makeup products",
+        "Can leave a slight white cast on deeper skin tones"
+      ],
+      "price": null,
+      "amazon_id": "B002CML1VG",
+      "sources": [
+        "https://parade.com/shopping/best-sun-protection-products-2026",
+        "https://www.dermatologyassociatesofmorris.com/storage/app/media/sunscreen-recommendations.pdf"
+      ],
+      "amazon_url": "https://www.amazon.com/Roche-Posay-Anthelios-Melt-Sunscreen-Milk/dp/B002CML1VG",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/0KGUWmRXoP0jDpYk69MviX0lOCGridR7vd9wXPoBJjg/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9oc2Fz/dG9yZS5jb20vZHcv/aW1hZ2UvdjIvQkZL/V19QUkQvb24vZGVt/YW5kd2FyZS5zdGF0/aWMvLS9TaXRlcy1o/ZWMtbWFzdGVyL2Rl/ZmF1bHQvZHdlODZm/NmRiZi9pbWFnZXMv/bGFyZ2UvbGEtcm9j/aGUtcG9zYXktYW50/aGVsaW9zLTYwLWJv/ZHktYW5kLWZhY2Ut/c3Vuc2NyZWVuLW1l/bHQtaW4tbWlsay1s/b3Rpb24tc3BmLTYw/LXdpdGgtYW50aW94/aWRhbnRzLTUtZmwt/b3otMTAxODNiLmpw/Zz9zdz05MDA",
+      "resolver": "brave",
+      "valid": true
+    }
+  ],
+  "resolvedLinks": {
+    "https://echoinsights.blog/eltamd-uv-face-sunscreen-spf-46-review/": {
+      "title": "EltaMD UV Face Sunscreen SPF 46 Review: Your Skin Needs -",
+      "description": "EltaMD UV Face Sunscreen changes everything. This lightweight formula offers broad spectrum protection without clogging your pores.",
+      "image": "https://echoinsights.blog/wp-content/uploads/2025/11/text-eltamd-uv-face-sunscreen-spf-46-review-in-1.webp",
+      "url": "https://echoinsights.blog/eltamd-uv-face-sunscreen-spf-46-review/"
+    },
+    "https://www.dermatologyassociatesofmorris.com/storage/app/media/sunscreen-recommendations.pdf": {
+      "title": "",
+      "description": "",
+      "image": "",
+      "url": "https://www.dermatologyassociatesofmorris.com/storage/app/media/sunscreen-recommendations.pdf"
+    },
+    "https://www.allure.com/story/readers-choice-skin-care-winners-2025": {
+      "title": "10 Skin-Care Products that Won 2025 Allure Readers' Choice Awards",
+      "description": "Whether tried-and-true or new on the scene, these cleansers, moisturizers, and more won Allure readers' votes this year.",
+      "image": "https://media.allure.com/photos/67e4538974d3fc1abfa14b23/16:9/w_1280,c_limit/Allure_RCA_Jordan_FEB_2025%20(1).jpg",
+      "url": "https://www.allure.com/story/readers-choice-skin-care-winners-2025"
+    }
+  }
+}

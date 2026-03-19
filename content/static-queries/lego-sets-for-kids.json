@@ -1,0 +1,107 @@
+{
+  "slug": "lego-sets-for-kids",
+  "query": "best lego sets for kids",
+  "title": "Best lego sets for kids | Bin Diving",
+  "description": "AI-dug recommendations for best lego sets for kids. Compare options and find one that fits.",
+  "dugAt": "2026-03-18T19:01:09.192Z",
+  "recommendations": [
+    {
+      "product_name": "LEGO Classic Bricks and Eyes (11003)",
+      "pros": [
+        "Great for open-ended creativity",
+        "Includes expressive 'eyes' pieces to personalize builds"
+      ],
+      "cons": [
+        "Not a themed playset (open-ended only)",
+        "Smaller piece count than large classic boxes"
+      ],
+      "price": null,
+      "amazon_id": "B07GXC4R9S",
+      "sources": [
+        "https://lego.brickinstructions.com/lego_instructions/theme/classic",
+        "https://brickerking.com/products/11003"
+      ],
+      "amazon_url": "https://www.amazon.com/LEGO-Classic-Bricks-Ideas-Building/dp/B07GXC4R9S",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/7Wj3dhQefQmbdgp4BMokGJbltl33wfhllk9Yvt-RGgE/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9zdGF0/aWMudGhjZG4uY29t/L2ltYWdlcy9zbWFs/bC9vcmlnaW5hbC8v/cHJvZHVjdGltZy8x/NjAwLzE2MDAvMTE4/ODU2NjAtMTUzNDc4/MDU1Mzc2MjYyMi5q/cGc",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "LEGO DUPLO Deluxe Brick Box (10914)",
+      "pros": [
+        "Large, toddler-safe pieces for small hands",
+        "Designed to develop fine motor and early learning skills"
+      ],
+      "cons": [
+        "Aimed at very young children (limited complexity)",
+        "Can be pricey for the piece count"
+      ],
+      "price": null,
+      "amazon_id": "B07WJJKNMD",
+      "sources": [
+        "https://www.lego.com/en-ee/categories/age/best-educational-toys-for-4-year-olds",
+        "https://gathered.how/arts-crafts/best-lego-duplo-sets-for-toddlers"
+      ],
+      "amazon_url": "https://www.amazon.com/LEGO-Classic-Starter-Educational-Toddlers/dp/B07WJJKNMD",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/X9vQCwz1VQdr3GuEOxnkLupgrBRHfgnvehz6MheNyR4/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9pNS53/YWxtYXJ0aW1hZ2Vz/LmNvbS9zZW8vTEVH/Ty1EVVBMTy1DbGFz/c2ljLURlbHV4ZS1C/cmljay1Cb3gtQnVp/bGRpbmctU2V0LVRv/eS1TdG9yYWdlLTEw/OTE0LUZpcnN0LUJy/aWNrcy1FZHVjYXRp/b25hbC1MZWFybmlu/Zy1Ub3lzLVRvZGRs/ZXJzLUtpZHMtMS01/LTMtWWVhcnMtT2xk/XzU4NTJjMzljLTY0/ODgtNGZmMC1hYTAx/LTllZGFkZTdmNjA5/ZF8zLmY1OTRiMzgy/ZjkxZGI2YThkOGJi/ZTE5NjEwMGUxOGMx/LmpwZWc_b2RuSGVp/Z2h0PTU3MyZvZG5X/aWR0aD01NzMmb2Ru/Qmc9RkZGRkZG",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "LEGO Minecraft: The Creeper / Minecraft starter sets (various)",
+      "pros": [
+        "Popular with kids who play Minecraft",
+        "Combine buildable play with recognizable characters/mobs"
+      ],
+      "cons": [
+        "Some sets have small parts — check age recommendations",
+        "Tends to target specific interests (Minecraft fans)"
+      ],
+      "price": null,
+      "amazon_id": "B0DRW8231P",
+      "sources": [
+        "https://www.lego.com/en-be/categories/minecraft",
+        "https://toynk.com/blogs/news/best-minecraft-lego-sets"
+      ],
+      "amazon_url": "https://www.amazon.com/LEGO-Minecraft-Creeper-Kids-Toy/dp/B0DRW8231P",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/j9NVxPoNoV6929CKjzM6s0fkR5-wXUTo09uiLHhmTXE/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9wcmV2/aWV3LnJlZGQuaXQv/bXktY291c2luLWdv/dC10aGlzLWxlZ28t/c2V0LWZvci1jaHJp/c3RtYXMtY2FuLWFu/eW9uZS10ZWxsLXYw/LWUwazVwaHJjMDE4/YTEuanBnP3dpZHRo/PTY0MCZjcm9wPXNt/YXJ0JmF1dG89d2Vi/cCZzPWRhYWQxZDk0/OThkOWFkNTZmMmJh/MmZjODEzNWMzYTUy/M2NkMTIwZGQ",
+      "resolver": "brave",
+      "valid": true
+    }
+  ],
+  "resolvedLinks": {
+    "https://lego.brickinstructions.com/lego_instructions/theme/classic": {
+      "title": "LEGO Classic Instructions",
+      "description": "These handy LEGO Classic instructions are here to help you with building your LEGO sets. LEGO Classic are childrens toys and are great if you can pick them up in a toy sale!",
+      "image": "https://lego.brickinstructions.com/images/FrontPage.png",
+      "url": "https://lego.brickinstructions.com/lego_instructions/theme/classic"
+    },
+    "https://brickerking.com/products/11003": {
+      "title": "Classic Bricks and Eyes 11003",
+      "description": "Create fun characters and bring personality to your LEGO® creations with this LEGO Classic 11003 Bricks and Eyes set, featuring a selection of colorful LEGO bricks, shapes and pieces, plus an assortment of eyes with different sizes, colors and expressions that will bring all your LEGO models to life. This set provides",
+      "image": "http://shop.brickerking.com/cdn/shop/products/11003-1_fdecf635-ca5f-4731-9e97-473c64586100_1200x1200.png?v=1622557944",
+      "url": "https://shop.brickerking.com/products/11003"
+    },
+    "https://www.lego.com/en-ee/categories/age/best-educational-toys-for-4-year-olds": {
+      "title": "Best Educational and Learning Toys for Kids",
+      "description": "Discover fun and educational LEGO® sets for kids, from alphabet trucks to number trains, perfect for playful learning and creative adventures",
+      "image": "https://www.lego.com/cdn/cs/set/assets/blt5ae1cce64c9ed139/HERO_-_Mobile.jpg",
+      "url": "https://www.lego.com/en-ee/categories/age/best-educational-toys-for-kids"
+    },
+    "https://gathered.how/arts-crafts/best-lego-duplo-sets-for-toddlers": {
+      "title": "Get the kids building with 21 of the best Lego Duplo sets for toddlers 2025 | Gathered",
+      "description": "Discover the best Lego Duplo sets for kids and toddlers in our round-up. Find everything from bath toys to imaginative scenes with Gathered.",
+      "image": "https://c02.purpledshub.com/uploads/sites/51/2022/02/Best-Logo-Duplo-Sets-for-Toddlers-a299105.jpg?w=1200",
+      "url": "https://www.gathered.how/arts-crafts/best-lego-duplo-sets-for-toddlers"
+    },
+    "https://toynk.com/blogs/news/best-minecraft-lego-sets": {
+      "title": "10 Best Minecraft LEGO Sets: Combining Two Iconic Worlds (2024)",
+      "description": "Discover the best Minecraft LEGO sets that bridge block-building realms. Perfect for fans of both universes. Assemble your adventure now!",
+      "image": "http://www.toynk.com/cdn/shop/articles/Best_Minecraft_Lego_Sets_8ddfd417-d19b-4f44-9d9f-741b7fd0e7e3.jpg?v=1760026863",
+      "url": "https://www.toynk.com/blogs/news/best-minecraft-lego-sets"
+    }
+  }
+}

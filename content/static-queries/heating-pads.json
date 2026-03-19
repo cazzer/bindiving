@@ -1,0 +1,110 @@
+{
+  "slug": "heating-pads",
+  "query": "best heating pads",
+  "title": "Best heating pads | Bin Diving",
+  "description": "AI-dug recommendations for best heating pads. Compare options and find one that fits.",
+  "dugAt": "2026-03-18T17:51:04.870Z",
+  "recommendations": [
+    {
+      "product_name": "Pure Enrichment PureRelief XL Heating Pad",
+      "pros": [
+        "Large coverage (12×24)",
+        "Multiple heat settings & auto-off"
+      ],
+      "cons": [
+        "Some reports of controller issues",
+        "May not retain very high heat for long"
+      ],
+      "price": null,
+      "amazon_id": "B01KVYTV7M",
+      "sources": [
+        "https://www.verywellfit.com/best-heating-pads-8559978",
+        "https://pureenrichment.com/products/purerelief-xl-king-size-heating-pad/v2",
+        "https://www.nbcnews.com/select/shopping/best-heating-pads-rcna177149"
+      ],
+      "amazon_url": "https://www.amazon.com/Pure-Enrichment-PureRelief-Heating-Turquoise/dp/B01KVYTV7M",
+      "gpt_azn": "B01KVYTV86",
+      "image_url": "https://imgs.search.brave.com/TzFZgZH-YL9ZCwc8NyofunZej8yYYZpoEXkxao014IU/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9tZWRp/YS5vZmZpY2VkZXBv/dC5jb20vaW1hZ2Vz/L2ZfYXV0byxxX2F1/dG8sZV9zaGFycGVu/LGhfNDUwL3Byb2R1/Y3RzLzk0ODY4NTIv/OTQ4Njg1Ml9vMDEv/OTQ4Njg1Mg",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "Thermophore MaxHEAT Moist Heat Pack (Large)",
+      "pros": [
+        "Clinical-grade moist heat for deep penetration",
+        "Large coverage and fast heat-up"
+      ],
+      "cons": [
+        "Higher price than basic pads",
+        "25-minute auto-off (shorter continuous time)"
+      ],
+      "price": null,
+      "amazon_id": "B008UZT4YU",
+      "sources": [
+        "https://www.thermophore.com/products/thermophore-maxheat-plus-large-model-355",
+        "https://www.yourbestdigs.com/reviews/best-heating-pad/",
+        "https://top5best.com/thermophore-heating-pad"
+      ],
+      "amazon_url": "https://www.amazon.com/Thermophore-MaxHEAT-Automatic-Moist-Large/dp/B008UZT4YU",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/XN1xCV6KNrr4cochg8s0ta1OvKphq2GDL4tXLMm7Kng/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9pNS53/YWxtYXJ0aW1hZ2Vz/LmNvbS9zZW8vVGhl/cm1vcGhvcmUtTWF4/SEVBVC1BdXRvbWF0/aWMtTW9pc3QtSGVh/dC1QYWNrLUxhcmdl/LU1vZGVsLTE1NV81/NjJkZjJjNC0zYzI4/LTRkNTQtOTQyMC0w/NDAxMmFlYzY2OGIu/OGRiNjFjYWRkY2Rj/ZGJhMDIyYjQ4OGZm/MWE2MGExZGQuanBl/Zz9vZG5IZWlnaHQ9/NTgwJm9kbldpZHRo/PTU4MCZvZG5CZz1G/RkZGRkY",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "Sunbeam AdvancedHeat / King-Size Heating Pad (12×24)",
+      "pros": [
+        "Widely available and affordable",
+        "Machine-washable cover, moist/dry options"
+      ],
+      "cons": [
+        "Mixed long-term reliability reports",
+        "Some models vary in auto‑off/features"
+      ],
+      "price": null,
+      "amazon_id": "B09T4VD6LV",
+      "sources": [
+        "https://www.sunbeam.com/pain-relief/pain-relief-with-heat-therapy/sunbeam-advancedheat-king-sized-heating-pad-sunbeam-heating-pad-for-tough-pain-relief/SAP_2163599.html",
+        "https://manuals.plus/fa/asin/B0CTKSP8XK",
+        "https://www.nbcnews.com/select/shopping/best-heating-pads-rcna177149"
+      ],
+      "amazon_url": "https://www.amazon.com/Sunbeam-AdvancedHeat-King-Sized-Heating-Relief/dp/B09T4VD6LV",
+      "gpt_azn": "B0CTKSP8XK",
+      "image_url": "https://imgs.search.brave.com/G4NaTcUT-XfcMOa7Ss7HOZO1jIdVMQ_EPk8ui0KrqkM/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9pNS53/YWxtYXJ0aW1hZ2Vz/LmNvbS9zZW8vU3Vu/YmVhbS0xMi14LTI0/LUtpbmctU2l6ZS1I/ZWF0aW5nLVBhZC13/aXRoLUNvbXBhY3Qt/U3RvcmFnZS1HcmF5/XzRhMGM5MDFiLWM2/NjItNDEyZS04Yzg1/LTQwNTBjOWQ3MGEw/ZC45MGMyYTlkYTVl/ZmNjZmVmNDY1MjM5/NDBiNDY0ZTQzNC5q/cGVnP29kbkhlaWdo/dD01ODAmb2RuV2lk/dGg9NTgwJm9kbkJn/PUZGRkZGRg",
+      "resolver": "brave",
+      "valid": true
+    }
+  ],
+  "resolvedLinks": {
+    "https://pureenrichment.com/products/purerelief-xl-king-size-heating-pad/v2": {
+      "title": "PureRelief XL – King Size Heating Pad",
+      "description": "Relax and unwind with the PureRelief® XL Heating Pad from Pure Enrichment. This electric pad provides a natural alternative to pain relief with therapeutic heat. Easily and temporarily treat life’s common discomforts like backaches, sore muscles, joint pain, stiffness, muscle spasms, and even chronic pain associated with arthritis with this soft and durable pad.",
+      "image": "http://pureenrichment.com/cdn/shop/files/PEHPAD24-B_Alt5_1200x1200.jpg?v=1765563965",
+      "url": "https://pureenrichment.com/products/purerelief-xl-king-size-heating-pad"
+    },
+    "https://www.nbcnews.com/select/shopping/best-heating-pads-rcna177149": {
+      "title": "As a gym-goer, I’m no stranger to aches and pains — these are the best heating pads that soothe my sore muscles",
+      "description": "Whether it’s from gaming or the gym , these heating pads will help to relieve pain in your muscles and joints",
+      "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2024-10/241024-heating-pads-kb-main-76d37b.jpg",
+      "url": "https://www.nbcnews.com/select/shopping/best-heating-pads-rcna177149"
+    },
+    "https://www.thermophore.com/products/thermophore-maxheat-plus-large-model-355": {
+      "title": "Thermophore MaxHEAT Plus Automatic Moist Heating Pad (Large, Model 355",
+      "description": "",
+      "image": "https://cdn.shopify.com/s/files/1/1000/8270/products/51SG3fQnHqL._AC_SL1500.jpg?v=1660921029",
+      "url": "https://www.thermophore.com/products/thermophore-maxheat-plus-large-model-355"
+    },
+    "https://www.yourbestdigs.com/reviews/best-heating-pad/": {
+      "title": "The Best Heating Pads of 2026 - Reviews by Your Best Digs",
+      "description": "After hours of research and two months of testing and reviewing, the best heating pads we found were geared for pain relief and usability.",
+      "image": "https://www.yourbestdigs.com/wp-content/uploads/2017/08/best-heating-pads-group.jpg",
+      "url": "https://www.yourbestdigs.com/reviews/best-heating-pad/"
+    },
+    "https://top5best.com/thermophore-heating-pad": {
+      "title": "Top 5 Best Thermophore Heating Pad (Fresh Picks (2026))",
+      "description": "2026's Top 5 Best Thermophore Heating Pad Top Rated and Reviewed. Easily choose and compare the Best Thermophore Heating Pad for you all in one place. (Fresh Picks (2026))",
+      "image": "https://images.top5best.com/images/list_img_s/list_315/geniani_3143181.jpg",
+      "url": "https://top5best.com/thermophore-heating-pad"
+    }
+  }
+}

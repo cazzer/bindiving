@@ -1,0 +1,128 @@
+{
+  "slug": "bugkilling-gear",
+  "query": "best bug‑killing gear",
+  "title": "Best bug‑killing gear | Bin Diving",
+  "description": "AI-dug recommendations for best bug‑killing gear. Compare options and find one that fits.",
+  "dugAt": "2026-03-18T16:20:05.948Z",
+  "recommendations": [
+    {
+      "product_name": "Flowtron BK-40D Electronic Insect Killer (1 Acre)",
+      "pros": [
+        "Large outdoor coverage (up to 1 acre)",
+        "UV light attracts many flying pests",
+        "Durable, weather-resistant design"
+      ],
+      "cons": [
+        "Not targeted—kills many nonbiting insects",
+        "Requires replacement bulbs/maintenance",
+        "Less effective for mosquitoes in some reports"
+      ],
+      "price": null,
+      "amazon_id": "B00004R9VW",
+      "sources": [
+        "https://www.forbes.com/sites/forbes-personal-shopper/article/best-bug-zappers/",
+        "https://www.thisoldhouse.com/pest-control/best-bug-zapper",
+        "https://flowtron.com/products/uv-bulb-for-bk-40"
+      ],
+      "amazon_url": "https://www.amazon.com/Flowtron-BK-40D-Electronic-Insect-Coverage/dp/B00004R9VW",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/rpFSTmxgFKE5imawHfzaJWPWtkjowW7ZD76Ysc5_Wj4/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9pbWFn/ZXMtbmEuc3NsLWlt/YWdlcy1hbWF6b24u/Y29tL2ltYWdlcy9J/LzYxUkNzN3g5UlpM/LmpwZw",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "KATCHY Indoor Insect Trap (Duo / Original)",
+      "pros": [
+        "Quiet fan + UV light with sticky glue boards",
+        "Effective for fruit flies, gnats, and indoor mosquitoes",
+        "Highly rated and widely recommended for indoor use"
+      ],
+      "cons": [
+        "Needs periodic glue-board refills",
+        "Not designed for large outdoor infestations",
+        "Less effective on larger flies/wasps"
+      ],
+      "price": null,
+      "amazon_id": "B08TKG5M4S",
+      "sources": [
+        "https://us.amazon.com/KATCHY-Automatic-Indoor-Insect-Refillable/dp/B09KWXC52B",
+        "https://bgr.com/lifestyle/mosquito-trap-for-indoor-and-outdoor-use-best-seller/",
+        "https://www.tomsguide.com/home/i-tried-3-ways-of-getting-rid-of-fruit-flies-on-amazon-and-theres-a-clear-winner"
+      ],
+      "amazon_url": "https://www.amazon.com/Katchy-Indoor-Fly-Trap-Non-Zapper/dp/B08TKG5M4S",
+      "gpt_azn": "B09KWXC52B",
+      "image_url": "https://imgs.search.brave.com/gYOarDahh0b7AoID_R8eFjx-Q54BVMZ2JXdnzVsAJuU/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9pLmVi/YXlpbWcuY29tL3Ro/dW1icy9pbWFnZXMv/Zy93bkVBQU9Td1Zs/eG5SaG9wL3MtbDMw/MC5qcGc",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "ASPECTEK Upgraded Electronic Bug Zapper (20W/40W indoor models)",
+      "pros": [
+        "Strong customer ratings for indoor use",
+        "Removable tray for easy cleaning",
+        "Includes/compatible with replacement UV bulbs"
+      ],
+      "cons": [
+        "Can be noisy when zapping",
+        "Designed primarily for indoor use",
+        "Effectiveness depends on placement and darkness"
+      ],
+      "price": null,
+      "amazon_id": "B00HSRD7RQ",
+      "sources": [
+        "https://www.thisoldhouse.com/pest-control/best-bug-zapper",
+        "https://best2buy.reviews/aspectek-20w-powerful-indoor-insect-killer-and-mosquito-zapper-idb1h4",
+        "https://best2buy.reviews/aspectek-20w-electronic-bug-zapper-insect-killer-upgrade-your-home-protection-idb1he"
+      ],
+      "amazon_url": "https://www.amazon.com/Aspectek-Electronic-Zapper-Indoor-Insect/dp/B00HSRD7RQ",
+      "gpt_azn": "B01LWLFB5U",
+      "image_url": "https://imgs.search.brave.com/SqEQeF3HYZuSgTaXRHbsh8NEBJYv9ol79gjyKWvrMPc/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9tLm1l/ZGlhLWFtYXpvbi5j/b20vaW1hZ2VzL0kv/NzF4MDYybm14Wkwu/anBn",
+      "resolver": "brave",
+      "valid": true
+    }
+  ],
+  "resolvedLinks": {
+    "https://www.thisoldhouse.com/pest-control/best-bug-zapper": {
+      "title": "Our 6 Best Bug Zapper Picks (2026)",
+      "description": "Our review of the best bug zappers will help you find a tool to manage pests in your yard or home without using bug sprays.",
+      "image": "https://dlczb9lfz9r73.cloudfront.net/wp-content/uploads/2025/04/24064521/best_bug_zapper_panel-scaled-2-1024x683.jpg",
+      "url": "https://www.thisoldhouse.com/pest-control/best-bug-zapper"
+    },
+    "https://flowtron.com/products/uv-bulb-for-bk-40": {
+      "title": "Flowtron Ultraviolet Replacement Bulb for 1 Acre Bug Zapper",
+      "description": "Flowtron BF190 UV bulb revives your FLWBK40's bug-zapping power. Order now & reclaim your bite-free zone!",
+      "image": "http://flowtron.com/cdn/shop/files/FLWBF190-Hero.png?v=1716967388",
+      "url": "https://flowtron.com/products/uv-bulb-for-bk-40"
+    },
+    "https://us.amazon.com/KATCHY-Automatic-Indoor-Insect-Refillable/dp/B09KWXC52B": {
+      "title": "Amazon.com : Katchy Midnight Indoor Insect/Bug Trap with Auto Mode & 8 Pack Refillable Glue Boards : Patio, Lawn & Garden",
+      "description": "",
+      "image": "",
+      "url": "https://us.amazon.com/KATCHY-Automatic-Indoor-Insect-Refillable/dp/B09KWXC52B"
+    },
+    "https://bgr.com/lifestyle/mosquito-trap-for-indoor-and-outdoor-use-best-seller/": {
+      "title": "This Mosquito Trap Actually Works, According To 63,000 Amazon Shoppers - BGR",
+      "description": "You need a mosquito trap for indoor use now that warmer summer weather is here. The Katchy indoor fly & mosquito trap is the best one.",
+      "image": "https://www.bgr.com/bgr/lifestyle/mosquito-trap-for-indoor-and-outdoor-use-best-seller/kathy-indoor-mosquitto-trap.jpg",
+      "url": "https://www.bgr.com/lifestyle/mosquito-trap-for-indoor-and-outdoor-use-best-seller/"
+    },
+    "https://www.tomsguide.com/home/i-tried-3-ways-of-getting-rid-of-fruit-flies-on-amazon-and-theres-a-clear-winner": {
+      "title": "I finally banished fruit flies for good using this $7 gadget from Amazon",
+      "description": "It's the clear winner",
+      "image": "https://cdn.mos.cms.futurecdn.net/vbhfQP3arG8SFCw5kwE75E-1600-80.jpg",
+      "url": "https://www.tomsguide.com/home/i-tried-3-ways-of-getting-rid-of-fruit-flies-on-amazon-and-theres-a-clear-winner"
+    },
+    "https://best2buy.reviews/aspectek-20w-powerful-indoor-insect-killer-and-mosquito-zapper-idb1h4": {
+      "title": "ASPECTEK 20W Powerful Indoor Insect Killer and Mosquito Zapper",
+      "description": "If you're looking for an effective and reliable way to get rid of pesky bugs in your home, the ASPECTEK 20W Indoor Bug Zapper is the perfect solution. With...",
+      "image": "https://m.media-amazon.com/images/I/51qe6UTyiVL._SL500_.jpg",
+      "url": "https://best2buy.reviews/aspectek-20w-powerful-indoor-insect-killer-and-mosquito-zapper-idb1h4"
+    },
+    "https://best2buy.reviews/aspectek-20w-electronic-bug-zapper-insect-killer-upgrade-your-home-protection-idb1he": {
+      "title": "ASPECTEK 20W Electronic Bug Zapper Insect Killer: Upgrade Your Home Protection",
+      "description": "The ASPECTEK Upgraded 20W Electronic Bug Zapper is the perfect insect killer for your home. This device is capable of eliminating mosquitos, flies, moths,...",
+      "image": "https://m.media-amazon.com/images/I/51B3Y9H2W7S._SL500_.jpg",
+      "url": "https://best2buy.reviews/aspectek-20w-electronic-bug-zapper-insect-killer-upgrade-your-home-protection-idb1he"
+    }
+  }
+}

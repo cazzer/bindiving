@@ -1,0 +1,104 @@
+{
+  "slug": "dog-leashes",
+  "query": "best dog leashes",
+  "title": "Best dog leashes | Bin Diving",
+  "description": "AI-dug recommendations for best dog leashes. Compare options and find one that fits.",
+  "dugAt": "2026-03-18T19:02:04.659Z",
+  "recommendations": [
+    {
+      "product_name": "Ruffwear Roamer Bungee Dog Leash",
+      "pros": [
+        "Bungee shock absorption",
+        "Hands-free/wearable options",
+        "Durable, padded handles"
+      ],
+      "cons": [
+        "Bungee may stretch over time",
+        "Less control for strong pullers"
+      ],
+      "price": null,
+      "amazon_id": "B0C7D47Q3Q",
+      "sources": [
+        "https://ruffwear.com/products/roamer-bungee-dog-leash",
+        "https://gearjunkie.com/dogs/best-dog-leashes"
+      ],
+      "amazon_url": "https://www.amazon.com/Ruffwear-Roamer-Running-Hand-Held-Hands-Free/dp/B0C7D47Q3Q",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/jP4ct_cwmTadC0Tik-ey2MDqpYlPJOQhjDK-_NRHDtY/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9tLm1l/ZGlhLWFtYXpvbi5j/b20vaW1hZ2VzL0kv/NzF2MmxKVERzVkwu/anBn",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "Max and Neo Double Handle Traffic Dog Leash (Reflective)",
+      "pros": [
+        "Double handles for close control",
+        "Reflective stitching for night walks",
+        "Sturdy, budget-friendly construction"
+      ],
+      "cons": [
+        "Nylon can retain moisture",
+        "Not specialized for running or hiking"
+      ],
+      "price": null,
+      "amazon_id": "B019YPYG4W",
+      "sources": [
+        "https://www.forbes.com/sites/forbes-personal-shopper/article/best-dog-leash/",
+        "https://buyary.com/product/max-and-neo-double-handle-heavy-duty-reflective-leash"
+      ],
+      "amazon_url": "https://www.amazon.com/Max-Neo-Double-Traffic-Reflective/dp/B019YPYG4W",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/zUvgYYHmW11jtmaxw35ESFq1DgK1Oq0rEDcd6i9qQGM/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9tLm1l/ZGlhLWFtYXpvbi5j/b20vaW1hZ2VzL0kv/NjFnbm9tT3pqNkwu/anBn",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "FLEXI New Classic Retractable Dog Leash",
+      "pros": [
+        "One-handed brake/lock",
+        "Multiple length options (up to 26 ft)",
+        "Widely available and popular"
+      ],
+      "cons": [
+        "Retractables offer less close control",
+        "Not recommended for strong pullers or busy roads"
+      ],
+      "price": null,
+      "amazon_id": "B01NAR3GSB",
+      "sources": [
+        "https://bestchoice.com/comparison/flexi-new-classic-retractable",
+        "https://go-snoop.com/product/flexi-new-classic-cord-retractable-dog-leash-for-small-dogs-up-to-33-lbs"
+      ],
+      "amazon_url": "https://www.amazon.com/Flexi-Classic-Retractable-Leash-Black/dp/B01NAR3GSB",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/dxzDos_wmRb8c5DQ-TWHdiBRdQvVxktQOmoWSctrL3g/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9pLmVi/YXlpbWcuY29tL2lt/YWdlcy9nL0JNd0FB/T1N3YUFobm1WSGEv/cy1sOTYwLndlYnA",
+      "resolver": "brave",
+      "valid": true
+    }
+  ],
+  "resolvedLinks": {
+    "https://ruffwear.com/products/roamer-bungee-dog-leash": {
+      "title": "Roamer™ Bungee Dog Leash with Traffic Handle | Ruffwear",
+      "description": "Enjoy any type of adventure with our hands free dog leash. Our adjustable Roamer™ Leash is perfect for running or hiking together! Get connected & explore now!",
+      "image": "https://ruffwear.com/cdn/shop/files/40356_RoamerLeash_YellowSnow_SMALL_80a145c4-7e31-4cb2-9607-9e2db3af92f7_882x589.png?v=1716320775",
+      "url": "https://ruffwear.com/products/roamer-bungee-dog-leash"
+    },
+    "https://gearjunkie.com/dogs/best-dog-leashes": {
+      "title": "The Best Dog Leashes of 2025",
+      "description": "We tested the best dog leashes with options for every budget. Top picks include Ruffwear, Orvis, Fido Pro, and more!",
+      "image": "https://s3.us-east-1.amazonaws.com/images.gearjunkie.com/uploads/2024/05/IMG_1869.jpg",
+      "url": "https://gearjunkie.com/dogs/best-dog-leashes"
+    },
+    "https://buyary.com/product/max-and-neo-double-handle-heavy-duty-reflective-leash": {
+      "title": "Buyary | Max and Neo Double Handle Heavy Duty Reflective Leash Review & Prices",
+      "description": "Max and Neo Double Handle Heavy Duty Reflective Leash - Durable double-handle design with padded grips and reflective stitching praised for control and comfort.",
+      "image": "https://buyary.com/api/og/og-compression?url=https%3A%2F%2Fbuyary.com%2Fapi%2Fog%2Fproduct-standard%3Fname%3DMax%2520and%2520Neo%2520Double%2520Handle%2520Heavy%2520Duty%2520Reflective%2520Leash%26subheading%3DDurable%2520double-handle%2520design%2520with%2520padded%2520grips%2520and%2520reflective%2520stitching%2520praised%2520for%2520control%2520and%2520comfort.%26image_url%3Dhttps%253A%252F%252Fbuyary.com%252Fapi%252Fog%252Fog-img%253Furl%253Dhttps%25253A%25252F%25252Fbuyary-product-images.s3.us-east-1.amazonaws.com%25252F93429fcb-9572-42d1-b1d8-1eda6937c0bf%25252Fraw%25252Fd4e4428d-2c0e-4d05-a4a9-1635087767a2.jpg%26v%3D3",
+      "url": "https://buyary.com/reviews/dog-leashes/max-and-neo-double-handle-heavy-duty-reflective-leash"
+    },
+    "https://bestchoice.com/comparison/flexi-new-classic-retractable": {
+      "title": "",
+      "description": "",
+      "image": "",
+      "url": "https://bestchoice.com/comparison/flexi-new-classic-retractable"
+    }
+  }
+}

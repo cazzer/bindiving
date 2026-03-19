@@ -1,0 +1,125 @@
+{
+  "slug": "handheld-gaming-consoles",
+  "query": "best handheld gaming consoles",
+  "title": "Best handheld gaming consoles | Bin Diving",
+  "description": "AI-dug recommendations for best handheld gaming consoles. Compare options and find one that fits.",
+  "dugAt": "2026-03-18T18:57:18.043Z",
+  "recommendations": [
+    {
+      "product_name": "Valve Steam Deck OLED",
+      "pros": [
+        "Excellent OLED display",
+        "Polished SteamOS library and integration",
+        "Strong battery life for handheld PC"
+      ],
+      "cons": [
+        "Occasional stock shortages",
+        "Limited to Steam ecosystem for best experience"
+      ],
+      "price": null,
+      "amazon_id": "B0CQ3L4726",
+      "sources": [
+        "https://zynuvo.com/best-handheld-gaming-pc-2026-comparison/",
+        "https://www.tomsguide.com/gaming/handheld-gaming/steam-deck-oled-restock-im-tracking-all-inventory-so-you-dont-have-to",
+        "https://www.pcgamer.com/hardware/valve-has-quietly-discontinued-the-last-lcd-steam-deck-model/"
+      ],
+      "amazon_url": "https://www.amazon.com/Valve-Steam-Handheld-Gaming-Console/dp/B0CQ3L4726",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/xRrHvMypqmQUeB9mv1SGgxPB22iZpOhAfYq7mMQJVAI/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9pNS53/YWxtYXJ0aW1hZ2Vz/LmNvbS9zZW8vVmFs/dmUtU3RlYW0tRGVj/ay1PTEVELTctNC0x/MjgwLXgtODAwcHgt/SGFuZGhlbGQtR2Ft/aW5nLUNvbnNvbGUt/MTZHQi1SQU0tNTEy/R0ItU1NELTkwSHot/U3RlYW0tT1MtMy0w/LTVBVkVfNDljN2Nk/NTMtMDJiZC00ODcw/LThlMjctOTc1MzU3/NTgzOWM3LjM0MTU2/YTVlZjkwMDI0ZDM4/MDE2ZDI0OWM4Mzc0/YTA5LmpwZWc_b2Ru/SGVpZ2h0PTU3MyZv/ZG5XaWR0aD01NzMm/b2RuQmc9RkZGRkZG",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "Nintendo Switch – OLED Model",
+      "pros": [
+        "Best first-party Nintendo library (Mario, Zelda, Pokémon)",
+        "Simple, family-friendly console experience",
+        "Bright 7-inch OLED screen for handheld play"
+      ],
+      "cons": [
+        "Less powerful than PC handhelds",
+        "Fewer third‑party AAA PC ports"
+      ],
+      "price": null,
+      "amazon_id": "B098RKWHHZ",
+      "sources": [
+        "https://www.nintendo.com/us/gaming-systems/switch/oled-model/",
+        "https://www.nbcnews.com/select/shopping/best-handheld-gaming-systems-ncna1291097",
+        "https://www.gamespot.com/articles/nintendo-switch-oled-restock-is-live-at-amazon/1100-6493582/"
+      ],
+      "amazon_url": "https://www.amazon.com/Nintendo-Switch-OLED-Model-White-Joy/dp/B098RKWHHZ",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/P2qCLLAzvKw4mxLb6JP3UpFSdNNhBTOSa2tk1vR9-Mw/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9wbGF0/Zm9ybS50aGV2ZXJn/ZS5jb20vd3AtY29u/dGVudC91cGxvYWRz/L3NpdGVzLzIvY2hv/cnVzL3VwbG9hZHMv/Y2hvcnVzX2Fzc2V0/L2ZpbGUvMjI3MDcx/ODcvTmludGVuZG9T/d2l0Y2hPTEVEbW9k/ZWxfVGFibGV0b3Bf/MDEuanBnP3F1YWxp/dHk9OTAmc3RyaXA9/YWxsJmNyb3A9Ny44/MTI1LDAsODQuMzc1/LDEwMCZ3PTI0MDA",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "ASUS ROG Xbox Ally",
+      "pros": [
+        "High-performance Windows handheld (strong CPU/GPU)",
+        "Xbox Game Pass integration available",
+        "Good value during periodic retailer discounts"
+      ],
+      "cons": [
+        "Shorter battery life under heavy load",
+        "Windows can feel less streamlined than dedicated consoles"
+      ],
+      "price": null,
+      "amazon_id": "B0FM6C3ZMN",
+      "sources": [
+        "https://www.xbox.com/en-US/handhelds/rog-xbox-ally",
+        "https://www.tomshardware.com/video-games/handheld-gaming/asus-rog-xbox-ally-and-ally-x-available-for-pre-order-worldwide-u-s-pricing-starts-at-usd599-and-usd999-respectively",
+        "https://www.gamespot.com/articles/asus-rog-xbox-ally-handheld-gaming-pc-holiday-amazon-deal/1100-6536577/"
+      ],
+      "amazon_url": "https://www.amazon.com/ASUS-ROG-Xbox-Ally-Touchscreen/dp/B0FM6C3ZMN",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/Y3dMyaLKrwY2YO8ZQhKdOyQbuBuPEhrd6_aYrEMFwEI/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9pMC53/cC5jb20veGJveGVy/YS5jb20vd3AtY29u/dGVudC91cGxvYWRz/LzIwMjUvMDgvcm9n/LXhib3gtYWxseS14/LS5qcGc_dz03MDgm/c3NsPTE",
+      "resolver": "brave",
+      "valid": true
+    }
+  ],
+  "resolvedLinks": {
+    "https://zynuvo.com/best-handheld-gaming-pc-2026-comparison/": {
+      "title": "Steam Deck OLED vs. ROG Ally vs. Legion Go S: Best Handheld 2026?",
+      "description": "What is the best handheld gaming PC 2026? We compare Steam Deck OLED vs. ASUS ROG Ally vs. Lenovo Legion Go S to find the winner.",
+      "image": "https://zynuvo.com/wp-content/uploads/2025/12/ChatGPT-Image-30.-Dez.-2025-02_21_31.jpg",
+      "url": "https://zynuvo.com/best-handheld-gaming-pc-2026-comparison/"
+    },
+    "https://www.tomsguide.com/gaming/handheld-gaming/steam-deck-oled-restock-im-tracking-all-inventory-so-you-dont-have-to": {
+      "title": "Steam Deck OLED restock: I'm tracking all inventory so you don't have to",
+      "description": "Plus, my top Steam Deck OLED alternatives",
+      "image": "https://cdn.mos.cms.futurecdn.net/ePtQiRAw8M9V2QGMEyEFTG-2560-80.jpg",
+      "url": "https://www.tomsguide.com/gaming/handheld-gaming/steam-deck-oled-restock-im-tracking-all-inventory-so-you-dont-have-to"
+    },
+    "https://www.pcgamer.com/hardware/valve-has-quietly-discontinued-the-last-lcd-steam-deck-model/": {
+      "title": "Valve has quietly discontinued the last LCD Steam Deck model",
+      "description": "A disclaimer on the Steam Deck page notes that no more would be made once sold out, and, well, they went pretty fast.",
+      "image": "https://cdn.mos.cms.futurecdn.net/YMcp2XkBt2gj5tdifuM2da-1824-80.jpg",
+      "url": "https://www.pcgamer.com/hardware/valve-has-quietly-discontinued-the-last-lcd-steam-deck-model/"
+    },
+    "https://www.nintendo.com/us/gaming-systems/switch/oled-model/": {
+      "title": "Nintendo Switch – OLED Model - Nintendo - Official Site",
+      "description": "Learn about the Nintendo Switch™ – OLED Model system, with its vibrant 7-inch OLED screen, wide adjustable stand, dock with a wired LAN port, 64 GB of internal storage, and enhanced audio.",
+      "image": "https://assets.nintendo.com/image/upload/v1643742733/ncom/global/social-share.jpg",
+      "url": "https://www.nintendo.com/us/gaming-systems/switch/oled-model/"
+    },
+    "https://www.nbcnews.com/select/shopping/best-handheld-gaming-systems-ncna1291097": {
+      "title": "3 important things to consider when buying a handheld gaming console",
+      "description": "We asked experts about their favorite handheld consoles and why they chose them.",
+      "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2023-07/230719-handheld-consoles-vl-387b2b.jpg",
+      "url": "https://www.nbcnews.com/select/shopping/best-handheld-gaming-systems-ncna1291097"
+    },
+    "https://www.xbox.com/en-US/handhelds/rog-xbox-ally": {
+      "title": "ROG Xbox Ally X & ROG Xbox Ally | Xbox",
+      "description": "Get seamless PC gaming on the go with ROG Xbox Ally X & ROG Xbox Ally gaming handhelds. Power on into the Xbox full screen experience optimized for handheld gaming.",
+      "image": "https://cms-assets.xboxservices.com/assets/45/b3/45b363a1-ddef-4eaa-a5b0-7d1dbe10a4a6.jpg?n=ROG-Xbox-Ally_Sharing_200x200_01.jpg",
+      "url": "https://www.xbox.com/en-US/handhelds/rog-xbox-ally"
+    },
+    "https://www.tomshardware.com/video-games/handheld-gaming/asus-rog-xbox-ally-and-ally-x-available-for-pre-order-worldwide-u-s-pricing-starts-at-usd599-and-usd999-respectively": {
+      "title": "Asus ROG Xbox Ally and Ally X available for pre-order worldwide – U.S. pricing starts at $599 and $999 respectively",
+      "description": "Both consoles are powered by AMD's new Ryzen Z2 series chips",
+      "image": "https://cdn.mos.cms.futurecdn.net/hjwCKNKej9ZpkkHHp5tq9i-1888-80.jpg",
+      "url": "https://www.tomshardware.com/video-games/handheld-gaming/asus-rog-xbox-ally-and-ally-x-available-for-pre-order-worldwide-u-s-pricing-starts-at-usd599-and-usd999-respectively"
+    }
+  }
+}

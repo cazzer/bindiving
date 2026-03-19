@@ -1,0 +1,133 @@
+{
+  "slug": "crib-mattresses",
+  "query": "best crib mattresses",
+  "title": "Best crib mattresses | Bin Diving",
+  "description": "AI-dug recommendations for best crib mattresses. Compare options and find one that fits.",
+  "dugAt": "2026-03-18T22:12:00.135Z",
+  "recommendations": [
+    {
+      "product_name": "Newton Original Crib Mattress",
+      "pros": [
+        "Breathable, washable core",
+        "Firm, supportive sleep surface"
+      ],
+      "cons": [
+        "Higher price than basic foam options",
+        "Some parents report firm feel may be too hard"
+      ],
+      "price": null,
+      "amazon_id": "B00WR958TA",
+      "sources": [
+        "https://www.sleepfoundation.org/mattress-reviews/newton-crib-mattress-review",
+        "https://www.babygearlab.com/reviews/nursery-furniture/crib-mattress/newton-original",
+        "https://www.newtonbaby.com/products/newton-crib-mattress"
+      ],
+      "amazon_url": "https://www.amazon.com/Newton-Baby-Crib-Mattress-Toddler/dp/B00WR958TA",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/XF29NOHK8gJ7-9KczJ4SvnKsaxlLQhsfdzb2lqmgDHo/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9nb29k/YnV5Z2Vhci5jb20v/Y2RuL3Nob3AvcHJv/ZHVjdHMvZDk5NTYy/YzRiYjE0MGE0YmUy/MmM0YjNhZGYwYjJl/ZjNfNTEyeDU5NS5q/cGc_dj0xNjMwOTU1/NTc1",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "Naturepedic Organic Breathable Baby Crib Mattress",
+      "pros": [
+        "Certified organic materials",
+        "Breathable design plus waterproof cover options"
+      ],
+      "cons": [
+        "Heavier than polyfoam alternatives",
+        "Higher price for organic construction"
+      ],
+      "price": null,
+      "amazon_id": "B07NQN9XBT",
+      "sources": [
+        "https://www.naturepedic.com/organic-breathable-baby-crib-mattress-buy",
+        "https://www.leafscore.com/eco-friendly-kids-products/naturepedic-organic-cotton-classic-crib-mattress-review/",
+        "https://www.forbes.com/sites/forbes-personal-shopper/article/the-best-crib-mattress//"
+      ],
+      "amazon_url": "https://www.amazon.com/Naturepedic-Breathable-Mattress-Removable-Washable/dp/B07NQN9XBT",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/0UXkewX8Fx3Duz3eHmvWT_e5HsHRkVMcYiaSs13ygpc/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9sYWtl/bGFuZGJhYnlvbmxp/bmUuY29tL2Nkbi9z/aG9wL3Byb2R1Y3Rz/L25wX21jNDZfbGlm/ZXN0eWxlX2RzY2Yw/MDU0Yl9zcV9xMTAw/XzFfMi5qcGc_dj0x/NjgwODAzMjY0",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "Saatva Dual-Sided Crib Mattress",
+      "pros": [
+        "Flippable dual-firmness (infant + toddler)",
+        "Hybrid construction with eco-conscious materials"
+      ],
+      "cons": [
+        "More expensive than many basic crib mattresses",
+        "Some reviewers found side labeling/firmness difference subtle"
+      ],
+      "price": "$199.99",
+      "amazon_id": "B003XT43MG",
+      "sources": [
+        "https://www.sleepfoundation.org/best-mattress/best-crib-mattress",
+        "https://sleepopolis.com/crib-mattress-reviews/",
+        "https://thesaatvamattress.com/"
+      ],
+      "image_url": "https://images-na.ssl-images-amazon.com/images/G/01/x-locale/common/grey-pixel.gif",
+      "images": [
+        "https://images-na.ssl-images-amazon.com/images/G/01/x-locale/common/grey-pixel.gif"
+      ],
+      "amazon_url": "https://www.amazon.com/Moonlight-Slumber-Dreamer-Surface-Mattress/dp/B003XT43MG/ref=mp_s_a_1_1?dib=eyJ2IjoiMSJ9.WzA2s08RuqigJM7sQUejPJUmYfCYcXiZh7a-ua53LyrtfAhKre8CrHWCAzrfY4vu83wfNc9pCIIr8ewzC4k7FL_EGLjrLF732sX8MhUfUtIoOAHPqvRsaoJqbkIhw2GW55kFmQcOH3jmIp6MYMj35QidyiVFC2Z6eg6Lm7F8F9ugWO3vvEUkPOi7MWU7GPxzNzAjjhb-BfeyWeQ0f3-xbQ.cobK7XdF3FzJ8SIRCXpq-iNwDHm5mowLPF4nuQKAVN0&dib_tag=se&keywords=Saatva+Dual-Sided+Crib+Mattress&qid=1773871911&sr=8-1",
+      "brand": "Moonlight Slumber",
+      "blackFriday": false,
+      "gpt_azn": null,
+      "resolver": "cheerio",
+      "valid": true
+    }
+  ],
+  "resolvedLinks": {
+    "https://www.sleepfoundation.org/mattress-reviews/newton-crib-mattress-review": {
+      "title": "Newton Crib Mattress Review: Test Lab Ratings",
+      "description": "The Newton Crib Mattress offers excellent performance features for infants and toddlers. We'll help you decide if it's a good fit for your family.",
+      "image": "https://www.sleepfoundation.org/wp-content/uploads/2021/04/Newton-Crib-Mattress-1.jpg",
+      "url": "https://www.sleepfoundation.org/mattress-reviews/newton-crib-mattress-review"
+    },
+    "https://www.babygearlab.com/reviews/nursery-furniture/crib-mattress/newton-original": {
+      "title": "Newton Original Review",
+      "description": "The Newton Original is an innovative mattress with a spun foam-grade polymer core that creates what the company calls a \"breathable\" pad that is washable...",
+      "image": "https://d1awg155xx98w6.cloudfront.net/photos/41/39/535453_12136_XXL.jpg",
+      "url": "https://www.babygearlab.com/reviews/nursery-furniture/crib-mattress/newton-original"
+    },
+    "https://www.newtonbaby.com/products/newton-crib-mattress": {
+      "title": "Crib Mattress | Newton Baby",
+      "description": "Buy the ultra-breathable, completely washable baby crib mattress. Enjoy peace of mind knowing that your baby's mattress is both safe and hygienic.",
+      "image": "http://www.newtonbaby.com/cdn/shop/products/600x600-Mattress---Original-WHT.jpg?v=1634649623",
+      "url": "https://www.newtonbaby.com/products/newton-crib-mattress"
+    },
+    "https://www.naturepedic.com/organic-breathable-baby-crib-mattress-buy": {
+      "title": "Organic Breathable Crib Mattress - Baby &amp; Toddler | Naturepedic",
+      "description": "With 360 degrees of airflow, Naturepedic makes what may be the only certified organic, waterproof and breathable crib mattresses in the world. The removable breathable and washable layer is also a built-in mattress protector. Made from safer, healthier materials such as 100% GOTS certified organic cotton. Waterproof surface made from non-GMO sugarcane. 100% Vegan. No glues or adhesives, no polyurethane foam, passes flame standards without fire retardants or chemical additives.100-NIGHT TRIAL | LIFETIME WARRANTY | FREE RETURNS",
+      "image": "https://www.naturepedic.com/media/catalog/product/n/p/np_web_pdp_listingimg_crib-breathe_2000x2000px.jpg?width=800&height=&canvas=800,&optimize=medium&bg-color=255,255,255&fit=bounds",
+      "url": "https://www.naturepedic.com/organic-breathable-baby-crib-mattress-buy"
+    },
+    "https://www.leafscore.com/eco-friendly-kids-products/naturepedic-organic-cotton-classic-crib-mattress-review/": {
+      "title": "Naturepedic Crib Mattress Review: Read This Before Buying",
+      "description": "Naturepedic crib mattress review. Everything you need to know about Naturepedic's line of non-toxic, organic crib mattresses.",
+      "image": "https://www.leafscore.com/wp-content/uploads/2025/04/IMG_0886-edited-1-scaled.jpeg",
+      "url": "https://www.leafscore.com/eco-friendly-kids-products/naturepedic-organic-cotton-classic-crib-mattress-review/"
+    },
+    "https://www.sleepfoundation.org/best-mattress/best-crib-mattress": {
+      "title": "Best Crib Mattresses of 2026",
+      "description": "Choosing a crib mattress doesn’t have to be stressful. We’ll walk you through everything you need to know before buying a mattress for your baby.",
+      "image": "https://www.sleepfoundation.org/wp-content/uploads/2021/01/Saatva-Crib-Mattress.jpg",
+      "url": "https://www.sleepfoundation.org/best-mattress/best-crib-mattress"
+    },
+    "https://sleepopolis.com/crib-mattress-reviews/": {
+      "title": "Best Crib Mattresses (2026) – Personally Tested",
+      "description": "If you’re looking for the safest possible crib mattress for your little one, you’re in the right place. See which crib mattresses our testers loved most.",
+      "image": "https://sleepopolis.com/wp-content/uploads/2026/01/avocado-luxury-crib-mattress-with-child.jpg",
+      "url": "https://sleepopolis.com/crib-mattress-reviews/"
+    },
+    "https://thesaatvamattress.com/": {
+      "title": "Saatva Mattress - Saatva® Official Site",
+      "description": "Discover Saatva Mattress for superior comfort and support. Made with eco-friendly materials, our luxury mattresses are designed for a restful sleep experience.",
+      "image": "https://thesaatvamattress.com/wp-content/uploads/2025/11/PddScreenShot_20251105171555.jpg",
+      "url": "https://thesaatvamattress.com/"
+    }
+  }
+}

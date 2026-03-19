@@ -1,0 +1,116 @@
+{
+  "slug": "nonstick-pans",
+  "query": "best nonstick pans",
+  "title": "Best nonstick pans | Bin Diving",
+  "description": "AI-dug recommendations for best nonstick pans. Compare options and find one that fits.",
+  "dugAt": "2026-03-18T16:55:01.954Z",
+  "recommendations": [
+    {
+      "product_name": "HexClad Hybrid Nonstick Frying Pan (10-inch)",
+      "pros": [
+        "Hybrid stainless-steel + nonstick",
+        "Durable, metal-utensil safe",
+        "Good searing performance"
+      ],
+      "cons": [
+        "Premium price",
+        "Not for extremely high dry-heat searing"
+      ],
+      "price": null,
+      "amazon_id": "B07WLQTCRH",
+      "sources": [
+        "https://www.reddit.com/r/fryingpans/comments/1re055p/best_frying_pans_2026/",
+        "https://housekeepingmaster.com/best-non-stick-pan/"
+      ],
+      "amazon_url": "https://www.amazon.com/HexClad-Nonstick-Dishwasher-Friendly-Compatible/dp/B07WLQTCRH",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/vItbCTvRgC6QEammx8mDbd9hFHDaLEFs4SAiDpXB9pA/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9tLm1l/ZGlhLWFtYXpvbi5j/b20vaW1hZ2VzL0kv/NDE0M2t5V1NpcUwu/anBn",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "GreenPan GP5 Infinite8 Ceramic Nonstick Frypan (10-inch)",
+      "pros": [
+        "PTFE/PFOA-free ceramic coating",
+        "Works well for eggs and low‑to‑medium heat cooking",
+        "Widely recommended in recent roundups"
+      ],
+      "cons": [
+        "Ceramic coating can lose slickness over time",
+        "Less tolerant of high heat than PTFE coatings"
+      ],
+      "price": null,
+      "amazon_id": "B0B72FQLRY",
+      "sources": [
+        "https://www.foodnetwork.com/how-to/packages/shopping/product-reviews/best-nonstick-frying-pans",
+        "https://www.homesandgardens.com/buying-guides/best-non-stick-frying-pans"
+      ],
+      "amazon_url": "https://www.amazon.com/GreenPan-Anodized-Resistant-Induction-PFAS-Free/dp/B0B72FQLRY",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/eA5ixgm4MbknX-Fggu6mAWalEyD3GLTgxXaAtagJiX0/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly93d3cu/Z3JlZW5wYW4udXMv/Y2RuL3Nob3AvZmls/ZXMvTkMtQ0MwMDY0/MDItMDAyLTgtMTIw/MHgxMjAwLWJkOTNj/MGYuanBnP3Y9MTY4/NTA0ODkxNCZ3aWR0/aD0xMjAw",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "Tramontina Professional Aluminum Nonstick Fry Pan (12-inch)",
+      "pros": [
+        "Excellent value and heat conduction",
+        "Affordable and widely recommended",
+        "Lightweight and easy to handle"
+      ],
+      "cons": [
+        "Coating may wear sooner with heavy use",
+        "Not as long-lived as premium brands"
+      ],
+      "price": null,
+      "amazon_id": "B009HBKQR0",
+      "sources": [
+        "https://delishing.com/nonstick-pans-ranked-worst-to-best/",
+        "https://therationalkitchen.com/nonstick-cookware-brands-ptfe-or-ceramic/"
+      ],
+      "amazon_url": "https://www.amazon.com/Tramontina-80114-536DS-NSF-Certified-Professional/dp/B009HBKQR0",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/EgccvG_jsZqB5Qz04vvW1ZGYC3AMrc0BoLpBiRfZDNI/rs:fit:0:180:1:0/g:ce/aHR0cHM6Ly9pLmVi/YXlpbWcuY29tL2lt/YWdlcy9nL3RtNEFB/T1N3Y1NsZ1VQS1gv/cy1sMjI1LmpwZw",
+      "resolver": "brave",
+      "valid": true
+    }
+  ],
+  "resolvedLinks": {
+    "https://www.reddit.com/r/fryingpans/comments/1re055p/best_frying_pans_2026/": {
+      "title": "Reddit - The heart of the internet",
+      "description": "",
+      "image": "",
+      "url": "https://www.reddit.com/r/fryingpans/comments/1re055p/best_frying_pans_2026/"
+    },
+    "https://housekeepingmaster.com/best-non-stick-pan/": {
+      "title": "7 Best Non Stick Pan In 2026 - housekeepingmaster.com",
+      "description": "Best-Non-Stick-Pan: Madura Plus is a pancake pan that performed well in all our tests. It produces evenly browned pancakes and doesn’t degrade with use.",
+      "image": "https://housekeepingmaster.com/wp-content/uploads/2023/01/Best-Non-Stick-Pan.png",
+      "url": "https://housekeepingmaster.com/best-non-stick-pan/"
+    },
+    "https://www.foodnetwork.com/how-to/packages/shopping/product-reviews/best-nonstick-frying-pans": {
+      "title": "4 Best Nonstick Frying Pans of 2026, Tested and Reviewed",
+      "description": "After more than five years of extensively testing nonstick pans, these are the four best pans worth buying.",
+      "image": "https://food.fnr.sndimg.com/content/dam/images/food/products/2022/12/8/FN-ProductTestingImages-19-NONSTICK-PANS-v1.png.rend.hgtvcom.616.462.85.suffix/1670600594552.webp",
+      "url": "https://www.foodnetwork.com/how-to/packages/shopping/product-reviews/best-nonstick-frying-pans"
+    },
+    "https://www.homesandgardens.com/buying-guides/best-non-stick-frying-pans": {
+      "title": "Our Chef Tested the Best Non-Stick Frying Pans – These Are the Top 6 for Perfect Pancakes, Fried Eggs, and Delicate Fish in 2026",
+      "description": "Tired of food sticking to the pan and spoiling? These tried-and-tested non-stick pans will minimize the mess and waste",
+      "image": "https://cdn.mos.cms.futurecdn.net/bfUyqvVpEgYVvrbq2Z6aAB-1600-80.jpg",
+      "url": "https://www.homesandgardens.com/buying-guides/best-non-stick-frying-pans"
+    },
+    "https://delishing.com/nonstick-pans-ranked-worst-to-best/": {
+      "title": "Discover Which Nonstick Pan Tops the List! - delishing",
+      "description": "I’ve had my share of kitchen fails – think eggs glued to the pan and pancakes that just wouldn’t flip. It’s why I went on a mission to find the ultimate nonstick pan. After diving into 2025 reviews from trusted sources like Wirecutter, Food Network, and Consumer Reports, plus user feedback on platforms like X, […]",
+      "image": "https://delishing.com/wp-content/uploads/2025/04/nonstick-pan.jpg",
+      "url": "https://delishing.com/nonstick-pans-ranked-worst-to-best/"
+    },
+    "https://therationalkitchen.com/nonstick-cookware-brands-ptfe-or-ceramic/": {
+      "title": "Nonstick Cookware Brands: PTFE (Teflon®) or Ceramic? A Comprehensive Guide",
+      "description": "No more guessing or frustrations! Our list of nonstick cookware brands will tell you if you're buying PTFE/Teflon or ceramic.",
+      "image": "https://therationalkitchen.com/wp-content/uploads/2018/12/vegetable-pan-1271991_640.jpg",
+      "url": "https://therationalkitchen.com/nonstick-cookware-brands-ptfe-or-ceramic/"
+    }
+  }
+}

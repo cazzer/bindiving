@@ -1,0 +1,110 @@
+{
+  "slug": "tvs",
+  "query": "best tvs",
+  "title": "Best tvs | Bin Diving",
+  "description": "AI-dug recommendations for best tvs. Compare options and find one that fits.",
+  "dugAt": "2026-03-18T21:49:09.967Z",
+  "recommendations": [
+    {
+      "product_name": "LG C5 OLED (OLED evo C5)",
+      "pros": [
+        "Excellent color and contrast",
+        "Wide viewing angles",
+        "Strong gaming features (4 HDMI 2.1, 144Hz)"
+      ],
+      "cons": [
+        "Built-in speakers are modest",
+        "OLED burn-in risk with static content"
+      ],
+      "price": null,
+      "amazon_id": "B0DYQM4BDB",
+      "sources": [
+        "https://www.tomsguide.com/tvs/oled-tvs/the-lg-c5-oled-is-the-best-tv-you-can-buy-in-2026-and-its-almost-50-percent-off-right-now",
+        "https://www.lg.com/us/press-release/lg-announces-rollout-of-2026-oled-tv-line-up-3-4.pdf"
+      ],
+      "amazon_url": "https://www.amazon.com/LG-Upscaling-Filmmaker-Orchestra-OLED65C5PUA/dp/B0DYQM4BDB",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/01EZIUw5hsrIsavbPWyVZff0uaFlFXs_DyGlIX3hKKA/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly93d3cu/bGcuY29tL2NvbnRl/bnQvZGFtL2NoYW5u/ZWwvd2Ntcy9jYV9l/bi8yMDI1X21zX2xn/LWNvbS90di9vbGVk/LWV2by9jNS9ncDEv/Z2FsbGVyeS9jNS82/NS1jNS1hL2dhbGxl/cnkvT0xFRDY1QzVf/SW5maWxsXzAwMDBf/bG9nb18yMDEwX0VO/LmpwZy9qY3I6Y29u/dGVudC9yZW5kaXRp/b25zL3RodW0tMTYw/MHgxMDYyLmpwZWc",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "Samsung S95F QD‑OLED (S95F)",
+      "pros": [
+        "Very bright QD‑OLED panel",
+        "Vibrant color volume and HDR performance",
+        "Slim premium design"
+      ],
+      "cons": [
+        "No Dolby Vision support",
+        "Higher price at flagship sizes"
+      ],
+      "price": null,
+      "amazon_id": "B0DXMJFJ7W",
+      "sources": [
+        "https://www.whathifi.com/tv-home-cinema/televisions/samsungs-flagship-oled-tv-has-crashed-to-its-lowest-ever-price-but-weve-found-a-way-to-get-it-even-cheaper",
+        "https://images.samsung.com/is/content/samsung/assets/au/tvs/product-specs/2025_06/55-83_S95F_OLED_4K_TV_Spec_Sheet.pdf"
+      ],
+      "amazon_url": "https://www.amazon.com/SAMSUNG-65-Inch-Processor-Xcelerator-Samsung/dp/B0DXMJFJ7W",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/HuHWigHIIX168Dyu09zGJgtP4vjW2flK_SMPOFYZQwY/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9pNS53/YWxtYXJ0aW1hZ2Vz/LmNvbS9zZW8vU2Ft/c3VuZy01NS1pbmNo/LU9MRUQtNEstUzk1/Ri1WaXNpb24tQUkt/U21hcnQtVFYtMjAy/NV85ZTRjY2Q1ZC03/YjVlLTQyNjUtOGZm/Yi1jYjVhYWE2NTVj/MWEuOWRiNWFhNzM0/ZjU1MWZmMDdkYzRl/YmNlNzY0Y2QyNGIu/anBlZz9vZG5IZWln/aHQ9NTczJm9kbldp/ZHRoPTU3MyZvZG5C/Zz1GRkZGRkY",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "Sony A95L OLED (Bravia A95L)",
+      "pros": [
+        "Best-in-class video processing/upscaling",
+        "Exceptional home‑theater picture accuracy",
+        "Strong HDR/movie performance"
+      ],
+      "cons": [
+        "Premium cost",
+        "Often requires external audio for full cinema sound"
+      ],
+      "price": null,
+      "amazon_id": "B0BYPMMLTR",
+      "sources": [
+        "https://what4tech.com/best-tvs/",
+        "https://turn0search24/"
+      ],
+      "amazon_url": "https://www.amazon.com/Sony-QD-OLED-inch-BRAVIA-Ultra/dp/B0BYPMMLTR",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/gCxqpSa1h6XaBeaN40pxygX0WE4CJdAA-_Vhi_h8AZk/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9pNS53/YWxtYXJ0aW1hZ2Vz/LmNvbS9zZW8vU29u/eS02NS1DbGFzcy1C/UkFWSUEtWFItQTk1/TC1RRC1PTEVELTRL/LUhEUi1TbWFydC1U/Vi13aXRoLUdvb2ds/ZS1UVi1YUjY1QTk1/TC0yMDIzLU1vZGVs/XzY1NGViNDkzLTM0/ODctNDdlNy1iODg0/LTQyYjc1YzUzNzNh/MC5iNjQwYjI1ZDQy/MzhkZWM4MGUzY2Yy/Y2ZmYzU5ODFjNi5q/cGVnP29kbkhlaWdo/dD01NzMmb2RuV2lk/dGg9NTczJm9kbkJn/PUZGRkZGRg",
+      "resolver": "brave",
+      "valid": true
+    }
+  ],
+  "resolvedLinks": {
+    "https://www.tomsguide.com/tvs/oled-tvs/the-lg-c5-oled-is-the-best-tv-you-can-buy-in-2026-and-its-almost-50-percent-off-right-now": {
+      "title": "The LG C5 OLED is the best TV you can buy in 2026, and it's almost 50% off right now",
+      "description": "Grab a huge discount on the LG C5 OLED TV",
+      "image": "https://cdn.mos.cms.futurecdn.net/aRtXSrTjZLiTmkmFFzuXB7-1510-80.jpg",
+      "url": "https://www.tomsguide.com/tvs/oled-tvs/the-lg-c5-oled-is-the-best-tv-you-can-buy-in-2026-and-its-almost-50-percent-off-right-now"
+    },
+    "https://www.lg.com/us/press-release/lg-announces-rollout-of-2026-oled-tv-line-up-3-4.pdf": {
+      "title": "",
+      "description": "",
+      "image": "",
+      "url": "https://www.lg.com/us/press-release/lg-announces-rollout-of-2026-oled-tv-line-up-3-4.pdf"
+    },
+    "https://www.whathifi.com/tv-home-cinema/televisions/samsungs-flagship-oled-tv-has-crashed-to-its-lowest-ever-price-but-weve-found-a-way-to-get-it-even-cheaper": {
+      "title": "This simple trick gets you the best-ever Samsung TV at its lowest-ever price",
+      "description": "New year, new TV?",
+      "image": "https://cdn.mos.cms.futurecdn.net/mztEyyHTweQqAcBGprV3gb-1920-80.jpg",
+      "url": "https://www.whathifi.com/tv-home-cinema/televisions/samsungs-flagship-oled-tv-has-crashed-to-its-lowest-ever-price-but-weve-found-a-way-to-get-it-even-cheaper"
+    },
+    "https://images.samsung.com/is/content/samsung/assets/au/tvs/product-specs/2025_06/55-83_S95F_OLED_4K_TV_Spec_Sheet.pdf": {
+      "title": "",
+      "description": "",
+      "image": "",
+      "url": "https://images.samsung.com/is/content/samsung/assets/au/tvs/product-specs/2025_06/55-83_S95F_OLED_4K_TV_Spec_Sheet.pdf"
+    },
+    "https://what4tech.com/best-tvs/": {
+      "title": "The 4 Best TVs of 2026 | Reviewed By What4Tech",
+      "description": "Best TVs We Tested & Recommend — Overall – LG C4, Our Pick – Sony BRAVIA 8 II, Premium – Samsung S95F, & Budget – Amazon Fire TV 4-Series.",
+      "image": "https://what4tech.com/wp-content/uploads/2025/08/The-Best-TV.jpg",
+      "url": "https://what4tech.com/best-tvs/"
+    }
+  }
+}

@@ -1,0 +1,128 @@
+{
+  "slug": "filtered-water-bottles",
+  "query": "best filtered water bottles",
+  "title": "Best filtered water bottles | Bin Diving",
+  "description": "AI-dug recommendations for best filtered water bottles. Compare options and find one that fits.",
+  "dugAt": "2026-03-18T18:29:46.834Z",
+  "recommendations": [
+    {
+      "product_name": "GRAYL GeoPress 24 oz Filter & Purifier Bottle",
+      "pros": [
+        "Removes viruses/bacteria/protozoa",
+        "Fast — purifies a full bottle in one press",
+        "Well-suited for international travel and backcountry"
+      ],
+      "cons": [
+        "Relatively heavy and bulky",
+        "Replacement cartridges shorter lifespan vs some hollow-fiber filters",
+        "Higher price point"
+      ],
+      "price": null,
+      "amazon_id": "B0D3HB3V5Z",
+      "sources": [
+        "https://amp.cnn.com/cnn/cnn-underscored/reviews/best-filtered-water-bottles",
+        "https://www.outdoorlife.com/gear/best-filtered-water-bottles/",
+        "https://grayl.com/products/24oz-geopress-filter-purifier-bottle-covert-edition"
+      ],
+      "amazon_url": "https://www.amazon.com/GRAYL-GeoPress-Water-Purifier-Bottle/dp/B0D3HB3V5Z",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/asOsjgVulEKzSB-515B5j7pvA7OxVMkw9ME_CUxCBig/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly93d3cu/bm9ydGhyaXZlcm91/dGRvb3JzLmNvbS9j/ZG4vc2hvcC9maWxl/cy9ncmF5bC1ncmF5/bC1nZW9wcmVzcy13/YXRlci1maWx0ZXIt/YW5kLXB1cmlmaWVy/LWJvdHRsZS0yNC1m/bC1vei0zOTM5MzUy/ODQ3OTk1Ni5qcGc_/dj0xNzQ3MjUzMDk2/JndpZHRoPTUzOQ",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "LifeStraw Go / Go Series Water Filter Bottle",
+      "pros": [
+        "Very long filter life for bacteria/protozoa removal",
+        "Lightweight, popular and widely available on Amazon",
+        "Multiple styles including insulated stainless options"
+      ],
+      "cons": [
+        "Does not remove viruses or some chemicals",
+        "Suction can be stronger than a regular bottle",
+        "Carbon-stage taste improvement limited on some models"
+      ],
+      "price": null,
+      "amazon_id": "B0F1W2G4R1",
+      "sources": [
+        "https://lifestraw.com/products/go-fourth-and-filter",
+        "https://waterfilterportal.com/water-filter/reviews/lifestraw-go-water-bottle-review/",
+        "https://www.outdoorgearlab.com/reviews/camping-and-hiking/water-bottle/lifestraw-go"
+      ],
+      "amazon_url": "https://www.amazon.com/LifeStraw-Insulated-Stainless-Parasites-Microplastics/dp/B0F1W2G4R1",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/uA2jcxbMqdmEccdVz4u4qTZxpaJ9mdtnuLKLg4zVEWs/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9ldS5s/aWZlc3RyYXcuY29t/L2Nkbi9zaG9wL2Zp/bGVzL0xpZmVzdHls/ZTA1XzEwMDB4Lmpw/Zz92PTE3NTAzNzk0/MTE",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "Sawyer Personal Water Filtration Bottle",
+      "pros": [
+        "Hollow-fiber membrane with very high lifespan",
+        "Lightweight and fast flow rate",
+        "Trusted brand for backpacking and emergency use"
+      ],
+      "cons": [
+        "Primarily filters bacteria/protozoa (not viruses)",
+        "Some users report attachment/coupling hassles",
+        "Less refined taste improvement than carbon-stage purifiers"
+      ],
+      "price": null,
+      "amazon_id": "B0FM2G7DMH",
+      "sources": [
+        "https://sawyer.com/products/personal-water-filtration-bottle",
+        "https://waterfilterguru.com/best-filtered-water-bottle-reviews/",
+        "https://www.outdoorlife.com/gear/best-filtered-water-bottles/"
+      ],
+      "amazon_url": "https://www.amazon.com/Sawyer-Products-Personal-Bottle-34-Ounce/dp/B0FM2G7DMH",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/BXUiFHzcJbmTgQ_WEf4xZ6RgdHv5Kf5rQ8Ne8A8X2wA/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly93d3cu/Y2FtcG1vci5jb20v/Y2RuL3Nob3AvZmls/ZXMvU1AxNDBfNTM1/eC5qcGc_dj0xNzQ3/MTU0ODI4",
+      "resolver": "brave",
+      "valid": true
+    }
+  ],
+  "resolvedLinks": {
+    "https://amp.cnn.com/cnn/cnn-underscored/reviews/best-filtered-water-bottles": {
+      "title": "Best filtered water bottles: Tested and reviewed | CNN Underscored",
+      "description": "I tested six filtered water bottles by filtering and drinking water, checking for leaks, weighing them and more. After all my tests, there’s only one you should buy.",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/filtered-water-bottle-badged-lead-26.jpg?c=16x9&q=w_800,c_fill",
+      "url": "https://www.cnn.com/cnn-underscored/reviews/best-filtered-water-bottles"
+    },
+    "https://www.outdoorlife.com/gear/best-filtered-water-bottles/": {
+      "title": "The Best Filtered Water Bottles of 2026",
+      "description": "We dove into the third-party testing to find out which of the best filtered water bottles are actually worth your money.",
+      "image": "https://www.outdoorlife.com/wp-content/uploads/2023/10/24/best-filtered-water-bottles.jpg?quality=85&w=1200",
+      "url": "https://www.outdoorlife.com/gear/best-filtered-water-bottles/"
+    },
+    "https://grayl.com/products/24oz-geopress-filter-purifier-bottle-covert-edition": {
+      "title": "24oz GeoPress® Purifier - Covert",
+      "description": "The best selling and top-rated GRAYL GeoPress® Filter & Purifier Bottle, now in Covert Black, makes 24 ounces of clean filtered drinking water in 8 seconds (5L/min) anywhere on earth. Removes global waterborne pathogens (virus, bacteria, protozoan cysts) and filters microplastics, particulates plus many other toxins.",
+      "image": "http://grayl.com/cdn/shop/files/GEO_COYOTE_BROWN_STD_1800px_b59f89ab-7244-4fd0-8ea3-5cebfb562fde.png?v=1763347035",
+      "url": "https://grayl.com/products/24oz-geopress-filter-purifier-bottle-covert-edition"
+    },
+    "https://waterfilterportal.com/water-filter/reviews/lifestraw-go-water-bottle-review/": {
+      "title": "LifeStraw Go Water Bottle Review 2026",
+      "description": "Get the full scoop on the LifeStraw Go Water Bottle system with our detailed review. Discover its top features and whether it's right for you.",
+      "image": "https://wfportal.b-cdn.net/wp-content/uploads/2023/05/LifeStraw-Go-Water-Bottle-Review.png",
+      "url": "https://waterfilterportal.com/water-filter/reviews/lifestraw-go-water-bottle-review/"
+    },
+    "https://www.outdoorgearlab.com/reviews/camping-and-hiking/water-bottle/lifestraw-go": {
+      "title": "The Best Water Bottles of 2026",
+      "description": "We tested the 16 best water bottles, including popular models by Hydro Flask, Klean Kanteen, Purist, CamelBak, Yeti, Nalgene, and more.",
+      "image": "https://d1i8d6ce8wwubf.cloudfront.net/photos/33/47/456189_7902_XXL.jpg",
+      "url": "https://www.outdoorgearlab.com/topics/camping-and-hiking/best-water-bottle"
+    },
+    "https://sawyer.com/products/personal-water-filtration-bottle": {
+      "title": "Personal Water Bottle  | Sawyer Products",
+      "description": "To those who prefer self-contained water filtration systems, this is the system for you. Simply scoop water and continue the adventure.",
+      "image": "https://cdn.prod.website-files.com/61549f9352f3558157a226ea/67fe90e23255c3b96d07b27c_sawyer-personal-water-bottle-filter-SP140-main-image.png",
+      "url": "https://www.sawyer.com/product/personal-water-filtration-bottle"
+    },
+    "https://waterfilterguru.com/best-filtered-water-bottle-reviews/": {
+      "title": "The 5 Best Filtered Water Bottles of 2026",
+      "description": "Wondering which water bottle with filter is the best? Check out our extensive guide about the best filtered water bottles in 2026",
+      "image": "https://waterfilterguru.com/wp-content/uploads/2020/06/best-filtered-water-bottle-reviews.jpg",
+      "url": "https://waterfilterguru.com/best-filtered-water-bottle-reviews/"
+    }
+  }
+}

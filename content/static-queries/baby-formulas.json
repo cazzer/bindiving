@@ -1,0 +1,95 @@
+{
+  "slug": "baby-formulas",
+  "query": "best baby formulas",
+  "title": "Best baby formulas | Bin Diving",
+  "description": "AI-dug recommendations for best baby formulas. Compare options and find one that fits.",
+  "dugAt": "2026-03-18T22:10:17.821Z",
+  "recommendations": [
+    {
+      "product_name": "Enfamil NeuroPro Infant Formula (powder)",
+      "pros": [
+        "Pediatrician-trusted brand",
+        "Includes DHA + MFGM for brain support"
+      ],
+      "cons": [
+        "May be pricier than store brands",
+        "Some babies prefer different formulas"
+      ],
+      "price": "$50.99 (28.3 oz can, manufacturer site listing)",
+      "amazon_id": "B077M4Q27K",
+      "sources": [
+        "https://www.enfamil.com/products/enfamil-neuropro-infant-formula/powder-can-28-3-oz-can/",
+        "https://www.consumerreports.org/babies-kids/baby-formula/liquid-baby-formula-contaminants-test-results-a8639602154/"
+      ],
+      "amazon_url": "https://www.amazon.com/Enfamil-Expert-Recommended-Brain-Building-Exclusive-Supporting/dp/B077M4Q27K",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/wu0kYQfWR8L8e-LyhbScxb4LFDMaQYx4sktll3I6OYQ/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9pNS5w/ZWFwb2QuY29tL2Mv/UzkvUzlHTkEucG5n",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "Similac Pro-Advance Infant Formula",
+      "pros": [
+        "Contains 2’-FL HMO for immune support",
+        "Widely recommended and available in multiple formats"
+      ],
+      "cons": [
+        "Occasional supply/recall issues reported historically",
+        "Some parents prefer organic/European-style alternatives"
+      ],
+      "price": null,
+      "amazon_id": "B00OJ87EHG",
+      "sources": [
+        "https://www.nutrition.abbott/content/dam/an/abbottnutrition-global/ca/en/products/infrant/similac-pro-advance-step-1/Similac-Pro-Advance-Step-1-Ready-to-Use-en.pdf",
+        "https://www.consumerreports.org/babies-kids/baby-formula/liquid-baby-formula-contaminants-test-results-a8639602154/"
+      ],
+      "amazon_url": "https://www.amazon.com/Similac-Advance-Powder-Stage-Pound/dp/B00OJ87EHG",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/Lf9Rqo9Pp-lK80Y9h5iC4ROp_YxFoFDOJPJrx2MyzjU/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9pLm1j/dGltZy5jb20vY2Ru/LWNnaS9pbWFnZS93/PTQwMCxoPTQwMCxm/aXQ9cGFkL2h0dHBz/Oi8vaS5tY3RpbWcu/Y29tL2ZpbGUvNzA1/MWQwNmE0YWNmMTky/ZTU0NjIxYTY0OTRk/NjdiODY3NDA1ZWYx/MS8yOTRmY2Q4ZDlj/NDQyYTE5YjVhYzE5/ZGY0NDVjMmJkYTRj/OGRlNGE0YmNkMWE3/NTBkMzdjOWRkMmIy/MzUyNDBl",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "Bobbie Organic Infant Formula (Organic Original / Gentle variants)",
+      "pros": [
+        "USDA Organic, EU-inspired formulation; clean-label certifications",
+        "Designed to mimic breast milk protein ratios for easier digestion"
+      ],
+      "cons": [
+        "Often sells out quickly; some parents report batch variability",
+        "Higher price vs generic formulas"
+      ],
+      "price": null,
+      "amazon_id": "B0D2RJYS5Y",
+      "sources": [
+        "https://www.hibobbie.com/products/bobbie-organic-infant-formula",
+        "https://www.forbes.com/health/family/best-baby-formula/"
+      ],
+      "amazon_url": "https://www.amazon.com/Bobbie-Organic-Gentle-Infant-Formula/dp/B0D2RJYS5Y",
+      "gpt_azn": "B0D2RJYS5Y",
+      "image_url": "https://imgs.search.brave.com/Lt3A2zXFw7iXWrfeQnsTtyOyr4HYoiKIxpAypvfMoJU/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9tLm1l/ZGlhLWFtYXpvbi5j/b20vaW1hZ2VzL1Mv/YXBsdXMtbWVkaWEt/bGlicmFyeS1zZXJ2/aWNlLW1lZGlhLzAw/NjlkZTYyLTQ2Mzkt/NGZlYy04MjY5LTU2/YzgxNDQ3YmExYi5f/X0NSMCwwLDE0NjQs/NjAwX1BUMF9TWDE0/NjRfVjFfX18uanBn",
+      "resolver": "brave",
+      "valid": true
+    }
+  ],
+  "resolvedLinks": {
+    "https://www.enfamil.com/products/enfamil-neuropro-infant-formula/powder-can-28-3-oz-can/": {
+      "title": "Enfamil® NeuroPro® Infant Formula - Powder - 28.3 oz Can - Online  | Enfamil",
+      "description": "Enfamil® NeuroPro® Infant Formula is the only leading formula that has Omega 3 DHA* in amount experts recommend. Order Powder - 28.3 oz Can now.",
+      "image": "https://cdn.shopify.com/s/files/1/2235/8247/files/13053_2068056_Infant_NeuroPro_2_-FL_HuMO6_28.3oz_Powder_Value_Can_010422_RSO_e7e55cd9-e157-4d5e-81f3-04922d0a9a2d_480x480.png?v=1751551530",
+      "url": "https://www.enfamil.com/products/enfamil-neuropro-infant-formula/powder-can-28-3-oz-can/"
+    },
+    "https://www.consumerreports.org/babies-kids/baby-formula/liquid-baby-formula-contaminants-test-results-a8639602154/": {
+      "title": "We Tested 49 More Baby Formulas for Lead and Arsenic - Consumer Reports",
+      "description": "Our most recent round of baby formula tests detected contaminants at potentially concerning levels in 26 of the 49 baby formulas we evaluated.",
+      "image": "https://article.images.consumerreports.org/image/upload/t_article_tout/v1770748423/prod/content/dam/CRO-images-2026/Babies/CR-baby-inlinehero-formula-testing-round2-0226",
+      "url": "https://www.consumerreports.org/babies-kids/baby-formula/liquid-baby-formula-contaminants-test-results-a8639602154/"
+    },
+    "https://www.hibobbie.com/products/bobbie-organic-infant-formula": {
+      "title": "Organic Original Baby Formula | Bobbie",
+      "description": "Complete nutrition inspired by breast milk with an organic no‑soy fat blend delivered to your door. Subscribers enjoy 10% off your subscription and free shipping.",
+      "image": "http://www.hibobbie.com/cdn/shop/files/PDP-OO-1_Can.jpg?v=1762566687",
+      "url": "https://www.hibobbie.com/products/bobbie-organic-infant-formula"
+    }
+  }
+}

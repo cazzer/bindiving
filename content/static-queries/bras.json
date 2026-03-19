@@ -1,0 +1,122 @@
+{
+  "slug": "bras",
+  "query": "best bras",
+  "title": "Best bras | Bin Diving",
+  "description": "AI-dug recommendations for best bras. Compare options and find one that fits.",
+  "dugAt": "2026-03-18T22:49:42.093Z",
+  "recommendations": [
+    {
+      "product_name": "ThirdLove 24/7 Classic T-Shirt Bra",
+      "pros": [
+        "Wide size range",
+        "Smooth no-show finish",
+        "Memory-foam cups for comfort"
+      ],
+      "cons": [
+        "Higher price point",
+        "Some find fit differs from traditional sizing"
+      ],
+      "price": "$74",
+      "amazon_id": "B0C544F341",
+      "sources": [
+        "https://www.thirdlove.com/pages/24-7-classic-t-shirt-bra",
+        "https://www.goodhousekeeping.com/clothing/bra-reviews/a45489/thirdlove-24-7-classic-t-shirt-bra//",
+        "https://www.retaildive.com/news/thirdlove-launches-amazon/689418/"
+      ],
+      "amazon_url": "https://www.amazon.com/ThirdLove-Classic-Adjustable-Comfortable-Underwire/dp/B0C544F341",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/-nUafQGIP7OOEjgFWILkAjMO2TXn-2Dmw5E0GjrzElQ/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly93d3cu/dGhpcmRsb3ZlLmNv/bS9jZG4vc2hvcC9m/aWxlcy9RNDI1X1BE/UF9HTV9UU0JSQV9N/T0NIQV81NjMyLmpw/Zz92PTE3NTgyMTE0/MjImd2lkdGg9MzAw",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "Bali Comfort Revolution Wireless Bra",
+      "pros": [
+        "Highly rated on Amazon (many reviews)",
+        "Comfortable wirefree design",
+        "Breathable, four-way stretch fabric"
+      ],
+      "cons": [
+        "Straps can feel thin for some",
+        "Not as shaping as underwire styles"
+      ],
+      "price": null,
+      "amazon_id": "B08YXLHV18",
+      "sources": [
+        "https://www.yahoo.com/lifestyle/shoppers-swear-breathable-bra-comfortable-090000679.html",
+        "https://www.zappos.com/product/review/9262597",
+        "https://www.yahoo.com/entertainment/comfortable-flattering-bra-14-300-110000723.html"
+      ],
+      "amazon_url": "https://www.amazon.com/Bali-Comfort-Revolution-Shaping-Wirefree/dp/B08YXLHV18",
+      "gpt_azn": null,
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "Warner's Easy Does It No Bulge Wirefree Bra",
+      "pros": [
+        "Underarm-smoothing design",
+        "Inexpensive and widely available",
+        "Comfortable wire-free support"
+      ],
+      "cons": [
+        "Limited shaping vs underwire",
+        "May not suit very large cup sizes looking for heavy support"
+      ],
+      "price": null,
+      "amazon_id": "B07YVW2RMK",
+      "sources": [
+        "https://media.muckrack.com/portfolio/items/17427912/this-amazon-wireless-bra-is-supportive-and-only-3.pdf",
+        "https://top5best.com/warners-easy-does-it-no-bulge-wirefree-bra"
+      ],
+      "amazon_url": "https://www.amazon.com/Warners-Womens-Easy-Bulge-Wire-Free/dp/B07YVW2RMK",
+      "gpt_azn": null,
+      "resolver": "brave",
+      "valid": true
+    }
+  ],
+  "resolvedLinks": {
+    "https://www.thirdlove.com/pages/24-7-classic-t-shirt-bra": {
+      "title": "24/7® Classic T-Shirt Bra",
+      "description": "Bras designed for your body so you always look & feel your best. Available in A-H and half-cup sizes.",
+      "image": "https://cdn.shopify.com/s/files/1/0305/6249/files/Thirdlove_Profile_Logo_Black.png?v=1752177184",
+      "url": "https://www.thirdlove.com/pages/24-7-classic-t-shirt-bra"
+    },
+    "https://www.goodhousekeeping.com/clothing/bra-reviews/a45489/thirdlove-24-7-classic-t-shirt-bra//": {
+      "title": "Apparel & Footwear - Reviews of Clothes and Accessories",
+      "description": "Get the latest reviews of clothing, shoes, and accessories from the editors of Good Housekeeping.",
+      "image": "",
+      "url": "https://www.goodhousekeeping.com/clothing/"
+    },
+    "https://www.yahoo.com/lifestyle/shoppers-swear-breathable-bra-comfortable-090000679.html": {
+      "title": "Shoppers Swear This Breathable Bra Is ‘So Comfortable’ You ‘Forget’ You Have It on — and It’s 65% Off",
+      "description": "It has even been described as “perfect for travel.”",
+      "image": "https://s.yimg.com/ny/api/res/1.2/m2zWAfcXKDgMZA3KoxQE1Q--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA7Y2Y9d2VicA--/https://media.zenfs.com/en/travel.travelleisure.com/a1695212f82b42e2192894ca6c1d8af2",
+      "url": "https://www.yahoo.com/lifestyle/shoppers-swear-breathable-bra-comfortable-090000679.html"
+    },
+    "https://www.zappos.com/product/review/9262597": {
+      "title": "Bali Comfort Revolution Wireless Bra Reviews | Zappos.com",
+      "description": "",
+      "image": "",
+      "url": "https://www.zappos.com/product/review/9262597"
+    },
+    "https://www.yahoo.com/entertainment/comfortable-flattering-bra-14-300-110000723.html": {
+      "title": "A ‘Comfortable’ and ‘Flattering’ Bra with 14,300+ Five-Star Ratings Is on Sale for $21",
+      "description": "“There are no weird bulges anywhere”",
+      "image": "https://s.yimg.com/ny/api/res/1.2/4gXBpjlifRpMpzPzfF8aXg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA7Y2Y9d2VicA--/https://media.zenfs.com/en/people_218/4395407bccabd8ae2ebae8aa2c0c188b",
+      "url": "https://www.yahoo.com/entertainment/comfortable-flattering-bra-14-300-110000723.html"
+    },
+    "https://media.muckrack.com/portfolio/items/17427912/this-amazon-wireless-bra-is-supportive-and-only-3.pdf": {
+      "title": "",
+      "description": "",
+      "image": "",
+      "url": "https://media.muckrack.com/portfolio/items/17427912/this-amazon-wireless-bra-is-supportive-and-only-3.pdf"
+    },
+    "https://top5best.com/warners-easy-does-it-no-bulge-wirefree-bra": {
+      "title": "Top 5 Best Warners Easy Does It No Bulge Wirefree Bra (High Value Picks) of 2026",
+      "description": "2026's Top 5 Best Warners Easy Does It No Bulge Wirefree Bra Top Rated and Reviewed. Easily choose and compare the Best Warners Easy Does It No Bulge Wirefree Bra for you all in one place. (High Value Picks)",
+      "image": "https://images.top5best.com/images/list_img_s/list_2895/floatley_28941754.jpg",
+      "url": "https://top5best.com/warners-easy-does-it-no-bulge-wirefree-bra"
+    }
+  }
+}

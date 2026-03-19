@@ -1,0 +1,130 @@
+{
+  "slug": "gaming-laptops",
+  "query": "best gaming laptops",
+  "title": "Best gaming laptops | Bin Diving",
+  "description": "AI-dug recommendations for best gaming laptops. Compare options and find one that fits.",
+  "dugAt": "2026-03-18T18:58:20.068Z",
+  "recommendations": [
+    {
+      "product_name": "Razer Blade 16 (2025)",
+      "pros": [
+        "Premium build and compact chassis",
+        "Top-tier performance for AAA games",
+        "Excellent OLED/mini‑LED display options"
+      ],
+      "cons": [
+        "High price and occasional supply issues",
+        "Reported quality-control complaints in some batches"
+      ],
+      "price": null,
+      "amazon_id": "B0DYLX9VQQ",
+      "sources": [
+        "https://www.windowscentral.com/hardware/razer/razer-blade-16-2025-review",
+        "https://www.pcgamesn.com/razer/blade-16-2025-review"
+      ],
+      "amazon_url": "https://www.amazon.com/Razer-Blade-16-Gaming-Laptop/dp/B0DYLX9VQQ",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/nRX_8i8tDWQG-KYSHrgM8t_xjH5Ure4p3BkF4VrcNWc/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9jZG4u/bW9zLmNtcy5mdXR1/cmVjZG4ubmV0LzhI/QXdEeGlXNDNTSnR1/RUVOdmE0RWMuanBn",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "ASUS ROG Zephyrus G14 (2025)",
+      "pros": [
+        "Very portable high-performance 14\" option",
+        "Strong battery life and efficient Ryzen/RTX combos",
+        "High-quality 3K/120Hz OLED available"
+      ],
+      "cons": [
+        "Smaller screen may not suit everyone",
+        "Configurations and availability vary by region"
+      ],
+      "price": null,
+      "amazon_id": "B0FCPP5K2R",
+      "sources": [
+        "https://www.windowscentral.com/hardware/asus/asus-rog-zephyrus-g14-2025-rtx-5060-best-buy-deal",
+        "https://www.gamesradar.com/the-best-asus-gaming-laptops/",
+        "https://www.tomshardware.com/laptops/gaming-laptops/asus-launches-two-new-rog-zephyrus-laptops-at-ces-14-and-16-inch-models-come-with-latest-amd-and-intel-cpus-and-up-to-rtx-5090-gpu"
+      ],
+      "amazon_url": "https://www.amazon.com/ASUS-Zephyrus-Latest-Copilot-Platinum/dp/B0FCPP5K2R",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/h9LMqN0TKXO5HRKLD45cY4Q9OBxpqOffhdYVO2X1XSo/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9jZG4u/bW9zLmNtcy5mdXR1/cmVjZG4ubmV0L29y/UE1UaWlHNmVOdTZM/VUFWNTRINi5qcGc",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "Alienware 16X Aurora / Alienware 16 (2025/2026)",
+      "pros": [
+        "Desktop‑class performance in a 16\" chassis",
+        "Options for high-refresh QHD+ / OLED displays",
+        "Strong thermals and upgradeable configurations"
+      ],
+      "cons": [
+        "Large power brick and heavier than ultraportables",
+        "Premium price for top GPU/CPU configs"
+      ],
+      "price": null,
+      "amazon_id": "B0FXB3F5PM",
+      "sources": [
+        "https://www.techradar.com/computing/gaming-laptops/alienware-16x-aurora",
+        "https://www.tomshardware.com/laptops/gaming-laptops/dell-updates-alienware-gaming-laptops-with-intels-arrow-lake-hx-refresh-cpus-16-inch-models-receive-oled-display-and-gpu-upgrades",
+        "https://www.dell.com/en-us/shop/dell-laptops/alienware-16x-aurora-gaming-laptop/spd/alienware-aurora-ac16251-gaming-laptop"
+      ],
+      "amazon_url": "https://www.amazon.com/Dell-Alienware-24-core-GeForce-Thunderbolt/dp/B0FXB3F5PM",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/VPkQXF_j-wXdw6x9xf-sapeUh7f-UgL1C5AiGx2WYdA/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9jZG4u/d2NjZnRlY2guY29t/L3dwLWNvbnRlbnQv/dXBsb2Fkcy8yMDI2/LzAxL0FsaWVud2Fy/ZS0xNi1BcmVhLTUx/LUxhcHRvcC02LUN1/c3RvbS03Mjh4NDg1/LnBuZw",
+      "resolver": "brave",
+      "valid": true
+    }
+  ],
+  "resolvedLinks": {
+    "https://www.windowscentral.com/hardware/razer/razer-blade-16-2025-review": {
+      "title": "Can Razer's redesigned Blade 16 laptop get back on top with NVIDIA RTX 50-series inside?",
+      "description": "Razer finally redesigned its iconic Blade 16 gaming laptop, moving to AMD for the first time and kicking off a new NVIDIA generation. I put it to the test.",
+      "image": "https://cdn.mos.cms.futurecdn.net/tbTpfFppcE8HJpsndRXETC-2560-80.jpg",
+      "url": "https://www.windowscentral.com/hardware/razer/razer-blade-16-2025-review"
+    },
+    "https://www.pcgamesn.com/razer/blade-16-2025-review": {
+      "title": "Razer Blade 16 2025 review: A triumph of thin and light laptop design with amazing gaming power",
+      "description": "Razer's new thin and light laptop sports an Nvidia GeForce RTX 5090 GPU and AMD Ryzen AI 9 HX 370 CPU, and it's a gaming powerhouse.",
+      "image": "https://www.pcgamesn.com/wp-content/sites/pcgamesn/2025/03/razer-blade-16-2025-review.jpg",
+      "url": "https://www.pcgamesn.com/razer/blade-16-2025-review"
+    },
+    "https://www.windowscentral.com/hardware/asus/asus-rog-zephyrus-g14-2025-rtx-5060-best-buy-deal": {
+      "title": "Save $450 on the ASUS ROG Zephyrus G14 (2025) — our favorite 14-inch gaming laptop",
+      "description": "Looking for a powerful, portable gaming laptop? The ASUS G14 just got a $450 price cut. OLED screen, RTX 5060 GPU, and Ryzen 9 CPU.",
+      "image": "https://cdn.mos.cms.futurecdn.net/dTbNqd4S2by54f5hwagDhn-2560-80.jpg",
+      "url": "https://www.windowscentral.com/hardware/asus/asus-rog-zephyrus-g14-2025-rtx-5060-best-buy-deal"
+    },
+    "https://www.gamesradar.com/the-best-asus-gaming-laptops/": {
+      "title": "The best Asus gaming laptops 2026",
+      "description": "All the best Asus gaming laptops money can buy this year",
+      "image": "https://cdn.mos.cms.futurecdn.net/TMNnkFkEMrvaAyS3j83acQ-2560-80.jpg",
+      "url": "https://www.gamesradar.com/the-best-asus-gaming-laptops/"
+    },
+    "https://www.tomshardware.com/laptops/gaming-laptops/asus-launches-two-new-rog-zephyrus-laptops-at-ces-14-and-16-inch-models-come-with-latest-amd-and-intel-cpus-and-up-to-rtx-5090-gpu": {
+      "title": "Asus launches two new ROG Zephyrus laptops at CES — 14 and 16-inch models come with latest AMD and Intel CPUs, and up to RTX 5090 GPU",
+      "description": "Asus is releasing a pair of new Zephyrus laptops, featuring ROG Nebular HDR OLED displays and up RTX 5090 laptop GPUs.",
+      "image": "https://cdn.mos.cms.futurecdn.net/nhywhL2hj9CMosdXE34Mj7-1920-80.jpg",
+      "url": "https://www.tomshardware.com/laptops/gaming-laptops/asus-launches-two-new-rog-zephyrus-laptops-at-ces-14-and-16-inch-models-come-with-latest-amd-and-intel-cpus-and-up-to-rtx-5090-gpu"
+    },
+    "https://www.techradar.com/computing/gaming-laptops/alienware-16x-aurora": {
+      "title": "Alienware 16X Aurora",
+      "description": "Portability, style, and adequate 1440p power",
+      "image": "https://cdn.mos.cms.futurecdn.net/6xBJAWnzzsXtAA6eEsruRV-2560-80.jpg",
+      "url": "https://www.techradar.com/computing/gaming-laptops/alienware-16x-aurora"
+    },
+    "https://www.tomshardware.com/laptops/gaming-laptops/dell-updates-alienware-gaming-laptops-with-intels-arrow-lake-hx-refresh-cpus-16-inch-models-receive-oled-display-and-gpu-upgrades": {
+      "title": "Dell updates Alienware gaming laptops with Intel’s Arrow Lake-HX Refresh CPUs — 16-inch models receive OLED display and GPU upgrades",
+      "description": "Intel's latest gaming CPUs arrive in laptop refreshes.",
+      "image": "https://cdn.mos.cms.futurecdn.net/U6jRK7AuXkwtDE2X4UwEQc-2560-80.jpg",
+      "url": "https://www.tomshardware.com/laptops/gaming-laptops/dell-updates-alienware-gaming-laptops-with-intels-arrow-lake-hx-refresh-cpus-16-inch-models-receive-oled-display-and-gpu-upgrades"
+    },
+    "https://www.dell.com/en-us/shop/dell-laptops/alienware-16x-aurora-gaming-laptop/spd/alienware-aurora-ac16251-gaming-laptop": {
+      "title": "Alienware 16X Aurora Gaming Laptop - NVIDIA Laptop | Dell USA",
+      "description": "Shop the Alienware 16X Aurora gaming laptop crafted for gaming and beyond, featuring NVIDIA GeForce RTX graphics, WQXGA resolutions and more.",
+      "image": "https://i.dell.com/is/image/DellContent/content/dam/ss2/product-images/dell-client-products/notebooks/alienware-notebooks/ac16251/spi/notebook-alienware-16-ac16251-blue-campaign-hero-504x350-ng.psd?fmt=png-alpha&wid=570&hei=400",
+      "url": "https://www.dell.com/en-us/shop/dell-laptops/alienware-16x-aurora-gaming-laptop/spd/alienware-aurora-ac16251-gaming-laptop"
+    }
+  }
+}

@@ -1,0 +1,113 @@
+{
+  "slug": "gaming-mice",
+  "query": "best gaming mice",
+  "title": "Best gaming mice | Bin Diving",
+  "description": "AI-dug recommendations for best gaming mice. Compare options and find one that fits.",
+  "dugAt": "2026-03-18T18:58:49.771Z",
+  "recommendations": [
+    {
+      "product_name": "Logitech G PRO X Superlight 2",
+      "pros": [
+        "Extremely lightweight and precise",
+        "Pro-grade HERO 2 sensor (high DPI)"
+      ],
+      "cons": [
+        "Expensive",
+        "No onboard DPI selector"
+      ],
+      "price": "$154 (reported)",
+      "amazon_id": "B09NBWQDKX",
+      "sources": [
+        "https://www.tomsguide.com/best-picks/best-gaming-mouse",
+        "https://www.tomshardware.com/peripherals/gaming-mice/logitechs-g502-x-plus-excellent-wireless-gaming-mouse-drops-to-usd104-at-amazon-matching-its-lowest-ever-price"
+      ],
+      "amazon_url": "https://www.amazon.com/Logitech-Superlight-Wireless-Pro-Grade-Programmable/dp/B09NBWQDKX",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/AZW0BdtMy2rrgZ8x4snIxbnSH1BP6zdyJyzXBFr1ebo/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly90YXJn/ZXQuc2NlbmU3LmNv/bS9pcy9pbWFnZS9U/YXJnZXQvR1VFU1Rf/MWFjMzdlMDYtOThh/Zi00ZWE4LWIzMzgt/NWFlZjMyYmZmZWRk/P3dpZD04MDAmaGVp/PTgwMCZxbHQ9ODAm/Zm10PXBqcGVn",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "Fnatic x LAMZU MAYA 8K (Maya X)",
+      "pros": [
+        "Ultra-lightweight with 8,000Hz polling option",
+        "Comfortable symmetrical shape suited to many grips"
+      ],
+      "cons": [
+        "Open baseplate exposes internals to dust",
+        "Some users report firmware/quality-control quirks"
+      ],
+      "price": "~$119 (reported)",
+      "amazon_id": "B0DCG19CLR",
+      "sources": [
+        "https://www.rtings.com/mouse/reviews/fnatic/x-lamzu-maya-8k",
+        "https://www.tomsguide.com/computing/peripherals/fnatic-x-lamzu-maya-8k-maya-x-8k-mouse-review"
+      ],
+      "amazon_url": "https://www.amazon.com/Fnatic-Wireless-Epically-Switches-Compatible/dp/B0DCG19CLR",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/8HrOc9KyGdl948aQw1iyqYqApawhQnlBc5oU4103VPk/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9hY2Ru/LXVzLm1pdGllbmRh/bnViZS5jb20vc3Rv/cmVzLzAwMS85Mjkv/MjEzL3Byb2R1Y3Rz/LzMtYTQxNjNkMGY3/NTk4MTEzN2UwMTcy/ODA5MTI5OTE1Njct/MjQwLTAud2VicA",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "Razer DeathAdder V4 Pro",
+      "pros": [
+        "Top-tier sensor performance and speed",
+        "Comfortable, proven DeathAdder ergonomic shape"
+      ],
+      "cons": [
+        "Premium price",
+        "Some reports of occasional connectivity/QC issues"
+      ],
+      "price": "$169.99 (reported)",
+      "amazon_id": "B0F3Q8R6V4",
+      "sources": [
+        "https://www.gamesradar.com/hardware/gaming-mice/razer-deathadder-v4-pro-review/",
+        "https://www.pcgamer.com/hardware/gaming-mice/to-celebrate-the-announcement-of-the-razer-deathadder-v4-pro-the-old-best-gaming-mouse-is-now-down-to-its-lowest-ever-price-for-prime-day/"
+      ],
+      "amazon_url": "https://www.amazon.com/Razer-DeathAdder-Wireless-Gaming-Mouse/dp/B0F3Q8R6V4",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/TTENlWKZ_DAwcs_DYcec4h1MQ_tm8qjotciyELb0bx8/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9tZWRp/YS53aXJlZC5jb20v/cGhvdG9zLzY5MmE1/MmFhYTRiNjA2ZDg4/NTJiMTJiZi9tYXN0/ZXIvd18xNjAwLGNf/bGltaXQvUmF6ZXIl/MjBEZWF0aEFkZGVy/JTIwVjQlMjBQcm8l/MjBzb3VyY2UlMjBI/ZW5yaSUyMFJvYmJp/bnMucG5n",
+      "resolver": "brave",
+      "valid": true
+    }
+  ],
+  "resolvedLinks": {
+    "https://www.tomsguide.com/best-picks/best-gaming-mouse": {
+      "title": "We played 100 hours with the best gaming mouse in 2026 — here are our top picks",
+      "description": "The best gaming mouse for every style and budget",
+      "image": "https://cdn.mos.cms.futurecdn.net/KLBhS6z4bXkcixRb2PBYQn-2000-80.jpg",
+      "url": "https://www.tomsguide.com/best-picks/best-gaming-mouse"
+    },
+    "https://www.tomshardware.com/peripherals/gaming-mice/logitechs-g502-x-plus-excellent-wireless-gaming-mouse-drops-to-usd104-at-amazon-matching-its-lowest-ever-price": {
+      "title": "Logitech's G502 X Plus excellent wireless gaming mouse drops to $104 at Amazon — matching its lowest-ever price",
+      "description": "An esteemed lineage",
+      "image": "https://cdn.mos.cms.futurecdn.net/vaJjaWK2dcch689pz5aCk3-1920-80.jpg",
+      "url": "https://www.tomshardware.com/peripherals/gaming-mice/logitechs-g502-x-plus-excellent-wireless-gaming-mouse-drops-to-usd104-at-amazon-matching-its-lowest-ever-price"
+    },
+    "https://www.rtings.com/mouse/reviews/fnatic/x-lamzu-maya-8k": {
+      "title": "Fnatic x LAMZU MAYA 8K Review",
+      "description": "The Fnatic x LAMZU MAYA 8K is a wireless gaming mouse developed in collaboration between LAMZU and Fnatic, an esports organization. It shares the same size as th...",
+      "image": "https://i.rtings.com/assets/products/CQB41ESH/fnatic-x-lamzu-maya-8k/design-medium.jpg?format=auto",
+      "url": "https://www.rtings.com/mouse/reviews/fnatic/x-lamzu-maya-8k"
+    },
+    "https://www.tomsguide.com/computing/peripherals/fnatic-x-lamzu-maya-8k-maya-x-8k-mouse-review": {
+      "title": "Fnatic x Lamzu Maya 8K / Maya X 8K mouse review",
+      "description": "I’m a Fnatic for this mouse",
+      "image": "https://cdn.mos.cms.futurecdn.net/QVjdFx8YcUBGUwyoZVKBh8-2520-80.jpg",
+      "url": "https://www.tomsguide.com/computing/peripherals/fnatic-x-lamzu-maya-8k-maya-x-8k-mouse-review"
+    },
+    "https://www.gamesradar.com/hardware/gaming-mice/razer-deathadder-v4-pro-review/": {
+      "title": "Razer Deathadder V4 Pro review: \"the esports mouse to beat\"",
+      "description": "",
+      "image": "https://cdn.mos.cms.futurecdn.net/a23MzfSc766x3KYfeB5HzD-2560-80.jpg",
+      "url": "https://www.gamesradar.com/hardware/gaming-mice/razer-deathadder-v4-pro-review/"
+    },
+    "https://www.pcgamer.com/hardware/gaming-mice/to-celebrate-the-announcement-of-the-razer-deathadder-v4-pro-the-old-best-gaming-mouse-is-now-down-to-its-lowest-ever-price-for-prime-day/": {
+      "title": "To celebrate the announcement of the Razer DeathAdder V4 Pro, the old best gaming mouse is now down to its lowest ever price for Prime Day",
+      "description": "The king is cheap, hail to the king.",
+      "image": "https://cdn.mos.cms.futurecdn.net/zb5F4g76GBuG672PraWg7V-1890-80.jpg",
+      "url": "https://www.pcgamer.com/hardware/gaming-mice/to-celebrate-the-announcement-of-the-razer-deathadder-v4-pro-the-old-best-gaming-mouse-is-now-down-to-its-lowest-ever-price-for-prime-day/"
+    }
+  }
+}

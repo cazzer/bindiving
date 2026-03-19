@@ -1,0 +1,116 @@
+{
+  "slug": "lip-glosses",
+  "query": "best lip glosses",
+  "title": "Best lip glosses | Bin Diving",
+  "description": "AI-dug recommendations for best lip glosses. Compare options and find one that fits.",
+  "dugAt": "2026-03-18T18:15:43.989Z",
+  "recommendations": [
+    {
+      "product_name": "Fenty Beauty Gloss Bomb Universal Lip Luminizer",
+      "pros": [
+        "High-shine, non-sticky finish",
+        "Universal flattering shades",
+        "Widely recommended by beauty editors"
+      ],
+      "cons": [
+        "Higher price than drugstore options",
+        "Not marketed as vegan"
+      ],
+      "price": null,
+      "amazon_id": "B0BPR22H5M",
+      "sources": [
+        "https://fentybeauty.com/products/gloss-bomb-universal-lip-luminizer-rose-amber",
+        "https://fentybeauty.com/products/gloss-bomb-universal-lip-luminizer-wattab"
+      ],
+      "amazon_url": "https://www.amazon.com/FENTY-BEAUTY-Gloss-Universal-Luminizer/dp/B0BPR22H5M",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/5qx-cXjuRAJdbROLTTKJh8rcunqIJFPAS_uKqDNnNmI/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9tZWRp/YS51bHRhLmNvbS9p/L3VsdGEvMjU5MjM5/ND93PTEwODAmaD0x/MDgwJmZtdD1hdXRv",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "NYX PROFESSIONAL MAKEUP Butter Gloss",
+      "pros": [
+        "Very affordable",
+        "Creamy, non-sticky texture",
+        "Huge number of positive Amazon reviews historically"
+      ],
+      "cons": [
+        "Some shades go out of stock periodically",
+        "Occasional reports of dryness for sensitive users"
+      ],
+      "price": null,
+      "amazon_id": "B09SP2XHKT",
+      "sources": [
+        "https://www.everydaybestbuy.com/products/p/nyx-butter-gloss",
+        "https://trueselfcare.us/beauty-product-review-nyx-butter-gloss/"
+      ],
+      "amazon_url": "https://www.amazon.com/NYX-PROFESSIONAL-MAKEUP-Butter-Non-Sticky/dp/B09SP2XHKT",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/J6MBNuLtE9V5Fy0Bcu9i4-K8ikCDRCd92czjmbkOemE/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9tLm1l/ZGlhLWFtYXpvbi5j/b20vaW1hZ2VzL0kv/MzEycTA2aVYwZEwu/anBn",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "Maybelline Lifter Gloss with Hyaluronic Acid",
+      "pros": [
+        "Hydrating formula with hyaluronic acid",
+        "Plumping, glossy finish at drugstore price",
+        "Frequently recommended in reviews"
+      ],
+      "cons": [
+        "Some users report tingling/plumping sensitivity",
+        "Certain shades have been reported out of stock or discontinued occasionally"
+      ],
+      "price": null,
+      "amazon_id": "B085S9HD3L",
+      "sources": [
+        "https://www.maybelline.com/lip-makeup/lip-gloss/lifter-gloss-lip-gloss-makeup-with-hyaluronic-acid",
+        "https://www.shefinds.com/maybelline-viral-lip-plumper/"
+      ],
+      "amazon_url": "https://www.amazon.com/Maybelline-Hyaluronic-Hydrating-Hydrated-Fuller-Looking/dp/B085S9HD3L",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/42NWtpZOKGcIVgzQ_EXGr47TNCOx3AtjtDz0hZT0vAU/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9tZWRp/YS51bHRhLmNvbS9p/L3VsdGEvMjU2NjI0/Mz93PTEwODAmaD0x/MDgwJmZtdD1hdXRv",
+      "resolver": "brave",
+      "valid": true
+    }
+  ],
+  "resolvedLinks": {
+    "https://fentybeauty.com/products/gloss-bomb-universal-lip-luminizer-rose-amber": {
+      "title": "Gloss Bomb Universal Lip Luminizer — Rose Amber",
+      "description": "Our Number One gloss now with pure, creamy, color and incredible shine. Lips are instantly smoother and voluminous looking.",
+      "image": "http://fentybeauty.com/cdn/shop/files/FB_FALL25_T2PRODUCT_ECOMM_GB_ROSE-AMBER_1200X1500_72DPI_1200x1200.jpg?v=1756417210",
+      "url": "https://fentybeauty.com/products/gloss-bomb-universal-lip-luminizer-fenty-glow"
+    },
+    "https://fentybeauty.com/products/gloss-bomb-universal-lip-luminizer-wattab": {
+      "title": "Gloss Bomb Universal Lip Luminizer — Wattab!*%#",
+      "description": "Our Number One gloss now with pure, creamy, color and incredible shine. Lips are instantly smoother and voluminous looking.",
+      "image": "http://fentybeauty.com/cdn/shop/files/FB_SPR26_T2PRODUCT_ECOMM_LE-WATTAMOMENT_GB-OG_WATTABITCH_1200x1500_72DPI_1200x1200.jpg?v=1769721467",
+      "url": "https://fentybeauty.com/products/gloss-bomb-universal-lip-luminizer-fenty-glow"
+    },
+    "https://www.everydaybestbuy.com/products/p/nyx-butter-gloss": {
+      "title": "NYX Butter Gloss — Everyday Best Buy",
+      "description": "SHOP    This lip gloss is lightweight, not sticky and great for everyday use. It is a drugstore brand for only $5 and ever since my makeup artist used it on my wedding day I was hooked.",
+      "image": "http://static1.squarespace.com/static/6452533320b1f5340163abc9/6458fdeb798778275d603235/646fa37432e0100896cc6ef6/1698169847848/nyxbuttergloss.png?format=1500w",
+      "url": "https://www.everydaybestbuy.com/products/p/nyx-butter-gloss"
+    },
+    "https://trueselfcare.us/beauty-product-review-nyx-butter-gloss/": {
+      "title": "Redirecting...",
+      "description": "",
+      "image": "",
+      "url": "https://trueselfcare.us/beauty-product-review-nyx-butter-gloss/"
+    },
+    "https://www.maybelline.com/lip-makeup/lip-gloss/lifter-gloss-lip-gloss-makeup-with-hyaluronic-acid": {
+      "title": "Hydrating Lifter Lip Gloss with Hyaluronic Acid - Maybelline",
+      "description": "Lifter Gloss is a moisturizing lip gloss with Hyaluronic Acid for fuller, hydrated lips. Shop Maybelline's Lifter Gloss and try 5 new honey lip gloss shades!",
+      "image": "https://www.maybelline.com/-/media/project/loreal/brand-sites/mny/americas/us/global/seo-image/maybelline-logo.jpg?rev=5c1a69c210ee4a42a8ee84dc03620d90",
+      "url": "https://www.maybelline.com/lip-makeup/lip-gloss/lifter-gloss-lip-gloss-makeup-with-hyaluronic-acid"
+    },
+    "https://www.shefinds.com/maybelline-viral-lip-plumper/": {
+      "title": "This Viral Lip Plumping Gloss From Maybelline Has Over 14,000 Five Star Reviews On Amazon–And It’s Only $6! - SHEfinds",
+      "description": "",
+      "image": "",
+      "url": "https://www.shefinds.com/maybelline-viral-lip-plumper/"
+    }
+  }
+}

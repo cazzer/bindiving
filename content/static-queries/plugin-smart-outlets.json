@@ -1,0 +1,116 @@
+{
+  "slug": "plugin-smart-outlets",
+  "query": "best plug‑in smart outlets",
+  "title": "Best plug‑in smart outlets | Bin Diving",
+  "description": "AI-dug recommendations for best plug‑in smart outlets. Compare options and find one that fits.",
+  "dugAt": "2026-03-18T22:00:32.155Z",
+  "recommendations": [
+    {
+      "product_name": "TP-Link Kasa / Tapo Smart Plug (Kasa/Tapo P125 series)",
+      "pros": [
+        "Compact design",
+        "Reliable app and Alexa/Google integration",
+        "Energy monitoring options in some models"
+      ],
+      "cons": [
+        "2.4 GHz Wi‑Fi only on most models",
+        "Some advanced features require app updates",
+        "Not all models support HomeKit natively"
+      ],
+      "price": null,
+      "amazon_id": "B0BNWGZ545",
+      "sources": [
+        "https://www.tomsguide.com/us/best-smart-plugs%2Creview-4087.html",
+        "https://tech.yahoo.com/home/articles/best-smart-plugs-000000527.html",
+        "https://www.engadget.com/best-smart-plug-131542429.html"
+      ],
+      "amazon_url": "https://www.amazon.com/TP-Link-Tapo-Compatible-Certified-P125M/dp/B0BNWGZ545",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/4Zr-KwKjLu_Fhu0HH5OIBy0VRy9-DATBOLN-yyr1Mto/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9zdGF0/aWMudHAtbGluay5j/b20vdXBsb2FkL2lt/YWdlLWhlYWRlci90/YXBvX1AxMjVfNHBh/Y2tfbm9ybWFsXzIw/MjIxMTA3MDExODE0/aC5wbmc",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "Wyze Plug (v2)",
+      "pros": [
+        "Very affordable",
+        "Good app and Alexa/Google support",
+        "Compact footprint"
+      ],
+      "cons": [
+        "Fewer advanced power‑monitoring features",
+        "Relies on Wyze cloud for some functionality",
+        "Outdoor use requires v2 outdoor model"
+      ],
+      "price": null,
+      "amazon_id": "B07XZT24B8",
+      "sources": [
+        "https://amp.cnn.com/cnn/cnn-underscored/reviews/best-smart-plug",
+        "https://tech.yahoo.com/home/articles/best-smart-plugs-000000527.html",
+        "https://www.engadget.com/best-smart-plug-131542429.html"
+      ],
+      "amazon_url": "https://www.amazon.com/Assistant-Controlled-Google-Enabled-Vacation/dp/B07XZT24B8",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/LVIIZKQIYOlS8BJgoN0WjpM-hn-V3yqstKY9lVB0Fzw/rs:fit:0:180:1:0/g:ce/aHR0cHM6Ly9pLmVi/YXlpbWcuY29tL2lt/YWdlcy9nL2lCTUFB/T1N3dEE1aH54dVgv/cy1sMjI1LmpwZw",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "Amazon Smart Plug",
+      "pros": [
+        "Seamless Alexa integration",
+        "Simple setup for Echo users",
+        "Reliable on‑ecosystem performance"
+      ],
+      "cons": [
+        "Limited Google/HomeKit support",
+        "Priced higher than many basic plugs",
+        "Fewer advanced features like energy monitoring"
+      ],
+      "price": null,
+      "amazon_id": "B089DR29T6",
+      "sources": [
+        "https://www.tomsguide.com/us/best-smart-plugs%2Creview-4087.html",
+        "https://www.engadget.com/best-smart-plug-131542429.html",
+        "https://tech.yahoo.com/general/articles/best-smart-plugs-2025-123010452.html"
+      ],
+      "amazon_url": "https://www.amazon.com/Amazon-smart-plug-works-with-Alexa/dp/B089DR29T6",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/u_IdHGTKaiOQW8KWwvk5HoIBcSOEEJKIBsGK1dEiue0/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9pNS53/YWxtYXJ0aW1hZ2Vz/LmNvbS9zZW8vQW1h/em9uLVdpLUZpLVNt/YXJ0LVBsdWdfZTI3/NjZjYzctNjVkYi00/MGZlLWE0ZDItZGUw/ODdlMjQ1NGNjLmMz/ZTZjY2E0ZGZhOWE4/NGQ2ZWE0MTE3MGMx/MmVkYWMyLmpwZWc_/b2RuSGVpZ2h0PTU3/MyZvZG5XaWR0aD01/NzMmb2RuQmc9RkZG/RkZG",
+      "resolver": "brave",
+      "valid": true
+    }
+  ],
+  "resolvedLinks": {
+    "https://www.tomsguide.com/us/best-smart-plugs%2Creview-4087.html": {
+      "title": "The best smart plugs in 2025",
+      "description": "These are the best smart plugs for raising your home's IQ",
+      "image": "https://cdn.mos.cms.futurecdn.net/xj5CtzSWVtvCnDfzN4ntkg-2000-80.jpg",
+      "url": "https://www.tomsguide.com/us/best-smart-plugs,review-4087.html"
+    },
+    "https://tech.yahoo.com/home/articles/best-smart-plugs-000000527.html": {
+      "title": "Best Smart Plugs for 2025: Easy Upgrades for Home Electronics",
+      "description": "Installing smart plugs can help you make your home outlets smart and save energy. Our experts have tested the best ones.",
+      "image": "https://s.yimg.com/ny/api/res/1.2/fxLvZ56JZfujqfXM442ASw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/cnet_articles_178/1b34a06d996ef849ac1401e2fb9fca25",
+      "url": "https://www.cnet.com/home/smart-home/best-smart-plugs/?pageview_type=RSS-yahoo-feed"
+    },
+    "https://www.engadget.com/best-smart-plug-131542429.html": {
+      "title": "The best smart plugs in 2026",
+      "description": "To find out which smart plug you should invite into your connected home, we tested ten, using Alexa, Siri and the Google Assistant.",
+      "image": "https://s.yimg.com/ny/api/res/1.2/RxLk2J0ARsQE94pq7rxpPA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03MjA-/https://s.yimg.com/os/creatr-uploaded-images/2026-02/a3e5c3c0-004a-11f1-bff9-7daa2fde0a75",
+      "url": "https://www.engadget.com/home/smart-home/best-smart-plug-131542429.html"
+    },
+    "https://amp.cnn.com/cnn/cnn-underscored/reviews/best-smart-plug": {
+      "title": "Best smart plugs of 2026, tried and tested | CNN Underscored",
+      "description": "For those who want to enter the smart home realm without actually investing in smart devices, a smart plug — which adds a touch of automation to lamps, coffee machines and other everyday devices — is the way to go. We found the two best for most people.",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/best-smart-plug-2026-badge-cnnu.jpg?c=16x9&q=w_800,c_fill",
+      "url": "https://www.cnn.com/cnn-underscored/reviews/best-smart-plug"
+    },
+    "https://tech.yahoo.com/general/articles/best-smart-plugs-2025-123010452.html": {
+      "title": "Best smart plugs in 2025",
+      "description": "The right smart plug can turn nearly many standard electrical devices into smart home devices with ease",
+      "image": "https://s.yimg.com/ny/api/res/1.2/SB2oJ7suq34KrUci2o0lFg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/android_police_756/a5cf177f94899be092c14fa6110d54b0",
+      "url": "https://www.androidpolice.com/best-smart-plugs/"
+    }
+  }
+}

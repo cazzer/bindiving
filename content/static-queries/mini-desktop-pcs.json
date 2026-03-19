@@ -1,0 +1,109 @@
+{
+  "slug": "mini-desktop-pcs",
+  "query": "best mini desktop pcs",
+  "title": "Best mini desktop pcs | Bin Diving",
+  "description": "AI-dug recommendations for best mini desktop pcs. Compare options and find one that fits.",
+  "dugAt": "2026-03-18T19:33:32.790Z",
+  "recommendations": [
+    {
+      "product_name": "Geekom A9 Max Mini PC",
+      "pros": [
+        "High performance for size",
+        "Good port selection",
+        "Strong value for power"
+      ],
+      "cons": [
+        "Can be noisy under load",
+        "Limited upgradability"
+      ],
+      "price": null,
+      "amazon_id": "B0FJ213R6G",
+      "sources": [
+        "https://www.techradar.com/pro/the-11-top-performing-mini-pcs-that-actually-impressed-us-in-2025"
+      ],
+      "amazon_url": "https://www.amazon.com/GEEKOM-A9-Max-Copilot-Warranty/dp/B0FJ213R6G",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/uFbW31HiBFWKzIqqpW46I5tFgcap_xwNmrQqzocaUTY/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly93d3cu/Z2Vla29tLmVzL3dw/LWNvbnRlbnQvdXBs/b2Fkcy8yMDI1LzA4/L0dFRUtPTS1BOS1N/YXgtTWluaS1QQy1j/b24tQ29uZWN0aXZp/ZGFkLXZlcnNhdGls/LWFsLWFsY2FuY2Ut/ZGUtdHUtbWFuby53/ZWJw",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "Apple Mac mini (M4, 2024)",
+      "pros": [
+        "Excellent CPU/GPU efficiency",
+        "Quiet, compact design",
+        "Great macOS ecosystem support"
+      ],
+      "cons": [
+        "Limited to macOS software",
+        "Higher cost for top configs"
+      ],
+      "price": null,
+      "amazon_id": "B0DLBTPDCS",
+      "sources": [
+        "https://www.tomsguide.com/us/best-mini-pc.html",
+        "https://www.techradar.com/best/best-thin-client"
+      ],
+      "amazon_url": "https://www.amazon.com/Apple-2024-Desktop-Computer-10%E2%80%91core/dp/B0DLBTPDCS",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/J7-oJGzrNNaGIOY-b4eRuDDwp2GEopfvgIqzjL7HLCg/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9tZWRp/YS53aXJlZC5jb20v/cGhvdG9zLzY3MmJl/NjA0OTg0MGQwZjBm/Mjk1OWE0Ni9tYXN0/ZXIvd18xNjAwLGNf/bGltaXQvQXBwbGUt/TWFjLU1pbmktTTQt/MjAyNC1Gcm9udC1S/ZXZpZXdlci1QaG90/by1TT1VSQ0UtQnJl/bmRhLVN0b2x5YXIu/anBn",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "Beelink SER9 Pro AI Mini PC",
+      "pros": [
+        "Very strong CPU performance (Ryzen AI family)",
+        "Good storage and memory options",
+        "Designed for demanding productivity/AI tasks"
+      ],
+      "cons": [
+        "Can be expensive",
+        "May require specific cooling/ventilation"
+      ],
+      "price": null,
+      "amazon_id": "B0DHMWSK91",
+      "sources": [
+        "https://electroreview.info/2025/09/11/best-mini-pc-for-home-office-2026-with-fast-performance/",
+        "https://www.pcbuildadvisor.com/best-mini-pc-ultimate-comparison-after-detailed-testing/"
+      ],
+      "amazon_url": "https://www.amazon.com/Beelink-LPDDR5X-8000MHz-PCIe4-0-Speakers/dp/B0DHMWSK91",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/ApXyxnUEaXyuMnwm606HcD3y6iwoNuI0wUbULKO9rIk/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9lY29t/bWVyY2UuZGF0YWJs/aXR6LmNvbS5waC9j/ZG4vc2hvcC9maWxl/cy8wMDFfZTNjODZi/ZDMtOTQ4NS00OThl/LWE2ZmQtZDI5NzJi/NmUyZWEyXzgwMHgu/anBnP3Y9MTc0NjY4/MTk5NQ",
+      "resolver": "brave",
+      "valid": true
+    }
+  ],
+  "resolvedLinks": {
+    "https://www.techradar.com/pro/the-11-top-performing-mini-pcs-that-actually-impressed-us-in-2025": {
+      "title": "Best mini PCs of 2026: Compact desktop power for business, creative, and gaming set-ups",
+      "description": "We tested the best mini computers, thin clients, and NUC boxes to find out which Windows and Apple machines come out top",
+      "image": "https://cdn.mos.cms.futurecdn.net/i2e3BrJjMn5DMecch5diFD-1200-80.jpg",
+      "url": "https://www.techradar.com/best/mini-pcs"
+    },
+    "https://www.tomsguide.com/us/best-mini-pc.html": {
+      "title": "I test mini PCs for a living — these are my top picks for work, school, gaming and ditching your bulky desktop",
+      "description": "These are the best mini PCs for every budget and use case",
+      "image": "https://cdn.mos.cms.futurecdn.net/LBzkar6CZChfyic49GnMij-2000-80.jpg",
+      "url": "https://www.tomsguide.com/us/best-mini-pc.html"
+    },
+    "https://www.techradar.com/best/best-thin-client": {
+      "title": "Best mini PCs of 2026: Compact desktop power for business, creative, and gaming set-ups",
+      "description": "We tested the best mini computers, thin clients, and NUC boxes to find out which Windows and Apple machines come out top",
+      "image": "https://cdn.mos.cms.futurecdn.net/i2e3BrJjMn5DMecch5diFD-1200-80.jpg",
+      "url": "https://www.techradar.com/best/mini-pcs"
+    },
+    "https://electroreview.info/2025/09/11/best-mini-pc-for-home-office-2026-with-fast-performance/": {
+      "title": "Best Mini PC for Home Office 2026 with Fast Performance - Electro Review Zone",
+      "description": "In today’s fast-paced remote work era, your home office setup can make or break your productivity. If you’re constantly juggling […]",
+      "image": "",
+      "url": "https://electroreview.info/2025/09/11/best-mini-pc-for-home-office-2026-with-fast-performance/"
+    },
+    "https://www.pcbuildadvisor.com/best-mini-pc-ultimate-comparison-after-detailed-testing/": {
+      "title": "Best Mini PC in 2026: Ultimate Comparison After Detailed Testing - PC Build Advisor",
+      "description": "If you're looking for solid & honest recommendations after rigorous testing on the Best Mini PCs in 2026 for all purposes from office work, college",
+      "image": "https://www.pcbuildadvisor.com/wp-content/uploads/2025/12/Best-Mini-PC-in-2026-1.png",
+      "url": "https://www.pcbuildadvisor.com/best-mini-pc-ultimate-comparison-after-detailed-testing/"
+    }
+  }
+}

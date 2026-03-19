@@ -1,0 +1,131 @@
+{
+  "slug": "memory-foam-pillows",
+  "query": "best memory foam pillows",
+  "title": "Best memory foam pillows | Bin Diving",
+  "description": "AI-dug recommendations for best memory foam pillows. Compare options and find one that fits.",
+  "dugAt": "2026-03-18T16:38:15.955Z",
+  "recommendations": [
+    {
+      "product_name": "Coop Home Goods Original Adjustable Pillow",
+      "pros": [
+        "Adjustable loft/fill",
+        "Good breathability",
+        "100-night trial & 5-year warranty"
+      ],
+      "cons": [
+        "May require shaving to find ideal loft",
+        "Shredded foam can clump for some users"
+      ],
+      "price": null,
+      "amazon_id": "B00EINBSEW",
+      "sources": [
+        "https://www.goodhousekeeping.com/home-products/pillow-reviews/a40242731/",
+        "https://www.tomsguide.com/reviews/coop-home-goods-original-pillow-review",
+        "https://www.consumerreports.org/home-garden/pillows/coop-original-pillow-review-a1180798976/"
+      ],
+      "amazon_url": "https://www.amazon.com/Coop-Home-Goods-Memory-Foam-Pillow-For-Side-Back-Stomach-Sleeper/dp/B00EINBSEW",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/KAE7JTxHU2Tgp5J3-XfSZtE-mMmzDlBYcCV_yBm-8TI/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9pLmVi/YXlpbWcuY29tL2lt/YWdlcy9nL1JzY0FB/ZVN3QldscFBRV34v/cy1sNDAwLndlYnA",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "TEMPUR-Cloud Pillow (Tempur-Pedic)",
+      "pros": [
+        "Proprietary conforming memory foam",
+        "Widely recommended for back/stomach sleepers",
+        "Manufacturer-backed warranty/support"
+      ],
+      "cons": [
+        "Higher price than many alternatives",
+        "Some users find solid foam too warm or firm"
+      ],
+      "price": null,
+      "amazon_id": "B07CMKX3C7",
+      "sources": [
+        "https://www.tempurpedic.com/shop-pillows/tempur-cloud-essential-pillow/",
+        "https://www.tomsguide.com/mattresses/pillows-bedding/tempur-pedic-tempur-cloud-pillow-review%26quot",
+        "https://www.mattressnerd.com/tempur-cloud-pillow-review/"
+      ],
+      "amazon_url": "https://www.amazon.com/Tempur-Pedic-Adaptable-Washable-Assembled-Warranty/dp/B07CMKX3C7",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/3nBnKCLMyLGYZfx8ykPwqzhV78Gly6S516wlKq7nceU/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9tZWRp/YS5zbGVlcGZvdW5k/YXRpb24ub3JnL2lt/YWdlL2ZldGNoL2Zf/YXV0byxmbF9sb3Nz/eSxxX2F1dG86ZWNv/L2h0dHBzOi8vd3d3/LnNsZWVwZm91bmRh/dGlvbi5vcmcvd3At/Y29udGVudC91cGxv/YWRzLzIwMjIvMTIv/U0ZfVGVtcHVyUGVk/aWNUZW1wdXJDbG91/ZFBpbGxvd18zLTc2/OHg0MzIuanBn",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "EPABO Contour Memory Foam Pillow (Ergonomic)",
+      "pros": [
+        "Ergonomic cervical support",
+        "Affordable price point",
+        "Strong user recommendations for neck pain"
+      ],
+      "cons": [
+        "Contour shape may not suit all sleep positions",
+        "Less adjustable than shredded-foam options"
+      ],
+      "price": null,
+      "amazon_id": "B07BKVG42X",
+      "sources": [
+        "https://deepsomnia.com/epabo-contour-memory-foam-pillow-review-2024/",
+        "https://memoryfoamdoctor.com/memory-foam-pillow/",
+        "https://www.reddit.com/r/Pillows/comments/1lyftn7/need_pillow_recommendation_the_epabo_contour/"
+      ],
+      "amazon_url": "https://www.amazon.com/EPABO-EPABO-03-Adjustable-Double-white/dp/B07BKVG42X",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/QjCGPC5Cm0w_58azOKdeybDvYd1sJqKWOKI_PVTgB_c/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9pLmVi/YXlpbWcuY29tL2lt/YWdlcy9nL3NaUUFB/T1N3UjRoYmhXN3Ev/cy1sMzAwLmpwZw",
+      "resolver": "brave",
+      "valid": true
+    }
+  ],
+  "resolvedLinks": {
+    "https://www.goodhousekeeping.com/home-products/pillow-reviews/a40242731/": {
+      "title": "This Pillow Beat Hundreds of Other Pillows for the #1 Spot on Our List",
+      "description": "Plush and supportive, perfect for every sleeping position.",
+      "image": "https://hips.hearstapps.com/hmg-prod/images/coop-home-goods-original-pillow-review-1657734282.jpg?crop=1.00xw:1.00xh;0,0&resize=1200:*",
+      "url": "https://www.goodhousekeeping.com/home-products/pillow-reviews/a40242731/coop-home-goods-original-pillow-review/"
+    },
+    "https://www.tomsguide.com/reviews/coop-home-goods-original-pillow-review": {
+      "title": "Coop Sleep Goods Original Adjustable Pillow review 2025: Customizable comfort for all sleeping styles",
+      "description": "Can this medium-firm pillow be the 'one' for all sleeping positions? We put it to test...",
+      "image": "https://cdn.mos.cms.futurecdn.net/L32xoAFwuXTotaiuEi5rqB-1920-80.jpg",
+      "url": "https://www.tomsguide.com/mattresses/pillows-bedding/coop-sleep-goods-original-adjustable-pillow-review"
+    },
+    "https://www.consumerreports.org/home-garden/pillows/coop-original-pillow-review-a1180798976/": {
+      "title": "Coop Original Pillow Review - Consumer Reports",
+      "description": "In this review of the Coop Original Pillow, Consumer Reports says this clever pillow can be customized to accommodate any sleep position, but it's a bit pricey and not exactly luxurious.",
+      "image": "https://article.images.consumerreports.org/image/upload/t_article_tout/v1666043281/prod/content/dam/CRO-Images-2022/Home/10October/CR-Home-InlineHero-SMR-Coop-Home-Goods-Premium-Adjustable-Loft-Pillow-1022",
+      "url": "https://www.consumerreports.org/home-garden/pillows/coop-original-pillow-review-a1180798976/"
+    },
+    "https://www.tempurpedic.com/shop-pillows/tempur-cloud-essential-pillow/": {
+      "title": "TEMPUR-Cloud® Pillow",
+      "description": "Stomach sleeper or back sleeper? The choice is obsolete. With the TEMPUR-Cloud® Pillow you don’t have to choose. Just sleep.",
+      "image": "https://assets-www.tempurpedic.com/media/original_images/TEMPUR-CloudPillow_Hero.jpg",
+      "url": "https://www.tempurpedic.com/shop-pillows/tempur-cloud-essential-pillow/"
+    },
+    "https://www.mattressnerd.com/tempur-cloud-pillow-review/": {
+      "title": "TEMPUR-Cloud Pillow Review (2026) | Mattress Nerd",
+      "description": "As one of TEMPUR-pedic's top selling pillows, the Nerds share everything you need to know about its performance in our testing.",
+      "image": "https://i.mattressnerd.com/577/658/579/inside-tempur-cloud-pillow.webp",
+      "url": "https://www.mattressnerd.com/tempur-cloud-pillow-review/"
+    },
+    "https://deepsomnia.com/epabo-contour-memory-foam-pillow-review-2024/": {
+      "title": "Epabo Contour Memory Foam Pillow Review 2024",
+      "description": "Discover the EPABO Contour Memory Foam Pillow: Ergonomic design for neck pain relief and better sleep. Learn about its features, benefits, and potential drawbacks.",
+      "image": "https://deepsomnia.com/wp-content/uploads/2024/03/71zUk9tF5xL._AC_SL1500_-e1736286393422.webp",
+      "url": "https://deepsomnia.com/epabo-contour-memory-foam-pillow-review-2024/"
+    },
+    "https://memoryfoamdoctor.com/memory-foam-pillow/": {
+      "title": "Memory Foam Pillows | MemoryFoamDoctor.com",
+      "description": "Read all about Memory Foam Pillows right here on MemoryFoamDoctor.com. You will find Memory Foam Pillow reviews & much more.",
+      "image": "",
+      "url": "https://www.memoryfoamdoctor.com/memory-foam-pillows/"
+    },
+    "https://www.reddit.com/r/Pillows/comments/1lyftn7/need_pillow_recommendation_the_epabo_contour/": {
+      "title": "Reddit - The heart of the internet",
+      "description": "",
+      "image": "",
+      "url": "https://www.reddit.com/r/Pillows/comments/1lyftn7/need_pillow_recommendation_the_epabo_contour/"
+    }
+  }
+}

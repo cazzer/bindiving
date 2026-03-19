@@ -1,0 +1,121 @@
+{
+  "slug": "infant-car-seats",
+  "query": "best infant car seats",
+  "title": "Best infant car seats | Bin Diving",
+  "description": "AI-dug recommendations for best infant car seats. Compare options and find one that fits.",
+  "dugAt": "2026-03-18T22:19:13.063Z",
+  "recommendations": [
+    {
+      "product_name": "Nuna PIPA RX (with RELX base)",
+      "pros": [
+        "Excellent crash-test performance",
+        "Very lightweight carrier",
+        "RELX base with load‑leg for stable install"
+      ],
+      "cons": [
+        "Premium price",
+        "Base requires floor clearance",
+        "Stroller compatibility varies"
+      ],
+      "price": "$349.99",
+      "amazon_id": "B0FFHN74M7",
+      "sources": [
+        "https://www.babygearlab.com/reviews/vehicle-safety/infant-car-seat/nuna-pipa-rx",
+        "https://www.babylist.com/hello-baby/nuna-pipa-rx-review",
+        "https://www.safestcarseat.com/blog/best-infant-car-seat-reviews-2025"
+      ],
+      "image_url": "https://images-na.ssl-images-amazon.com/images/G/01/x-locale/common/grey-pixel.gif",
+      "images": [
+        "https://images-na.ssl-images-amazon.com/images/G/01/x-locale/common/grey-pixel.gif"
+      ],
+      "amazon_url": "https://www.amazon.com/UPPAbaby-Mesa-Infant-Car-Seat/dp/B0FFHN74M7/ref=mp_s_a_1_1?dib=eyJ2IjoiMSJ9.2bizyOGbQuPcfJRkd72o3uS7GZ_4tbi_yO35f7r27vfP3MdYmDP6U2gph6nGiK7MrctS2rHLUjeRbMFriBzF0THl_oHw7_xMJ8qM0OxgaSixGAZ-TuUL9vPlI5xqeDSSuN0J387YmouZL-GmyD-GAeSNmPb20rT-1WLjjqPPGueaz9QRFRQna_NOZdGvWpYVQ77o-uaNgHO5_p1Isjh-Sw.StiLsaLXWnRqCOch4J3YEufdQwf6N0vUXmZTkmihUKU&dib_tag=se&keywords=Nuna+PIPA+RX+%28with+RELX+base%29&qid=1773872348&sr=8-1",
+      "brand": "UPPAbaby",
+      "blackFriday": false,
+      "gpt_azn": null,
+      "resolver": "cheerio",
+      "valid": true
+    },
+    {
+      "product_name": "Chicco KeyFit 35 Infant Car Seat",
+      "pros": [
+        "Easy, intuitive installation",
+        "Above‑average crash‑test results",
+        "Broad stroller compatibility"
+      ],
+      "cons": [
+        "Can be heavier than ultra‑light seats",
+        "Somewhat higher price than budget options",
+        "Non‑rigid LATCH on some models"
+      ],
+      "price": "$269–$329",
+      "amazon_id": "B08Q1LS11S",
+      "sources": [
+        "https://www.babygearlab.com/reviews/vehicle-safety/infant-car-seat/chicco-keyfit-35",
+        "https://www.reviewed.com/parenting/best-right-now/best-car-seats",
+        "https://www.safestcarseat.com/blog/best-infant-car-seat-reviews-2025"
+      ],
+      "amazon_url": "https://www.amazon.com/Chicco-ClearTex%C2%AE-Rear-Facing-Compatible-Strollers/dp/B08Q1LS11S",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/poeGAm7hO1n8UHR7i3Y4YKL85_4m1BucIFx78JT141Q/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9tZWRp/YS5rb2hsc2ltZy5j/b20vaXMvaW1hZ2Uv/a29obHMvNjA0OTQw/MF9BTFQ1P3dpZD0z/OTAmaGVpPTM5MCZv/cF9zaGFycGVuPTE",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "Graco SnugRide SnugLock 35 (SnugRide 35 series)",
+      "pros": [
+        "Strong value for price",
+        "Lightweight carrier options available",
+        "Widely compatible with travel systems"
+      ],
+      "cons": [
+        "Fewer premium features than top‑tier seats",
+        "Varies by submodel (check exact spec)",
+        "Some models heavier base than competitors"
+      ],
+      "price": "$129–$199",
+      "amazon_id": "B0B16P3B89",
+      "sources": [
+        "https://www.babygearlab.com/reviews/vehicle-safety/infant-car-seat/graco-snugride-snuglock-35",
+        "https://www.cribworthy.com/blog/best-car-seats-2025",
+        "https://www.safestcarseat.com/blog/best-infant-car-seat-reviews-2025"
+      ],
+      "amazon_url": "https://www.amazon.com/Graco-SnugRide-SnugLock-Infant-Harleigh/dp/B0B16P3B89",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/IUhmWG3fjuO4FXSdGu5rNFV6PM0brI-Th2eyX1CMkgU/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9jc2Z0/bC5vcmcvd3AtY29u/dGVudC91cGxvYWRz/LzIwMTcvMDQvSU1H/XzYyNjItMjI1eDMw/MC5wbmc",
+      "resolver": "brave",
+      "valid": true
+    }
+  ],
+  "resolvedLinks": {
+    "https://www.babygearlab.com/reviews/vehicle-safety/infant-car-seat/nuna-pipa-rx": {
+      "title": "Nuna Pipa RX Review",
+      "description": "The Nuna Pipa RX is a standout infant car seat that ticks all the boxes. We love the impressive crash test results, including some of this group's lowest...",
+      "image": "https://d1awg155xx98w6.cloudfront.net/photos/41/44/535903_18997_XXL.jpg",
+      "url": "https://www.babygearlab.com/reviews/vehicle-safety/infant-car-seat/nuna-pipa-rx"
+    },
+    "https://www.babylist.com/hello-baby/nuna-pipa-rx-review": {
+      "title": "",
+      "description": "",
+      "image": "",
+      "url": "https://www.babylist.com/hello-baby/nuna-pipa-rx-review"
+    },
+    "https://www.babygearlab.com/reviews/vehicle-safety/infant-car-seat/chicco-keyfit-35": {
+      "title": "Chicco KeyFit 35 Review",
+      "description": "The Chicco Keyfit 35 has long been a BabyGearLab favorite infant car seat, and this update is no different. While it dropped in ranking, it is still a...",
+      "image": "https://d1awg155xx98w6.cloudfront.net/photos/40/91/530634_22997_XXL.jpg",
+      "url": "https://www.babygearlab.com/reviews/vehicle-safety/infant-car-seat/chicco-keyfit-35"
+    },
+    "https://www.reviewed.com/parenting/best-right-now/best-car-seats": {
+      "title": "The Best Car Seats of 2026",
+      "description": "Give your little one a safe, secure and comfortable ride in these infant car seats.",
+      "image": "https://reviewed-com-res.cloudinary.com/image/fetch/s--ima9F80P--/b_white,c_limit,cs_srgb,f_auto,fl_progressive.strip_profile,g_center,q_auto,w_1200/https://reviewed-production.s3.amazonaws.com/1667006998000/Hero-20221028_CarSeatTBRNHeroV1_Renzi.PNG",
+      "url": "https://www.reviewed.com/parenting/best-right-now/best-car-seats"
+    },
+    "https://www.babygearlab.com/reviews/vehicle-safety/infant-car-seat/graco-snugride-snuglock-35": {
+      "title": "Graco SnugRide SnugLock 35 Review",
+      "description": "The Graco SnugRide SnugLock 35 is an inexpensive basic seat from our infant car seat review. It has a lightweight carrier portion and compatibility with...",
+      "image": "https://d1awg155xx98w6.cloudfront.net/photos/40/88/530321_986_XXL.jpg",
+      "url": "https://www.babygearlab.com/reviews/vehicle-safety/infant-car-seat/graco-snugride-snuglock-35"
+    }
+  }
+}

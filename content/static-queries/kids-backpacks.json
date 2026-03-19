@@ -1,0 +1,110 @@
+{
+  "slug": "kids-backpacks",
+  "query": "best kids backpacks",
+  "title": "Best kids backpacks | Bin Diving",
+  "description": "AI-dug recommendations for best kids backpacks. Compare options and find one that fits.",
+  "dugAt": "2026-03-18T22:25:04.445Z",
+  "recommendations": [
+    {
+      "product_name": "L.L.Bean Deluxe Book Pack",
+      "pros": [
+        "Durable construction",
+        "Ergonomic padded straps"
+      ],
+      "cons": [
+        "Larger size may be big for preschoolers",
+        "Higher price than basic kids packs"
+      ],
+      "price": "$23.25",
+      "amazon_id": "B0868X5R8Z",
+      "sources": [
+        "https://www.forbes.com/sites/forbes-personal-shopper/article/best-kids-backpack/"
+      ],
+      "image_url": "789_QL65_.jpg",
+      "images": [
+        "789_QL65_.jpg"
+      ],
+      "amazon_url": "https://www.amazon.com/Multi-Pocket-Backpack-Capacity-Top-Loader-Midnight/dp/B0868X5R8Z/ref=mp_s_a_1_1?dib=eyJ2IjoiMSJ9.2IRhgOHcYJkKJ_wazFkHI2D4QIo32aPDrhuUz0f7A2XmNyRo2USKzhgA1qs71B4Q.MZHh_6TCPFo5XynukqZzPbtA_qMp6MrK4_dZt_6Q5Tg&dib_tag=se&keywords=L.L.Bean+Deluxe+Book+Pack&qid=1773872697&sr=8-1",
+      "brand": "FUEL",
+      "blackFriday": false,
+      "gpt_azn": null,
+      "resolver": "cheerio",
+      "valid": true
+    },
+    {
+      "product_name": "Pottery Barn Kids Mackenzie Backpack",
+      "pros": [
+        "Child-friendly designs and personalization",
+        "Sturdy materials and padded support"
+      ],
+      "cons": [
+        "Can be pricier than generic brands",
+        "Some popular styles sell out seasonally"
+      ],
+      "price": "$17.99",
+      "amazon_id": "B0CTMKYZ3R",
+      "sources": [
+        "https://www.wired.com/gallery/best-kids-backpacks/",
+        "https://www.potterybarnkids.com/products/mackenzie-recycled-natural-sherpa-backpacks/pip-print.html"
+      ],
+      "image_url": "https://m.media-amazon.com/images/I/81NdnBpmXlL._AC_UL960_QL65_.jpg",
+      "images": [
+        "https://m.media-amazon.com/images/I/81NdnBpmXlL._AC_UL960_QL65_.jpg"
+      ],
+      "amazon_url": "https://www.amazon.com/STEAMEDBUN-Kids-Backpack-Boys-4-6/dp/B0CTMKYZ3R/ref=sr_1_1?dib=eyJ2IjoiMSJ9.Vtt9ld8qNXGiqz24BqMoBO7aoX8ePaihsSX-knlO8RQ8d5jw6k_zBxaNqqIB-cxRCJzpK_OtuGODA5ddwrfCHPV4jsd6kwRq03wj7jueN2ej7HKuX0RS084f_4Tu0kGCJAMQs7A8301B0iJnh9qqg3X5DunUUxj4K1ytvRH-c13pjLu4MQ5PxVPSypQ01dki4LMf1gSKDO9YR2VU7ZED_dKvZJGUnvLa1HbTddUGO0kNC5ZzPpJus8dSdc0_9__Zv4fSnnJ-Q94Ge97sKauWpE2Bzovnsgr62B9Krlusyuw.9QxbQdjm4VWVoxouTDm7qHhIfJAYiLemPUa2w_hlEWg&dib_tag=se&keywords=Pottery+Barn+Kids+Mackenzie+Backpack&qid=1773872698&sr=8-1",
+      "brand": "STEAMEDBUN",
+      "blackFriday": false,
+      "gpt_azn": null,
+      "resolver": "cheerio",
+      "valid": true
+    },
+    {
+      "product_name": "Skip Hop Zoo Backpack (Zoo Pack)",
+      "pros": [
+        "Playful character designs kids love",
+        "Lightweight and sized for preschool/kindergarten"
+      ],
+      "cons": [
+        "Not intended for heavy textbook loads",
+        "Some mesh pockets can tear over long use"
+      ],
+      "price": null,
+      "amazon_id": "B00SIM40MG",
+      "sources": [
+        "https://www.babygearlab.com/topics/kids/best-kids-backpack",
+        "https://www.nbcnews.com/select/shopping/best-kids-backpacks-ncna1274629"
+      ],
+      "amazon_url": "https://www.amazon.com/Skip-Hop-Toddler-Backpack-Unicorn/dp/B00SIM40MG",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/6wIEQAVxvzPnvdJKQY86rhxpiqCE_Fgjy6_X7V7nEKg/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9pLmVi/YXlpbWcuY29tL2lt/YWdlcy9nL3I3VUFB/ZVN3U3d0cEZnZ0Uv/cy1sNDAwLndlYnA",
+      "resolver": "brave",
+      "valid": true
+    }
+  ],
+  "resolvedLinks": {
+    "https://www.wired.com/gallery/best-kids-backpacks/": {
+      "title": "The Best Backpacks Our Kids Have Tried",
+      "description": "Your kid’s little lunch hauler takes a brutal beating every day. These are the best kids backpacks that our own kids have tried and loved.",
+      "image": "https://media.wired.com/photos/689a774cdd8a1ed459fb2be2/191:100/w_1280,c_limit/The%20Best%20Kids%20Backpacks.png",
+      "url": "https://www.wired.com/gallery/best-kids-backpacks/"
+    },
+    "https://www.potterybarnkids.com/products/mackenzie-recycled-natural-sherpa-backpacks/pip-print.html": {
+      "title": "Mackenzie Natural Sherpa Backpacks | Pottery Barn KidsPottery Barn KidsRegistryRegistry",
+      "description": "",
+      "image": "",
+      "url": "https://www.potterybarnkids.com/products/mackenzie-recycled-natural-sherpa-backpacks/pip-print.html"
+    },
+    "https://www.babygearlab.com/topics/kids/best-kids-backpack": {
+      "title": "The Best Kids Backpacks",
+      "description": "We tested kids' backpacks from top brands, like Bentgo, VASCHY, Simple Modern, Skip Hop, JanSport, and more to find the best",
+      "image": "https://d1awg155xx98w6.cloudfront.net/photos/40/58/527314_24951_XXL.jpg",
+      "url": "https://www.babygearlab.com/topics/kids/best-kids-backpack"
+    },
+    "https://www.nbcnews.com/select/shopping/best-kids-backpacks-ncna1274629": {
+      "title": "Kids backpacks for students of all ages",
+      "description": "We rounded up highly rated backpacks students can use across price points and styles.",
+      "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/newscms/2022_32/3565926/220809-backpacks-kids-bd-2x1.jpg",
+      "url": "https://www.nbcnews.com/select/shopping/best-kids-backpacks-ncna1274629"
+    }
+  }
+}

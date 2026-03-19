@@ -1,0 +1,104 @@
+{
+  "slug": "umbrellas",
+  "query": "best umbrellas",
+  "title": "Best umbrellas | Bin Diving",
+  "description": "AI-dug recommendations for best umbrellas. Compare options and find one that fits.",
+  "dugAt": "2026-03-18T18:22:29.600Z",
+  "recommendations": [
+    {
+      "product_name": "Repel Windproof Travel Umbrella",
+      "pros": [
+        "Compact and portable",
+        "Wind-resistant nine-rib fiberglass frame",
+        "Automatic open/close"
+      ],
+      "cons": [
+        "Not a premium luxury finish",
+        "Can be heavier than smallest ultralight models"
+      ],
+      "price": null,
+      "amazon_id": "B0F9HWMVVP",
+      "sources": [
+        "https://www.nationalgeographic.com/lifestyle/article/best-travel-umbrellas",
+        "https://www.outdoorgearlab.com/reviews/camping-and-hiking/umbrella/repel-windproof-travel"
+      ],
+      "amazon_url": "https://www.amazon.com/REPEL-Windproof-Travel-Umbrella-Withstands/dp/B0F9HWMVVP",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/OGdwBtjQzxEow9UNVjXlLNDby8PwUBpnmJqFnO5tu3w/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9pNS53/YWxtYXJ0aW1hZ2Vz/LmNvbS9zZW8vUmVw/ZWwtVW1icmVsbGEt/V2luZHByb29mLVRy/YXZlbC1VbWJyZWxs/YS1Db21wYWN0LVVW/LVByb3RlY3Rpb24t/RG91YmxlLVZlbnRl/ZC1DYW5vcHktUG9y/dGFibGVfZjY5MDA3/YTItYzZjYS00OWI3/LTlhM2ItMjBjOWYx/MTE4N2E5Ljc2ODc5/MzdmMzEwYzY0MmZh/OWQ3NWEwMDFlMjg2/YTVmLmpwZWc_b2Ru/SGVpZ2h0PTg2NCZv/ZG5XaWR0aD01NzYm/b2RuQmc9RkZGRkZG",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "Davek Elite Umbrella",
+      "pros": [
+        "Heavy-duty, wind-resistant construction",
+        "Premium build and finish",
+        "Strong warranty and long user lifespan"
+      ],
+      "cons": [
+        "Higher price point",
+        "Heavier and less compact than travel umbrellas"
+      ],
+      "price": null,
+      "amazon_id": "B079XX9WG7",
+      "sources": [
+        "https://www.nbcnews.com/select/shopping/best-umbrellas-rcna197389",
+        "https://www.theguardian.com/thefilter-us/2025/oct/18/davek-solou-umbrella-buy-it-for-life-review"
+      ],
+      "amazon_url": "https://www.amazon.com/DAVEK-ELITE-UMBRELLA-Classic-Black/dp/B079XX9WG7",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/cHliES886coebpRXEk4jsaL-mq6oSRnr8RVnbixG2iY/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9jZG4u/c2hvcGxpZ2h0c3Bl/ZWQuY29tL3Nob3Bz/LzYzNjE4OC9maWxl/cy8yNzg4MDkzOS8x/NjUyeDIzMTN4MS9k/YXZlay1lbGl0ZS11/bWJyZWxsYS1ibGFj/ay5qcGc",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "Blunt Metro Travel Umbrella",
+      "pros": [
+        "Very durable, wind-tolerant design",
+        "Stylish, large canopy for coverage",
+        "Engineered safety features prevent inversion"
+      ],
+      "cons": [
+        "Longer folded length than some compacts",
+        "Premium price compared with budget travel umbrellas"
+      ],
+      "price": null,
+      "amazon_id": "B00G80FDXU",
+      "sources": [
+        "https://www.the-independent.com/extras/indybest/travel-outdoors/best-umbrellas-a6687486.html",
+        "https://www.nationalgeographic.com/lifestyle/article/best-travel-umbrellas"
+      ],
+      "amazon_url": "https://www.amazon.com/Blunt-83138-Metro-Charcoal/dp/B00G80FDXU",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/-xUgzWGuJKzcndFZf_XzFyNxrvelfWe4h8L5d4Y75xs/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9pbWFn/ZXMtbmEuc3NsLWlt/YWdlcy1hbWF6b24u/Y29tL2ltYWdlcy9J/LzYxSm9NSFFZUnBM/LmpwZw",
+      "resolver": "brave",
+      "valid": true
+    }
+  ],
+  "resolvedLinks": {
+    "https://www.outdoorgearlab.com/reviews/camping-and-hiking/umbrella/repel-windproof-travel": {
+      "title": "Repel Windproof Travel Review",
+      "description": "The Repel Windproof Travel umbrella may not have the flashiest name, but it's straight to the point. The handle has a large button, which makes deploying...",
+      "image": "https://d1i8d6ce8wwubf.cloudfront.net/photos/24/14/362889_19273_XXL.jpg",
+      "url": "https://www.outdoorgearlab.com/reviews/camping-and-hiking/umbrella/repel-windproof-travel"
+    },
+    "https://www.nbcnews.com/select/shopping/best-umbrellas-rcna197389": {
+      "title": "Spring weather is here, and these are the best umbrellas to keep you sheltered all season",
+      "description": "Manual or automatic? Large or small? Here’s everything you should know before investing in an umbrella.",
+      "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2025-03/250321-umbrella-bd-main-38c57c.jpg",
+      "url": "https://www.nbcnews.com/select/shopping/best-umbrellas-rcna197389"
+    },
+    "https://www.theguardian.com/thefilter-us/2025/oct/18/davek-solou-umbrella-buy-it-for-life-review": {
+      "title": "Embrace the rain with a go-anywhere umbrella built to last",
+      "description": "Lightweight and compact, the Davek Solo is sturdy enough for a nor’easter – here why it’s worth the price",
+      "image": "https://i.guim.co.uk/img/media/8545a8965ff4d439fc6e4377634e4e1163115cea/196_0_2833_2268/master/2833.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvZmlsdGVyLXVzLnBuZw&enable=upscale&s=480c26014b68e7cda22df256ca359380",
+      "url": "https://www.theguardian.com/thefilter-us/2025/oct/18/davek-solou-umbrella-buy-it-for-life-review"
+    },
+    "https://www.the-independent.com/extras/indybest/travel-outdoors/best-umbrellas-a6687486.html": {
+      "title": "11 best umbrellas, tried and tested in wet and windy weather",
+      "description": "We put a range of brollies to the test in drizzle, heavy rain and wind over several weeks",
+      "image": "https://static.the-independent.com/2026/01/12/13/11/best-umbrellas.png?trim=0,0,0,0&width=1200&height=800&crop=1200:800",
+      "url": "https://www.the-independent.com/extras/indybest/travel-outdoors/best-umbrellas-a6687486.html"
+    }
+  }
+}

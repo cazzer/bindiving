@@ -1,0 +1,96 @@
+{
+  "slug": "sewing-machines",
+  "query": "best sewing machines",
+  "title": "Best sewing machines | Bin Diving",
+  "description": "AI-dug recommendations for best sewing machines. Compare options and find one that fits.",
+  "dugAt": "2026-03-18T18:47:30.659Z",
+  "recommendations": [
+    {
+      "product_name": "Brother XR9550 Sewing and Quilting Machine",
+      "pros": [
+        "Wide stitch selection",
+        "Good value for features"
+      ],
+      "cons": [
+        "Can struggle with very fine satins"
+      ],
+      "price": "$270",
+      "amazon_id": "B088JDJ6MS",
+      "sources": [
+        "https://www.goodhousekeeping.com/sewing-machine-reviews/"
+      ],
+      "amazon_url": "https://www.amazon.com/Brother-Quilting-Computerized-Stitches-Included/dp/B088JDJ6MS",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/-Vg0WPKIvSmgVeQVQkXcir0gstQqDkCItNCXd-7m7qk/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9pNS53/YWxtYXJ0aW1hZ2Vz/LmNvbS9zZW8vQnJv/dGhlci1YUjk1NTAt/Q29tcHV0ZXJpemVk/LVNld2luZy1hbmQt/UXVpbHRpbmctTWFj/aGluZS1XaGl0ZS1C/dW5kbGUtd2l0aC1I/YXJkLUNhc2UtYW5k/LTYtUGllY2UtVGhy/ZWFkLTMtSXRlbXNf/N2ViNzgyMTItYzZm/ZS00MDYyLTkzOWUt/Mzg3Njc0ZjZjYTJl/LmExNTZhNTg5YmNh/N2RjZDU5ZTlkZmRh/MjY1YTM3MjcwLmpw/ZWc_b2RuSGVpZ2h0/PTU3MyZvZG5XaWR0/aD01NzMmb2RuQmc9/RkZGRkZG",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "Brother CS7000X Computerized Sewing and Quilting Machine",
+      "pros": [
+        "Beginner-friendly",
+        "Adjustable speed, easy threading"
+      ],
+      "cons": [
+        "Thread holder reported short by some testers"
+      ],
+      "price": "$280",
+      "amazon_id": "B08BH5GTNC",
+      "sources": [
+        "https://www.goodhousekeeping.com/home-products/g27760473/best-sewing-machines-for-beginners/"
+      ],
+      "amazon_url": "https://www.amazon.com/Brother-CS7000X-Computerized-Quilting-Stitches/dp/B08BH5GTNC",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/9wO4VpaeMEnxACNcWVRRXkrObnOnvi0l8HSPuBAEUJQ/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9tLm1l/ZGlhLWFtYXpvbi5j/b20vaW1hZ2VzL0kv/OTF5Z1ViNzNhNkwu/anBn",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "SINGER Heavy Duty 4452 Sewing Machine",
+      "pros": [
+        "Powerful motor for heavy fabrics",
+        "Durable metal frame"
+      ],
+      "cons": [
+        "Fewer decorative stitches than some computerized models"
+      ],
+      "price": "$249.99",
+      "amazon_id": "B00OZWX100",
+      "sources": [
+        "https://sewingreviews.org/best-sewing-machines-under-500/",
+        "https://www.sfchronicle.com/shopping/article/10-Best-Sewing-Machines-for-Beginners-According-15229716.php"
+      ],
+      "amazon_url": "https://www.amazon.com/Accessory-Enhanced-Piercing-Applications-Buttonhole/dp/B00OZWX100",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/CtWvG9wPUkmFhFxc0GRAwzVXzA7W983J5UFqLo5wTr4/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9zZXdp/bmdtYWNoaW5lc3Bs/dXMuY29tL2Nkbi9z/aG9wL2ZpbGVzL2Rp/bWVfZWl5LWxpdHRs/ZS1ibGFjay10ZWVf/d2F0ZXJtYXJrZWRf/NC5qcGc_dj0xNzU4/NTU1Mjk3JndpZHRo/PTEwMDA",
+      "resolver": "brave",
+      "valid": true
+    }
+  ],
+  "resolvedLinks": {
+    "https://www.goodhousekeeping.com/sewing-machine-reviews/": {
+      "title": "I Tested 18 Sewing Machines to Find the Best Buys for DIY Projects",
+      "description": "We found the best sewing machines for beginners and pros alike.",
+      "image": "https://hips.hearstapps.com/hmg-prod/images/ghk-digital-institutetesting-sewingmachines-031-comp-1677517028.jpg?crop=1.00xw:0.752xh;0,0.248xh&resize=1200:*",
+      "url": "https://www.goodhousekeeping.com/appliances/g16/sewing-machine-reviews/"
+    },
+    "https://www.goodhousekeeping.com/home-products/g27760473/best-sewing-machines-for-beginners/": {
+      "title": "We Tested 13 Sewing Machines to Find the Best Ones for Beginners",
+      "description": "Learning to sew can be hard. These top-tested machines make it easier.",
+      "image": "https://hips.hearstapps.com/hmg-prod/images/ghk-digital-institutetesting-sewingmachines-031-1668528711.jpg?crop=0.551xw:0.413xh;0.226xw,0.416xh&resize=1200:*",
+      "url": "https://www.goodhousekeeping.com/home-products/g27760473/best-sewing-machines-for-beginners/"
+    },
+    "https://sewingreviews.org/best-sewing-machines-under-500/": {
+      "title": "7 Best Sewing Machines Under $500 (2026 Guide)",
+      "description": "Many beginners and hobbyists struggle to find a reliable sewing machine that balances performance, durability, and affordability—all without breaking the",
+      "image": "https://m.media-amazon.com/images/I/413237GL-CL.jpg",
+      "url": "https://sewingtips4u.site/best-sewing-machines-under-500/"
+    },
+    "https://www.sfchronicle.com/shopping/article/10-Best-Sewing-Machines-for-Beginners-According-15229716.php": {
+      "title": "10 Best Sewing Machines for Beginners, According to Sewing Experts",
+      "description": "Finishing your own sewing projects is a huge accomplishment, but you need the right...",
+      "image": "https://s.hdnux.com/photos/01/11/63/76/19349389/4/rawImage.jpg",
+      "url": "https://www.sfchronicle.com/shopping/article/10-Best-Sewing-Machines-for-Beginners-According-15229716.php"
+    }
+  }
+}

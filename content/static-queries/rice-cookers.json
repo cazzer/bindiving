@@ -1,0 +1,113 @@
+{
+  "slug": "rice-cookers",
+  "query": "best rice cookers",
+  "title": "Best rice cookers | Bin Diving",
+  "description": "AI-dug recommendations for best rice cookers. Compare options and find one that fits.",
+  "dugAt": "2026-03-18T16:52:48.404Z",
+  "recommendations": [
+    {
+      "product_name": "Zojirushi Neuro Fuzzy Rice Cooker and Warmer (NS‑ZCC10)",
+      "pros": [
+        "Consistently fluffy rice",
+        "Easy presets for rice types"
+      ],
+      "cons": [
+        "Longer cook times",
+        "Higher price than basic cookers"
+      ],
+      "price": null,
+      "amazon_id": "B00007J5U7",
+      "sources": [
+        "https://www.reviewed.com/cooking/best-right-now/the-best-rice-cookers",
+        "https://kitchenchampions.com/product-reviews/zojirushi-ns-zcc10-rice-cooker-review/"
+      ],
+      "amazon_url": "https://www.amazon.com/Zojirushi-NS-ZCC10-Uncooked-Premium-1-0-Liter/dp/B00007J5U7",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/7qYCtF3UlCqraEyEbji8Exe4Oya5zK8hzVpBbvXnFog/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly93d3cu/a3JvZ2VyLmNvbS9w/cm9kdWN0L2ltYWdl/cy9tZWRpdW0vZnJv/bnQvMDAwMjM1OTYy/MTUwOA",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "Zojirushi Induction Heating Rice Cooker and Warmer (NP‑HCC10)",
+      "pros": [
+        "Induction heating for excellent texture",
+        "Top pick in multiple expert roundups"
+      ],
+      "cons": [
+        "More expensive than Micom models",
+        "Replacement parts can be harder to find"
+      ],
+      "price": null,
+      "amazon_id": "B00VAG84O2",
+      "sources": [
+        "https://www.bonappetit.com/story/best-rice-cookers",
+        "https://www.theguardian.com/food/2025/jul/31/best-rice-cookers-us"
+      ],
+      "amazon_url": "https://www.amazon.com/Zojirushi-NP-HCC10XH-Induction-Heating-Stainless/dp/B00VAG84O2",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/X1a_pqW1fxdBUpN3euZYHaYlrSf-HF1wId3pWt0YGzU/rs:fit:0:180:1:0/g:ce/aHR0cHM6Ly90ZWxl/dHJvbnVzYS5jb20v/cHViL21lZGlhL2Nh/dGFsb2cvcHJvZHVj/dC9jYWNoZS9jOTlk/YjNjOGMxM2NlODI4/ZWZkMTVlMThlZGE3/ODNhMC9uL3AvbnBo/Y2MxMF8xXzJfMS5q/cGc",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "Ninja Foodi PossibleCooker (multi‑cook/rice mode)",
+      "pros": [
+        "Multi‑function appliance (rice, pressure, steam)",
+        "Excellent rice results in recent lab tests"
+      ],
+      "cons": [
+        "Larger footprint than single‑function cookers",
+        "Some reviewers note learning curve for controls"
+      ],
+      "price": null,
+      "amazon_id": "B0CDHP76FP",
+      "sources": [
+        "https://www.techradar.com/home/multi-cookers/ninja-foodi-possiblecooker-review",
+        "https://www.techradar.com/home/small-appliances/the-ninja-foodi-possiblecooker-is-an-excellent-value-multicooker-and-its-crashed-to-a-record-low-price-on-amazon"
+      ],
+      "amazon_url": "https://www.amazon.com/Ninja-MC1101-Versatility-Family-Sized-Adjustable/dp/B0CDHP76FP",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/rYq-27qPGV47LJWHklLddeC9bPJzOzc6wWSYKviPOkU/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9tZWRp/YS52ZXJ5LmNvLnVr/L2kvdmVyeS9XQThP/Q19TUTNfMDAwMDAw/MDAwNF9CTEFDS19T/TGQxPyRwZHBfMzAw/eDQwMF94MiQmZm10/PWpwZw",
+      "resolver": "brave",
+      "valid": true
+    }
+  ],
+  "resolvedLinks": {
+    "https://www.reviewed.com/cooking/best-right-now/the-best-rice-cookers": {
+      "title": "The Best Rice Cookers of 2026",
+      "description": "For long grain and sushi rice and everything nice.",
+      "image": "https://reviewed-com-res.cloudinary.com/image/fetch/s--Xe3kIhG3--/b_white,c_limit,cs_srgb,f_auto,fl_progressive.strip_profile,g_center,q_auto,w_1200/https://reviewed-production.s3.amazonaws.com/1584649986712/DSC_4632.jpg",
+      "url": "https://www.reviewed.com/cooking/best-right-now/the-best-rice-cookers"
+    },
+    "https://kitchenchampions.com/product-reviews/zojirushi-ns-zcc10-rice-cooker-review/": {
+      "title": "Zojirushi NS-ZCC10 Rice Cooker Review Advanced Neuro Fuzzy Technology Tested - KitchenChampions.com",
+      "description": "Consistently produces perfectly cooked rice thanks to its advanced Neuro Fuzzy logic technology that adjusts temperature and cooking time precisely. The spherical nonstick inner pan ensures even heat distribution, preventing rice from sticking or burning. Features a variety of cooking modes, including settings for sushi, porridge, brown rice, and quick cooking, catering to diverse preferences. Equipped with an easy-to-read LCD control panel and programmable timer, making it simple to use and schedule cooking.",
+      "image": "https://kitchenchampions.com/wp-content/uploads/2025/05/zojirushi-ns-zcc10-5-1-2-cup-neuro-fuzzy-rice-cooker-and-warmer-premium-white.jpg",
+      "url": "https://kitchenchampions.com/product-reviews/zojirushi-ns-zcc10-rice-cooker-review/"
+    },
+    "https://www.bonappetit.com/story/best-rice-cookers": {
+      "title": "The Best Rice Cookers for Flawlessly Cooked Grains",
+      "description": "Whether you're on a budget or want a model that's practically sentient, there's a rice cooker for you.",
+      "image": "https://assets.bonappetit.com/photos/68dae95d2e8ac914048e07db/16:9/w_1280,c_limit/9.24_BA_Best_Rice_Cooker.jpg",
+      "url": "https://www.bonappetit.com/story/best-rice-cookers"
+    },
+    "https://www.theguardian.com/food/2025/jul/31/best-rice-cookers-us": {
+      "title": "I tried 17 rice cookers to find the best model in the US: here are my favorites",
+      "description": "The most important function of a rice cooker is to make delicious rice, from jasmine to brown and sushi. Our expert found the best ones that are designed to last",
+      "image": "https://i.guim.co.uk/img/media/f7532ed1ac17117732d0d5e28a02ef6db7158270/0_0_5000_4000/master/5000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvZmlsdGVyLXVzLnBuZw&enable=upscale&s=4154276be8294dd4209fbe5b5383affa",
+      "url": "https://www.theguardian.com/food/2025/jul/31/best-rice-cookers-us"
+    },
+    "https://www.techradar.com/home/multi-cookers/ninja-foodi-possiblecooker-review": {
+      "title": "Fluffy rice and melt-in-your-mouth meats make the Ninja Foodi PossibleCooker my new favorite kitchen appliance",
+      "description": "A rice cooker, slow cooker, stove, and steamer in one",
+      "image": "https://cdn.mos.cms.futurecdn.net/JBqCyarzBndbj8iaRZfrH6-1995-80.jpg",
+      "url": "https://www.techradar.com/home/multi-cookers/ninja-foodi-possiblecooker-review"
+    },
+    "https://www.techradar.com/home/small-appliances/the-ninja-foodi-possiblecooker-is-an-excellent-value-multicooker-and-its-crashed-to-a-record-low-price-on-amazon": {
+      "title": "One of our favourite kitchen gadgets from last year drops to a new record-low price on Amazon",
+      "description": "Here's your chance to bag a gob-smacking record-low price for the 4.5-star-rated multicooker from Ninja that was one of our favourite kitchen gadgets from last year.",
+      "image": "https://cdn.mos.cms.futurecdn.net/ue5CK5QjPrDoFzsHLjKxfk-2000-80.jpg",
+      "url": "https://www.techradar.com/home/small-appliances/the-ninja-foodi-possiblecooker-is-an-excellent-value-multicooker-and-its-crashed-to-a-record-low-price-on-amazon"
+    }
+  }
+}

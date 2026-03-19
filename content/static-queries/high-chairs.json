@@ -1,0 +1,101 @@
+{
+  "slug": "high-chairs",
+  "query": "best high chairs",
+  "title": "Best high chairs | Bin Diving",
+  "description": "AI-dug recommendations for best high chairs. Compare options and find one that fits.",
+  "dugAt": "2026-03-18T22:21:54.904Z",
+  "recommendations": [
+    {
+      "product_name": "Abiie Beyond Junior Wooden High Chair",
+      "pros": [
+        "Solid wood, grows with child",
+        "Hygienic heat-sterilized finish"
+      ],
+      "cons": [
+        "Heavier than plastic chairs",
+        "Deeper seat may not fit every child"
+      ],
+      "price": "$238",
+      "amazon_id": "B0BS1N51MS",
+      "sources": [
+        "https://www.babygearlab.com/reviews/nursing-feeding/high-chair/abiie-beyond-wooden-high-chair",
+        "https://www.abiie.com/products/beyond-junior-high-chair"
+      ],
+      "amazon_url": "https://www.amazon.com/Adjustable-Baby-Toddler-High-Chair/dp/B0BS1N51MS",
+      "gpt_azn": "B0DS3P73FS",
+      "image_url": "https://imgs.search.brave.com/ICCwjPrM0InKWj6NcysYEE2I0Az0sxkNp0fBOFoxNQQ/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9pbWFn/ZXMuc3F1YXJlc3Bh/Y2UtY2RuLmNvbS9j/b250ZW50L3YxLzU4/N2U5M2M3ZTU4YzYy/MWUxMDIzNTdhNi8z/YTUxYzZlMi0wMjQy/LTRiOGYtODc0MC1j/MGE2ZGRmNWViNGIv/QWJpaWUrQmV5b25k/K0p1bmlvcitIaWdo/K0NoYWlyK1Jldmll/dywrQmVzdCtIaWdo/K2NoYWlyK2Zvciti/YWJ5K2xlZCt3ZWFu/aW5nLCttb3N0K2R1/cmFibGUraGlnaCtj/aGFpciwrd29vZGVu/K2hpZ2grY2hhaXIs/K0FiaWllK2hpZ2gr/Y2hhaXIsK21vZGVy/bitoaWdoK2NoYWly/LCtwcmV0dHkraGln/aCtjaGFpciwrTXVz/dCtoYXZlK2hpZ2gr/Y2hhaXI",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "Graco Blossom 6-in-1 Convertible High Chair",
+      "pros": [
+        "Multiple convertible modes (6‑in‑1)",
+        "Adjustable heights and recline positions"
+      ],
+      "cons": [
+        "Relatively large footprint",
+        "Some users report bulky storage"
+      ],
+      "price": "$239.99",
+      "amazon_id": "B08C6ZD793",
+      "sources": [
+        "https://www.gracobaby.com/shop/home-and-gear/high-chairs/blossom-6-in-1-convertible-high-chair/SP_92078.html",
+        "https://www.thebump.com/a/most-stylish-high-chairs"
+      ],
+      "amazon_url": "https://www.amazon.com/Graco-Blossom-Convertible-Redmond-Exclusive/dp/B08C6ZD793",
+      "gpt_azn": "B00H8MSEXS",
+      "image_url": "https://imgs.search.brave.com/gVD72XVLmvfdcxSiTooYphMQuhL8sgKSdgS54Pawhqg/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9icmFu/ZHMuYW1henJvY2su/Y29tL3dwLWNvbnRl/bnQvdXBsb2Fkcy8y/MDI1LzAzL0dyYWNv/LUJsb3Nzb20tSGln/aC1DaGFpci02LWlu/LTEtQ29udmVydGli/bGUtSGlnaGNoYWly/LVNhcHBoaXJlLU1h/aW4uanBn",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "Stokke Tripp Trapp High Chair (with Baby Set)",
+      "pros": [
+        "Adjustable ergonomic design, ‘chair for life’",
+        "Timeless solid-wood build fits at dining table"
+      ],
+      "cons": [
+        "Premium price",
+        "Requires buying correct accessories for infants"
+      ],
+      "price": null,
+      "amazon_id": "B0D5KLGSYS",
+      "sources": [
+        "https://www.thebump.com/a/most-stylish-high-chairs",
+        "https://www.thebabyverse.org/stokke-tripp-trapp-chair-review-the-iconic-chair-for-life-we-put-to-the-test/"
+      ],
+      "amazon_url": "https://www.amazon.com/Stokke-Tripp-Trapp-Chair-Natural/dp/B0D5KLGSYS",
+      "gpt_azn": "B07KQS9NCJ",
+      "image_url": "https://imgs.search.brave.com/aAC8tEoLkoXGQs8EFVU7xycp1AbWBMlm4nS6oPgEVwU/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9nb29k/YnV5Z2Vhci5jb20v/Y2RuL3Nob3AvcHJv/ZHVjdHMvNjA5M2M2/MTktZWRkZi00MGIx/LWJjYmMtMWUwMjIy/Y2Q2NDE2XzYxM3g3/MDAuanBnP3Y9MTY4/NzUyNjM4Nw",
+      "resolver": "brave",
+      "valid": true
+    }
+  ],
+  "resolvedLinks": {
+    "https://www.babygearlab.com/reviews/nursing-feeding/high-chair/abiie-beyond-wooden-high-chair": {
+      "title": "Abiie Beyond Wooden High Chair Review",
+      "description": "The Abiie Beyond Wooden High Chair is a cool chair that can grow with your child from babyhood through to adulthood (up to 250lbs). This chair is one of...",
+      "image": "https://d1awg155xx98w6.cloudfront.net/photos/40/52/526753_11674_XXL.jpg",
+      "url": "https://www.babygearlab.com/reviews/nursing-feeding/high-chair/abiie-beyond-wooden-high-chair"
+    },
+    "https://www.abiie.com/products/beyond-junior-high-chair": {
+      "title": "Beyond Junior® Y High Chair",
+      "description": "Our high chairs at Abiie® are eco-friendly and adjustable. They’re also designed to grow with your child. Learn more about this wooden high chair here!",
+      "image": "http://www.abiie.com/cdn/shop/files/BJRFrontSide_Olive_NormalNoFeet.jpg?v=1730904112",
+      "url": "https://www.abiie.com/products/beyond-junior-high-chair"
+    },
+    "https://www.thebump.com/a/most-stylish-high-chairs": {
+      "title": "8 Best High Chairs, Tested by Families",
+      "description": "Searching for a high chair that’s equal parts practical and stylish? Here, shop our picks for the best high chairs for babies and toddlers, tested by parents and their kids.",
+      "image": "https://images.ctfassets.net/6m9bd13t776q/1QlKHYgIGlX5kGQKksKjf6/84b40598cbcceffd920e20021e79d446/BOTB-high-chairs-2025-hero-shutterstock_2604576519.png?q=75&w=660",
+      "url": "https://www.thebump.com/a/most-stylish-high-chairs"
+    },
+    "https://www.thebabyverse.org/stokke-tripp-trapp-chair-review-the-iconic-chair-for-life-we-put-to-the-test/": {
+      "title": "Stokke Tripp Trapp Chair Review: The Iconic 'Chair for Life' We Put to the Test - The BabyVerse",
+      "description": "In our home, there’s a corner of the attic that I lovingly refer to as the \"Baby Gear Graveyard.\" It’s where well-intentioned, expensive, and ultimately",
+      "image": "",
+      "url": "https://www.thebabyverse.org/stokke-tripp-trapp-chair-review-the-iconic-chair-for-life-we-put-to-the-test/"
+    }
+  }
+}

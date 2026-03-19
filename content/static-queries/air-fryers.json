@@ -1,0 +1,125 @@
+{
+  "slug": "air-fryers",
+  "query": "best air fryers",
+  "title": "Best air fryers | Bin Diving",
+  "description": "AI-dug recommendations for best air fryers. Compare options and find one that fits.",
+  "dugAt": "2026-03-18T21:35:43.876Z",
+  "recommendations": [
+    {
+      "product_name": "Ninja Foodi DZ550 10‑Qt DualZone Air Fryer (Dual Baskets)",
+      "pros": [
+        "Large dual baskets for cooking two foods",
+        "Smart Cook thermometer & Match Cook/Smart Finish",
+        "Strong expert ratings for crisping"
+      ],
+      "cons": [
+        "Larger footprint",
+        "Can be noisy during high‑speed cooking"
+      ],
+      "price": null,
+      "amazon_id": "B0B15Q3HCQ",
+      "sources": [
+        "https://www.tomsguide.com/best-picks/best-air-fryers",
+        "https://www.bestbuy.com/product/ninja-foodi-6-in-1-10-qt-xl-2-basket-air-fryer-with-dualzone-technology-smart-cook-system-black/JXJVXG4RS7",
+        "https://www.engadget.com/ninjas-updated-dualzone-air-fryer-is-50-off-right-now-144531253.html"
+      ],
+      "amazon_url": "https://www.amazon.com/Ninja-DZ550-Independent-Thermometer-Dehydrate/dp/B0B15Q3HCQ",
+      "gpt_azn": "B0B15Q3HCQ",
+      "image_url": "https://imgs.search.brave.com/neXEUkIZabN_49r_KxT4n3nEkRTXGVQoDzHP23vRNc0/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9pbWFn/ZXMtbmEuc3NsLWlt/YWdlcy1hbWF6b24u/Y29tL2ltYWdlcy9J/LzcxcnFadVVVRHJM/LmpwZw",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "Philips Premium Airfryer XXL (Premium/5000 series)",
+      "pros": [
+        "Very even cooking and high capacity",
+        "Philips fat‑removal/rapid air technology",
+        "Strong reliability and long‑running positive reviews"
+      ],
+      "cons": [
+        "Large/expensive compared with basic models",
+        "Takes more counter space"
+      ],
+      "price": null,
+      "amazon_id": "B079L2ZQGB",
+      "sources": [
+        "https://www.t3.com/features/best-air-fryer",
+        "https://www.usa.philips.com/c-p/HD9650_96/avance-collection-airfryer-xxl",
+        "https://www.truepicked.com/kitchen/best-air-fryer/"
+      ],
+      "amazon_url": "https://www.amazon.com/Philips-HD9630-98-Turbostar-Airfryer/dp/B079L2ZQGB",
+      "gpt_azn": "B0767DNSMH",
+      "image_url": "https://imgs.search.brave.com/za6Db_2bZZGI2y4bBfqIc_zVuxN5Vo3bfpv75Q0fx6U/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9pbWFn/ZXMudmVyc3VzLmlv/L29iamVjdHMvcGhp/bGlwcy1wcmVtaXVt/LWFpcmZyeWVyLXh4/bC02LXBvcnRpb25z/LWhkOTY1MC05OS5m/cm9udC5tYXN0ZXIu/MTY2NzY5NTY2NDUx/MS5qcGc",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "COSORI TurboBlaze 6‑Qt (9‑in‑1 TurboBlaze)",
+      "pros": [
+        "Good value for performance",
+        "Multiple cooking presets and smart options",
+        "Compact 6‑qt size fits most households"
+      ],
+      "cons": [
+        "Some users report coating/finish questions",
+        "Not as large as dual‑basket units"
+      ],
+      "price": null,
+      "amazon_id": "B0C33CHG99",
+      "sources": [
+        "https://cosori.com/products/turboblaze-air-fryer",
+        "https://www.truepicked.com/kitchen/best-air-fryer/",
+        "https://www.technobezz.com/best/cosori-turboblaze-air-fryer-drops-to-9999-on-amazon"
+      ],
+      "amazon_url": "https://www.amazon.com/TurboBlaze-Premium-Ceramic-Coating-90%C2%B0-450%C2%B0F/dp/B0C33CHG99",
+      "gpt_azn": "B0CKP6Y6KB",
+      "image_url": "https://imgs.search.brave.com/e-7EylfvgwvLJe16Un1wJ6eFq-y9a_ezaFghVWPTqfo/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9pLmVi/YXlpbWcuY29tL2lt/YWdlcy9nL2d1c0FB/ZVN3M0Jab2pSRTEv/cy1sMjI1LmpwZw",
+      "resolver": "brave",
+      "valid": true
+    }
+  ],
+  "resolvedLinks": {
+    "https://www.tomsguide.com/best-picks/best-air-fryers": {
+      "title": "I spent over 500 hours testing the best air fryers — these 3 are the winners",
+      "description": "Choosing the best air fryer doesn't need to be overwhelming: I cut our list down to just 3",
+      "image": "https://cdn.mos.cms.futurecdn.net/Q9Qaz3WX7yqj9YMnw3FZog-2560-80.jpg",
+      "url": "https://www.tomsguide.com/best-picks/best-air-fryers"
+    },
+    "https://www.engadget.com/ninjas-updated-dualzone-air-fryer-is-50-off-right-now-144531253.html": {
+      "title": "Ninja's updated DualZone air fryer is $50 off right now",
+      "description": "A dual-zone Ninja air fryer with an integrated food thermometer has dropped by $50 to $200.",
+      "image": "https://s.yimg.com/ny/api/res/1.2/5Zcezn600NLvgmNMjN5HGw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03Nzk-/https://s.yimg.com/os/creatr-uploaded-images/2023-05/9455b9f0-e82a-11ed-ade7-7ffa02562df9",
+      "url": "https://www.engadget.com/ninjas-updated-dualzone-air-fryer-is-50-off-right-now-144531253.html"
+    },
+    "https://www.t3.com/features/best-air-fryer": {
+      "title": "Best air fryer 2026: mini ovens for full flavour, faster cooking and lower costs",
+      "description": "Find the best air fryers tried and tested, for quick, healthier and time-saving meals, from Ninja, Tefal, Tower, Philips and more",
+      "image": "https://cdn.mos.cms.futurecdn.net/KMdtjzbCspr32ZhPP3gmDA-2560-80.jpg",
+      "url": "https://www.t3.com/features/best-air-fryer"
+    },
+    "https://www.usa.philips.com/c-p/HD9650_96/avance-collection-airfryer-xxl": {
+      "title": "Buy the Philips Premium Airfryer XXL HD9650/96 Airfryer XXL",
+      "description": "Air is the new oil and now with the Philips XXL Airfryer you can make delicious fried food with up to 90% less fat!* When it comes to frying food at home, we all love the crispy flavor – but not the extra fat! Not only can this new model fry food with less oil but it can also remove and capture excess fat thanks to its new and unique Twin TurboStar technology. The result is delicious and healthier fried food that’s crispy on the outside and tender on the inside.  *Compared to fresh fries prepared in a conventional deep fryer",
+      "image": "https://images.philips.com/is/image/philipsconsumer/0fde0079f6bc43859db2ad2500f3c4fc?wid=700&hei=375&$pnglarge$",
+      "url": "https://www.usa.philips.com/c-p/HD9650_96/premium"
+    },
+    "https://www.truepicked.com/kitchen/best-air-fryer/": {
+      "title": "The Best Air Fryers of 2026 (Expert Tested)",
+      "description": "",
+      "image": "",
+      "url": "https://www.truepicked.com/kitchen/best-air-fryer/"
+    },
+    "https://cosori.com/products/turboblaze-air-fryer": {
+      "title": "TurboBlaze™ 6.0-Quart Air Fryer - Dark Gray",
+      "description": "Cook faster with the TurboBlaze™ 6.0-Qt Air Fryer. Featuring DC motor technology, 9 cooking functions, and a compact footprint. Quiet and efficient.",
+      "image": "http://cosori.com/cdn/shop/files/CGTM_2303_CAF-DC601-KUS_WA1_01_Front_v2_1_43fa6802-67e3-4603-9ad1-54c54f2e5a8a.png?v=1762457880",
+      "url": "https://cosori.com/products/turboblaze-air-fryer"
+    },
+    "https://www.technobezz.com/best/cosori-turboblaze-air-fryer-drops-to-9999-on-amazon": {
+      "title": "Cosori TurboBlaze Air Fryer drops to $99.99 on Amazon",
+      "description": "Save $12.81 on the versatile Cosori TurboBlaze Air Fryer, now at a low price of $99.99 with smart features and nine cooking functions.",
+      "image": "https://cdn.technobezz.com/deals-branded/71a9f8ce07f83ecf_branded.jpg",
+      "url": "https://www.technobezz.com/best/cosori-turboblaze-air-fryer-drops-to-9999-on-amazon"
+    }
+  }
+}

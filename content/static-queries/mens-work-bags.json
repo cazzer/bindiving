@@ -1,0 +1,102 @@
+{
+  "slug": "mens-work-bags",
+  "query": "best men’s work bags",
+  "title": "Best men’s work bags | Bin Diving",
+  "description": "AI-dug recommendations for best men’s work bags. Compare options and find one that fits.",
+  "dugAt": "2026-03-18T23:02:53.339Z",
+  "recommendations": [
+    {
+      "product_name": "Filson 24-Hour Tin Cloth Briefcase",
+      "pros": [
+        "Durable, water‑resistant tin cloth",
+        "Classic briefcase look that develops patina"
+      ],
+      "cons": [
+        "Heavier than modern nylon bags",
+        "Can be difficult to find/restocked sometimes"
+      ],
+      "price": null,
+      "amazon_id": "B01D2TYSWG",
+      "sources": [
+        "https://www.fashionbeans.com/article/best-work-bags-for-men/",
+        "https://www.filson.com/products/24-hour-tin-cloth-briefcase-dark-tan-2",
+        "https://www.forbes.com/sites/forbes-personal-shopper/article/best-briefcases-for-men/"
+      ],
+      "amazon_url": "https://www.amazon.com/Filson-Mens-Hour-Briefcase-Dark/dp/B01D2TYSWG",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/Z-xjXLBKTmN1mPZ5CcLowITkAQaQBlrI_qt1lERkAC8/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly93d3cu/Zmlsc29uLmNvbS9j/ZG4vc2hvcC9maWxl/cy80NTExMDg0MTdl/OTdiODk3MWZhZjVj/NjJkNjllYTMwYjEx/N2ZjNWI0NmZjMTcy/MjU5NDgzZWRkNWIz/YjU2MDUxLnBuZz92/PTE3NjM3NTE2OTkm/d2lkdGg9MTQ0NQ",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "Peak Design Everyday Messenger (v2)",
+      "pros": [
+        "Excellent organization and weatherproofing",
+        "Versatile size for laptop + daily kit"
+      ],
+      "cons": [
+        "Relatively expensive",
+        "MagLatch/closure system can take getting used to"
+      ],
+      "price": null,
+      "amazon_id": "B0CRL8NQ5V",
+      "sources": [
+        "https://www.outdoorgearlab.com/reviews/travel/messenger-bag/peak-design-everyday-messenger",
+        "https://www.laptopmag.com/articles/peak-design-everyday-messenger-review"
+      ],
+      "amazon_url": "https://www.amazon.com/Peak-Design-Everyday-Tote-15L/dp/B0CRL8NQ5V",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/31LE2kjM0EGuOQzYRFZ8WfcXT4MHSr16b3ZHJ3KFxsk/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly93d3cu/cGljdHVyZWxpbmUu/Y29tL2Nkbi9zaG9w/L3Byb2R1Y3RzL3Bl/YWstZGVzaWduLWV2/ZXJ5ZGF5LW1lc3Nl/bmdlci0xM0wuanBn/P3Y9MTU3NDM2NTcx/NiZ3aWR0aD0xMjAw",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "Bellroy Duo / Duo Work Bag (convertible tote/backpack)",
+      "pros": [
+        "Slim, modern design with expandable capacity",
+        "Well thought internal organization for work tech"
+      ],
+      "cons": [
+        "Less heavy‑duty than waxed canvas or ballistic nylon",
+        "Some users find backpack mode less comfortable for long commutes"
+      ],
+      "price": null,
+      "amazon_id": "B076PXH1MF",
+      "sources": [
+        "https://www.carryology.com/product/bellroy-duo-work-bag/",
+        "https://abetterkit.com/best-work-bags-for-men/"
+      ],
+      "amazon_url": "https://www.amazon.com/Bellroy-Totepack-liters-expanded-MossGrey/dp/B076PXH1MF",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/q7l-Ha8tcNrD7RfDobJFoOqZk7SfoH51JOww6UBIwXY/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9tLm1l/ZGlhLWFtYXpvbi5j/b20vaW1hZ2VzL0kv/NDFROGYyeHFUQUwu/anBn",
+      "resolver": "brave",
+      "valid": true
+    }
+  ],
+  "resolvedLinks": {
+    "https://www.filson.com/products/24-hour-tin-cloth-briefcase-dark-tan-2": {
+      "title": "24 Hour Tin Cloth Briefcase | Filson",
+      "description": "Buy Filson's 24 Hour Tin Cloth Briefcase. Secures to rolling luggage handles. Made with 14-oz. 100% cotton Tin Cloth + 6-oz. dry finish Cover Cloth + Bridle Leather + nylon webbing.",
+      "image": "http://www.filson.com/cdn/shop/files/4c210ea15c488458ccce868e6da561f481521827d2e54993c5c84bc9b428485c.jpg?v=1770941580",
+      "url": "https://www.filson.com/products/24-hour-tin-cloth-briefcase-dark-tan-2"
+    },
+    "https://www.outdoorgearlab.com/reviews/travel/messenger-bag/peak-design-everyday-messenger": {
+      "title": "Peak Design Everyday Messenger Review",
+      "description": "The well-conceived and newly revamped Peak Designs Everyday Messenger boasts innumerable features to accommodate camera equipment, electronics, or your...",
+      "image": "https://d1i8d6ce8wwubf.cloudfront.net/photos/24/76/369145_25226_XXL.jpg",
+      "url": "https://www.outdoorgearlab.com/reviews/travel/messenger-bag/peak-design-everyday-messenger"
+    },
+    "https://www.carryology.com/product/bellroy-duo-work-bag/": {
+      "title": "Bellroy Duo Work Bag",
+      "description": "Looking for a sleek work bag that can go beyond the office? The stylishly functional Bellroy Duo Work Bag looks good in both work and play environments. Plus with a variety of interior and exterior pockets you can keep work, EDC or travel essentials tidy and easily accessible. Want the flexibility to adapt to changing […]",
+      "image": "https://www.carryology.com/wp-content/uploads/2017/10/Bellroy-Duo-Work-Bag-6-e1508090727902.jpg",
+      "url": "https://www.carryology.com/product/bellroy-duo-work-bag/"
+    },
+    "https://abetterkit.com/best-work-bags-for-men/": {
+      "title": "Best Work Bags for Men in 2025 - A Better Kit",
+      "description": "Here are some of the best work bags for men suited to keep all your gear safe. Check our list of the best work bags from Filson, Fossil, Bellroy, and more.",
+      "image": "https://www.abetterkit.com/wp-content/uploads/2019/11/best-work-bags-for-men.jpg",
+      "url": "https://www.abetterkit.com/best-work-bags-for-men/"
+    }
+  }
+}

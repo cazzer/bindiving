@@ -1,0 +1,101 @@
+{
+  "slug": "baby-care-essentials",
+  "query": "best baby care essentials",
+  "title": "Best baby care essentials | Bin Diving",
+  "description": "AI-dug recommendations for best baby care essentials. Compare options and find one that fits.",
+  "dugAt": "2026-03-18T22:17:42.432Z",
+  "recommendations": [
+    {
+      "product_name": "Nanit Pro Smart Baby Monitor",
+      "pros": [
+        "High-quality 1080p video",
+        "Sleep tracking & insights"
+      ],
+      "cons": [
+        "Requires Wi‑Fi and app",
+        "Subscription for full features"
+      ],
+      "price": null,
+      "amazon_id": "B0FTSL4FXJ",
+      "sources": [
+        "https://www.reviewed.com/parenting/best-right-now/best-video-baby-monitors",
+        "https://www.madeformums.com/reviews/nanit-pro-camera-and-sound-light-machine-review/"
+      ],
+      "amazon_url": "https://www.amazon.com/Nanit-Smart-Baby-Monitor-Notifications/dp/B0FTSL4FXJ",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/3aVtjjRrPceXoqFgJ6lVrgdwt2KAmcHZI2ly0LOQjmk/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly90YXJn/ZXQuc2NlbmU3LmNv/bS9pcy9pbWFnZS9U/YXJnZXQvR1VFU1Rf/MDU0NTAyZjgtMDZj/ZS00YzIxLTk2MjEt/ODZhNzZkODFkYmY0/P3dpZD04MDAmaGVp/PTgwMCZxbHQ9ODAm/Zm10PXBqcGVn",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "Pampers Swaddlers Disposable Diapers",
+      "pros": [
+        "Soft and comfortable for newborns",
+        "Trusted by many parents and hospitals"
+      ],
+      "cons": [
+        "Some recent user reports of fit/absorption changes",
+        "Not the cheapest option"
+      ],
+      "price": null,
+      "amazon_id": "B07SVHLGV8",
+      "sources": [
+        "https://www.goodhousekeeping.com/childrens-products/diaper-reviews/g19502261/best-diapers/",
+        "https://www.pampers.com/en-us/pampers-swaddlers-diapers/reviews"
+      ],
+      "amazon_url": "https://www.amazon.com/Pampers-Swaddlers-Absorbent-Comfortable-Disposable/dp/B07SVHLGV8",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/2iqdjF96dL0BdYtGD2E50PA2k01FRlmazTm1kZbQlTY/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9tLm1l/ZGlhLWFtYXpvbi5j/b20vaW1hZ2VzL0kv/NzEzMkZZSUlzc0wu/anBn",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "FridaBaby NoseFrida Nasal Aspirator",
+      "pros": [
+        "Effective manual suction design",
+        "Affordable and easy to clean"
+      ],
+      "cons": [
+        "Requires manual effort",
+        "May be uncomfortable for some babies"
+      ],
+      "price": null,
+      "amazon_id": "B00171WXII",
+      "sources": [
+        "https://www.healthline.com/health/best-baby-nasal-aspirator",
+        "https://www.productreviewcrew.com/review/best-baby-nasal-aspirators-2026-compared"
+      ],
+      "amazon_url": "https://www.amazon.com/Nasal-Aspirator-NoseFrida-Snotsucker-Fridababy/dp/B00171WXII",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/JQjnnvDNH23ERuWlJ62DYxpKT1NoUyXPrtveHHb_RAY/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly93d3cu/bWFjcm9iYWJ5LmNv/bS9jZG4vc2hvcC9m/aWxlcy9ub3NlZnJp/ZGEtc25vdHN1Y2tl/ci1uYXNhbC1hc3Bp/cmF0b3JfaW1hZ2Vf/MV80MDB4LmpwZz92/PTE3NTcwMDIzOTg",
+      "resolver": "brave",
+      "valid": true
+    }
+  ],
+  "resolvedLinks": {
+    "https://www.reviewed.com/parenting/best-right-now/best-video-baby-monitors": {
+      "title": "The Best Baby Monitors of 2026",
+      "description": "The best video baby monitors for parents of all kinds",
+      "image": "https://reviewed-com-res.cloudinary.com/image/fetch/s--ZTFiO03Q--/b_white,c_limit,cs_srgb,f_auto,fl_progressive.strip_profile,g_center,q_auto,w_1200/https://reviewed-production.s3.amazonaws.com/1605665006000/BabyMonitorsHERO.jpg",
+      "url": "https://www.reviewed.com/parenting/best-right-now/best-video-baby-monitors"
+    },
+    "https://www.madeformums.com/reviews/nanit-pro-camera-and-sound-light-machine-review/": {
+      "title": "Nanit Pro Camera and Sound + Light Machine review",
+      "description": "Here's what reviewer Sarah thought of the Nanit Pro Camera + Sound and Light Machine after putting it to the test with her 9-month-old baby during naps and overnight sleeping",
+      "image": "https://images.immediate.co.uk/production/volatile/sites/28/2025/09/Nanit-Pro-Camera-and-Sound-Light-Machine-review-86d979b.jpg?resize=1200%2C630",
+      "url": "https://www.madeformums.com/reviews/nanit-pro-camera-and-sound-light-machine-review/"
+    },
+    "https://www.goodhousekeeping.com/childrens-products/diaper-reviews/g19502261/best-diapers/": {
+      "title": "We Tested 50 Disposable Diapers. These 5 Stood Out from the Rest.",
+      "description": "They're soft, absorbent and built to prevent leaks and blowouts.",
+      "image": "https://hips.hearstapps.com/hmg-prod/images/discover-template-68aca1de0e01a.png?crop=1.00xw:0.957xh;0,0.0122xh&resize=1200:*",
+      "url": "https://www.goodhousekeeping.com/childrens-products/g19502261/best-diapers/"
+    },
+    "https://www.healthline.com/health/best-baby-nasal-aspirator": {
+      "title": "The Best Baby Nasal Aspirators",
+      "description": "It's never fun when your kiddo is having a hard time breathing. Check out our list of the best baby nasal aspirators so you can both breathe (and sleep) a little easier.",
+      "image": "https://media.post.rvohealth.io/wp-content/uploads/2020/09/689584-The-8-Best-Baby-Nasal-Aspirators-of-2020…-Because-Snot-Sucks-1200x628-Facebook-1200x628.jpg",
+      "url": "https://www.healthline.com/health/best-baby-nasal-aspirator"
+    }
+  }
+}

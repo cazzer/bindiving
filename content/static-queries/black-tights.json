@@ -1,0 +1,110 @@
+{
+  "slug": "black-tights",
+  "query": "best black tights",
+  "title": "Best black tights | Bin Diving",
+  "description": "AI-dug recommendations for best black tights. Compare options and find one that fits.",
+  "dugAt": "2026-03-18T23:05:13.658Z",
+  "recommendations": [
+    {
+      "product_name": "HUE Women's Opaque Tights (Black)",
+      "pros": [
+        "Affordable",
+        "Wide size range",
+        "Amazon bestseller quality"
+      ],
+      "cons": [
+        "Can be thin in some sizes",
+        "Fit varies by style"
+      ],
+      "price": "$15–$25",
+      "amazon_id": "B075DQ86FL",
+      "sources": [
+        "https://www.upcitemdb.com/upc/8672301517",
+        "https://hue.com/collections/tights"
+      ],
+      "amazon_url": "https://www.amazon.com/HUE-Super-Opaque-Tights-Control/dp/B075DQ86FL",
+      "gpt_azn": "B0002THW64",
+      "image_url": "https://imgs.search.brave.com/4p7SSLoNKsB7SeBf2H9BCzFl6XJZNVE9heebYeE5-8M/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9tLm1l/ZGlhLWFtYXpvbi5j/b20vaW1hZ2VzL0kv/NTE3TEVzQkthWkwu/anBn",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "Wolford Neon 40 Tights (Black)",
+      "pros": [
+        "Luxury feel and durability",
+        "Semi-sheer polished finish",
+        "Strong editor recommendations"
+      ],
+      "cons": [
+        "Higher price",
+        "Requires careful handling/washing"
+      ],
+      "price": "$50–$60",
+      "amazon_id": "B09WJ9NPDH",
+      "sources": [
+        "https://www.shopbop.com/neon-tights-wolford/vp/v%3D1/1539540721.htm",
+        "https://www.glamour.com/story/best-tights-for-women"
+      ],
+      "amazon_url": "https://www.amazon.com/Wolford-Neon-40-Tights-2-Small-Black/dp/B09WJ9NPDH",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/TjiCQhQBTRQ96BSSoSPCwKw8vrUZ8zjTivpWl6Zcgjc/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly93d3cu/bGVnbGljaW91cy5j/by51ay9pbWFnZXMv/cHJvZHVjdHMvem9v/bS8xNjY5NTU1MDQ0/LTM1Mjk3NTAwLmpw/Zw",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "Sheertex Classic (Unbreakable) Tights",
+      "pros": [
+        "Extremely durable knit",
+        "Good for frequent wear",
+        "Positive editor/tester coverage"
+      ],
+      "cons": [
+        "Higher cost than basic brands",
+        "Can feel firmer than nylon blends"
+      ],
+      "price": "$40–$60",
+      "amazon_id": "B0C1HSL8WL",
+      "sources": [
+        "https://hosiery.news/",
+        "https://www.glamour.com/story/best-tights-for-women"
+      ],
+      "amazon_url": "https://www.amazon.com/Sheertex-Stubbornly-Rip-Resistant-Tights-Resilient/dp/B0C1HSL8WL",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/5fZ9yAqzaJeHzOg59y0tiafM2BWIcw1JFXpv10MJoQ0/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9ib3R0/b21zYm91dGlxdWUu/Y29tL2Nkbi9zaG9w/L3Byb2R1Y3RzL0Ns/YXNzaWNTZW1pLU9w/YXF1ZVRpZ2h0c0Jh/Y2tfZ3JhbmRlLmpw/Zz92PTE2MzkwODY0/MDU",
+      "resolver": "brave",
+      "valid": true
+    }
+  ],
+  "resolvedLinks": {
+    "https://www.upcitemdb.com/upc/8672301517": {
+      "title": "UPC 008672301517 - HUE Women�s Opaque Sheer to Waist Tights  Black  1 | upcitemdb.com",
+      "description": "",
+      "image": "",
+      "url": "https://www.upcitemdb.com/upc/8672301517"
+    },
+    "https://hue.com/collections/tights": {
+      "title": "Best Tights for Women | Black & Fashion Tights – HUE",
+      "description": "Explore HUE’s collection of tights for women—classic black tights, fashion styles, and more. Shop and discover the best tights for every outfit!",
+      "image": "",
+      "url": "https://hue.com/collections/tights"
+    },
+    "https://www.shopbop.com/neon-tights-wolford/vp/v%3D1/1539540721.htm": {
+      "title": "Wolford Neon 40 Tights | Shopbop",
+      "description": "",
+      "image": "",
+      "url": "https://www.shopbop.com/neon-tights-wolford/vp/v%3D1/1539540721.htm"
+    },
+    "https://www.glamour.com/story/best-tights-for-women": {
+      "title": "Your Grandma Was Right—Stockings Are the Ultimate Winter Staple",
+      "description": "Just don’t copy her styling.",
+      "image": "https://media.glamour.com/photos/690ccea6c99adb3933fdecf1/16:9/w_1280,c_limit/1720347135",
+      "url": "https://www.glamour.com/story/best-tights-women"
+    },
+    "https://hosiery.news/": {
+      "title": "Woman's Hosiery  News",
+      "description": "Fashion, Style, and Business of Legwear, Pantyhose, Tights, & Stockings",
+      "image": "https://s0.wp.com/_si/?t=eyJpbWciOiJodHRwczpcL1wvaTAud3AuY29tXC9ob3NpZXJ5Lm5ld3NcL3dwLWNvbnRlbnRcL3VwbG9hZHNcLzIwMjRcLzA4XC9jcm9wcGVkLWNyb3BwZWQtRmF2aWNvbS5qcGc_Zml0PTQyMyUyQzQyMyZzc2w9MSIsInR4dCI6IldvbWFuJiMwMzk7cyBIb3NpZXJ5ICBOZXdzIiwidGVtcGxhdGUiOiJlZGdlIiwiZm9udCI6IiIsImJsb2dfaWQiOjIzMTk1NzQ4Mn0.5Dr_hV9WMo9yXJztOfxavG7mxEhCxCMRqOyGzYV-rK8MQ",
+      "url": "https://hosiery.news/"
+    }
+  }
+}

@@ -1,0 +1,116 @@
+{
+  "slug": "wireless-mice",
+  "query": "best wireless mice",
+  "title": "Best wireless mice | Bin Diving",
+  "description": "AI-dug recommendations for best wireless mice. Compare options and find one that fits.",
+  "dugAt": "2026-03-18T19:35:19.824Z",
+  "recommendations": [
+    {
+      "product_name": "Logitech MX Master 4",
+      "pros": [
+        "Advanced haptic feedback",
+        "Ergonomic for long use",
+        "Customizable Action Ring"
+      ],
+      "cons": [
+        "Higher price than predecessors",
+        "Large size not for small hands"
+      ],
+      "price": null,
+      "amazon_id": "B0FC5SJNQX",
+      "sources": [
+        "https://www.tomshardware.com/peripherals/gaming-mice/logitech-launches-mx-master-4-flagship-productivity-mouse-the-best-mouse-weve-tested-adds-haptic-feedback-circular-action-ring-shortcuts",
+        "https://www.logitech.com/en-us/products/mice/mx-master-4-business.910-007616.html"
+      ],
+      "amazon_url": "https://www.amazon.com/Logitech-Ergonomic-Performance-Ultra-Fast-Scrolling/dp/B0FC5SJNQX",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/-Cy9ImfhGBoDAov9vOWtDcPDP8orcAYTVtytFTZV90o/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9pbWFn/ZXMuc3F1YXJlc3Bh/Y2UtY2RuLmNvbS9j/b250ZW50L3YxLzUz/MmRkMmYxZTRiMDVm/Y2JiYWNjZGEwMi84/MzJhZjcxNi0yZmY1/LTQzNWItYjUzYi1k/ODQ0ZTlmYjJhZWIv/TG9naXRlY2grTVgr/TWFzdGVyKzQrUmV2/aWV3LTE3LmpwZw",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "Logitech G PRO X Superlight 2",
+      "pros": [
+        "Extremely lightweight and responsive",
+        "High-end sensor with low latency",
+        "Strong battery life for a lightweight mouse"
+      ],
+      "cons": [
+        "Premium price",
+        "Minimal extra buttons for MMO users"
+      ],
+      "price": null,
+      "amazon_id": "B09NBWQDKX",
+      "sources": [
+        "https://www.techradar.com/computing/mice/logitech-g-pro-x2-superstrike-review",
+        "https://www.pcgamesn.com/logitech/g-pro-x-superlight-2-amazon-deal"
+      ],
+      "amazon_url": "https://www.amazon.com/Logitech-Superlight-Wireless-Pro-Grade-Programmable/dp/B09NBWQDKX",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/vWor4W9DBwue-800uiWKiNSHaumNxci6fBA5SYWLplY/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9wcm9z/ZXR0aW5ncy5uZXQv/d3AtY29udGVudC91/cGxvYWRzL2xvZ2l0/ZWNoLWctcHJvLXgt/c3VwZXJsaWdodC0y/LXJldmlldy1yaWdo/dC1zaWRlLmpwZw",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "Razer DeathAdder V3 Pro",
+      "pros": [
+        "Comfortable ergonomic shape",
+        "Very light for a gaming mouse",
+        "High-accuracy sensor and long battery life"
+      ],
+      "cons": [
+        "Right-handed design only",
+        "RGB and extras increase cost"
+      ],
+      "price": null,
+      "amazon_id": "B0B6Y52YXB",
+      "sources": [
+        "https://www.windowscentral.com/gaming/pc-gaming/razer-deathadder-v3-pro-prime-day-deal-2025",
+        "https://www.pcgamer.com/hardware/gaming-mice/to-celebrate-the-announcement-of-the-razer-deathadder-v4-pro-the-old-best-gaming-mouse-is-now-down-to-its-lowest-ever-price-for-prime-day/"
+      ],
+      "amazon_url": "https://www.amazon.com/Razer-DeathAdder-Wireless-Gaming-Mouse/dp/B0B6Y52YXB",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/fHLgRSR3xbbhXX83EHEyY1NP9yTbGJa-0l3NvgiR3Qs/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9jZG4u/bW9zLmNtcy5mdXR1/cmVjZG4ubmV0L1do/djhvYmdoZlJGQlJR/N2M3YTJBblcuanBn",
+      "resolver": "brave",
+      "valid": true
+    }
+  ],
+  "resolvedLinks": {
+    "https://www.tomshardware.com/peripherals/gaming-mice/logitech-launches-mx-master-4-flagship-productivity-mouse-the-best-mouse-weve-tested-adds-haptic-feedback-circular-action-ring-shortcuts": {
+      "title": "Logitech launches MX Master 4 flagship productivity mouse – the best mouse we've tested adds haptic feedback, circular Action Ring shortcuts",
+      "description": "A rumble pack for productivity?",
+      "image": "https://cdn.mos.cms.futurecdn.net/NbTnDpm2dsAW3GyqKue64V-2560-80.jpg",
+      "url": "https://www.tomshardware.com/peripherals/gaming-mice/logitech-launches-mx-master-4-flagship-productivity-mouse-the-best-mouse-weve-tested-adds-haptic-feedback-circular-action-ring-shortcuts"
+    },
+    "https://www.logitech.com/en-us/products/mice/mx-master-4-business.910-007616.html": {
+      "title": "MX Master 4 for Business Wireless Mouse | Logitech",
+      "description": "Boost productivity: Logitech MX Master 4 for Business. Precision wireless mouse with 8K DPI, quiet clicks, and secure Logi Bolt for enhanced control.",
+      "image": "https://resource.logitech.com/w_1200,h_630,c_limit,q_auto,f_auto,dpr_1.0/d_transparent.gif/content/dam/logitech/en/products/mice/mx-master-4-business/gallery-images/b2b-mx-master-4-for-business-mouse-og-image.jpg?v=1",
+      "url": "https://www.logitech.com/en-us/products/mice/mx-master-4-business.html"
+    },
+    "https://www.techradar.com/computing/mice/logitech-g-pro-x2-superstrike-review": {
+      "title": "I admire Logitech’s attempt to revolutionize the gaming mouse — but I’m not quite sold on its haptics just yet",
+      "description": "Haptics for the win?",
+      "image": "https://cdn.mos.cms.futurecdn.net/Zoy9JVqYDwiRmxcd3agXVB-1920-80.jpg",
+      "url": "https://www.techradar.com/computing/mice/logitech-g-pro-x2-superstrike-review"
+    },
+    "https://www.pcgamesn.com/logitech/g-pro-x-superlight-2-amazon-deal": {
+      "title": "Save $40 on this superb and light Logitech wireless gaming mouse, while you can",
+      "description": "This Logitech G Pro X Superlight 2 is a fantastic wireless gaming mouse with a 44K DPI sensor, and it's on sale for just $139.99 right now.",
+      "image": "https://www.pcgamesn.com/wp-content/sites/pcgamesn/2025/08/logitech-g-pro-x-superlight-2-mouse-deal.jpg",
+      "url": "https://www.pcgamesn.com/logitech/g-pro-x-superlight-2-amazon-deal"
+    },
+    "https://www.windowscentral.com/gaming/pc-gaming/razer-deathadder-v3-pro-prime-day-deal-2025": {
+      "title": "There's a massive 42% Amazon Prime Day discount on the Razer DeathAdder V3 Pro — One of the best gaming mice we gave a near-perfect score to",
+      "description": "If you are on the hunt for one of the best PC gaming mice at a discounted price, then look no further than this sweet 42% discount deal that will save you dozens of dollars on Amazon.",
+      "image": "https://cdn.mos.cms.futurecdn.net/u3XfXHKMUctW59PfHws774-1920-80.jpg",
+      "url": "https://www.windowscentral.com/gaming/pc-gaming/razer-deathadder-v3-pro-prime-day-deal-2025"
+    },
+    "https://www.pcgamer.com/hardware/gaming-mice/to-celebrate-the-announcement-of-the-razer-deathadder-v4-pro-the-old-best-gaming-mouse-is-now-down-to-its-lowest-ever-price-for-prime-day/": {
+      "title": "To celebrate the announcement of the Razer DeathAdder V4 Pro, the old best gaming mouse is now down to its lowest ever price for Prime Day",
+      "description": "The king is cheap, hail to the king.",
+      "image": "https://cdn.mos.cms.futurecdn.net/zb5F4g76GBuG672PraWg7V-1890-80.jpg",
+      "url": "https://www.pcgamer.com/hardware/gaming-mice/to-celebrate-the-announcement-of-the-razer-deathadder-v4-pro-the-old-best-gaming-mouse-is-now-down-to-its-lowest-ever-price-for-prime-day/"
+    }
+  }
+}

@@ -1,0 +1,119 @@
+{
+  "slug": "bassinets-cosleepers",
+  "query": "best bassinets & co‑sleepers",
+  "title": "Best bassinets & co‑sleepers | Bin Diving",
+  "description": "AI-dug recommendations for best bassinets & co‑sleepers. Compare options and find one that fits.",
+  "dugAt": "2026-03-18T22:10:46.431Z",
+  "recommendations": [
+    {
+      "product_name": "HALO BassiNest Swivel Sleeper 3.0",
+      "pros": [
+        "360° swivel bedside access",
+        "Adjustable height and breathable mesh",
+        "Built-in soothing sounds/vibrations"
+      ],
+      "cons": [
+        "Relatively heavy/bulky",
+        "Higher-priced than basic bassinets"
+      ],
+      "price": "$349.99 (typical retail)",
+      "amazon_id": "B09WF3CNGS",
+      "sources": [
+        "https://www.forbes.com/sites/forbes-personal-shopper/article/best-bassinet/",
+        "https://www.babygearlab.com/topics/nursery-furniture/best-bassinet",
+        "https://halosleep.com/products/bassinest-swivel-sleeper-3-0-4792"
+      ],
+      "amazon_url": "https://www.amazon.com/HALO-Bassinet-BassiNest-Co-Sleeper-Adjustable/dp/B09WF3CNGS",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/Hj2hc7zN6qJ-9fYF2Ihl21uME_3QzVa7pkzpRxV-GIo/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly93d3cu/aGFsb3NsZWVwLmNv/bS9jZG4vc2hvcC9m/aWxlcy9IQUxPLUJh/c3NpbmVzdC1DZXJ0/aWZpY2F0aW9uczQu/anBnP3Y9MTc1NzYw/MDE1MyZ3aWR0aD0z/MjA",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "SNOO Smart Sleeper",
+      "pros": [
+        "Clinically studied smart soothing to extend sleep",
+        "Secure integrated swaddle for safe back sleeping",
+        "High-quality build and pediatrician-backed design"
+      ],
+      "cons": [
+        "Very expensive",
+        "Some features/apps have changed to subscription models"
+      ],
+      "price": "$1,695 (manufacturer list)",
+      "amazon_id": "B0716KN18Z",
+      "sources": [
+        "https://www.happiestbaby.com/",
+        "https://www.forbes.com/sites/forbes-personal-shopper/article/best-bassinet/",
+        "https://www.babylist.com/hello-baby/best-bassinets"
+      ],
+      "amazon_url": "https://www.amazon.com/SNOO-Smart-Sleeper-Happiest-Baby/dp/B0716KN18Z",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/Qk6ruNZ_nDbjB--ELdnSqHjO8p6gQt1oe4pIPgrw7uE/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9pbWFn/ZXMuaW1tZWRpYXRl/LmNvLnVrL3Byb2R1/Y3Rpb24vdm9sYXRp/bGUvc2l0ZXMvMjgv/MjAyMS8wOC9zbm9v/LXNtYXJ0LXNsZWVw/ZXItcmV2aWV3LTM1/MjQxNmUuanBnP3F1/YWxpdHk9OTAmcmVz/aXplPTk4MCw2NTQ",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "Arm's Reach Clear‑Vue Co‑Sleeper Bassinet",
+      "pros": [
+        "Designed for bedside co‑sleeping with clear mesh side",
+        "Affordable and lightweight",
+        "Trusted long-running brand with good user reviews"
+      ],
+      "cons": [
+        "Less feature-rich (no smart soothing)",
+        "May not fit every bed style without adapter"
+      ],
+      "price": "$225 (typical retail)",
+      "amazon_id": "B01LXCQD8L",
+      "sources": [
+        "https://www.armsreach.com/products/clear-vue-co-sleeper",
+        "https://www.babylist.com/hello-baby/best-bassinets",
+        "https://best.serp.co/shop/baby-bassinets/"
+      ],
+      "amazon_url": "https://www.amazon.com/Arms-Reach-Concepts-Clear-Vue-Co-Sleeper/dp/B01LXCQD8L",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/AQkdGVKjsiudYvIEWqF643I62sxlq2nWRJLFg-AKGzA/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9pNS53/YWxtYXJ0aW1hZ2Vz/LmNvbS9hc3IvZDAw/ZGQxZjctYTRjZi00/NGQzLTlmZWYtZjMz/NTI0ZDI1MWM2Ljgw/YTdiNzEwYWVlMjEw/YjdlMDlmMGYxZjY3/MTM0NDM2LmpwZWc_/b2RuSGVpZ2h0PTYx/MiZvZG5XaWR0aD02/MTImb2RuQmc9RkZG/RkZG",
+      "resolver": "brave",
+      "valid": true
+    }
+  ],
+  "resolvedLinks": {
+    "https://www.babygearlab.com/topics/nursery-furniture/best-bassinet": {
+      "title": "The Best Bassinets",
+      "description": "We tested the top 11 bassinets from BabyBjorn, HALO, Arm's Reach, Baby Delight, and others to find the best nest for your little one",
+      "image": "https://d1awg155xx98w6.cloudfront.net/photos/39/65/518044_6269_XXL.jpg",
+      "url": "https://www.babygearlab.com/topics/nursery-furniture/best-bassinet"
+    },
+    "https://halosleep.com/products/bassinest-swivel-sleeper-3-0-4792": {
+      "title": "BassiNest Swivel Sleeper 3.0",
+      "description": "Shop for white BassiNest Swivel Sleeper 3.0 from HALO! Our baby must-haves feature playful prints made to endure every mess and milestone in style.",
+      "image": "http://www.halosleep.com/cdn/shop/files/HALO-Bassinest-Certifications6.jpg?v=1758904732&width=1024",
+      "url": "https://www.halosleep.com/products/bassinest-swivel-sleeper-3-0-4792"
+    },
+    "https://www.happiestbaby.com/": {
+      "title": "Happiest Baby | SNOO Smart Sleeper & Baby Sleep Solutions",
+      "description": "Happiest Baby SNOO, the safest and smartest baby bed and 5-second swaddle, 5 S&#39;s and baby sleep advice, and toddler tips brought to you by Dr. Harvey Karp.",
+      "image": "",
+      "url": "https://www.happiestbaby.com/"
+    },
+    "https://www.babylist.com/hello-baby/best-bassinets": {
+      "title": "",
+      "description": "",
+      "image": "",
+      "url": "https://www.babylist.com/hello-baby/best-bassinets"
+    },
+    "https://www.armsreach.com/products/clear-vue-co-sleeper": {
+      "title": "Clear-Vue® CO-SLEEPER® Bassinet",
+      "description": "Designed for maximum visibility, the Clear-Vue® Co-Sleeper® bassinet allows you to see your baby at all times. Like all of our Arm’s Reach Co-Sleeper® bedside bassinets, it lets you and your baby sleep comfortably next to each other from day one in a bedside bassinet setup. Reach over to draw your baby close for feedin",
+      "image": "http://www.armsreach.com/cdn/shop/files/2-Clear-VueCO-SLEEPERBassinet.png?v=1766035959",
+      "url": "https://www.armsreach.com/products/clear-vue-co-sleeper"
+    },
+    "https://best.serp.co/shop/baby-bassinets/": {
+      "title": "SERP",
+      "description": "",
+      "image": "",
+      "url": "https://best.serp.co/shop/baby-bassinets/"
+    }
+  }
+}

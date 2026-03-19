@@ -1,0 +1,110 @@
+{
+  "slug": "makeup-removers",
+  "query": "best makeup removers",
+  "title": "Best makeup removers | Bin Diving",
+  "description": "AI-dug recommendations for best makeup removers. Compare options and find one that fits.",
+  "dugAt": "2026-03-18T18:13:52.327Z",
+  "recommendations": [
+    {
+      "product_name": "Bioderma Sensibio H2O Micellar Water",
+      "pros": [
+        "Gentle on sensitive skin",
+        "Effectively removes makeup without rinsing"
+      ],
+      "cons": [
+        "May require multiple passes for heavy waterproof makeup",
+        "Some buyers note price variability"
+      ],
+      "price": null,
+      "amazon_id": "B002XZLAWM",
+      "sources": [
+        "https://www.forbes.com/sites/forbes-personal-shopper/article/best-makeup-removers/",
+        "https://www.homewisereview.com/bioderma-sensibio-h2o-micellar-water-review-why-makeup-artists-swear-by-it/",
+        "https://www.amazon.it/Bioderma-Sensibio-Acqua-Micellare-Sensibili/dp/B002XZLAWM"
+      ],
+      "amazon_url": "https://www.amazon.com/Bioderma---Sensibio-H2O---Micellar-Water---Cleansing-and-Make-Up-Removing---Refreshing-feeling---for-Sensitive-Skin-16.9-Fl-Oz/dp/B002XZLAWM",
+      "gpt_azn": "B002XZLAWM",
+      "image_url": "https://imgs.search.brave.com/AOcBHgIiG2FTKPHC75RehnaHQalAr5x-jugyJvJCrWM/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9tLm1l/ZGlhLWFtYXpvbi5j/b20vaW1hZ2VzL0kv/MzFDdFVZU0l4TUwu/anBn",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "Banila Co Clean It Zero Cleansing Balm (Original)",
+      "pros": [
+        "Melts into oil to remove long-wear makeup",
+        "Widely recommended as an effective cleansing balm"
+      ],
+      "cons": [
+        "Contains mineral oil (mayn't suit all preferences)",
+        "Jar packaging can be less hygienic"
+      ],
+      "price": null,
+      "amazon_id": "B0CW7LGBB6",
+      "sources": [
+        "https://banilausa.com/collections/clean-it-zero/products/clean-it-zero-cleansing-balm-original",
+        "https://www.productreviewcrew.com/review/best-makeup-removers-2025-compared",
+        "https://www.target.com/p/-/A-94724486"
+      ],
+      "amazon_url": "https://www.amazon.com/BANILA-CO-Clean-Original-Cleansing/dp/B0CW7LGBB6",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/KpgpuDIlHjtBzinfFOAdCgBkFZuClRImzT1Df_E1fpI/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9tLm1l/ZGlhLWFtYXpvbi5j/b20vaW1hZ2VzL0kv/MzFjTFd3ZVczT0wu/anBn",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "Clinique Take The Day Off Cleansing Balm",
+      "pros": [
+        "Dissolves heavy makeup and sunscreen",
+        "Suitable for most skin types"
+      ],
+      "cons": [
+        "Can be pricier than drugstore options",
+        "Some users report changes in availability/variants"
+      ],
+      "price": null,
+      "amazon_id": "B07D5C86RX",
+      "sources": [
+        "https://www.clinique.com/product/20011/6424/skincare/makeup-removers/take-the-day-off-cleansing-balm",
+        "https://comparemaniac.com/clinique-take-the-day-off-cleansing-balm/",
+        "https://www.sephora.com/product/take-the-day-off-cleansing-balm-P126301"
+      ],
+      "amazon_url": "https://www.amazon.com/Clinique-Take-Cleansing-Balm-Ounce/dp/B07D5C86RX",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/ai3IrexUNzhJWZhNWcVJi9-CMGYR5snG6i27xD-k3dI/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly93d3cu/bWFrZXVwYW5kYmVh/dXR5YmxvZy5jb20v/d3AtY29udGVudC91/cGxvYWRzLzIwMDkv/MTIvY2xpbmlxdWUt/dGFrZS10aGUtZGF5/LW9mZi1jbGVhbnNp/bmctYmFsbS1yZXZp/ZXcuanBn",
+      "resolver": "brave",
+      "valid": true
+    }
+  ],
+  "resolvedLinks": {
+    "https://www.amazon.it/Bioderma-Sensibio-Acqua-Micellare-Sensibili/dp/B002XZLAWM": {
+      "title": "BIODERMA Sensibio H2O - Acqua Micellare Detergente e Struccante - Rimuove Trucco, Polline e Residui di Inquinamento - Pelle Sensibile - Flacone da 500 ml : Amazon.it: Bellezza",
+      "description": "",
+      "image": "",
+      "url": "https://www.amazon.it/Bioderma-Sensibio-Acqua-Micellare-Sensibili/dp/B002XZLAWM"
+    },
+    "https://banilausa.com/collections/clean-it-zero/products/clean-it-zero-cleansing-balm-original": {
+      "title": "Clean It Zero Cleansing Balm Original | Makeup Removing Cleanser Balm",
+      "description": "Effortlessly remove makeup with the Clean It Zero Cleansing Balm. Perfect for all skin types!",
+      "image": "http://banilausa.com/cdn/shop/files/new_original_background.jpg?v=1729273578",
+      "url": "https://banilausa.com/products/clean-it-zero-cleansing-balm-original"
+    },
+    "https://www.target.com/p/-/A-94724486": {
+      "title": "Banila Co Clean It Zero Original Cleansing Balm",
+      "description": "Read reviews and buy Banila Co Clean It Zero Original Cleansing Balm at Target. Choose from contactless Same Day Delivery, Drive Up and more.",
+      "image": "https://target.scene7.com/is/image/Target/GUEST_5e0ef6cc-c4df-4c6f-8381-0cbb82a8b4ed",
+      "url": "https://www.target.com/p/banila-co-clean-it-zero-original-cleansing-balm/-/A-94724486"
+    },
+    "https://www.clinique.com/product/20011/6424/skincare/makeup-removers/take-the-day-off-cleansing-balm": {
+      "title": "Take The Day Off™ Makeup Remover Cleansing Balm | Clinique",
+      "description": "Clinique's iconic makeup remover in a silky balm formula. Gently dissolves makeup and SPF, conditions lashes. Safe for sensitive skin and sensitive eyes. Dermatologist tested. Ophthalmologist tested. Allergy tested. 100% fragrance free. Please note that the 30ml - Travel Size is excluded from discounts.",
+      "image": "https://m.clinique.com/media/export/cms/products/600x750/cl_sku_KAJ701_600x750_0.png",
+      "url": "https://www.clinique.com/product/20011/6424/skincare/makeup-removers/take-the-day-off-cleansing-balm"
+    },
+    "https://comparemaniac.com/clinique-take-the-day-off-cleansing-balm/": {
+      "title": "Clinique Take The Day Off Cleansing Balm Review: Is It Worth It?",
+      "description": "Is the Clinique Take The Day Off Cleansing Balm worth it? Read my in-depth 3000-word review on how this cult-classic balm melts makeup, its pros for sensitive skin, cons like price and packaging, and how it compares to Elemis and The Inkey List.",
+      "image": "https://comparemaniac.com/wp-content/uploads/2025/11/Screenshot_1-51.jpg",
+      "url": "https://comparemaniac.com/clinique-take-the-day-off-cleansing-balm/"
+    }
+  }
+}

@@ -1,0 +1,123 @@
+{
+  "slug": "outdoor-security-cameras",
+  "query": "best outdoor security cameras",
+  "title": "Best outdoor security cameras | Bin Diving",
+  "description": "AI-dug recommendations for best outdoor security cameras. Compare options and find one that fits.",
+  "dugAt": "2026-03-18T16:21:36.739Z",
+  "recommendations": [
+    {
+      "product_name": "Google Nest Cam (battery)",
+      "pros": [
+        "Reliable person/vehicle detection",
+        "Good battery life and app integration",
+        "Flexible wired or battery install"
+      ],
+      "cons": [
+        "Some features require Google subscription",
+        "Higher cost than budget cams"
+      ],
+      "price": null,
+      "amazon_id": "B09FCMSJZG",
+      "sources": [
+        "https://www.tomsguide.com/best-picks/best-outdoor-security-cameras",
+        "https://en.wikipedia.org/wiki/Google_Nest"
+      ],
+      "amazon_url": "https://www.amazon.com/Nest-Cam-Outdoor-Indoor-Battery/dp/B09FCMSJZG",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/3wsnNWeOwaIBoH1k12rPbU-fHXrhWgRPYQLZwssY9Rk/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9jZG4u/bW9zLmNtcy5mdXR1/cmVjZG4ubmV0Lzlh/NEh3Ym51OGVrUzRK/RG5MVjhKZlYuanBn",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "Arlo Pro 5S (2K) Spotlight Camera",
+      "pros": [
+        "2K HDR video and spotlight",
+        "Strong app and smart detection",
+        "Frequently discounted on Amazon"
+      ],
+      "cons": [
+        "Subscription required for some cloud features",
+        "Occasional reports of missed events"
+      ],
+      "price": null,
+      "amazon_id": "B0DHF3F1YQ",
+      "sources": [
+        "https://www.consumerreports.org/home-garden/home-security-cameras/best-outdoor-security-cameras-of-the-year-a2913488128/",
+        "https://www.arlo.com/en-us/cameras/pro/arlo-pro-5.html",
+        "https://www.wired.com/story/arlo-deal-september-2025/"
+      ],
+      "amazon_url": "https://www.amazon.com/Arlo-Pro-Spotlight-Camera-Integrated/dp/B0DHF3F1YQ",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/iDauZhr2nbEuxtJkC6U91IuYjISUq_RWBpT-w65Ym48/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9tLm1l/ZGlhLWFtYXpvbi5j/b20vaW1hZ2VzL0kv/NDFnYVBISTcyUEwu/anBn",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "eufy SoloCam S340 (SoloCam 3K dual-lens)",
+      "pros": [
+        "Dual-lens/360° coverage with solar option",
+        "No‑monthly‑fee local storage options",
+        "Good image quality for the price"
+      ],
+      "cons": [
+        "Some users report app/firmware issues",
+        "Mixed battery/solar reliability reports"
+      ],
+      "price": null,
+      "amazon_id": "B0CCYP6KFM",
+      "sources": [
+        "https://www.consumerreports.org/home-garden/home-security-cameras/best-outdoor-security-cameras-of-the-year-a2913488128/",
+        "https://www.dxomark.com/security-cameras-2025-benchmark/",
+        "https://www.dealnews.com/products/eufy/eufy-Security-Solo-Cam-S340/488219.html"
+      ],
+      "amazon_url": "https://www.amazon.com/eufy-Security-Wireless-Surveillance-Compatible/dp/B0CCYP6KFM",
+      "gpt_azn": null,
+      "resolver": "brave",
+      "valid": true
+    }
+  ],
+  "resolvedLinks": {
+    "https://www.tomsguide.com/best-picks/best-outdoor-security-cameras": {
+      "title": "Best outdoor security cameras in 2026",
+      "description": "The best outdoor security cameras for keeping an eye on the outside of your house",
+      "image": "https://cdn.mos.cms.futurecdn.net/KFJZuNJ3FsKQSvuUdFAjXW-2000-80.jpg",
+      "url": "https://www.tomsguide.com/best-picks/best-outdoor-security-cameras"
+    },
+    "https://en.wikipedia.org/wiki/Google_Nest": {
+      "title": "Google Nest - Wikipedia",
+      "description": "",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/GoogleNestRetailStand.jpg/1280px-GoogleNestRetailStand.jpg",
+      "url": "https://en.wikipedia.org/wiki/Google_Nest"
+    },
+    "https://www.consumerreports.org/home-garden/home-security-cameras/best-outdoor-security-cameras-of-the-year-a2913488128/": {
+      "title": "9 Best Outdoor Security Cameras of 2026, Lab-Tested and Reviewed - Consumer Reports",
+      "description": "The best outdoor security cameras keep watch through rain, sleet, and snow, including top models from Arlo, Blink, Eufy, Lorex, TP-Link, and Wyze.",
+      "image": "https://article.images.consumerreports.org/image/upload/t_article_tout/v1758819965/prod/content/dam/CRO-Images-2025/Home/CR-Home-Inlinehero-outdoor-security-cameras-0925",
+      "url": "https://www.consumerreports.org/home-garden/home-security-cameras/best-outdoor-security-cameras-of-the-year-a2913488128/"
+    },
+    "https://www.arlo.com/en-us/cameras/pro/arlo-pro-5.html": {
+      "title": "Arlo Pro 5S 2K Spotlight Camera | 2K HDR Intelligent Security Camera",
+      "description": "Leave your worries at the door with cutting edge clarity and powerful protection with the Arlo Pro 5S 2K Spotlight Camera. Installation is easier than ever with a wire-free setup and smart Wi-Fi with dual-band connection. 2K HDR video, 12x zoom, and a wide 160-degree field of view helps to see the bigger picture.",
+      "image": "http://us.arlo.com/cdn/shop/files/pro5-info-carousel-2.jpg?v=1753811155",
+      "url": "https://www.arlo.com"
+    },
+    "https://www.wired.com/story/arlo-deal-september-2025/": {
+      "title": "Save Big on Our Favorite Outdoor Security Cam",
+      "description": "The Arlo Pro 5S is only $100 right now on Amazon.",
+      "image": "https://media.wired.com/photos/68c308ac0efc3cda6bf7b2f0/191:100/w_1280,c_limit/Save%20Big%20on%20Our%20Favorite%20Outdoor%20Security%20Cam.png",
+      "url": "https://www.wired.com/story/arlo-deal-september-2025/"
+    },
+    "https://www.dxomark.com/security-cameras-2025-benchmark/": {
+      "title": "Security cameras : 2025 benchmark",
+      "description": "Discover DXOMARK's comprehensive evaluation of doorbell and security cameras. Explore strengths, limitations, and image quality insights for informed choices.",
+      "image": "https://www.dxomark.com/wp-content/uploads/medias/post-187711/close-up-of-cctv-installed-in-the-house-2025-02-10-11-51-57-utc-1024x683.jpg",
+      "url": "https://www.dxomark.com/security-cameras-2025-benchmark/"
+    },
+    "https://www.dealnews.com/products/eufy/eufy-Security-Solo-Cam-S340/488219.html": {
+      "title": "Certified Refurb eufy Security SoloCam S340: $105",
+      "description": "It's $95 under list price.",
+      "image": "https://www.datocms-assets.com/64599/1742912129-eufy-security-camera-solar-panel-inhn.jpeg?h=1024&w=736",
+      "url": "https://www.dealnews.com/products/eufy/eufy-Security-Solo-Cam-S340/488219.html"
+    }
+  }
+}

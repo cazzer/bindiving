@@ -1,0 +1,95 @@
+{
+  "slug": "hair-clippers",
+  "query": "best hair clippers",
+  "title": "Best hair clippers | Bin Diving",
+  "description": "AI-dug recommendations for best hair clippers. Compare options and find one that fits.",
+  "dugAt": "2026-03-18T18:17:50.738Z",
+  "recommendations": [
+    {
+      "product_name": "Wahl Professional 5-Star Magic Clip Cordless Clipper",
+      "pros": [
+        "Excellent for fades",
+        "Lightweight, ergonomic body"
+      ],
+      "cons": [
+        "Some counterfeit listings on marketplaces",
+        "May need blade maintenance"
+      ],
+      "price": null,
+      "amazon_id": "B00UK8WFQO",
+      "sources": [
+        "https://www.gq.com/story/the-best-hair-clippers-for-men",
+        "https://www.mensjournal.com/style/best-hair-clippers-for-men/"
+      ],
+      "amazon_url": "https://www.amazon.com/Wahl-Professional-5-Star-Cordless-Magic/dp/B00UK8WFQO",
+      "gpt_azn": "B00UK8WFQO",
+      "image_url": "https://imgs.search.brave.com/cgmVZ-RIUq0LccPd5Uf_5fhp0GQ9OiEURYyQwttUKgM/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9tLm1l/ZGlhLWFtYXpvbi5j/b20vaW1hZ2VzL0kv/MzFSSkt0UDhoaEwu/anBn",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "Andis Master Cordless / Corded Clipper (Master series)",
+      "pros": [
+        "Powerful motor, professional-grade",
+        "Cord/cordless flexibility"
+      ],
+      "cons": [
+        "Higher price point",
+        "Heavier than some consumer models"
+      ],
+      "price": "$165.00",
+      "amazon_id": "B08198J4FC",
+      "sources": [
+        "https://www.forbes.com/sites/forbes-personal-shopper/article/the-best-hair-clippers/",
+        "https://www.aol.com/best-hair-clipper-weve-tested-154800923.html"
+      ],
+      "amazon_url": "https://www.amazon.com/Andis-AS12480-Cordless-Master/dp/B08198J4FC",
+      "gpt_azn": "B08156NWQ2",
+      "image_url": "https://imgs.search.brave.com/TRV3arB6nlc1oZOUL0c5TgsJb7pYtM93QxU0C8ncVfU/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9pbWFn/ZXMtbmEuc3NsLWlt/YWdlcy1hbWF6b24u/Y29tL2ltYWdlcy9J/LzUxZVBpUm1pbmJM/LmpwZw",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "Philips Norelco Multigroom Series (9000/Prestige style multigroom)",
+      "pros": [
+        "Versatile all-in-one grooming kit",
+        "Strong recent discounts on Amazon"
+      ],
+      "cons": [
+        "Not as powerful as pro corded clippers for heavy-duty cutting",
+        "Attachment pieces can wear over time"
+      ],
+      "price": "$73.00",
+      "amazon_id": "B0BRK9TJ7H",
+      "sources": [
+        "https://www.themanual.com/deals/philips-trimmer-sale/",
+        "https://www.gq.com/story/the-best-hair-clippers-for-men"
+      ],
+      "amazon_url": "https://www.amazon.com/Norelco-Philips-Multigroom-Prestige-Trimmer/dp/B0BRK9TJ7H",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/3cK8Jo0afGeL4GQaYlOknptndEDNXs8JKqDqXm3j70k/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9pNS53/YWxtYXJ0aW1hZ2Vz/LmNvbS9zZW8vTmV3/LVBoaWxpcHMtTm9y/ZWxjby1NdWx0aWdy/b29tLVNlcmllcy05/MDAwLTIxLVBpZWNl/LU1lbi1TLUdyb29t/aW5nLUtpdC1CZWFy/ZC1Cb2R5LUZhY2Ut/Tm9zZS1FYXItSGFp/ci1UcmltbWVyLVct/UHJlbWl1bS1TdG9y/YWdlLUNhc2UtTUc5/NTEwLTYwXzQ4ODVk/ZTBkLWVlOWItNDUw/ZS04ZTUxLWExZmVl/MDRlNzBkZC4zNWQ4/ZThhY2Q4ZTM1MzBi/Njg3ZjY5OWFiYzMx/ZjQ5Mi5qcGVnP29k/bkhlaWdodD01NzMm/b2RuV2lkdGg9NTcz/Jm9kbkJnPUZGRkZG/Rg",
+      "resolver": "brave",
+      "valid": true
+    }
+  ],
+  "resolvedLinks": {
+    "https://www.gq.com/story/the-best-hair-clippers-for-men": {
+      "title": "The 15 Best Hair Clippers for DIY Buzz Cuts and Shape-Ups",
+      "description": "Buzz it all off or just clean yourself up.",
+      "image": "https://media.gq.com/photos/6984f72907e2b403e1da029f/16:9/w_1280,c_limit/shaver-lede-art.jpg",
+      "url": "https://www.gq.com/story/the-best-hair-clippers-for-men"
+    },
+    "https://www.aol.com/best-hair-clipper-weve-tested-154800923.html": {
+      "title": "The Best Hair Clipper We've Tested Is 33% Off on Amazon",
+      "description": "We found a rare sale on Andis' 12470, the absolute best hair clipper we've tested",
+      "image": "https://s.yimg.com/ny/api/res/1.2/2fJM8iiu_.Llk60cufpO4w--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/aol_men_s_health_348/28a849567d16d7dfdafa9a5228e2443b",
+      "url": "https://www.aol.com/best-hair-clipper-weve-tested-154800923.html"
+    },
+    "https://www.themanual.com/deals/philips-trimmer-sale/": {
+      "title": "This Philips Norelco Trimmer Does It All — and It’s 27% Off Right Now",
+      "description": "Save 27% on the Philips Norelco Multigroom 9000 Series (MG9520/50), now $73.46 on Amazon. This 23-piece all-in-one grooming kit includes beard, hair, and body attachments with 6-hour battery life and precision control.",
+      "image": "https://www.themanual.com/tachyon/sites/9/2025/10/philips-norelco.jpg?resize=1200%2C630",
+      "url": "https://www.themanual.com/deals/philips-trimmer-sale/"
+    }
+  }
+}

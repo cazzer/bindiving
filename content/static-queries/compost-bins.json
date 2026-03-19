@@ -1,0 +1,116 @@
+{
+  "slug": "compost-bins",
+  "query": "best compost bins",
+  "title": "Best compost bins | Bin Diving",
+  "description": "AI-dug recommendations for best compost bins. Compare options and find one that fits.",
+  "dugAt": "2026-03-18T17:25:28.845Z",
+  "recommendations": [
+    {
+      "product_name": "FCMP Outdoor IM4000 Dual Chamber Tumbling Composter (37‑gal)",
+      "pros": [
+        "Dual‑chamber continuous composting",
+        "Made from post‑consumer recycled plastic",
+        "Relatively affordable/tumbled easily"
+      ],
+      "cons": [
+        "Can be heavy when full",
+        "Panels may crack if over‑tightened"
+      ],
+      "price": "$71.59",
+      "amazon_id": "B009378AG2",
+      "sources": [
+        "https://greenwashingindex.com/best-eco-friendly-compost-tumbler/",
+        "https://www.lawnstarter.com/blog/reviews/best-compost-bins/"
+      ],
+      "amazon_url": "https://www.amazon.com/FCMP-Outdoor-IM4000-Composter-Canadian-Made/dp/B009378AG2",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/A-oikNdG1pwd7VGpiGaVYwRIeZpABVB7eZCy6z_6Plc/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9kaXNj/b3VudHRvZGF5Lm5l/dC93cC1jb250ZW50/L3VwbG9hZHMvMjAy/Mi8wOC8xOC0xNC5q/cGc",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "Envirocycle Composting Tumbler (35‑gal)",
+      "pros": [
+        "Attractive, low‑profile design",
+        "Built‑in compost tea collector",
+        "Durable, low‑maintenance (ships assembled)"
+      ],
+      "cons": [
+        "Higher price than basic tumblers",
+        "Compost‑tea reservoir can attract mosquitoes if not managed"
+      ],
+      "price": "$350–$489.99",
+      "amazon_id": "B0121G9ZJW",
+      "sources": [
+        "https://compostcharm.co.uk/envirocycle-composter-review/",
+        "https://www.earthsfriends.com/best-compost-bin/"
+      ],
+      "amazon_url": "https://www.amazon.com/Envirocycle-Beautiful-Composter-Assembly-Composting/dp/B0121G9ZJW",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/N3ZXnHiPqmkf3h5iMtOLF-cy27nDJ2QlTZ0c8zeu_KI/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9nYXJk/ZW5pbmd3b3cuY29t/L3dwLWNvbnRlbnQv/dXBsb2Fkcy8yMDE5/LzEwLzQxNnllaC11/bjdMLl9TTDI1MF8x/LmpwZw",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "Redmon 65‑Gallon Outdoor Compost Bin (Green Culture / 65 gal)",
+      "pros": [
+        "Large capacity for yard waste",
+        "Easy to fill and empty (sliding doors)",
+        "Very budget‑friendly"
+      ],
+      "cons": [
+        "Needs relatively flat ground",
+        "Can be susceptible to rodents digging underneath"
+      ],
+      "price": "$67.99",
+      "amazon_id": "B003HOR8BK",
+      "sources": [
+        "https://www.reviewed.com/home-outdoors/best-right-now/best-compost-bins",
+        "https://www.walmart.com/browse/patio-garden/compost-bins/5428_4091_6683333_8823804"
+      ],
+      "amazon_url": "https://www.amazon.com/Redmon-Green-Culture-65-Gallon-Compost/dp/B003HOR8BK",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/Sk2ANV4Cva10Y5_ZejZUF4rI5xqL20GcbLN82l4P5oM/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly93d3cu/bGliZXJpYS51YnV5/LmNvbS9wcm9kdWN0/LzMzS1JGSlctcmVk/bW9uLWdyZWVuLWN1/bHR1cmUtNjUtZ2Fs/LWNvbXBvc3Rlci1i/bGFjayM",
+      "resolver": "brave",
+      "valid": true
+    }
+  ],
+  "resolvedLinks": {
+    "https://greenwashingindex.com/best-eco-friendly-compost-tumbler/": {
+      "title": "17 Best Compost Tumblers We Tested (March 2026)",
+      "description": "We tested 17 compost tumblers to find the best eco-friendly models. Compare dual-chamber designs, recycled materials, and composting speeds.",
+      "image": "https://www.greenwashingindex.com/wp-content/uploads/2025/09/Best-Compost-Tumblers.jpeg",
+      "url": "https://www.greenwashingindex.com/best-eco-friendly-compost-tumbler/"
+    },
+    "https://www.lawnstarter.com/blog/reviews/best-compost-bins/": {
+      "title": "5 Best Compost Bins of 2026 [Reviews]",
+      "description": "What are the best compost bins? LawnStarter ranked the top compost bins for outdoor or indoor use by size, easy of use, and cost.",
+      "image": "https://www.lawnstarter.com/blog/wp-content/uploads/2021/07/Best-Compost-Bins.jpg?wsr",
+      "url": "https://www.lawnstarter.com/blog/reviews/best-compost-bins/"
+    },
+    "https://compostcharm.co.uk/envirocycle-composter-review/": {
+      "title": "The Most Beautiful Composter in the World – An Honest Review",
+      "description": "Discover our Envirocycle Composter review: a stylish, easy-to-use compost tumbler for beginners and pros. Learn its features, pros, cons, and more!",
+      "image": "https://compostcharm.co.uk/wp-content/uploads/2025/03/compost.jpg",
+      "url": "https://compostcharm.co.uk/envirocycle-composter-review/"
+    },
+    "https://www.earthsfriends.com/best-compost-bin/": {
+      "title": "Best Compost Bin: A Down And Dirty Comparison - Earth's Friends",
+      "description": "Comparison of the best composting bins for indoors and outdoor use along with pricing, pros & cons. Find the best fit for your home & garden.",
+      "image": "https://www.earthsfriends.com/wp-content/uploads/best-compost-bin-jpg.jpg",
+      "url": "https://www.earthsfriends.com/best-compost-bin/"
+    },
+    "https://www.reviewed.com/home-outdoors/best-right-now/best-compost-bins": {
+      "title": "The Best Compost Bins of 2026",
+      "description": "These are the top compost bins for indoor and outdoor use.",
+      "image": "https://reviewed-com-res.cloudinary.com/image/fetch/s--382zdDHQ--/b_white,c_limit,cs_srgb,f_auto,fl_progressive.strip_profile,g_center,q_auto,w_1200/https://reviewed-production.s3.amazonaws.com/1613579492951/DSC_1279.jpg",
+      "url": "https://www.reviewed.com/home-outdoors/best-right-now/best-compost-bins"
+    },
+    "https://www.walmart.com/browse/patio-garden/compost-bins/5428_4091_6683333_8823804": {
+      "title": "Compost Bins in Composters - Walmart.com",
+      "description": "Shop for Compost Bins in Composters. Buy products such as Gymax 80 Gallon Compost Bin Garden Waste Container Grass Food Trash Barrel Fertilizer at Walmart and save.",
+      "image": "https://i5.walmartimages.com/seo/Gymax-80-Gallon-Compost-Bin-Garden-Waste-Container-Grass-Food-Trash-Barrel-Fertilizer_f79b193d-dc40-4e32-a555-f12f3088a559.f365133266208273b895d2539743e5af.jpeg",
+      "url": "https://www.walmart.com/browse/patio-garden/compost-bins/5428_4091_6683333_8823804"
+    }
+  }
+}

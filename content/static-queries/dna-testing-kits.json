@@ -1,0 +1,95 @@
+{
+  "slug": "dna-testing-kits",
+  "query": "best dna testing kits",
+  "title": "Best dna testing kits | Bin Diving",
+  "description": "AI-dug recommendations for best dna testing kits. Compare options and find one that fits.",
+  "dugAt": "2026-03-18T18:45:34.924Z",
+  "recommendations": [
+    {
+      "product_name": "23andMe Health + Ancestry Service",
+      "pros": [
+        "Comprehensive health reports",
+        "Detailed ancestry breakdown",
+        "Large user base for matching"
+      ],
+      "cons": [
+        "Privacy/data-breach concerns noted",
+        "More expensive than basic kits"
+      ],
+      "price": null,
+      "amazon_id": "B01G7PYQTM",
+      "sources": [
+        "https://www.forbes.com/health/wellness/ancestrydna-vs-23andme/",
+        "https://www.forbes.com/health/body/best-dna-testing-kit/",
+        "https://www.toolgenx.com/health-fitness/the-best-dna-testing-kit"
+      ],
+      "amazon_url": "https://www.amazon.com/23andMe-DNA-Test-Ancestry-Personal/dp/B01G7PYQTM",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/pL_Lo8-fZvJ_47GZ7A4304yKAg7fUP-kxlwbeucxrC8/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9pLmVi/YXlpbWcuY29tL2lt/YWdlcy9nLzZkZ0FB/ZVN3T2NwbjBNRS0v/cy1sNTAwLmpwZw",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "AncestryDNA (AncestryDNA + Traits/Ancestry kit)",
+      "pros": [
+        "Largest genealogy database",
+        "Powerful family-tree integration",
+        "Strong match-finding tools"
+      ],
+      "cons": [
+        "Fewer health reports (ancestry-focused)",
+        "Subscription may be needed for record access"
+      ],
+      "price": null,
+      "amazon_id": "B07J1FZQBC",
+      "sources": [
+        "https://www.forbes.com/health/wellness/ancestrydna-vs-23andme/",
+        "https://www.findageneticgenealogist.com/blog/top-dna-testing-kits-reviewed-which-one-is-right-for-you",
+        "https://www.reviewlandia.com/blog/top-5-dna-testing-kits-for-2025-which-one-is-right-for-you/"
+      ],
+      "amazon_url": "https://www.amazon.com/AncestryDNA-Genetic-Testing-Ethnicity-Traits/dp/B07J1FZQBC",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/f3C6pkl0FXVliD-2JkX4tvGk9mieJswKMwGc2wu7RXw/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9tLm1l/ZGlhLWFtYXpvbi5j/b20vaW1hZ2VzL0kv/MzFxVGpWcWtTRkwu/anBn",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "MyHeritage DNA Test Kit",
+      "pros": [
+        "Good value and European region detail",
+        "Strong tools for international genealogy",
+        "Affordable pricing/options"
+      ],
+      "cons": [
+        "Smaller database than Ancestry",
+        "Fewer health reports than 23andMe"
+      ],
+      "price": null,
+      "amazon_id": "B072SY5JHQ",
+      "sources": [
+        "https://www.toolgenx.com/health-fitness/the-best-dna-testing-kit",
+        "https://www.reviewlandia.com/blog/top-5-dna-testing-kits-for-2025-which-one-is-right-for-you/",
+        "https://www.findageneticgenealogist.com/blog/top-dna-testing-kits-reviewed-which-one-is-right-for-you"
+      ],
+      "amazon_url": "https://www.amazon.com/MyHeritage-DNA-Test-Kit-Ethnicity/dp/B072SY5JHQ",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/GwcwoAeOKGiuHdnlZLWxZszqA7-6XG71oiiXuMCFjT4/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly90aGVz/b2NjZXJtb21ibG9n/LmNvbS93cC1jb250/ZW50L3VwbG9hZHMv/MjAxOC8wNi9NeUhl/cml0YWdlLUROQS1U/ZXN0LUtpdC0xLmpw/Zw",
+      "resolver": "brave",
+      "valid": true
+    }
+  ],
+  "resolvedLinks": {
+    "https://www.toolgenx.com/health-fitness/the-best-dna-testing-kit": {
+      "title": "Best Consumer Genetic Testing Kits 2025: Hereditary Disease Risk & Carrier Status Guide",
+      "description": "Best consumer genetic testing kits hereditary disease risk carrier status 2025: ToolGenX tested 14 DNA kits to recommend the best options for health risk reporting, ancestry, privacy, and family planning. Includes buyer's guide, step-by-step instructions, and FAQs.",
+      "image": "https://www.toolgenx.com/the-best-dna-testing-kit.webp",
+      "url": "https://www.toolgenx.com/the-best-dna-testing-kit"
+    },
+    "https://www.reviewlandia.com/blog/top-5-dna-testing-kits-for-2025-which-one-is-right-for-you/": {
+      "title": "Top 5 DNA Testing Kits for 2025 | Ancestry & Health Insights Compared",
+      "description": "Discover the best DNA testing kits of 2025. Compare AncestryDNA, 23andMe, MyHeritage, and more for ancestry, health insights, and pricing. Start your journey today!",
+      "image": "https://www.reviewlandia.com/images/articles/8546-.jpg",
+      "url": "https://www.reviewlandia.com/blog/top-5-dna-testing-kits-for-2025-which-one-is-right-for-you/"
+    }
+  }
+}

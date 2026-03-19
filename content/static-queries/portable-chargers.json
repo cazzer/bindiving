@@ -1,0 +1,119 @@
+{
+  "slug": "portable-chargers",
+  "query": "best portable chargers",
+  "title": "Best portable chargers | Bin Diving",
+  "description": "AI-dug recommendations for best portable chargers. Compare options and find one that fits.",
+  "dugAt": "2026-03-18T19:15:38.222Z",
+  "recommendations": [
+    {
+      "product_name": "Anker 737 PowerCore 24K (PowerCore 24K, 24,000mAh, 140W)",
+      "pros": [
+        "High 140W output",
+        "Large 24,000mAh capacity",
+        "Smart digital display"
+      ],
+      "cons": [
+        "Relatively heavy",
+        "Some user reports of firmware/compatibility quirks"
+      ],
+      "price": null,
+      "amazon_id": "B09VPHVT2Z",
+      "sources": [
+        "https://www.techradar.com/news/top-portable-chargers",
+        "https://www.androidauthority.com/anker-powercore-24k-power-bank-deal-3432826/",
+        "https://www.notebookcheck.net/Excellent-Anker-737-power-bank-with-140-watt-fast-charging-drops-to-lowest-price-ever-on-Amazon.926343.0.html"
+      ],
+      "amazon_url": "https://www.amazon.com/Anker-PowerCore-Portable-Charger-Compatible/dp/B09VPHVT2Z",
+      "gpt_azn": "B09VPHVT2Z",
+      "image_url": "https://imgs.search.brave.com/5OXQHxtlGItmaOpEGHnpez22ZAsoYLy-pB74j1Nc6s4/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9pLmVi/YXlpbWcuY29tL2lt/YWdlcy9nL1QzOEFB/T1N3NU9KbmtTeXcv/cy1sMjI1LmpwZw",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "UGREEN Nexode 25,000mAh 145W Power Bank (Nexode 145W)",
+      "pros": [
+        "Very fast 140–145W USB-C output",
+        "Large 25,000mAh capacity with detailed display",
+        "Good value for laptop charging"
+      ],
+      "cons": [
+        "Heavier than pocket-sized banks",
+        "Some users report occasional port/firmware issues"
+      ],
+      "price": null,
+      "amazon_id": "B0BJQ7F16T",
+      "sources": [
+        "https://www.androidcentral.com/accessories/ugreen-nexode-25000mah-power-bank-review",
+        "https://www.creativebloq.com/features/best-power-bank",
+        "https://www.bestbuy.com/product/ugreen-nexode-25000mah-145w-power-bank-3-ports-fast-portable-charger-for-laptops-cellphones-airline-approved-black/J3R8ZXZJV9"
+      ],
+      "amazon_url": "https://www.amazon.com/UGREEN-25000mAh-Portable-Charging-Compatible/dp/B0BJQ7F16T",
+      "gpt_azn": "B0BJQ7F16T",
+      "image_url": "https://imgs.search.brave.com/YSskLvoyqZracLYH2CkQ097Q3vbgn0Q5nJi8bxCPWaA/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9ubC51/Z3JlZW4uY29tL2Nk/bi9zaG9wL2ZpbGVz/L3BpeGVsY3V0LWV4/cG9ydF83XzMwMHgz/MDAucG5nP3Y9MTcy/MTM3MTU3NA",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "Zendure SuperTank (Supertank 26,800mAh, 100W)",
+      "pros": [
+        "Reliable 100W USB-C PD for laptops",
+        "Multiple ports for simultaneous charging",
+        "Well-regarded durability and real-world performance"
+      ],
+      "cons": [
+        "Large size for pocket carry",
+        "Some older models had firmware/port edge cases reported"
+      ],
+      "price": null,
+      "amazon_id": "B0BM7D7NXQ",
+      "sources": [
+        "https://www.androidpolice.com/2019/04/14/zendures-supertank-may-be-ugly-but-its-the-best-and-most-powerful-type-c-battery-you-can-buy/",
+        "https://us.amazon.com/Zendure-SuperTank-Polymer-Crush-Proof-Portable/dp/B0BM7CDTWB",
+        "https://gearinhere.com/zendure-supertank-pro-review-power-and-portability-redefined/"
+      ],
+      "amazon_url": "https://www.amazon.com/Zendure-SuperTank-26800mAh-Delivery-Portable/dp/B0BM7D7NXQ",
+      "gpt_azn": "B0BM7CDTWB",
+      "image_url": "https://imgs.search.brave.com/qva_2TtR7nTjMbQgiqoKsTJJ4t_txa_EGrMbFFH0BEY/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly93d3cu/YnV5ZGlnLmNvbS9z/aG9wL3Byb2R1Y3Qt/aW1hZ2UuYXNweD9z/aXplPTUwMCZwaWNJ/ZD0xMTI4NzAx",
+      "resolver": "brave",
+      "valid": true
+    }
+  ],
+  "resolvedLinks": {
+    "https://www.techradar.com/news/top-portable-chargers": {
+      "title": "The best power banks 2025: portable batteries for your iPhone, Galaxy, and more, thoroughly tested by our experts",
+      "description": "Expert battery recommendations to keep your gear charged",
+      "image": "https://cdn.mos.cms.futurecdn.net/QwvDLWZZiDMEmWj73xxASY-2000-80.jpg",
+      "url": "https://www.techradar.com/news/top-portable-chargers"
+    },
+    "https://www.androidauthority.com/anker-powercore-24k-power-bank-deal-3432826/": {
+      "title": "The Anker PowerCore 24K Power Bank returns to $90 low (40% off)",
+      "description": "The Anker PowerCore 24K Power Bank solves your on-the-go charging needs, and it's never been cheaper at $60 off.",
+      "image": "https://www.androidauthority.com/wp-content/uploads/2024/04/Anker-PowerCore-24K-Power-Bank-Promo-Image.jpg",
+      "url": "https://www.androidauthority.com/anker-powercore-24k-power-bank-deal-3432826/"
+    },
+    "https://www.notebookcheck.net/Excellent-Anker-737-power-bank-with-140-watt-fast-charging-drops-to-lowest-price-ever-on-Amazon.926343.0.html": {
+      "title": "Excellent Anker 737 power bank with 140 watt fast-charging drops to lowest price ever on Amazon",
+      "description": "The Anker 737 power bank is an pretty well-reviewed product from an equally well-reputed company. With a capacity of 24,000 mAh, the Anker 737 can charge up essential devices multiple times, and its 140 W maximum output makes sure that it's blisteringly fast while doing so.",
+      "image": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc4/anker_737_power_bank_deal_amazon_us_cyber_monday.PNG",
+      "url": "https://www.notebookcheck.net/Excellent-Anker-737-power-bank-with-140-watt-fast-charging-drops-to-lowest-price-ever-on-Amazon.926343.0.html"
+    },
+    "https://www.androidcentral.com/accessories/ugreen-nexode-25000mah-power-bank-review": {
+      "title": "UGREEN Nexode 25000mAh Power Bank review: This 200W power bank is terrific",
+      "description": "With a total charging potential of 200W and a TFT panel that shows real-time charging info, the Nexode 25000mAh Power Bank is a standout choice.",
+      "image": "https://cdn.mos.cms.futurecdn.net/9m6HLoZ7y44VKwmnwTQAVT-2560-80.jpg",
+      "url": "https://www.androidcentral.com/accessories/ugreen-nexode-25000mah-power-bank-review"
+    },
+    "https://www.creativebloq.com/features/best-power-bank": {
+      "title": "These are the best power banks we've tried and tested",
+      "description": "Having tested power banks with laptops, smartphones, tablets and other devices, this is the ultimate list for creatives.",
+      "image": "https://cdn.mos.cms.futurecdn.net/6KtNdacpDZutkDqcdKktsY-1920-80.jpg",
+      "url": "https://www.creativebloq.com/features/best-power-bank"
+    },
+    "https://www.androidpolice.com/2019/04/14/zendures-supertank-may-be-ugly-but-its-the-best-and-most-powerful-type-c-battery-you-can-buy/": {
+      "title": "Zendure's SuperTank may be ugly, but it's the best and most powerful Type-C battery you can buy",
+      "description": "",
+      "image": "https://static0.anpoimages.com/wordpress/wp-content/uploads/2019/04/KGC23503.jpg?w=1600&h=900&fit=crop",
+      "url": "https://www.androidpolice.com/2019/04/14/zendures-supertank-may-be-ugly-but-its-the-best-and-most-powerful-type-c-battery-you-can-buy/"
+    }
+  }
+}

@@ -1,0 +1,118 @@
+{
+  "slug": "kids-tablets",
+  "query": "best kids tablets",
+  "title": "Best kids tablets | Bin Diving",
+  "description": "AI-dug recommendations for best kids tablets. Compare options and find one that fits.",
+  "dugAt": "2026-03-18T22:30:45.777Z",
+  "recommendations": [
+    {
+      "product_name": "Amazon Fire HD 10 Kids Pro (Fire HD 10 Kids tablet)",
+      "pros": [
+        "Large 10.1\" display",
+        "Robust parental controls & Kids+ ecosystem",
+        "Long battery life"
+      ],
+      "cons": [
+        "Amazon Appstore limits apps vs Google Play/iPadOS",
+        "Not as powerful as mainstream tablets"
+      ],
+      "price": null,
+      "amazon_id": "B0BL6DCNGR",
+      "sources": [
+        "https://www.tomsguide.com/best-picks/best-tablets-for-kids",
+        "https://www.nbcnews.com/select/shopping/best-tablet-for-kids-rcna157552",
+        "https://cybernews.com/best-tablets/for-kids/"
+      ],
+      "amazon_url": "https://www.amazon.com/Amazon_Fire_HD_10_Kids_Pro/dp/B0BL6DCNGR",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/Odz_TF8gnXybvWuGL-5UY8humRdqVWq2xOS4L-q4Nw4/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9tLm1l/ZGlhLWFtYXpvbi5j/b20vaW1hZ2VzL0kv/NzFsMjEtTDNmY0wu/anBn",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "Amazon Fire HD 8 Kids Pro (8\" Kids tablet)",
+      "pros": [
+        "Very budget-friendly",
+        "Durable kid-friendly case included",
+        "Good selection of kid apps and parental controls"
+      ],
+      "cons": [
+        "Lower display/resolution than premium tablets",
+        "Amazon ecosystem can be limiting for some apps"
+      ],
+      "price": null,
+      "amazon_id": "B0D1DMSV9G",
+      "sources": [
+        "https://www.androidpolice.com/amazon-fire-hd-8-kids-pro-at-39-off/",
+        "https://www.tomsguide.com/best-picks/best-tablets-for-kids",
+        "https://www.androidcentral.com/tablets/amazon-fire-tablet/planning-a-family-vacation-our-favorite-tablet-for-kids-is-41-percent-off-at-amazon-today"
+      ],
+      "amazon_url": "https://www.amazon.com/Fire-HD-8-Kids-Pro-Tablet-Hello-Teal-32GB/dp/B0D1DMSV9G",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/p6k9JC5sHJzYjEuYH6UOAJ2tEBTCWBOZn_WbXyJzteI/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9tLm1l/ZGlhLWFtYXpvbi5j/b20vaW1hZ2VzL0kv/NzFhSk01SFgzM0wu/anBn",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "Apple iPad (10th generation)",
+      "pros": [
+        "Powerful performance and wide app selection",
+        "Excellent screen and build quality — good long-term option for older kids/teens"
+      ],
+      "cons": [
+        "Higher cost than kids-specific tablets",
+        "Requires separate rugged case and parental setup"
+      ],
+      "price": null,
+      "amazon_id": "B0BJLXMVMW",
+      "sources": [
+        "https://www.nbcnews.com/select/shopping/best-tablet-for-kids-rcna157552",
+        "https://www.laptopmag.com/articles/take-40-editors-choice-fire-tablets-kids",
+        "https://www.techradar.com/news/best-tablet"
+      ],
+      "amazon_url": "https://www.amazon.com/Apple-2022-10-9-inch-Wi-Fi-256GB/dp/B0BJLXMVMW",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/SuRWlyYYoPPnDSoKUGsh0Pcnr6OjOZje0SAhkItFS4Y/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9pLmVi/YXlpbWcuY29tL2lt/YWdlcy9nL0ljUUFB/ZVN3eUlScHR5M2kv/cy1sNDAwLndlYnA",
+      "resolver": "brave",
+      "valid": true
+    }
+  ],
+  "resolvedLinks": {
+    "https://www.tomsguide.com/best-picks/best-tablets-for-kids": {
+      "title": "Best tablets for kids in 2026: our top child-friendly picks tested and rated",
+      "description": "These are the best tablets for kids, based on my research and testing",
+      "image": "https://cdn.mos.cms.futurecdn.net/7wCvSaD3DjXv7ocx76quT-2000-80.jpg",
+      "url": "https://www.tomsguide.com/best-picks/best-tablets-for-kids"
+    },
+    "https://www.nbcnews.com/select/shopping/best-tablet-for-kids-rcna157552": {
+      "title": "Considering getting your kid a tablet? These affordable options let you limit screen time",
+      "description": "Kid-friendly tablets are great for drawing, playing and studying. Here’s our pick of the best tablets for kids",
+      "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2024-06/240617-kids-tablets-kb-main-ea6c11.jpg",
+      "url": "https://www.nbcnews.com/select/shopping/best-tablet-for-kids-rcna157552"
+    },
+    "https://www.androidpolice.com/amazon-fire-hd-8-kids-pro-at-39-off/": {
+      "title": "Grab the Amazon Fire HD 8 Kids Pro for $55 less, perfect for gearing up for school",
+      "description": "The Amazon Fire HD 8 Kids Pro is built to take a beating from little hands and is now 39% off",
+      "image": "https://static0.anpoimages.com/wordpress/wp-content/uploads/2025/08/amazon-fire-hd-8-kids-pro-deal-hero.jpg?w=1600&h=900&fit=crop",
+      "url": "https://www.androidpolice.com/amazon-fire-hd-8-kids-pro-at-39-off/"
+    },
+    "https://www.androidcentral.com/tablets/amazon-fire-tablet/planning-a-family-vacation-our-favorite-tablet-for-kids-is-41-percent-off-at-amazon-today": {
+      "title": "Planning a family vacation? Our favorite tablet for kids is 41% OFF at Amazon today",
+      "description": "An affordable kids tablet gets even cheaper.",
+      "image": "https://cdn.mos.cms.futurecdn.net/ACQP7m6AJS6JXigttx8DWF-1000-80.jpg",
+      "url": "https://www.androidcentral.com/tablets/amazon-fire-tablet/planning-a-family-vacation-our-favorite-tablet-for-kids-is-41-percent-off-at-amazon-today"
+    },
+    "https://www.laptopmag.com/articles/take-40-editors-choice-fire-tablets-kids": {
+      "title": "Best kids tablets 2026",
+      "description": "The best kids tablets you can get for your little ones",
+      "image": "https://cdn.mos.cms.futurecdn.net/soTTPbZkQwEXYTK597zYLB-755-80.jpg",
+      "url": "https://www.laptopmag.com/articles/best-kids-tablets"
+    },
+    "https://www.techradar.com/news/best-tablet": {
+      "title": "The best tablet 2026: the best iPad and Android tablets from Apple, OnePlus and Samsung",
+      "description": "We've reviewed all the best tablets, with detailed rankings",
+      "image": "https://cdn.mos.cms.futurecdn.net/egLx2GeN7qab9kxKjJQXLY-2000-80.jpg",
+      "url": "https://www.techradar.com/news/best-tablet"
+    }
+  }
+}

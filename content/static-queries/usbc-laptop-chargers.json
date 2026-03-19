@@ -1,0 +1,110 @@
+{
+  "slug": "usbc-laptop-chargers",
+  "query": "best usb‑c laptop chargers",
+  "title": "Best usb‑c laptop chargers | Bin Diving",
+  "description": "AI-dug recommendations for best usb‑c laptop chargers. Compare options and find one that fits.",
+  "dugAt": "2026-03-18T19:21:14.839Z",
+  "recommendations": [
+    {
+      "product_name": "Anker 737 (GaNPrime) 120W 3‑Port USB‑C Charger",
+      "pros": [
+        "High max output for laptops",
+        "Compact foldable design",
+        "Multiple ports for devices"
+      ],
+      "cons": [
+        "Some reported compatibility/thermal issues",
+        "Mixed user reports on sustained full‑power delivery"
+      ],
+      "price": null,
+      "amazon_id": "B09W2N774C",
+      "sources": [
+        "https://www.anker.com/blogs/chargers/the-best-usb-c-chargers",
+        "https://www.androidauthority.com/i-tested-over-30-usb-c-wall-chargers-3496950/"
+      ],
+      "amazon_url": "https://www.amazon.com/Anker-Charger-GaNPrime-Compact-Foldable/dp/B09W2N774C",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/bLjrOSxVW7io9vQXkjzwL4S2T5olV48egzLKdfAh4W8/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9tLm1l/ZGlhLWFtYXpvbi5j/b20vaW1hZ2VzL0kv/NjExSGpyTjVzTUwu/anBn",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "Satechi 165W USB‑C 4‑Port PD GaN Charger",
+      "pros": [
+        "Very high total power with multiple USB‑C PD ports",
+        "Good for desktop/travel multi‑device charging",
+        "Removable plug options on some SKUs"
+      ],
+      "cons": [
+        "May require specific cables for true 140–100W delivery on some ports",
+        "Some users report not always reaching advertised per‑port wattage"
+      ],
+      "price": null,
+      "amazon_id": "B09PMDZWZ6",
+      "sources": [
+        "https://satechi.com/products/165w-usb-c-4-port-pd-gan-charger",
+        "https://www.androidauthority.com/i-tested-over-30-usb-c-wall-chargers-3496950/"
+      ],
+      "amazon_url": "https://www.amazon.com/Satechi-165W-USB-C-4-Port-Charger/dp/B09PMDZWZ6",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/wQ9Qzm4-wTZ7C0q29VizWOmXm-Vr92jaTv2fNMRUQ28/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9zYXRl/Y2hpLmNvbS9jZG4v/c2hvcC9maWxlcy8x/NjV3bW9kZXJuZGVz/aWduXzBhOWIxOTA1/LTU4OWYtNDcwMi05/N2MxLTNjZmY2Mjgx/MTc3MC53ZWJwP3Y9/MTc2ODE4MjIwOSZ3/aWR0aD02NDA",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "UGREEN Nexode / Nexode Pro 100W GaN USB‑C Charger (multi‑port)",
+      "pros": [
+        "Reliable 100W per‑port performance for laptops",
+        "Compact GaN design and good value",
+        "Well‑reviewed multiport options and occasional Amazon deals"
+      ],
+      "cons": [
+        "Total output shared when multiple ports used",
+        "Some reports of minor build/cable issues in forums"
+      ],
+      "price": null,
+      "amazon_id": "B091Z6JNX4",
+      "sources": [
+        "https://us.ugreen.com/products/ugreen-nexode-pro-100w-gan-fast-charger",
+        "https://www.androidcentral.com/accessories/power-charging/forget-anker-this-100w-gan-charger-is-better-and-it-doesnt-cost-as-much"
+      ],
+      "amazon_url": "https://www.amazon.com/UGREEN-100W-USB-Multiport-Charger/dp/B091Z6JNX4",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/XkEQjNvwqifN9UDT8vCMeDfkuGSVU--Y1NHqeC8Alww/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9tLm1l/ZGlhLWFtYXpvbi5j/b20vaW1hZ2VzL0kv/NTE2c3pXbVgyWkwu/anBn",
+      "resolver": "brave",
+      "valid": true
+    }
+  ],
+  "resolvedLinks": {
+    "https://www.anker.com/blogs/chargers/the-best-usb-c-chargers": {
+      "title": "5 Best USB-C Chargers for 2026: Power Everything Faster",
+      "description": "Explore 6 of the best USB-C chargers for 2025 and 2026, learn their key pros & practical tips to choose the perfect fast charger for your devices with confidence.",
+      "image": "https://cdn.shopify.com/s/files/1/0493/9834/9974/articles/anker-best-charger-140w_6283f60c-6da5-45fe-8023-2c1b938a39b0.jpg?v=1767494391",
+      "url": "https://www.anker.com/blogs/chargers/the-best-usb-c-chargers"
+    },
+    "https://www.androidauthority.com/i-tested-over-30-usb-c-wall-chargers-3496950/": {
+      "title": "I tested over 30 USB-C wall chargers and these are the best ones you should buy in 2026",
+      "description": "From the perfect plug for your desk or travels, I've tested over 30 of the best USB-C chargers to help you find the right match.",
+      "image": "https://www.androidauthority.com/wp-content/uploads/2025/03/Loads-of-wall-chargers.jpg",
+      "url": "https://www.androidauthority.com/i-tested-over-30-usb-c-wall-chargers-3496950/"
+    },
+    "https://satechi.com/products/165w-usb-c-4-port-pd-gan-charger": {
+      "title": "165W USB-C 4-Port PD GaN Charger",
+      "description": "Shop the Satechi 165W USB-C 4-Port GaN Charger. Fast PD charging for MacBook, iPhone & iPad simultaneously. Free US shipping $50+.",
+      "image": "http://satechi.com/cdn/shop/products/165w-usb-c-4-port-pd-gan-charger-wall-chargers-satechi-us-414152.jpg?v=1762441064&width=800",
+      "url": "https://satechi.com/products/165w-usb-c-4-port-pd-gan-charger"
+    },
+    "https://us.ugreen.com/products/ugreen-nexode-pro-100w-gan-fast-charger": {
+      "title": "100W 3-Port GaN Fast iphone Charger UGREEN Nexode",
+      "description": "Power up 3 devices at lightning speed. Charge MacBook Pro to 50% in 30mins. Advanced GaN tech in ultra-compact design.",
+      "image": "http://us.ugreen.com/cdn/shop/products/nexode-pro-100w-3-port-gan-fast-charger-526269.png?v=1702910265",
+      "url": "https://us.ugreen.com/products/ugreen-nexode-pro-100w-gan-fast-charger"
+    },
+    "https://www.androidcentral.com/accessories/power-charging/forget-anker-this-100w-gan-charger-is-better-and-it-doesnt-cost-as-much": {
+      "title": "Forget Anker — this 100W GaN charger is better, and it doesn't cost as much",
+      "description": "You need to upgrade to UGREEN's 100W Nexode Pro 3-port charger.",
+      "image": "https://cdn.mos.cms.futurecdn.net/utP56CiL3TAWqFVC5TDiR6-2048-80.jpg",
+      "url": "https://www.androidcentral.com/accessories/power-charging/forget-anker-this-100w-gan-charger-is-better-and-it-doesnt-cost-as-much"
+    }
+  }
+}

@@ -1,0 +1,116 @@
+{
+  "slug": "stereo-amps-receivers",
+  "query": "best stereo amps & receivers",
+  "title": "Best stereo amps & receivers | Bin Diving",
+  "description": "AI-dug recommendations for best stereo amps & receivers. Compare options and find one that fits.",
+  "dugAt": "2026-03-18T21:47:58.798Z",
+  "recommendations": [
+    {
+      "product_name": "Marantz PM6007 Integrated Amplifier",
+      "pros": [
+        "Warm, detailed sound",
+        "Built-in phono stage and digital inputs"
+      ],
+      "cons": [
+        "No Bluetooth or USB streaming",
+        "Moderate power (45W/8Ω)"
+      ],
+      "price": null,
+      "amazon_id": "B08K2VZXT8",
+      "sources": [
+        "https://www.whathifi.com/reviews/marantz-pm6007",
+        "https://www.marantz.com/en-us/product/amplifiers/pm6007/300022.html",
+        "https://www.bestreviews.guide/2-channel-stereo-receivers/marantz-pm6007-integrated-stereo-amplifier-b08k2vzxt8"
+      ],
+      "amazon_url": "https://www.amazon.com/Marantz-PM6007-Integrated-Amplifier-Connectivity/dp/B08K2VZXT8",
+      "gpt_azn": "B08K2VZXT8",
+      "image_url": "https://imgs.search.brave.com/EutLdVqLawxvelq8Web4n6lV2I11ts2j54Br_qkC4HI/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly93d3cu/cGxheXN0ZXJlby5j/b20vMTcxNDQtc3Vw/ZXJsYXJnZV9kZWZh/dWx0L21hcmFudHot/cG02MDA3LWludGVn/cmF0ZWQtYW1wbGlm/aWVyLmpwZw",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "Cambridge Audio CXA61 Integrated Stereo Amplifier",
+      "pros": [
+        "Engaging, well-balanced sound",
+        "Built-in ESS Sabre DAC and Bluetooth aptX"
+      ],
+      "cons": [
+        "Mid-price tier (not budget)",
+        "Some reports of stock/refurb listings on third-party sellers"
+      ],
+      "price": "$599 (common sale price)",
+      "amazon_id": "B083T84BPQ",
+      "sources": [
+        "https://www.whathifi.com/reviews/cambridge-audio-cxa61",
+        "https://hometheaterreview.com/product/cambridge-audio-cxa61-60-watt-integrated-stereo-amplifier-with-aptx-hd-bluetooth-gray/",
+        "https://www.testbericht.de/produkte/cambridge-audio-cxa61"
+      ],
+      "amazon_url": "https://www.amazon.com/Cambridge-Audio-CXA61-Two-Channel-Amplifier/dp/B083T84BPQ",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/N0Dk0JF7TzA8mkdqxb4a9sH3FQvwpTzkygCaxVZ0qJc/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly93d3cu/c2thZGkuY2EvY2Ru/L3Nob3AvZmlsZXMv/Q2FtYnJpZGdlX0F1/ZGlvX0NYQTYxX0Zy/b250XzMtNC53ZWJw/P3Y9MTczNjQ2MjQx/NSZ3aWR0aD0xNDQ1",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "Yamaha A-S701 Integrated Amplifier",
+      "pros": [
+        "Powerful, clean amplification",
+        "Good feature set and build quality"
+      ],
+      "cons": [
+        "Remote and labeling criticisms",
+        "Lacks modern streaming platform integration"
+      ],
+      "price": null,
+      "amazon_id": "B00MXUCMXS",
+      "sources": [
+        "https://www.slashgear.com/1743227/yamaha-amplifier-home-theater-highest-rated/",
+        "https://manuals.plus/m/855b55ef533bee441649002a5769da087447e22869864fc3142b8a00c64de1fc",
+        "https://davidfauquemberg.com/home/fauquemb/david/bbdg_site/userfiles/file/kokeku.pdf"
+      ],
+      "amazon_url": "https://www.amazon.com/Yamaha-S701SL-Natural-Integrated-Amplifier/dp/B00MXUCMXS",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/jISwuSkN4nVJU6RVGvmabLmrxsovQFlhmFyzjfk7WU0/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9pLmVi/YXlpbWcuY29tL2lt/YWdlcy9nL0pVVUFB/T1N3Rjc1bVJNNVgv/cy1sMjI1LmpwZw",
+      "resolver": "brave",
+      "valid": true
+    }
+  ],
+  "resolvedLinks": {
+    "https://www.whathifi.com/reviews/marantz-pm6007": {
+      "title": "Marantz PM6007 review",
+      "description": "What Hi-Fi? Awards 2023 winner. Marantz refines its hugely capable budget amp recipe",
+      "image": "https://cdn.mos.cms.futurecdn.net/UrybnbA2VgymiPinMXzfKb-1920-80.jpg",
+      "url": "https://www.whathifi.com/reviews/marantz-pm6007"
+    },
+    "https://www.marantz.com/en-us/product/amplifiers/pm6007/300022.html": {
+      "title": "PM6007 - Slimline Integrated Stereo Amplifier with 45W | Marantz - US",
+      "description": "",
+      "image": "https://www.marantz.com/on/demandware.static/-/Sites-master-catalog-soundunited/default/dw184841d8/marantz/PDP_Images/PM6007/PM6007-Black/PM6007-Black_Image-Black_studio-front-on.png",
+      "url": "https://www.marantz.com/en-us/product/amplifiers/pm6007/300022.html"
+    },
+    "https://www.bestreviews.guide/2-channel-stereo-receivers/marantz-pm6007-integrated-stereo-amplifier-b08k2vzxt8": {
+      "title": "Marantz pm6007 integrated stereo amplifier Review | BestReviews.guide",
+      "description": "BestReviews.guide analyzes thousands of articles and customer reviews to find the top-rated products at today's lowest prices. Best products, best offers.",
+      "image": "https://images-proxy.bestreviews.guide/I9JGAa_J-gwmKn5eyH_7fye044s=/0x300/https://m.media-amazon.com/images/I/21Hx7CViZ1L._AC_CX679_.jpg",
+      "url": "https://www.bestreviews.guide/2-channel-stereo-receivers/marantz-pm6007-integrated-stereo-amplifier-b08k2vzxt8"
+    },
+    "https://www.whathifi.com/reviews/cambridge-audio-cxa61": {
+      "title": "Cambridge Audio CXA61 review",
+      "description": "What Hi-Fi? Awards 2022 winner. Extra features and improved sound quality for those willing to pay a higher price",
+      "image": "https://cdn.mos.cms.futurecdn.net/sRaPEbRZUr8stftJdoAu7S-1920-80.jpg",
+      "url": "https://www.whathifi.com/reviews/cambridge-audio-cxa61"
+    },
+    "https://www.slashgear.com/1743227/yamaha-amplifier-home-theater-highest-rated/": {
+      "title": "6 Of The Highest-Rated Yamaha Amplifiers For Your Home Theater - SlashGear",
+      "description": "An amplifier is an important aspect of a well curated home theater system, and these Yamaha amplifiers are some of the highest-rated on the market.",
+      "image": "https://www.slashgear.com/img/gallery/6-of-the-highest-rated-yamaha-amplifiers-for-your-home-theater/l-intro-1734639006.jpg",
+      "url": "https://www.slashgear.com/1743227/yamaha-amplifier-home-theater-highest-rated/"
+    },
+    "https://davidfauquemberg.com/home/fauquemb/david/bbdg_site/userfiles/file/kokeku.pdf": {
+      "title": "",
+      "description": "",
+      "image": "",
+      "url": "https://davidfauquemberg.com/home/fauquemb/david/bbdg_site/userfiles/file/kokeku.pdf"
+    }
+  }
+}

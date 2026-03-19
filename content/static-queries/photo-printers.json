@@ -1,0 +1,140 @@
+{
+  "slug": "photo-printers",
+  "query": "best photo printers",
+  "title": "Best photo printers | Bin Diving",
+  "description": "AI-dug recommendations for best photo printers. Compare options and find one that fits.",
+  "dugAt": "2026-03-18T18:49:14.622Z",
+  "recommendations": [
+    {
+      "product_name": "Epson SureColor P700 (SC-P700)",
+      "pros": [
+        "Excellent color accuracy and detail",
+        "Pigment UltraChrome PRO10 inks for longevity",
+        "Supports A3+/13\" borderless prints"
+      ],
+      "cons": [
+        "Slow print speeds for photos",
+        "No built-in scanner",
+        "Higher upfront cost and maintenance"
+      ],
+      "price": "$725",
+      "amazon_id": "B0DGQC1BGH",
+      "sources": [
+        "https://www.rtings.com/printer/reviews/epson/surecolor-p700",
+        "https://www.digitalcameraworld.com/reviews/epson-surecolor-sc-p700-review",
+        "https://mediaserver.goepson.com/ImConvServlet/imconv/0539295be5f57b3ac2de450b84a5c883508594a4/original?assetDescr=SCP700_P900_SRG_v3.1_Apr25.pdf"
+      ],
+      "amazon_url": "https://www.amazon.com/T770-770-Ink-Cartridges-P700/dp/B0DGQC1BGH",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/2MQpDvI7V-eD3A0izZz3_X1I3FgEFw6ZQexcFtN3JWU/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9pbWFn/aW5nc3BlY3RydW0u/Y29tL2Nkbi9zaG9w/L3Byb2R1Y3RzL1N1/cmVDb2xvcl9QNzAw/X1Byb2R1Y3RfMDlf/NjkweDQ2MF8yZWI4/NDM1MS1jMjc0LTQ0/YWItYTdlOS0zYTY0/YjE4YWJmYTAuanBn/P3Y9MTc0OTE0Mzg2/NiZ3aWR0aD0xNDQ1",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "Canon PIXMA PRO-200 (PIXMA Pro 200)",
+      "pros": [
+        "Vibrant, glossy photo output",
+        "Good value for 13\"/A3+ dye-based photo printing",
+        "Widely recommended for prosumer prints"
+      ],
+      "cons": [
+        "Dye inks less archival than pigment for long-term display",
+        "Running costs can be higher with frequent printing",
+        "Print-only (no scanner) on some bundles"
+      ],
+      "price": null,
+      "amazon_id": "B08M8VGBZ5",
+      "sources": [
+        "https://www.digitalcameraworld.com/reviews/canon-pixma-pro-200",
+        "https://tech.yahoo.com/cameras/articles/best-photo-printers-2025-080841385.html",
+        "https://www.amazon.com/Canon-PIXMA-Pro-200-Professional/dp/B092211QLC"
+      ],
+      "amazon_url": "https://www.amazon.com/Canon-PRO-200-Desktop-Inkjet-Printer/dp/B08M8VGBZ5",
+      "gpt_azn": "B092211QLC",
+      "image_url": "https://imgs.search.brave.com/tR7B8mLKJjc8X8G4cYPxA9mrP1azLBwpCAAb2nbt-k0/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9jZG4u/bWVkaWEuYW1wbGll/bmNlLm5ldC9pL2Nh/bm9uL3BpeG1hLXBy/by0yMDAtYXMtc2st/dy1wcmludC1zYW1w/bGUtZW4tZnNsLTAz/X2IzMTgxMTgxMDUx/NTQ5NzA5MzlkNDY5/MTI4ZGYzMTMyPyRw/cm9kLWdhbGxlcnkt/MWJ5MS1qcGck",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "Epson EcoTank Photo ET-8550",
+      "pros": [
+        "Supertank refillable inks — low running costs",
+        "Wide-format A3+/13\" capable with strong color output",
+        "All-in-one features (scanner/copier) and touchscreen"
+      ],
+      "cons": [
+        "Can show print artefacts on lower-quality settings",
+        "Larger footprint than small photo-only printers",
+        "Some users report occasional maintenance issues"
+      ],
+      "price": null,
+      "amazon_id": "B08R5M2HDH",
+      "sources": [
+        "https://www.techradar.com/best/ink-tank-printer",
+        "https://www.rtings.com/printer/reviews/epson/ecotank-photo-et-8550",
+        "https://www.digitalcameraworld.com/reviews/epson-ecotank-et-8550-printer-review"
+      ],
+      "amazon_url": "https://www.amazon.com/Epson-Wireless-Wide-Format-Supertank-Touchscreen/dp/B08R5M2HDH",
+      "gpt_azn": "B08R5M2HDH",
+      "image_url": "https://imgs.search.brave.com/GFvPtQaOlZtPEbbWWUhTT2ZxFMtyuOt4HN99UHzsWFw/rs:fit:0:180:1:0/g:ce/aHR0cHM6Ly9pLnBj/bWFnLmNvbS9pbWFn/ZXJ5L3Jldmlld3Mv/MDczQ2RFR1RuUXU3/bnRPdmxsUFNqU2st/MS5maXRfbHBhZC5z/aXplXzIzOHgxMzku/djE2MjU1OTY0NzMu/cG5n",
+      "resolver": "brave",
+      "valid": true
+    }
+  ],
+  "resolvedLinks": {
+    "https://www.rtings.com/printer/reviews/epson/surecolor-p700": {
+      "title": "Epson SureColor P700 Review",
+      "description": "The Epson SureColor P700 is a 13-inch professional photo printer. This print-only model succeeds the Epson SureColor P600, incorporating a new 10-cartridge syste...",
+      "image": "https://i.rtings.com/assets/products/OIWs1hUR/epson-surecolor-p700/design-medium.jpg?format=auto",
+      "url": "https://www.rtings.com/printer/reviews/epson/surecolor-p700"
+    },
+    "https://www.digitalcameraworld.com/reviews/epson-surecolor-sc-p700-review": {
+      "title": "Epson SureColor SC-P700 review",
+      "description": "The Epson SureColor P700 takes over from the P600 as the premium 13-inch A3+ photo printer for discerning photographers",
+      "image": "https://cdn.mos.cms.futurecdn.net/EpzE5MCBbMkyw5v7CDCZF3-2560-80.jpg",
+      "url": "https://www.digitalcameraworld.com/reviews/epson-surecolor-sc-p700-review"
+    },
+    "https://mediaserver.goepson.com/ImConvServlet/imconv/0539295be5f57b3ac2de450b84a5c883508594a4/original?assetDescr=SCP700_P900_SRG_v3.1_Apr25.pdf": {
+      "title": "",
+      "description": "",
+      "image": "",
+      "url": "https://mediaserver.goepson.com/ImConvServlet/imconv/0539295be5f57b3ac2de450b84a5c883508594a4/original?assetDescr=SCP700_P900_SRG_v3.1_Apr25.pdf"
+    },
+    "https://www.digitalcameraworld.com/reviews/canon-pixma-pro-200": {
+      "title": "Canon PIXMA PRO-200 printer review",
+      "description": "The PIXMA PRO-200 is Canon's latest dye-based A3+/13-inch photo printer raises the bar and works wonders for glossy output",
+      "image": "https://cdn.mos.cms.futurecdn.net/Tdanh6vUkfb5BQ95a9cNxb-2100-80.jpg",
+      "url": "https://www.digitalcameraworld.com/reviews/canon-pixma-pro-200"
+    },
+    "https://tech.yahoo.com/cameras/articles/best-photo-printers-2025-080841385.html": {
+      "title": "The Best Photo Printers for 2026",
+      "description": "Your photos deserve to exist as more than mere bits and bytes. Here's how to pick the right photo printer—whether for humble snapshots or big, bold art prints—and our top lab-tested picks.",
+      "image": "https://s.yimg.com/ny/api/res/1.2/fDNWZecLutyQYbJxSvpxJg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03NDI-/https://media.zenfs.com/en/pc_mag_263/023735d5b73a0143cf64f5e603fe6c72",
+      "url": "https://www.pcmag.com/picks/the-best-photo-printers"
+    },
+    "https://www.amazon.com/Canon-PIXMA-Pro-200-Professional/dp/B092211QLC": {
+      "title": "Amazon.com : Canon PIXMA Pro 200 Professional 13\" Wireless Inkjet Photo Printer - With Canon LU-101 Pro Luster Photo Paper (8.5x11\"), 50 Sheets : Office Products",
+      "description": "",
+      "image": "",
+      "url": "https://www.amazon.com/Canon-PIXMA-Pro-200-Professional/dp/B092211QLC"
+    },
+    "https://www.techradar.com/best/ink-tank-printer": {
+      "title": "Best ink tank printer of 2026: Top-performing refillable printers for every budget",
+      "description": "I tested the best ink tank printers - and these are my top recommendations",
+      "image": "https://cdn.mos.cms.futurecdn.net/yogfHcwmXne6hnh3aYTPWT-2560-80.jpg",
+      "url": "https://www.techradar.com/best/ink-tank-printer"
+    },
+    "https://www.rtings.com/printer/reviews/epson/ecotank-photo-et-8550": {
+      "title": "Epson EcoTank Photo ET-8550 Review",
+      "description": "The Epson EcoTank Photo ET-8550 is an all-in-one photo printer with refillable ink tanks. In addition to the usual cyan, magenta, yellow, and black ink, it uses ...",
+      "image": "https://i.rtings.com/assets/products/ms24nVaD/epson-ecotank-photo-et-8550/design-medium.jpg?format=auto",
+      "url": "https://www.rtings.com/printer/reviews/epson/ecotank-photo-et-8550"
+    },
+    "https://www.digitalcameraworld.com/reviews/epson-ecotank-et-8550-printer-review": {
+      "title": "Epson EcoTank ET-8550 printer review",
+      "description": "The Epson EcoTank ET-8550 is true all-rounder: a large-format, multi-function, cartridge-free printer with quality document and photo output",
+      "image": "https://cdn.mos.cms.futurecdn.net/AQjMGSveenoUxtzToMxntY-1765-80.jpg",
+      "url": "https://www.digitalcameraworld.com/reviews/epson-ecotank-et-8550-printer-review"
+    }
+  }
+}

@@ -1,0 +1,110 @@
+{
+  "slug": "breast-pumps",
+  "query": "best breast pumps",
+  "title": "Best breast pumps | Bin Diving",
+  "description": "AI-dug recommendations for best breast pumps. Compare options and find one that fits.",
+  "dugAt": "2026-03-18T22:06:18.087Z",
+  "recommendations": [
+    {
+      "product_name": "Spectra S1 Plus Electric Breast Pump",
+      "pros": [
+        "Hospital-grade performance",
+        "Adjustable suction/massage modes"
+      ],
+      "cons": [
+        "Bulky compared with wearables",
+        "Requires parts replacement over time"
+      ],
+      "price": null,
+      "amazon_id": "B00DBKFFJM",
+      "sources": [
+        "https://www.thebreastfeedingmama.com/blog/spectra-s1-s2-ibclc-breast-pump-review-is-it-worth-it",
+        "https://breastpumpguide.com/best/breast-pump",
+        "https://www.reviewed.com/parenting/best-right-now/best-breast-pumps"
+      ],
+      "amazon_url": "https://www.amazon.com/Spectra-Baby-USA-Rechargeable-Electric/dp/B00DBKFFJM",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/AYrxh_2NcpjqAhEwZnuWERWw1hN0TbikpwSKzcjlAtA/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9pbWFn/ZXMuc3F1YXJlc3Bh/Y2UtY2RuLmNvbS9j/b250ZW50L3YxLzVm/Y2U4ZjY4OWYwZmUw/NDI4M2MwYzU0ZS8x/NjIxMzc1MzAwOTY3/LVZUUThGSFVEQlhK/WUlXMDhMTUVOL3Nw/ZWN0cmEtczEtcGx1/cy1lbGVjdHJpYy1i/cmVhc3QtcHVtcC03/MDV4NjgxLnBuZw",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "Elvie Pump (wearable)",
+      "pros": [
+        "Truly hands-free and quiet",
+        "Discreet for public/work use"
+      ],
+      "cons": [
+        "Lower output than full-size pumps for some users",
+        "Higher cost and replacement-part availability concerns"
+      ],
+      "price": null,
+      "amazon_id": "B07G375DHR",
+      "sources": [
+        "https://elvie.com/products/elvie-pump",
+        "https://www.forbes.com/sites/forbes-personal-shopper/article/best-wearable-breast-pumps/",
+        "https://www.reviewed.com/parenting/best-right-now/best-breast-pumps"
+      ],
+      "amazon_url": "https://www.amazon.com/Elvie-Pump-Double-Electric-Breast/dp/B07G375DHR",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/d84SzNFUfFvwh6Y_FL_cxv35OKU93vStYtsBOVhFecI/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9kaTJw/b252MHY1b3R3LmNs/b3VkZnJvbnQubmV0/L3Bvc3RzLzIwMjUv/MTIvMTIvNjkzYzI5/ZjJmYmFlOTUyMGQ2/MjFlNTM5L3NfNjkz/YzI5ZjNiMTRhMDZl/N2FjODQ0ODUzLmpw/Zw",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "Willow 3.0 (Willow 360) Wearable Breast Pump",
+      "pros": [
+        "Tube-free wearable design",
+        "Good leak protection for active use"
+      ],
+      "cons": [
+        "High price",
+        "Some users report lower output vs. traditional pumps"
+      ],
+      "price": null,
+      "amazon_id": "B0CY3W6JF9",
+      "sources": [
+        "https://www.wired.com/review/willow-3-breast-pump/",
+        "https://breastpumpshub.com/willow-3-0-vs-willow-go/",
+        "https://www.reviewed.com/parenting/best-right-now/best-breast-pumps"
+      ],
+      "amazon_url": "https://www.amazon.com/Willow-360-Breastfeeding-Leak-Proof-Compatible/dp/B0CY3W6JF9",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/JSLjg4tkCYBDvEQIzSuCAmJKczOjf4Lq_7jstSZim08/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly8xbmF0/dXJhbHdheS5zMy5h/bWF6b25hd3MuY29t/L3Byb2R1Y3RzL3dp/bGxvdy94MzUwL1BE/VzQ5LWFsdDAyLmpw/Zw",
+      "resolver": "brave",
+      "valid": true
+    }
+  ],
+  "resolvedLinks": {
+    "https://www.thebreastfeedingmama.com/blog/spectra-s1-s2-ibclc-breast-pump-review-is-it-worth-it": {
+      "title": "Spectra S1 / S2 – IBCLC Breast Pump Review: Is It Worth It? — The Breastfeeding Mama",
+      "description": "In this review, I’ll walk you through everything you need to know—from how the Spectra S1 compares to the S2, to real pros and cons, and who these pumps are best suited for.",
+      "image": "",
+      "url": "https://www.thebreastfeedingmama.com/blog/spectra-s1-s2-ibclc-breast-pump-review-is-it-worth-it"
+    },
+    "https://breastpumpguide.com/best/breast-pump": {
+      "title": "7 Best Breast Pumps of 2025 | Top Picks",
+      "description": "Looking for the best breast pump to meet your needs? Look no further, But, I have researched and compiled a list of best breast pumps in 2025.",
+      "image": "https://breastpumpguide.com/wp-content/uploads/2025/06/Best-Breast-Pumps.webp",
+      "url": "https://breastpumpguide.com/best/breast-pump"
+    },
+    "https://www.reviewed.com/parenting/best-right-now/best-breast-pumps": {
+      "title": "The Best Breast Pumps of 2026",
+      "description": "There is no right way to feed your baby, but these breast pumps make it easier.",
+      "image": "https://reviewed-com-res.cloudinary.com/image/fetch/s--yx50RPsi--/b_white,c_limit,cs_srgb,f_auto,fl_progressive.strip_profile,g_center,q_auto,w_1200/https://reviewed-production.s3.amazonaws.com/1603892905671/Hero.png",
+      "url": "https://www.reviewed.com/parenting/best-right-now/best-breast-pumps"
+    },
+    "https://elvie.com/products/elvie-pump": {
+      "title": "Elvie Pump: Ultra-Quiet, Ultra-Discreet Wearable Breast Pump",
+      "description": "Elvie Pump is a wireless and wearable electric breast pump designed to discreetly slip into a nursing bra. Get it now with a 2 year warranty and free delivery.",
+      "image": "http://elvie.com/cdn/shop/files/IMD_UK_Pump-Double_Web_Hero_1200x1200_V2.jpg?v=1767622983&width=1024",
+      "url": "https://elvie.com/products/elvie-pump"
+    },
+    "https://breastpumpshub.com/willow-3-0-vs-willow-go/": {
+      "title": "Willow 3.0 vs Willow Go [2026]: The Ultimate Showdown -",
+      "description": "Discover the differences between Willow Go vs Willow 360 to choose the perfect breast pump. Compare features, prices, suction & performance!",
+      "image": "https://breastpumpshub.com/wp-content/uploads/2024/02/86136E97-DACA-4CB6-ACB7-5B987AA45029-min.png",
+      "url": "https://breastpumpshub.com/willow-3-0-vs-willow-go/"
+    }
+  }
+}

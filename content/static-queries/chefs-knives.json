@@ -1,0 +1,116 @@
+{
+  "slug": "chefs-knives",
+  "query": "best chef’s knives",
+  "title": "Best chef’s knives | Bin Diving",
+  "description": "AI-dug recommendations for best chef’s knives. Compare options and find one that fits.",
+  "dugAt": "2026-03-18T17:05:11.400Z",
+  "recommendations": [
+    {
+      "product_name": "MAC Professional Series 8-Inch Chef's Knife (MTH-80)",
+      "pros": [
+        "Very thin, razor-sharp edge",
+        "Excellent edge retention for a year-plus with care",
+        "Lightweight and precise for detailed work"
+      ],
+      "cons": [
+        "Requires occasional professional sharpening",
+        "Not as forgiving for heavy chopping",
+        "Higher price than budget blades"
+      ],
+      "price": null,
+      "amazon_id": "B000N5H2XU",
+      "sources": [
+        "https://www.forbes.com/sites/forbes-personal-shopper/article/best-chefs-knife/",
+        "https://www.techgearlab.com/reviews/kitchen/chef-knife/mac-professional-series-8-with-dimples-mth-80",
+        "https://macknife.com/blogs/news/mac-mth-80-chefs-knife-review-forbes-vetted"
+      ],
+      "amazon_url": "https://www.amazon.com/Mac-Knife-Professional-Hollow-8-Inch/dp/B000N5H2XU",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/V8xOk8qzMMpoRXd-WP7Xg0AoLX9lObFVvUrLH-cWsks/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9pLmVi/YXlpbWcuY29tL2lt/YWdlcy9nL0s5VUFB/ZVN3bHNab3VOUkcv/cy1sNDAwLndlYnA",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "Wüsthof Classic 8-Inch Chef's Knife",
+      "pros": [
+        "Durable, full-tang forged construction",
+        "Comfortable, well-balanced handle",
+        "Reliable edge retention and easy to resharpen"
+      ],
+      "cons": [
+        "Heavier western-style blade (less nimble for fine work)",
+        "Bolster can interfere with certain cutting grips",
+        "Requires regular honing for peak performance"
+      ],
+      "price": null,
+      "amazon_id": "B08CS96H2K",
+      "sources": [
+        "https://www.techgearlab.com/reviews/kitchen/chef-knife/wusthof-classic-8",
+        "https://www.productreviewcrew.com/product/wusthof-classic-8-inch-chefs-knife/best-overall-workhorse",
+        "https://www.nordstrom.com/s/classic-8-inch-chefs-knife/8896765"
+      ],
+      "amazon_url": "https://www.amazon.com/W%C3%9CSTHOF-Classic-Chefs-Knife-8-Inch/dp/B08CS96H2K",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/NaJ_bw4iSC8WiF2veMzQH3_P2NVryOE10dfSdyAVx5Q/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly93dXN0/aG9mLmNvbS9jZG4v/c2hvcC9maWxlcy9j/bHNfY2FtcGFpZ24t/b3JpZ2luYWxfZnJv/bnRfMDUtMi5qcGc_/dj0xNzQyODQ2OTM1/JndpZHRoPTE5MjA",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "Shun Classic 8-Inch Chef's Knife",
+      "pros": [
+        "Very sharp out of the box with a thin, fine edge",
+        "Attractive Damascus-style finish and lightweight feel",
+        "Holds a keen edge for precise slicing"
+      ],
+      "cons": [
+        "Higher hardness can be more prone to chipping if misused",
+        "Requires careful maintenance and handwashing",
+        "More expensive than many entry-level knives"
+      ],
+      "price": null,
+      "amazon_id": "B0000Y7KNQ",
+      "sources": [
+        "https://www.techgearlab.com/reviews/kitchen/chef-knife/shun-classic-8",
+        "https://toxigon.com/best-chefs-knives",
+        "https://housewares.kaiusa.com/media/wysiwyg/svg/housewares/catalog/ShunKai_Catalog2025WEB.pdf"
+      ],
+      "amazon_url": "https://www.amazon.com/Shun-Classic-8-Chefs-Knife/dp/B0000Y7KNQ",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/lmcG27RzbCQbDuIWpU_CaRhPu8JDOa1pgzezzRA8VUw/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9jZG4x/MS5iaWdjb21tZXJj/ZS5jb20vcy1jajR5/b3R6Y2VuL2ltYWdl/cy9zdGVuY2lsLzUw/MHg2NTkvcHJvZHVj/dHMvNTEzMS8zMzkw/L2tlLWRtMDc2Ni16/b29tZWRfXzA2NzQz/LjE2NDEzOTQ3NDQu/anBnP2M9MQ",
+      "resolver": "brave",
+      "valid": true
+    }
+  ],
+  "resolvedLinks": {
+    "https://www.techgearlab.com/reviews/kitchen/chef-knife/mac-professional-series-8-with-dimples-mth-80": {
+      "title": "Mac Professional Series 8\" with Dimples MTH-80 Review",
+      "description": "The Mac was the hands-down favorite for delicate work among our experienced testers. Those with strong knife skills were able to use the Mac to perform the...",
+      "image": "https://djd1xqjx2kdnv.cloudfront.net/photos/37/22/493724_9660_XXL.jpg",
+      "url": "https://www.techgearlab.com/reviews/kitchen/chef-knife/mac-professional-series-8-with-dimples-mth-80"
+    },
+    "https://macknife.com/blogs/news/mac-mth-80-chefs-knife-review-forbes-vetted": {
+      "title": "MAC MTH-80 Chef's Knife Review - Forbes Vetted",
+      "description": "The MAC MTH-80 was the best chef’s knife overall in my larger tested best chef's knives review. Ahead, learn more about why I think it’s the sharpest knife in the drawer (literally and metaphorically). Full Article Here",
+      "image": "http://www.macknife.com/cdn/shop/articles/Screenshot_2025-03-18_141335_93909373-d586-4fb2-9cef-6930413a561a_grande.png?v=1742332711",
+      "url": "https://www.macknife.com/blogs/news/mac-mth-80-chefs-knife-review-forbes-vetted"
+    },
+    "https://www.techgearlab.com/reviews/kitchen/chef-knife/wusthof-classic-8": {
+      "title": "Wusthof Classic 8\" Review",
+      "description": "The Wusthof Classic 8\" chef knife is a perfect choice for anyone who wants a heavy-duty knife that can do it all in the kitchen. It's a workhorse of a...",
+      "image": "https://djd1xqjx2kdnv.cloudfront.net/photos/37/23/493802_5582_XXL.jpg",
+      "url": "https://www.techgearlab.com/reviews/kitchen/chef-knife/wusthof-classic-8"
+    },
+    "https://www.techgearlab.com/reviews/kitchen/chef-knife/shun-classic-8": {
+      "title": "Shun Classic 8\" Review",
+      "description": "The Shun Classic 8\" is a top-notch chef knife that excels at nearly every task in the kitchen. This Japanese-made blade is one of our favorite kitchen...",
+      "image": "https://djd1xqjx2kdnv.cloudfront.net/photos/37/22/493768_22127_XXL.jpg",
+      "url": "https://www.techgearlab.com/reviews/kitchen/chef-knife/shun-classic-8"
+    },
+    "https://toxigon.com/best-chefs-knives": {
+      "title": "Best Chef's Knives: Your 2025 Guide to Top Picks and Essentials",
+      "description": "Discover the best chef",
+      "image": "https://toxigon.com/image/chef-holding-stainless-steel-knife-cutting-vegetables-on-wooden-board.webp",
+      "url": "https://toxigon.com/best-chefs-knives"
+    }
+  }
+}

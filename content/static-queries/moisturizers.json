@@ -1,0 +1,131 @@
+{
+  "slug": "moisturizers",
+  "query": "best moisturizers",
+  "title": "Best moisturizers | Bin Diving",
+  "description": "AI-dug recommendations for best moisturizers. Compare options and find one that fits.",
+  "dugAt": "2026-03-18T17:58:29.486Z",
+  "recommendations": [
+    {
+      "product_name": "CeraVe Moisturizing Cream",
+      "pros": [
+        "Ceramides and hyaluronic acid",
+        "Fragrance-free, dermatologist-recommended",
+        "Works for very dry/sensitive skin"
+      ],
+      "cons": [
+        "Thicker texture can feel heavy for oily skin",
+        "Jar formats less hygienic"
+      ],
+      "price": null,
+      "amazon_id": "B00TTD9BRC",
+      "sources": [
+        "https://www.amazon.com/CeraVe-MOUSTURIZING-CREAM-PACK-177/dp/B07HQDXKW2",
+        "https://www.whowhatwear.com/best-drugstore-moisturizers-for-dry-skin",
+        "https://www.allure.com/gallery/best-face-moisturizer/amp"
+      ],
+      "amazon_url": "https://www.amazon.com/CeraVe-Moisturizing-Cream-Daily-Moisturizer/dp/B00TTD9BRC",
+      "gpt_azn": "B07HQDXKW2",
+      "image_url": "https://imgs.search.brave.com/vxhEt8bMi8ApUa1-TkPdvuyAkIb2qDM1ZJXMbn7cRuU/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly93d3cu/aW5zdGFjYXJ0LmNv/bS9hc3NldHMvZG9t/YWlucy9wcm9kdWN0/LWltYWdlL2ZpbGUv/bGFyZ2VfNDUzZjY4/NDEtNjljZi00ODg3/LTkzNzktMzk1YWQ3/OTg4ODNhLnBuZw",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "Neutrogena Hydro Boost Water Gel",
+      "pros": [
+        "Lightweight, fast-absorbing gel",
+        "Contains hyaluronic acid for hydration",
+        "Good for normal to oily and combination skin"
+      ],
+      "cons": [
+        "Contains fragrance in some formulations",
+        "Some reports of counterfeit listings on third-party sellers"
+      ],
+      "price": null,
+      "amazon_id": "B00NR1YQHM",
+      "sources": [
+        "https://www.neutrogena.com/skin/hydro-boost.html",
+        "https://www.allure.com/gallery/best-face-moisturizer/amp",
+        "https://www.freestufffinder.com/neutrogena-sale/"
+      ],
+      "amazon_url": "https://www.amazon.com/Neutrogena-Hydro-Hyaluronic-Hydrating-Moisturizer/dp/B00NR1YQHM",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/T6DxUU-vRhoY15nvnvw4dIZVxq0O1puznxD0z-KrPyI/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly90YXJn/ZXQuc2NlbmU3LmNv/bS9pcy9pbWFnZS9U/YXJnZXQvR1VFU1Rf/NGRjM2FjNzctNTU1/YS00MmQ3LWJmZmQt/ZjJhZjNlNDBiOTlk/P3dpZD04MDAmaGVp/PTgwMCZxbHQ9ODAm/Zm10PXBqcGVn",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "La Roche-Posay Toleriane Double Repair Face Moisturizer",
+      "pros": [
+        "Gentle, barrier-supporting formula with ceramides",
+        "Recommended for sensitive and combination skin",
+        "Noncomedogenic and fragrance-free option available"
+      ],
+      "cons": [
+        "Can be pricier than drugstore brands",
+        "Some variants vary by skin type"
+      ],
+      "price": null,
+      "amazon_id": "B01N9SPQHQ",
+      "sources": [
+        "https://www.whowhatwear.com/beauty/skin/best-oil-free-moisturizers",
+        "https://www.glamour.com/gallery/best-moisturizers",
+        "https://shopping.yahoo.com/beauty/skincare/article/best-moisturizers-190719857.html"
+      ],
+      "amazon_url": "https://www.amazon.com/Roche-Posay-Toleriane-Double-Repair-Moisturizer/dp/B01N9SPQHQ",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/ogRMGTG-ZzLAhuFONJKu-iq5OZ_BMosYuI3S01CfUxg/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly93d3cu/bGFyb2NoZS1wb3Nh/eS51cy9kdy9pbWFn/ZS92Mi9BQU5HX1BS/RC9vbi9kZW1hbmR3/YXJlLnN0YXRpYy8t/L1NpdGVzLWFjZC1s/YXJvY2hlLXBvc2F5/LW1hc3Rlci1jYXRh/bG9nL2RlZmF1bHQv/ZHdmOTgyN2VlMS9p/bWcvdG9sZXJpYW5l/ZG91YmxlcmVwYWly/LzIwMjYlMjBVcGRh/dGUvMzMzNzg3NTU0/NTc5Ml9MYVJvY2hl/UG9zYXlfVG9sZXJp/YW5lX0RSTV9BVEZf/S2V5X0NsYWltc18x/NTAweDE1MDAuanBn/P3N3PTI1OCZzZnJt/PWpwZyZxPTcw",
+      "resolver": "brave",
+      "valid": true
+    }
+  ],
+  "resolvedLinks": {
+    "https://www.amazon.com/CeraVe-MOUSTURIZING-CREAM-PACK-177/dp/B07HQDXKW2": {
+      "title": "Amazon.com: CeraVe Moisturizing Cream | 48H Body and Face Moisturizer For Dry to Very Dry Skin : Beauty & Personal Care",
+      "description": "",
+      "image": "",
+      "url": "https://www.amazon.com/CeraVe-MOUSTURIZING-CREAM-PACK-177/dp/B07HQDXKW2"
+    },
+    "https://www.whowhatwear.com/best-drugstore-moisturizers-for-dry-skin": {
+      "title": "My Holy-Grail Moisturizer for Dry Skin Is Surprisingly Found at the Drugstore",
+      "description": "You don't have to splurge on a moisturizer if you're dealing with dry skin. These are the best drugstore moisturizers for dry skin of 2025.",
+      "image": "https://cdn.mos.cms.futurecdn.net/whowhatwear/posts/296824/best-drugstore-moisturizers-for-dry-skin-296824-1638818306375-fb-1200-80.jpg",
+      "url": "https://www.whowhatwear.com/best-drugstore-moisturizers-for-dry-skin"
+    },
+    "https://www.allure.com/gallery/best-face-moisturizer/amp": {
+      "title": "Hundreds of Face Moisturizers Later, These Are the Ones We Actually Recommend",
+      "description": "Your no-guesswork roadmap to the best option for you.",
+      "image": "https://media.allure.com/photos/6973ee08c0d81c4eb5f29aba/16:9/w_1280,c_limit/01.23_ALL_Best%20Face%20Moisturizers.jpg",
+      "url": "https://www.allure.com/gallery/best-face-moisturizer"
+    },
+    "https://www.neutrogena.com/skin/hydro-boost.html": {
+      "title": "Hydro Boost Hyaluronic Acid Skin Care | Neutrogena®",
+      "description": "Shop the full line of Neutrogena® Hydro Boost hyaluronic acid skin care products designed to help boost hydration of the skin for smooth, supple results.",
+      "image": "",
+      "url": "https://www.neutrogena.com/hydro-boost.html"
+    },
+    "https://www.freestufffinder.com/neutrogena-sale/": {
+      "title": "Neutrogena Sale at Amazon (Hydro Boost Eye Cream $14)",
+      "description": "Go to Amazon, where we spotted Neutrogena skincare products on sale! For example, the Neutrogena Hydro Boost + Eye Cream is now marked down to $14.93, regularly $30.79, you can opt to Subscribe and Save for an extra 5% off to lower the price to just 14.18 with free shipping! Scroll down for more dea",
+      "image": "https://www.freestufffinder.com/wp-content/uploads/2025/09/Neutrogena-Hydro-Boost-Eye-Cream.jpg",
+      "url": "https://www.freestufffinder.com/neutrogena-sale/"
+    },
+    "https://www.whowhatwear.com/beauty/skin/best-oil-free-moisturizers": {
+      "title": "Oily, Combination, or Sensitive Skin? This Niche Moisturizer Is Your Golden Ticket to a Clear, Happy Complexion",
+      "description": "Formulated without *this* sneaky ingredient.",
+      "image": "https://cdn.mos.cms.futurecdn.net/hzMpJDHK2RVSz5BpdiUcpA-1200-80.jpg",
+      "url": "https://www.whowhatwear.com/beauty/skin/best-oil-free-moisturizers"
+    },
+    "https://www.glamour.com/gallery/best-moisturizers": {
+      "title": "This $20 Dermatologist-Approved Moisturizer Is My Winter Savior for Dry Skin",
+      "description": "Your ticket to happy, and hydrated skin",
+      "image": "https://media.glamour.com/photos/690cc8566f86d9f6343c3f94/16:9/w_1280,c_limit/11.04_GL_Best%20Moisturizers_v3.jpg",
+      "url": "https://www.glamour.com/gallery/best-moisturizers-for-every-skin-type"
+    },
+    "https://shopping.yahoo.com/beauty/skincare/article/best-moisturizers-190719857.html": {
+      "title": "The best face moisturizers of 2026, tested and reviewed by experts",
+      "description": "We tried more than three dozen face moisturizers from well-known brands to find these top picks for all skin types — and budgets.",
+      "image": "https://s.yimg.com/ny/api/res/1.2/w_VyJFu0HSFbRX.AIZo9gA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://s.yimg.com/os/creatr-uploaded-images/2025-12/f042c5b0-dc69-11f0-8c2b-72280e2eb666",
+      "url": "https://shopping.yahoo.com/beauty/skincare/article/best-moisturizers-190719857.html"
+    }
+  }
+}

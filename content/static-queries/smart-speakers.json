@@ -1,0 +1,107 @@
+{
+  "slug": "smart-speakers",
+  "query": "best smart speakers",
+  "title": "Best smart speakers | Bin Diving",
+  "description": "AI-dug recommendations for best smart speakers. Compare options and find one that fits.",
+  "dugAt": "2026-03-18T21:41:01.213Z",
+  "recommendations": [
+    {
+      "product_name": "Amazon Echo Dot Max (Echo Dot Max / Echo Dot Max 2025)",
+      "pros": [
+        "Big, room-filling sound",
+        "Deep Alexa / smart-home integration"
+      ],
+      "cons": [
+        "Bulky for a 'Dot' form factor",
+        "Alexa-centric ecosystem may not suit all"
+      ],
+      "price": null,
+      "amazon_id": "B0D6SX8VLQ",
+      "sources": [
+        "https://www.tomsguide.com/us/best-smart-speakers%2Creview-4480.html",
+        "https://www.tomsguide.com/audio/smart-speakers/amazon-echo-studio-2025-review"
+      ],
+      "amazon_url": "https://www.amazon.com/Amazon-Echo-Dot-Max-Alexa-Speaker-Graphite-Amazon/dp/B0D6SX8VLQ",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/3qiDO-rpHJguQPgMHedFzi6hkw5rjpBZKfwacdbTAFo/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9tZWRp/YS5nZXR0eWltYWdl/cy5jb20vaWQvMjIz/Nzk0MTA5Ni9waG90/by90aGUtZWNoby1k/b3QtbWF4LXNtYXJ0/LXNwZWFrZXItZHVy/aW5nLWFtYXpvbnMt/cHJvZHVjdC1ldmVu/dC1pbi1uZXcteW9y/ay11cy1vbi10dWVz/ZGF5LXNlcHQtMzAu/anBnP3M9NjEyeDYx/MiZ3PTAmaz0yMCZj/PTJRT0lJMGx3M3pk/QmdEX0ppY2U4NUI3/Qmt6aHNGSGIyck5D/WGVKZ0ZUVVE9",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "Sonos Era 100",
+      "pros": [
+        "Excellent compact sound",
+        "Strong multi‑room Sonos ecosystem"
+      ],
+      "cons": [
+        "Higher price than basic smart speakers",
+        "Occasional firmware/app issues reported"
+      ],
+      "price": null,
+      "amazon_id": "B0BW34LCB8",
+      "sources": [
+        "https://www.whathifi.com/best-buys/best-wireless-speakers-wonderful-wi-fi-speakers-for-all-budgets",
+        "https://www.tomsguide.com/reviews/sonos-era-100"
+      ],
+      "amazon_url": "https://www.amazon.com/Sonos-Era-100-Wireless-Speaker/dp/B0BW34LCB8",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/kzvZ1pX0OI-vUSeexUqa34zFUEtWdZXOIWhNk_SvEao/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9jZG4u/bW9zLmNtcy5mdXR1/cmVjZG4ubmV0L01r/bkdLWFhnZHJYOEJ2/YldmRXNwWkQuanBn",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "Google Nest Audio",
+      "pros": [
+        "Balanced sound for the price",
+        "Best Google Assistant integration"
+      ],
+      "cons": [
+        "Not as bass-forward as some rivals",
+        "Works best inside Google ecosystem"
+      ],
+      "price": null,
+      "amazon_id": "B0FC4GVSYQ",
+      "sources": [
+        "https://www.techradar.com/reviews/google-nest-audio",
+        "https://www.tomsguide.com/us/best-smart-speakers%2Creview-4480.html"
+      ],
+      "amazon_url": "https://www.amazon.com/Google-Audio-3-Pack-Smart-Speakers/dp/B0FC4GVSYQ",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/LZ8ElZLN8hVa6TotiaP2DlQ4-TBZaQkRGEgTWCf66ms/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9pLmVi/YXlpbWcuY29tL2lt/YWdlcy9nL0plNEFB/ZVN3eUFCcHBFVE8v/cy1sNDAwLndlYnA",
+      "resolver": "brave",
+      "valid": true
+    }
+  ],
+  "resolvedLinks": {
+    "https://www.tomsguide.com/us/best-smart-speakers%2Creview-4480.html": {
+      "title": "Best smart speakers in 2026 — Alexa, Google, and Siri tested",
+      "description": "The best smart speakers add a smart assistant to your home to control connected gadgets, play music, and more",
+      "image": "https://cdn.mos.cms.futurecdn.net/dUUYieWQf5mT5az5QwpyA-2000-80.jpg",
+      "url": "https://www.tomsguide.com/us/best-smart-speakers,review-4480.html"
+    },
+    "https://www.tomsguide.com/audio/smart-speakers/amazon-echo-studio-2025-review": {
+      "title": "Amazon Echo Studio (2025) review: Bringing the bass",
+      "description": "Amazon’s best-sounding smart speaker gets an overdue update",
+      "image": "https://cdn.mos.cms.futurecdn.net/8LB6rWTmqae8DfN4hMgSyX-2000-80.jpg",
+      "url": "https://www.tomsguide.com/audio/smart-speakers/amazon-echo-studio-2025-review"
+    },
+    "https://www.whathifi.com/best-buys/best-wireless-speakers-wonderful-wi-fi-speakers-for-all-budgets": {
+      "title": "Wires are so last year: check out the best wireless speakers of 2026",
+      "description": "Set your songs free with a wireless speaker",
+      "image": "https://cdn.mos.cms.futurecdn.net/SBDjDBT4qWBv9TbzCVbdLS-1920-80.jpg",
+      "url": "https://www.whathifi.com/best-buys/best-wireless-speakers-wonderful-wi-fi-speakers-for-all-budgets"
+    },
+    "https://www.tomsguide.com/reviews/sonos-era-100": {
+      "title": "Sonos Era 100 review",
+      "description": "All-new design boosts connectivity and performance",
+      "image": "https://cdn.mos.cms.futurecdn.net/UyS2hDp6CApLkhjztrBd9L-2000-80.jpg",
+      "url": "https://www.tomsguide.com/reviews/sonos-era-100"
+    },
+    "https://www.techradar.com/reviews/google-nest-audio": {
+      "title": "Google Nest Audio review",
+      "description": "While the Google Nest Audio improves upon its predecessor, it faces strong competition",
+      "image": "https://cdn.mos.cms.futurecdn.net/QBrJE8eCn5mcBpAkaHjaKW-2560-80.jpg",
+      "url": "https://www.techradar.com/reviews/google-nest-audio"
+    }
+  }
+}

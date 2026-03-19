@@ -1,0 +1,122 @@
+{
+  "slug": "light-therapy-lamps",
+  "query": "best light therapy lamps",
+  "title": "Best light therapy lamps | Bin Diving",
+  "description": "AI-dug recommendations for best light therapy lamps. Compare options and find one that fits.",
+  "dugAt": "2026-03-18T17:53:24.475Z",
+  "recommendations": [
+    {
+      "product_name": "Lumie Halo Multifunctional SAD & Energy Light Therapy Lamp",
+      "pros": [
+        "Attractive design",
+        "Day and low-blue evening modes"
+      ],
+      "cons": [
+        "Premium price",
+        "Larger footprint"
+      ],
+      "price": null,
+      "amazon_id": "B0CFMPBTWN",
+      "sources": [
+        "https://www.lumie.com/en-us/products/halo-us",
+        "https://www.livingetc.com/shopping/lumie-halo-lamp",
+        "https://www.t3.com/news/want-a-sad-lamp-the-lumie-halo-has-hit-its-cheapest-ever-price"
+      ],
+      "amazon_url": "https://www.amazon.com/Lumie-Adjustable-Brightness-Temperature-Simulates/dp/B0CFMPBTWN",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/t_i0ya8_uI0spndezAzzuFtJZwY0oXLd6HmruK43BaY/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9jZG4u/bW9zLmNtcy5mdXR1/cmVjZG4ubmV0L1hB/TFJBTmRkZnRKNVVZ/RmNHcFZ2OFEtMTIw/MC04MC5qcGc",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "Carex Day-Light Classic Plus Bright Light Therapy Lamp (10,000 LUX)",
+      "pros": [
+        "Established brand, 10,000 lux output",
+        "Larger screen and adjustable stand"
+      ],
+      "cons": [
+        "Bulky compared with small panels",
+        "Some users prefer newer LED designs"
+      ],
+      "price": null,
+      "amazon_id": "B00PCN4UVU",
+      "sources": [
+        "https://www.bestreviews.guide/desk-lamps-for-sunlight-simulation/carex-day-light-classic-plus-bright-light-therapy-lamp-b00pcn4uvu",
+        "https://carex.com/collections/bright-light-therapy-lamps",
+        "https://www.vitalitymedical.com/day-light-classic-plus.html"
+      ],
+      "amazon_url": "https://www.amazon.com/Carex-Day-Light-Classic-Bright-Therapy/dp/B00PCN4UVU",
+      "gpt_azn": "B00PCN4UVU",
+      "image_url": "https://imgs.search.brave.com/LZxnOEn1vtUc7qGpRAledS_nZsGEtM9u2049Z3_btWA/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9tLm1l/ZGlhLWFtYXpvbi5j/b20vaW1hZ2VzL0kv/NjFBZ3pSU295OUwu/anBn",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "Verilux HappyLight Lucent (10,000 Lux)",
+      "pros": [
+        "Widely recommended budget option",
+        "UV-free LED, compact design"
+      ],
+      "cons": [
+        "Some users report varying measured lux at short distance",
+        "Basic feature set vs premium models"
+      ],
+      "price": null,
+      "amazon_id": "B07TBCFL6B",
+      "sources": [
+        "https://www.digitalwellnesslabs.com/product/verilux-happylight-lucent-10-000-lux-light-therapy-lamp/",
+        "https://www.forbes.com/sites/forbes-personal-shopper/article/best-light-therapy-lamp/",
+        "https://www.hgtv.com/shopping/product-reviews/best-light-therapy-lamps"
+      ],
+      "amazon_url": "https://www.amazon.com/Verilux-HappyLight-Adjustable-Brightness-Countdown/dp/B07TBCFL6B",
+      "gpt_azn": "B079YBGPM5",
+      "image_url": "https://imgs.search.brave.com/fyOZJvb8Rf5NpxsVP7fVDPHGD7Wb184bYSiIg4jAwYc/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly90YXJn/ZXQuc2NlbmU3LmNv/bS9pcy9pbWFnZS9U/YXJnZXQvR1VFU1Rf/YmFhYjQ5ZWItZjAz/YS00MmQ1LWFiYWIt/YWYyN2E4NmRmNzIy/P3dpZD04MDAmaGVp/PTgwMCZxbHQ9ODAm/Zm10PXBqcGVn",
+      "resolver": "brave",
+      "valid": true
+    }
+  ],
+  "resolvedLinks": {
+    "https://www.lumie.com/en-us/products/halo-us": {
+      "title": "Lumie® Halo SAD & Energy Light Therapy Lamp 10,000 Lux",
+      "description": "Simulates sunlight in Day Mode to improve mood, energy, focus and to help treat the symptoms of winter blues. Reduced-blue light content in Evening Mode promotes rest and...",
+      "image": "http://www.lumie.com/cdn/shop/files/Lumie-SAD-Halo-01.png?v=1756913280",
+      "url": "https://www.lumie.com/en-us/products/halo-us"
+    },
+    "https://www.livingetc.com/shopping/lumie-halo-lamp": {
+      "title": "A Lamp That Looks Good, AND Helps Beat The Winter Blues? Sign Me Up",
+      "description": "Don't let your seasonal depression rule your life this winter. This lamp combines cutting-edge light therapy with pure style, for a no-brainer purchase.",
+      "image": "https://cdn.mos.cms.futurecdn.net/UKR5jGj4xEtawYBUKPf5Bk-2000-80.png",
+      "url": "https://www.livingetc.com/shopping/lumie-halo-lamp"
+    },
+    "https://www.t3.com/news/want-a-sad-lamp-the-lumie-halo-has-hit-its-cheapest-ever-price": {
+      "title": "Want a SAD lamp? The Lumie Halo has hit its cheapest price",
+      "description": "Tackle SAD symptoms with 34% off the 5-star Lumie Halo at Amazon",
+      "image": "https://cdn.mos.cms.futurecdn.net/XALRANddftJ5UYFcGpVv8Q-1280-80.jpg",
+      "url": "https://www.t3.com/news/want-a-sad-lamp-the-lumie-halo-has-hit-its-cheapest-ever-price"
+    },
+    "https://www.bestreviews.guide/desk-lamps-for-sunlight-simulation/carex-day-light-classic-plus-bright-light-therapy-lamp-b00pcn4uvu": {
+      "title": "Carex day light classic plus bright light therapy lamp Review | BestReviews.guide",
+      "description": "BestReviews.guide analyzes thousands of articles and customer reviews to find the top-rated products at today's lowest prices. Best products, best offers.",
+      "image": "https://images-proxy.bestreviews.guide/HKGPsZMZjwnbbcyVbxKypTa_v3Y=/0x300/https://m.media-amazon.com/images/I/21ytTeZukoL._AC_CX679_.jpg",
+      "url": "https://www.bestreviews.guide/desk-lamps-for-sunlight-simulation/carex-day-light-classic-plus-bright-light-therapy-lamp-b00pcn4uvu"
+    },
+    "https://carex.com/collections/bright-light-therapy-lamps": {
+      "title": "Bright Light Therapy Lamps",
+      "description": "Our bright light therapy lamps mimic sunlight to improve mood, enhance sleep, & treat seasonal depression. Shop the #1 line of S.A.D. treatment.",
+      "image": "http://carex.com/cdn/shop/collections/Bright_Light_Therapy_Lamps_Collection_Image_64d6567c-4f3c-4c22-9686-05cece899703_1200x1200.jpg?v=1603820903",
+      "url": "https://carex.com/collections/bright-light-therapy-lamps"
+    },
+    "https://www.vitalitymedical.com/day-light-classic-plus.html": {
+      "title": "Carex Day-Light Light Therapy Products",
+      "description": "",
+      "image": "https://www.vitalitymedical.com/media/catalog/product/cache/f0486a80047dcb9112ac3f70ec55dda9/c/a/carex-daylight-classic-plus.png",
+      "url": "https://www.vitalitymedical.com/day-light-classic-plus.html"
+    },
+    "https://www.hgtv.com/shopping/product-reviews/best-light-therapy-lamps": {
+      "title": "The Best Light Therapy Lamps of 2026",
+      "description": "Brighten your spirits with these top-rated lamps.",
+      "image": "https://hgtvhome.sndimg.com/content/dam/images/hgtv/products/2021/12/21/1/rx_amazon_sunrise-sensations-daybright-light-therapy-lamp.jpeg.rend.hgtvcom.616.411.85.suffix/1640096161750.webp",
+      "url": "https://www.hgtv.com/shopping/product-reviews/best-light-therapy-lamps"
+    }
+  }
+}

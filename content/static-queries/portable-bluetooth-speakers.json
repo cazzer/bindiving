@@ -1,0 +1,116 @@
+{
+  "slug": "portable-bluetooth-speakers",
+  "query": "best portable bluetooth speakers",
+  "title": "Best portable bluetooth speakers | Bin Diving",
+  "description": "AI-dug recommendations for best portable bluetooth speakers. Compare options and find one that fits.",
+  "dugAt": "2026-03-18T20:30:52.679Z",
+  "recommendations": [
+    {
+      "product_name": "JBL Flip 6 Portable Waterproof Speaker",
+      "pros": [
+        "Robust outdoor sound",
+        "IP67 water and dust resistance",
+        "Portable cylindrical design"
+      ],
+      "cons": [
+        "Moderate battery life for class",
+        "No built-in microphone for calls",
+        "Can be targeted by counterfeit listings"
+      ],
+      "price": null,
+      "amazon_id": "B09GJZKQ3K",
+      "sources": [
+        "https://www.tomsguide.com/reviews/jbl-flip-6",
+        "https://www.techradar.com/reviews/jbl-flip-6",
+        "https://www.jbl.com/bluetooth-speakers/JBLFLIP6BLKAM.html"
+      ],
+      "amazon_url": "https://www.amazon.com/JBL-Flip-Bluetooth-Waterproof-PartyBoost/dp/B09GJZKQ3K",
+      "gpt_azn": "B09V7WS4PP",
+      "image_url": "https://imgs.search.brave.com/AAi_zIZ_TmWr3RS5lX3ToM8SeKXxIiPQFjApd7LeDHU/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly93d3cu/cGNyaWNoYXJkLmNv/bS9kdy9pbWFnZS92/Mi9CRlhNX1BSRC9v/bi9kZW1hbmR3YXJl/LnN0YXRpYy8tL1Np/dGVzLXBjcmljaGFy/ZC1tYXN0ZXItcHJv/ZHVjdC1jYXRhbG9n/L2RlZmF1bHQvZHdj/M2U4MzhmYi9pbWFn/ZXMvaGlyZXMvQVox/X0pCTEZMSVA2QkxL/LmpwZz9zdz04MDAm/c2g9ODAwJnNtPWZp/dA",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "Ultimate Ears WONDERBOOM 3",
+      "pros": [
+        "Very compact and floatable (IP67)",
+        "Surprisingly full 360° sound for size",
+        "Outdoor Boost mode for open-air listening"
+      ],
+      "cons": [
+        "Limited low-end extension compared with larger speakers",
+        "No aux or advanced connectivity",
+        "Some reports of connectivity or reliability issues in forums"
+      ],
+      "price": null,
+      "amazon_id": "B09KX27KGN",
+      "sources": [
+        "https://www.whathifi.com/reviews/ultimate-ears-wonderboom-3",
+        "https://www.howtogeek.com/ultimate-ears-wonderboom-3-review/",
+        "https://www.digitaltrends.com/home-theater/ultimate-ears-wonderboom-3-review/"
+      ],
+      "amazon_url": "https://www.amazon.com/WONDERBOOM-Bluetooth-360-Degree-Waterproof-Dustproof/dp/B09KX27KGN",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/TA_OVkFVKsd-OSvGe_Ps-CugyhqZ3hYEABRrWmyj0eM/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9ndWlk/ZS1pbWFnZXMuY2Ru/LmlmaXhpdC5jb20v/aWdpL2o1WUlZQWpH/M0lxR1NvZzIuc3Rh/bmRhcmQ",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "Anker Soundcore Motion+",
+      "pros": [
+        "Excellent value for sound quality (Hi-Res capable)",
+        "Strong bass and detail for the price",
+        "Often available at discounts on Amazon"
+      ],
+      "cons": [
+        "Heavier than ultra-compact options",
+        "Battery life solid but not class-leading on some models",
+        "Multiple hardware revisions can confuse buyers"
+      ],
+      "price": null,
+      "amazon_id": "B07XLPJHMQ",
+      "sources": [
+        "https://us.amazon.com/Soundcore-Bluetooth-Portable-Immersive-3-Channel/dp/B0CN5HYDHZ",
+        "https://www.pcgamer.com/this-seriously-powerful-usd75-bluetooth-speaker-is-simply-the-best-portable-unit-ive-ever-heard-and-its-been-rattling-my-kitchen-windows-all-prime-day/",
+        "https://www.engadget.com/anker-soundcore-speakers-30-percent-off-amazon-sale-104539197.html/1000"
+      ],
+      "amazon_url": "https://www.amazon.com/Soundcore-Bluetooth-Extended-Customizable-Waterproof/dp/B07XLPJHMQ",
+      "gpt_azn": "B0CN5HYDHZ",
+      "image_url": "https://imgs.search.brave.com/WDZkrUQm_lBj8JMZnHElNxBAfkJ7XauzR9ppzr2lDh4/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9pLnBj/bWFnLmNvbS9pbWFn/ZXJ5L3Jldmlld3Mv/MDVjTkhHRVZNZ2Vt/OWd3S1dCTTZiMkgt/NC5maXRfc2NhbGUu/c2l6ZV80MDB4MjI1/LnYxNjU3MDMzNzQ0/LmpwZw",
+      "resolver": "brave",
+      "valid": true
+    }
+  ],
+  "resolvedLinks": {
+    "https://www.tomsguide.com/reviews/jbl-flip-6": {
+      "title": "JBL Flip 6 review: Portable Bluetooth speaker with strong sound",
+      "description": "The JBL Flip 6 balances size and sound in this updated version of the popular Bluetooth speaker",
+      "image": "https://cdn.mos.cms.futurecdn.net/W8EDwWcJ3Y9Ji2voDhtCeN-2000-80.jpg",
+      "url": "https://www.tomsguide.com/reviews/jbl-flip-6"
+    },
+    "https://www.techradar.com/reviews/jbl-flip-6": {
+      "title": "JBL Flip 6 review",
+      "description": "JBL keeps it simple with another excellent Bluetooth speaker",
+      "image": "https://cdn.mos.cms.futurecdn.net/o9n9ES23nttxwo9yKUwVfC-1920-80.jpg",
+      "url": "https://www.techradar.com/reviews/jbl-flip-6"
+    },
+    "https://www.whathifi.com/reviews/ultimate-ears-wonderboom-3": {
+      "title": "Ultimate Ears Wonderboom 3 review",
+      "description": "Is this small wonder still a winning formula?",
+      "image": "https://cdn.mos.cms.futurecdn.net/rXcEveCi7KzERzMvGU9gUD-1920-80.jpg",
+      "url": "https://www.whathifi.com/reviews/ultimate-ears-wonderboom-3"
+    },
+    "https://www.howtogeek.com/ultimate-ears-wonderboom-3-review/": {
+      "title": "Ultimate Ears Wonderboom 3 Review: This Tiny Speaker Is Full of Big Sound",
+      "description": "Why do companies refuse to adopt USB-C?",
+      "image": "https://static0.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/08/angled-view-of-the-ultimate-ears-wonderboom-3-1jpg_53542793627_o.jpg?w=1600&h=900&fit=crop",
+      "url": "https://www.howtogeek.com/ultimate-ears-wonderboom-3-review/"
+    },
+    "https://www.engadget.com/anker-soundcore-speakers-30-percent-off-amazon-sale-104539197.html/1000": {
+      "title": "Anker Soundcore speakers are up to 30 percent off in Amazon sale",
+      "description": "The Anker Soundcore Motion+, Mini, and Flare Mini are currently for sale on Amazon. The Motion+ was one of Engadget's best portable speakers of 2023.",
+      "image": "https://s.yimg.com/ny/api/res/1.2/ajV2cg65NmtpTvgy_ixUHQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03NjQ-/https://s.yimg.com/os/creatr-uploaded-images/2022-04/6b1c84e0-b69b-11ec-afef-0e00fa3ef767",
+      "url": "https://www.engadget.com/anker-soundcore-speakers-30-percent-off-amazon-sale-104539197.html"
+    }
+  }
+}

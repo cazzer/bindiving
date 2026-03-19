@@ -1,0 +1,125 @@
+{
+  "slug": "travel-backpacks",
+  "query": "best travel backpacks",
+  "title": "Best travel backpacks | Bin Diving",
+  "description": "AI-dug recommendations for best travel backpacks. Compare options and find one that fits.",
+  "dugAt": "2026-03-18T18:39:07.800Z",
+  "recommendations": [
+    {
+      "product_name": "Osprey Farpoint 40 Travel Pack",
+      "pros": [
+        "Comfortable suspension and hipbelt",
+        "Clamshell opening - suitcase-style access",
+        "Widely regarded carry-on size (40L)"
+      ],
+      "cons": [
+        "Outdoorsy look may not suit all travellers",
+        "Not as many organizational pockets as some urban packs"
+      ],
+      "price": null,
+      "amazon_id": "B07V6HBBZ2",
+      "sources": [
+        "https://outdoorgearlab.com/reviews/travel/travel-backpack/osprey-farpoint-40",
+        "https://packhacker.com/travel-gear/osprey/farpoint-40/",
+        "https://www.reviewed.com/home-outdoors/best-right-now/the-best-travel-backpacks"
+      ],
+      "amazon_url": "https://www.amazon.com/Osprey-Farpoint-40-Travel-Backpack/dp/B07V6HBBZ2",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/1wFw7Kz99o-IErQw8UcmjZCIKeBqcYvqR2e1QsgmDOo/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9nbGVu/bnNhaWQuY29tL3dw/LWNvbnRlbnQvdXBs/b2Fkcy8yMDI1LzA5/L29zcHJleS1mYXJw/b2ludC00MC10cmF2/ZWwtcGFjay5qcGc",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "Tortuga Travel Backpack Pro 40L",
+      "pros": [
+        "Structured, suitcase-like clamshell design",
+        "Comfortable harness and hipbelt for heavy loads",
+        "Designed specifically for one-bag carry-on travel"
+      ],
+      "cons": [
+        "Heavier than some minimalist packs",
+        "Higher price point for premium materials"
+      ],
+      "price": null,
+      "amazon_id": "B0DZTGYB49",
+      "sources": [
+        "https://besttravelbackpack.org/reviews/tortuga-pro-40l/",
+        "https://www.theinertia.com/gear/best-travel-backpacks/",
+        "https://www.forbes.com/sites/christinaliao/2024/11/26/8-exceptional-travel-backpacks-you-should-buy-right-now/"
+      ],
+      "amazon_url": "https://www.amazon.com/Tortuga-Travel-Backpack-Black-Carry/dp/B0DZTGYB49",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/IcQ2KSuS6N6nnXSO_RGbLqkT35rvgmjzpU_EysSrT8w/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9pLmVi/YXlpbWcuY29tL2lt/YWdlcy9nL1dNNEFB/T1N3Vllkb1djMVAv/cy1sNTAwLndlYnA",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "Peak Design Travel Backpack 45L",
+      "pros": [
+        "Excellent organization and modularity (camera/tech-friendly)",
+        "High-quality materials and durable build",
+        "Expandable capacity for one-bag travel"
+      ],
+      "cons": [
+        "On the heavier side when fully loaded",
+        "Pricey for casual travelers"
+      ],
+      "price": null,
+      "amazon_id": "B0DDL4YW86",
+      "sources": [
+        "https://www.nationalgeographic.com/lifestyle/article/best-travel-backpacks",
+        "https://travelfreak.com/peak-design-travel-backpack-review/",
+        "https://carryongearguide.com/peak-design-travel-backpack-45l-review/"
+      ],
+      "amazon_url": "https://www.amazon.com/Peak-Design-Travel-Backpack-BTR-45-BK-2/dp/B0DDL4YW86",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/ReENJ6c4qPX7Uff1wgAectiTZpfz86Sx8LBIiOqbEuM/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9jZG4u/dGhld2lyZWN1dHRl/ci5jb20vd3AtY29u/dGVudC9tZWRpYS8y/MDI0LzA5L2NhcnJ5/b250cmF2ZWxiYWNr/cGFja3MtMjA0OHB4/LTc2NjguanBnP2F1/dG89d2VicCZxdWFs/aXR5PTc1JndpZHRo/PTEwMjQ",
+      "resolver": "brave",
+      "valid": true
+    }
+  ],
+  "resolvedLinks": {
+    "https://outdoorgearlab.com/reviews/travel/travel-backpack/osprey-farpoint-40": {
+      "title": "Osprey Farpoint 40 Review",
+      "description": "The Osprey Farpoint 40 is a travel backpack that rivals specialized hiking backpacks in its ability to carry heavy loads with comfort and ease. It has a...",
+      "image": "https://d1i8d6ce8wwubf.cloudfront.net/photos/29/14/412898_27759_XXL.jpg",
+      "url": "https://www.outdoorgearlab.com/reviews/travel/travel-backpack/osprey-farpoint-40"
+    },
+    "https://packhacker.com/travel-gear/osprey/farpoint-40/": {
+      "title": "Osprey Farpoint 40 Review | Pack Hacker",
+      "description": "The Osprey Farpoint 40 is a capable one-bag travel backpack loaded with features, comfort, and space, though the outdoorsy aesthetic may not be for everyone.",
+      "image": "https://cdn.packhacker.com/2018/01/386a2571-zosprey-farpoint-40-v2-back-copy.jpg?auto=compress&auto=format&w=1200&h=630&fit=crop",
+      "url": "https://www.packhacker.com/travel-gear/osprey/farpoint-40/"
+    },
+    "https://www.reviewed.com/home-outdoors/best-right-now/the-best-travel-backpacks": {
+      "title": "The Best Travel Backpacks of 2026",
+      "description": "Navigate your next travel adventure with one of these well-made travel backpacks.",
+      "image": "https://reviewed-com-res.cloudinary.com/image/fetch/s--N0uzJPUY--/b_white,c_limit,cs_srgb,f_auto,fl_progressive.strip_profile,g_center,q_auto,w_1200/https://reviewed-production.s3.amazonaws.com/1583260237000/DSC00061.JPG",
+      "url": "https://www.reviewed.com/home-outdoors/best-right-now/the-best-travel-backpacks"
+    },
+    "https://besttravelbackpack.org/reviews/tortuga-pro-40l/": {
+      "title": "Tortuga Travel Backpack Pro 40L Review | Best Travel Backpack",
+      "description": "Tortuga Travel Backpack Pro 40L Review: A premium, weatherproof carry-on with intuitive organization and comfort built for digital nomads and long-term travelers.",
+      "image": "https://besttravelbackpack.org/wp-content/uploads/2025/10/tortuga-travel-backpack-40l.jpg",
+      "url": "https://besttravelbackpack.org/reviews/tortuga-pro-40l/"
+    },
+    "https://www.theinertia.com/gear/best-travel-backpacks/": {
+      "title": "6 Best Travel Backpacks of 2025 | The Inertia Tested",
+      "description": "",
+      "image": "http://www.theinertia.com/wp-content/uploads/2024/06/osprey3-3.jpg",
+      "url": "https://www.theinertia.com/gear/best-travel-backpacks/"
+    },
+    "https://travelfreak.com/peak-design-travel-backpack-review/": {
+      "title": "My Honest Peak Design Travel Backpack Review - TravelFreak",
+      "description": "This Peak Design Travel Backpack review will answer all: Is it really one of the best travel backpacks for photographers and videographers?",
+      "image": "https://travelfreak.com/wp-content/uploads/2019/09/peak-design-travel-backpack-review-2.jpg",
+      "url": "https://travelfreak.com/peak-design-travel-backpack-review/"
+    },
+    "https://carryongearguide.com/peak-design-travel-backpack-45l-review/": {
+      "title": "Peak Design Travel Backpack Review (45L)",
+      "description": "A hands-on review of the Peak Design Travel Backpack, covering organization, build quality, comfort, and carry-on suitability.",
+      "image": "https://carryongearguide.com/wp-content/uploads/2025/12/peak-design-travel-backpack-front.jpg",
+      "url": "https://carryongearguide.com/peak-design-travel-backpack-45l-review/"
+    }
+  }
+}

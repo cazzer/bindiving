@@ -1,0 +1,128 @@
+{
+  "slug": "usbc-hubs",
+  "query": "best usb‑c hubs",
+  "title": "Best usb‑c hubs | Bin Diving",
+  "description": "AI-dug recommendations for best usb‑c hubs. Compare options and find one that fits.",
+  "dugAt": "2026-03-18T19:21:50.167Z",
+  "recommendations": [
+    {
+      "product_name": "Anker 555 USB-C Hub (8-in-1)",
+      "pros": [
+        "4K@60Hz HDMI",
+        "10Gbps USB-C data + Ethernet"
+      ],
+      "cons": [
+        "Pass-through PD limited to ~85W in practice",
+        "Some user reports of macOS compatibility quirks"
+      ],
+      "price": "$49.99",
+      "amazon_id": "B087QZVQJX",
+      "sources": [
+        "https://www.anker.com/products/a8383",
+        "https://www.anker.com/collections/usb-hub-1",
+        "https://www.engadget.com/pick-up-one-of-our-favorite-anker-usb-c-hubs-for-only-40-162451076.html"
+      ],
+      "amazon_url": "https://www.amazon.com/Anker-PowerExpand-Adapter-Delivery-Ethernet/dp/B087QZVQJX",
+      "gpt_azn": "B087QZVQJX",
+      "image_url": "https://imgs.search.brave.com/cy6Xn8WVskBg7kFDCU84bSHZ6dSBZOCgw7rcTWIegig/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9jZG4u/ZnN0b3BwZXJzLmNv/bS9zdHlsZXMvYXJ0/aWNsZV9tZWRpdW0v/czMvbWVkaWEvMjAy/Mi8wOC8xMi9hbmtl/cl81NTVfdXNiLWNf/aHViXzgtaW4tMV9y/ZXZpZXdfMy5qcGc_/aXRvaz1oMmhRbERK/ZQ",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "Satechi Aluminum Multi‑Port Adapter V2 (Slim Type‑C)",
+      "pros": [
+        "Aluminum build matches MacBooks",
+        "Gigabit Ethernet + SD/microSD slots"
+      ],
+      "cons": [
+        "Occasional user reports of intermittent port failures",
+        "Some models vary in HDMI refresh rate"
+      ],
+      "price": null,
+      "amazon_id": "B07F7NBVJK",
+      "sources": [
+        "https://satechi.net/products/slim-aluminum-type-c-multi-port-adapter-v2-black",
+        "https://www.apple.com/shop/product/HRDP2ZM/A/satechi-multiport-pro-adapter-v2",
+        "https://www.cultofmac.com/reviews/satechis-slim-usb-c-multi-port-hub-is-right-for-mac-or-ipad-review"
+      ],
+      "amazon_url": "https://www.amazon.com/Satechi-Aluminum-Multi-Port-Adapter-Readers/dp/B07F7NBVJK",
+      "gpt_azn": "B07F7NBVJK",
+      "image_url": "https://imgs.search.brave.com/fh9Nxlt21xR-68Y1kVYnnX6kmwurMipqOPQz3b5GNW8/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9tLm1l/ZGlhLWFtYXpvbi5j/b20vaW1hZ2VzL1Mv/YXBsdXMtbWVkaWEt/bGlicmFyeS1zZXJ2/aWNlLW1lZGlhL2Y5/NGJmZDNkLTU0Nzgt/NGNlZi05ZGQwLTgw/NjI3MzU2ZDU5Mi5f/X0NSMCwwLDYwMCw4/MDBfUFQwX1NYMzAw/X1YxX19fLmpwZw",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "UGREEN Revodok 6‑in‑1 USB‑C Hub (Revodok Pro/Uno series)",
+      "pros": [
+        "Budget-friendly; 4K@60Hz HDMI + 100W PD options",
+        "Frequently available at steep Amazon discounts"
+      ],
+      "cons": [
+        "Some device-specific HDMI/resolution limits reported",
+        "Varied model names can be confusing across listings"
+      ],
+      "price": null,
+      "amazon_id": "B0D1XLNWP2",
+      "sources": [
+        "https://www.ugreen.com/products/ugreen-revodok-6-in-1-usb-c-hub-ethernet-4k-60hz-hdmi-display",
+        "https://us.ugreen.com/products/ugreen-revodok-pro-6-in-1-usb-c-hub",
+        "https://www.pcworld.com/article/3039764/ugreen-revodok-pro-usb-c-hub-is-now-14-on-amazon-30-percent-off.html"
+      ],
+      "amazon_url": "https://www.amazon.com/UGREEN-Revodok-Delivery-MacBook-Thinkpad/dp/B0D1XLNWP2",
+      "gpt_azn": "B0BNBKK4T4",
+      "image_url": "https://imgs.search.brave.com/n1ULv-btEANiIRZzckNBSgl6rQCS7KJUFxwZLlZVgVk/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly91cy51/Z3JlZW4uY29tL2Nk/bi9zaG9wL3Byb2R1/Y3RzL3VncmVlbi1y/ZXZvZG9rLXByby03/LWluLTEtdXNiLWMt/aHViLTUyMTM2OC5q/cGc_dj0xNzAwMTc1/Nzg4JndpZHRoPTM4/NDA",
+      "resolver": "brave",
+      "valid": true
+    }
+  ],
+  "resolvedLinks": {
+    "https://www.anker.com/products/a8383": {
+      "title": "Anker 555 USB-C Hub (8-in-1)",
+      "description": "The Anker Advantage: Join the 65 million+ powered by our leading technology. Massive Expansion: Equipped with a USB-C Power Delivery input port, a USB-C da",
+      "image": "https://cdn.shopify.com/s/files/1/0493/9834/9974/files/A83830A3_TD01_533634ef-bb62-4009-92e0-a96c3a3d6a4d.png?v=1730774886",
+      "url": "https://www.anker.com/products/a8383"
+    },
+    "https://www.anker.com/collections/usb-hub-1": {
+      "title": "USB Hub",
+      "description": "Elevate productivity with Anker's USB hubs, expand your connectivity options, transfer files at lightning speed & enjoy crystal-clear displays up to 4K@60H",
+      "image": "",
+      "url": "https://www.anker.com/collections/usb-hub-1"
+    },
+    "https://www.engadget.com/pick-up-one-of-our-favorite-anker-usb-c-hubs-for-only-40-162451076.html": {
+      "title": "Pick up one of our favorite Anker USB-C hubs for only $40",
+      "description": "One of our favorite Anker USB-C hubs is on sale for $40 via Amazon. That’s a discount of $10, or 20 percent.",
+      "image": "https://s.yimg.com/ny/api/res/1.2/AowOk4SMYVrjaxu2ZlfS.A--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://s.yimg.com/os/creatr-uploaded-images/2024-04/589309d0-f81f-11ee-b3ef-36d4525cb8fa",
+      "url": "https://www.engadget.com/pick-up-one-of-our-favorite-anker-usb-c-hubs-for-only-40-162451076.html"
+    },
+    "https://www.apple.com/shop/product/HRDP2ZM/A/satechi-multiport-pro-adapter-v2": {
+      "title": "Satechi Multiport Pro Adapter V2",
+      "description": "The Satechi USB-C Multiport Pro Adapter V2 groups essential expansion ports in a sleek, compact device you can take wherever you go. Buy online now at apple.com.",
+      "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/HRDP2?wid=1200&hei=630&fmt=jpeg&qlt=95&.v=1724277631523",
+      "url": "https://www.apple.com/shop/product/hrdp2zm/a/satechi-multiport-pro-adapter-v2"
+    },
+    "https://www.cultofmac.com/reviews/satechis-slim-usb-c-multi-port-hub-is-right-for-mac-or-ipad-review": {
+      "title": "Satechi’s slim USB-C multi-port hub is right for Mac or iPad [Review]",
+      "description": "A USB-C hub really adds capabilities your computer. The Satechi Slim Aluminum Type-C Multi-Port Adapter V2 was created with Macs in mind but it expands",
+      "image": "https://www.cultofmac.com/wp-content/uploads/2019/01/2DB48E7B-7138-460A-B488-FCD0C5E9590C.jpeg",
+      "url": "https://www.cultofmac.com/reviews/satechis-slim-usb-c-multi-port-hub-is-right-for-mac-or-ipad-review"
+    },
+    "https://www.ugreen.com/products/ugreen-revodok-6-in-1-usb-c-hub-ethernet-4k-60hz-hdmi-display": {
+      "title": "USB C Hub | UGREEN US",
+      "description": "Expand connectivity of your USB-C devices with Ugreen's reliable and high-quality USB C hubs. Portable and versatile usb c hub options. Shop now!",
+      "image": "http://us.ugreen.com/cdn/shop/files/1200x628.png?v=1665280189",
+      "url": "https://us.ugreen.com/collections/usb-c-hubs"
+    },
+    "https://us.ugreen.com/products/ugreen-revodok-pro-6-in-1-usb-c-hub": {
+      "title": "UGREEN Revodok 206 6 in 1 USB-C Hub",
+      "description": "Unlock enhanced productivity with the UGREEN Revodok 206, a 6-in-1 USB C Hub featuring dual HDMI, 8K display support, and 100W Power Delivery.",
+      "image": "http://us.ugreen.com/cdn/shop/products/ugreen-revodok-pro-6-in-1-usb-c-hub-950904.png?v=1700755895",
+      "url": "https://us.ugreen.com/products/ugreen-revodok-pro-6-in-1-usb-c-hub"
+    },
+    "https://www.pcworld.com/article/3039764/ugreen-revodok-pro-usb-c-hub-is-now-14-on-amazon-30-percent-off.html": {
+      "title": "Ugreen Revodok Pro USB-C hub is now $14 on Amazon (30% off)",
+      "description": "You can get this practical 6-port USB-C hub at a great price right now on Amazon. These ports are really good for the price!",
+      "image": "https://www.pcworld.com/wp-content/uploads/2026/01/Ugreen-Revodok-Pro-6-in-1-USB-C-hub-PCWorld-deal.jpg?quality=50&strip=all&w=1024",
+      "url": "https://www.pcworld.com/article/3039764/ugreen-revodok-pro-usb-c-hub-is-now-14-on-amazon-30-percent-off.html"
+    }
+  }
+}

@@ -1,0 +1,121 @@
+{
+  "slug": "running-shoes",
+  "query": "best running shoes",
+  "title": "Best running shoes | Bin Diving",
+  "description": "AI-dug recommendations for best running shoes. Compare options and find one that fits.",
+  "dugAt": "2026-03-18T22:55:22.315Z",
+  "recommendations": [
+    {
+      "product_name": "Brooks Ghost 15",
+      "pros": [
+        "Cushioned everyday trainer",
+        "Widely recommended by runners"
+      ],
+      "cons": [
+        "Sizing can vary between releases",
+        "Some users report fit changes in newer models"
+      ],
+      "price": "$97.45",
+      "amazon_id": "B09RRZXQHS",
+      "sources": [
+        "https://www.amazon.it/Brooks-Ghost-15-Sneaker-Uomo/dp/B0CJFJ1T53",
+        "https://www.techradar.com/best/best-running-shoes",
+        "https://www.yahoo.com/lifestyle/one-brooks-most-popular-running-193620816.html"
+      ],
+      "amazon_url": "https://www.amazon.com/Brooks-Mens-Ghost-Neutral-Running/dp/B09RRZXQHS",
+      "gpt_azn": "B09RRQ83HD",
+      "image_url": "https://imgs.search.brave.com/Ky_7Mw0F6fqwOhTsT8ligQgsQFDl9ywkaw3veMQjg10/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly93d3cu/d29tZW5zcnVubmlu/Zy5jby51ay93cC1j/b250ZW50L3VwbG9h/ZHMvMjAyMy8wNC9i/cm9va3MtZ2hvc3Qt/MTUtcmV2aWV3Lmpw/Zw",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "HOKA Clifton 10",
+      "pros": [
+        "Lightweight with plush cushioning",
+        "Versatile daily trainer"
+      ],
+      "cons": [
+        "Some user reports of durability issues",
+        "Fit differs from previous Clifton versions for some runners"
+      ],
+      "price": "$150",
+      "amazon_id": "B0F7TDHTZP",
+      "sources": [
+        "https://www.outdoorgearlab.com/reviews/shoes-and-boots/running-shoes-men/hoka-clifton-10",
+        "https://www.hokaofficialus.com/product/hoka-clifton-10-black-white/",
+        "https://www.fitandwell.com/exercise/fitness-equipment-tech/hokas-latest-clifton-shoe-is-reduced-for-amazon-big-deal-days-and-its-the-best-hoka-ive-ever-tested"
+      ],
+      "amazon_url": "https://www.amazon.com/HOKA-Mens-Clifton-10-Sneaker/dp/B0F7TDHTZP",
+      "gpt_azn": "B0D5G6YCJ5",
+      "image_url": "https://imgs.search.brave.com/cI9SSZ1TMaeZDIS545cHtGSgWEIF5n8WK3knty4EM0M/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly93d3cu/Zml0MnJ1bi5jb20v/Y2RuL3Nob3AvZmls/ZXMvMTE2MjAzMC1N/VEZMXzgucG5nP3Y9/MTc1MjY5MjQ1MCZ3/aWR0aD0xMjAw",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "Nike Air Zoom Pegasus 40",
+      "pros": [
+        "Reliable, responsive everyday running shoe",
+        "Consistent fit and long-standing popularity"
+      ],
+      "cons": [
+        "Not as heavily cushioned as maximalist options",
+        "Incremental updates vs. major redesigns"
+      ],
+      "price": null,
+      "amazon_id": "B0CTW923H5",
+      "sources": [
+        "https://trailjardinsansfin.com/test-nike-air-zoom-pegasus-40-confort-et-performance/",
+        "https://www.techradar.com/best/best-running-shoes"
+      ],
+      "amazon_url": "https://www.amazon.com/Nike-Mens-Air-Zoom-Pegasus/dp/B0CTW923H5",
+      "gpt_azn": "B0CH198C7H",
+      "image_url": "https://imgs.search.brave.com/f07n70NwbSLUNXM-igKwbNzuWhqOaqAj8DJmNh_EDfg/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9tLm1l/ZGlhLWFtYXpvbi5j/b20vaW1hZ2VzL0kv/NzFKNVhJbzhHOEwu/anBn",
+      "resolver": "brave",
+      "valid": true
+    }
+  ],
+  "resolvedLinks": {
+    "https://www.amazon.it/Brooks-Ghost-15-Sneaker-Uomo/dp/B0CJFJ1T53": {
+      "title": "Brooks Ghost 15, Scarpe da corsa Uomo, Nero (Black Hawaiian Ocean Green), 40 EU : Amazon.it: Moda",
+      "description": "",
+      "image": "",
+      "url": "https://www.amazon.it/Brooks-Ghost-15-Sneaker-Uomo/dp/B0CJFJ1T53"
+    },
+    "https://www.techradar.com/best/best-running-shoes": {
+      "title": "The best running shoes 2025: Hit the road with our top sneakers and trainers",
+      "description": "The best running shoes for interval training, slow runs, racing and more, ranked",
+      "image": "https://cdn.mos.cms.futurecdn.net/YSnc73hsJaPUKqEedcJnm3-2000-80.jpg",
+      "url": "https://www.techradar.com/best/best-running-shoes"
+    },
+    "https://www.yahoo.com/lifestyle/one-brooks-most-popular-running-193620816.html": {
+      "title": "One of Brooks' Most Popular Running Shoes That Feels Like 'Pillows That Spring Back' Is on Mega Sale Starting at $75",
+      "description": "\"They are, by far, the most comfortable sneakers I own right now.\"",
+      "image": "https://s.yimg.com/os/en/men_s_journal_ecomm_550/be310a2c12a61cbc75e58ddd279c52b7",
+      "url": "https://www.yahoo.com/lifestyle/one-brooks-most-popular-running-193620816.html"
+    },
+    "https://www.outdoorgearlab.com/reviews/shoes-and-boots/running-shoes-men/hoka-clifton-10": {
+      "title": "Hoka Clifton 10 Review",
+      "description": "The Hoka Clifton 10 is a decent all-around running shoe. It doesn't wow with an engaging ride or even above-average cushioning, but it's consistent...",
+      "image": "https://d1i8d6ce8wwubf.cloudfront.net/photos/33/69/458432_30581_XXL.jpg",
+      "url": "https://www.outdoorgearlab.com/reviews/shoes-and-boots/running-shoes-men/hoka-clifton-10"
+    },
+    "https://www.hokaofficialus.com/product/hoka-clifton-10-black-white/": {
+      "title": "HOKA® Clifton 10-black / white – Cushioned Running Shoes & Performance Wear | HOKA®",
+      "description": "",
+      "image": "",
+      "url": "https://www.hokaofficialus.com/product/hoka-clifton-10-black-white/"
+    },
+    "https://www.fitandwell.com/exercise/fitness-equipment-tech/hokas-latest-clifton-shoe-is-reduced-for-amazon-big-deal-days-and-its-the-best-hoka-ive-ever-tested": {
+      "title": "Hoka’s latest Clifton shoe is reduced for Amazon Big Deal Days and it’s the best Hoka I’ve ever tested",
+      "description": "Get $20 off this 2025 release",
+      "image": "https://cdn.mos.cms.futurecdn.net/2Upfh2PxWU8ZFmLybhiVLA-1920-80.jpg",
+      "url": "https://www.fitandwell.com/exercise/fitness-equipment-tech/hokas-latest-clifton-shoe-is-reduced-for-amazon-big-deal-days-and-its-the-best-hoka-ive-ever-tested"
+    },
+    "https://trailjardinsansfin.com/test-nike-air-zoom-pegasus-40-confort-et-performance/": {
+      "title": "Test Nike Air Zoom Pegasus 40 : confort et performance",
+      "description": "Découvre notre analyse complète des Nike Air Zoom Pegasus 40 : un équilibre parfait entre confort et performance pour les coureurs de tous niveaux.",
+      "image": "https://www.trailjardinsansfin.com/wp-content/uploads/2026/01/featured-test-nike-air-zoom-pegasus-40-confort-et-performance.jpg",
+      "url": "https://www.trailjardinsansfin.com/test-nike-air-zoom-pegasus-40-confort-et-performance/"
+    }
+  }
+}

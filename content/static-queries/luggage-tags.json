@@ -1,0 +1,101 @@
+{
+  "slug": "luggage-tags",
+  "query": "best luggage tags",
+  "title": "Best luggage tags | Bin Diving",
+  "description": "AI-dug recommendations for best luggage tags. Compare options and find one that fits.",
+  "dugAt": "2026-03-18T18:44:10.202Z",
+  "recommendations": [
+    {
+      "product_name": "Gostwo Silicone Luggage Tags (8-Pack)",
+      "pros": [
+        "bright, easy-to-spot colors",
+        "privacy flap hides personal info"
+      ],
+      "cons": [
+        "may attract dirt over time",
+        "not as 'premium' as leather"
+      ],
+      "price": null,
+      "amazon_id": "B09WCW55WK",
+      "sources": [
+        "https://bestreviews.com/travel/accessories/best-luggage-tags",
+        "https://bestreviews.com/travel/accessories/best-luggage-tags#Gostwo"
+      ],
+      "amazon_url": "https://www.amazon.com/Silicone-Luggage-Suitcase-Instrument-Gostwo/dp/B09WCW55WK",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/L6ge9BJ7sT_e3uZK1uGG6We9be-M5LTuWStomS3IX3A/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9tLm1l/ZGlhLWFtYXpvbi5j/b20vaW1hZ2VzL0kv/NDFsVGNpN1N4MUwu/anBn",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "Travelambo Faux Leather Luggage Tag (2-Pack)",
+      "pros": [
+        "affordable faux-leather look",
+        "privacy flap with info card"
+      ],
+      "cons": [
+        "strap hardware can loosen if not secured",
+        "not genuine leather (PU)"
+      ],
+      "price": null,
+      "amazon_id": "B08FM9FBFJ",
+      "sources": [
+        "https://www.forbes.com/sites/forbes-personal-shopper/article/best-luggage-tags/",
+        "https://packhacker.com/travel-gear/travelambo/faux-leather-luggage-tag/"
+      ],
+      "amazon_url": "https://www.amazon.com/Travelambo-Leather-Luggage-Case-Tags/dp/B08FM9FBFJ",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/p5ILIc8Zw6PoTTtmrL6ZOomqlRj3sLvLJ4yxA9mmwFY/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9pbWFn/ZXMtbmEuc3NsLWlt/YWdlcy1hbWF6b24u/Y29tL2ltYWdlcy9J/LzgxTzlPU2pXQ0hM/LmpwZw",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "Ovener Aluminum Luggage Tags (set)",
+      "pros": [
+        "very durable aluminum construction",
+        "slim, minimalist look"
+      ],
+      "cons": [
+        "can scratch or dent with heavy handling",
+        "metal may be colder/heavier to touch"
+      ],
+      "price": null,
+      "amazon_id": "B09GKB93FG",
+      "sources": [
+        "https://bestreviews.com/travel/accessories/best-luggage-tags",
+        "https://bestreviews.com/travel/accessories/best-luggage-tags#Ovener"
+      ],
+      "amazon_url": "https://www.amazon.com/Aluminum-Luggage-Perfect-Suitcase-Ovener/dp/B09GKB93FG",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/LQYw_jISaUOywzJTOcsAomWCdoVfgVFt3p8wjpRUfP4/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9tLm1l/ZGlhLWFtYXpvbi5j/b20vaW1hZ2VzL0kv/NzF4TDgyWnBBdEwu/anBn",
+      "resolver": "brave",
+      "valid": true
+    }
+  ],
+  "resolvedLinks": {
+    "https://bestreviews.com/travel/accessories/best-luggage-tags": {
+      "title": "Best Luggage Tags",
+      "description": "The best luggage tags are made of strong, durable material that won’t easily tear away from the bag.",
+      "image": "https://cdn.bestreviews.com/images/v4desktop/chubby/luggage-tags-b2b3ce.jpg",
+      "url": "https://bestreviews.com/travel/accessories/best-luggage-tags"
+    },
+    "https://bestreviews.com/travel/accessories/best-luggage-tags#Gostwo": {
+      "title": "Best Luggage Tags",
+      "description": "The best luggage tags are made of strong, durable material that won’t easily tear away from the bag.",
+      "image": "https://cdn.bestreviews.com/images/v4desktop/chubby/luggage-tags-b2b3ce.jpg",
+      "url": "https://bestreviews.com/travel/accessories/best-luggage-tags"
+    },
+    "https://packhacker.com/travel-gear/travelambo/faux-leather-luggage-tag/": {
+      "title": "Travelambo Faux Leather Luggage Tag | Pack Hacker",
+      "description": "",
+      "image": "https://cdn.packhacker.com/2017/11/pack-hacker-social-share-image.jpg",
+      "url": "https://www.packhacker.com/travel-gear/travelambo/faux-leather-luggage-tag/"
+    },
+    "https://bestreviews.com/travel/accessories/best-luggage-tags#Ovener": {
+      "title": "Best Luggage Tags",
+      "description": "The best luggage tags are made of strong, durable material that won’t easily tear away from the bag.",
+      "image": "https://cdn.bestreviews.com/images/v4desktop/chubby/luggage-tags-b2b3ce.jpg",
+      "url": "https://bestreviews.com/travel/accessories/best-luggage-tags"
+    }
+  }
+}

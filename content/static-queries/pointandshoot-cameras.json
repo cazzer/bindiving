@@ -1,0 +1,128 @@
+{
+  "slug": "pointandshoot-cameras",
+  "query": "best point‑and‑shoot cameras",
+  "title": "Best point‑and‑shoot cameras | Bin Diving",
+  "description": "AI-dug recommendations for best point‑and‑shoot cameras. Compare options and find one that fits.",
+  "dugAt": "2026-03-18T18:51:43.621Z",
+  "recommendations": [
+    {
+      "product_name": "Fujifilm X100VI",
+      "pros": [
+        "Excellent image quality from APS-C sensor",
+        "Pocketable fixed 23mm f/2 lens with ND filter",
+        "Hybrid optical/electronic viewfinder, IBIS for handheld shots"
+      ],
+      "cons": [
+        "Expensive and often hard to find",
+        "Fixed focal length limits versatility",
+        "Some users report autofocus and battery-life complaints"
+      ],
+      "price": "$1,599.95",
+      "amazon_id": "B0CW17YXLS",
+      "sources": [
+        "https://www.rtings.com/camera/reviews/fujifilm/x100vi",
+        "https://www.techradar.com/cameras/mirrorless-cameras/fujifilm-x100vi-review",
+        "https://en.wikipedia.org/wiki/Fujifilm_X100"
+      ],
+      "amazon_url": "https://www.amazon.com/Fujifilm-X100VI-Digital-Camera-Silver/dp/B0CW17YXLS",
+      "gpt_azn": "B0CW17YXLS",
+      "image_url": "https://imgs.search.brave.com/3w6GP0VvVBnO4x1VHgeEbRmEOPnXQWdL0s25Bs02Fbo/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9jZG4u/bW9zLmNtcy5mdXR1/cmVjZG4ubmV0L3Bo/SnllWHpaU0VEaU55/Z1ZWUFRKeUMuanBn",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "Sony Cyber-shot RX100 VII (DSC-RX100M7)",
+      "pros": [
+        "Very compact with 24–200mm equivalent zoom",
+        "Fast, modern autofocus and 20fps burst",
+        "4K video and excellent overall performance for size"
+      ],
+      "cons": [
+        "High price for a compact",
+        "Smaller 1.0-type sensor vs APS-C alternatives",
+        "Menus and controls can be complex for beginners"
+      ],
+      "price": null,
+      "amazon_id": "B07VPQV7BY",
+      "sources": [
+        "https://www.dpreview.com/reviews/sony-cyber-shot-dsc-rx100-vii-review",
+        "https://www.techradar.com/best/best-point-and-shoot-camera",
+        "https://www.photographyblog.com/reviews/sony_cybershot_rx100_vii_review"
+      ],
+      "amazon_url": "https://www.amazon.com/Sony-Premium-Compact-1-0-type-DSCRX100M7/dp/B07VPQV7BY",
+      "gpt_azn": "B07VLJ5JDV",
+      "image_url": "https://imgs.search.brave.com/8a9VNNtzuCEaPHr8ISdy_IRdDqVTrh-wKb3X6MaupiI/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9pLmVi/YXlpbWcuY29tL2lt/YWdlcy9nL1d1OEFB/ZVN3c0dacHJGdnMv/cy1sNDAwLndlYnA",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "Canon PowerShot G7 X Mark III",
+      "pros": [
+        "Strong video features for vloggers (4K, vertical video support)",
+        "Bright 1.0-inch sensor with f/1.8–2.8 lens",
+        "Compact, easy-to-hold body with tilt touchscreen"
+      ],
+      "cons": [
+        "No built-in electronic viewfinder",
+        "Autofocus and stabilization not as advanced as newer models",
+        "Aging design compared with 2024–26 compacts"
+      ],
+      "price": null,
+      "amazon_id": "B07TKNCQZL",
+      "sources": [
+        "https://www.tomsguide.com/cameras-photography/canon-powershot-g7-x-mark-iii-still-worth-it-in-2026",
+        "https://www.techradar.com/reviews/canon-powershot-g7-x-mark-iii",
+        "https://www.dpreview.com/products/canon/compacts/canon_g7xiii/review"
+      ],
+      "amazon_url": "https://www.amazon.com/Canon-PowerShot-Digital-Camera-Screen/dp/B07TKNCQZL",
+      "gpt_azn": "B07TKNCQZL",
+      "image_url": "https://imgs.search.brave.com/RQWDde67Vm1pRHo6SzdSZxe20VTw-hEqs0dMjuC2QA4/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9jZG4u/bW9zLmNtcy5mdXR1/cmVjZG4ubmV0L2Nt/RjZvd2J5VVI2aFlx/V25jdWlVN0guanBn",
+      "resolver": "brave",
+      "valid": true
+    }
+  ],
+  "resolvedLinks": {
+    "https://www.rtings.com/camera/reviews/fujifilm/x100vi": {
+      "title": "Fujifilm X100VI Review",
+      "description": "The Fujifilm X100VI is the long-awaited follow-up to the incredibly popular Fujifilm X100V. With a brand new 40.2-megapixel sensor—the same one found in the Fuji...",
+      "image": "https://i.rtings.com/assets/products/CZIwnNpx/fujifilm-x100vi/design-medium.jpg?format=auto",
+      "url": "https://www.rtings.com/camera/reviews/fujifilm/x100vi"
+    },
+    "https://www.techradar.com/cameras/mirrorless-cameras/fujifilm-x100vi-review": {
+      "title": "Fujifilm X100VI review: everyday delight",
+      "description": "The best premium compact for most people just hit new heights",
+      "image": "https://cdn.mos.cms.futurecdn.net/NydLEyqVu3nYNmWiMmcuwH-1920-80.jpg",
+      "url": "https://www.techradar.com/cameras/mirrorless-cameras/fujifilm-x100vi-review"
+    },
+    "https://en.wikipedia.org/wiki/Fujifilm_X100": {
+      "title": "Fujifilm X100 - Wikipedia",
+      "description": "",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/6/63/Fujifilm_X100_001.jpg",
+      "url": "https://en.wikipedia.org/wiki/Fujifilm_X100"
+    },
+    "https://www.techradar.com/best/best-point-and-shoot-camera": {
+      "title": "Forget your smartphone – these simple point-and-shoot cameras offer a better photography experience",
+      "description": "From travel zooms to premium models, we've tested a range of point-and-shoot cameras for all budgets and picked our favorites",
+      "image": "https://cdn.mos.cms.futurecdn.net/z2Nwxg5G4HVoFkTU9LrqtX-1920-80.jpg",
+      "url": "https://www.techradar.com/best/best-point-and-shoot-camera"
+    },
+    "https://www.photographyblog.com/reviews/sony_cybershot_rx100_vii_review": {
+      "title": "Sony Cyber-shot RX100 VII Review | Photography Blog",
+      "description": "Expert review of the Sony Cyber-shot RX100 VII compact camera with full-size sample images and videos.",
+      "image": "https://www.photographyblog.com/uploads/entryImages/_1200x630_fit_center-center_90_none/sony_cybershot_rx100_vii_hands_on.jpg",
+      "url": "https://www.photographyblog.com/reviews/sony_cybershot_rx100_vii_review"
+    },
+    "https://www.tomsguide.com/cameras-photography/canon-powershot-g7-x-mark-iii-still-worth-it-in-2026": {
+      "title": "Seven years later, the Canon PowerShot G7 X Mark III is still TikTok’s favorite compact camera — here’s how it holds up in 2026",
+      "description": "So popular that it's nearly impossible to buy it new",
+      "image": "https://cdn.mos.cms.futurecdn.net/uKB5bEV9VWRAdRnZYWLo5X-1920-80.jpg",
+      "url": "https://www.tomsguide.com/cameras-photography/canon-powershot-g7-x-mark-iii-still-worth-it-in-2026"
+    },
+    "https://www.techradar.com/reviews/canon-powershot-g7-x-mark-iii": {
+      "title": "Canon PowerShot G7 X Mark III review",
+      "description": "Canon's most video-focused PowerShot yet",
+      "image": "https://cdn.mos.cms.futurecdn.net/ZMNnT3ryPXQYQFJRVjAWDV-2000-80.jpg",
+      "url": "https://www.techradar.com/reviews/canon-powershot-g7-x-mark-iii"
+    }
+  }
+}

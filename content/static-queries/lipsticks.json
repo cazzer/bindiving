@@ -1,0 +1,103 @@
+{
+  "slug": "lipsticks",
+  "query": "best lipsticks",
+  "title": "Best lipsticks | Bin Diving",
+  "description": "AI-dug recommendations for best lipsticks. Compare options and find one that fits.",
+  "dugAt": "2026-03-18T18:15:11.252Z",
+  "recommendations": [
+    {
+      "product_name": "NYX Professional Makeup Soft Matte Lip Cream (Cannes)",
+      "pros": [
+        "Lightweight matte finish",
+        "Wide shade range",
+        "Budget-friendly"
+      ],
+      "cons": [
+        "Can be drying for some",
+        "Not fully transfer-proof"
+      ],
+      "price": "$6.97",
+      "amazon_id": "B00IAKBG82",
+      "sources": [
+        "https://us.amazon.com/NYX-PROFESSIONAL-MAKEUP-Matte-Cannes/dp/B00IAKBG82"
+      ],
+      "amazon_url": "https://www.amazon.com/NYX-PROFESSIONAL-MAKEUP-Matte-Cannes/dp/B00IAKBG82",
+      "gpt_azn": "B00IAKBG82",
+      "image_url": "https://imgs.search.brave.com/t6QTu62JhHQsejcS5PEF71e0sfMEzqs88rxdDhJ8Ido/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly93d3cu/a3JvZ2VyLmNvbS9w/cm9kdWN0L2ltYWdl/cy9sYXJnZS9mcm9u/dC8wMDgwMDg5Nzgy/OTk3",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "Maybelline New York Color Sensational Lipstick",
+      "pros": [
+        "Creamy, hydrating finish",
+        "Great value",
+        "Many popular shades"
+      ],
+      "cons": [
+        "May require touch-ups after meals",
+        "Shade variation across batches"
+      ],
+      "price": "$4.74",
+      "amazon_id": "B00N6YEI6O",
+      "sources": [
+        "https://www.amazon.com/dp/B0169YYQL4"
+      ],
+      "amazon_url": "https://www.amazon.com/Maybelline-New-York-Sensational-Lipstick/dp/B00N6YEI6O",
+      "gpt_azn": "B0169YYQL4",
+      "image_url": "https://imgs.search.brave.com/2FWKONQ1Gzmx3nm3QJr941TJIuApegh3awHPunsaYzA/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9tLm1l/ZGlhLWFtYXpvbi5j/b20vaW1hZ2VzL0kv/MzFFTCtsZDNKS0wu/anBn",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "Clinique Almost Lipstick (Black Honey)",
+      "pros": [
+        "Universally flattering sheer stain",
+        "Comfortable balm-like formula",
+        "Cult-favorite shade"
+      ],
+      "cons": [
+        "Not long-wearing for some",
+        "Higher price vs drugstore balms"
+      ],
+      "price": "$21.00",
+      "amazon_id": "B0032RMX3U",
+      "sources": [
+        "https://www.temptalia.com/product/clinique-almost-lipstick/black-honey/",
+        "https://www.yahoo.com/lifestyle/viral-clinique-black-honey-lipstick-194400176.html",
+        "https://www.amazon.com/dp/B0F9D2R74D"
+      ],
+      "amazon_url": "https://www.amazon.com/Clinique-Almost-Lipstick-Black-Honey/dp/B0032RMX3U",
+      "gpt_azn": "B0F9D2R74D",
+      "image_url": "https://imgs.search.brave.com/eIdHkyb4En3B8yuE42UKiHmi0UWV6sDsVmudrej49Hc/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9tZWRp/YS1jbGRucnkucy1u/YmNuZXdzLmNvbS9p/bWFnZS91cGxvYWQv/dF9maXQtNTYwdyxm/X2F1dG8scV9hdXRv/OmJlc3Qvcm9ja2Nt/cy8yMDI1LTA3LzI1/MDcyOS1kZWFsLW9m/LXRoZS1kYXktYmxh/Y2staG9uZXktdmwt/bWFpbi0yMDQ0ODMu/anBn",
+      "resolver": "brave",
+      "valid": true
+    }
+  ],
+  "resolvedLinks": {
+    "https://us.amazon.com/NYX-PROFESSIONAL-MAKEUP-Matte-Cannes/dp/B00IAKBG82": {
+      "title": "Amazon.com : NYX PROFESSIONAL MAKEUP Soft Matte Lip Cream, Lightweight Liquid Lipstick - Cannes (Matte Muted Mauve) : Beauty & Personal Care",
+      "description": "",
+      "image": "",
+      "url": "https://us.amazon.com/NYX-PROFESSIONAL-MAKEUP-Matte-Cannes/dp/B00IAKBG82"
+    },
+    "https://www.amazon.com/dp/B0169YYQL4": {
+      "title": "Amazon.com : Maybelline Color Sensational Lipstick, Lip Makeup, Cream Finish, Hydrating Lipstick, Romantic Rose, Pink ,1 Count : Beauty & Personal Care",
+      "description": "",
+      "image": "",
+      "url": "https://www.amazon.com/dp/B0169YYQL4"
+    },
+    "https://www.yahoo.com/lifestyle/viral-clinique-black-honey-lipstick-194400176.html": {
+      "title": "Yeah I Said It: Clinique’s Black Honey Lipstick Is the Best Lipstick I’ve Ever Used (And It’s on Sale Right Now)",
+      "description": "Now through Sunday, April 20, Clinique is offering 25% off makeup—including one of my favorite products of all time, Almost Lipstick in Black Honey.",
+      "image": "https://s.yimg.com/ny/api/res/1.2/7lanjrb3txVeR4pfkKiTlA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU7Y2Y9d2VicA--/https://media.zenfs.com/en/cosmopolitan_ecomm_articles_400/108ae04b8569d97530e84502b8b50d07",
+      "url": "https://www.yahoo.com/lifestyle/viral-clinique-black-honey-lipstick-194400176.html"
+    },
+    "https://www.amazon.com/dp/B0F9D2R74D": {
+      "title": "Amazon.com: Clinique Almost Lipstick Tinted Lip Balm in Nude Honey | Sheer + Lightweight : Everything Else",
+      "description": "",
+      "image": "",
+      "url": "https://www.amazon.com/dp/B0F9D2R74D"
+    }
+  }
+}

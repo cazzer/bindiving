@@ -1,0 +1,107 @@
+{
+  "slug": "telescopes",
+  "query": "best telescopes",
+  "title": "Best telescopes | Bin Diving",
+  "description": "AI-dug recommendations for best telescopes. Compare options and find one that fits.",
+  "dugAt": "2026-03-18T18:45:56.065Z",
+  "recommendations": [
+    {
+      "product_name": "Celestron NexStar 8SE Computerized Telescope",
+      "pros": [
+        "Large 8\" aperture for bright views",
+        "Fully automated GoTo with object database",
+        "Strong community and support"
+      ],
+      "cons": [
+        "Bulkier and heavier",
+        "More expensive than beginner scopes",
+        "Mount can take time to polar align for astrophotography"
+      ],
+      "price": null,
+      "amazon_id": "B000GUFOC8",
+      "sources": [
+        "https://www.livescience.com/technology/best-beginner-telescopes",
+        "https://www.livescience.com/technology/cheaper-than-prime-day-our-favorite-telescope-is-now-usd300-off-at-amazon"
+      ],
+      "amazon_url": "https://www.amazon.com/Celestron-11069-Computerised-Schmidt-Cassegrain-Technology/dp/B000GUFOC8",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/w_IdVEe9btRdHS29K433VQpwaMnX0xCJsK4iqhFeGb0/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly93d3cu/d2V4cGhvdG92aWRl/by5jb20vZ2xvYmFs/YXNzZXRzL3Byb2R1/Y3QtaW1hZ2VzLzE1/MzQwMDAvMTUzNDA0/MS0zLmpwZz92ZXI9/NjM4MzYxNjE0NDUw/MDAwMDAwJndpZHRo/PTUwMA",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "Celestron StarSense Explorer DX 130AZ Newtonian Reflector",
+      "pros": [
+        "Great all‑rounder for beginners",
+        "App-assisted StarSense alignment simplifies finding objects",
+        "Good aperture-to-price ratio"
+      ],
+      "cons": [
+        "Not ideal for advanced astrophotography",
+        "Smartphone app can drain battery",
+        "Basic mount limits long-exposure imaging"
+      ],
+      "price": null,
+      "amazon_id": "B083JRF1MH",
+      "sources": [
+        "https://www.digitalcameraworld.com/buying-guides/best-telescopes-for-astrophotography",
+        "https://www.livescience.com/technology/best-beginner-telescopes"
+      ],
+      "amazon_url": "https://www.amazon.com/Celestron-StarSense-Smartphone-App-Enabled-Compatible/dp/B083JRF1MH",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/bUQu4eQBAWGqL4eoisPN2vQYamNlw3uvJAcaFjUyOmA/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9tLm1l/ZGlhLWFtYXpvbi5j/b20vaW1hZ2VzL0kv/NTFiLWtiVUxldEwu/anBn",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "Sky-Watcher SkyMax-180 PRO Maksutov-Cassegrain",
+      "pros": [
+        "Excellent planetary detail and contrast",
+        "Long focal length good for high magnification",
+        "Low chromatic aberration for sharp images"
+      ],
+      "cons": [
+        "Mount and eyepieces often sold separately",
+        "Heavier and less portable than small refractors",
+        "Higher price point for a complete kit"
+      ],
+      "price": null,
+      "amazon_id": "B00Z4HVTT0",
+      "sources": [
+        "https://www.digitalcameraworld.com/buying-guides/best-telescopes-for-astrophotography",
+        "https://www.telescopeadvisor.com/telescope-advisor-awards-2025.php"
+      ],
+      "amazon_url": "https://www.amazon.com/SkyWatcher-S11540-Maksutov-Cassegrain-180mm-Black/dp/B00Z4HVTT0",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/aRzsxHry9QBBC3p8InyLF6kI5DuRrNAGHGj33ZSvdJQ/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9jMDIu/cHVycGxlZHNodWIu/Y29tL3VwbG9hZHMv/c2l0ZXMvNDgvMjAx/OS8xMS9Ta3ktV2F0/Y2hlci1Ta3lNYXgt/MTgwLVByby1NYWst/ZmY0Mzc4NS5qcGc_/d2VicD0xJnc9MTIw/MA",
+      "resolver": "brave",
+      "valid": true
+    }
+  ],
+  "resolvedLinks": {
+    "https://www.livescience.com/technology/best-beginner-telescopes": {
+      "title": "Best beginner telescopes 2026: Easy and enjoyable stargazing",
+      "description": "Start exploring the night sky with our top picks for beginner-friendly telescopes — perfect for the bloon moon eclipse.",
+      "image": "https://cdn.mos.cms.futurecdn.net/4oHtBxjYvMbLGeFiGCroEJ-2133-80.jpg",
+      "url": "https://www.livescience.com/technology/best-beginner-telescopes"
+    },
+    "https://www.livescience.com/technology/cheaper-than-prime-day-our-favorite-telescope-is-now-usd300-off-at-amazon": {
+      "title": "The world's most beloved telescope is now the cheapest since January",
+      "description": "Our favorite telescope, the Celestron NexStar 8SE, is now just $1,399 at Amazon.",
+      "image": "https://cdn.mos.cms.futurecdn.net/NXTfsKETpF3nwBF3xqm4sV-2133-80.jpg",
+      "url": "https://www.livescience.com/technology/cheaper-than-prime-day-our-favorite-telescope-is-now-usd300-off-at-amazon"
+    },
+    "https://www.digitalcameraworld.com/buying-guides/best-telescopes-for-astrophotography": {
+      "title": "The best telescopes for astrophotography and stargazing in 2026",
+      "description": "Study or photograph the cosmos close up, with the best telescopes for astrophotography and stargazing",
+      "image": "https://cdn.mos.cms.futurecdn.net/pnPJ3HTkfsk3yZ9hMtvEmg-2560-80.jpg",
+      "url": "https://www.digitalcameraworld.com/buying-guides/best-telescopes-for-astrophotography"
+    },
+    "https://www.telescopeadvisor.com/telescope-advisor-awards-2025.php": {
+      "title": "TelescopeAdvisor Awards 2025: The Best Telescopes of the Year Revealed - Telescope Advisor",
+      "description": "Discover the TelescopeAdvisor Awards 2025 winners—top telescopes for beginners, astrophotography, best sellers, and more. See the best scopes of the year now!",
+      "image": "https://www.telescopeadvisor.com/images/telescope_awards_2025.webp",
+      "url": "https://www.telescopeadvisor.com/telescope-advisor-awards-2025.php"
+    }
+  }
+}

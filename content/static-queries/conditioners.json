@@ -1,0 +1,98 @@
+{
+  "slug": "conditioners",
+  "query": "best conditioners",
+  "title": "Best conditioners | Bin Diving",
+  "description": "AI-dug recommendations for best conditioners. Compare options and find one that fits.",
+  "dugAt": "2026-03-18T18:20:49.625Z",
+  "recommendations": [
+    {
+      "product_name": "OLAPLEX No.5 Bond Maintenance Conditioner",
+      "pros": [
+        "Repairs and strengthens bonds",
+        "Lightweight hydration",
+        "Safe for color-treated hair"
+      ],
+      "cons": [
+        "Pricey",
+        "Some users report mixed results depending on hair type"
+      ],
+      "price": null,
+      "amazon_id": "B07D37SBHF",
+      "sources": [
+        "https://olaplex.com/products/bond-maintenance-conditioner-no-5",
+        "https://www.whowhatwear.com/beauty/hair/best-conditioners"
+      ],
+      "amazon_url": "https://www.amazon.com/Olaplex-No-5-Bond-Maintenance-Conditioner/dp/B07D37SBHF",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/Dwf0W87Tpb1ngbOrEdlnsNPKFac1EwtF8c-NeFUvCMo/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9yZXZp/dmVoYWlybG9mdC5j/b20vY2RuL3Nob3Av/cHJvZHVjdHMvbjUt/ZnJvbnRfODAweF82/YjE5ZGRkOC1lZWUw/LTQ5ODUtYmNlYS1m/ZTYxMWY1YTg4ZmRf/MTAyNHgxMDI0Lmpw/Zz92PTE3NTQ5NzYw/NTk",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "Pureology Hydrate Conditioner",
+      "pros": [
+        "Deep hydration for dry/color-treated hair",
+        "Sulfate-free, vegan formula",
+        "Reputable salon brand"
+      ],
+      "cons": [
+        "Can irritate sensitive scalps for some users",
+        "Higher-end price point"
+      ],
+      "price": null,
+      "amazon_id": "B0891BBRHW",
+      "sources": [
+        "https://www.pureology.com/hydrate-conditioner-dry-hair-moisturizing/PPDPUR884486437150.html",
+        "https://www.sephora.com/product/P461603"
+      ],
+      "amazon_url": "https://www.amazon.com/Pureology-Hydrate-Moisturizing-Conditioner-Ounces/dp/B0891BBRHW",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/aXERCa3resbyFyQNzg1a0PeSO8yjXPUNKA6tEYrV0qY/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly84YzM0/MTJkNzYyMjVkMDRk/N2JhYS1iZTk4YjZl/YTE3OTIwOTUzZmI5/MzEyODJlZmY5YTY4/MS5pbWFnZXMubG92/ZWx5c2tpbi5jb20v/bmZiemRlZnhfMjAy/NTAyMDMxNjUxNDA0/MTg3LmpwZw",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "Moroccanoil Hydrating Conditioner",
+      "pros": [
+        "Nourishing argan oil formula",
+        "Improves manageability and shine",
+        "Widely praised in user reviews"
+      ],
+      "cons": [
+        "Fragrance may be strong for some",
+        "Considered a luxury-priced option"
+      ],
+      "price": null,
+      "amazon_id": "B0098QQ88U",
+      "sources": [
+        "https://www.influenster.com/reviews/moroccanoil-hydrating-conditioner",
+        "https://shopsavvy.com/reviews-tldr/moroccanoil-conditioner"
+      ],
+      "amazon_url": "https://www.amazon.com/Moroccan-Oil-Hydrating-Conditioner-Ounce/dp/B0098QQ88U",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/9pXRvzsCltg27v-dMBKR6clP34bukKt3PVWSVCv9jBI/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly93d3cu/c2Fsb24tc2Vydmlj/ZXMuY29tL2R3L2lt/YWdlL3YyL0JCVFhf/UFJEL29uL2RlbWFu/ZHdhcmUuc3RhdGlj/Ly0vU2l0ZXMtc2Fs/bHktbWFzdGVyLWNh/dGFsb2cvZGVmYXVs/dC9kdzdiM2QyODUy/L2ltYWdlcy9vcmln/aW5hbC84MTg2MTdf/MC5qcGc_c3c9MTAw/MCZzaD0xMDAw",
+      "resolver": "brave",
+      "valid": true
+    }
+  ],
+  "resolvedLinks": {
+    "https://olaplex.com/products/bond-maintenance-conditioner-no-5": {
+      "title": "Pro Exclusive: Nº.5 Bond Maintenance® Conditioner – OLAPLEX Inc.",
+      "description": "Get Pro Exclusive Nº.5 Bond Maintenance® Conditioner at your salon. This moisturizing and reparative bonding conditioner leaves hair easier to manage, shinier, and healthier with each use.",
+      "image": "https://olaplex.com/cdn/shop/files/1-N5_product_1440.png?v=1762271837",
+      "url": "https://olaplex.com/products/bond-maintenance-conditioner-no-5"
+    },
+    "https://www.whowhatwear.com/beauty/hair/best-conditioners": {
+      "title": "After Sifting Through Dozens of Conditioners, Our Editors Discovered the All-Time Best 9",
+      "description": "Conditioners help revive hair by adding moisture and nutrients. After testing dozens, here are the nine that beauty editors can't live without.",
+      "image": "https://cdn.mos.cms.futurecdn.net/ZbimCgDzmowXEUtzWbxFWX-1000-80.png",
+      "url": "https://www.whowhatwear.com/beauty/hair/best-conditioners"
+    },
+    "https://shopsavvy.com/reviews-tldr/moroccanoil-conditioner": {
+      "title": "Moroccanoil Conditioner - ShopSavvy TLDR Review",
+      "description": "Pros:\n\n- Leaves hair silky smooth, soft, and well-moisturized without feeling heavy\n- Reduces frizz and improves hair shine noticeably\n- Pleasant, light, and appealing fragrance praised by many users\n...",
+      "image": "https://x.shopsavvy.com/https://x.shopsavvy.com/https://m.media-amazon.com/images/I/61SYA3rhLcL._AC_UL320_.jpg",
+      "url": "https://shopsavvy.com/reviews-tldr/moroccanoil-conditioner"
+    }
+  }
+}

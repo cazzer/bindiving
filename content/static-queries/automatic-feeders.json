@@ -1,0 +1,91 @@
+{
+  "slug": "automatic-feeders",
+  "query": "best automatic feeders",
+  "title": "Best automatic feeders | Bin Diving",
+  "description": "AI-dug recommendations for best automatic feeders. Compare options and find one that fits.",
+  "dugAt": "2026-03-18T19:10:28.465Z",
+  "recommendations": [
+    {
+      "product_name": "Whisker Feeder-Robot (Feeder-Robot)",
+      "pros": [
+        "App-controlled scheduling",
+        "Large capacity",
+        "Good safety features"
+      ],
+      "cons": [
+        "High price",
+        "Bulky size"
+      ],
+      "price": null,
+      "amazon_id": "B09382DHHY",
+      "sources": [
+        "https://www.nationalgeographic.com/lifestyle/article/best-automatic-cat-feeder"
+      ],
+      "amazon_url": "https://www.amazon.com/Feeder-Robot-Whisker-White-Smoke-Hopper/dp/B09382DHHY",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/Qqo_XxP8r0fNJUoDZphGTDmT8l_fyI0CN7UaChAb0Xk/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly93d3cu/cm92ZXIuY29tL2Js/b2cvd3AtY29udGVu/dC91cGxvYWRzL2Nv/bnRyb2wtcGFuZWwt/MTAyNHg2ODMuanBn",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "PetSafe Healthy Pet Simply Feed Automatic Feeder",
+      "pros": [
+        "Reliable portion control",
+        "Multiple portion settings",
+        "Widely available and affordable"
+      ],
+      "cons": [
+        "Not ideal for very large kibble",
+        "Limited smart features on basic model"
+      ],
+      "price": null,
+      "amazon_id": "B00VIXRB6O",
+      "sources": [
+        "https://petscluster.com/2024/03/review-petsafe-simply-feed-automatic-feeder",
+        "https://www.reddit.com/r/CatAdvice/comments/17ji5qu"
+      ],
+      "amazon_url": "https://www.amazon.com/PetSafe-Healthy-Automatic-Dispenses-Digital/dp/B00VIXRB6O",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/owt-iyPc1ink5VMMi8dCqeKa0f3UgXifUzT4ESekx5Y/rs:fit:0:180:1:0/g:ce/aHR0cHM6Ly9pLmVi/YXlpbWcuY29tL2lt/YWdlcy9nL2xuOEFB/T1N3cEFGZ3R5UkUv/cy1sMjI1LmpwZw",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "SureFeed Microchip Pet Feeder (Sure Petcare)",
+      "pros": [
+        "Microchip/RFID selective access",
+        "Keeps food fresh with sealed design",
+        "Good for multi-pet selective feeding"
+      ],
+      "cons": [
+        "Expensive",
+        "Some users report occasional reliability/motor issues"
+      ],
+      "price": null,
+      "amazon_id": "B00O0UIPTY",
+      "sources": [
+        "https://petpidia.com/surefeed-microchip-cat-feeder-reviews/",
+        "https://www.chewy.com/surefeed-microchip-small-dog-cat/product-reviews/157144"
+      ],
+      "amazon_url": "https://www.amazon.com/Sure-Petcare-SureFlap-Selective-Automatic-Stress-Free/dp/B00O0UIPTY",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/gjIpl5759hzTlZaSPcsdLAerZmh0vIy4tKsSv5NvlWo/rs:fit:0:180:1:0/g:ce/aHR0cHM6Ly9pLmVi/YXlpbWcuY29tL2lt/YWdlcy9nLzVzNEFB/ZVN3bXd0cFpUOXAv/cy1sMjI1LmpwZw",
+      "resolver": "brave",
+      "valid": true
+    }
+  ],
+  "resolvedLinks": {
+    "https://www.reddit.com/r/CatAdvice/comments/17ji5qu": {
+      "title": "Reddit - The heart of the internet",
+      "description": "",
+      "image": "",
+      "url": "https://www.reddit.com/r/CatAdvice/comments/17ji5qu/"
+    },
+    "https://petpidia.com/surefeed-microchip-cat-feeder-reviews/": {
+      "title": "Surefeed Microchip Cat Feeder Reviews: Pros & Cons 2026 - PetPidia",
+      "description": "Surefeed Microchip Cat Feeder Reviews: hands-on pros and cons, setup advice, and price/value insights so you can buy with confidence in 2026.",
+      "image": "https://petpidia.com/wp-content/uploads/2026/01/31FN1CHHz9L._SL500_.jpg",
+      "url": "https://petpidia.com/surefeed-microchip-cat-feeder-reviews/"
+    }
+  }
+}

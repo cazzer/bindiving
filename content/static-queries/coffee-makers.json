@@ -1,0 +1,104 @@
+{
+  "slug": "coffee-makers",
+  "query": "best coffee makers",
+  "title": "Best coffee makers | Bin Diving",
+  "description": "AI-dug recommendations for best coffee makers. Compare options and find one that fits.",
+  "dugAt": "2026-03-18T17:08:51.183Z",
+  "recommendations": [
+    {
+      "product_name": "Fellow Aiden Precision Coffee Maker",
+      "pros": [
+        "Pour-over quality automatically",
+        "SCA-certified brewing profile"
+      ],
+      "cons": [
+        "Higher price",
+        "Newer model with occasional firmware/app issues"
+      ],
+      "price": null,
+      "amazon_id": "B0D8HVBVS6",
+      "sources": [
+        "https://www.bonappetit.com/story/best-drip-coffee-makers",
+        "https://fellowproducts.com/products/aiden-precision-coffee-maker",
+        "https://www.tomsguide.com/home/coffee-makers/our-number-one-coffee-maker-now-comes-in-these-sophisticated-new-shades-and-i-want-one-in-every-color"
+      ],
+      "amazon_url": "https://www.amazon.com/Fellow-Aiden-Precision-Coffee-Built/dp/B0D8HVBVS6",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/Bx6bq9KpCltyMdN5vuxijZW561TeW0A47PtGbAjKVOs/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9pLmVi/YXlpbWcuY29tL2lt/YWdlcy9nL1pId0FB/ZVN3TzAxcGZqd1Mv/cy1sMjI1LmpwZw",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "Technivorm Moccamaster KBGV Select (Moccamaster)",
+      "pros": [
+        "Consistent, high-temperature brewing",
+        "Durable, long-lasting build"
+      ],
+      "cons": [
+        "Premium price",
+        "Limited programmability compared with smart brewers"
+      ],
+      "price": null,
+      "amazon_id": "B093DYPBYR",
+      "sources": [
+        "https://www.productreviewcrew.com/review/best-coffee-makers-2025-compared",
+        "https://www.roast.love/products/b093dypbyr-technivorm-moccamaster-kbgv-select-10-cup-coffee-maker",
+        "https://www.sfgate.com/shopping/article/best-coffee-makers-20221950.php"
+      ],
+      "amazon_url": "https://www.amazon.com/Moccamaster-53941-Select-10-Cup-Polished/dp/B093DYPBYR",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/tWBF5oajrHq59u7O55ePLzElpD7awocpmkO4C-hjovY/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9jZG4u/c2hvcGlmeS5jb20v/cy9maWxlcy8xLzE0/OTMvMTEyMC9maWxl/cy9TaWx2ZXJNb2Nj/YW1hc3Rlci5qcGc_/dj0xNzU3NTQ1MDgz/JndpZHRoPTQwMA",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "OXO Brew 9-Cup Coffee Maker",
+      "pros": [
+        "SCA-recognized brew quality",
+        "User-friendly features (pause-and-pour, timer)"
+      ],
+      "cons": [
+        "Glass carafe can run cool",
+        "Fewer advanced smart features"
+      ],
+      "price": null,
+      "amazon_id": "B00YEYKK8U",
+      "sources": [
+        "https://www.forbes.com/sites/forbes-personal-shopper/article/best-drip-coffee-makers/",
+        "https://www.oxo.com/shop/coffee-beverage/oxo-brew-9-cup-coffee-maker-matte-black.html",
+        "https://honestcoffeereviews.com/oxo-brew-9-cup-coffee-maker-review/"
+      ],
+      "amazon_url": "https://www.amazon.com/OXO-Barista-Brain-Coffee-Maker/dp/B00YEYKK8U",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/Ue1dtEuOw7Qr_TV04mkBeeCYf6IEOd1MRB0bAAHqSqo/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9pLmVi/YXlpbWcuY29tL2lt/YWdlcy9nL0tUQUFB/ZVN3WVY5cE5LMncv/cy1sNDAwLndlYnA",
+      "resolver": "brave",
+      "valid": true
+    }
+  ],
+  "resolvedLinks": {
+    "https://www.bonappetit.com/story/best-drip-coffee-makers": {
+      "title": "The Best Drip Coffee Makers for When You Need a Delicious Cup Right Now",
+      "description": "Coffee doesn't need to be hard to be delicious.",
+      "image": "https://assets.bonappetit.com/photos/6721a1a1d64d2bb7387c9614/16:9/w_1280,c_limit/best-drip-coffee-makers_LEDE_V5_102324_2223_VOG_NoBadge_final.jpg",
+      "url": "https://www.bonappetit.com/story/best-drip-coffee-makers"
+    },
+    "https://fellowproducts.com/products/aiden-precision-coffee-maker": {
+      "title": "Aiden Precision Electric Coffee Maker – Fellow",
+      "description": "The easiest way to get a quality pour-over is here. The Aiden Precision Electric Coffee Maker puts your morning brew only a button press away. Reserve yours now.",
+      "image": "http://fellowproducts.com/cdn/shop/files/Web_PDP_Aiden_Black_1.png?v=1773352095",
+      "url": "https://fellowproducts.com/products/aiden-precision-coffee-maker"
+    },
+    "https://www.tomsguide.com/home/coffee-makers/our-number-one-coffee-maker-now-comes-in-these-sophisticated-new-shades-and-i-want-one-in-every-color": {
+      "title": "Our number one coffee maker now comes in these sophisticated new shades, and I want one in every color",
+      "description": "The Fellow Aiden just got even more stylish",
+      "image": "https://cdn.mos.cms.futurecdn.net/KgMYDzyd9cMB9Yk9N9UFym-1920-80.jpg",
+      "url": "https://www.tomsguide.com/home/coffee-makers/our-number-one-coffee-maker-now-comes-in-these-sophisticated-new-shades-and-i-want-one-in-every-color"
+    },
+    "https://www.sfgate.com/shopping/article/best-coffee-makers-20221950.php": {
+      "title": "The best coffee makers to brew the perfect cup of Joe at home",
+      "description": "The best coffee makers are convenient, easy to use, and brew exactly the style of coffee you like. These are our top picks.",
+      "image": "https://s.hdnux.com/photos/01/47/76/72/27258505/3/rawImage.jpg",
+      "url": "https://www.sfgate.com/shopping/article/best-coffee-makers-20221950.php"
+    }
+  }
+}

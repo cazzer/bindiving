@@ -1,0 +1,110 @@
+{
+  "slug": "electric-toothbrushes",
+  "query": "best electric toothbrushes",
+  "title": "Best electric toothbrushes | Bin Diving",
+  "description": "AI-dug recommendations for best electric toothbrushes. Compare options and find one that fits.",
+  "dugAt": "2026-03-18T18:05:22.722Z",
+  "recommendations": [
+    {
+      "product_name": "Oral‑B iO Series 10 Rechargeable Electric Toothbrush",
+      "pros": [
+        "Advanced real‑time coaching",
+        "Oscillating‑rotating cleaning power",
+        "Multiple cleaning modes"
+      ],
+      "cons": [
+        "Premium price",
+        "Some users report battery/firmware issues"
+      ],
+      "price": null,
+      "amazon_id": "B0C2S65831",
+      "sources": [
+        "https://www.techradar.com/health-fitness/oral-health/best-electric-toothbrush",
+        "https://www.forbes.com/sites/forbes-personal-shopper/article/best-electric-toothbrush//"
+      ],
+      "amazon_url": "https://www.amazon.com/Oral-B-iO-Rechargeable-Electric-Toothbrush/dp/B0C2S65831",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/ruPBaEtkCcdN-qlcIpaaxeaj1YZpYEvelj-SCTRkSJ4/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9jZG4x/MS5iaWdjb21tZXJj/ZS5jb20vcy0yaWRt/aWlsN2JwL2ltYWdl/cy9zdGVuY2lsLzUw/MHg2NTkvcHJvZHVj/dHMvMTMwNS8xMDI5/MS83NjEwODJfVGhl/UHViX09yYWwtQl9U/YWJsZS1Ub3BfaU80/LVNIMDNfTmF0aW9u/YWwtQmxhY2tfeDNf/TUxfU0lNUF9fNjQx/OTVfXzY2ODY1LjE3/NjcwNzQ1NDkuanBn/P2M9MQ",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "Philips Sonicare DiamondClean / 9900 Prestige",
+      "pros": [
+        "High‑end sonic cleaning with SenseIQ/AI features",
+        "Premium build and travel case",
+        "Gentle on gums while effective at plaque removal"
+      ],
+      "cons": [
+        "Expensive replacement brush heads",
+        "High upfront cost"
+      ],
+      "price": null,
+      "amazon_id": "B08YCVJKXV",
+      "sources": [
+        "https://www.techradar.com/reviews/philips-sonicare-9900-prestige",
+        "https://novasmiles.co.uk/blog/philips-sonicare-diamondclean-9900-prestige-review"
+      ],
+      "amazon_url": "https://www.amazon.com/Philips-Sonicare-Rechargeable-Toothbrush-HX9990/dp/B08YCVJKXV",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/b0YeSKcSDIOrGMPbiZ22f_CxXQG_Wvd-zBBM7xwHLQ4/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9tLm1l/ZGlhLWFtYXpvbi5j/b20vaW1hZ2VzL0kv/NDE1V3ZBMWNKUEwu/anBn",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "AquaSonic Black Series Pro (budget/popular option)",
+      "pros": [
+        "Affordable with many brush heads included",
+        "Strong value and popular on Amazon",
+        "Multiple modes and travel case on many bundles"
+      ],
+      "cons": [
+        "Build quality and longevity vary by user reports",
+        "Some third‑party replacement head confusion"
+      ],
+      "price": null,
+      "amazon_id": "B0DH1K553B",
+      "sources": [
+        "https://www.aquasonic.com/products/aquasonic-black-series",
+        "https://health.yahoo.com/your-body/oral-health/teeth-cavities/article/best-electric-toothbrushes-124004384.html"
+      ],
+      "amazon_url": "https://www.amazon.com/Aquasonic-Black-PRO-Ultra-Whitening-Toothbrush/dp/B0DH1K553B",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/8qk3_i0jZJPhmKcApANyOamlIx4-4IRqCOD891ceMPU/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9pLmVi/YXlpbWcuY29tL2lt/YWdlcy9nL2NmMEFB/T1N3d1cxbDBubFQv/cy1sNTAwLnBuZw",
+      "resolver": "brave",
+      "valid": true
+    }
+  ],
+  "resolvedLinks": {
+    "https://www.techradar.com/health-fitness/oral-health/best-electric-toothbrush": {
+      "title": "The best electric toothbrush 2026: Top choices for better brushing",
+      "description": "The best electric toothbrushes for every mouth and every budget",
+      "image": "https://cdn.mos.cms.futurecdn.net/fR4ab3rjFrzNSZv2spmneG-2000-80.jpg",
+      "url": "https://www.techradar.com/health-fitness/oral-health/best-electric-toothbrush"
+    },
+    "https://www.techradar.com/reviews/philips-sonicare-9900-prestige": {
+      "title": "Philips Sonicare 9900 Prestige review",
+      "description": "A chic electric toothbrush that gives real-time feedback, but is heavily reliant on its mobile app",
+      "image": "https://cdn.mos.cms.futurecdn.net/PfHPcbR7hhDzpVaEgExQgE-2560-80.jpg",
+      "url": "https://www.techradar.com/reviews/philips-sonicare-9900-prestige"
+    },
+    "https://novasmiles.co.uk/blog/philips-sonicare-diamondclean-9900-prestige-review": {
+      "title": "Philips Sonicare 9900 Prestige Review (2026) - A Dentist's Thoughts — Nova Smiles",
+      "description": "Dr Zaeem Jafri BDS review the most advanced Philips Sonicare electric toothrbush there is.",
+      "image": "http://static1.squarespace.com/static/5fb7f81c2252132f9d6fa150/t/68e52e25de6d1b64be26c9bf/1759850021832/philips+sonicare+diamondclean+9900+prestige+review1.jpg?format=1500w",
+      "url": "https://novasmiles.co.uk/blog/philips-sonicare-diamondclean-9900-prestige-review"
+    },
+    "https://www.aquasonic.com/products/aquasonic-black-series": {
+      "title": "Black Series Sonic Whitening Toothbrush/ADA Accepted",
+      "description": "Get yourself an ADA accepted, dentist recommended black electric toothbrush with sonic whitening technology and wireless charging.",
+      "image": "http://www.aquasonic.com/cdn/shop/files/LayFlatimageV2_1.jpg?v=1737159307",
+      "url": "https://www.aquasonic.com/products/aquasonic-black-series"
+    },
+    "https://health.yahoo.com/your-body/oral-health/teeth-cavities/article/best-electric-toothbrushes-124004384.html": {
+      "title": "The 10 best electric toothbrushes for 2026, tested and reviewed by dentists",
+      "description": "It's the best electronic toothbrushes, as chosen by dental-health professionals and our own shopping experts.",
+      "image": "https://s.yimg.com/ny/api/res/1.2/bk2ZvPgDsD05KKuazf5zUA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://d29szjachogqwa.cloudfront.net/images/user-uploaded/best-electric-toothbrushes.jpg",
+      "url": "https://health.yahoo.com/your-body/oral-health/teeth-cavities/article/best-electric-toothbrushes-124004384.html"
+    }
+  }
+}

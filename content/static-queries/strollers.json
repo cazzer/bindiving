@@ -1,0 +1,110 @@
+{
+  "slug": "strollers",
+  "query": "best strollers",
+  "title": "Best strollers | Bin Diving",
+  "description": "AI-dug recommendations for best strollers. Compare options and find one that fits.",
+  "dugAt": "2026-03-18T22:35:56.688Z",
+  "recommendations": [
+    {
+      "product_name": "UPPAbaby VISTA V3 Stroller",
+      "pros": [
+        "Versatile full‑size system",
+        "Configurable for double/twins",
+        "High‑quality build"
+      ],
+      "cons": [
+        "Premium price",
+        "Can be heavy when folded"
+      ],
+      "price": null,
+      "amazon_id": "B0D9XSJ5X5",
+      "sources": [
+        "https://www.babygearlab.com/reviews/getting-around/full-size-stroller/uppababy-vista-v3",
+        "https://www.babylist.com/hello-baby/los-mejores-cochecitos"
+      ],
+      "amazon_url": "https://www.amazon.com/UPPAbaby-Vista-Stroller-Single-Double/dp/B0D9XSJ5X5",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/LdoaxEJO-5Hp_3zNF-0Ne36bUWX_0W1EUNtbhsBdncs/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9raWRv/YmViZS5jb20vY2Ru/L3Nob3AvZmlsZXMv/VVBQQUJBQllWaXN0/YVYzU3Ryb2xsZXJn/cmV5c29uXzE0LnBu/Zz92PTE3NzA3MzMz/MDgmd2lkdGg9MjAw/MA",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "Bugaboo Butterfly 2 Travel Stroller",
+      "pros": [
+        "Ultra‑compact one‑hand fold",
+        "Lightweight travel design",
+        "Premium materials and sustainability focus"
+      ],
+      "cons": [
+        "Relatively expensive for a travel stroller",
+        "Smaller wheels less suited to rough terrain"
+      ],
+      "price": null,
+      "amazon_id": "B0F8RBF72G",
+      "sources": [
+        "https://www.tomsguide.com/home/bugaboo-butterfly-2-review",
+        "https://www.bugaboo.com/us-en/strollers/bugaboo-butterfly-2/"
+      ],
+      "amazon_url": "https://www.amazon.com/Bugaboo-Ultra-Compact-One-Second-Lightweight-Airplane-Friendly/dp/B0F8RBF72G",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/kLyXRmtHDOgtxDj1vXJpzqI9p0Ov3MNuYIAsEUxL66c/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9jbXMt/dXBsb2Fkcy5tdW1z/bmV0LmNvbS9jYWNo/ZS9jb250YWluZXJz/L2ltYWdlcy9idWdh/Ym9vLWJ1dHRlcmZs/eS0yLW1haW4ucG5n/L2E2OTNjOWZlNTQ5/MWYwOGU1NzczZTcw/NDA0MzRjMzdhL2J1/Z2Fib28tYnV0dGVy/Zmx5LTItbWFpbi53/ZWJw",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "Nuna TRIV next Stroller",
+      "pros": [
+        "Smooth ride and premium suspension",
+        "Magnetic buckle and thoughtful safety features",
+        "Good from newborn to toddler"
+      ],
+      "cons": [
+        "Higher price tier",
+        "Some accessories sold separately"
+      ],
+      "price": null,
+      "amazon_id": "B0FXLY8NHD",
+      "sources": [
+        "https://nunababy.com/usa/all-products/triv-next-stroller",
+        "https://www.chapinbaby.com/products/nuna-triv-next-stroller-with-magnetic-buckle-thistle-collection"
+      ],
+      "amazon_url": "https://www.amazon.com/Stroller-Compatible-UPPAbaby-Bassinet-Installing/dp/B0FXLY8NHD",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/oZi1PyUsPJ2AhLPnVmE0mm-_oQ3elQibwun-hjdRwXs/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly93d3cu/cHVtcHN0YXRpb24u/Y29tL2Nkbi9zaG9w/L2ZpbGVzL251bmEt/dHJpdi1uZXh0LXN0/cm9sbGVyLTM5OC53/ZWJwP3Y9MTc2OTcz/NTA3OCZ3aWR0aD0z/MjA",
+      "resolver": "brave",
+      "valid": true
+    }
+  ],
+  "resolvedLinks": {
+    "https://www.babygearlab.com/reviews/getting-around/full-size-stroller/uppababy-vista-v3": {
+      "title": "UPPAbaby Vista v3 Review",
+      "description": "The UPPAbaby Vista v3 is a top-ranked full-size stroller. This versatile, high-quality stroller can accommodate an additional seat, bassinet, infant car...",
+      "image": "https://d1awg155xx98w6.cloudfront.net/photos/41/68/538334_20737_XXL.jpg",
+      "url": "https://www.babygearlab.com/reviews/getting-around/full-size-stroller/uppababy-vista-v3"
+    },
+    "https://www.babylist.com/hello-baby/los-mejores-cochecitos": {
+      "title": "",
+      "description": "",
+      "image": "",
+      "url": "https://www.babylist.com/hello-baby/best-strollers"
+    },
+    "https://www.tomsguide.com/home/bugaboo-butterfly-2-review": {
+      "title": "Parents Swear by This Compact Travel Stroller — So I Traveled Hundreds of Miles With It This Summer to Test It Out",
+      "description": "Looking for a travel stroller? I've found it",
+      "image": "https://cdn.mos.cms.futurecdn.net/FsAFG2yseo7ciS3ZpDUMLG-2560-80.jpg",
+      "url": "https://www.tomsguide.com/home/bugaboo-butterfly-2-review"
+    },
+    "https://www.bugaboo.com/us-en/strollers/bugaboo-butterfly-2/": {
+      "title": "Bugaboo Butterfly 2 - Travel stroller | Bugaboo",
+      "description": "Discover the Bugaboo Butterfly 2, our ultra-compact travel stroller made for maximum comfort. From world trips to local strolls, it makes every journey effortless.",
+      "image": "https://www.bugaboo.com/on/demandware.static/-/Sites-bugaboo-master/default/dw1fd0f162/images/PV005046/Bugaboo-Butterfly-black-base-forest-green-fabrics-forest-green-sun-canopy-x-PV005046-01.png",
+      "url": "https://www.bugaboo.com/us-en/strollers/bugaboo-butterfly/"
+    },
+    "https://nunababy.com/usa/all-products/triv-next-stroller": {
+      "title": "triv™ next",
+      "description": "A morning stroll to the park or afternoons in your favorite coffee spot, everyday out and abouts with baby are fuss-free with the TRIV™ next stroller. It’s a natural city dweller that quickly converts to a travel system, packs up easily and stands on its own when folded, becoming the perfect sidekick to your everyday adventures. Engineered for convenience and comfort, the all-wheel suspension, one-touch braking system, and large rear wheels promise easy maneuverability and cushiony smooth city strolls - like riding on air with complete peace of mind. This compact fold stroller is cleverly designed with a seat that faces and folds both ways, no matter what direction baby's facing. The all-season seat keeps your precious cargo snug in winter and converts to breathable mesh in summer.Every parent needs a trusty travel companion to enjoy those everyday adventures waiting around the corner.",
+      "image": "https://nunababy.com/media/catalog/product/N/u/Nuna_TRIVnext_Caviar_Angle_US_8x8_1100web_873a.png?optimize=high&fit=bounds&height=265&width=265&canvas=265:265&format=jpeg",
+      "url": "https://nunababy.com/usa/triv-next-stroller"
+    }
+  }
+}

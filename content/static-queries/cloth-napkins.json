@@ -1,0 +1,97 @@
+{
+  "slug": "cloth-napkins",
+  "query": "best cloth napkins",
+  "title": "Best cloth napkins | Bin Diving",
+  "description": "AI-dug recommendations for best cloth napkins. Compare options and find one that fits.",
+  "dugAt": "2026-03-18T17:16:57.541Z",
+  "recommendations": [
+    {
+      "product_name": "DII 100% Cotton Oversized Napkin Set (20\" x 20\", set of 6)",
+      "pros": [
+        "Affordable everyday option",
+        "Durable 100% cotton",
+        "Wide color/print selection"
+      ],
+      "cons": [
+        "Thinner than luxury linens",
+        "Some color/size variance across batches"
+      ],
+      "price": null,
+      "amazon_id": "B079VYLLH8",
+      "sources": [
+        "https://www.wisebread.com/the-5-best-cloth-napkins"
+      ],
+      "amazon_url": "https://www.amazon.com/DII-Oversized-Everyday-Pinecone-Embroidered/dp/B079VYLLH8",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/fQ61PgjSZZVle53twky5nRYQUAMxJHTfr0McyzcDNjs/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9pNS53/YWxtYXJ0aW1hZ2Vz/LmNvbS9hc3IvNTZj/N2E1YmEtNDU5NC00/MGY0LWIzZmYtYTAz/MzQ5OGRlMmE2XzEu/NDM4NDkyMTdkZGQ0/YjU2ZTYxM2Y5YWU2/NmI3MGY0NmUuanBl/Zz9vZG5IZWlnaHQ9/NjEyJm9kbldpZHRo/PTYxMiZvZG5CZz1G/RkZGRkY",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "Caldo Linen Dinner Napkins (Set of 4, 20\" x 20\")",
+      "pros": [
+        "Linen-rich blend (softens with washing)",
+        "Good size for dinner settings",
+        "Budget-friendly for linen-style napkins"
+      ],
+      "cons": [
+        "Colors may look different in person",
+        "Not as heavy-duty as premium linen brands"
+      ],
+      "price": "$29.99",
+      "amazon_id": "B07H79LB99",
+      "sources": [
+        "https://www.domino.com/content/best-cloth-napkins/",
+        "https://www.listful.com/shopping/guide/the-ultimate-guide-to-linen-napkins-styles-care-and-where-to-buy-in-2025"
+      ],
+      "amazon_url": "https://www.amazon.com/Caldo-Linen-Dinner-Napkins-Durable/dp/B07H79LB99",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/opjHfRech65DVrJ4qpuiJsLrSYwv_pN7X2pXJLq-Gbg/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9tLm1l/ZGlhLWFtYXpvbi5j/b20vaW1hZ2VzL0kv/MzFiM0VCdG5kc0wu/anBn",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "SFERRA Festival Linen Dinner Napkins (Set of 4, 20\" x 20\")",
+      "pros": [
+        "High-quality European-woven 100% linen",
+        "Huge range of colors; elegant hemstitch finish",
+        "Long-lasting, softens with use"
+      ],
+      "cons": [
+        "Higher price than everyday napkins",
+        "May require special care to keep hemstitch looking crisp"
+      ],
+      "price": "$69.00",
+      "amazon_id": "B00AC68F1S",
+      "sources": [
+        "https://www.sferra.com/products/festival-dinner-napkins",
+        "https://www.domino.com/content/best-cloth-napkins/"
+      ],
+      "amazon_url": "https://www.amazon.com/Sferra-Festival-Decorative-Dinner-Napkins/dp/B00AC68F1S",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/N_zJiVRjLe-nGyL8zJ3lVlLgC7HkgtQ4_aK8zhvHFbg/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9tLm1l/ZGlhLWFtYXpvbi5j/b20vaW1hZ2VzL0kv/NDFQeEhNR3VKYkwu/anBn",
+      "resolver": "brave",
+      "valid": true
+    }
+  ],
+  "resolvedLinks": {
+    "https://www.wisebread.com/the-5-best-cloth-napkins": {
+      "title": "The 5 Best Cloth Napkins",
+      "description": "Cleaning up food messes isn't always easy, but it can be. Use any of these cloth napkins and you'll be able to keep the kitchen clean.",
+      "image": "https://www.wisebread.com/files/fruganomics/blog-images/table_setting_napkin_511726460.jpg",
+      "url": "https://www.wisebread.com/the-5-best-cloth-napkins"
+    },
+    "https://www.domino.com/content/best-cloth-napkins/": {
+      "title": "Turn Even Takeout Into an Occasion With the Best Cloth Napkins",
+      "description": "The jewelry of any tablescape, the best cloth napkins will quickly kick that weeknight meal up a notch. Shop our favorite picks here.",
+      "image": "https://www.domino.com/wp-content/uploads/2022/03/12/Domino-Cloth-Napkins-FACEBOOK.jpg?quality=85&w=1200",
+      "url": "https://www.domino.com/content/best-cloth-napkins/"
+    },
+    "https://www.sferra.com/products/festival-dinner-napkins": {
+      "title": "Festival Dinner Napkins",
+      "description": "Discover our Festival table napkins. Our luxury linen napkins come in a wide range of colors and are finished with hand thread drawn hemstitching on the finest linen fabric.",
+      "image": "http://www.sferra.com/cdn/shop/files/SFERRA_ECOMM_FESTIVAL_DINNER-NAPKIN_OYSTER_SILO_V2_4f4908c4-048b-422c-9403-01b158f1887b.jpg?v=1745371172",
+      "url": "https://www.sferra.com/products/festival-dinner-napkins"
+    }
+  }
+}

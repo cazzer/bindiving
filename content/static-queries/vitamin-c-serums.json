@@ -1,0 +1,95 @@
+{
+  "slug": "vitamin-c-serums",
+  "query": "best vitamin c serums",
+  "title": "Best vitamin c serums | Bin Diving",
+  "description": "AI-dug recommendations for best vitamin c serums. Compare options and find one that fits.",
+  "dugAt": "2026-03-18T17:59:35.883Z",
+  "recommendations": [
+    {
+      "product_name": "SkinCeuticals C E Ferulic Antioxidant Serum",
+      "pros": [
+        "Clinically backed formula",
+        "Contains 15% L‑ascorbic acid + vitamin E + ferulic acid"
+      ],
+      "cons": [
+        "High price",
+        "Can darken over time (oxidation)"
+      ],
+      "price": null,
+      "amazon_id": "B003ZP6N12",
+      "sources": [
+        "https://www.allure.com/gallery/get-brighter-skin-vitamin-c/amp",
+        "https://www.forbes.com/sites/forbes-personal-shopper/article/best-vitamin-c-serum/"
+      ],
+      "amazon_url": "https://www.amazon.com/Skin-Anti-Aging-Combination-Antioxidant-Treatment/dp/B003ZP6N12",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/1saVim8j_s-wpy5Yp1pryiS5_ZhXYUqbv7VNoLji49o/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly93d3cu/c2tpbmNldXRpY2Fs/cy5jby51ay9kdy9p/bWFnZS92Mi9BQVFQ/X1BSRC9vbi9kZW1h/bmR3YXJlLnN0YXRp/Yy8tL1NpdGVzLXNr/Yy1tYXN0ZXItY2F0/YWxvZy9lbl9HQi9k/d2E0NjlhMDExL1By/b2R1Y3RzLzYzNTQ5/NDM2MzIxMC82MzU0/OTQzNjMyMTBfQy1F/LUZlcnVsaWMtMzBt/bC1Ecm9wcGVyX1Nr/aW5DZXV0aWNhbHMu/anBnP3N3PTI1MCZz/ZnJtPWpwZyZxPTcw",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "Drunk Elephant C‑Firma Fresh Day Serum",
+      "pros": [
+        "15% L‑ascorbic acid formula with ferulic + vitamin E",
+        "Popular, dermatologist‑recommended alternative to luxury serums"
+      ],
+      "cons": [
+        "Needs refrigeration and has shorter shelf life once opened",
+        "Mid‑to‑high price point"
+      ],
+      "price": null,
+      "amazon_id": "B09B4B1ZJQ",
+      "sources": [
+        "https://www.vogue.com/article/best-vitamin-c-serums",
+        "https://www.allure.com/gallery/get-brighter-skin-vitamin-c/amp"
+      ],
+      "amazon_url": "https://www.amazon.com/Drunk-Elephant-C-Firma-Fresh-Serum/dp/B09B4B1ZJQ",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/HMzJiw4e2xBfr3BE57ezbEbNScdUrRnHxIgpGOifeLc/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9hLmNk/bnNibi5jb20vaW1h/Z2VzL3Byb2R1Y3Rz/L3hsLzI3MTEwNTc2/MjAxLmpwZw",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "Timeless 20% Vitamin C + E + Ferulic Acid Serum",
+      "pros": [
+        "High 20% vitamin C concentration at budget price",
+        "Frequently cited as an affordable dupe for pricier formulas"
+      ],
+      "cons": [
+        "Stronger concentration can irritate sensitive skin",
+        "Some reports of packaging/quality variability"
+      ],
+      "price": null,
+      "amazon_id": "B0036BI56G",
+      "sources": [
+        "https://www.timelessha.com/products/20-vitamin-c-e-ferulic-acid-serum",
+        "https://vanityreviews.com/product-review/timeless-skin-care-vitamin-c-serum/"
+      ],
+      "amazon_url": "https://www.amazon.com/Timeless-Skin-Care-20-Vitamin/dp/B0036BI56G",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/6wYdtlYufoZnc_wPp-fa0MUfOef3qzXaog4qDf_mJZc/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly93d3cu/d29ydGhlZWNvc21l/dGljcy5jb20vY2Ru/L3Nob3AvcHJvZHVj/dHMvVElNRUxFU1Mt/MjBfLTMwTUwtMS5q/cGc_dj0xNTkzNjU0/ODg1JndpZHRoPTE1/MDA",
+      "resolver": "brave",
+      "valid": true
+    }
+  ],
+  "resolvedLinks": {
+    "https://www.allure.com/gallery/get-brighter-skin-vitamin-c/amp": {
+      "title": "SkinCeuticals Has the Best Vitamin C Serum Out There—But It's Not the Only One",
+      "description": "We tested dozens to determine the formulas worth your time and money.",
+      "image": "https://media.allure.com/photos/682e0d359fa29e938bbbf319/16:9/w_1280,c_limit/5.21_ALL_Vit-C-Serums.jpg",
+      "url": "https://www.allure.com/gallery/get-brighter-skin-vitamin-c"
+    },
+    "https://www.vogue.com/article/best-vitamin-c-serums": {
+      "title": "The Best Vitamin C Serums of All Time",
+      "description": "Give your skin the radiance boost it deserves.",
+      "image": "https://assets.vogue.com/photos/668ec67fabd7fb82804d2e4e/16:9/w_1280,c_limit/336294192_1844087509324404_2479360751850738623_n.jpg",
+      "url": "https://www.vogue.com/article/best-vitamin-c-serums"
+    },
+    "https://vanityreviews.com/product-review/timeless-skin-care-vitamin-c-serum/": {
+      "title": "Timeless Skin Care 20% Vitamin C + E Ferulic Review (2026): Is This Proven Dupe Real?",
+      "description": "Read my honest Timeless Skin Care 20% Vitamin C + E Ferulic Review (2026). I tested this proven Skinceuticals dupe to see if it really brightens skin.",
+      "image": "https://vanityreviews.com/wp-content/uploads/2026/01/31Mt5r4Jz2L.jpg",
+      "url": "https://vanityreviews.com/product-review/timeless-skin-care-vitamin-c-serum/"
+    }
+  }
+}

@@ -1,0 +1,122 @@
+{
+  "slug": "surge-protectors",
+  "query": "best surge protectors",
+  "title": "Best surge protectors | Bin Diving",
+  "description": "AI-dug recommendations for best surge protectors. Compare options and find one that fits.",
+  "dugAt": "2026-03-18T16:17:02.280Z",
+  "recommendations": [
+    {
+      "product_name": "Belkin 12-Outlet Pivot-Plug Surge Protector (BP112230-08)",
+      "pros": [
+        "High joule rating (≈4,320 J)",
+        "Pivoting flat plug saves adjacent outlet space"
+      ],
+      "cons": [
+        "Large/long strip may be bulky for some setups",
+        "Doesn't auto-shutoff when protection expires"
+      ],
+      "price": null,
+      "amazon_id": "B000JE9LD4",
+      "sources": [
+        "https://www.belkin.com/p/pivotplug-12-outlet-surge-protector-8-ft.-cord/P-BP112230-08.html",
+        "https://money.com/best-surge-protector-power-strip/",
+        "https://www.techhive.com/article/582704/belkin-12-outlet-pivotplug-review-clever-design-helps-avoid-blocked-outlets.html"
+      ],
+      "amazon_url": "https://www.amazon.com/Belkin-12-Outlet-Pivot-Plug-Power-Protector/dp/B000JE9LD4",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/8COFge508pmuPTd_i8AHhJ-k-HSZK8N151n3SGUFZZc/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly93d3cu/YmhwaG90b3ZpZGVv/LmNvbS9jZG4tY2dp/L2ltYWdlL2ZpdD1z/Y2FsZS1kb3duLHdp/ZHRoPTUwMCxxdWFs/aXR5PTk1L2h0dHBz/Oi8vd3d3LmJocGhv/dG92aWRlby5jb20v/aW1hZ2VzL2ltYWdl/czUwMHg1MDAvYmVs/a2luX2JwMTEyMjMw/XzA4X3Bpdm90cGx1/Z18xMl9vdXRsZXRf/c3VyZ2VfcHJvdGVj/dG9yXzE0MjY3NjQy/MjVfNTA1OTk5Lmpw/Zw",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "Tripp Lite Protect It 12-Outlet Surge Protector (TLP1208SAT)",
+      "pros": [
+        "Auto-shutoff/indicator when MOVs are spent",
+        "Lots of outlets + data/coax protection options"
+      ],
+      "cons": [
+        "Joule rating lower than some high-end strips (varies by model)",
+        "Can be bulky for tight spaces"
+      ],
+      "price": null,
+      "amazon_id": "B00AAHT8GK",
+      "sources": [
+        "https://assets.tripplite.com/product-pdfs/en/tlp1208sat.pdf",
+        "https://archive.ph/2025.12.31-113303/https%3A/www.nytimes.com/wirecutter/reviews/replace-household-essentials/",
+        "https://www.tomsguide.com/best-picks/best-surge-protector"
+      ],
+      "amazon_url": "https://www.amazon.com/Tripp-Lite-Right-Angle-Protection-TLP1208SAT/dp/B00AAHT8GK",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/owcfth40RVQAc4JCXyodhPKchAMkpLY_4C2WoDXPHTo/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly93d3cu/d2hvbGVzYWxlY2xl/YW5pbmdzdXBwbGll/cy5jb20vaW1hZ2Uv/Y2FjaGUvZGF0YS9w/cm9kdWN0X21haW4v/MjU5NzkwLTQwMHg0/MDAtMC5KUEc",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "APC Performance Surge Protector with USB Ports (P11U2)",
+      "pros": [
+        "Strong brand reputation and solid protection features",
+        "Includes USB charging ports and multiple outlets"
+      ],
+      "cons": [
+        "APC lineup has seen model changes/discontinuations; check availability",
+        "Some models lack the highest joule ratings offered by competitors"
+      ],
+      "price": null,
+      "amazon_id": "B0CW1KY7GT",
+      "sources": [
+        "https://money.com/best-surge-protector-power-strip/",
+        "https://www.zapncharge.com/products/us/apc-performance-surge-protector-with-usb-ports-p11u2-11-outlet-B017VXU6GG",
+        "https://www.techradar.com/best/best-surge-protector"
+      ],
+      "amazon_url": "https://www.amazon.com/APC-Protector-P11U2MP10-Outlet-Performance/dp/B0CW1KY7GT",
+      "gpt_azn": "B017VXU6GG",
+      "image_url": "https://imgs.search.brave.com/6Ga0kUgoOgJ5Ir9oYhnW2XDDOfjv97cCMHtdAAFujvo/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9tLm1l/ZGlhLWFtYXpvbi5j/b20vaW1hZ2VzL0kv/NTE1Qm9pbEZaUUwu/anBn",
+      "resolver": "brave",
+      "valid": true
+    }
+  ],
+  "resolvedLinks": {
+    "https://www.belkin.com/p/pivotplug-12-outlet-surge-protector-8-ft.-cord/P-BP112230-08.html": {
+      "title": "Pivot-Plug 12-Outlet Surge Protector, 8 ft. Cord | Belkin US",
+      "description": "Plug in your electronics with greater ease and flexibility",
+      "image": "",
+      "url": "https://www.belkin.com/p/pivotplug-12-outlet-surge-protector-8-ft.-cord/BP112230-08.html"
+    },
+    "https://money.com/best-surge-protector-power-strip/": {
+      "title": "The Best Surge Protector Power Strips for Your Money",
+      "description": "They offer spots to plug in every device you need, plus added protection for your electronics.",
+      "image": "https://img.money.com/2021/07/Shopping-Review-Best-Power-Strip.jpg?quality=85",
+      "url": "https://money.com/best-surge-protector-power-strip/"
+    },
+    "https://www.techhive.com/article/582704/belkin-12-outlet-pivotplug-review-clever-design-helps-avoid-blocked-outlets.html": {
+      "title": "Belkin 12-outlet PivotPlug review: Clever design helps avoid blocked outlets",
+      "description": "All the features you want from a surge suppressor, and for a reasonable price.",
+      "image": "https://www.techhive.com/wp-content/uploads/2023/04/belkin-bp112230-100818965-orig.jpg?quality=50&strip=all&w=1024",
+      "url": "https://www.techhive.com/article/582704/belkin-12-outlet-pivotplug-review-clever-design-helps-avoid-blocked-outlets.html"
+    },
+    "https://assets.tripplite.com/product-pdfs/en/tlp1208sat.pdf": {
+      "title": "",
+      "description": "",
+      "image": "",
+      "url": "https://assets.tripplite.com/product-pdfs/en/tlp1208sat.pdf"
+    },
+    "https://www.tomsguide.com/best-picks/best-surge-protector": {
+      "title": "We tested the best surge protectors in 2026: Here are our top picks",
+      "description": "These are the best surge protectors you can buy to safeguard your electronic devices",
+      "image": "https://cdn.mos.cms.futurecdn.net/Pt5yAvTRJtLTjsHFo7ASDN-2000-80.jpg",
+      "url": "https://www.tomsguide.com/best-picks/best-surge-protector"
+    },
+    "https://www.zapncharge.com/products/us/apc-performance-surge-protector-with-usb-ports-p11u2-11-outlet-B017VXU6GG": {
+      "title": "APC Performance Surge Protector with USB Ports, P11U2, 11 Outlet Power Strip, 2880 Joule Surge Protection | ZapNCharge",
+      "description": "2630 Joules surge protection energy rating 11 outlet surge protector power strip 8 foot power cord with flat end 90 degree space saving plug 2 USB ports provide 2.4Amps of charging power Lifetime warranty and 250,000 dollars connected equipment protection policy",
+      "image": "https://m.media-amazon.com/images/I/31-kQ5dZuoL._SL500_.jpg",
+      "url": "https://www.zapncharge.com/products/us/apc-performance-surge-protector-with-usb-ports-p11u2-11-outlet-B017VXU6GG"
+    },
+    "https://www.techradar.com/best/best-surge-protector": {
+      "title": "Best surge protector of 2024",
+      "description": "Protect your IT against power surges",
+      "image": "https://cdn.mos.cms.futurecdn.net/NQcxVDpfDFVXF6sMyspfUT-1920-80.jpg",
+      "url": "https://www.techradar.com/best/best-surge-protector"
+    }
+  }
+}

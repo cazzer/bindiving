@@ -1,0 +1,124 @@
+{
+  "slug": "iphone-photo-lenses",
+  "query": "best iphone photo lenses",
+  "title": "Best iphone photo lenses | Bin Diving",
+  "description": "AI-dug recommendations for best iphone photo lenses. Compare options and find one that fits.",
+  "dugAt": "2026-03-18T21:58:39.806Z",
+  "recommendations": [
+    {
+      "product_name": "Moment T-Series Lens Kit (Wide, Tele, Anamorphic options)",
+      "pros": [
+        "Premium glass and build",
+        "Versatile lens types (wide, tele, anamorphic)",
+        "Strong image/video quality for mobile"
+      ],
+      "cons": [
+        "Higher price point",
+        "Requires Moment case or mount for best fit",
+        "Some compatibility issues with newest iPhone periscope/tele lenses"
+      ],
+      "price": null,
+      "amazon_id": "B0CP32FD6S",
+      "sources": [
+        "https://www.tomsguide.com/us/moment-iphone-lens%2Creview-5307.html",
+        "https://www.shopmoment.com/global/articles/iphone-17-pro-with-moment-lenses-or-compatibility-and-example-images"
+      ],
+      "amazon_url": "https://www.amazon.com/Moment-T-1-55x-Anamorphic-Lens/dp/B0CP32FD6S",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/5QtB9LWybnRoFWxv_lnV1Gkj_Sn5gtnt5IQUtqxnUjE/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9tLm1l/ZGlhLWFtYXpvbi5j/b20vaW1hZ2VzL0kv/NzExbDBqT08rSUwu/anBn",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "SANDMARC Photography Lens Kit / 58mm Telephoto (Sandmarc Tele 2x & 6x options)",
+      "pros": [
+        "Excellent telephoto sharpness for smartphones",
+        "Good value vs premium competitors",
+        "Available kits for wide, macro, and tele needs"
+      ],
+      "cons": [
+        "Some chromatic aberration on edges noted in tests",
+        "Clip/case mounting may be needed for best results",
+        "Mixed reports on advantage over native iPhone zoom for newest models"
+      ],
+      "price": "$49.49",
+      "amazon_id": "B0FJ244Y26",
+      "sources": [
+        "https://www.sandmarc.com/products/photography-lens-kit-iphone-16",
+        "https://petapixel.com/2024/02/20/sandmarc-launches-6x-telephoto-lens-for-iphone/"
+      ],
+      "image_url": "https://images-na.ssl-images-amazon.com/images/G/01/x-locale/common/grey-pixel.gif",
+      "images": [
+        "https://images-na.ssl-images-amazon.com/images/G/01/x-locale/common/grey-pixel.gif"
+      ],
+      "amazon_url": "https://www.amazon.com/NEEWER-Telephoto-Magnification-Compatible-Photography/dp/B0FJ244Y26/ref=mp_s_a_1_1?dib=eyJ2IjoiMSJ9.ZCGiWAWR8AYznokOfi5nTz3BqR8OnedJUVQ2wfKzR47sAg1_htCavYnTO2pS7I5pltSI6IURBvYF931rpTrOSulXIXGI8_aBKWeDmKdhEOnoRWSX8mqppD7kIJcsC_wUOWf3Wwqeg10HeqpDcFUWrx7dmRhN02Vo_GZWVNjkfZHQH0m9Os2s4FaEtOd8Ri28qIYKItXgPxNM-nqOshwoow.9LEnU6ba-_CFPVdBznNJFQRHQ1bTLB_Xepyf9olpdy8&dib_tag=se&keywords=SANDMARC+Photography+Lens+Kit+%2F+58mm+Telephoto+%28Sandmarc+Tele+2x&nsdOptOutParam=true&qid=1773871108&sr=8-1",
+      "brand": "NEEWER",
+      "blackFriday": false,
+      "gpt_azn": null,
+      "resolver": "cheerio",
+      "valid": true
+    },
+    {
+      "product_name": "Xenvo Pro Lens Kit (Wide + Macro)",
+      "pros": [
+        "Affordable, easy clip-on mount",
+        "Includes LED fill light in some bundles",
+        "Good entry-level quality for macro and wide shots"
+      ],
+      "cons": [
+        "Not as sharp as premium glass (Moment/Sandmarc)",
+        "Clip alignment can be finicky",
+        "Less specialized telephoto options"
+      ],
+      "price": null,
+      "amazon_id": "B01A6D2JVI",
+      "sources": [
+        "https://www.xenvopro.com/pdp/pro-lens-kit/",
+        "https://www.tomsguide.com/us/xenvo-pro-lens-kit%2Creview-5427.html"
+      ],
+      "amazon_url": "https://www.amazon.com/Xenvo-iPhone-Camera-Lens-Clip/dp/B01A6D2JVI",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/IbIq7De3FFNACPaOAq6QXL_RPMJRDpoAKOO4jIm4IkY/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly90aGVn/YWRnZXRjb2xsZWN0/aXZlLmNvbS5hdS9j/ZG4vc2hvcC9maWxl/cy94ZW52by1pcGhv/bmUtY2FtZXJhLWxl/bnMtcHJvLW1hY3Jv/LWxlbnMtd2lkZS1h/bmdsZS1sZW5zLWtp/dC13aXRoLWxlZC1s/aWdodC1jbGlwLW9u/LWNlbGwtcGhvbmUt/Y2FtZXJhLWxlbnNl/cy1mb3ItaXBob25l/LWFuZHJvaWQtc2Ft/c3VuZy1tb2JpbGUt/cGhvbmUtODgzNjY4/XzY0M3g3NzEuanBn/P3Y9MTczODQ4OTAx/Nw",
+      "resolver": "brave",
+      "valid": true
+    }
+  ],
+  "resolvedLinks": {
+    "https://www.tomsguide.com/us/moment-iphone-lens%2Creview-5307.html": {
+      "title": "Moment Review: Best Premium iPhone Lens",
+      "description": "These are the best lenses you can get for your smartphone, but they'll cost you.",
+      "image": "https://cdn.mos.cms.futurecdn.net/jbDmdTkBUqkeQUiJsfCjLo-1500-80.jpg",
+      "url": "https://www.tomsguide.com/us/moment-iphone-lens,review-5307.html"
+    },
+    "https://www.shopmoment.com/global/articles/iphone-17-pro-with-moment-lenses-or-compatibility-and-example-images": {
+      "title": "iPhone 17 Pro with Moment Lenses | Do They Work?",
+      "description": "A breakdown of each Moment lens with the latest iPhone 17 Pro, with sample images.",
+      "image": "https://cdn.sanity.io/images/soj3d0g3/production/c4a2d9218fb9cdcf691c5c715fd1ff02ddfb4528-1280x720.png?rect=0,24,1280,672&w=1200&h=630&fm=jpg&fit=crop&dpr=2",
+      "url": "https://www.shopmoment.com/global/articles/iphone-17-pro-with-moment-lenses-or-compatibility-and-example-images"
+    },
+    "https://www.sandmarc.com/products/photography-lens-kit-iphone-16": {
+      "title": "Photography Edition - iPhone 16",
+      "description": "Telephoto & Macro Lens along with our Drama CPL Filter for iPhone 16 camera. Capture your moment with the only mobile photography lens kit with a case attachment & clip mount.",
+      "image": "http://www.sandmarc.com/cdn/shop/files/Photography_Edition_-_iPhone_17.jpg?v=1757536216",
+      "url": "https://www.sandmarc.com/products/photography-lens-kit-iphone-16"
+    },
+    "https://petapixel.com/2024/02/20/sandmarc-launches-6x-telephoto-lens-for-iphone/": {
+      "title": "Sandmarc Launches 6x Telephoto Lens for iPhone",
+      "description": "Add some serious telephoto reach to your iPhone.",
+      "image": "https://petapixel.com/assets/uploads/2024/02/sandmarc-6x-tele-lens-for-iphone-Telephoto-Lens-Lifestyle-Product-1_1.jpg",
+      "url": "https://petapixel.com/2024/02/20/sandmarc-launches-6x-telephoto-lens-for-iphone/"
+    },
+    "https://www.xenvopro.com/pdp/pro-lens-kit/": {
+      "title": "Xenvo Pro Lens Kit - Android and iPhone Lens for Mobile Photography",
+      "description": "Snap stunning macro and wide angle photos with the Xenvo Pro Lens Kit for iPhone and Android. The ultimate Android and iPhone lens for mobile photography.",
+      "image": "https://www.xenvopro.com/wp-content/uploads/2018/07/XENVO-lense-img.png",
+      "url": "https://www.xenvopro.com/pdp/pro-lens-kit/"
+    },
+    "https://www.tomsguide.com/us/xenvo-pro-lens-kit%2Creview-5427.html": {
+      "title": "Xenvo Pro Lens Kit Review: Shine a Light",
+      "description": "While pricey, this kit has good lenses and an LED that helps enhance your smartphone photos. This great lens kit costs more than most budget kits but worth the price thanks to its convenient clip-on LED and other accessories.",
+      "image": "https://cdn.mos.cms.futurecdn.net/5j8Fdo8C5ESLV4CDZmUWx9-1510-80.jpg",
+      "url": "https://www.tomsguide.com/us/xenvo-pro-lens-kit,review-5427.html"
+    }
+  }
+}

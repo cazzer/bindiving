@@ -1,0 +1,131 @@
+{
+  "slug": "security-keys",
+  "query": "best security keys",
+  "title": "Best security keys | Bin Diving",
+  "description": "AI-dug recommendations for best security keys. Compare options and find one that fits.",
+  "dugAt": "2026-03-18T19:36:03.745Z",
+  "recommendations": [
+    {
+      "product_name": "Yubico YubiKey 5C NFC",
+      "pros": [
+        "USB‑C + NFC for mobile and desktop",
+        "Supports FIDO2/WebAuthn and wide protocol set",
+        "High reliability and strong reviews"
+      ],
+      "cons": [
+        "Can be more expensive than budget keys",
+        "Some users report occasional NFC quirks on certain phones"
+      ],
+      "price": "$55",
+      "amazon_id": "B08DHL1YDL",
+      "sources": [
+        "https://www.howtogeek.com/best-hardware-security-keys/",
+        "https://www.tomsguide.com/news/yubikey-5c-nfc",
+        "https://www.techradar.com/best/best-security-key"
+      ],
+      "amazon_url": "https://www.amazon.com/Yubico-Two-factor-authentication-security-certified/dp/B08DHL1YDL",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/FX4Xfs7aIj5xBzPfq_3PlwQdmGvLhDmCUQvGOUNcTjI/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9hbGV4/cmV2aWV3c3RlY2gu/Y29tL3dwLWNvbnRl/bnQvdXBsb2Fkcy8y/MDI1LzAyL1l1Ymlj/bzItMTAyNHg1NzYu/d2VicA",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "Yubico Security Key C NFC (Security Key series)",
+      "pros": [
+        "More affordable FIDO2 hardware key",
+        "Simple, streamlined FIDO2/WebAuthn support",
+        "Good option for backups or mass deployment"
+      ],
+      "cons": [
+        "Fewer advanced features than the 5‑series (no OATH/SmartCard)",
+        "Not suitable if you need OTP or PIV features"
+      ],
+      "price": null,
+      "amazon_id": "B0BVNRXFHT",
+      "sources": [
+        "https://en.wikipedia.org/wiki/YubiKey",
+        "https://www.howtogeek.com/best-hardware-security-keys/",
+        "https://www.review-rating.com/en/product/yubico-yubikey-5c-nfc-22466"
+      ],
+      "amazon_url": "https://www.amazon.com/Security-Key-NFC-Yubico-authentication/dp/B0BVNRXFHT",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/l3pgPTD4a0Ore8lwkQFidagjcb4Mpgl92JFYrPpCqBk/rs:fit:0:180:1:0/g:ce/aHR0cHM6Ly9jZG4x/MS5iaWdjb21tZXJj/ZS5jb20vcy0wNDJi/Mi9pbWFnZXMvc3Rl/bmNpbC8xMDB4MTAw/L3Byb2R1Y3RzLzEw/OTM0MTkvNzMxOTEz/L3NlY3VyaXR5a2V5/Y25mYy1oZXJvLW5z/X181MzUxOS4xNzMw/NzY2NDI4LnBuZz9j/PTI",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "Thetis Pro FIDO2 Security Key (Thetis Pro)",
+      "pros": [
+        "Multi‑port (USB‑A/USB‑C) + NFC, broad compatibility",
+        "Supports FIDO2/WebAuthn and TOTP/HOTP on some models",
+        "Good value and positive practical reviews"
+      ],
+      "cons": [
+        "Mixed user reports on review quality and occasional compatibility issues",
+        "Third‑party vendor support varies vs major brands"
+      ],
+      "price": null,
+      "amazon_id": "B0BJP64YTT",
+      "sources": [
+        "https://thetis.io/products/thetis-pro-a-fido2-security-key-usb-a-nfc-totp-hotp",
+        "https://www.androidpolice.com/best-usb-security-keys/",
+        "https://clearlayersecurity.com/top-5-fido2-security-keys-for-2025-trustkey-yubico-thetis-and-identiv-ultimate-protection-comparison/"
+      ],
+      "amazon_url": "https://www.amazon.com/Thetis-Security-Two-Factor-authentication-Protection/dp/B0BJP64YTT",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/0Na6si0T_DNLNL0IvTPEUpOGfRFqrxavPlu98tEOiRo/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9pbWFn/ZXMtbmEuc3NsLWlt/YWdlcy1hbWF6b24u/Y29tL2ltYWdlcy9J/LzUxcld2b0tVOStM/LmpwZw",
+      "resolver": "brave",
+      "valid": true
+    }
+  ],
+  "resolvedLinks": {
+    "https://www.howtogeek.com/best-hardware-security-keys/": {
+      "title": "The Best Hardware Security Keys of 2025",
+      "description": "Keep your information secure.",
+      "image": "https://static0.howtogeekimages.com/wordpress/wp-content/uploads/2025/02/yubikey-5c-nfc-android-macbook.jpg?w=1600&h=900&fit=crop",
+      "url": "https://www.howtogeek.com/best-hardware-security-keys/"
+    },
+    "https://www.tomsguide.com/news/yubikey-5c-nfc": {
+      "title": "YubiKey 5C NFC hands-on: How this tiny gadget keeps your online accounts super-secure",
+      "description": "Yubico's latest security key melds USB-C and NFC wireless",
+      "image": "https://cdn.mos.cms.futurecdn.net/n3Pg8Z7mYfdiWafvZ8MFNB-1500-80.jpg",
+      "url": "https://www.tomsguide.com/news/yubikey-5c-nfc"
+    },
+    "https://www.techradar.com/best/best-security-key": {
+      "title": "The best security key of 2024: hardware keys for top online protection",
+      "description": "Get physical for enhanced protection with the best security key today",
+      "image": "https://cdn.mos.cms.futurecdn.net/mqTNB9CrPipoJD2f2fwapb-2000-80.jpg",
+      "url": "https://www.techradar.com/best/best-security-key"
+    },
+    "https://en.wikipedia.org/wiki/YubiKey": {
+      "title": "YubiKey - Wikipedia",
+      "description": "",
+      "image": "",
+      "url": "https://en.wikipedia.org/wiki/YubiKey"
+    },
+    "https://www.review-rating.com/en/product/yubico-yubikey-5c-nfc-22466": {
+      "title": "Yubico YubiKey 5C NFC | Review & Rating",
+      "description": "The Yubico YubiKey 5C NFC is a hardware security key offering phishing-resistant MFA via USB-C or NFC, compatible with hundreds of accounts and services.",
+      "image": "https://www.review-rating.com/en/assets/image/logo.png",
+      "url": "https://www.review-rating.com/en/product/yubico-yubikey-5c-nfc-22466"
+    },
+    "https://thetis.io/products/thetis-pro-a-fido2-security-key-usb-a-nfc-totp-hotp": {
+      "title": "FIDO2 USB-C + NFC + TOTP/HOTP Passkey",
+      "description": "PRO Series Hardware Device with FIDO 2.0 Passkey Passwordless Login,  FIDO U2F &amp; TOTP/HOTP Based 2-Step Authentication (2FA) This versatile security key ensures robust protection on both mobile and desktop platforms, making it perfect for any environment. With Passkey technology, enjoy effortless logins to popular",
+      "image": "http://thetis.io/cdn/shop/files/001A2.jpg?v=1729298120",
+      "url": "https://thetis.io/products/thetis-pro-a-fido2-security-key-usb-a-nfc-totp-hotp"
+    },
+    "https://www.androidpolice.com/best-usb-security-keys/": {
+      "title": "Best USB security keys in 2025",
+      "description": "Secure your accounts with the best USB security keys",
+      "image": "https://static0.anpoimages.com/wordpress/wp-content/uploads/2022/05/2FA-security-keys.JPG?w=1600&h=900&fit=crop",
+      "url": "https://www.androidpolice.com/best-usb-security-keys/"
+    },
+    "https://clearlayersecurity.com/top-5-fido2-security-keys-for-2025-trustkey-yubico-thetis-and-identiv-ultimate-protection-comparison/": {
+      "title": "Top 5 FIDO2 Security Keys for 2025: TrustKey, Yubico, Thetis, and Identiv – Ultimate Protection Comparison",
+      "description": "FIDO2 security keys: Discover and compare the 5 best options from TrustKey, Yubico, Thetis, and Identiv for reliable online authentication in 2025.",
+      "image": "https://clearlayersecurity.com/wp-content/uploads/2025/09/zwwto_eebqg.jpg",
+      "url": "https://clearlayersecurity.com/top-5-fido2-security-keys-for-2025-trustkey-yubico-thetis-and-identiv-ultimate-protection-comparison/"
+    }
+  }
+}

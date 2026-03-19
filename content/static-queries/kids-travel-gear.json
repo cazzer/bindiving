@@ -1,0 +1,116 @@
+{
+  "slug": "kids-travel-gear",
+  "query": "best kids travel gear",
+  "title": "Best kids travel gear | Bin Diving",
+  "description": "AI-dug recommendations for best kids travel gear. Compare options and find one that fits.",
+  "dugAt": "2026-03-18T22:39:37.411Z",
+  "recommendations": [
+    {
+      "product_name": "Trunki Original Ride-On Suitcase (kids ride-on carry-on)",
+      "pros": [
+        "Entertaining ride-on design",
+        "Lightweight and airline-friendly size"
+      ],
+      "cons": [
+        "May not fit under all airline seats",
+        "Limited packing capacity"
+      ],
+      "price": null,
+      "amazon_id": "B01M2C5K21",
+      "sources": [
+        "https://trunki.com/collections/trunki/trunki",
+        "https://www.travelandleisure.com/best-kids-suitcases-7505718",
+        "https://hip2save.com/deals/trunki-kids-ride-on-suitcase/"
+      ],
+      "amazon_url": "https://www.amazon.com/Trunki-Original-Suitcase-Carry-Luggage/dp/B01M2C5K21",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/SLtFAoPo08l7c5E0ThDyJsIWTQclAfsgimUvf6OI8Co/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9pLmVi/YXlpbWcuY29tL2lt/YWdlcy9nL0xkc0FB/ZVN3S2s5cE9ETm4v/cy1sOTYwLndlYnA",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "Maclaren Quest Lightweight Travel Stroller",
+      "pros": [
+        "Compact, umbrella-style fold for travel",
+        "Good suspension and canopy for comfort"
+      ],
+      "cons": [
+        "Can be pricier than basic umbrella strollers",
+        "Some parts reported wear over long-term use"
+      ],
+      "price": null,
+      "amazon_id": "B076PYSWB8",
+      "sources": [
+        "https://maclarenstroller.com/",
+        "https://www.consumerreports.org/babies-kids/strollers/maclaren-quest/m127079/",
+        "https://letsgobeartravels.com/wp-content/uploads/2019/07/Letsgobeartravels-BABY-TRAVEL-PACKING-CHECKLIST-11-months.pdf"
+      ],
+      "amazon_url": "https://www.amazon.com/Maclaren-Quest-Stroller-lightweight-compact/dp/B076PYSWB8",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/tLyQMNRm3wHb4FYqlrYzE64e5Ou7UHHyPkSjAGkypCI/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9pLmVi/YXlpbWcuY29tL2lt/YWdlcy9nL2lDc0FB/ZVN3STh4b2RYQVUv/cy1sNDAwLndlYnA",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "Kidz Gear Wired Headphones for Kids (volume-limited)",
+      "pros": [
+        "Volume-limiting for hearing protection",
+        "Durable, kid-friendly designs and colors"
+      ],
+      "cons": [
+        "Some models use removable limiter adapters",
+        "Wired design less convenient than Bluetooth for some users"
+      ],
+      "price": null,
+      "amazon_id": "B00AXE9B6M",
+      "sources": [
+        "https://store.momschoiceawards.com/product/6033",
+        "https://www.upparent.com/lists/best-headphones-for-kids",
+        "https://threereviews.com/best-kids-headphones/"
+      ],
+      "amazon_url": "https://www.amazon.com/Kidz-Gear-Wired-Headphones-Kids/dp/B00AXE9B6M",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/QhhaXgo9VrQscWsxcMJI4lSD9J_gRfPRVfL8rde1uYs/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9pLmVi/YXlpbWcuY29tL3Ro/dW1icy9pbWFnZXMv/Zy9JaTRBQU9Tdy1W/MWNqOG1BL3MtbDIw/MC5qcGc",
+      "resolver": "brave",
+      "valid": true
+    }
+  ],
+  "resolvedLinks": {
+    "https://trunki.com/collections/trunki/trunki": {
+      "title": "Trunki USA",
+      "description": "USA Trunki kids travel accessories are the simple solution for easy kids travel. Trunki have ride-on suitcases, kids travel neck pillows and much more!",
+      "image": "",
+      "url": "https://trunki.com"
+    },
+    "https://hip2save.com/deals/trunki-kids-ride-on-suitcase/": {
+      "title": "Kids Ride-On Suitcase Only $74.99 Shipped on Amazon | Great for Flights!",
+      "description": "Make traveling more fun for your kiddos with a Trunki! Through May 22nd, hop on over to Amazon where you can score this Trunki Kids Ride-On Suitcase for",
+      "image": "https://hip2save.com/wp-content/uploads/2023/05/Trunki.jpg",
+      "url": "https://hip2save.com/deals/trunki-kids-ride-on-suitcase/"
+    },
+    "https://www.consumerreports.org/babies-kids/strollers/maclaren-quest/m127079/": {
+      "title": "Maclaren Quest Stroller Review - Consumer Reports",
+      "description": "We've tested and reviewed products since 1936. Read CR's review of the Maclaren Quest stroller to find out if it's worth it.",
+      "image": "https://crdms.images.consumerreports.org/f_auto,w_1200/prod/products/cr/models/127079-traditionalandotherstrollers-maclaren-quest.png",
+      "url": "https://www.consumerreports.org/babies-kids/strollers/maclaren-quest/m127079/"
+    },
+    "https://letsgobeartravels.com/wp-content/uploads/2019/07/Letsgobeartravels-BABY-TRAVEL-PACKING-CHECKLIST-11-months.pdf": {
+      "title": "",
+      "description": "",
+      "image": "",
+      "url": "https://letsgobeartravels.com/wp-content/uploads/2019/07/Letsgobeartravels-BABY-TRAVEL-PACKING-CHECKLIST-11-months.pdf"
+    },
+    "https://store.momschoiceawards.com/product/6033": {
+      "title": "Wireless Bluetooth Stereo Headphones for Kids",
+      "description": "Providing true freedom from cumbersome wires that kids can easily get tangled in, the NEW Kidz Gear™ Wireless Bluetooth Stereo Headphones are perfect for everything from music, gaming, dance, and exercise apps that require movement, to watching movies and interacting with audio educational and entertainment apps.  Essential audio gear for children everywhere, the Kidz Gear Bluetooth Stereo Headphones are compatible with all devices that support Bluetooth 4.0, including iPhones, iPads, Kindles, Nooks, Android smartphones and tablets, and computers (with a Bluetooth adapter).  The headphones will also quickly charge through USB with the included FREE cable.  Available in blue and pink, the headphones also include a patented removable omnidirectional Boom Microphone, ideal for children’s foreign language studies, audio/verbal test-taking at school and at home gaming and online chatting.  Designed with versatility in mind, these wireless headphones can even be transformed into wired headphones with the simple addition of the included audio interconnection cable.<br />\n<br />\nWith the easy to use KidzSync™ audio-synching provided through a multi-button interface, the Bluetooth Stereo Headphones can be quickly setup and paired with a variety of audio/video devices.  The headphones include high-quality audio components necessary to deliver an outstanding hi-fi audio experience and support the Bluetooth Profiles:  A2DP, AVRCP, HF and HS.  <br />\n<br />\nIncorporated in 2001, San Ramon, California Supply and Beyond, LLC is the exclusive manufacturer of the Kidz Gear brand of products and accessories.  The Kidz Gear brand was created by founder and mother Laurie Peterson with the purpose of developing a line of products and accessories with adult features, performance and quality but with ergonomic sizes, styles and prices for children.",
+      "image": "https://www.momschoiceawards.com/entry_images/6033.jpg",
+      "url": "https://store.momschoiceawards.com/product/6033"
+    },
+    "https://threereviews.com/best-kids-headphones/": {
+      "title": "Best Kids Headphones for Ultimate Listening Adventures - ThreeReviews",
+      "description": "In a world buzzing with technology, finding the perfect sound experience for your little ones can be quite the adventure. Whether they're tuning in to their",
+      "image": "",
+      "url": "https://threereviews.com/best-kids-headphones/"
+    }
+  }
+}

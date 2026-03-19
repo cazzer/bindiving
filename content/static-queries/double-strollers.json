@@ -1,0 +1,110 @@
+{
+  "slug": "double-strollers",
+  "query": "best double strollers",
+  "title": "Best double strollers | Bin Diving",
+  "description": "AI-dug recommendations for best double strollers. Compare options and find one that fits.",
+  "dugAt": "2026-03-18T22:36:33.327Z",
+  "recommendations": [
+    {
+      "product_name": "UPPAbaby VISTA V3 (single-to-double convertible)",
+      "pros": [
+        "Converts single→double",
+        "High-quality suspension and large bassinet",
+        "Excellent long-term resale/value"
+      ],
+      "cons": [
+        "Premium price",
+        "Bulky when fully loaded"
+      ],
+      "price": null,
+      "amazon_id": "B0D9XSJ5X5",
+      "sources": [
+        "https://www.babygearlab.com/topics/getting-around/best-double-stroller",
+        "https://www.consumerreports.org/babies-kids/strollers/top-picks-for-double-strollers-a5030059874/"
+      ],
+      "amazon_url": "https://www.amazon.com/UPPAbaby-Vista-Stroller-Single-Double/dp/B0D9XSJ5X5",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/sbmcE7FQw612BD6ev3qod1SHLVUUCqhMTDHDiJMCxE8/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9tLm1l/ZGlhLWFtYXpvbi5j/b20vaW1hZ2VzL0kv/NDFkTUM3K3puQUwu/anBn",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "Bugaboo Donkey 5 Duo",
+      "pros": [
+        "Side-by-side twin comfort",
+        "Narrow enough for most doorways",
+        "Modular system (bassinet/seat configurations)"
+      ],
+      "cons": [
+        "Very expensive",
+        "Heavy compared with lightweight doubles"
+      ],
+      "price": null,
+      "amazon_id": "B0CT52HDMR",
+      "sources": [
+        "https://www.thebump.com/a/10-best-double-strollers/amp",
+        "https://www.babygearlab.com/topics/getting-around/best-double-stroller"
+      ],
+      "amazon_url": "https://www.amazon.com/Bugaboo-Donkey-Duo-Extension-Complete/dp/B0CT52HDMR",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/Cq-o-w3Dsn28miuJpuii6itOxvcgef2Pej0vCZIQpqo/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9sdWxs/YWJ5YmFieS5jb20v/Y2RuL3Nob3AvcHJv/ZHVjdHMvTGFyZ2VK/UEctRG9ua2V5NV9k/ZXRhaWxfMDRfYjBj/YmJlODctYWY2NS00/YjM1LTk5ZDgtOTU2/YTE1Yzc2ZGUwXzcw/MHg3MDAuanBnP3Y9/MTY0ODU3NTYyMw",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "Baby Jogger City Mini GT2 Double",
+      "pros": [
+        "Easy maneuverability and all-terrain wheels",
+        "Compact-ish fold for a double",
+        "Trusted brand with strong user reviews"
+      ],
+      "cons": [
+        "Not as newborn-ready without adapters",
+        "Can be wide for tight spaces"
+      ],
+      "price": null,
+      "amazon_id": "B07YGVFZFH",
+      "sources": [
+        "https://www.babylist.com/hello-baby/best-double-strollers",
+        "https://www.babyjogger.com/strollers/shop-all-strollers/double-strollers/baby-jogger-city-mini-gt2-all-terrain-double-stroller/SAP_2104205.html?actionPoint=Show&bvroute=Review%2F64197547&bvstate=pg%3A2%2Fct%3Ar"
+      ],
+      "amazon_url": "https://www.amazon.com/Baby-Jogger-City-Double-Stroller/dp/B07YGVFZFH",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/Ay9LneHMbhbEi7wgXFJks9dPDHMZ17DXG536E3LQQ0Q/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly93d3cu/c25ka2lkcy5jb20v/Y2RuL3Nob3AvcHJv/ZHVjdHMvNDc2MDEz/X2FsdDUuanBnP3Y9/MTY1MDM4ODg1Mw",
+      "resolver": "brave",
+      "valid": true
+    }
+  ],
+  "resolvedLinks": {
+    "https://www.babygearlab.com/topics/getting-around/best-double-stroller": {
+      "title": "The Best Double Strollers of 2026",
+      "description": "We tested the top double strollers from Radio Flyer, Thule, Evenflo, Baby Trend, UPPAbaby, and others to find the best",
+      "image": "https://d1awg155xx98w6.cloudfront.net/photos/39/33/514818_14117_XXL.jpg",
+      "url": "https://www.babygearlab.com/topics/getting-around/best-double-stroller"
+    },
+    "https://www.consumerreports.org/babies-kids/strollers/top-picks-for-double-strollers-a5030059874/": {
+      "title": "Top Picks for Double Strollers in 2025 - Consumer Reports",
+      "description": "These 3 double strollers impress our testers and score high for safety and performance.",
+      "image": "https://article.images.consumerreports.org/image/upload/t_article_tout/v1746731341/prod/content/dam/CRO-Images-2025/Babies/CR-Babies-InlineHero-Top-Picks-Double-Strollers-v2-0525",
+      "url": "https://www.consumerreports.org/babies-kids/strollers/top-picks-for-double-strollers-a5030059874/"
+    },
+    "https://www.thebump.com/a/10-best-double-strollers/amp": {
+      "title": "7 Best Double Strollers, Tested With Babies and Toddlers",
+      "description": "Looking for a set of wheels for your duo? Check out the best double strollers for twins or siblings, including this year’s Best of The Bump winners, all tested by parents and their littles.",
+      "image": "https://images.ctfassets.net/6m9bd13t776q/2rPdkigmlQvPEWJNIsSgNc/ca286b146bed346ca1e114525d89fe8a/BOTB-double-strollers-2025-hero-shutterstock_1484325971.png?q=75&w=660",
+      "url": "https://www.thebump.com/a/best-double-strollers"
+    },
+    "https://www.babylist.com/hello-baby/best-double-strollers": {
+      "title": "",
+      "description": "",
+      "image": "",
+      "url": "https://www.babylist.com/hello-baby/best-double-strollers"
+    },
+    "https://www.babyjogger.com/strollers/shop-all-strollers/double-strollers/baby-jogger-city-mini-gt2-all-terrain-double-stroller/SAP_2104205.html?actionPoint=Show&bvroute=Review%2F64197547&bvstate=pg%3A2%2Fct%3Ar": {
+      "title": "city mini® GT2 all-terrain double stroller | Baby Jogger",
+      "description": "The Baby Jogger city mini® GT2 double stroller won't slow you down, even with two in tow. Fit through any standard doorway and take hold of uncompromising agility with forever-air rubber tires, all-wheel suspension, and the signature one-step, in-seat fold.",
+      "image": "https://newellbrands.imgix.net/ee94f11e-ff83-3ed2-9ad7-c46373dd48dd/ee94f11e-ff83-3ed2-9ad7-c46373dd48dd.tif?auto=format,compress&sort=1&w=1000&h=1000",
+      "url": "https://www.babyjogger.com/strollers/shop-all-strollers/double-strollers/city-mini-gt2-all-terrain-double-stroller/SAP_2104205.html?actionPoint=Show&bvroute=Review%2F64197547&bvstate=pg%3A2%2Fct%3Ar"
+    }
+  }
+}

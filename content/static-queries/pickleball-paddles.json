@@ -1,0 +1,109 @@
+{
+  "slug": "pickleball-paddles",
+  "query": "best pickleball paddles",
+  "title": "Best pickleball paddles | Bin Diving",
+  "description": "AI-dug recommendations for best pickleball paddles. Compare options and find one that fits.",
+  "dugAt": "2026-03-18T18:44:45.297Z",
+  "recommendations": [
+    {
+      "product_name": "Selkirk Labs Boomstik (Boomstik series)",
+      "pros": [
+        "Very high power and pop",
+        "Large sweet spot",
+        "Tour-level performance"
+      ],
+      "cons": [
+        "Reported quality-control/edge-guard issues by some users",
+        "May be too powerful for beginners"
+      ],
+      "price": "$99.99",
+      "amazon_id": "B0DZNPMFP5",
+      "sources": [
+        "https://www.thepickleballblast.com/blog/selkirk-boomstik-review-the-paddle-thats-redefining-pickleball-power",
+        "https://pickleballglobe.com/2025/08/11/selkirk-labs-boomstik-review-elite-power-spin-and-control-with-lifetime-warranty/"
+      ],
+      "image_url": "https://images-na.ssl-images-amazon.com/images/G/01/x-locale/common/grey-pixel.gif",
+      "images": [
+        "https://images-na.ssl-images-amazon.com/images/G/01/x-locale/common/grey-pixel.gif"
+      ],
+      "amazon_url": "https://www.amazon.com/Selkirk-Pickleball-Polypropylene-Designed-Ultimate/dp/B0DZNPMFP5/ref=mp_s_a_1_1?dib=eyJ2IjoiMSJ9.iEkvOYTSftsAt2MIm-j915J2MpCXhErGF07MFbl6rj-trfyjsi4P5254Gzy8XCoQV_GMFeXgTdXh1nm-d63yUMZ6GhZlRO1pDnluy5tKia5MzDSMALdu39c9gc8guyuC.LPUQScKYNUXikDT5JlGvwucUJHQMdRzUNuPxp0iAMNw&dib_tag=se&keywords=Selkirk+Labs+Boomstik+%28Boomstik+series%29&qid=1773859481&sr=8-1",
+      "brand": "Selkirk Sport",
+      "blackFriday": false,
+      "gpt_azn": null,
+      "resolver": "cheerio",
+      "valid": true
+    },
+    {
+      "product_name": "JOOLA Perseus Pro IV",
+      "pros": [
+        "Balanced all-court performance",
+        "Good combination of spin and control (16mm)",
+        "Strong tour/advanced-player reception"
+      ],
+      "cons": [
+        "Some reports of surface/grit variability",
+        "May be louder/vibrational on heavy drives for some players"
+      ],
+      "price": null,
+      "amazon_id": "B0F1ZB6YTJ",
+      "sources": [
+        "https://picklemadness.com/blogs/the-pickleball-pundit/joola-perseus-pro-iv-pickleball-paddle-review",
+        "https://www.pickleheads.com/pickleball-gear/joola-perseus-pro-iv-review"
+      ],
+      "amazon_url": "https://www.amazon.com/JOOLA-Perseus-IV-14mm-Global/dp/B0F1ZB6YTJ",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/to0usBPGWIiwBVcKseu6nXmWg5YktCp4QTrjQzkRcWY/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly90ZW5u/aXNpbmNzaG9wLmNv/bS9jZG4vc2hvcC9m/aWxlcy9ZSlBSNi1P/UkcuanBnP3Y9MTc0/MjEyNzQxMiZ3aWR0/aD0xNDQ1",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "Paddletek Bantam TS-5",
+      "pros": [
+        "Lightweight with strong control",
+        "Used by high-level players (trusted model)",
+        "Good value-for-performance"
+      ],
+      "cons": [
+        "Some players find it too powerful for pure control roles",
+        "Limited availability of specific grip/weight combos at times"
+      ],
+      "price": null,
+      "amazon_id": "B07YL71883",
+      "sources": [
+        "https://paddletek.com/products/bantam-ts-5",
+        "https://paddlereview.com/paddletek-bantam-ts-5/"
+      ],
+      "amazon_url": "https://www.amazon.com/Paddletek-Bantam-TS-5-Pickleball-Paddle/dp/B07YL71883",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/1X7ux1FrqtfathxhBLVenNvTBC9X2barIWCx_Ad6Zlo/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9pNS53/YWxtYXJ0aW1hZ2Vz/LmNvbS9zZW8vUGFk/ZGxldGVrLUJhbnRh/bS1UUy01LVByby1D/b21wb3NpdGUtUGlj/a2xlYmFsbC1QYWRk/bGVfNzJkNDgyN2Yt/NGM1OC00ODIxLWI3/YTUtZjRkOWQzM2Fh/NmI4LjFlMWU1ZDQw/N2Y0NWZhZGI3NzY4/ODFiYWE3M2VhNTJi/LmpwZWc_b2RuSGVp/Z2h0PTU3MyZvZG5X/aWR0aD01NzMmb2Ru/Qmc9RkZGRkZG",
+      "resolver": "brave",
+      "valid": true
+    }
+  ],
+  "resolvedLinks": {
+    "https://picklemadness.com/blogs/the-pickleball-pundit/joola-perseus-pro-iv-pickleball-paddle-review": {
+      "title": "Joola Perseus Pro IV Pickleball Paddle Review",
+      "description": "Dive into our in-depth review of the Joola Perseus Pro IV pickleball paddle. We analyze its power, control, spin, and feel to help you decide if it's the right paddle for you.",
+      "image": "http://www.picklemadness.com/cdn/shop/articles/blogthimb_e6e72d51-0573-422f-a6bc-4c2cb45bf8ae.jpg?v=1742046880&width=2048",
+      "url": "https://www.picklemadness.com/blogs/the-pickleball-pundit/joola-perseus-pro-iv-pickleball-paddle-review"
+    },
+    "https://www.pickleheads.com/pickleball-gear/joola-perseus-pro-iv-review": {
+      "title": "JOOLA Perseus Pro IV - Pickleball Paddle Review | Pickleheads",
+      "description": "If you're a JOOLA fan, you'll want to check out the new Perseus Pro IV—one of the most powerful paddles on the market. Read on for my honest review.",
+      "image": "https://cdn.sanity.io/images/jvolei4i/production/e36a55cfd7b4fcac1c97be6df2af67e8d32ae99f-736x490.png?auto=format&w=1200&h=630",
+      "url": "https://www.pickleheads.com/pickleball-gear/joola-perseus-pro-iv-review"
+    },
+    "https://paddletek.com/products/bantam-ts-5": {
+      "title": "Bantam TS-5",
+      "description": "The Bantam TS-5 is a lighter version of our popular EX-L. Its reduced weight combines with a Bantam PolyCore interior for all the power you expect from the Bantam series, plus increased speed, control and maneuverability. The result is a high-performance paddle unmatched in its weight class. Weight specifications will",
+      "image": "http://www.paddletek.com/cdn/shop/files/Paddletek_Bantam-Composite_TS-5_Horizon_Front.png?v=1763069945&width=2048",
+      "url": "https://www.paddletek.com/products/bantam-ts-5"
+    },
+    "https://paddlereview.com/paddletek-bantam-ts-5/": {
+      "title": "Review: Paddletek Bantam TS-5 Pickleball Paddle - Paddle Review",
+      "description": "Paddletek Bantam TS-5 picklebal paddle is a light weight pickleball paddle made of polymer composite. Here's our review.",
+      "image": "https://paddlereview.com/wp-content/uploads/2024/06/paddle-review-Paddletek-Bantam-TS-5-1024x576.jpg",
+      "url": "https://paddlereview.com/paddletek-bantam-ts-5/"
+    }
+  }
+}

@@ -1,0 +1,104 @@
+{
+  "slug": "pens",
+  "query": "best pens",
+  "title": "Best pens | Bin Diving",
+  "description": "AI-dug recommendations for best pens. Compare options and find one that fits.",
+  "dugAt": "2026-03-18T16:33:17.691Z",
+  "recommendations": [
+    {
+      "product_name": "uni-ball Jetstream Ballpoint Pen",
+      "pros": [
+        "Smooth hybrid ink",
+        "Quick-drying, low-smear",
+        "Available in fine sizes"
+      ],
+      "cons": [
+        "Can feel picky on some papers",
+        "Some batches vary in flow"
+      ],
+      "price": null,
+      "amazon_id": "B0GJTL46L6",
+      "sources": [
+        "https://www.jetpens.com/Uni-Jetstream-Standard-Ballpoint-Pen-0.5-mm-Black-Ink-White-Body/pd/3232",
+        "https://www.unibrands.co/products/jetstream-101-ballpoint-pens"
+      ],
+      "amazon_url": "https://www.amazon.com/Uni-Ball-Jetstream-Ballpoint-Lavender-Barrel/dp/B0GJTL46L6",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/sbG276Nh_vweaujMkGgw9CCRWazr0rZMX5MaNh5cu4U/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly93d3cu/b2ZmaWNlY3JhdmUu/Y29tL2ltYWdlL2Nh/Y2hlL2RhdGEvcHJv/ZHVjdF9pbWFnZV9h/bHQvMTA2NDY3OTQ4/M19Ub3AtNTAweDUw/MC0wLmpwZw",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "Pilot G2 Retractable Gel Pen",
+      "pros": [
+        "Very smooth gel ink",
+        "Widely available and refillable",
+        "Comfortable grip"
+      ],
+      "cons": [
+        "Gel ink can smudge for left-handers",
+        "Not archival on some papers"
+      ],
+      "price": null,
+      "amazon_id": "B001GAOTSW",
+      "sources": [
+        "https://www.sfgate.com/shopping/article/Our-Editor-Tested-Guide-to-the-Best-Pens-for-Any-15235330.php?ipid=sfghp",
+        "https://www.staples.com/buy/pilot-g2-retractable-gel-ink-pens-0afz00a"
+      ],
+      "amazon_url": "https://www.amazon.com/Pilot-Retractable-Premium-Roller-31020/dp/B001GAOTSW",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/YgdAzK0-wbwL5OYoVlmQJykaqRZ1XMwaD15AJ6rSNZM/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9nb2xk/c3BvdC5jb20vY2Ru/L3Nob3AvcHJvZHVj/dHMvcGlsb3QtZzIt/cmV0cmFjdGFibGUt/cHJlbWl1bS1nZWwt/aW5rLXBlbi1pbi1i/bGFjay05NzYuanBn/P3Y9MTczOTE2MDcy/OSZ3aWR0aD0xNDQ1",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "Zebra Sarasa Clip Gel Pen",
+      "pros": [
+        "Smooth, pigmented gel ink",
+        "Strong binder clip and wide color range",
+        "Good value and refillable"
+      ],
+      "cons": [
+        "Tip can skip on low-quality paper",
+        "Grip narrower than some alternatives"
+      ],
+      "price": "$1.75",
+      "amazon_id": "B07NDZ9C7P",
+      "sources": [
+        "https://www.jetpens.com/Zebra-Sarasa-Clip-Gel-Pen-0.7-mm-Red/pd/6945",
+        "https://www.bestproducts.com/lifestyle/g19693825/best-pens-for-writing/"
+      ],
+      "amazon_url": "https://www.amazon.com/Zebra-Pen-Retractable-Assorted-Shimmering/dp/B07NDZ9C7P",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/3oZqJCHsQnllc78hdo61U9JLyzARrOx3RG9-7Vbf4IE/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9zdGF0/aWMyLmpldHBlbnMu/Y29tL2ltYWdlcy9h/LzAwMC8wNzIvNzI0/MzkuanBnP2JsZW5k/NjQ9ZDJGMFpYSnRZ/WEpyTWk1d2JtYyZ3/PTYwMCZzPTIwYzg2/NWZkYzFlYTZjMWQ5/Y2IxOGRkZTg5YzIx/MmFj",
+      "resolver": "brave",
+      "valid": true
+    }
+  ],
+  "resolvedLinks": {
+    "https://www.unibrands.co/products/jetstream-101-ballpoint-pens": {
+      "title": "uniball™ JETSTREAM 101, Ballpoint Pen",
+      "description": "Give your creations staying power with Jetstream 101's archival-quality hybrid ink that combines the incredibly smooth, vibrant writing of a gel pen with the quick-drying, smudge-resistant properties of a ballpoint. Shop Now.",
+      "image": "http://www.unibrands.co/cdn/shop/files/uni-jetstream-101-ballpoint-1.0mm-black_grande.jpg?v=1741784854",
+      "url": "https://www.unibrands.co/products/jetstream-101-ballpoint-pens"
+    },
+    "https://www.sfgate.com/shopping/article/Our-Editor-Tested-Guide-to-the-Best-Pens-for-Any-15235330.php?ipid=sfghp": {
+      "title": "Our Editor-Tested Guide to the Best Pens for Any Writing Purpose",
+      "description": "There’s a lot to take into consideration when you’re looking for the best pen for...",
+      "image": "https://s.hdnux.com/photos/01/11/66/51/19360334/4/rawImage.jpg",
+      "url": "https://www.sfgate.com/shopping/article/Our-Editor-Tested-Guide-to-the-Best-Pens-for-Any-15235330.php"
+    },
+    "https://www.staples.com/buy/pilot-g2-retractable-gel-ink-pens-0afz00a": {
+      "title": "Pilot G2 Retractable Gel Ink Pens | Staples",
+      "description": "Discover the smooth writing experience of Pilot G2 retractable gel ink pens at Staples. Perfect for everyday use, these pens deliver vibrant ink and comfort for all your writing needs.",
+      "image": "https://assets.staples-static.com/sbd/cre/products/home-banners/20190414/images/nad_staples_logo2.png",
+      "url": "https://www.staples.com/buy/pilot-g2-retractable-gel-ink-pens-0afz00a"
+    },
+    "https://www.bestproducts.com/lifestyle/g19693825/best-pens-for-writing/": {
+      "title": "The Best (and Most Affordable!) Pens Across Every Possible Type",
+      "description": "Here’s everything you need to make your mark.",
+      "image": "https://hips.hearstapps.com/hmg-prod/images/best-pens-2-copy-1550770722.jpg?crop=1.00xw:1.00xh;0,0&resize=1200:*",
+      "url": "https://www.bestproducts.com/lifestyle/g19693825/best-pens-for-writing/"
+    }
+  }
+}

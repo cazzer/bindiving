@@ -1,0 +1,108 @@
+{
+  "slug": "noisecancelling-headphones",
+  "query": "best noise‑cancelling headphones",
+  "title": "Best noise‑cancelling headphones | Bin Diving",
+  "description": "AI-dug recommendations for best noise‑cancelling headphones. Compare options and find one that fits.",
+  "dugAt": "2026-03-18T21:42:59.779Z",
+  "recommendations": [
+    {
+      "product_name": "Sony WH-1000XM5",
+      "pros": [
+        "Excellent ANC",
+        "Balanced sound signature",
+        "Long battery life"
+      ],
+      "cons": [
+        "Not foldable",
+        "Can be pricey"
+      ],
+      "price": null,
+      "amazon_id": "B09XS7JWHH",
+      "sources": [
+        "https://www.techradar.com/audio/headphones/should-you-buy-the-sony-wh-1000xm5-headphones-in-2025",
+        "https://www.tomsguide.com/us/best-noise-cancelling-headphones%2Creview-5566.html"
+      ],
+      "amazon_url": "https://www.amazon.com/Sony-WH-1000XM5-Canceling-Headphones-Hands-Free/dp/B09XS7JWHH",
+      "gpt_azn": "B09XS7JWHH",
+      "image_url": "https://imgs.search.brave.com/bgTdUqWSEmYkuZOsTKBv5BwhJtZvcqcdwy1qMgRwcu4/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9yZWNv/cmRpbmdub3cuY29t/L3dwLWNvbnRlbnQv/dXBsb2Fkcy8yMDI1/LzAyL3Nvbnktd2gx/MDAwLXhtNS0zLmpw/Zw",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "Bose QuietComfort Ultra Headphones",
+      "pros": [
+        "Top-tier noise cancellation",
+        "Very comfortable for long wear"
+      ],
+      "cons": [
+        "Shorter battery than some rivals",
+        "Some usability complaints reported"
+      ],
+      "price": null,
+      "amazon_id": "B0CCZ1L489",
+      "sources": [
+        "https://www.engadget.com/audio/headphones/best-noise-canceling-headphones-130029881.html",
+        "https://www.tomsguide.com/audio/over-ear-headphones/act-fast-this-early-black-friday-deal-brings-the-bose-quietcomfort-ultra-headphones-down-to-their-lowest-price-ever"
+      ],
+      "amazon_url": "https://www.amazon.com/Bose-QuietComfort-Wireless-Cancelling-Headphones/dp/B0CCZ1L489",
+      "gpt_azn": "B0DX2LNZ68",
+      "image_url": "https://imgs.search.brave.com/gwNRv4cV0ibEyG4NEL8zoc8nger1MYCEfBGE8M0tjqY/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9hc3Nl/dHMuYm9zZWNyZWF0/aXZlLmNvbS90cmFu/c2Zvcm0vM2RhNTdm/OWYtNmZkYS00ZmFi/LWI4YTgtNGE5YmQ0/NjZlYmY4L1NGX1FD/VUhfUXVhbGl0eV9T/YW5kc3RvbmVfNDU2/eDQ1Nl94Mj9pbz10/cmFuc2Zvcm06Y3Jv/cCxoZWlnaHQ6OTEy/LHdpZHRoOjkxMixw/YXRoOnNxdWFyZSZx/dWFsaXR5PTk1",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "Apple AirPods Max",
+      "pros": [
+        "Excellent build and spatial audio",
+        "Seamless Apple ecosystem integration"
+      ],
+      "cons": [
+        "Heavy; premium price",
+        "Limited Android feature set"
+      ],
+      "price": null,
+      "amazon_id": "B0DGJKT2X9",
+      "sources": [
+        "https://www.macworld.com/article/201379/best-over-ear-headphones-airpods-max-vs-the-competition.html",
+        "https://www.engadget.com/apple-airpods-max-review-130021359.html"
+      ],
+      "amazon_url": "https://www.amazon.com/Apple-Headphones-Cancellation-Transparency-Personalized/dp/B0DGJKT2X9",
+      "gpt_azn": "B08PZHYWJS",
+      "image_url": "https://imgs.search.brave.com/j0nJIByplRVbioT36y1JIfVHzKwhNKM5VwXoctTeMp0/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9pbWFn/ZS1jZG4uaHlwYi5z/dC9odHRwczovL2h5/cGViZWFzdC5jb20v/aW1hZ2UvMjAyMC8x/Mi9haXJwb2RzLW1h/eC1jbG9zZXItbG9v/ay0xLmpwZz9xPTc1/Jnc9ODAwJmNicj0x/JmZpdD1tYXg",
+      "resolver": "brave",
+      "valid": true
+    }
+  ],
+  "resolvedLinks": {
+    "https://www.techradar.com/audio/headphones/should-you-buy-the-sony-wh-1000xm5-headphones-in-2025": {
+      "title": "Should you buy the Sony WH-1000XM5 headphones in 2025? I've compared them with the key competition at current prices",
+      "description": "Are the XM5s still a top choice or is it time to upgrade?",
+      "image": "https://cdn.mos.cms.futurecdn.net/2TdnhjDnEWxASm7BhUcQH4-1920-80.jpg",
+      "url": "https://www.techradar.com/audio/headphones/should-you-buy-the-sony-wh-1000xm5-headphones-in-2025"
+    },
+    "https://www.tomsguide.com/us/best-noise-cancelling-headphones%2Creview-5566.html": {
+      "title": "The best noise-canceling headphones of 2026: Tested and reviewed",
+      "description": "These are the very best noise-canceling headphones we've tested",
+      "image": "https://cdn.mos.cms.futurecdn.net/vPkNbWYWPGMsPLVmRQbSu4-2000-80.jpg",
+      "url": "https://www.tomsguide.com/us/best-noise-cancelling-headphones,review-5566.html"
+    },
+    "https://www.engadget.com/audio/headphones/best-noise-canceling-headphones-130029881.html": {
+      "title": "The best noise-canceling headphones for 2026",
+      "description": "Some advice if ANC performance drives your decision to buy noise-canceling headphones.",
+      "image": "https://s.yimg.com/ny/api/res/1.2/.bsegOB.G3m795x6m9tvlw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03MjA-/https://s.yimg.com/os/creatr-uploaded-images/2026-01/b855b620-fe02-11f0-be7f-227632f6e263",
+      "url": "https://www.engadget.com/audio/headphones/best-noise-canceling-headphones-130029881.html"
+    },
+    "https://www.tomsguide.com/audio/over-ear-headphones/act-fast-this-early-black-friday-deal-brings-the-bose-quietcomfort-ultra-headphones-down-to-their-lowest-price-ever": {
+      "title": "Not a typo! Bose QuietComfort Ultra Headphones just hit their lowest price ever — save $130 now",
+      "description": "The best Bose deal ever for these headphones",
+      "image": "https://cdn.mos.cms.futurecdn.net/RcjKPQMagzKhdxX4XNJbBU-1920-80.jpg",
+      "url": "https://www.tomsguide.com/audio/over-ear-headphones/act-fast-this-early-black-friday-deal-brings-the-bose-quietcomfort-ultra-headphones-down-to-their-lowest-price-ever"
+    },
+    "https://www.macworld.com/article/201379/best-over-ear-headphones-airpods-max-vs-the-competition.html": {
+      "title": "Are AirPods Max worth it? The best over-ear headphones compared",
+      "description": "AirPods Max face stiff competition. We compare Apple, Bose, Sony, Sonos, and more to find the best over-ear headphones you can buy in 2026.",
+      "image": "https://www.macworld.com/wp-content/uploads/2025/12/Best-Over-ear-headphones-for-iPhone-users-2.jpg?quality=50&strip=all&w=1024",
+      "url": "https://www.macworld.com/article/201379/best-over-ear-headphones-airpods-max-vs-the-competition.html"
+    }
+  }
+}

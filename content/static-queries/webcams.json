@@ -1,0 +1,103 @@
+{
+  "slug": "webcams",
+  "query": "best webcams",
+  "title": "Best webcams | Bin Diving",
+  "description": "AI-dug recommendations for best webcams. Compare options and find one that fits.",
+  "dugAt": "2026-03-18T16:29:36.206Z",
+  "recommendations": [
+    {
+      "product_name": "Insta360 Link 2 Pro",
+      "pros": [
+        "4K image quality",
+        "AI tracking & PTZ features",
+        "Good onboard audio"
+      ],
+      "cons": [
+        "High price",
+        "Requires good USB bandwidth"
+      ],
+      "price": null,
+      "amazon_id": "B0G3T1QKWL",
+      "sources": [
+        "https://www.tomsguide.com/computing/peripherals/insta360-link-2-pro-review"
+      ],
+      "amazon_url": "https://www.amazon.com/Insta360-Link-Pro-Directional-Noise-Canceling/dp/B0G3T1QKWL",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/W6UxZELtmBEY3-UUMTyOggxWSJGsjJa6tYcEpwecFbw/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly93d3cu/dGVjaHJldmlld2Vy/LmRlL3dwLWNvbnRl/bnQvdXBsb2Fkcy8y/MDI2LzAxL2luc3Rh/MzYwLWxpbmstMmMt/cHJvLXByaXZhY3kt/MTI4MHg4NTEuanBn",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "Razer Kiyo Pro Ultra",
+      "pros": [
+        "Large sensor — excellent low-light/dynamic range",
+        "4K/1080p high-quality capture",
+        "Designed for streamers/content creators"
+      ],
+      "cons": [
+        "Premium cost",
+        "Relatively large/desktop-focused design"
+      ],
+      "price": null,
+      "amazon_id": "B0CT6FFK4R",
+      "sources": [
+        "https://www.pocket-lint.com/review-razer-kiyo-pro-ultra/",
+        "https://www.techradar.com/news/computing-components/peripherals/what-webcam-5-reviewed-and-rated-1027972"
+      ],
+      "amazon_url": "https://www.amazon.com/Razer-Kiyo-Ultra-Webcam-Built/dp/B0CT6FFK4R",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/T9DOxzxY-uIEGnnK7E_E7I_6yPz_ahMUcnOZRrUTLzQ/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9jZG4u/bW9zLmNtcy5mdXR1/cmVjZG4ubmV0L1Z6/OEd2cmVjNUU4empv/eUVpVDZ5b1UuanBn",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "Elgato Facecam Pro",
+      "pros": [
+        "True 4K capture with pro-grade sensor",
+        "Straightforward setup for creators",
+        "Fine exposure and color controls"
+      ],
+      "cons": [
+        "No built-in high-end mic (external recommended)",
+        "Fixed field of view on some models"
+      ],
+      "price": null,
+      "amazon_id": "B0BJL7Q3SR",
+      "sources": [
+        "https://www.thomannmusic.com/elgato_facecam_pro.htm",
+        "https://weeklysiliconvalley.com/the-10-best-webcams-in-2025-top-picks-for-video-calls-streaming-and-content-creation/"
+      ],
+      "amazon_url": "https://www.amazon.com/Elgato-Facecam-Streaming-Advanced-Correction/dp/B0BJL7Q3SR",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/n8nVxTh0LosIQDLdhNzYHsstsaLG7p_Ltkv0iEyjYEg/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly93d3cu/Y25ldC5jb20vYS9p/bWcvcmVzaXplLzI0/YTMxY2JiZmY2MzM2/OWE4Mjk2MzA5ZTNj/MmE3MjExMjNjZmM4/ZWEvaHViLzIwMjIv/MTEvMDEvYTNkYzU0/OWUtMzMwMi00NTMy/LThlZTUtMTZhOGFj/Zjk5YjkwL2VsZ2F0/by1mYWNlY2FtLXBy/by13ZWJjYW0tMjUx/NS5qcGc_YXV0bz13/ZWJwJmZpdD1jcm9w/JmhlaWdodD02NzUm/d2lkdGg9MTIwMA",
+      "resolver": "brave",
+      "valid": true
+    }
+  ],
+  "resolvedLinks": {
+    "https://www.tomsguide.com/computing/peripherals/insta360-link-2-pro-review": {
+      "title": "The new Insta360 Link 2 Pro is the webcam to beat — it does everything you could possibly need",
+      "description": "It’s an all-rounder",
+      "image": "https://cdn.mos.cms.futurecdn.net/HC7wR9U2AZwwEcrPbGqxuh-2560-80.jpg",
+      "url": "https://www.tomsguide.com/computing/peripherals/insta360-link-2-pro-review"
+    },
+    "https://www.pocket-lint.com/review-razer-kiyo-pro-ultra/": {
+      "title": "The Razer Kiyo Pro Ultra is the best webcam I've ever used",
+      "description": "Gaming peripheral company Razer has made a DSLR-quality webcam perfect for streamers or zoom meetings at work.",
+      "image": "https://static0.pocketlintimages.com/wordpress/wp-content/uploads/wm/2024/07/razer-kiyo-pro-ultra-hero.jpg?w=1600&h=900&fit=crop",
+      "url": "https://www.pocket-lint.com/review-razer-kiyo-pro-ultra/"
+    },
+    "https://www.techradar.com/news/computing-components/peripherals/what-webcam-5-reviewed-and-rated-1027972": {
+      "title": "The best webcams in 2025: top 1080p and 4K picks for your PC",
+      "description": "The best webcams to suit all budgets",
+      "image": "https://cdn.mos.cms.futurecdn.net/6tRq69qvLwj9MzEKB3zYQD-2000-80.jpg",
+      "url": "https://www.techradar.com/news/computing-components/peripherals/what-webcam-5-reviewed-and-rated-1027972"
+    },
+    "https://weeklysiliconvalley.com/the-10-best-webcams-in-2025-top-picks-for-video-calls-streaming-and-content-creation/": {
+      "title": "The 10 Best Webcams in 2025: Top Picks for Video Calls, Streaming, and Content Creation - Weekly Silicon Valley",
+      "description": "In 2025, webcams have become essential tools for remote work, gaming, streaming, and staying connected with friends and family.",
+      "image": "https://weeklysiliconvalley.com/wp-content/uploads/2025/06/The-10-Best-Webcams-in-2025.jpg",
+      "url": "https://weeklysiliconvalley.com/the-10-best-webcams-in-2025-top-picks-for-video-calls-streaming-and-content-creation/"
+    }
+  }
+}

@@ -1,0 +1,131 @@
+{
+  "slug": "white-noise-machines",
+  "query": "best white noise machines",
+  "title": "Best white noise machines | Bin Diving",
+  "description": "AI-dug recommendations for best white noise machines. Compare options and find one that fits.",
+  "dugAt": "2026-03-18T16:40:04.917Z",
+  "recommendations": [
+    {
+      "product_name": "LectroFan Evo White Noise Machine",
+      "pros": [
+        "22 non-looping sounds",
+        "Strong noise masking",
+        "Compact, portable"
+      ],
+      "cons": [
+        "No smart app",
+        "Only digital sounds"
+      ],
+      "price": null,
+      "amazon_id": "B074FL2HL2",
+      "sources": [
+        "https://www.lectrofan.com/products/lectrofan-evo",
+        "https://www.tomsguide.com/wellness/sleep-tech/noisy-neighbours-keeping-you-awake-i-tried-amazons-top-rated-white-noise-machine-to-drown-mine-out-and-it-actually-works",
+        "https://manuals.plus/asin/B074FL2HL2.pdf"
+      ],
+      "amazon_url": "https://www.amazon.com/Adaptive-Sound-Technologies-LectroFan-Non-Looping/dp/B074FL2HL2",
+      "gpt_azn": "B074FL2HL2",
+      "image_url": "https://imgs.search.brave.com/HVQgMg1EApnQF5Jv7ZA1EbYT_LxuEO9rGVt4dReQV04/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9jZG5w/My5zdGFja2Fzc2V0/cy5jb20vMDJlMGJj/ZGMwODVhMmJiMWM2/MTE0ZWI3MWNhNjIy/MDgyZWMzMzhlNy9z/dG9yZS82NWY2Njky/MzNhYTY0MGVlNjU2/YTNmNDlhZTZjZGM5/ZGU4Yjc0MzQzYmVl/NGE2ZGZiZmM0N2Y3/YjViZjgvcHJvZHVj/dF8yODAzNV9wcm9k/dWN0X3Nob3RzMS5q/cGc",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "Hatch Restore 3 (Restore series sunrise alarm + sound machine)",
+      "pros": [
+        "App-controlled routines and sounds",
+        "Wake/sleep light + large sound library",
+        "Designed for both adults and children"
+      ],
+      "cons": [
+        "Higher price than basic machines",
+        "Some users report app connectivity issues"
+      ],
+      "price": null,
+      "amazon_id": "B0DLLSCVZW",
+      "sources": [
+        "https://www.tomsguide.com/wellness/sleep-tech/what-is-the-hatch-restore-3-and-should-you-buy-it",
+        "https://www.wired.com/story/hatch-sleep-week-sale-2026/",
+        "https://www.tomsguide.com/wellness/sleep-tech/hatch-sunrise-alarm-clock-amazon-prime-day-deal"
+      ],
+      "amazon_url": "https://www.amazon.com/Hatch-Restore-Sunrise-Alarm-Machine/dp/B0DLLSCVZW",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/P-RZbyORjJ8YCfqpQltDHMKbrYTRRKYVNFJnz0cg6D0/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9pLmVi/YXlpbWcuY29tL2lt/YWdlcy9nL2ZMY0FB/T1N3NXNSbkZiQkMv/cy1sNTAwLndlYnA",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "Marpac / Yogasleep Dohm Classic White Noise Machine",
+      "pros": [
+        "Mechanical fan produces natural non-looping sound",
+        "Simple, easy-to-use dial",
+        "Longstanding, widely recommended design"
+      ],
+      "cons": [
+        "Limited sound variety (two speeds)",
+        "Some reports of mechanical noise with aging units"
+      ],
+      "price": null,
+      "amazon_id": "B07CG2W9J8",
+      "sources": [
+        "https://white-noises.org/articles/best-white-noise-machines-2025",
+        "https://www.goodhousekeeping.com/health/wellness/g65569031/best-white-noise-machine/",
+        "https://stayingalive.com/products/marpac-yogasleep-dohm-classic-the-original-white-noise-machine/"
+      ],
+      "amazon_url": "https://www.amazon.com/Marpac-Natural-White-Machine-Charcoal/dp/B07CG2W9J8",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/OU_PKBNBj5gbG-XynFPsLV7lBfql5Q2UfY_9kpLAQLI/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9jZG4u/YXBhcnRtZW50dGhl/cmFweS5pbmZvL2lt/YWdlL3VwbG9hZC9m/X2F1dG8scV9hdXRv/OmVjbyx3XzczMC9n/ZW4td29ya2Zsb3cv/cHJvZHVjdC1kYXRh/YmFzZS9tYXJwYWMt/ZG9obS1jbGFzc2lj/LXdoaXRlLW5vaXNl/LW1hY2hpbmU",
+      "resolver": "brave",
+      "valid": true
+    }
+  ],
+  "resolvedLinks": {
+    "https://www.lectrofan.com/products/lectrofan-evo": {
+      "title": "LectroFan Evo",
+      "description": "The LectroFan EVO features 22 truly non-looping sound options including brown, pink, pure white noise, and fan sounds. Also included are two distinct ocean sounds, which complement the audio array. Relax and go to sleep to your favorite sound.",
+      "image": "http://www.lectrofan.com/cdn/shop/files/B074FFW5W4.MAIN.jpg?v=1761083880",
+      "url": "https://www.lectrofan.com/products/lectrofan-evo"
+    },
+    "https://www.tomsguide.com/wellness/sleep-tech/noisy-neighbours-keeping-you-awake-i-tried-amazons-top-rated-white-noise-machine-to-drown-mine-out-and-it-actually-works": {
+      "title": "Noisy neighbours keeping you awake? I tried Amazon's top-rated white noise machine to drown mine out — and it actually works",
+      "description": "Amazon's top-rated LectroFan EVO White Noise Machine has 22 sounds to mask distractions and promote sleep",
+      "image": "https://cdn.mos.cms.futurecdn.net/kCb5TiD8hok62QiAZfrute-2560-80.jpg",
+      "url": "https://www.tomsguide.com/wellness/sleep-tech/noisy-neighbours-keeping-you-awake-i-tried-amazons-top-rated-white-noise-machine-to-drown-mine-out-and-it-actually-works"
+    },
+    "https://manuals.plus/asin/B074FL2HL2.pdf": {
+      "title": "",
+      "description": "",
+      "image": "",
+      "url": "https://manuals.plus/asin/B074FL2HL2.pdf"
+    },
+    "https://www.wired.com/story/hatch-sleep-week-sale-2026/": {
+      "title": "Save Yourself From Dark Mornings With This On-Sale Gadget",
+      "description": "Hatch’s sunrise alarm clock is popular for a reason, and it’s on sale this week. An older-model sound machine for babies is on sale too.",
+      "image": "https://media.wired.com/photos/69acbbe6d56d89d86153b3d6/191:100/w_1280,c_limit/Hatch%E2%80%99s%20Sale%20Is%20Here%20to%20Save%20You%20From%20Daylight%20Saving%20Time.png",
+      "url": "https://www.wired.com/story/hatch-sleep-week-sale-2026/"
+    },
+    "https://www.tomsguide.com/wellness/sleep-tech/hatch-sunrise-alarm-clock-amazon-prime-day-deal": {
+      "title": "My friend is shopping a sunrise alarm clock in Prime Day tech sales — the one I recommended is $30 off",
+      "description": "Amazon Prime Day sleep deal alert! Save $30 on the Hatch Restore 3 — easier wake-ups guaranteed",
+      "image": "https://cdn.mos.cms.futurecdn.net/RfMUb5QjoiCR9h7AzK7BUc-1920-80.jpg",
+      "url": "https://www.tomsguide.com/wellness/sleep-tech/hatch-sunrise-alarm-clock-amazon-prime-day-deal"
+    },
+    "https://white-noises.org/articles/best-white-noise-machines-2025": {
+      "title": "Cloudflare Registrar",
+      "description": "",
+      "image": "",
+      "url": "https://white-noises.org/articles/best-white-noise-machines-2025"
+    },
+    "https://www.goodhousekeeping.com/health/wellness/g65569031/best-white-noise-machine/": {
+      "title": "Sleep Like A Baby With These White Noise Machines",
+      "description": "The secret to better sleep.",
+      "image": "https://hips.hearstapps.com/hmg-prod/images/ghk-2023-index-soundmachines-240-web-64397d6c1c1e9.jpg?crop=1.00xw:0.752xh;0,0.113xh&resize=1200:*",
+      "url": "https://www.goodhousekeeping.com/health/wellness/g65569031/best-white-noise-machine/"
+    },
+    "https://stayingalive.com/products/marpac-yogasleep-dohm-classic-the-original-white-noise-machine/": {
+      "title": "Marpac Yogasleep Dohm Classic - The Original White Noise Machine - Staying Alive",
+      "description": "The Marpac Yogasleep Dohm Classic - The Original White Noise Machine is an oldie but a goodie. It’s the original Yogasleep Dohm sound machine revered since",
+      "image": "https://m.media-amazon.com/images/I/31ce2znz5qL._SL600_.jpg",
+      "url": "https://stayingalive.com/products/marpac-yogasleep-dohm-classic-the-original-white-noise-machine/"
+    }
+  }
+}

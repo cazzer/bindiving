@@ -1,0 +1,92 @@
+{
+  "slug": "walkers",
+  "query": "best walkers",
+  "title": "Best walkers | Bin Diving",
+  "description": "AI-dug recommendations for best walkers. Compare options and find one that fits.",
+  "dugAt": "2026-03-18T17:53:43.718Z",
+  "recommendations": [
+    {
+      "product_name": "Drive Medical 10257BL-1 4 Wheel Rollator Walker With Seat",
+      "pros": [
+        "Stable and durable frame",
+        "Compact fold and easy maneuverability",
+        "Removable back support and storage pouch"
+      ],
+      "cons": [
+        "Steel frame heavier than aluminum",
+        "Wheels may be large for very tight indoor spaces"
+      ],
+      "price": null,
+      "amazon_id": "B0CCSXP4ZF",
+      "sources": [
+        "https://www.bestchoice.com/comparison/walkers",
+        "https://bestreviews.com/health-and-wellness/mobility/best-walkers"
+      ],
+      "amazon_url": "https://www.amazon.com/Drive-Medical-10257BL-1-Rollator-Resistant/dp/B0CCSXP4ZF",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/5V-YxhJBYBSZGFmJydp_VTgaEZxo-N4CTl1fQ-oVM5M/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9tLm1l/ZGlhLWFtYXpvbi5j/b20vaW1hZ2VzL0kv/NTFjRFpIYWJyMUwu/anBn",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "HOMLAND Foldable Rollator Walker with Seat (8\" Wheels)",
+      "pros": [
+        "8\" wheels for better all-terrain mobility",
+        "Higher weight capacity (around 350 lb)",
+        "Adjustable handles and foldable for storage"
+      ],
+      "cons": [
+        "May be bulkier than 4–6\" wheel models",
+        "Aftermarket parts/support can vary by seller"
+      ],
+      "price": null,
+      "amazon_id": "B0DD3MTH3J",
+      "sources": [
+        "https://www.bestchoice.com/comparison/walkers",
+        "https://bestreviews.com/health-and-wellness/mobility/best-walkers"
+      ],
+      "amazon_url": "https://www.amazon.com/HOMLAND-Foldable-Rollator-Adjustable-Lightweight/dp/B0DD3MTH3J",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/H_TYy1Sv3lXnYZ4swO290xF6__6DuI70-ZqUBrZnJIs/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9tLm1l/ZGlhLWFtYXpvbi5j/b20vaW1hZ2VzL0kv/NDFScnk0ZUZTSUwu/anBn",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "Medline Steel Rollator Walker with Seat (6\" Wheels)",
+      "pros": [
+        "Lightweight steel design",
+        "Ergonomic brake handles and adjustable height",
+        "Good indoor maneuverability and storage bag"
+      ],
+      "cons": [
+        "Smaller wheels less ideal outdoors",
+        "Steel model may be less corrosion-resistant than aluminum"
+      ],
+      "price": null,
+      "amazon_id": "B0DH8NRZFS",
+      "sources": [
+        "https://www.bestchoice.com/comparison/walkers",
+        "https://bestreviews.com/health-and-wellness/mobility/best-walkers"
+      ],
+      "amazon_url": "https://www.amazon.com/Medline-Rollator-Rolling-Supports-Medical/dp/B0DH8NRZFS",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/KjZxB9-kBA6qdJnYI7ezUaSroNgEuTskvw8hY1vlyzo/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9pbWFn/ZXMtbmEuc3NsLWlt/YWdlcy1hbWF6b24u/Y29tL2ltYWdlcy9J/LzYxS05MWndLNm5M/LmpwZw",
+      "resolver": "brave",
+      "valid": true
+    }
+  ],
+  "resolvedLinks": {
+    "https://www.bestchoice.com/comparison/walkers": {
+      "title": "",
+      "description": "",
+      "image": "",
+      "url": "https://www.bestchoice.com/comparison/walkers"
+    },
+    "https://bestreviews.com/health-and-wellness/mobility/best-walkers": {
+      "title": "5 Best Walkers - Mar. 2026 - BestReviews",
+      "description": "Our team of experts has selected the best walkers out of hundreds of models. Don't buy a walker before reading these reviews.",
+      "image": "https://cdn.bestreviews.com/images/v4desktop/chubby/e878cdf88a00a451b138c6cec58e26e4.jpg",
+      "url": "https://bestreviews.com/health-and-wellness/mobility/best-walkers"
+    }
+  }
+}

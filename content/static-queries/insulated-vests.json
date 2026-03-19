@@ -1,0 +1,108 @@
+{
+  "slug": "insulated-vests",
+  "query": "best insulated vests",
+  "title": "Best insulated vests | Bin Diving",
+  "description": "AI-dug recommendations for best insulated vests. Compare options and find one that fits.",
+  "dugAt": "2026-03-18T22:47:56.182Z",
+  "recommendations": [
+    {
+      "product_name": "Patagonia Nano Puff Vest",
+      "pros": [
+        "Lightweight and packable",
+        "Insulates when wet (PrimaLoft Gold Eco)"
+      ],
+      "cons": [
+        "Not as warm as heavy down vests",
+        "Premium price"
+      ],
+      "price": null,
+      "amazon_id": "B07CKHPPN6",
+      "sources": [
+        "https://www.treelinereview.com/gearreviews/best-insulated-vests",
+        "https://www.patagonia.com/product/mens-nano-puff-insulated-vest/194187478551.html",
+        "https://www.rei.com/product/102405/patagonia-nano-puff-vest-mens"
+      ],
+      "amazon_url": "https://www.amazon.com/Patagonia-Mens-Down-Sweater-Black/dp/B07CKHPPN6",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/t8Uwo3NHaVu9WRj0TZhqp5Qn-Jmk-dRW_c1pSceIZoc/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9pLnl0/aW1nLmNvbS92aS94/MmM1MnVGbUFiQS9t/YXhyZXNkZWZhdWx0/LmpwZw",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "Arc'teryx Atom LT Vest",
+      "pros": [
+        "Excellent synthetic insulation for damp conditions",
+        "Low-bulk, technical fit for layering"
+      ],
+      "cons": [
+        "Higher price",
+        "Can be delicate on abrasive surfaces"
+      ],
+      "price": null,
+      "amazon_id": "B08BJHBGKG",
+      "sources": [
+        "https://www.travelestapp.com/9388/5-best-insulated-vests-for-urban-travel-in-cold-weather/",
+        "https://www.trailspace.com/gear/arcteryx/atom-lt-vest/"
+      ],
+      "amazon_url": "https://www.amazon.com/Arcteryx-24110-Atom-LT-Vest/dp/B08BJHBGKG",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/K0JCjSs1J7XLhiSZOyqOaL28XgAcL4kwY2Jf0QibO2Y/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9jZG4x/MS5iaWdjb21tZXJj/ZS5jb20vcy10c2s2/Mm9jYWZnL2ltYWdl/cy9zdGVuY2lsLzc2/MHg3NjAvcHJvZHVj/dHMvODQ1Ni8yMTgz/NS9BdG9tLUxULVZl/c3QtR2VuLTItV29s/Zl9fNjIyOTYuMTc2/NTEzOTkzOS5wbmc_/Yz0x",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "REI Co-op 650 Down Vest",
+      "pros": [
+        "Great value for warmth",
+        "Wide size range and often on sale"
+      ],
+      "cons": [
+        "Less weather resistant than synthetic options",
+        "Not as compressible as ultralight options"
+      ],
+      "price": "$200.00",
+      "amazon_id": "B0CLTLFJ5N",
+      "sources": [
+        "https://www.treelinereview.com/gearreviews/best-insulated-vests",
+        "https://www.rei.com/product/221640/rei-co-op-650-down-vest-mens",
+        "https://www.rei.com/b/rei-co-op/f/pl-650-down"
+      ],
+      "image_url": "789_QL65_.jpg",
+      "images": [
+        "789_QL65_.jpg"
+      ],
+      "amazon_url": "https://www.amazon.com/MARMOT-Womens-Guides-Black-Medium/dp/B0CLTLFJ5N/ref=mp_s_a_1_1?dib=eyJ2IjoiMSJ9.S1hYHYHFhpDpnDFiZ25p42ZSfAGAX7tBJafzbf5HaiYwotdTyNMT5ZGh0qeG-IR6atPQgZX9qmCfgI_-TVum_zptMjYcjiEeap6V4Ke5Hbcwj5NmQ6dBeaMTJm-LgBpYg5HwnSE69KT5MV7-4z65ALQJTt16mw509j88c1Nra_GYmA29dGz926jeqCVCTNVYFxGtjsVnhdK2XrvaSUqRZMx7EPnNTugyOOgPnp48kxZRLLzqUhqt_N_MI8YfYALOPkWgYD90KwyIckr_aZtBH7N1Mf1DhY9KP-RZjlvJH7U.4YAij-P1eVzMQvw0i3mMZ_FZ7R6F6KA72YafEho7fcI&dib_tag=se&keywords=REI+Co-op+650+Down+Vest&qid=1773874072&sr=8-1",
+      "brand": "MARMOT",
+      "blackFriday": false,
+      "gpt_azn": null,
+      "resolver": "cheerio",
+      "valid": true
+    }
+  ],
+  "resolvedLinks": {
+    "https://www.treelinereview.com/gearreviews/best-insulated-vests": {
+      "title": "6 Best Women's Down Vests of 2026 (Tested)",
+      "description": "We review down vests and synthetic puffer vests for hiking, camping, winter and city use. We test and judge puffy vests by fit, warmth, style, waterproofing.",
+      "image": "http://static1.squarespace.com/static/5b4544e485ede17941bc95fc/t/67ab594ea19c5d3374167e00/1739282766584/OR-cold-front-1.jpg?format=1500w",
+      "url": "https://www.treelinereview.com/gearreviews/best-down-vests"
+    },
+    "https://www.patagonia.com/product/mens-nano-puff-insulated-vest/194187478551.html": {
+      "title": "Patagonia Men's Nano Puff® Packable Insulated Vest",
+      "description": "",
+      "image": "https://www.patagonia.com/dw/image/v2/BDJB_PRD/on/demandware.static/-/Sites-patagonia-master/default/dw9d63eb37/images/hi-res/84242_TPGN.jpg?sw=256&sh=256&sfrm=png&q=95&bgcolor=f3f4ef",
+      "url": "https://www.patagonia.com/product/mens-nano-puff-insulated-vest/84243.html"
+    },
+    "https://www.trailspace.com/gear/arcteryx/atom-lt-vest/": {
+      "title": "Arc'teryx Atom Vest Reviews - Trailspace",
+      "description": "",
+      "image": "https://assets.trailspace.com/assets/2/a/2/15467170/S26-X000009559-Atom-Vest-Black-Sapphire-Front-View.jpg",
+      "url": "https://www.trailspace.com/gear/arcteryx/atom-vest/"
+    },
+    "https://www.rei.com/b/rei-co-op/f/pl-650-down": {
+      "title": "REI Co-op 650 Down | REI Co-op",
+      "description": "Shop for REI Co-op 650 Down at REI - Browse our extensive selection of trusted outdoor brands and high-quality recreation gear. Top quality, great selection and expert advice you can trust. 100% Satisfaction Guarantee",
+      "image": "https://www.rei.com/media/630a78de-b95f-4253-bb2b-ae0e832a16b6",
+      "url": "https://www.rei.com/b/rei-co-op/f/pl-650-down"
+    }
+  }
+}

@@ -1,0 +1,134 @@
+{
+  "slug": "basic-smoke-alarms",
+  "query": "best basic smoke alarms",
+  "title": "Best basic smoke alarms | Bin Diving",
+  "description": "AI-dug recommendations for best basic smoke alarms. Compare options and find one that fits.",
+  "dugAt": "2026-03-18T16:24:34.596Z",
+  "recommendations": [
+    {
+      "product_name": "First Alert SMI100 Battery-Operated Smoke Alarm",
+      "pros": [
+        "Budget-friendly",
+        "Meets UL217/precision detection",
+        "Easy installation (battery)"
+      ],
+      "cons": [
+        "Basic features only",
+        "May need regular battery changes",
+        "Some reports of nuisance alarms"
+      ],
+      "price": "$17.00",
+      "amazon_id": "B0CJMP7WHH",
+      "sources": [
+        "https://www.firstalert.com/us/en/products/alarms/smoke-alarms/1046829-battery-operated-smoke-alarm-1046829/",
+        "https://www.aol.com/articles/over-75-amazon-shoppers-swear-003000187.html",
+        "https://www.bestreviews.com/home/safety/best-smoke-detectors"
+      ],
+      "amazon_url": "https://www.amazon.com/First-Alert-SMI100-Battery-Operated-1-Pack/dp/B0CJMP7WHH",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/YZCrenekk7vzSmfrmuZVj1c_bSiF2Ae-HezricvVneY/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9jZG40/LnZvbHVzaW9uLnN0/b3JlL2tyZnlxLWdu/a3VvL3YvdnNwZmls/ZXMvcGhvdG9zL0JS/Sy1TTUkxMDAtMlQu/anBnP3YtY2FjaGU9/MTc0MTY0MDcwMg",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "First Alert SM210L 10-Year Sealed-Battery Smoke Alarm (with safety path light)",
+      "pros": [
+        "Sealed 10-year lithium battery (no replacements)",
+        "Slim profile with escape/path light",
+        "Meets current industry standards (Precision Detection)"
+      ],
+      "cons": [
+        "Sealed battery means entire unit is replaced at end-of-life",
+        "Some user reports of false/early end-of-life warnings",
+        "Higher upfront cost than basic units"
+      ],
+      "price": "$32.00",
+      "amazon_id": "B0CJL45QWJ",
+      "sources": [
+        "https://www.firstalert.com/products/10-year-battery-smoke-alarm-with-safety-path-light",
+        "https://www.firstalertstore.com/store/products/10-year-battery-smoke-alarm-with-light-sm210l.htm",
+        "https://www.target.com/p/-/A-90075130"
+      ],
+      "amazon_url": "https://www.amazon.com/SM210L-10-Year-Sealed-Battery-Safety/dp/B0CJL45QWJ",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/IStDV4atKq3nZ5KzeTHxiv0UtehiWVr96OFZh6FnEjI/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9pNS53/YWxtYXJ0aW1hZ2Vz/LmNvbS9zZW8vRmly/c3QtQWxlcnQtU00y/MTBMLVNlYWxlZC0x/MC1ZZWFyLUJhdHRl/cnktU21va2UtQWxh/cm0td2l0aC1TYWZl/dHktUGF0aC1MaWdo/dC1hbmQtU2xpbS1Q/cm9maWxlLTEwNDY3/NDdfZTU2OGY5NmMt/MDJmNy00OTQwLWJh/OGUtZWVkZDY5ZTE3/Y2E3LmNiNjFjYWMw/ZjhkOWMxMWE2MWI5/ZGIyNTkyNjNkYzBl/LmpwZWc_b2RuSGVp/Z2h0PTU3MyZvZG5X/aWR0aD01NzMmb2Ru/Qmc9RkZGRkZG",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "Kidde P3010 (Worry-Free 10-Year Sealed Battery Photoelectric Smoke Alarm)",
+      "pros": [
+        "Photoelectric sensor reduces cooking nuisance alarms",
+        "Sealed 10-year lithium battery (no changes)",
+        "Available in kitchen/hallway variants with escape light or CO combo options"
+      ],
+      "cons": [
+        "Sealed design requires replacing whole unit after ~10 years",
+        "Mixed user reports of false alarms or premature failures for some Kidde models",
+        "Some models have had more complaint threads online"
+      ],
+      "price": "$33.00",
+      "amazon_id": "B00PC5TBYY",
+      "sources": [
+        "https://www.kidde.com/products/smoke-alarms/worry-free-hallway-10-year-battery-powered-smoke-alarm",
+        "https://www.kiddehome.com/product/kidde-smoke-detector-10-year-battery-photoelectric-sensor-smoke-alarm-white/",
+        "https://tooldetective.com/product-reviews/kidde-p3010b-smoke-detector-review/"
+      ],
+      "amazon_url": "https://www.amazon.com/Kidde-P3010K-CO-Worry-Free-Photoelectric-Monoxide/dp/B00PC5TBYY",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/2oE5AFsGMd8LnTGVF9wo_Z7CmprNZJ5eNctgaBoCYLQ/rs:fit:0:180:1:0/g:ce/aHR0cHM6Ly9tLm1l/ZGlhLWFtYXpvbi5j/b20vaW1hZ2VzL0kv/NTFmd1E3aDRVZ0wu/anBn",
+      "resolver": "brave",
+      "valid": true
+    }
+  ],
+  "resolvedLinks": {
+    "https://www.firstalert.com/us/en/products/alarms/smoke-alarms/1046829-battery-operated-smoke-alarm-1046829/": {
+      "title": "Battery-Operated Smoke Alarm | SMI100",
+      "description": "First Alert's SMI100 Battery-Operated Smoke alarm is equipped with Precision Detection advanced sensing technology. Effortless installation & easy battery replacements.",
+      "image": "http://www.firstalert.com/cdn/shop/files/SMI100_c1-6.jpg?crop=center&height=1200&v=1772130997&width=1200",
+      "url": "https://www.firstalert.com/products/battery-operated-smoke-alarm"
+    },
+    "https://www.aol.com/articles/over-75-amazon-shoppers-swear-003000187.html": {
+      "title": "Over 75% of Amazon Shoppers Swear by First Alert's $17 Smoke Alarm",
+      "description": "\"Saved me twice.\"",
+      "image": "https://s.yimg.com/os/en/aol_mens_journal_ecomm_462/ce9882688994dc5e05c7eab88b0eb736",
+      "url": "https://www.aol.com/articles/over-75-amazon-shoppers-swear-003000187.html"
+    },
+    "https://www.bestreviews.com/home/safety/best-smoke-detectors": {
+      "title": "10 Best Smoke Detectors - Mar. 2026 - BestReviews",
+      "description": "Our team of experts has selected the best smoke detectors out of hundreds of models. Don't buy a smoke detector before reading these reviews.",
+      "image": "https://cdn.bestreviews.com/images/v4desktop/chubby/ddfb3eb14794617ecf8de147fa92229d.jpg",
+      "url": "https://bestreviews.com/home/safety/best-smoke-detectors"
+    },
+    "https://www.firstalert.com/products/10-year-battery-smoke-alarm-with-safety-path-light": {
+      "title": "10-Year Battery Smoke Alarm With Safety Path Light | SM210L",
+      "description": "Illuminate your path to safety with the First Alert SM210L 10-Year Sealed Battery Smoke Alarm with Safety Path Light. The 10-year battery means no battery replacements for a decade.",
+      "image": "http://www.firstalert.com/cdn/shop/files/SM210L_c1-6_5da40003-2369-47d8-ad54-cf6de58d21e6.jpg?crop=center&height=1200&v=1772131078&width=1200",
+      "url": "https://www.firstalert.com/products/10-year-battery-smoke-alarm-with-safety-path-light"
+    },
+    "https://www.firstalertstore.com/store/products/10-year-battery-smoke-alarm-with-light-sm210l.htm": {
+      "title": "First Alert 10-Year Battery Smoke Alarm with Safety Path Light - SM210L (1046747)",
+      "description": "The First Alert SM210L 10-Year Sealed Battery Smoke Alarm meets the the latest safety standards. Alarm comes with a safety light.",
+      "image": "https://www.firstalertstore.com/store/images/products/large_images/sm210l-1046747-10-year-battery-smoke-alarm-with-light.jpg",
+      "url": "https://www.firstalertstore.com/store/products/10-year-battery-smoke-alarm-with-light-sm210l.htm"
+    },
+    "https://www.target.com/p/-/A-90075130": {
+      "title": "First Alert Alarm Smoke DC10 with LGT SM210L Clam Tray: 10 Year Warranty, Lithium Battery, No Hardwired Install Needed",
+      "description": "Read reviews and buy First Alert Alarm Smoke DC10 with LGT SM210L Clam Tray: 10 Year Warranty, Lithium Battery, No Hardwired Install Needed at Target. Choose from contactless Same Day Delivery, Drive Up and more.",
+      "image": "https://target.scene7.com/is/image/Target/GUEST_cd6a751d-4623-4323-a26d-ffccb7f8e2c2",
+      "url": "https://www.target.com/p/first-alert-alarm-smoke-dc10-with-lgt-sm210l-clam-tray/-/A-90075130"
+    },
+    "https://www.kidde.com/products/smoke-alarms/worry-free-hallway-10-year-battery-powered-smoke-alarm": {
+      "title": "Worry-Free Hallway Sealed Lithium Battery Power Smoke Alarm P3010H | Kidde",
+      "description": "P3010H smoke alarm: 10-year sealed battery, photoelectric sensor, Smart Hush feature, 85dB alarm tone, and bright LEDs for a lighted escape path.",
+      "image": "",
+      "url": "https://www.kidde.com/products/smoke-alarms/worry-free-hallway-10-year-battery-powered-smoke-alarm"
+    },
+    "https://tooldetective.com/product-reviews/kidde-p3010b-smoke-detector-review/": {
+      "title": "Kidde Smoke Detector Review 10 Year Battery Photoelectric Sensor Performance Tested - tooldetective.com",
+      "description": "Operates on a 10-year lithium battery, so you never have to worry about changing batteries again. The photoelectric sensor is highly effective at detecting smoldering fires by sensing visible fire particles. A convenient Test-Hush button allows you to quickly silence false alarms caused by cooking or steam. The alarm automatically activates as soon as it is mounted, making installation straightforward and hassle-free.",
+      "image": "https://tooldetective.com/wp-content/uploads/2025/05/kidde-smoke-detector-10-year-battery-photoelectric-sensor-smoke-alarm-white.jpg",
+      "url": "https://tooldetective.com/product-reviews/kidde-p3010b-smoke-detector-review/"
+    }
+  }
+}

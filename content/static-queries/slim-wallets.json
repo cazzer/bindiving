@@ -1,0 +1,107 @@
+{
+  "slug": "slim-wallets",
+  "query": "best slim wallets",
+  "title": "Best slim wallets | Bin Diving",
+  "description": "AI-dug recommendations for best slim wallets. Compare options and find one that fits.",
+  "dugAt": "2026-03-18T23:04:31.027Z",
+  "recommendations": [
+    {
+      "product_name": "The Ridge Wallet (Aluminum)",
+      "pros": [
+        "very slim front-pocket profile",
+        "holds 1–12 cards securely",
+        "durable metal construction"
+      ],
+      "cons": [
+        "higher price than simple cardholders",
+        "can show scratches over time"
+      ],
+      "price": null,
+      "amazon_id": "B07BMS6HSB",
+      "sources": [
+        "https://ridge.com/products/aluminum-gunmetal",
+        "https://shopsavvy.com/best-picks/best-slim-wallet",
+        "https://archive.ph/2025.12.22-023957/https%3A/www.nytimes.com/wirecutter/reviews/best-slim-wallet/"
+      ],
+      "amazon_url": "https://www.amazon.com/Ridge-Wallet-Aluminum-Thinner-Smartphone/dp/B07BMS6HSB",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/AHJciftmOLnHhGMvmgPoK23eKAitrRahZDdYKbDBWGE/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly93d3cu/YmxhY2tmbGFnb3V0/Zml0dGVycy5jb20v/Y2RuL3Nob3AvcHJv/ZHVjdHMvTmF2eS1C/QUNLLUNTXzEyMDB4/XzMwZmM1NWU0LTU0/MDItNGM5OC1hYWEz/LWIzYTBlYzRlYTI5/Yi5wbmc_dj0xNzM4/NzA2MjcyJndpZHRo/PTcyMA",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "Secrid Slimwallet",
+      "pros": [
+        "compact leather exterior with aluminum card protector",
+        "RFID protection and pop-up card mechanism",
+        "premium build and finish"
+      ],
+      "cons": [
+        "limited cash capacity compared with bifolds",
+        "premium price for leather model"
+      ],
+      "price": null,
+      "amazon_id": "B0CXTR63YM",
+      "sources": [
+        "https://secrid.com/en-us/slimwallet-matte-black/",
+        "https://shopsavvy.com/best-picks/best-slim-wallet",
+        "https://smartcarrylab.com/minimalist-wallet-reviews/"
+      ],
+      "amazon_url": "https://www.amazon.com/Secrid-Modern-Opaque-Black-Einheitsgr%C3%B6%C3%9Fe/dp/B0CXTR63YM",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/x9QzIbbvPYz3RJuyaq453-MRqIVhnJh_pDSrn-8Znqk/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly93d3cu/YXBwYWxhY2hpYW5v/dXRmaXR0ZXJzLmNv/bS9jZG4vc2hvcC9m/aWxlcy9zZWNyaWQt/c2VjcmlkLXByZW1p/dW0tc2xpbXdhbGxl/dC1iYXNjby5hdmlm/P3Y9MTc2OTQ0ODAz/NiZ3aWR0aD01MzM",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "Bellroy Slim Sleeve",
+      "pros": [
+        "clean, low-profile leather design",
+        "good card + folded cash capacity while staying thin",
+        "well-reviewed for everyday carry comfort"
+      ],
+      "cons": [
+        "leather can show wear over many years",
+        "not as feature-rich as metal pop-up wallets"
+      ],
+      "price": null,
+      "amazon_id": "B00JZBOSJY",
+      "sources": [
+        "https://smartcarrylab.com/minimalist-wallet-reviews/",
+        "https://algopix.com/products/B08L3NB6RT-bellroy-slim-sleeve-premium-edition-slim-leather-billfold",
+        "https://ridge.com/a/blog/best-slim-wallets-for-men"
+      ],
+      "amazon_url": "https://www.amazon.com/Bellroy-Leather-Sleeve-Wallet-Black/dp/B00JZBOSJY",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/kSKXW7uGxhSkatrDnqicuGfAdWDXARBEf-Iuv_wwrCY/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly93d3cu/dGhlc2ltcGxlbWFu/c3RvcmUuY29tL2Nk/bi9zaG9wL3Byb2R1/Y3RzL2JlbGxyb3lf/c2xpbV9zbGVldmU4/XzY1MHg0NzUuanBn/P3Y9MTc1MzkwNTU3/Mw",
+      "resolver": "brave",
+      "valid": true
+    }
+  ],
+  "resolvedLinks": {
+    "https://ridge.com/products/aluminum-gunmetal": {
+      "title": "Ridge Wallet - Gunmetal",
+      "description": "The aluminum gunmetal wallet from The Ridge is an ideal RFID-blocking wallet that's slim and built to last. Get yourself a gunmetal wallet today!",
+      "image": "http://ridge.com/cdn/shop/files/Gunmetal-Wallet-THUMBNAIL_600x.jpg?v=1750191671",
+      "url": "https://ridge.com/products/aluminum-gunmetal"
+    },
+    "https://shopsavvy.com/best-picks/best-slim-wallet": {
+      "title": "Best Slim Wallets for 2025 💳 - ShopSavvy Best Picks",
+      "description": "These days, everyone seems to be ditching the bulky old-school wallet for something more streamlined...",
+      "image": "https://x.shopsavvy.com/https://x.shopsavvy.com/https://m.media-amazon.com/images/I/414zAaxFJDL._SL500_.jpg",
+      "url": "https://shopsavvy.com/best-picks/best-slim-wallet"
+    },
+    "https://secrid.com/en-us/slimwallet-matte-black/": {
+      "title": "Slimwallet Matte Black",
+      "description": "Its slim profile makes the Slimwallet fit perfectly into every pocket. The open exterior is cut extra wide to hold cards, banknotes and receipts.",
+      "image": "https://cdn.shopify.com/s/files/1/2658/9686/products/sm-black_front.png?v=1533286120",
+      "url": "https://secrid.com/en-us/slimwallet-matte-black/"
+    },
+    "https://ridge.com/a/blog/best-slim-wallets-for-men": {
+      "title": "The 13 Best Slim Wallets For Men in 2025, Ranked &amp; Reviewed",
+      "description": "We’ve carefully selected &amp; reviewed the best slim wallets for men. Find out why they&#039;re useful, from which materials they&#039;re made, their prices, and more!",
+      "image": "https://cdn.shopify.com/s/files/1/0613/6213/files/Social_03_3.jpg?v=1766084911",
+      "url": "https://ridge.com/a/blog/best-slim-wallets-for-men"
+    }
+  }
+}

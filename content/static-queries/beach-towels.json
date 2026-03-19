@@ -1,0 +1,109 @@
+{
+  "slug": "beach-towels",
+  "query": "best beach towels",
+  "title": "Best beach towels | Bin Diving",
+  "description": "AI-dug recommendations for best beach towels. Compare options and find one that fits.",
+  "dugAt": "2026-03-18T18:32:34.668Z",
+  "recommendations": [
+    {
+      "product_name": "Dock & Bay Quick Dry Beach Towel",
+      "pros": [
+        "Very fast-drying",
+        "Sand-resistant loopless weave"
+      ],
+      "cons": [
+        "Thin compared with plush cotton",
+        "Some dislike synthetic feel"
+      ],
+      "price": null,
+      "amazon_id": "B0DKFMHN2H",
+      "sources": [
+        "https://us.dockandbay.com/products/summer-beach-towel-5set",
+        "https://www.goodhousekeeping.com/home-products/towel-reviews/g60192425/best-beach-towels-on-amazon/",
+        "https://miamilivingessentials.com/beach-setup/beach-towel/"
+      ],
+      "amazon_url": "https://www.amazon.com/Docking-Station-Multiple-Delivery-Ethernet/dp/B0DKFMHN2H",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/2Oi6HycPP-04C2-votSVqwbyEnAp7CbPKR3LZP_MkGA/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9zbmFw/ZG9jay5jb20vd3At/Y29udGVudC91cGxv/YWRzLzIwMjQvMDcv/NjAtaW5jaC1wb25k/LWRvY2stZWRpdGVk/LXNjYWxlZC0xLnBu/Zw",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "Nomadix Original Towel",
+      "pros": [
+        "Multi-use (beach, travel, yoga)",
+        "Lightweight and quick-drying"
+      ],
+      "cons": [
+        "Can stay slightly damp when left on wet surfaces",
+        "Not as plush as terry cotton towels"
+      ],
+      "price": null,
+      "amazon_id": "B0BLQ63QFW",
+      "sources": [
+        "https://www.rei.com/product/238768/nomadix-original-towel",
+        "https://amp.cnn.com/cnn/cnn-underscored/reviews/best-beach-towel",
+        "https://www.outoria.com/beach/nomadix-original/"
+      ],
+      "amazon_url": "https://www.amazon.com/Nomadix-Original-Towel-Materials-Absorbent/dp/B0BLQ63QFW",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/ZkgivnoxtRTmEjpCeVcLG0Dt_kWkiDSUyq0gSdiCgQY/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9tLm1l/ZGlhLWFtYXpvbi5j/b20vaW1hZ2VzL0kv/NDFzTEVZeG5Bb0wu/anBn",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "Parachute Oversized Turkish Beach Towel (Turkish/velour style)",
+      "pros": [
+        "Soft terry/velour combo; plush feel",
+        "Large/oversized and stylish"
+      ],
+      "cons": [
+        "Higher price than budget towels",
+        "Tassels/flat weave may require gentler care"
+      ],
+      "price": null,
+      "amazon_id": "B08MQTCRCD",
+      "sources": [
+        "https://www.allure.com/gallery/best-beach-towels",
+        "https://www.aol.com/beach-towels-turkish-cotton-223549239.html"
+      ],
+      "amazon_url": "https://www.amazon.com/Towel-Turkish-Oversized-Lightweight-Absorbent-Quick-Dry/dp/B08MQTCRCD",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/3Im0-EfYoKYucUSKE77nE4vxdMnxTxvGtabyV4Pc4TI/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9tLm1l/ZGlhLWFtYXpvbi5j/b20vaW1hZ2VzL0kv/ODEtdXdUa0ZwY0wu/anBn",
+      "resolver": "brave",
+      "valid": true
+    }
+  ],
+  "resolvedLinks": {
+    "https://www.goodhousekeeping.com/home-products/towel-reviews/g60192425/best-beach-towels-on-amazon/": {
+      "title": "Thousands of Amazon Reviewers Swear by These Affordable Beach Towels",
+      "description": "Including ones that dry in a pinch!",
+      "image": "https://hips.hearstapps.com/hmg-prod/images/utopia-towels-65fb30423fa42.png?crop=1.00xw:0.592xh;0,0.0851xh&resize=1200:*",
+      "url": "https://www.goodhousekeeping.com/home-products/towel-reviews/g60192425/best-beach-towels-on-amazon/"
+    },
+    "https://miamilivingessentials.com/beach-setup/beach-towel/": {
+      "title": "Best Beach Towels of 2024 – Sand-Free, Quick-Dry & Stylish",
+      "description": "Discover the best beach towels for 2024. Explore quick-dry, sand-free, and oversized styles perfect for travel, sunbathing, and beach adventures.",
+      "image": "https://miamilivingessentials.com/wp-content/uploads/2025/04/beach-towel.jpg",
+      "url": "https://miamilivingessentials.com/beach-setup/beach-towel/"
+    },
+    "https://amp.cnn.com/cnn/cnn-underscored/reviews/best-beach-towel": {
+      "title": "The best beach towels in 2026, tried and tested | CNN Underscored",
+      "description": "I risked sunburn to find the best beach towels for your money — these three are clear winners.",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/best-beach-towels-2026-badged-lead.jpg?c=16x9&q=w_800,c_fill",
+      "url": "https://www.cnn.com/cnn-underscored/reviews/best-beach-towel"
+    },
+    "https://www.allure.com/gallery/best-beach-towels": {
+      "title": "The Beach Is Calling, So Pack Your Towels and Get Going",
+      "description": "13 gorgeous, quick-drying towels for maximum summery vibes.",
+      "image": "https://media.allure.com/photos/62966af607fea17773b4d3cc/16:9/w_1280,c_limit/5-23%20best%20beach%20towels.jpg",
+      "url": "https://www.allure.com/gallery/best-beach-towels"
+    },
+    "https://www.aol.com/beach-towels-turkish-cotton-223549239.html": {
+      "title": "Beach towels and Turkish cotton",
+      "description": "Turkish, Egyptian and Pima cotton — here are the differences between the popular fabrics you’ll find when buying beach towels.",
+      "image": "https://s.yimg.com/ny/api/res/1.2/dtkz3lzHspIoLNxJvbP63w--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02MDA-/https://media.zenfs.com/en/aol_nbc_universal_184/9de7a03c78109325890875cb86f7b4d6",
+      "url": "https://www.aol.com/beach-towels-turkish-cotton-223549239.html"
+    }
+  }
+}

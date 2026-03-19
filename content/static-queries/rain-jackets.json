@@ -1,0 +1,121 @@
+{
+  "slug": "rain-jackets",
+  "query": "best rain jackets",
+  "title": "Best rain jackets | Bin Diving",
+  "description": "AI-dug recommendations for best rain jackets. Compare options and find one that fits.",
+  "dugAt": "2026-03-18T18:24:01.647Z",
+  "recommendations": [
+    {
+      "product_name": "Arc'teryx Beta AR Jacket",
+      "pros": [
+        "Highly waterproof and durable",
+        "Excellent breathability for active use"
+      ],
+      "cons": [
+        "Expensive",
+        "Heavier than ultralight shells"
+      ],
+      "price": null,
+      "amazon_id": "B0CQ5K8TNB",
+      "sources": [
+        "https://www.rei.com/product/222536/arcteryx-beta-ar-jacket-mens",
+        "https://arcteryx.com/us/en/shop/mens/beta-ar-jacket-9906",
+        "https://www.t3.com/active/outerwear/arcteryx-beta-sv-2026-severe-weather-jacket"
+      ],
+      "amazon_url": "https://www.amazon.com/Arcteryx-Mens-Beta-Ar-Jacket/dp/B0CQ5K8TNB",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/58Sx6BRHklKvSynkgxLaZHxkhW7ewMMOpee_zIsg7Ss/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9yaWRn/ZWFuZHJpdmVyLmNv/bS9jZG4vc2hvcC9m/aWxlcy9TMjQtWDAw/MDAwNzA4Mi1CZXRh/LUFSLUphY2tldC1C/bGFjay1Ib29kXzgw/MHguanBnP3Y9MTc2/MDk3MDk3OQ",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "Patagonia Torrentshell 3L Rain Jacket",
+      "pros": [
+        "Solid waterproof/breathable 3-layer construction",
+        "Good balance of durability and packability"
+      ],
+      "cons": [
+        "Can be noisy fabric",
+        "Not as technical as premium Gore‑Tex shells"
+      ],
+      "price": null,
+      "amazon_id": "B0FGPMDWH8",
+      "sources": [
+        "https://www.patagonia.com/product/mens-torrentshell-3-layer-rain-jacket/195699377783.html",
+        "https://www.outdoorgearlab.com/reviews/clothing-mens/rain-jacket/patagonia-torrentshell-3l",
+        "https://webprice.eu/amazon/Patagonia%20Torrentshell%203L/"
+      ],
+      "amazon_url": "https://www.amazon.com/Patagonia-Mens-Torrentshell-Length-Jacket/dp/B0FGPMDWH8",
+      "gpt_azn": "B0FCM5KGGY",
+      "image_url": "https://imgs.search.brave.com/MYkY3Pfs23g-LcilduHOA7bqCBycY0lvyRb4IckthUs/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9wcm9k/dWN0aW1hZ2UwMDEu/Y290c3dvbGRvdXRk/b29yLmNvbS9wcm9k/dWN0aW1hZ2VzLzU1/MHg4MjUvYjEyYWU5/MDMzNF80NDQ0X28u/anBn",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "REI Co-op Rainier Rain Jacket",
+      "pros": [
+        "Very affordable and good value",
+        "PFAS‑free DWR option in recent models"
+      ],
+      "cons": [
+        "2.5‑layer construction less durable for prolonged heavy rain",
+        "Less breathable than premium shells"
+      ],
+      "price": "$59.69",
+      "amazon_id": "B0CLQVJXV5",
+      "sources": [
+        "https://www.rei.com/learn/expert-advice/best-rain-jackets.html",
+        "https://www.rei.com/product/127336/rei-co-op-rainier-rain-jacket-mens",
+        "https://www.switchbacktravel.com/best-rain-jackets"
+      ],
+      "image_url": "789_QL65_.jpg",
+      "images": [
+        "789_QL65_.jpg"
+      ],
+      "amazon_url": "https://www.amazon.com/Columbia-Watertight-Jacket-Black-Medium/dp/B0CLQVJXV5/ref=mp_s_a_1_1?dib=eyJ2IjoiMSJ9.XRvFffpRqBiOqpxoi-SSdU8eYkGWIsT2h_h8ThBTY9UHMUbXa34NwRoCRTj-wS-1sXN4mtCofOo-WJL3oImDgSQYvQ-7S-IaGluIHl4F22lnZZodtr0f9fKvhWaY-udTq0CdF2MZmjuMQIJItt8cYIgunKu4G6aDcztFZ8-EToU1GLDTpkK_WzP_IcAbABpiL_Eh00BTLtdYd_WyGkO9yFPRbpFPd8i_z_HNd0zNsY3lmF0Q1ArT_TSPN8Ee_6nAVGJeGHzHJOy8TgH8hI1DROSOFLl7JiLu2Cy-LklwXPs.5iRG9n8sQwUpjhhb7YDxp2ps9fm9m9sudQb5nCIE4Zo&dib_tag=se&keywords=REI+Co-op+Rainier+Rain+Jacket&qid=1773858237&sr=8-1",
+      "brand": "Columbia",
+      "blackFriday": false,
+      "gpt_azn": null,
+      "resolver": "cheerio",
+      "valid": true
+    }
+  ],
+  "resolvedLinks": {
+    "https://arcteryx.com/us/en/shop/mens/beta-ar-jacket-9906": {
+      "title": "Beta AR Jacket Men's",
+      "description": "Durable, breathable, weatherproof GORE-TEX PRO ePE shell for all-round mountain use.",
+      "image": "https://images-dynamic-arcteryx.imgix.net/details/1350x1710/S26-X000009906-Beta-AR-Jacket-Solitude-Void-Front-View.jpg",
+      "url": "https://arcteryx.com/us/en/shop/mens/beta-ar-jacket-9906"
+    },
+    "https://www.t3.com/active/outerwear/arcteryx-beta-sv-2026-severe-weather-jacket": {
+      "title": "Arc'teryx upgrades the iconic waterproof jacket with 100D GORE-TEX PRO for true all-mountain use",
+      "description": "The new Beta SV is the brand's most rugged all-mountain jacket to date",
+      "image": "https://cdn.mos.cms.futurecdn.net/LjJoCwPiWzEG9kk9vVzhb7-1920-80.jpg",
+      "url": "https://www.t3.com/active/outerwear/arcteryx-beta-sv-2026-severe-weather-jacket"
+    },
+    "https://www.patagonia.com/product/mens-torrentshell-3-layer-rain-jacket/195699377783.html": {
+      "title": "Patagonia Men's Torrentshell 3L Rain Jacket",
+      "description": "",
+      "image": "https://www.patagonia.com/dw/image/v2/BDJB_PRD/on/demandware.static/-/Sites-patagonia-master/default/dw7138ee44/images/hi-res/85241_GEMG.jpg?sw=256&sh=256&sfrm=png&q=95&bgcolor=f3f4ef",
+      "url": "https://www.patagonia.com/product/mens-torrentshell-3-layer-rain-jacket/85241.html"
+    },
+    "https://www.outdoorgearlab.com/reviews/clothing-mens/rain-jacket/patagonia-torrentshell-3l": {
+      "title": "Patagonia Torrentshell 3L Review",
+      "description": "The Patagonia Torrentshell 3L breaks the mold as a high-performing rain jacket that doesn't cost an entire paycheck. Waterproof jackets have been...",
+      "image": "https://d1i8d6ce8wwubf.cloudfront.net/photos/31/47/436211_15181_XXL.jpg",
+      "url": "https://www.outdoorgearlab.com/reviews/clothing-mens/rain-jacket-men/patagonia-torrentshell-3l"
+    },
+    "https://www.rei.com/learn/expert-advice/best-rain-jackets.html": {
+      "title": "The 7 Best Rain Jackets of 2026: Tested | REI Co-op",
+      "description": "Our staffers pick their favorite rain jackets from Patagonia, REI Co-op, Outdoor Research, Arc'teryx and more—perfect for hiking, backpacking, everyday use and anywhere else the clouds might open up.",
+      "image": "https://www.rei.com/dam/24100101_c01440_103125_45322_web_med.jpeg",
+      "url": "https://www.rei.com/learn/expert-advice/best-rain-jackets.html"
+    },
+    "https://www.switchbacktravel.com/best-rain-jackets": {
+      "title": "Switchback Travel | Best Rain Jackets of 2026",
+      "description": "An in-depth look at the top rain jackets on the market, from versatile jackets for hiking and everyday use to ultralight emergency shells",
+      "image": "https://www.switchbacktravel.com/sites/default/files/images/articles/Rain%20Jackets%20Photo.jpg",
+      "url": "https://www.switchbacktravel.com/best-rain-jackets"
+    }
+  }
+}

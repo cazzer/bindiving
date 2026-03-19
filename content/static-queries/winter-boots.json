@@ -1,0 +1,127 @@
+{
+  "slug": "winter-boots",
+  "query": "best winter boots",
+  "title": "Best winter boots | Bin Diving",
+  "description": "AI-dug recommendations for best winter boots. Compare options and find one that fits.",
+  "dugAt": "2026-03-18T22:53:10.664Z",
+  "recommendations": [
+    {
+      "product_name": "The North Face Chilkat V 400 Waterproof Boot",
+      "pros": [
+        "Very warm (400g Heatseeker insulation)",
+        "Good traction for snowy/icy ground"
+      ],
+      "cons": [
+        "Heavier than lightweight hikers",
+        "Can feel bulky for all-day urban wear"
+      ],
+      "price": null,
+      "amazon_id": "B0CQDTR8BD",
+      "sources": [
+        "https://www.outdoorgearlab.com/reviews/shoes-and-boots/winter-boots-men/the-north-face-chilkat-v-400",
+        "https://www.switchbacktravel.com/reviews/the-north-face-chilkat-v-400",
+        "https://www.thenorthface.com/en-us/p/mens/mens-footwear/mens-boots-c695280/mens-chilkat-v-400-waterproof-boots-NF0A5LVZ"
+      ],
+      "amazon_url": "https://www.amazon.com/NORTH-FACE-Mens-Chilkat-Insulated/dp/B0CQDTR8BD",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/7H84QbST_Bp8GBAs37DtV2GU1795heHvB827XMuyJTk/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9zYXJh/dG9nYW91dGRvb3Jz/LmNvbS9jZG4vc2hv/cC9maWxlcy9ORjBB/NUxXMV83VDRfaGVy/by5wbmc_dj0xNzQ5/MDE4NTM0JndpZHRo/PTEwODA",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "UGG Adirondack Boot XXV",
+      "pros": [
+        "Premium insulation and lining for extreme cold",
+        "Waterproof construction with Vibram outsole"
+      ],
+      "cons": [
+        "Higher price point",
+        "Heavier, more rugged silhouette (less dressy)"
+      ],
+      "price": null,
+      "amazon_id": "B0FYKJ1KK1",
+      "sources": [
+        "https://www.travelandleisure.com/style/shoes/best-snow-boots",
+        "https://www.journeys.com/product/womens-ugg-adirondack-boot-xxv-black-582286",
+        "https://www.zappos.com/p/ugg-adirondack-boots-xxv-black/product/10006947/color/3"
+      ],
+      "amazon_url": "https://www.amazon.com/UGG-womens-Adirondack-Boot-XXV/dp/B0FYKJ1KK1",
+      "gpt_azn": null,
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "Sorel Caribou Waterproof Boot",
+      "pros": [
+        "Classic, very warm design with removable felt liner",
+        "Proven waterproof construction and strong traction"
+      ],
+      "cons": [
+        "Can be heavy",
+        "Some recent users report durability/fit variability across runs"
+      ],
+      "price": null,
+      "amazon_id": "B0DQ2KYHLS",
+      "sources": [
+        "https://www.switchbacktravel.com/reviews/sorel-caribou",
+        "https://decentfoot.com/best-overall-winter-boot-the-north-face-chilkat-400-v/",
+        "https://www.bestreviews.guide/winter-boots-for-women"
+      ],
+      "amazon_url": "https://www.amazon.com/Sorel-Womens-Caribou-Waterproof-Boot/dp/B0DQ2KYHLS",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/OL06OqJ8RQqC7VTNzx3x3yhm1YgWSmxqr0PR_wNiock/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9pLmVi/YXlpbWcuY29tL2lt/YWdlcy9nL3hlUUFB/T1N3TEYxanJLQmIv/cy1sNDAwLndlYnA",
+      "resolver": "brave",
+      "valid": true
+    }
+  ],
+  "resolvedLinks": {
+    "https://www.outdoorgearlab.com/reviews/shoes-and-boots/winter-boots-men/the-north-face-chilkat-v-400": {
+      "title": "The North Face Chilkat V 400 Review",
+      "description": "The North Face Chilkat 400 II is a great all-around winter boot performer, keeping the feet warm, dry, and comfortable at a great price. This boot uses...",
+      "image": "https://d1i8d6ce8wwubf.cloudfront.net/photos/31/64/437877_13535_XXL.jpg",
+      "url": "https://www.outdoorgearlab.com/reviews/shoes-and-boots/winter-boots-men/the-north-face-chilkat-v-400"
+    },
+    "https://www.switchbacktravel.com/reviews/the-north-face-chilkat-v-400": {
+      "title": "Switchback Travel | The North Face Chilkat V 400 Winter Boot Review",
+      "description": "The Chilkat is stylish and comfortable with great weather protection—all at a very fair price",
+      "image": "https://www.switchbacktravel.com/sites/default/files/images/articles/TNF%20Chilkat%20V%20400%20main.jpg",
+      "url": "https://www.switchbacktravel.com/reviews/the-north-face-chilkat-v-400"
+    },
+    "https://www.thenorthface.com/en-us/p/mens/mens-footwear/mens-boots-c695280/mens-chilkat-v-400-waterproof-boots-NF0A5LVZ": {
+      "title": "Men’s Chilkat V 400 Waterproof Boots | The North Face",
+      "description": "",
+      "image": "",
+      "url": "https://www.thenorthface.com/en-us/p/mens/mens-footwear/mens-boots-c695280/mens-chilkat-v-400-waterproof-boots-NF0A5LVZ"
+    },
+    "https://www.journeys.com/product/womens-ugg-adirondack-boot-xxv-black-582286": {
+      "title": "Womens UGG® Adirondack Boot XXV - Black",
+      "description": "Find Womens UGG Adirondack Boot XXV in Black at Journeys | FREE Shipping for All Access Members | 365-Day Returns",
+      "image": "https://images.journeys.com/images/site/1_JourneysUS.png",
+      "url": "https://www.journeys.com/product/womens-ugg-adirondack-boot-xxv-black-582286"
+    },
+    "https://www.zappos.com/p/ugg-adirondack-boots-xxv-black/product/10006947/color/3": {
+      "title": "Women's UGG Adirondack Boots XXV",
+      "description": "",
+      "image": "https://m.media-amazon.com/images/I/61KQFfX5cCL._SX700_.jpg",
+      "url": "https://www.zappos.com/product/10006947/color/3"
+    },
+    "https://www.switchbacktravel.com/reviews/sorel-caribou": {
+      "title": "Switchback Travel | Sorel Caribou Winter Boot Review",
+      "description": "Sorel’s classic winter boot is stylish, waterproof, and very cozy",
+      "image": "https://www.switchbacktravel.com/sites/default/files/images/articles/Sorel%20Caribou%20winter%20boot%20%28walking%20in%20snow%20profile%29.jpg",
+      "url": "https://www.switchbacktravel.com/reviews/sorel-caribou"
+    },
+    "https://decentfoot.com/best-overall-winter-boot-the-north-face-chilkat-400-v/": {
+      "title": "Best Overall Winter Boot: The North Face Chilkat 400 V. [Updated:March 2026]",
+      "description": "When consulting with outdoor gear testers about their top winter boots, one requirement kept coming up: reliable warmth and solid traction. Having personally",
+      "image": "",
+      "url": "https://decentfoot.com/best-overall-winter-boot-the-north-face-chilkat-400-v/"
+    },
+    "https://www.bestreviews.guide/winter-boots-for-women": {
+      "title": "10 Best Winter Boots For Women 2026 in the US | There's One Clear Winner | BestReviews.guide",
+      "description": "BestReviews.guide analyzes thousands of articles and customer reviews to find the top-rated products at today's lowest prices. Best products, best offers.",
+      "image": "https://images-proxy.bestreviews.guide/iOEHVCSdH3LmJHhCKUl167NklcE=/0x150/https://m.media-amazon.com/images/I/31j8rEM4v8L._AC_CX679_.jpg",
+      "url": "https://www.bestreviews.guide/winter-boots-for-women"
+    }
+  }
+}

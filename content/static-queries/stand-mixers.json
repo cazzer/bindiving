@@ -1,0 +1,111 @@
+{
+  "slug": "stand-mixers",
+  "query": "best stand mixers",
+  "title": "Best stand mixers | Bin Diving",
+  "description": "AI-dug recommendations for best stand mixers. Compare options and find one that fits.",
+  "dugAt": "2026-03-18T16:46:08.404Z",
+  "recommendations": [
+    {
+      "product_name": "KitchenAid Artisan Series 5-Quart Tilt-Head Stand Mixer (KSM150PS)",
+      "pros": [
+        "Iconic reliable performance",
+        "Wide accessory ecosystem",
+        "Good for everyday home baking"
+      ],
+      "cons": [
+        "Smaller bowl for very large batches",
+        "Tilt-head less stable for very heavy doughs"
+      ],
+      "price": null,
+      "amazon_id": "B005PMEHBG",
+      "sources": [
+        "https://www.tomsguide.com/best-picks/best-stand-mixers",
+        "https://www.techgearlab.com/reviews/kitchen/stand-mixer/kitchenaid-artisan-stand-mixer",
+        "https://www.bonappetit.com/story/best-stand-mixers"
+      ],
+      "amazon_url": "https://www.amazon.com/KitchenAid-KSM150PSAQ-Artisan-Pouring-Shield/dp/B005PMEHBG",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/z1V_caNUTdS95zrmtTKncq-JflqE0aMX_uvKD15S440/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9pbWFn/ZXMtbmEuc3NsLWlt/YWdlcy1hbWF6b24u/Y29tL2ltYWdlcy9J/LzgxU3pTcC1hREhM/LmpwZw",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "KitchenAid 7-Quart Bowl-Lift Stand Mixer (large-capacity bowl-lift model)",
+      "pros": [
+        "Large 7+ quart capacity for big batches",
+        "High torque suited to dense doughs",
+        "Robust build for frequent use"
+      ],
+      "cons": [
+        "Heavier and takes more counter space",
+        "Higher price than tilt-head models"
+      ],
+      "price": null,
+      "amazon_id": "B0BRNX5X8N",
+      "sources": [
+        "https://www.forbes.com/sites/forbes-personal-shopper/article/best-stand-mixers/",
+        "https://www.tomsguide.com/best-picks/best-stand-mixers"
+      ],
+      "amazon_url": "https://www.amazon.com/KitchenAid%C2%AE-Quart-Bowl-Lift-Stand-Mixer/dp/B0BRNX5X8N",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/9KyDrxTHjUrt_YsAW_snFIyAzODTX85C7Qe0WLJfd4g/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9pLmVi/YXlpbWcuY29tL2lt/YWdlcy9nL1hWSUFB/ZVN3S25scHE2SWUv/cy1sOTYwLndlYnA",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "Bosch Universal Plus / Bosch Universal Mixer (Universal Plus)",
+      "pros": [
+        "Very powerful motor and large-capacity bowl",
+        "Excellent for bread doughs and heavy mixing",
+        "Converts into a multi-use food-prep machine"
+      ],
+      "cons": [
+        "Bulky and occupies significant counter/storage space",
+        "Fewer mainstream attachments than KitchenAid ecosystem"
+      ],
+      "price": null,
+      "amazon_id": "B0CJCKHQGK",
+      "sources": [
+        "https://mixitbakeit.com/bosch-stand-mixer-review/",
+        "https://foodal.com/kitchen/kitchen-appliances/stand-mixers/bosch-universal-plus-review/"
+      ],
+      "amazon_url": "https://www.amazon.com/Universal-Quarts-NutriMill-Extender-Bundle/dp/B0CJCKHQGK",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/vgJw17MqPGCut-UvvgIqQP64yg4DYixUa5vrsW4VcKE/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly90aGVj/b29rc25vb2ttY3Bo/ZXJzb24uY29tL2Nk/bi9zaG9wL2ZpbGVz/L1doaXRlQm9zY2hN/aXhlci00LndlYnA_/dj0xNzE3MTgzODE2/JndpZHRoPTcyMA",
+      "resolver": "brave",
+      "valid": true
+    }
+  ],
+  "resolvedLinks": {
+    "https://www.tomsguide.com/best-picks/best-stand-mixers": {
+      "title": "Everyone says KitchenAid makes the best stand mixer — this is why they are right",
+      "description": "I've eaten my way through a mountain of sweet treats to find the best stand mixer so you don't have to — and I'd do it all again",
+      "image": "https://cdn.mos.cms.futurecdn.net/ppxCkn5Cbq8HrYRfZUMPgf-2560-80.jpg",
+      "url": "https://www.tomsguide.com/best-picks/best-stand-mixers"
+    },
+    "https://www.techgearlab.com/reviews/kitchen/stand-mixer/kitchenaid-artisan-stand-mixer": {
+      "title": "KitchenAid Artisan Stand Mixer Review",
+      "description": "In our review of stand mixers, the KitchenAid Artisan emerged as the undisputed favorite, delivering exceptional performance across all our tests while...",
+      "image": "https://djd1xqjx2kdnv.cloudfront.net/photos/39/43/515803_7601_XXL.jpg",
+      "url": "https://www.techgearlab.com/reviews/kitchen/stand-mixer/kitchenaid-artisan-stand-mixer"
+    },
+    "https://www.bonappetit.com/story/best-stand-mixers": {
+      "title": "The Best Stand Mixer Isn’t a KitchenAid",
+      "description": "After putting 14 stand mixers through their paces, we’re crowning this the best.",
+      "image": "https://assets.bonappetit.com/photos/688bdaf96f7fdbf9d8973b2c/16:9/w_1280,c_limit/7.30_BA_Best-Stand-Mixers-lede.2.jpg",
+      "url": "https://www.bonappetit.com/story/best-stand-mixers"
+    },
+    "https://mixitbakeit.com/bosch-stand-mixer-review/": {
+      "title": "Bosch Stand Mixer Review: Can One Mixer Do It All? - Mix It Bake It",
+      "description": "Bosch stand mixer review: From sourdough loaves to quick cookies, learn why this mixer delivers power, precision, and convenience.",
+      "image": "https://mixitbakeit.com/wp-content/uploads/2025/09/bosch-stand-mixer-review.png",
+      "url": "https://mixitbakeit.com/bosch-stand-mixer-review/"
+    },
+    "https://foodal.com/kitchen/kitchen-appliances/stand-mixers/bosch-universal-plus-review/": {
+      "title": "Bosch Universal Plus Mixer Review: A Great Gadget for the Home Kitchen",
+      "description": "The Bosch Universal Plus Mixer is a do-everything kitchen gadget designed with many accessories for limitless food prep possibilities. Read Foodal's review.",
+      "image": "https://foodal.com/wp-content/uploads/2018/08/Bosch-Mixer-Review.jpg",
+      "url": "https://foodal.com/kitchen/kitchen-appliances/stand-mixers/bosch-universal-plus-review/"
+    }
+  }
+}

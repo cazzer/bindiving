@@ -1,0 +1,134 @@
+{
+  "slug": "planners",
+  "query": "best planners",
+  "title": "Best planners | Bin Diving",
+  "description": "AI-dug recommendations for best planners. Compare options and find one that fits.",
+  "dugAt": "2026-03-18T16:34:17.763Z",
+  "recommendations": [
+    {
+      "product_name": "Hobonichi Techo (2026 editions)",
+      "pros": [
+        "Excellent daily journaling layout",
+        "High-quality Tomoe River paper",
+        "Large user community & accessories"
+      ],
+      "cons": [
+        "Thin paper can show ghosting with some pens",
+        "Popular editions sell out quickly",
+        "Multiple formats can be confusing"
+      ],
+      "price": null,
+      "amazon_id": "B0GC4QV8DD",
+      "sources": [
+        "https://www.wired.com/story/best-paper-planners/",
+        "https://www.1101.com/store/techo/en/magazine/hon/index.html",
+        "https://kiukiu.me/2025/08/25/hobonichi-techo-2026-lineup-guide/"
+      ],
+      "amazon_url": "https://www.amazon.com/Hobonichi-Techo-A6-English-Original/dp/B0GC4QV8DD",
+      "gpt_azn": "B0FJ2QBQD2",
+      "image_url": "https://imgs.search.brave.com/2f3w_hRQMvBmm01fJZkmd4PwS3tHoFXAAiFG3RTZkiE/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly93d3cu/amVubmliaWNrLmNv/bS9jZG4vc2hvcC9m/aWxlcy9Ib2Jvbmlj/aGktVGVjaG8tMjAy/Ni1Db3VzaW4tQm9v/ay1BNS1KQVBBTkVT/RS1BcHJpbC1TdGFy/dC5qcGc_dj0xNzcx/OTg2NzA1JndpZHRo/PTQ2MA",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "Simplified Planner by Emily Ley (2026 Spiral/Daily/Weekly editions)",
+      "pros": [
+        "Clean, productivity-focused layouts",
+        "Multiple sizes (daily/weekly) and digital option",
+        "Featured in recent buying guides (2026)"
+      ],
+      "cons": [
+        "Style is minimalist—may lack detailed goal frameworks",
+        "Some sizes/prints sell out fast",
+        "Higher price for hardcover/limited editions"
+      ],
+      "price": null,
+      "amazon_id": "B0DYBYM2B5",
+      "sources": [
+        "https://www.forbes.com/sites/forbes-personal-shopper/article/best-planner/",
+        "https://www.emilyley.com/collections/simplified-planners",
+        "https://plantoorganize.com/best-planners-2026-buying-guide/"
+      ],
+      "amazon_url": "https://www.amazon.com/AT-GLANCE-Planner-Simplified-EL45-905-26/dp/B0DYBYM2B5",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/ElKrRT-AJST5iLjXETkWfRAwa-moQOFn41FXMhjbGfk/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9pLmVi/YXlpbWcuY29tL2lt/YWdlcy9nL2txd0FB/ZVN3ZjR4cEhmRUov/cy1sNTAwLmpwZw",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "Panda Planner (Classic / Pro editions)",
+      "pros": [
+        "Built-in habit, gratitude and goal sections",
+        "Undated options for flexible starts",
+        "Well-regarded for productivity-focused prompts"
+      ],
+      "cons": [
+        "Bound formats limit page removal",
+        "Layout may feel prescriptive for some",
+        "Some users prefer more blank note space"
+      ],
+      "price": null,
+      "amazon_id": "B01EKSH5LE",
+      "sources": [
+        "https://bestreviews.guide/panda-planners",
+        "https://thetranslationdiaries.com/2025/10/10/best-planners/",
+        "https://allaboutplanners.com.au/panda-planner-review-pros-cons-a-video-walkthrough/"
+      ],
+      "amazon_url": "https://www.amazon.com/Panda-Planner-Pro-Productivity-Guaranteed/dp/B01EKSH5LE",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/N3Tzf2z4zmtK7MuRQmeP-YU06EPUm4bfG1Vi9hMTaSQ/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9hbGxh/Ym91dHBsYW5uZXJz/LmNvbS5hdS93cC1j/b250ZW50L3VwbG9h/ZHMvMjAxOC8wNy9w/YW5kYS1wbGFubmVy/LXJldmlldy1jaGVh/cGVyLWFsdGVybmF0/aXZlLXRvLXBhc3Np/b24tcGxhbm5lci1z/aW1pbGFyLWdlbmRl/ci1uZXV0cmFsLXBy/b3MtYW5kLWNvbnMt/cHJvamVjdC1wbGFu/bmVyLWRhaWx5LXdl/ZWtseS1zaW1wbGUt/Ym9va2JvdW5kLWdv/YWwtc2V0dGluZy0x/MDI0eDc2OC5qcGc",
+      "resolver": "brave",
+      "valid": true
+    }
+  ],
+  "resolvedLinks": {
+    "https://www.wired.com/story/best-paper-planners/": {
+      "title": "Become Your Most Organized Self in 2026 With These Paper Planners",
+      "description": "Digital tools are not always superior. Here are some WIRED-tested paper agendas and notebooks to keep you on track.",
+      "image": "https://media.wired.com/photos/6945926ed842203773a87765/191:100/w_1280,c_limit/The%20Best%20Paper%20Planners%20Update%20122025%20top%20art%20SOURCE%20Kokuyo.jpg",
+      "url": "https://www.wired.com/story/best-paper-planners/"
+    },
+    "https://www.1101.com/store/techo/en/magazine/hon/index.html": {
+      "title": "The Hobonichi Techo 2026 HON Main Page - Hobonichi Techo Magazine - Hobonichi Techo",
+      "description": "The HON opens easily, and you can write whatever you want in its daily pages. They come in A6 and A5 sizes, and English and Japanese editions.",
+      "image": "https://www.1101.com/store/techo/en/magazine/hon/images/v5/og_en.jpg",
+      "url": "https://www.1101.com/store/techo/en/magazine/hon/"
+    },
+    "https://kiukiu.me/2025/08/25/hobonichi-techo-2026-lineup-guide/": {
+      "title": "Hobonichi Techo 2026 Lineup: My Picks & What to Buy",
+      "description": "Hobonichi Techo 2026 lineup guide with Weeks covers, collaborations, and accessories. See my picks and what’s worth buying this year.",
+      "image": "https://kiukiu.me/wp-content/uploads/2025/08/화면-캡처-2025-08-26-160758.jpg",
+      "url": "https://kiukiu.me/2025/08/25/hobonichi-techo-2026-lineup-guide/"
+    },
+    "https://www.emilyley.com/collections/simplified-planners": {
+      "title": "Simplified® Planners | Beautiful, Easy-to-Use Planners by Emily Ley",
+      "description": "Stay organized with Simplified® Planners—beautifully designed for busy schedules, goal setting & intentional living. Shop now & simplify your days!",
+      "image": "http://www.emilyley.com/cdn/shop/files/Emily_Spring_Launch-30.jpg?crop=center&height=1200&v=1743609888&width=1200",
+      "url": "https://www.emilyley.com/collections/simplified-planners"
+    },
+    "https://plantoorganize.com/best-planners-2026-buying-guide/": {
+      "title": "The 10 Best Planners for 2026 — Daily, Weekly, and Goal-Setting Favorites",
+      "description": "Explore the best planners for 2026 with our guide, featuring top options for organization, goal-setting, and productivity.",
+      "image": "https://plantoorganize.com/wp-content/uploads/2025/10/woman-planning-with-her-planner-for-2026.png",
+      "url": "https://plantoorganize.com/best-planners-2026-buying-guide/"
+    },
+    "https://bestreviews.guide/panda-planners": {
+      "title": "10 Best Panda Planners 2026 in the US | There's One Clear Winner | BestReviews.guide",
+      "description": "BestReviews.guide analyzes thousands of articles and customer reviews to find the top-rated products at today's lowest prices. Best products, best offers.",
+      "image": "https://images-proxy.bestreviews.guide/dM--k7x2x3CIPbMa8p98FfXOfSo=/0x150/https://m.media-amazon.com/images/I/41Cf7rsHv3L._AC_CX679_.jpg",
+      "url": "https://www.bestreviews.guide/panda-planners"
+    },
+    "https://thetranslationdiaries.com/2025/10/10/best-planners/": {
+      "title": "Private SiteWordPress.com",
+      "description": "",
+      "image": "",
+      "url": "https://thetranslationdiaries.wordpress.com/2025/10/10/best-planners/"
+    },
+    "https://allaboutplanners.com.au/panda-planner-review-pros-cons-a-video-walkthrough/": {
+      "title": "Panda Planner Review (Pros, Cons & a Video Walkthrough)",
+      "description": "After many requests from you guys, here’s my review of the Panda Planner! Disclaimer: I was sent a copy of the planner in exchange for this review. I was going to purchase the planner anyway.…",
+      "image": "https://allaboutplanners.com.au/wp-content/uploads/2018/07/panda-planner-review-cheaper-alternative-to-passion-planner-similar-gender-neutral-pros-and-cons-project-planner-daily-weekly-simple-bookbound-goal-setting.jpg",
+      "url": "https://allaboutplanners.com.au/panda-planner-review-pros-cons-a-video-walkthrough/"
+    }
+  }
+}

@@ -1,0 +1,110 @@
+{
+  "slug": "hangers",
+  "query": "best hangers",
+  "title": "Best hangers | Bin Diving",
+  "description": "AI-dug recommendations for best hangers. Compare options and find one that fits.",
+  "dugAt": "2026-03-18T16:15:57.054Z",
+  "recommendations": [
+    {
+      "product_name": "Amazon Basics Slim Velvet Non-Slip Hangers (pack, assorted counts)",
+      "pros": [
+        "Ultra-slim — saves closet space",
+        "Non-slip velvet prevents slipping"
+      ],
+      "cons": [
+        "Velvet can shed for some fabrics",
+        "Plastic core less durable than wood"
+      ],
+      "price": null,
+      "amazon_id": "B00FXNABPI",
+      "sources": [
+        "https://www.hgtv.com/lifestyle/clean-and-organize/best-clothes-hangers",
+        "https://amp.cnn.com/cnn/cnn-underscored/home/best-hangers",
+        "https://www.bobvila.com/articles/best-hangers/"
+      ],
+      "amazon_url": "https://www.amazon.com/Amazon-Basics-Non-Slip-Clothes-Hangers/dp/B00FXNABPI",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/C0M5EQ0txKoTm5acrFYZDaziGvd2VFrbzABYRgSKE3M/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9tLm1l/ZGlhLWFtYXpvbi5j/b20vaW1hZ2VzL0kv/MzF2dnRUaUIwSUwu/anBn",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "Wooden Contour Suit/Wood Shirt Hangers (beech/cedar style, multiple brands)",
+      "pros": [
+        "Sturdy — supports suits and heavy garments",
+        "Preserves shoulder shape of clothing"
+      ],
+      "cons": [
+        "Bulkier — takes more closet space",
+        "Higher cost per hanger"
+      ],
+      "price": null,
+      "amazon_id": "B07R3BVSQF",
+      "sources": [
+        "https://amp.cnn.com/cnn/cnn-underscored/home/best-hangers",
+        "https://www.bobvila.com/articles/best-hangers/",
+        "https://www.goodhousekeeping.com/best-hangers/"
+      ],
+      "amazon_url": "https://www.amazon.com/Woodlore-Deluxe-Contour-Wooden-Shoulder/dp/B07R3BVSQF",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/rZjl2Q31wwCaPXXYuG4Qsu_R0dOwEz3BAdijOjhqaH0/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9pbWFn/ZXMtbmEuc3NsLWlt/YWdlcy1hbWF6b24u/Y29tL2ltYWdlcy9J/LzgxdFpybGgzZm1M/LmpwZw",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "Slim Plastic/ABS Space-Saving Hangers (non-slip molded & multi-use packs)",
+      "pros": [
+        "Very affordable and lightweight",
+        "Durable for everyday shirts and pants"
+      ],
+      "cons": [
+        "Can warp under very heavy garments",
+        "Less premium appearance than wood"
+      ],
+      "price": null,
+      "amazon_id": "B0746SHPJ2",
+      "sources": [
+        "https://www.hgtv.com/lifestyle/clean-and-organize/best-clothes-hangers",
+        "https://www.thesleepjudge.com/roundup/best-hangers-for-clothes-reviews/",
+        "https://www.bobvila.com/articles/best-hangers/"
+      ],
+      "amazon_url": "https://www.amazon.com/Quality-Plastic-Velvet-Non-Flocked-Hangers/dp/B0746SHPJ2",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/IiauXeqeWD_70amyY6UyjQ0aavzbxARTe3n5_GOT1pQ/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9pbWFn/ZXMtbmEuc3NsLWlt/YWdlcy1hbWF6b24u/Y29tL2ltYWdlcy9J/LzcxRFhNazFSSzRM/LmpwZw",
+      "resolver": "brave",
+      "valid": true
+    }
+  ],
+  "resolvedLinks": {
+    "https://www.hgtv.com/lifestyle/clean-and-organize/best-clothes-hangers": {
+      "title": "The Best Clothes Hangers of 2024",
+      "description": "Refresh your closet with these best-selling clothing hangers starting at just under $10.",
+      "image": "https://hgtvhome.sndimg.com/content/dam/images/hgtv/products/2023/1/27/rx_the-container-store_basic-lotus-wooden-hangers-.jpeg.rend.hgtvcom.616.616.85.suffix/1674851436962.webp",
+      "url": "https://www.hgtv.com/lifestyle/clean-and-organize/best-clothes-hangers"
+    },
+    "https://amp.cnn.com/cnn/cnn-underscored/home/best-hangers": {
+      "title": "The 17 best hangers for clothes in 2025 | CNN Underscored",
+      "description": "We asked four professional organizers to share their tips on picking the best clothing hangers and to share their hanger recommendations.",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/clothing-hangers-lead.jpg?c=16x9&q=w_800,c_fill",
+      "url": "https://www.cnn.com/cnn-underscored/home/best-hangers"
+    },
+    "https://www.bobvila.com/articles/best-hangers/": {
+      "title": "The Best Hangers, Tested and Reviewed",
+      "description": "The best hangers keep your clothes and closet in fine form. We tested top picks to see how well they worked in our closets. See which ones took the top spots in our review.",
+      "image": "https://www.bobvila.com/wp-content/uploads/2020/10/The_Best_Hangers_Option.jpg?quality=85&w=1200",
+      "url": "https://www.bobvila.com/articles/best-hangers/"
+    },
+    "https://www.goodhousekeeping.com/best-hangers/": {
+      "title": "Our Top-Tested Hangers Are the Simple Change Your Closet Needs",
+      "description": "Discover clothes hangers that truly hold up.",
+      "image": "https://hips.hearstapps.com/hmg-prod/images/ghk-indextesting-hangers-080-67a4ea6ab564e.jpg?crop=1.00xw:0.752xh;0,0.142xh&resize=1200:*",
+      "url": "https://www.goodhousekeeping.com/home-products/g63433856/best-hangers/"
+    },
+    "https://www.thesleepjudge.com/roundup/best-hangers-for-clothes-reviews/": {
+      "title": "Best Hangers for Clothes to Protect and Prolong Their Life Reviews 2026 - The Sleep Judge",
+      "description": "This article shows how to find the best hangers for clothes and what products are raving right now.",
+      "image": "https://www.thesleepjudge.com/wp-content/uploads/2022/08/hangers-for-clothes-featured-image.jpg",
+      "url": "https://www.thesleepjudge.com/roundup/best-hangers-for-clothes-reviews/"
+    }
+  }
+}

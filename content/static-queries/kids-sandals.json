@@ -1,0 +1,104 @@
+{
+  "slug": "kids-sandals",
+  "query": "best kids sandals",
+  "title": "Best kids sandals | Bin Diving",
+  "description": "AI-dug recommendations for best kids sandals. Compare options and find one that fits.",
+  "dugAt": "2026-03-18T22:24:01.333Z",
+  "recommendations": [
+    {
+      "product_name": "KEEN Kids Newport H2 Sandal",
+      "pros": [
+        "Closed-toe protection",
+        "Quick-drying, water-friendly",
+        "Durable outsole for play"
+      ],
+      "cons": [
+        "Can be bulky for dress wear",
+        "Some quality reports vary"
+      ],
+      "price": null,
+      "amazon_id": "B002R8JPTK",
+      "sources": [
+        "https://www.rei.com/product/113809/keen-newport-h2-sandals-kids",
+        "https://www.dickssportinggoods.com/p/keen-kids-newport-h2-sandals/15keeynwprth2blckfot"
+      ],
+      "amazon_url": "https://www.amazon.com/KEEN-Unisex-Kid-Newport-Sandal/dp/B002R8JPTK",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/qo4Wb_TAnmLiOUYjp_gxmtHX4iXKTOHt7HGs5RF8sDA/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9jZG4x/MS5iaWdjb21tZXJj/ZS5jb20vcy1zNjJy/NzAvaW1hZ2VzL3N0/ZW5jaWwvNTAweDY1/OS9wcm9kdWN0cy81/MDYwLzEzMzg5L0tF/RU4tTGl0dGxlLUtp/ZHMtTmV3cG9ydC1I/Mi1SYWluYm93LVRp/ZS1keWVfXzkyMTUx/LjE2ODA4MTQ1MDAu/anBnP2M9Mg",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "Chaco Kids Z/1 EcoTread Sandal",
+      "pros": [
+        "Adjustable strap for secure fit",
+        "Sturdy, grippy Ecotread sole",
+        "Known for long-lasting tread"
+      ],
+      "cons": [
+        "Strap break-in can rub at first",
+        "Higher price than budget brands"
+      ],
+      "price": null,
+      "amazon_id": "B00GAZPH66",
+      "sources": [
+        "https://www.chacos.com/US/en/z-1-ecotread-sandal/23343K.html",
+        "https://www.rei.com/product/256188/chaco-z1-ecotread-sandals-kids"
+      ],
+      "amazon_url": "https://www.amazon.com/Chaco-Z1-Ecotread-Sandal-Toddler/dp/B00GAZPH66",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/ktsJ4G4McJKdXjdV8LmKnZ6VQULaGOIzX4TZbYqVq5E/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly93d3cu/Ymx1ZXpvbmVzcG9y/dHMuY29tL3Byb2Rp/bWFnZXMvOTE1MC1T/V0VFUElOR0ZVQ0hT/SUEtbC5qcGc",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "Crocs Kids Classic Clog",
+      "pros": [
+        "Extremely lightweight and easy to clean",
+        "Very popular with kids (fun colors/charms)",
+        "Affordable and widely available"
+      ],
+      "cons": [
+        "Minimal structure or arch support",
+        "Vent holes may let debris in"
+      ],
+      "price": null,
+      "amazon_id": "B09773PF39",
+      "sources": [
+        "https://kith.com/products/cr204536-100",
+        "https://www.dsw.com/product/crocs-classic-clog---kids/555812"
+      ],
+      "amazon_url": "https://www.amazon.com/Crocs-Kids-Classic-Clog-Taffy/dp/B09773PF39",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/wenPs88rbjR6nDQNXqLJ2Mnws59wxiUNMCavsXvKsQE/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9pLmVi/YXlpbWcuY29tL2lt/YWdlcy9nL2x1d0FB/ZVN3fksxcE5oRGov/cy1sNDAwLndlYnA",
+      "resolver": "brave",
+      "valid": true
+    }
+  ],
+  "resolvedLinks": {
+    "https://www.dickssportinggoods.com/p/keen-kids-newport-h2-sandals/15keeynwprth2blckfot": {
+      "title": "",
+      "description": "",
+      "image": "",
+      "url": "https://www.dickssportinggoods.com/p/keen-kids-newport-h2-sandals/15keeynwprth2blckfot"
+    },
+    "https://www.chacos.com/US/en/z-1-ecotread-sandal/23343K.html": {
+      "title": "Z/1 EcoTread™ Sandal",
+      "description": "Machine washable and durable, this kids version of our classic Z/1 can handle anything your kids can put them through. Mud pies and capture the flag have m",
+      "image": "https://thekit.wolverineworldwide.com/match/media_lookup/CHAK-JCH180400Z-022724-S25-000/?preset=dw-large",
+      "url": "https://www.chacos.com/US/en/z-1-ecotread-sandal/23343K.html"
+    },
+    "https://kith.com/products/cr204536-100": {
+      "title": "Crocs Classic Clog Kids - White",
+      "description": "Classic Clog Kids silhouette Synthetic upper Foam cushion Ventilation holes accommodate  Ankle strap with embossed Crocs branding Iconic Crocs graphic on strap   Style: cr204536-100 Color: White Material: Synthetic",
+      "image": "http://kith.com/cdn/shop/products/CR204536-100CrocsClassicClogKidsWhite_20300.jpg?v=1650650258",
+      "url": "https://kith.com/products/cr204536-100"
+    },
+    "https://www.dsw.com/product/crocs-classic-clog---kids/555812": {
+      "title": "Shoes: Women's, Men's & Kids Shoes from Top Brands | DSW",
+      "description": "",
+      "image": "",
+      "url": "https://www.dsw.com/product/crocs-classic-clog---kids/555812"
+    }
+  }
+}

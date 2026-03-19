@@ -1,0 +1,125 @@
+{
+  "slug": "dish-racks",
+  "query": "best dish racks",
+  "title": "Best dish racks | Bin Diving",
+  "description": "AI-dug recommendations for best dish racks. Compare options and find one that fits.",
+  "dugAt": "2026-03-18T17:22:41.462Z",
+  "recommendations": [
+    {
+      "product_name": "OXO Good Grips Aluminum Fold Flat / Foldaway Dish Rack",
+      "pros": [
+        "Collapsible for easy storage",
+        "Sturdy aluminum frame",
+        "Converts between flat and two-tier"
+      ],
+      "cons": [
+        "Takes counter space when in use",
+        "Utensil holder small"
+      ],
+      "price": "$46.00",
+      "amazon_id": "B09BVYVFZQ",
+      "sources": [
+        "https://www.tomsguide.com/home/kitchen-dining/i-added-this-usd46-foldable-dish-rack-to-my-kitchen-and-it-instantly-doubled-my-sink-space",
+        "https://www.foodnetwork.com/how-to/packages/shopping/product-reviews/best-dish-drying-racks",
+        "https://www.oxo.com/oxo-good-grips-aluminum-fold-flat-dish-rack.html"
+      ],
+      "amazon_url": "https://www.amazon.com/OXO-Aluminum-Drainboard-Kitchen-Collapsible/dp/B09BVYVFZQ",
+      "gpt_azn": "B00L9X6OKC",
+      "image_url": "https://imgs.search.brave.com/jkooleVOboe5yUeu8eOlcxonBU2PAhk_Um0C5y0GK_Y/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9tLm1l/ZGlhLWFtYXpvbi5j/b20vaW1hZ2VzL0kv/NTFCTzZKZVpGY0wu/anBn",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "Joseph Joseph Extend / Expandable Dish Rack (Stainless Steel)",
+      "pros": [
+        "Expandable to fit various sink sizes",
+        "Removable cutlery/drain components",
+        "High-quality stainless construction"
+      ],
+      "cons": [
+        "Can be pricier than basic racks",
+        "Some users report pooling if not positioned correctly"
+      ],
+      "price": "$30.00",
+      "amazon_id": "B07YLGKFR9",
+      "sources": [
+        "https://www.bonappetit.com/story/best-dish-drying-racks",
+        "https://us.josephjoseph.com/products/extend-max-expandable-dish-drainer-stainless-steel",
+        "https://theinventory.com/no-dishwasher-this-joseph-joseph-expandable-dish-rack-1840994193"
+      ],
+      "amazon_url": "https://www.amazon.com/Joseph-Stainless-Steel-Extendable-Non-Scratch-Drainage/dp/B07YLGKFR9",
+      "gpt_azn": "B00R86DNGW",
+      "image_url": "https://imgs.search.brave.com/vKRqR49gN9UM57ASA7n5AmF8afjHnjD7gZ-vCcYNO8M/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9zb2tv/LmNvbS5hdS9jZG4v/c2hvcC9wcm9kdWN0/cy9qb3NlcGgtam9z/ZXBoLWV4dGVuZC1l/eHBhbmRhYmxlLWRp/c2gtcmFjay1zdGFp/bmxlc3Mtc3RlZWwt/c29rby1hbmQtY28t/Mi5qcGc_dj0xNjg1/ODU0ODA5JndpZHRo/PTEwMDA",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "KitchenAid Large Capacity Full-Size Dish Rack",
+      "pros": [
+        "Very roomy for large loads and pots",
+        "Angled drainboard with removable flatware caddy",
+        "Rust-resistant finish"
+      ],
+      "cons": [
+        "Bulky for small kitchens",
+        "Heavier than foldable racks"
+      ],
+      "price": "$69.95",
+      "amazon_id": "B078JXFBDP",
+      "sources": [
+        "https://www.bestreviews.guide/dish-racks/kitchenaid-large-capacity-dish-rack-grey-b078jxfbdp",
+        "https://bestreviews.guide/dish-racks",
+        "https://buybestkitchenware.com/kitchenaid-large-capacity-rust-resistant-dish-rack-review/"
+      ],
+      "amazon_url": "https://www.amazon.com/KitchenAid-KNS896BXGRA-Full-Size-Light/dp/B078JXFBDP",
+      "gpt_azn": "B078JXFBPD",
+      "image_url": "https://imgs.search.brave.com/llhsKUwkfHtq0mK3XfDgIfRzVmNE8g5IzRA6srDhJss/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9pNS53/YWxtYXJ0aW1hZ2Vz/LmNvbS9zZW8vS2l0/Y2hlbmFpZC1GdWxs/LVNpemUtMjQtaW5j/aC1FeHBhbmRhYmxl/LURpc2gtRHJ5aW5n/LVJhY2staW4tQ2hh/cmNvYWxfYzMwYTY0/N2MtMzViYS00ODQz/LWE5ZDQtMWI3NDM0/OGY5YWNlLmMzOGFl/MWI4NzVhOGFkM2Iy/YzcyYmM5MmU2ODhj/ZjZhLmpwZWc_b2Ru/SGVpZ2h0PTU3NiZv/ZG5XaWR0aD01NzYm/b2RuQmc9RkZGRkZG",
+      "resolver": "brave",
+      "valid": true
+    }
+  ],
+  "resolvedLinks": {
+    "https://www.tomsguide.com/home/kitchen-dining/i-added-this-usd46-foldable-dish-rack-to-my-kitchen-and-it-instantly-doubled-my-sink-space": {
+      "title": "I added this $46 foldable dish rack to my kitchen and it instantly doubled my sink space",
+      "description": "This space-saving dish rack is just under $50",
+      "image": "https://cdn.mos.cms.futurecdn.net/YRK4dY2FEnje7suM8Hsjgk-2560-80.jpg",
+      "url": "https://www.tomsguide.com/home/kitchen-dining/i-added-this-usd46-foldable-dish-rack-to-my-kitchen-and-it-instantly-doubled-my-sink-space"
+    },
+    "https://www.foodnetwork.com/how-to/packages/shopping/product-reviews/best-dish-drying-racks": {
+      "title": "6 Best Dish Drying Racks of 2025, Tested and Reviewed",
+      "description": "We drained hundreds of dishes to find to the best dish drying racks for every kitchen.",
+      "image": "https://food.fnr.sndimg.com/content/dam/images/food/fullset/2023/2/24/FN-ProductTestingImages-17-Dish-Drying-Racks-v1.png.rend.hgtvcom.616.462.85.suffix/1677267953902.webp",
+      "url": "https://www.foodnetwork.com/how-to/packages/shopping/product-reviews/best-dish-drying-racks"
+    },
+    "https://www.bonappetit.com/story/best-dish-drying-racks": {
+      "title": "The Best Dish Drying Rack for Tidy Counters and Bone-Dry Plates",
+      "description": "And yes, you should own one even if you have a dishwasher.",
+      "image": "https://assets.bonappetit.com/photos/69091c7c20d0146ab1912782/16:9/w_1280,c_limit/10.31_BA_Best%20Dish%20Drying%20Rack.jpg",
+      "url": "https://www.bonappetit.com/story/best-dish-drying-racks"
+    },
+    "https://us.josephjoseph.com/products/extend-max-expandable-dish-drainer-stainless-steel": {
+      "title": "Large Expandable Dish Drainer for Cookware | Joseph Joseph US",
+      "description": "Tired of regular dish drainers only having space for crockery and utensils? This large expandable dish drainer can fit all this plus your pots and pans, too!",
+      "image": "http://us.josephjoseph.com/cdn/shop/files/851690_PDP_01.jpg?v=1704983224",
+      "url": "https://us.josephjoseph.com/products/extend-max-expandable-dish-drainer-stainless-steel"
+    },
+    "https://theinventory.com/no-dishwasher-this-joseph-joseph-expandable-dish-rack-1840994193": {
+      "title": "No Dishwasher? This Joseph Joseph Expandable Dish Rack Is Cheaper Than Ever",
+      "description": "Joseph Joseph Expandable Dish Drying Rack | $30 | Amazon",
+      "image": "https://theinventory.com/cdn-cgi/image/width=300,quality=85,format=auto/https://assets.qz.com/media/vumofh4inatsdm3xqwdo.jpg",
+      "url": "https://theinventory.com/no-dishwasher-this-joseph-joseph-expandable-dish-rack-1840994193"
+    },
+    "https://www.bestreviews.guide/dish-racks/kitchenaid-large-capacity-dish-rack-grey-b078jxfbdp": {
+      "title": "Kitchenaid large capacity dish rack grey Review | BestReviews.guide",
+      "description": "BestReviews.guide analyzes thousands of articles and customer reviews to find the top-rated products at today's lowest prices. Best products, best offers.",
+      "image": "https://images-proxy.bestreviews.guide/ZHWUm89imHSvlpkF_PWbjS9X4io=/0x300/https://m.media-amazon.com/images/I/41G8gzFfbFL._AC_CX679_.jpg",
+      "url": "https://www.bestreviews.guide/dish-racks/kitchenaid-large-capacity-dish-rack-grey-b078jxfbdp"
+    },
+    "https://bestreviews.guide/dish-racks": {
+      "title": "10 Best Dish Racks 2026 in the US | There's One Clear Winner | BestReviews.guide",
+      "description": "BestReviews.guide analyzes thousands of articles and customer reviews to find the top-rated products at today's lowest prices. Best products, best offers.",
+      "image": "https://images-proxy.bestreviews.guide/QMO9cIqot6wprcQr8obLd5nG5Ak=/0x300/https://m.media-amazon.com/images/I/41pHrVwrMuL._AC_CX679_.jpg",
+      "url": "https://www.bestreviews.guide/dish-racks"
+    }
+  }
+}

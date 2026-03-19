@@ -1,0 +1,112 @@
+{
+  "slug": "laptops-under-500",
+  "query": "best laptops under $500",
+  "title": "Best laptops under $500 | Bin Diving",
+  "description": "AI-dug recommendations for best laptops under $500. Compare options and find one that fits.",
+  "dugAt": "2026-03-18T19:32:44.712Z",
+  "recommendations": [
+    {
+      "product_name": "Acer Aspire Go 15 (2025)",
+      "pros": [
+        "Good value for specs",
+        "Large 15\" display",
+        "Solid battery life for price"
+      ],
+      "cons": [
+        "Not for heavy gaming",
+        "Build is plastic",
+        "Lower-end CPU in base configs"
+      ],
+      "price": null,
+      "amazon_id": "B0CV5ZSR17",
+      "sources": [
+        "https://www.pcworld.com/article/699203/best-laptops-under-500.html"
+      ],
+      "amazon_url": "https://www.amazon.com/Display-i3-N305-Graphics-Windows-AG15-31P-3947/dp/B0CV5ZSR17",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/gmU2AKvodsbY1K5SD0xZLH9J8vLfhf57ZiVjDuqRGo4/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly93d3cu/bm90ZWJvb2tjaGVj/ay5uZXQvZmlsZWFk/bWluL19wcm9jZXNz/ZWRfL2IvYS9jc21f/QWNlcl9Bc3BpcmVf/R29fMTVfQUcxNV8z/MVBfQXVzc2VuZWlu/c2F0el8zOTA4OWJl/MTZlLmpwZw",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "Acer Chromebook 314 / Spin 314",
+      "pros": [
+        "Excellent battery life",
+        "Very affordable",
+        "Lightweight and portable"
+      ],
+      "cons": [
+        "Lower-resolution on some configs",
+        "Limited to Chrome OS apps",
+        "Basic performance for heavy multitasking"
+      ],
+      "price": null,
+      "amazon_id": "B09R5WWXZG",
+      "sources": [
+        "https://www.techradar.com/news/best-laptops-under-dollar500",
+        "https://www.techradar.com/reviews/acer-chromebook-314"
+      ],
+      "amazon_url": "https://www.amazon.com/Acer-Chromebook-Convertible-Pentium-CP314-1H-P9G7/dp/B09R5WWXZG",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/5_vmIuNoyHI8DADfAFU-9BBn6029RN5E_ziV9v9dELM/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9tLm1l/ZGlhLWFtYXpvbi5j/b20vaW1hZ2VzL0kv/MzFVN2FxNTBCNEwu/anBn",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "Lenovo Chromebook Flex 5 (13.3\")",
+      "pros": [
+        "2‑in‑1 versatility (tablet mode)",
+        "1080p touchscreen on many SKUs",
+        "Strong value and solid keyboard"
+      ],
+      "cons": [
+        "Some SKUs have modest RAM/storage",
+        "Not suited for demanding Windows apps",
+        "Older models can show fan/noise issues"
+      ],
+      "price": null,
+      "amazon_id": "B086383HC7",
+      "sources": [
+        "https://www.digitaltrends.com/computing/lenovo-chromebook-flex-5-review/",
+        "https://www.pcworld.com/article/3575589/lenovo-flex-5-chromebook-review.html"
+      ],
+      "amazon_url": "https://www.amazon.com/Lenovo-Chromebook-i3-10110U-Integrated-82B80006UX/dp/B086383HC7",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/dns8aPPrkE3FzrLgW0qcqKi3-9DaA2nHLg0hFQpZ6RM/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9jMS5u/ZXdlZ2dpbWFnZXMu/Y29tL3Byb2R1Y3Rp/bWFnZS9uYjY0MC9B/SFJDRDIxMTIwMzE4/N0s3T0RELmpwZw",
+      "resolver": "brave",
+      "valid": true
+    }
+  ],
+  "resolvedLinks": {
+    "https://www.pcworld.com/article/699203/best-laptops-under-500.html": {
+      "title": "Want a laptop under $500? These 3 are the best",
+      "description": "Need a laptop that won’t break the bank but still gets stuff done? We picked the best laptops under $500 that can easily handle your day-to-day workloads.",
+      "image": "https://www.pcworld.com/wp-content/uploads/2026/03/Acer_Aspire3.jpg?quality=50&strip=all&w=1024",
+      "url": "https://www.pcworld.com/article/699203/best-laptops-under-500.html"
+    },
+    "https://www.techradar.com/news/best-laptops-under-dollar500": {
+      "title": "The best laptops under $500 2026: the best budget laptops around",
+      "description": "These are the best laptops under $500 available now",
+      "image": "https://cdn.mos.cms.futurecdn.net/Lb9KCkQ63MJ3AAFJX3E7Go-2000-80.jpg",
+      "url": "https://www.techradar.com/news/best-laptops-under-dollar500"
+    },
+    "https://www.techradar.com/reviews/acer-chromebook-314": {
+      "title": "Acer Chromebook 314 review",
+      "description": "A tremendous Chromebook harboring great performance and battery life",
+      "image": "https://cdn.mos.cms.futurecdn.net/CcapwyHuFXZTzhPzB9SeaR-2560-80.jpg",
+      "url": "https://www.techradar.com/reviews/acer-chromebook-314"
+    },
+    "https://www.digitaltrends.com/computing/lenovo-chromebook-flex-5-review/": {
+      "title": "Lenovo Chromebook Flex 5 review: A $410 laptop done right",
+      "description": "Modern, thin, and light, the Lenovo Chromebook Flex 5 might be the best Chromebook you can buy under $500.",
+      "image": "https://www.digitaltrends.com/tachyon/2020/06/lenovo-chromebook-flex-5-14.jpg?resize=1200%2C630",
+      "url": "https://www.digitaltrends.com/computing/lenovo-chromebook-flex-5-review/"
+    },
+    "https://www.pcworld.com/article/3575589/lenovo-flex-5-chromebook-review.html": {
+      "title": "Lenovo Flex 5 Chromebook review: Affordable choice for school or work",
+      "description": "The Lenovo Flex 5 Chromebook is an excellent value, but beware of subpar screen and speaker quality.",
+      "image": "https://www.pcworld.com/wp-content/uploads/2025/04/lenovoflex5hero-100858171-orig.jpg?quality=50&strip=all&w=1024",
+      "url": "https://www.pcworld.com/article/393512/lenovo-flex-5-chromebook-review.html"
+    }
+  }
+}

@@ -1,0 +1,116 @@
+{
+  "slug": "laptops",
+  "query": "best laptops",
+  "title": "Best laptops | Bin Diving",
+  "description": "AI-dug recommendations for best laptops. Compare options and find one that fits.",
+  "dugAt": "2026-03-18T19:29:58.653Z",
+  "recommendations": [
+    {
+      "product_name": "Apple MacBook Neo (2026)",
+      "pros": [
+        "Very high performance Apple silicon",
+        "Excellent battery life",
+        "Premium Retina-class display"
+      ],
+      "cons": [
+        "Premium price",
+        "Limited upgradability"
+      ],
+      "price": null,
+      "amazon_id": "B0GR6F79MT",
+      "sources": [
+        "https://en.wikipedia.org/wiki/MacBook_Neo",
+        "https://www.tomsguide.com/news/cheap-macbook-deals-and-sales"
+      ],
+      "amazon_url": "https://www.amazon.com/Apple-2026-MacBook-13-inch-Laptop/dp/B0GR6F79MT",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/uEidXw0AVEv0XscZie8OA76p_PYp2YyBcTXmmuccml8/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9tZWRp/YS5jbm4uY29tL2Fw/aS92MS9pbWFnZXMv/c3RlbGxhci9wcm9k/L2FwcGxlLW1hY2Jv/b2stbmVvLTIwMjYt/ZWRpdG9yLXMtcGlj/ay1iYWRnZS5qcGc_/Yz0xNng5JnE9aF84/MzMsd18xNDgwLGNf/ZmlsbA",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "Dell XPS 13 (latest)",
+      "pros": [
+        "Compact premium build",
+        "Strong all‑around performance",
+        "Excellent display options"
+      ],
+      "cons": [
+        "Can be pricey at higher configs",
+        "Limited port selection"
+      ],
+      "price": null,
+      "amazon_id": "B0CKKVYHNL",
+      "sources": [
+        "https://www.tomsguide.com/best-picks/best-laptops",
+        "https://www.pcworld.com/article/3024314/the-10-best-laptops-at-ces-2026.html"
+      ],
+      "amazon_url": "https://www.amazon.com/XPS-13-9315-i7-1250U-1920x1200/dp/B0CKKVYHNL",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/G9SztZbhvhmJFVteXJkuWMCLjMQVGdP15_IDzCDZxP0/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9pLnBj/bWFnLmNvbS9pbWFn/ZXJ5L3Jldmlld3Mv/MDQ4WHRCUThqVzJR/cTc0RGFDcXg3cWUt/MS5maXRfc2NhbGUu/c2l6ZV80MDB4MjI1/LnYxNjY2MTA1Njgx/LmpwZw",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "Framework Laptop 16 (2026 edition)",
+      "pros": [
+        "Modular, easily repairable/upgradable",
+        "Good for privacy and longevity",
+        "Strong sustainability credentials"
+      ],
+      "cons": [
+        "Higher upfront cost for modular parts",
+        "Not as widely available in every SKU"
+      ],
+      "price": null,
+      "amazon_id": "B0CR2XFK4H",
+      "sources": [
+        "https://serverman.co.uk/everything-hardware/everything-laptops/best-laptops-2026/",
+        "https://www.alibaba.com/product-insights/top-laptops-of-2026-ultimate-guide-to-the-best-choices.html"
+      ],
+      "amazon_url": "https://www.amazon.com/BoxWave-Adapter-Compatible-Framework-Laptop/dp/B0CR2XFK4H",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/nqCcvTszcgWAl4Jc3xYfXPxgqUGlFk5BdE4hlNmvCPA/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9wMS5j/b21nYXRld2F5LmNv/bS8yMDI2LzAyLzEw/L2VhN2I0NWNjNzA0/NC5qcGctbGc",
+      "resolver": "brave",
+      "valid": true
+    }
+  ],
+  "resolvedLinks": {
+    "https://en.wikipedia.org/wiki/MacBook_Neo": {
+      "title": "MacBook Neo - Wikipedia",
+      "description": "",
+      "image": "https://upload.wikimedia.org/wikipedia/en/thumb/2/2e/MacBook_Neo_%28256GB_Citrus%3B_2026%3B_Low_angle%29.webp/1280px-MacBook_Neo_%28256GB_Citrus%3B_2026%3B_Low_angle%29.webp.png",
+      "url": "https://en.wikipedia.org/wiki/MacBook_Neo"
+    },
+    "https://www.tomsguide.com/news/cheap-macbook-deals-and-sales": {
+      "title": "Best MacBook deals in March 2026",
+      "description": "The best MacBook deals and sales right now",
+      "image": "https://cdn.mos.cms.futurecdn.net/skxePPaQNiUKLN8anCQMYb-2000-80.jpg",
+      "url": "https://www.tomsguide.com/news/cheap-macbook-deals-and-sales"
+    },
+    "https://www.tomsguide.com/best-picks/best-laptops": {
+      "title": "I test laptops year-round and these are the best laptops you can buy in 2026",
+      "description": "Here are the best laptops my team and I recommend based on our lab testing and hands-on reviews",
+      "image": "https://cdn.mos.cms.futurecdn.net/E7uSABSyBBWTGXMzRoXmn3-2560-80.jpg",
+      "url": "https://www.tomsguide.com/computing/laptops/best-laptops"
+    },
+    "https://www.pcworld.com/article/3024314/the-10-best-laptops-at-ces-2026.html": {
+      "title": "The 10 best laptops at CES 2026",
+      "description": "We went hands-on to find the best laptops at CES 2026, highlighting the biggest winners in OLED, performance, and design.",
+      "image": "https://www.pcworld.com/wp-content/uploads/2026/01/Best-of-CES-2026-2.jpg?quality=50&strip=all&w=1024",
+      "url": "https://www.pcworld.com/article/3024314/the-10-best-laptops-at-ces-2026.html"
+    },
+    "https://serverman.co.uk/everything-hardware/everything-laptops/best-laptops-2026/": {
+      "title": "Best Laptops 2026 — The Official Early Buyer’s Guide",
+      "description": "Best Laptops 2026 - The laptop market in 2026 is changing fast AI-powered processors, ultra-long battery life, improved cooling, and new security features",
+      "image": "https://www.serverman.co.uk/wp-content/uploads/2026/01/favicon.jpg",
+      "url": "https://www.serverman.co.uk/hardware/laptops/best-laptops-2026/"
+    },
+    "https://www.alibaba.com/product-insights/top-laptops-of-2026-ultimate-guide-to-the-best-choices.html": {
+      "title": "Top Laptops Of 2026: Ultimate Guide To The Best Choices",
+      "description": "",
+      "image": "",
+      "url": "https://www.alibaba.com/product-insights/top-laptops-of-2026-ultimate-guide-to-the-best-choices.html"
+    }
+  }
+}

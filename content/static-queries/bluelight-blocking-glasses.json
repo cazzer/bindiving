@@ -1,0 +1,101 @@
+{
+  "slug": "bluelight-blocking-glasses",
+  "query": "best blue‑light blocking glasses",
+  "title": "Best blue‑light blocking glasses | Bin Diving",
+  "description": "AI-dug recommendations for best blue‑light blocking glasses. Compare options and find one that fits.",
+  "dugAt": "2026-03-18T23:07:49.990Z",
+  "recommendations": [
+    {
+      "product_name": "Gunnar Intercept Blue Light Blocking Glasses",
+      "pros": [
+        "Designed for extended computer use",
+        "Multiple lens tint options (clear to amber)"
+      ],
+      "cons": [
+        "Some users report fit/comfort issues",
+        "Not the cheapest option"
+      ],
+      "price": null,
+      "amazon_id": "B00CAUTK0E",
+      "sources": [
+        "https://www.tomsguide.com/best-picks/best-blue-light-blocking-glasses",
+        "https://parade.com/1192630/kimberlyzapata/best-blue-light-blocking-glasses/"
+      ],
+      "amazon_url": "https://www.amazon.com/GUNNAR-Gaming-Computer-Glasses-Intercept/dp/B00CAUTK0E",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/UfqEG9de_G9dG0HXxJvOhzKiRCHQFlTDaJw5oKNp2-8/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9pbWcu/aGlwc3RlcnBpeGVs/LmNvL2d1bm5hci1p/bnRlcmNlcHQtYW1i/ZXItZ2xhc3Nlcy1i/bHVlLWxpZ2h0LWhw/LmpwZw",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "PROSPEK Blue Light Blocking Glasses (Prospek ELITE/Premium)",
+      "pros": [
+        "Affordable with many frame styles",
+        "Gentle tint options for daytime use"
+      ],
+      "cons": [
+        "Mixed results vs. high-end amber lenses for sleep",
+        "Some claims (e.g., EMF blocking) are overstated"
+      ],
+      "price": null,
+      "amazon_id": "B00TWOOULU",
+      "sources": [
+        "https://www.bestreviews.guide/blue-light-glasses",
+        "https://powersof10.com/best-blue-light-glasses-for-men/"
+      ],
+      "amazon_url": "https://www.amazon.com/PROSPEK-Computer-Glasses-Light-Blocking/dp/B00TWOOULU",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/kYGQgNNIZkEpVxoUoY1z9e6lfF8Z49iX8eVptryrlFM/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9pLnNs/ZWVwb3BvbGlzLmNv/bS80MjMvNTYxLzcx/NC8wL2JsdWVsaWdo/dC1nbGFzc2VzLXBy/b3NwZWsud2VicA",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "Swanwick Night Swannies (Night blue-light blocking glasses)",
+      "pros": [
+        "Amber Night lens blocks ~99% blue light for pre-bed use",
+        "Backed by SleepScore/Some independent sleep studies"
+      ],
+      "cons": [
+        "Strong amber tint alters color perception",
+        "Premium price vs basic clear filters"
+      ],
+      "price": null,
+      "amazon_id": "B010B5GUH0",
+      "sources": [
+        "https://www.swanwicksleep.com/products/blue-banned-swannies",
+        "https://sleepsciencedaily.com/which-blue-light-glasses-are-right-for-me/"
+      ],
+      "amazon_url": "https://www.amazon.com/Swanwick-Eyestrain-Classic-Night-Regular/dp/B010B5GUH0",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/kxq6QLiorfL7kju5Z68zLUC_6KhxYRwcn4jN-Z9ea1w/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9jZG5w/MS5zdGFja2Fzc2V0/cy5jb20vMzM2MzAx/MmNkZTExZWFlNDdi/NjQ5YWVkNzc5ODZj/ODNlN2VjYzQzMy9z/dG9yZS9iNTdkZDUy/MGI3MTgxYzMzZDli/NDc3YTViNjAzMDYw/MWNkZDk3NTU4Yjg4/OTcxZGEwZTNjM2Mx/MDFlMDIvcHJvZHVj/dF8zNDc2Ml9wcm9k/dWN0X3Nob3RzMi5q/cGc",
+      "resolver": "brave",
+      "valid": true
+    }
+  ],
+  "resolvedLinks": {
+    "https://www.tomsguide.com/best-picks/best-blue-light-blocking-glasses": {
+      "title": "I tried blue light blocking glasses for 2 months — they didn't help my headaches, but these 3 remedies did",
+      "description": "Fixing eye strain can be an art instead of a science",
+      "image": "https://cdn.mos.cms.futurecdn.net/noxkRr4jYJX5tyfRyd7Qu3-1491-80.jpg",
+      "url": "https://www.tomsguide.com/home/home-office/i-tried-blue-light-blocking-glasses-for-2-months-they-didnt-help-my-headaches-but-these-3-remedies-did"
+    },
+    "https://www.bestreviews.guide/blue-light-glasses": {
+      "title": "10 Best Blue Light Glasses 2026 in the US | There's One Clear Winner | BestReviews.guide",
+      "description": "BestReviews.guide analyzes thousands of articles and customer reviews to find the top-rated products at today's lowest prices. Best products, best offers.",
+      "image": "https://images-proxy.bestreviews.guide/-QL6b9akSVj4z-JFw3jZJZylxyk=/0x150/https://m.media-amazon.com/images/I/21ksO8w1B8L._AC_CX679_.jpg",
+      "url": "https://www.bestreviews.guide/blue-light-glasses"
+    },
+    "https://www.swanwicksleep.com/products/blue-banned-swannies": {
+      "title": "Blue-banned Sleep Swannies | Blue Light Blocking Glasses | Swanwick",
+      "description": "Say goodbye to sleepless nights and hello to improved focus with Sleep Swannies. Block the excessive blue light for a better tomorrow! Shop now!",
+      "image": "http://www.swanwicksleep.com/cdn/shop/files/NightHenleyFrontOpen3DRendersBlack.png?crop=center&height=1200&v=1726641984&width=1200",
+      "url": "https://www.swanwicksleep.com/products/blue-banned-swannies"
+    },
+    "https://sleepsciencedaily.com/which-blue-light-glasses-are-right-for-me/": {
+      "title": "The 5 Best Blue Light Glasses for Night Owls (2025 Review)",
+      "description": "Struggling to fall asleep after screen time? Discover the best blue light glasses for night owls—plus what science says about how they protect your sleep.",
+      "image": "https://sleepsciencedaily.com/wp-content/uploads/2025/11/cropped-ChatGPT-Image-Nov-24-2025-11_25_52-AM-e1764001681159.png",
+      "url": "https://sleepsciencedaily.com/which-blue-light-glasses-are-right-for-me/"
+    }
+  }
+}

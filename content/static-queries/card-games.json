@@ -1,0 +1,89 @@
+{
+  "slug": "card-games",
+  "query": "best card games",
+  "title": "Best card games | Bin Diving",
+  "description": "AI-dug recommendations for best card games. Compare options and find one that fits.",
+  "dugAt": "2026-03-18T18:55:05.314Z",
+  "recommendations": [
+    {
+      "product_name": "Magic: The Gathering (starter kits)",
+      "pros": [
+        "Deep strategic gameplay",
+        "Huge variety of decks/sets"
+      ],
+      "cons": [
+        "Steep learning curve",
+        "Can be expensive long-term"
+      ],
+      "price": null,
+      "amazon_id": "B0C3T2XGND",
+      "sources": [
+        "https://www.gamesradar.com/best-card-games-compared/",
+        "https://boardgamegeek.com/boardgame/20520/magic-gathering"
+      ],
+      "amazon_url": "https://www.amazon.com/Magic-Gathering-Starter-Ready-Play/dp/B0C3T2XGND",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/RRcb6xdfXQJcuwA28Y3tLRurjW28pl_0DraTKL5yeqk/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9pNS53/YWxtYXJ0aW1hZ2Vz/LmNvbS9zZW8vTWFn/aWMtVGhlLUdhdGhl/cmluZy1TdGFydGVy/LUtpdC0yMDIzX2Vi/MGVjNTUzLTQyNjQt/NDQzOS04ZjU2LTVk/NzE5ZTIwOWFhMC43/NGMxOGUyN2Q2Y2Zk/ZGY1NDJlZDdkNjNh/NGJiMzM3OC5qcGVn/P29kbkhlaWdodD01/NzMmb2RuV2lkdGg9/NTczJm9kbkJnPUZG/RkZGRg",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "Codenames (board game)",
+      "pros": [
+        "Great party/word-game for groups",
+        "Easy to teach and play"
+      ],
+      "cons": [
+        "Relies on shared knowledge/language",
+        "Not ideal for solo play"
+      ],
+      "price": null,
+      "amazon_id": "B014Q1XX9S",
+      "sources": [
+        "https://www.gamesradar.com/best-card-games-compared/",
+        "https://boardgamegeek.com/boardgame/178900/codenames"
+      ],
+      "amazon_url": "https://www.amazon.com/Czech-Games-00031CGE-Codenames/dp/B014Q1XX9S",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/epx83bjrhEyQ7fglqDq0hmVzvJy_tDe1OE2TfvwiTD0/rs:fit:0:180:1:0/g:ce/aHR0cHM6Ly9pLmVi/YXlpbWcuY29tL2lt/YWdlcy9nLy1rVUFB/T1N3MG1oanVGMEIv/cy1sMjI1LmpwZw",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "Sushi Go!",
+      "pros": [
+        "Fast, family-friendly gameplay",
+        "Highly replayable for kids"
+      ],
+      "cons": [
+        "Lightweight strategy (not deep)",
+        "Small box/components can shift in transit"
+      ],
+      "price": null,
+      "amazon_id": "B01CETNKE2",
+      "sources": [
+        "https://www.gamesradar.com/best-card-games-compared/",
+        "https://en.wikipedia.org/wiki/Sushi_Go%21"
+      ],
+      "amazon_url": "https://www.amazon.com/Sushi-Go-Party-Card-Game/dp/B01CETNKE2",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/I5LCvdMsK2KIO-PETstqRinyqMcmlDD5ZBswU5R_9qQ/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9jZG4u/c2hvcGxpZ2h0c3Bl/ZWQuY29tL3Nob3Bz/LzYzMzY4My9maWxl/cy8yMTYyNTYxMC8x/NjAweDIwNDh4MS9n/YW1ld3JpZ2h0LXN1/c2hpLWdvLmpwZw",
+      "resolver": "brave",
+      "valid": true
+    }
+  ],
+  "resolvedLinks": {
+    "https://www.gamesradar.com/best-card-games-compared/": {
+      "title": "The 6 best card games of 2026, reviewed and tested by experts",
+      "description": "These essential recommendations won't get lost in the shuffle",
+      "image": "https://cdn.mos.cms.futurecdn.net/oVnsvBLCqBqfAW8EqZFNgP-1920-80.jpg",
+      "url": "https://www.gamesradar.com/best-card-games-compared/"
+    },
+    "https://en.wikipedia.org/wiki/Sushi_Go%21": {
+      "title": "Sushi Go! - Wikipedia",
+      "description": "",
+      "image": "https://upload.wikimedia.org/wikipedia/en/9/98/Sushi_Go%21_box.jpg",
+      "url": "https://en.wikipedia.org/wiki/Sushi_Go%21"
+    }
+  }
+}

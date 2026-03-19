@@ -1,0 +1,116 @@
+{
+  "slug": "tablets",
+  "query": "best tablets",
+  "title": "Best tablets | Bin Diving",
+  "description": "AI-dug recommendations for best tablets. Compare options and find one that fits.",
+  "dugAt": "2026-03-18T19:26:19.087Z",
+  "recommendations": [
+    {
+      "product_name": "Apple iPad (11-inch, 11th generation)",
+      "pros": [
+        "Great value for most users",
+        "Strong performance with A16 chip",
+        "Long battery life and iPadOS app ecosystem"
+      ],
+      "cons": [
+        "Accessories (Pencil/keyboard) sold separately",
+        "Not as powerful as iPad Pro"
+      ],
+      "price": "$299 (typical sale price)",
+      "amazon_id": "B0DZ77D5HL",
+      "sources": [
+        "https://www.tomsguide.com/computing/ipads/ipad-11-2025-review",
+        "https://www.macrumors.com/2025/01/25/ipad-11-rumor-recap/"
+      ],
+      "amazon_url": "https://www.amazon.com/Apple-iPad-11-inch-Display-All-Day/dp/B0DZ77D5HL",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/UxitiHXRqzlCoBA5A58c8lZjRhSTpTDy0f9LHNYkFUw/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9pNS5z/YW1zY2x1YmltYWdl/cy5jb20vYXNyLzAy/NTZmNzc5LTg2MWMt/NGQ1YS1iMjBmLTA0/YjAzZjM5N2NlMS5m/NGRlYTIxNjJkZDZk/ZmYzN2VhMjJjMjU5/NWIyODVkOS5qcGVn/P29kbkhlaWdodD02/NDAmb2RuV2lkdGg9/NjQwJm9kbkJnPUZG/RkZGRg",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "Apple iPad Pro 13-inch (M5)",
+      "pros": [
+        "Top-tier performance for creatives and pros",
+        "Excellent OLED display and speakers",
+        "Strong accessory and software support"
+      ],
+      "cons": [
+        "Expensive at higher capacities",
+        "Overkill for casual users"
+      ],
+      "price": "$1,199+ (varies by configuration; frequent Amazon discounts reported)",
+      "amazon_id": "B0FWD1MS82",
+      "sources": [
+        "https://www.phonearena.com/reviews/apple-ipad-pro-13-inch-m5-review-a-fantastic-overkill_id7762",
+        "https://www.macrumors.com/2026/02/12/m5-ipad-pro-record-low-prices/"
+      ],
+      "amazon_url": "https://www.amazon.com/Apple-iPad-Pro-13-inch-Landscape/dp/B0FWD1MS82",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/OMnESEpsmDTvYolRJg8IRanfURbK4o0v1Czz_APjO9A/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9tLWNk/bi5waG9uZWFyZW5h/LmNvbS9pbWFnZXMv/cmV2aWV3cy8yNzQ1/NjQtaW1hZ2UvQks2/QTY5MDQud2VicD93/PTE",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "Samsung Galaxy Tab S11",
+      "pros": [
+        "High-end Android tablet with S Pen included",
+        "Strong display and Samsung DeX multitasking",
+        "Available in multiple sizes including Ultra"
+      ],
+      "cons": [
+        "Accessory availability early after launch can be limited",
+        "Some users report app compatibility quirks"
+      ],
+      "price": "$659.99–$1,199.99 (varies by model/configuration)",
+      "amazon_id": "B0FGKN976K",
+      "sources": [
+        "https://www.samsung.com/us/tablets/galaxy-tab-s11/",
+        "https://www.androidcentral.com/tablets/samsung-galaxy-tab/the-sleek-and-versatile-samsung-galaxy-tab-s11-just-scored-a-usd140-discount-at-amazon-and-yes-it-still-comes-with-an-s-pen-stylus"
+      ],
+      "amazon_url": "https://www.amazon.com/Samsung-Android-Display-Performance-Note-Taking/dp/B0FGKN976K",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/9qz_BuNP-xCQGd1d3JyNVS0wGQcJ_rGfh8O6qhstC4M/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9tLWNk/bi5waG9uZWFyZW5h/LmNvbS9pbWFnZXMv/YXJ0aWNsZS8xNzgx/NjItd2lkZS10d29f/MzUwL1NhbXN1bmdz/LWxhdGVzdC1kZWFs/LW1ha2VzLXRoZS1H/YWxheHktVGFiLVMx/MS1VbHRyYS1hLW1v/cmUtYWZmb3JkYWJs/ZS1wcm9kdWN0aXZp/dHktcG93ZXJob3Vz/ZS53ZWJw",
+      "resolver": "brave",
+      "valid": true
+    }
+  ],
+  "resolvedLinks": {
+    "https://www.tomsguide.com/computing/ipads/ipad-11-2025-review": {
+      "title": "iPad 11 review: Apple nails the affordable tablet",
+      "description": "A worthy update to Apple's base iPad",
+      "image": "https://cdn.mos.cms.futurecdn.net/j8ZtYHM3Yk3L2iJtcpQyS-2000-80.jpg",
+      "url": "https://www.tomsguide.com/computing/ipads/ipad-11-2025-review"
+    },
+    "https://www.macrumors.com/2025/01/25/ipad-11-rumor-recap/": {
+      "title": "iPad: Should You Buy? Feature List, Reviews, and Advice",
+      "description": "The \"iPad\" is Apple's low-priced mainstream iPad, updated in March 2025 with the A16 chip and higher storage tiers of 128, 256, and 512GB.",
+      "image": "https://images.macrumors.com/t/BH9_t0XIYjj4pO4BBUimnvtPGg4=/1600x/article-new/2013/09/ipad-10-folio-transparent-roundup.png",
+      "url": "https://www.macrumors.com/roundup/ipad/"
+    },
+    "https://www.phonearena.com/reviews/apple-ipad-pro-13-inch-m5-review-a-fantastic-overkill_id7762": {
+      "title": "Apple iPad Pro 13-inch (M5) review: A fantastic overkill!",
+      "description": "Apple has the peculiar habit of putting the fastest chips in devices with the most limited operating system. Exhibit A: the iPad Pro 13-inch (M5).",
+      "image": "https://m-cdn.phonearena.com/images/review/7762-wide-two_1200/Apple-iPad-Pro-13-inch-M5-review-A-fantastic-overkill.jpg",
+      "url": "https://www.phonearena.com/reviews/Apple-iPad-Pro-13-inch-M5-review-A-fantastic-overkill_id7762"
+    },
+    "https://www.macrumors.com/2026/02/12/m5-ipad-pro-record-low-prices/": {
+      "title": "Apple's M5 iPad Pro Hits Multiple Record Low Prices on Amazon [Updated]",
+      "description": "Amazon this week is offering discounts across the M5 iPad Pro lineup, including both 11-inch and 13-inch models. Every deal on the 11-inch M5 iPad Pro that we're tracking below is a match of the all-time low price on these tablets. Note: MacRumors is an affiliate partner with some of these vendors. When you click a link and make a purchase, we may receive a small payment, which helps us keep the site running.",
+      "image": "https://images.macrumors.com/t/q7PCmOh2oHwxKF12S_4qNLQGTv8=/2500x/article-new/2025/10/m5-ipad-pro.jpeg",
+      "url": "https://www.macrumors.com/2026/02/12/m5-ipad-pro-record-low-prices/"
+    },
+    "https://www.samsung.com/us/tablets/galaxy-tab-s11/": {
+      "title": "Galaxy Tab S11 Series | Samsung US",
+      "description": "Galaxy Tab S11 and S11 Ultra feature thin and light design, brilliant AMOLED displays, AI tools, IP68 water resistance, Samsung DeX and S Pen included.",
+      "image": "https://www.samsung.com/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-common/resources/images/logo-square-letter.png",
+      "url": "https://www.samsung.com/us/tablets/galaxy-tab-s11/"
+    },
+    "https://www.androidcentral.com/tablets/samsung-galaxy-tab/the-sleek-and-versatile-samsung-galaxy-tab-s11-just-scored-a-usd140-discount-at-amazon-and-yes-it-still-comes-with-an-s-pen-stylus": {
+      "title": "The sleek and versatile Samsung Galaxy Tab S11 just scored a $140 discount at Amazon, and yes, it still comes with an S Pen stylus",
+      "description": "The Samsung Galaxy Tab S11 comes with the S Pen and specs capable enough to handle most tasks.",
+      "image": "https://cdn.mos.cms.futurecdn.net/XdX3gXQJnkFxVyvvcPWmgX-2560-80.jpg",
+      "url": "https://www.androidcentral.com/tablets/samsung-galaxy-tab/the-sleek-and-versatile-samsung-galaxy-tab-s11-just-scored-a-usd140-discount-at-amazon-and-yes-it-still-comes-with-an-s-pen-stylus"
+    }
+  }
+}

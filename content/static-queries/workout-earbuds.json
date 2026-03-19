@@ -1,0 +1,98 @@
+{
+  "slug": "workout-earbuds",
+  "query": "best workout earbuds",
+  "title": "Best workout earbuds | Bin Diving",
+  "description": "AI-dug recommendations for best workout earbuds. Compare options and find one that fits.",
+  "dugAt": "2026-03-18T21:45:41.750Z",
+  "recommendations": [
+    {
+      "product_name": "Jabra Elite 8 Active",
+      "pros": [
+        "Rugged, workout-focused design",
+        "Secure fit for running/gym",
+        "Strong sound and ANC for sport"
+      ],
+      "cons": [
+        "Some users report occasional connectivity or audio issues",
+        "Bulky case for pockets"
+      ],
+      "price": null,
+      "amazon_id": "B0CB9563MB",
+      "sources": [
+        "https://www.soundguys.com/jabra-elite-8-active-review-101055/",
+        "https://www.trustedreviews.com/reviews/jabra-elite-8-active"
+      ],
+      "amazon_url": "https://www.amazon.com/Jabra-Elite-Active-Comfortable-Cancellation/dp/B0CB9563MB",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/mMGKMzNOi-gkhrjB8kPVevBa7EGpwREzTUo7hceywj0/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly93d3cu/c291bmRndXlzLmNv/bS93cC1jb250ZW50/L3VwbG9hZHMvMjAy/My8xMC9KYWJyYS1F/bGl0ZS04LUFjdGl2/ZS1GZWF0dXJlZC1J/bWFnZS0yLXNjYWxl/ZC5qcGc",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "Shokz OpenFit Pro",
+      "pros": [
+        "Open-ear design keeps you aware of surroundings",
+        "Improved noise reduction for open-ear buds",
+        "Excellent fit for exercise and long battery life"
+      ],
+      "cons": [
+        "Open-ear sound less bass-forward than in-ears",
+        "ANC/noise reduction limited compared with sealed buds"
+      ],
+      "price": null,
+      "amazon_id": "B0DN11MTZ6",
+      "sources": [
+        "https://www.tomsguide.com/audio/earbuds/shokz-openfit-pro-review",
+        "https://www.androidcentral.com/accessories/earbuds/shokzs-new-open-ear-workout-buds-add-noise-reduction-dolby-atmos-and-better-battery"
+      ],
+      "amazon_url": "https://www.amazon.com/SHOKZ-Headphones-Bluetooth-Microphone-Water-Resistant/dp/B0DN11MTZ6",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/DqxYXfgTySKJkRsD2LgTzzw1Kh0KOTgX2x4uJahaDtg/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly93d3cu/c291bmRndXlzLmNv/bS93cC1jb250ZW50/L3VwbG9hZHMvMjAy/Ni8wMS9zaG9rZS1v/cGVuZml0LXByby1l/YXJidWQtaW4taGFu/ZC1zY2FsZWQuanBn",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "Sony WF-1000XM5",
+      "pros": [
+        "Class-leading ANC and sound quality",
+        "Comfortable fit with excellent noise control",
+        "Feature-rich app and codecs for better audio"
+      ],
+      "cons": [
+        "Can be tricky to get a secure seal for all ear shapes during intense workouts",
+        "Some users report connectivity issues in crowded Bluetooth environments"
+      ],
+      "price": null,
+      "amazon_id": "B0C33XXS56",
+      "sources": [
+        "https://www.tomsguide.com/best-picks/best-noise-cancelling-earbuds",
+        "https://kindahtechronics.com/audio/earbuds/sony-wf-1000xm5/"
+      ],
+      "amazon_url": "https://www.amazon.com/Sony-WF-1000XM5-Bluetooth-Canceling-Headphones/dp/B0C33XXS56",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/1L3yEh5xXforJvmeDj0j7qD4kbTEUekF8QLw7IB-iYQ/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9pLmd1/aW0uY28udWsvaW1n/L21lZGlhL2FiYzU3/YjVkNWY5NWMzNGRi/OGU3MzY2Y2FmNGU4/Yjg0YzE1MmI4NzUv/NzgyXzQyMV8zOTAy/XzIzNDEvbWFzdGVy/LzM5MDIuanBnP3dp/ZHRoPTQ0NSZkcHI9/MSZzPW5vbmUmY3Jv/cD1ub25l",
+      "resolver": "brave",
+      "valid": true
+    }
+  ],
+  "resolvedLinks": {
+    "https://www.tomsguide.com/audio/earbuds/shokz-openfit-pro-review": {
+      "title": "Shokz OpenFit Pro review",
+      "description": "Meet Shokz' first open buds with noise cancellation",
+      "image": "https://cdn.mos.cms.futurecdn.net/YumYVj2nDzG8L4HS6RknpJ-2000-80.jpg",
+      "url": "https://www.tomsguide.com/audio/earbuds/shokz-openfit-pro-review"
+    },
+    "https://www.androidcentral.com/accessories/earbuds/shokzs-new-open-ear-workout-buds-add-noise-reduction-dolby-atmos-and-better-battery": {
+      "title": "My favorite workout earbuds just got a major 'Pro' redesign — these are the key upgrades",
+      "description": "Fresh off the impressive OpenFit 2+, Shokz has launched the OpenFit Pro with open-ear noise cancellation, wear detection, and other new perks.",
+      "image": "https://cdn.mos.cms.futurecdn.net/rwRwYXJcEWva9eVKKTXzyY-2560-80.jpg",
+      "url": "https://www.androidcentral.com/accessories/earbuds/shokzs-new-open-ear-workout-buds-add-noise-reduction-dolby-atmos-and-better-battery"
+    },
+    "https://www.tomsguide.com/best-picks/best-noise-cancelling-earbuds": {
+      "title": "These are the best noise canceling earbuds that are actually worth your money right now",
+      "description": "Silence the world around you with the best noise-cancelling earbuds recommended by our audio experts",
+      "image": "https://cdn.mos.cms.futurecdn.net/Umg7LQ4eRcsge39TVGEzg4-2560-80.jpg",
+      "url": "https://www.tomsguide.com/audio/earbuds/best-noise-canceling-earbuds"
+    }
+  }
+}

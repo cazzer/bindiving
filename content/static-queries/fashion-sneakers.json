@@ -1,0 +1,110 @@
+{
+  "slug": "fashion-sneakers",
+  "query": "best fashion sneakers",
+  "title": "Best fashion sneakers | Bin Diving",
+  "description": "AI-dug recommendations for best fashion sneakers. Compare options and find one that fits.",
+  "dugAt": "2026-03-18T22:56:46.794Z",
+  "recommendations": [
+    {
+      "product_name": "adidas Samba OG",
+      "pros": [
+        "Classic, versatile silhouette",
+        "Slim profile pairs with many outfits"
+      ],
+      "cons": [
+        "Some sizes sell out quickly",
+        "Counterfeit risk when not from official retailers"
+      ],
+      "price": "$110.00",
+      "amazon_id": "B0FBSBN1LF",
+      "sources": [
+        "https://www.shopbop.cdn.amazon.com/samba-adidas/vp/v%3D1/1558685028.htm",
+        "https://en.wikipedia.org/wiki/Adidas_Samba",
+        "https://www.cosmopolitan.com/style-beauty/fashion/a65334815/adidas-sambas-deals-amazon-prime-day-2025/"
+      ],
+      "amazon_url": "https://www.amazon.com/adidas-Mens-Samba-OG-Shoes/dp/B0FBSBN1LF",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/30qIU84iR_k_2q-WXsarw3EE1X5xlxJz_SlTHPw4N1k/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9tLm1l/ZGlhLWFtYXpvbi5j/b20vaW1hZ2VzL0kv/NjFjV3A4OW45N0wu/anBn",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "Nike Air Force 1 '07 Low",
+      "pros": [
+        "Timeless, highly wearable white leather look",
+        "Widely available and frequently discounted"
+      ],
+      "cons": [
+        "Heavier sole than slim fashion trainers",
+        "Many collaborations/variants can cause confusion when buying"
+      ],
+      "price": "$110 (typical retail)",
+      "amazon_id": "B01HK4Y3KG",
+      "sources": [
+        "https://smartbuy.alibaba.com/buyingguides/airforce-1-sneaker",
+        "https://www.mensjournal.com/style/most-popular-nike-sneakers-stockx-2026/",
+        "https://www.esquire.com/style/mens-fashion/g70394916/best-sneakers-2026/"
+      ],
+      "amazon_url": "https://www.amazon.com/NIKE-Force-Shoes-White-315122-111/dp/B01HK4Y3KG",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/QEBbbZAA1kgtXN49m7_ptCgo0TAarDsCzY7TAnB2lOY/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9tLm1l/ZGlhLWFtYXpvbi5j/b20vaW1hZ2VzL0kv/NzFGVXBiMTZJQkwu/anBn",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "New Balance 9060",
+      "pros": [
+        "Fashion-forward retro-futuristic silhouette",
+        "Comfortable cushioning suitable for long wear"
+      ],
+      "cons": [
+        "Chunkier look may not suit very slim outfits",
+        "Popular sizes/colors can sell out fast"
+      ],
+      "price": "$149.99",
+      "amazon_id": "B0D94TVMM2",
+      "sources": [
+        "https://www.shopbop.cdn.amazon.com/9060-sneakers-new-balance/vp/v%3D1/1527095339.htm",
+        "https://www.nycmode.com/blogs/news/best-sneakers-for-men-2026",
+        "https://www.marieclaire.com/fashion/best-new-trendy-sneakers-2026/"
+      ],
+      "amazon_url": "https://www.amazon.com/New-Balance-9060-Mens-Sneakers/dp/B0D94TVMM2",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/ALSYroK4T7Ulzg0z9bSg7aFe3riAq6WBYayou3ZCV_8/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9pLmVi/YXlpbWcuY29tL2lt/YWdlcy9nL1dpZ0FB/ZVN3bFJOcGV4eDgv/cy1sOTYwLndlYnA",
+      "resolver": "brave",
+      "valid": true
+    }
+  ],
+  "resolvedLinks": {
+    "https://en.wikipedia.org/wiki/Adidas_Samba": {
+      "title": "Adidas Samba - Wikipedia",
+      "description": "",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Adidas_Samba_OG.jpg/1280px-Adidas_Samba_OG.jpg",
+      "url": "https://en.wikipedia.org/wiki/Adidas_Samba"
+    },
+    "https://www.cosmopolitan.com/style-beauty/fashion/a65334815/adidas-sambas-deals-amazon-prime-day-2025/": {
+      "title": "Not a Drill: Adidas Sambas Are 50% Off for Amazon Prime Day",
+      "description": "The ultimate shopping miracle.",
+      "image": "https://hips.hearstapps.com/hmg-prod/images/amp-samba-686d5dcd70def.png?crop=1xw:0.9953703703703703xh;center,top&resize=1200:*",
+      "url": "https://www.cosmopolitan.com/style-beauty/fashion/a65334815/adidas-sambas-deals-amazon-prime-day-2025/"
+    },
+    "https://smartbuy.alibaba.com/buyingguides/airforce-1-sneaker": {
+      "title": "How to Choose the Best Air Force 1 Sneaker: Ultimate Buying Guide",
+      "description": "Discover how to choose the right Air Force 1 sneaker by evaluating fit, materials, variants, and value. Expert tips for informed buyers.",
+      "image": "https://s.alicdn.com/@sc04/kf/H2e45c40979f242ba9e60f3f668696099n.jpg",
+      "url": "https://smartbuy.alibaba.com/buyingguides/airforce-1-sneaker"
+    },
+    "https://www.esquire.com/style/mens-fashion/g70394916/best-sneakers-2026/": {
+      "title": "The 13 Best Sneakers of 2026 So Far",
+      "description": "From your new favorite everyday sneakers to the best collabs on the market now.",
+      "image": "https://hips.hearstapps.com/hmg-prod/images/1-sidebyside-6998cc1a9abaa.jpg?crop=1.00xw:1.00xh;0,0&resize=1200:*",
+      "url": "https://www.esquire.com/style/mens-fashion/g70394916/best-sneakers-2026/"
+    },
+    "https://www.nycmode.com/blogs/news/best-sneakers-for-men-2026": {
+      "title": "Best Sneakers for Men in 2026: Top 15 Picks for Every Budget and Style",
+      "description": "The 15 best men's sneakers for 2026 — from everyday classics to budget picks under $100. Nike, Jordan, New Balance, Adidas & more. Updated for this year.",
+      "image": "http://www.nycmode.com/cdn/shop/articles/Best_Sneakers_for_Men_in_2026.png?v=1771780250&width=2048",
+      "url": "https://www.nycmode.com/blogs/news/best-sneakers-for-men-2026"
+    }
+  }
+}

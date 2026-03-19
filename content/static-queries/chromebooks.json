@@ -1,0 +1,110 @@
+{
+  "slug": "chromebooks",
+  "query": "best chromebooks",
+  "title": "Best chromebooks | Bin Diving",
+  "description": "AI-dug recommendations for best chromebooks. Compare options and find one that fits.",
+  "dugAt": "2026-03-18T19:30:39.434Z",
+  "recommendations": [
+    {
+      "product_name": "ASUS Chromebook Plus CX34",
+      "pros": [
+        "Strong performance for productivity",
+        "Good port selection",
+        "Solid battery life"
+      ],
+      "cons": [
+        "Not the cheapest option",
+        "13\" screen may feel small to some"
+      ],
+      "price": null,
+      "amazon_id": "B0DDCG4CLM",
+      "sources": [
+        "https://www.pcworld.com/article/608636/best-chromebooks.html",
+        "https://www.bestbuy.com/product/asus-expertbook-cx54-14-2k-chromebook-plus-laptop-with-google-ai-intel-core-ultra-5-16gb-memory-256gb-ssd-fog-silver/JJGGLQVRGX"
+      ],
+      "amazon_url": "https://www.amazon.com/ASUS-Chromebook-Plus-CX34-Touchscreen/dp/B0DDCG4CLM",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/QaHdGuTBA5_aN9Jd8PyilssXes1wg8pjY5a0wVMYeKk/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9jZG4u/bW9zLmNtcy5mdXR1/cmVjZG4ubmV0L2tK/czk3V0VieGtGZGpZ/RnB2Zzg2aEUuanBn",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "Acer Chromebook Spin 714 (Chromebook Plus)",
+      "pros": [
+        "Excellent battery life",
+        "Convertible 2‑in‑1 design",
+        "Strong overall performance for the price"
+      ],
+      "cons": [
+        "Higher-end models can be pricey",
+        "Occasional reports of connectivity quirks"
+      ],
+      "price": null,
+      "amazon_id": "B0BVMF3C6Y",
+      "sources": [
+        "https://www.laptopmag.com/laptops/chromebooks/best-buys-anti-prime-day-chromebook-deals-are-crushing-the-competition",
+        "https://www.acer.com/us-en/chromebooks/acer-chromebook-spin-714-cp714-1wn"
+      ],
+      "amazon_url": "https://www.amazon.com/Chromebook-714-Touchscreen-i5-1335U-i7-1270P/dp/B0BVMF3C6Y",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/wOsM1wvHCMJn5aVU8xyZHaB0eH26-doA4hC2aiLa5yM/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9tZWRp/YS53aXJlZC5jb20v/cGhvdG9zLzY2NzM0/ZTQwNmRkNDNjMGQ5/NjY0YmE1Mi9tYXN0/ZXIvd18xNjAwLGNf/bGltaXQvQWNlci1D/aHJvbWVib29rLVBs/dXMtU3Bpbi03MTQt/RnJvbnQtT3Blbi1G/b2xkZWQtVGFibGV0/LVJldmlld2VyLVBo/b3RvLVNPVVJDRS1E/YW5pZWwtVGhvcnAt/TGFuY2FzdGVyLmpw/Zw",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "Samsung Galaxy Chromebook Plus",
+      "pros": [
+        "Premium build and lightweight",
+        "Vivid display options",
+        "Good battery life and performance"
+      ],
+      "cons": [
+        "Limited storage on some SKUs",
+        "Can be pricier than midrange Chromebooks"
+      ],
+      "price": null,
+      "amazon_id": "B0DPR7KPHL",
+      "sources": [
+        "https://www.laptopmag.com/reviews/best-chromebooks-6",
+        "https://www.samsung.com/us/computing/chromebooks/chromebook-plus/"
+      ],
+      "amazon_url": "https://www.amazon.com/SAMSUNG-Galaxy-Chromebook-Display-Neptune/dp/B0DPR7KPHL",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/2oBwLdCGstcuRjJDApxiT-iIxlubd_jRiU_lB04TKJI/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9jZG4u/bW9zLmNtcy5mdXR1/cmVjZG4ubmV0L1Bm/eVRkckI3Ulg0eXE1/OVhQNjRQc1UuanBn",
+      "resolver": "brave",
+      "valid": true
+    }
+  ],
+  "resolvedLinks": {
+    "https://www.pcworld.com/article/608636/best-chromebooks.html": {
+      "title": "I tested the best Chromebooks of 2026. These are the ones I'd buy",
+      "description": "Looking for the best Chromebook in 2026? Our expert reviews cover top models for work, school, and entertainment -- they've been tested for battery life, performance, and value.",
+      "image": "https://www.pcworld.com/wp-content/uploads/2026/03/ports.jpg?quality=50&strip=all&w=1024",
+      "url": "https://www.pcworld.com/article/608636/best-chromebooks.html"
+    },
+    "https://www.laptopmag.com/laptops/chromebooks/best-buys-anti-prime-day-chromebook-deals-are-crushing-the-competition": {
+      "title": "\"It’s got great battery life (over 12 hours), competition-beating performance, and an attractive 2-in-1 design\": Acer's Chromebook Spin 714 leads 5 epic Prime Day Chromebook deals",
+      "description": "Lowest ever prices and sub-$150 Chromebooks are amongst Best Buy's retaliatory strike at Amazon.",
+      "image": "https://cdn.mos.cms.futurecdn.net/Kd5auyKhh7fpCrnSUcUxRW-2560-80.jpg",
+      "url": "https://www.laptopmag.com/laptops/chromebooks/best-buys-anti-prime-day-chromebook-deals-are-crushing-the-competition"
+    },
+    "https://www.acer.com/us-en/chromebooks/acer-chromebook-spin-714-cp714-1wn": {
+      "title": "Acer Chromebook Spin 714 (CP714-1WN) | 2-in-1 High-Performance Evo Acer Chromebook | Acer United States",
+      "description": "The 2-in-1 Acer Chromebook Spin 714 lets you stay productive anywhere with its 14” display1, 12th Gen Intel® Core™ i7 processor1, and military-grade durability.",
+      "image": "",
+      "url": "https://www.acer.com/us-en/chromebooks/acer-chromebook-spin-714-cp714-1wn"
+    },
+    "https://www.laptopmag.com/reviews/best-chromebooks-6": {
+      "title": "I love a good Chromebook, here are 5 I recommend based on our testing and reviews",
+      "description": "The best Chromebooks are affordable alternatives to Windows laptops or MacBooks, here are 5 I recommend based on our testing and reviews.",
+      "image": "https://cdn.mos.cms.futurecdn.net/SJAXcZHQVbbxaibswVsbv3-2560-80.jpg",
+      "url": "https://www.laptopmag.com/reviews/best-chromebook"
+    },
+    "https://www.samsung.com/us/computing/chromebooks/chromebook-plus/": {
+      "title": "Galaxy Chromebook Plus | Google AI | Samsung US",
+      "description": "Explore the ultra-thin, lightweight Galaxy Chromebook Plus with a faster Intel® Core™, Google AI, AMOLED display, and 13-hour battery—built for productivity on the go.",
+      "image": "https://www.samsung.com/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-common/resources/images/logo-square-letter.png",
+      "url": "https://www.samsung.com/us/computing/chromebooks/chromebook-plus/"
+    }
+  }
+}

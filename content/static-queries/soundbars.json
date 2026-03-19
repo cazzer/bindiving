@@ -1,0 +1,125 @@
+{
+  "slug": "soundbars",
+  "query": "best soundbars",
+  "title": "Best soundbars | Bin Diving",
+  "description": "AI-dug recommendations for best soundbars. Compare options and find one that fits.",
+  "dugAt": "2026-03-18T21:41:23.081Z",
+  "recommendations": [
+    {
+      "product_name": "Sonos Arc Ultra",
+      "pros": [
+        "Exceptional immersive Dolby Atmos",
+        "Integrates with Sonos ecosystem",
+        "Strong dialogue clarity"
+      ],
+      "cons": [
+        "High price",
+        "Limited bass without Sub"
+      ],
+      "price": null,
+      "amazon_id": "B0DFK28LBB",
+      "sources": [
+        "https://www.techradar.com/audio/wireless-bluetooth-speakers/upgrade-your-home-cinema-with-usd200-off-the-four-star-rated-sonos-arc-ultra",
+        "https://tech.yahoo.com/audio/articles/best-soundbars-2026-165941449.html",
+        "https://www.rtings.com/soundbar/reviews/best/soundbar"
+      ],
+      "amazon_url": "https://www.amazon.com/Sonos-Ultra-Soundbar-Dolby-Control/dp/B0DFK28LBB",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/13pjQmjPkKb9PQhJlA_QzL-L1PsZ-IieAoXlFZkyV5A/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly93d3cu/Z2VhcnBhdHJvbC5j/b20vd3AtY29udGVu/dC91cGxvYWRzL3Np/dGVzLzIvMjAyNC8x/MS9zb25vcy1hcmMt/dWx0cmEtcmV2aWV3/LTQtanBnLndlYnA_/dz0xMzAw",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "Samsung HW-Q990C (Q-Series flagship)",
+      "pros": [
+        "True multidriver surround with Dolby Atmos/DTS:X",
+        "Powerful home-theater performance",
+        "Good integration with Samsung TVs (Q-Symphony)"
+      ],
+      "cons": [
+        "Large footprint",
+        "Can be expensive with optional rear speakers"
+      ],
+      "price": null,
+      "amazon_id": "B0BVWCDMNN",
+      "sources": [
+        "https://www.t3.com/features/best-soundbar",
+        "https://www.rtings.com/soundbar/reviews/best/soundbar",
+        "https://www.tomsguide.com/audio/soundbars/samsung-qs750f-review"
+      ],
+      "amazon_url": "https://www.amazon.com/SAMSUNG-HW-Q990C-11-1-4ch-Soundbar-Q-Symphony/dp/B0BVWCDMNN",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/8__6Kb933B2JoBstptA-oTdAZkA4s83Mk1Uo8yHhNIg/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9iMmMt/Y29udGVudGh1Yi5j/b20vd3AtY29udGVu/dC91cGxvYWRzLzIw/MjMvMDkvU2Ftc3Vu/Zy1IVy1ROTkwQy10/b3AtYnV0dG9ucy5q/cGVnP3F1YWxpdHk9/NTAmc3RyaXA9YWxs/Jnc9MTIwMA",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "Bose Smart Dolby Atmos Soundbar (900/Smart Series)",
+      "pros": [
+        "Refined sound and strong voice/room processing",
+        "Sleek design and easy setup",
+        "Smart features and streaming support"
+      ],
+      "cons": [
+        "Occasional app/voice-assistant quirks reported",
+        "Pricey compared with similarly spec'd models"
+      ],
+      "price": null,
+      "amazon_id": "B094YN85V2",
+      "sources": [
+        "https://www.technobezz.com/best/bose-smart-dolby-atmos-soundbar-drops-to-399-at-amazon-2026-01-31-vra1",
+        "https://www.bestreviews.guide/best-soundbars",
+        "https://www.rtings.com/soundbar/reviews/best/soundbar"
+      ],
+      "amazon_url": "https://www.amazon.com/Bose-Soundbar-Built-Bluetooth-connectivity/dp/B094YN85V2",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/4X8y7Ym4hgTvV6smDXm7UnUUOh1JmnEJ-ew3U6fnU8s/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9jZG4u/bW9zLmNtcy5mdXR1/cmVjZG4ubmV0LzhL/amFhUUg2R0tMaFBw/U2lSN1BramYuanBn",
+      "resolver": "brave",
+      "valid": true
+    }
+  ],
+  "resolvedLinks": {
+    "https://www.techradar.com/audio/wireless-bluetooth-speakers/upgrade-your-home-cinema-with-usd200-off-the-four-star-rated-sonos-arc-ultra": {
+      "title": "This premium and four-star Sonos soundbar is the ideal audio upgrade for movies and the Super Bowl",
+      "description": "This Sonos Arc Ultra deal is just $20 away from its all-time record-low price on Amazon.",
+      "image": "https://cdn.mos.cms.futurecdn.net/r5AcXp5QJXfrJNfMbvdpbY-2000-80.jpg",
+      "url": "https://www.techradar.com/audio/wireless-bluetooth-speakers/upgrade-your-home-cinema-with-usd200-off-the-four-star-rated-sonos-arc-ultra"
+    },
+    "https://tech.yahoo.com/audio/articles/best-soundbars-2026-165941449.html": {
+      "title": "The Best Soundbars for 2026",
+      "description": "Want better audio from your TV? From our test lab to your living room, these are the top soundbars we've tested.",
+      "image": "https://s.yimg.com/ny/api/res/1.2/_IRH849X4PgejneLrPNdjw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/pc_mag_263/087ff99864f6bea5df49dcd98accea99",
+      "url": "https://www.pcmag.com/picks/the-best-soundbars"
+    },
+    "https://www.rtings.com/soundbar/reviews/best/soundbar": {
+      "title": "The 6 Best Soundbars of 2026",
+      "description": "The Samsung HW-Q990F is the best soundbar we've tested. This premium 11.1.4 setup is the next generation of the Samsung HW-Q990D with a redesigned subwoofer.",
+      "image": "https://i.rtings.com/assets/pages/p4LvXDad/best-soundbars-20251028-1-medium.jpg?format=auto",
+      "url": "https://www.rtings.com/soundbar/reviews/best/soundbar"
+    },
+    "https://www.t3.com/features/best-soundbar": {
+      "title": "Best soundbar 2026: Our TV experts pick the best options for all budgets",
+      "description": "Enhance your TV's output with one of the best soundbars or surround sound products",
+      "image": "https://cdn.mos.cms.futurecdn.net/TEmGpHGRLKdkyhH3CSAk3S-1920-80.jpg",
+      "url": "https://www.t3.com/features/best-soundbar"
+    },
+    "https://www.tomsguide.com/audio/soundbars/samsung-qs750f-review": {
+      "title": "‘It sounds so good, I forgot I was supposed to be reviewing it’: Samsung QS750F review",
+      "description": "All this for well under $1,000… I’m shocked",
+      "image": "https://cdn.mos.cms.futurecdn.net/6rS96ZgLQKWeKDZTzk6djH-1920-80.jpg",
+      "url": "https://www.tomsguide.com/audio/soundbars/samsung-qs750f-review"
+    },
+    "https://www.technobezz.com/best/bose-smart-dolby-atmos-soundbar-drops-to-399-at-amazon-2026-01-31-vra1": {
+      "title": "Bose Smart Dolby Atmos Soundbar drops to $399",
+      "description": "Save $70 on Bose's premium Dolby Atmos soundbar, featuring immersive audio and voice control, now at a rare discount on Amazon.",
+      "image": "https://cdn.technobezz.com/c/Super_Deal_63264bf07a.png",
+      "url": "https://www.technobezz.com/best/bose-smart-dolby-atmos-soundbar-drops-to-399-at-amazon-2026-01-31-vra1"
+    },
+    "https://www.bestreviews.guide/best-soundbars": {
+      "title": "10 Best Soundbars 2026 in the US | There's One Clear Winner | BestReviews.guide",
+      "description": "BestReviews.guide analyzes thousands of articles and customer reviews to find the top-rated products at today's lowest prices. Best products, best offers.",
+      "image": "https://images-proxy.bestreviews.guide/5bRxv2_q00EUmT0kNS9sQgEC-DU=/0x150/https://m.media-amazon.com/images/I/21jeE3LqeJL._AC_CX679_.jpg",
+      "url": "https://www.bestreviews.guide/soundbars"
+    }
+  }
+}

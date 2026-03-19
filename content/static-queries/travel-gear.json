@@ -1,0 +1,108 @@
+{
+  "slug": "travel-gear",
+  "query": "best travel gear",
+  "title": "Best travel gear | Bin Diving",
+  "description": "AI-dug recommendations for best travel gear. Compare options and find one that fits.",
+  "dugAt": "2026-03-18T18:42:32.988Z",
+  "recommendations": [
+    {
+      "product_name": "Peak Design Travel Backpack 45L",
+      "pros": [
+        "Highly organized layout",
+        "Weather-resistant recycled fabric"
+      ],
+      "cons": [
+        "Relatively heavy",
+        "Can feel bulky when full"
+      ],
+      "price": null,
+      "amazon_id": "B0DDL4YW86",
+      "sources": [
+        "https://www.peakdesign.com/products/travel-backpack-45l-black",
+        "https://www.t3.com/home-living/travel/peak-design-travel-backpack-45l-review",
+        "https://packhacker.com/travel-gear/peak-design/travel-backpack/"
+      ],
+      "amazon_url": "https://www.amazon.com/Peak-Design-Travel-Backpack-BTR-45-BK-2/dp/B0DDL4YW86",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/ReENJ6c4qPX7Uff1wgAectiTZpfz86Sx8LBIiOqbEuM/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9jZG4u/dGhld2lyZWN1dHRl/ci5jb20vd3AtY29u/dGVudC9tZWRpYS8y/MDI0LzA5L2NhcnJ5/b250cmF2ZWxiYWNr/cGFja3MtMjA0OHB4/LTc2NjguanBnP2F1/dG89d2VicCZxdWFs/aXR5PTc1JndpZHRo/PTEwMjQ",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "Samsonite Cosmolite 55cm Spinner Cabin Case",
+      "pros": [
+        "Extremely lightweight hard shell",
+        "Durable CURV material with smooth 4-wheel spinner"
+      ],
+      "cons": [
+        "Not expandable",
+        "Premium price for the brand"
+      ],
+      "price": null,
+      "amazon_id": "B01BBXN5NS",
+      "sources": [
+        "https://www.t3.com/features/best-suitcase"
+      ],
+      "amazon_url": "https://www.amazon.com/Samsonite-Hand-Luggage-Liters-Black/dp/B01BBXN5NS",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/GjB7O1QEgfKCeB8ouuID7ln6gYEUHhr6aiOKJwdNO0U/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9tLm1l/ZGlhLWFtYXpvbi5j/b20vaW1hZ2VzL0kv/NDFaSUdwWnYtK0wu/anBn",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "Peak Design Packing Cubes (Trio/Ultralight options)",
+      "pros": [
+        "Durable, expandable design",
+        "Integrates well with Peak Design travel packs"
+      ],
+      "cons": [
+        "Higher price than budget cubes",
+        "Some sizes may be small for larger backpacks"
+      ],
+      "price": null,
+      "amazon_id": "B0D4F6H3PL",
+      "sources": [
+        "https://packhacker.com/travel-gear/peak-design/packing-cubes/",
+        "https://www.forbes.com/sites/mercedeslilienthal/2024/07/27/tested-peak-design-packing-cube-trio-for-car-camping-and-traveling/",
+        "https://www.travelandleisure.com/travel-tips/packing-tips/best-packing-cubes-for-travel"
+      ],
+      "amazon_url": "https://www.amazon.com/Peak-Design-Packing-Efficient-travelling/dp/B0D4F6H3PL",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/0zhW4XoADBEhQyXf-z2CprmR8ftJXF0E979rCO2AD4Q/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9pbWFn/ZXMtbmEuc3NsLWlt/YWdlcy1hbWF6b24u/Y29tL2ltYWdlcy9J/LzYxK05kNGZET3lM/LmpwZw",
+      "resolver": "brave",
+      "valid": true
+    }
+  ],
+  "resolvedLinks": {
+    "https://www.peakdesign.com/products/travel-backpack-45l-black": {
+      "title": "Travel Backpack 45L | Peak Design Official Site",
+      "description": "A versatile, durable, and beautiful carry-on travel backpack driven by a simple truth: no two trips are the same. Features top, side, front and rear acc...",
+      "image": "",
+      "url": "https://www.peakdesign.com/products/travel-backpack?Size=45L&Color=Black"
+    },
+    "https://www.t3.com/home-living/travel/peak-design-travel-backpack-45l-review": {
+      "title": "I thought Peak Design's 45L backpack would be too big until I started travelling with it",
+      "description": "The brand's most ambitious travel backpack yet, for travellers who like everything in its place",
+      "image": "https://cdn.mos.cms.futurecdn.net/fXJaMWKMnkUe2Y9byjrJEa-2048-80.jpg",
+      "url": "https://www.t3.com/home-living/travel/peak-design-travel-backpack-45l-review"
+    },
+    "https://packhacker.com/travel-gear/peak-design/travel-backpack/": {
+      "title": "Peak Design Travel Backpack 45L Review | Pack Hacker",
+      "description": "The Peak Design Travel Backpack 45L is nothing short of genius. Its innovative features and design make it a stand-out in our mind, even though some of the materials left a bit to be desired.",
+      "image": "https://cdn.packhacker.com/2018/09/peak-design-travel-backpack-in-use-3.jpg?auto=compress&auto=format&w=1200&h=630&fit=crop",
+      "url": "https://www.packhacker.com/travel-gear/peak-design/travel-backpack/"
+    },
+    "https://www.t3.com/features/best-suitcase": {
+      "title": "Best suitcase 2026: quality luggage, bags and rolling models for your next trip",
+      "description": "Pack everything, including the kitchen sink, with the best suitcase, luggage and trunks",
+      "image": "https://cdn.mos.cms.futurecdn.net/Y8yasXGQpt6KK7U6fNHFTY-2560-80.jpg",
+      "url": "https://www.t3.com/features/best-suitcase"
+    },
+    "https://packhacker.com/travel-gear/peak-design/packing-cubes/": {
+      "title": "Peak Design Packing Cubes Review | Pack Hacker",
+      "description": "Between the quick zipper access, compressibility and rock-solid materials, the Peak Design Packing Cubes are easily some of the best on the market. Plus, they come with Peak Design’s signature…",
+      "image": "https://cdn.packhacker.com/2020/10/4c658556-peak-design-packing-cubes.jpg?auto=compress&auto=format&w=1200&h=630&fit=crop",
+      "url": "https://www.packhacker.com/travel-gear/peak-design/packing-cubes/"
+    }
+  }
+}

@@ -1,0 +1,110 @@
+{
+  "slug": "ipads",
+  "query": "best ipads",
+  "title": "Best ipads | Bin Diving",
+  "description": "AI-dug recommendations for best ipads. Compare options and find one that fits.",
+  "dugAt": "2026-03-18T19:27:09.086Z",
+  "recommendations": [
+    {
+      "product_name": "Apple iPad Pro 13-inch (M5)",
+      "pros": [
+        "Top-tier performance for pro workflows",
+        "Best-in-class display (Ultra Retina XDR)",
+        "Long software support and accessories ecosystem"
+      ],
+      "cons": [
+        "Expensive premium price",
+        "Heavier/larger than other iPads"
+      ],
+      "price": null,
+      "amazon_id": "B0FWD1MS82",
+      "sources": [
+        "https://www.techradar.com/news/best-tablet",
+        "https://www.tomsguide.com/best-picks/best-ipad"
+      ],
+      "amazon_url": "https://www.amazon.com/Apple-iPad-Pro-13-inch-Landscape/dp/B0FWD1MS82",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/OMnESEpsmDTvYolRJg8IRanfURbK4o0v1Czz_APjO9A/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9tLWNk/bi5waG9uZWFyZW5h/LmNvbS9pbWFnZXMv/cmV2aWV3cy8yNzQ1/NjQtaW1hZ2UvQks2/QTY5MDQud2VicD93/PTE",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "Apple iPad Air (M4, 2026)",
+      "pros": [
+        "Powerful M4 chip for creative and productivity tasks",
+        "Lighter and more affordable than Pro",
+        "Supports Apple Pencil and Magic Keyboard accessories"
+      ],
+      "cons": [
+        "Not as many pro display features as Pro",
+        "Some advanced features reserved for Pro lineup"
+      ],
+      "price": null,
+      "amazon_id": "B08NK46Y3P",
+      "sources": [
+        "https://www.digitalcameraworld.com/tech/tablets/apple-ipad-air-m4-launches-with-30-percent-more-grunt-for-image-editing-than-on-the-ipad-air-m3",
+        "https://www.tomsguide.com/best-picks/best-ipad"
+      ],
+      "amazon_url": "https://www.amazon.com/Generation-Pencil-Holder-Protection-Charging/dp/B08NK46Y3P",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/zF6B24tozpPuv1CabBLnKScnKzWouwU6bm6D46FG39c/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9jZG4u/bW9zLmNtcy5mdXR1/cmVjZG4ubmV0L1A1/dFlFZGpVVFFHUHF3/UjdzeFlCRGcucG5n",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "Apple iPad mini (A17 Pro)",
+      "pros": [
+        "Compact and very portable with strong A17 Pro performance",
+        "Excellent single-hand use and gaming capability",
+        "High-quality display for its size"
+      ],
+      "cons": [
+        "Smaller screen not ideal for heavy multitasking",
+        "Fewer keyboard accessory options"
+      ],
+      "price": null,
+      "amazon_id": "B0DK3YF38G",
+      "sources": [
+        "https://www.macworld.com/article/670670/which-ipad-best.html",
+        "https://bestreviews.com/computer/ipads/best-ipads"
+      ],
+      "amazon_url": "https://www.amazon.com/Apple-iPad-Mini-A17-Pro/dp/B0DK3YF38G",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/QeZHRgzHsP_i9JzUvCaNp7_Q5uD9lABP4i5pskqO7WU/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9tLm1l/ZGlhLWFtYXpvbi5j/b20vaW1hZ2VzL0kv/NzF5aHJkMGsyVUwu/anBn",
+      "resolver": "brave",
+      "valid": true
+    }
+  ],
+  "resolvedLinks": {
+    "https://www.techradar.com/news/best-tablet": {
+      "title": "The best tablet 2026: the best iPad and Android tablets from Apple, OnePlus and Samsung",
+      "description": "We've reviewed all the best tablets, with detailed rankings",
+      "image": "https://cdn.mos.cms.futurecdn.net/egLx2GeN7qab9kxKjJQXLY-2000-80.jpg",
+      "url": "https://www.techradar.com/news/best-tablet"
+    },
+    "https://www.tomsguide.com/best-picks/best-ipad": {
+      "title": "The best iPad 2026 — every model tested and rated",
+      "description": "These are the best tablets Apple sells, based on our own use",
+      "image": "https://cdn.mos.cms.futurecdn.net/KYMShNfeuSD8aw38XHRbJ-2000-80.jpg",
+      "url": "https://www.tomsguide.com/best-picks/best-ipad"
+    },
+    "https://www.digitalcameraworld.com/tech/tablets/apple-ipad-air-m4-launches-with-30-percent-more-grunt-for-image-editing-than-on-the-ipad-air-m3": {
+      "title": "Apple iPad Air M4 launches with 30% more grunt for image editing than on the iPad Air M3",
+      "description": "Apple’s latest iPad Air inherits the last-generation iPad Pro’s M4 chip, while more Unified Memory and a faster Neural Engine places it well ahead of its M3 predecessor",
+      "image": "https://cdn.mos.cms.futurecdn.net/LKVnzNRzSLZsTR2XdEvdF8-2000-80.jpg",
+      "url": "https://www.digitalcameraworld.com/tech/tablets/apple-ipad-air-m4-launches-with-30-percent-more-grunt-for-image-editing-than-on-the-ipad-air-m3"
+    },
+    "https://www.macworld.com/article/670670/which-ipad-best.html": {
+      "title": "2026 iPad Buying Guide: Find out which iPad you should get",
+      "description": "Not sure which iPad to buy in 2026? Our complete guide breaks down the models – Air, Pro, mini, and standard – so you can pick the perfect Apple tablet for your needs.",
+      "image": "https://www.macworld.com/wp-content/uploads/2026/03/Best-iPad-2026-3.jpg?quality=50&strip=all&w=1024",
+      "url": "https://www.macworld.com/article/670670/which-ipad-best.html"
+    },
+    "https://bestreviews.com/computer/ipads/best-ipads": {
+      "title": "Best iPads",
+      "description": "Here's everything you need to know to discover your ideal iPad and compare it to our favorites.",
+      "image": "https://cdn.bestreviews.com/images/v4desktop/cover-image/feature_best-ipads-best-reviews.jpg",
+      "url": "https://bestreviews.com/computer/ipads/best-ipads"
+    }
+  }
+}

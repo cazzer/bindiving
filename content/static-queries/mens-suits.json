@@ -1,0 +1,89 @@
+{
+  "slug": "mens-suits",
+  "query": "best men’s suits",
+  "title": "Best men’s suits | Bin Diving",
+  "description": "AI-dug recommendations for best men’s suits. Compare options and find one that fits.",
+  "dugAt": "2026-03-18T22:48:21.110Z",
+  "recommendations": [
+    {
+      "product_name": "Suitsupply Ludlow Wool Suit (blue)",
+      "pros": [
+        "Excellent fit and construction",
+        "High-quality Italian fabrics"
+      ],
+      "cons": [
+        "Higher price than mass-market suits",
+        "Limited Amazon availability for full bespoke options"
+      ],
+      "price": "$109.99",
+      "amazon_id": "B0DSVGMWJ7",
+      "sources": [
+        "https://www.forbes.com/sites/forbes-personal-shopper/article/best-suit-for-men/",
+        "https://www.esquire.com/style/mens-fashion/a61347242/best-suit-brands/",
+        "https://www.fashionbeans.com/article/best-suit-brands/"
+      ],
+      "image_url": "789_QL65_.jpg",
+      "images": [
+        "789_QL65_.jpg"
+      ],
+      "amazon_url": "https://www.amazon.com/Herringbone-Casual-Pieces-Wedding-Formal/dp/B0DSVGMWJ7/ref=mp_s_a_1_1?dib=eyJ2IjoiMSJ9.kxi-YL-qT3TquiQIV0IKZRb5rhxazjCPF7dRjIwK5WQdyUXE2ij-wLbVcIwBPr43wyWlMBHpTCzGCG7ug7fVuMgogXc1eycUQj8-k09Ice8zwqw4yunyMnzbEupl7BqhOdOsE5I8XyoqnFKnOWqj5w_o-LLHn8hoUMKx5hUpMR9NJMjJ1gTaMEz2X0LY1UV-TzKifQufszVrCkapNrAFZq5obnSyylXs8OkJ9dwx7fQ-SyP8hC2EoABIEnllBthQHkDHWyZQKtq0LIhDQbtXkIpn7YlhThHw33771x1jq7I.KizwwgmeF4X126I_P8Ohw2AyFQdPW3UXsZbxr7z8x9Q&dib_tag=se&keywords=Suitsupply+Ludlow+Wool+Suit+%28blue%29&qid=1773874098&sr=8-1",
+      "brand": "Fxzpiodi",
+      "blackFriday": false,
+      "gpt_azn": null,
+      "resolver": "cheerio",
+      "valid": true
+    },
+    {
+      "product_name": "Hugo Boss Men's Two-Button Wool Suit",
+      "pros": [
+        "Polished, modern aesthetic",
+        "Good fabric quality and drape"
+      ],
+      "cons": [
+        "Can be expensive at retail",
+        "May need tailoring for perfect fit"
+      ],
+      "price": null,
+      "amazon_id": "B093FF4PYR",
+      "sources": [
+        "https://www.forbes.com/sites/forbes-personal-shopper/article/best-suit-for-men/",
+        "https://www.esquire.com/style/mens-fashion/a61347242/best-suit-brands/"
+      ],
+      "amazon_url": "https://www.amazon.com/Hugo-Boss-Jam75-Sharp3-Button/dp/B093FF4PYR",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/dRyA_9ZH8cXhZ5dywT-DfaK0j4HNV87HCUVjteaH0x0/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9vbmVt/b2RhLmNvbS9pbWFn/ZS9jYWNoZS9jYXRh/bG9nL2dvb2QvMWE0/NGM1MjMwMTkxNzJl/OTA1NTBhMWQ2YzE0/MGQyMGQtNTk0eDg3/OC5qcGc",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "Brooks Brothers Milano Fit Wool Suit",
+      "pros": [
+        "Classic, professional styling",
+        "Reputable tailoring and construction"
+      ],
+      "cons": [
+        "Traditional cut may feel conservative to some",
+        "Price varies by collection"
+      ],
+      "price": null,
+      "amazon_id": "B07KWHGRCY",
+      "sources": [
+        "https://www.esquire.com/style/mens-fashion/a61347242/best-suit-brands/",
+        "https://www.forbes.com/sites/forbes-personal-shopper/article/best-suit-for-men/"
+      ],
+      "amazon_url": "https://www.amazon.com/Brooks-Brothers-Milano-Slim-Pants/dp/B07KWHGRCY",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/kAqJSXWddKaDhnNEApSPiiYYnfsmGGvLur_AQbsmpHw/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9pLmVi/YXlpbWcuY29tL2lt/YWdlcy9nL1hXUUFB/ZVN3dElwcFctZHMv/cy1sNDAwLndlYnA",
+      "resolver": "brave",
+      "valid": true
+    }
+  ],
+  "resolvedLinks": {
+    "https://www.esquire.com/style/mens-fashion/a61347242/best-suit-brands/": {
+      "title": "Officially, the 20 Best Places to Buy a Suit",
+      "description": "It's time to start dressing again.",
+      "image": "https://hips.hearstapps.com/hmg-prod/images/suit-brands-6871298e9c412.jpg?crop=1xw:1xh;center,top&resize=1200:*",
+      "url": "https://www.esquire.com/style/mens-fashion/a61347242/best-suit-brands/"
+    }
+  }
+}

@@ -1,0 +1,115 @@
+{
+  "slug": "travel-strollers",
+  "query": "best travel strollers",
+  "title": "Best travel strollers | Bin Diving",
+  "description": "AI-dug recommendations for best travel strollers. Compare options and find one that fits.",
+  "dugAt": "2026-03-18T22:37:27.887Z",
+  "recommendations": [
+    {
+      "product_name": "UPPAbaby Minu V2 Travel Stroller",
+      "pros": [
+        "Lightweight and durable",
+        "One-hand fold and shoulder strap",
+        "Smooth ride with suspension"
+      ],
+      "cons": [
+        "Not the smallest folded size",
+        "Higher price than micro-strollers"
+      ],
+      "price": null,
+      "amazon_id": "B09XY59SMV",
+      "sources": [
+        "https://www.babygearlab.com/reviews/getting-around/travel-stroller/uppababy-minu-v2",
+        "https://www.amazon.com/dp/B09XZ1RXRK"
+      ],
+      "amazon_url": "https://www.amazon.com/UPPAbaby-Stroller-Lightweight-Portable-One-Hand/dp/B09XY59SMV",
+      "gpt_azn": "B09XZ1RXRK",
+      "image_url": "https://imgs.search.brave.com/xoIYKuFl_gwc7pJRUoBktizZcdDBi_zojpQ-1x3Xn2g/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly91Yndl/YjJibG9nLndwZW5n/aW5lcG93ZXJlZC5j/b20vd3AtY29udGVu/dC91cGxvYWRzLzIw/MjQvMDMvTWludTIz/X0dXTl9Gb2xkZWRf/Q2FycnlTdHJhcC0y/NTN4MzAwLnBuZw",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "gb Pockit Air All-Terrain Ultra Compact Travel Stroller",
+      "pros": [
+        "Exceptionally compact fold (airplane-friendly)",
+        "Very lightweight and easy to carry"
+      ],
+      "cons": [
+        "Limited suspension/comfort on rough terrain",
+        "Smaller seat for bigger toddlers"
+      ],
+      "price": null,
+      "amazon_id": "B07S3XK19G",
+      "sources": [
+        "https://www.consumerreports.org/babies-kids/strollers/gb-pockit-stroller-all-terrain-review-a2503114965/",
+        "https://www.amazon.com/dp/B07S3XK19G"
+      ],
+      "amazon_url": "https://www.amazon.com/Terrain-Lightweight-Stroller-Breathable-28x17-5x39-8/dp/B07S3XK19G",
+      "gpt_azn": "B07S3XK19G",
+      "image_url": "https://imgs.search.brave.com/mbtdzHf0YrlBq1lS1rCbKebyDS11rc70eKzCFjRgEy4/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9pLmVi/YXlpbWcuY29tL2lt/YWdlcy9nL1d-Y0FB/ZVN3WW85cFJ0RVQv/cy1sOTYwLndlYnA",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "Bugaboo Butterfly Ultra-Compact Travel Stroller",
+      "pros": [
+        "One-second compact fold",
+        "Premium build and easy steering",
+        "Good canopy and seat comfort"
+      ],
+      "cons": [
+        "Premium price",
+        "Some users report folding/opening stiffness"
+      ],
+      "price": null,
+      "amazon_id": "B0B1QRC69X",
+      "sources": [
+        "https://www.tomsguide.com/home/bugaboo-butterfly-2-review",
+        "https://www.amazon.com/dp/B0B1QRC69X"
+      ],
+      "amazon_url": "https://www.amazon.com/Bugaboo-Butterfly-Ultra-Compact-Stroller-Lightweight/dp/B0B1QRC69X",
+      "gpt_azn": "B0B1QRC69X",
+      "image_url": "https://imgs.search.brave.com/s37VMrGXuJUKJoYAysoPLsEAxavo-LbPFfeRRZnvWng/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly93d3cu/cHVtcHN0YXRpb24u/Y29tL2Nkbi9zaG9w/L2ZpbGVzL2J1Z2Fi/b28tYnV0dGVyZmx5/LXVsdHJhLWNvbXBh/Y3Qtc3Ryb2xsZXIt/ZWFzeS10cmF2ZWwt/ODI3LndlYnA_dj0x/NzU0NjcyNTU2Jndp/ZHRoPTMyMA",
+      "resolver": "brave",
+      "valid": true
+    }
+  ],
+  "resolvedLinks": {
+    "https://www.babygearlab.com/reviews/getting-around/travel-stroller/uppababy-minu-v2": {
+      "title": "UPPAbaby Minu v2 Review",
+      "description": "The UPPAbaby Minu v2 is a top-ranked travel stroller. This option is high-quality, with a comfortable seat and ample canopy. The storage bin is easy to...",
+      "image": "https://d1awg155xx98w6.cloudfront.net/photos/41/20/533533_14352_XXL.jpg",
+      "url": "https://www.babygearlab.com/reviews/getting-around/travel-stroller/uppababy-minu-v2"
+    },
+    "https://www.amazon.com/dp/B09XZ1RXRK": {
+      "title": "Amazon.com : UPPAbaby Minu V2 Travel Stroller/Lightweight, Portable Design/One-Hand Fold/Shoulder Strap and Leather Bumper Bar Included/Jake (Charcoal/Carbon Frame/Black Leather) : Baby",
+      "description": "",
+      "image": "",
+      "url": "https://www.amazon.com/dp/B09XZ1RXRK"
+    },
+    "https://www.consumerreports.org/babies-kids/strollers/gb-pockit-stroller-all-terrain-review-a2503114965/": {
+      "title": "The GB Pockit+ All-Terrain Stroller Sacrifices Features for Size - Consumer Reports",
+      "description": "In this GB Pockit+ All Terrain stroller review, CR evaulated this popular stroller to see how well it runs and whether it's stable/",
+      "image": "https://article.images.consumerreports.org/image/upload/t_article_tout/v1729874204/prod/content/dam/CRO-Images-2024/Rapid-Response/CR-RR-InlineHero-GB-Pockit-10-24",
+      "url": "https://www.consumerreports.org/babies-kids/strollers/gb-pockit-stroller-all-terrain-review-a2503114965/"
+    },
+    "https://www.amazon.com/dp/B07S3XK19G": {
+      "title": "Amazon.com : gb Pockit Air All Terrain Ultra Compact Lightweight Travel Stroller with Breathable Fabric in Night Blue, 28x17.5x39.8 Inch (Pack of 1) : Baby",
+      "description": "",
+      "image": "",
+      "url": "https://www.amazon.com/dp/B07S3XK19G"
+    },
+    "https://www.tomsguide.com/home/bugaboo-butterfly-2-review": {
+      "title": "Parents Swear by This Compact Travel Stroller — So I Traveled Hundreds of Miles With It This Summer to Test It Out",
+      "description": "Looking for a travel stroller? I've found it",
+      "image": "https://cdn.mos.cms.futurecdn.net/FsAFG2yseo7ciS3ZpDUMLG-2560-80.jpg",
+      "url": "https://www.tomsguide.com/home/bugaboo-butterfly-2-review"
+    },
+    "https://www.amazon.com/dp/B0B1QRC69X": {
+      "title": "Amazon.com : Bugaboo Butterfly - 1 Second Fold Ultra-Compact Stroller - Lightweight & Compact - Great for Travel - Midnight Black : Baby",
+      "description": "",
+      "image": "",
+      "url": "https://www.amazon.com/dp/B0B1QRC69X"
+    }
+  }
+}

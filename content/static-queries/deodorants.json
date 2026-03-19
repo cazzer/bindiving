@@ -1,0 +1,113 @@
+{
+  "slug": "deodorants",
+  "query": "best deodorants",
+  "title": "Best deodorants | Bin Diving",
+  "description": "AI-dug recommendations for best deodorants. Compare options and find one that fits.",
+  "dugAt": "2026-03-18T18:04:51.935Z",
+  "recommendations": [
+    {
+      "product_name": "Dove Advanced Care Antiperspirant Deodorant Stick (48hr/72hr variants)",
+      "pros": [
+        "Long-lasting odor protection",
+        "Gentle, moisturizing formula"
+      ],
+      "cons": [
+        "Contains aluminum (antiperspirant)",
+        "May irritate very sensitive skin"
+      ],
+      "price": null,
+      "amazon_id": "B01HTJTPZA",
+      "sources": [
+        "https://www.glamour.com/gallery/best-deodorant-for-women",
+        "https://www.nbcnews.com/select/shopping/best-deodorants-antiperspirants-rcna97537"
+      ],
+      "amazon_url": "https://www.amazon.com/Dove-Advanced-Antiperspirant-Deodorant-Essentials/dp/B01HTJTPZA",
+      "gpt_azn": "B00Q70R41U",
+      "image_url": "https://imgs.search.brave.com/PBtkrPycpKuwQ9RczZpn0isEjlk8qfLZM_s5dxQLONY/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly90YXJn/ZXQuc2NlbmU3LmNv/bS9pcy9pbWFnZS9U/YXJnZXQvR1VFU1Rf/ZTAzZjA5NGMtMTEz/MC00YTRlLTlkNjgt/MTkyMGUyMGVhMjhl/P3dpZD04MDAmaGVp/PTgwMCZxbHQ9ODAm/Zm10PXBqcGVn",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "Kopari Aluminum-Free Coconut Deodorant",
+      "pros": [
+        "Aluminum‑free, plant‑based formula",
+        "Goes on clear, pleasant coconut scent"
+      ],
+      "cons": [
+        "Not an antiperspirant (won’t stop sweat)",
+        "Some users report breakouts or sensitivity to coconut oil"
+      ],
+      "price": null,
+      "amazon_id": "B07B8B1XJX",
+      "sources": [
+        "https://www.whowhatwear.com/best-deodorants",
+        "https://koparibeauty.com/products/coconut-deo"
+      ],
+      "amazon_url": "https://www.amazon.com/Kopari-Aluminum-Free-Deodorant-Non-Toxic-Paraben/dp/B07B8B1XJX",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/FUqzV_8Ly486PFi0XSEYN5Qtp9wxqfBRpwpnIyzVpq0/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9pbWFn/ZXMuaWJzcG90LmNv/bS9oeWx0YzV5eG0z/OW5qbzJjbXRsdjVj/NGh1eGdlP3dpZHRo/PTYwMCZoZWlnaHQ9/NjAwJmZvcm1hdD1q/cGVn",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "Lume Whole Body Deodorant",
+      "pros": [
+        "Designed for whole‑body odor control",
+        "Aluminum‑ and baking‑soda‑free; many users praise effectiveness"
+      ],
+      "cons": [
+        "Mixed user reports on scent and skin reactions",
+        "Some users report formula changes or inconsistent results"
+      ],
+      "price": null,
+      "amazon_id": "B08PPXVFFV",
+      "sources": [
+        "https://www.shefinds.com/lume-whole-body-deoderant/",
+        "https://www.lumedeodorants.com/"
+      ],
+      "amazon_url": "https://www.amazon.com/Deodorant-Underarms-Private-Parts-Coconut/dp/B08PPXVFFV",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/ZijkEqPT3fLJz2kTWoOMAH8HXblAWj0z1SfKGoz85GA/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly90YXJn/ZXQuc2NlbmU3LmNv/bS9pcy9pbWFnZS9U/YXJnZXQvR1VFU1Rf/ZjA2NmY3MDMtZTlh/MS00NGE1LWFmNjAt/MGNjNGE2ZjIzMmRi/P3dpZD04MDAmaGVp/PTgwMCZxbHQ9ODAm/Zm10PXBqcGVn",
+      "resolver": "brave",
+      "valid": true
+    }
+  ],
+  "resolvedLinks": {
+    "https://www.glamour.com/gallery/best-deodorant-for-women": {
+      "title": "This Deodorant Made Our Editor Smell Like a Fresh Garden Rose After a Long Run",
+      "description": "Plus, other expert-approved picks.",
+      "image": "https://media.glamour.com/photos/66f42c3b0ca3f44d528a247e/16:9/w_1280,c_limit/2114695956",
+      "url": "https://www.glamour.com/gallery/best-deodorant-for-women"
+    },
+    "https://www.nbcnews.com/select/shopping/best-deodorants-antiperspirants-rcna97537": {
+      "title": "Deodorant and antiperspirant aren’t the same — so which is more effective? We asked experts",
+      "description": "If body odor is a concern, experts recommend an antiperspirant that plugs sweat ducts and prevents odor-causing bacteria from growing.",
+      "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2023-08/230801-deodorant-social-3c49d4.jpg",
+      "url": "https://www.nbcnews.com/select/shopping/best-deodorants-antiperspirants-rcna97537"
+    },
+    "https://www.whowhatwear.com/best-deodorants": {
+      "title": "Here It Is—Your One-Stop Shop for the Best Deodorants on the Market",
+      "description": "We spoke with derms to find the nine best deodorants out there, plus how to tell the difference between a deodorant and an antiperspirant.",
+      "image": "https://cdn.mos.cms.futurecdn.net/ZbJjAMgUwn7TC9ES6tuc6f-1200-80.jpg",
+      "url": "https://www.whowhatwear.com/best-deodorants"
+    },
+    "https://koparibeauty.com/products/coconut-deo": {
+      "title": "Aluminum-Free Coconut Deodorant",
+      "description": "The clean, non-toxic deodorant that really works! This aluminum and baking soda-free deodorant works with your body&#39;s natural functions to aid in odor reduction. This invisible formula glides on smooth and will outlast your longest days. It&#39;s guaranteed to leave you smelling fresh. No Aluminum. No Baking Soda. No Parab",
+      "image": "http://koparibeauty.com/cdn/shop/files/Deodorant.png?v=1762198129&width=1024",
+      "url": "https://koparibeauty.com/products/coconut-deo"
+    },
+    "https://www.shefinds.com/lume-whole-body-deoderant/": {
+      "title": "This Deodorant Has 46,700+ Five Star Reviews On Amazon–It’s Aluminum Free & Controls Odor for 72 Hours - SHEfinds",
+      "description": "",
+      "image": "",
+      "url": "https://www.shefinds.com/lume-whole-body-deoderant/"
+    },
+    "https://www.lumedeodorants.com/": {
+      "title": "Lumē Official Store | Whole Body Deodorant & Clean Body Care - Lumē",
+      "description": "Lume Official Store | Whole-Body Odor Control Discover Lumē deodorant & body care with sticks, sprays, creams, wipes, body wash, bundles, and scent options Shop Now BODY CARE Body Wash Soap CURATED COLLECTIONS DEODORANT Deodorant for Every Body Shop Now SETS & TRAVEL Lume Whole Body Deodorant Smooth Solid Stick, Aluminum & Baking Soda Free,",
+      "image": "https://cdn.lumedeodorants.com/cdn/10139/2026/0125/90394aacba1a7edddb2bb7959e9b03db.webp",
+      "url": "https://www.lumedeodorants.com/"
+    }
+  }
+}

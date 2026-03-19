@@ -1,0 +1,105 @@
+{
+  "slug": "paring-knives",
+  "query": "best paring knives",
+  "title": "Best paring knives | Bin Diving",
+  "description": "AI-dug recommendations for best paring knives. Compare options and find one that fits.",
+  "dugAt": "2026-03-18T17:07:43.252Z",
+  "recommendations": [
+    {
+      "product_name": "Wüsthof Classic 3.5-Inch Paring Knife",
+      "pros": [
+        "forged high-carbon steel",
+        "comfortable full-tang handle",
+        "excellent edge retention"
+      ],
+      "cons": [
+        "higher price than budget options",
+        "bolster can get in the way for some grips"
+      ],
+      "price": null,
+      "amazon_id": "B085V5Q2JR",
+      "sources": [
+        "https://www.forbes.com/sites/forbes-personal-shopper/article/best-paring-knives/",
+        "https://bestreviews.com/kitchen/knives/best-paring-knives",
+        "https://shop.americastestkitchen.com/shop-all-products/gear/wusthof-serrated-paring-knife.html"
+      ],
+      "amazon_url": "https://www.amazon.com/W%C3%BCsthof-Classic-Paring-Knife-inches/dp/B085V5Q2JR",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/es4Kd0MvNq-ZdyakbbIcNA-avCeK0CSNF8bQ5RQHR9s/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly93d3cu/a2l0Y2hlbmthcGVy/cy5jb20vY2RuL3No/b3AvcHJvZHVjdHMv/NzF1dV9qenJkaExf/NjAweDQ1MC5wbmc_/dj0xNjE0MTgwNDgy",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "Shun Classic 3.5-Inch Paring Knife",
+      "pros": [
+        "very sharp VG-MAX/Japanese steel",
+        "attractive Damascus-style finish",
+        "light, precise handling"
+      ],
+      "cons": [
+        "premium price",
+        "requires careful maintenance to avoid chipping"
+      ],
+      "price": null,
+      "amazon_id": "B0000Y7KG8",
+      "sources": [
+        "https://www.foodnetwork.com/how-to/packages/shopping/product-reviews/best-paring-knife",
+        "https://www.forbes.com/sites/forbes-personal-shopper/article/best-paring-knives/"
+      ],
+      "amazon_url": "https://www.amazon.com/Shun-DM-0700-Classic-Pakkawood-Trimming/dp/B0000Y7KG8",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/VwKlxIVf1zHLNGxoAHpIGQJwESuQPZEmT74YX86tWxY/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9rbmlm/ZW1lcmNoYW50LmNv/bS9tZWRpYS9jYXRh/bG9nL3Byb2R1Y3Qv/Y2FjaGUvMS9zbWFs/bF9pbWFnZS8yOTV4/LzA0MGVjMDliMWUz/NWRmMTM5NDMzODg3/YTk3ZGFhNjZmL3Mv/aC9zaHVuLWRtMDcx/Nl8yLmpwZw",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "Victorinox Swiss Classic 3.25-Inch Paring Knife",
+      "pros": [
+        "excellent value and reliable performance",
+        "lightweight, comfortable handle",
+        "widely recommended by testers"
+      ],
+      "cons": [
+        "thinner construction than forged knives",
+        "edge retention shorter than premium steels"
+      ],
+      "price": null,
+      "amazon_id": "B0067VLY24",
+      "sources": [
+        "https://www.goodhousekeeping.com/cooking-tools/best-kitchen-knives/g44911389/best-paring-knives/",
+        "https://www.forbes.com/sites/forbes-personal-shopper/article/best-paring-knives/"
+      ],
+      "amazon_url": "https://www.amazon.com/Victorinox-6-7633-Classic-Paring-Serrated/dp/B0067VLY24",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/pkMtTB0EuM-U_sKqGxVvTvYH_Ie55ECVyTDOalAt2S4/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9pbWFn/ZXMtbmEuc3NsLWlt/YWdlcy1hbWF6b24u/Y29tL2ltYWdlcy9J/LzUxaXpLVUQtNFlM/LmpwZw",
+      "resolver": "brave",
+      "valid": true
+    }
+  ],
+  "resolvedLinks": {
+    "https://bestreviews.com/kitchen/knives/best-paring-knives": {
+      "title": "5 Best Paring Knives - Mar. 2026 - BestReviews",
+      "description": "Our team of experts has selected the best paring knives out of hundreds of models. Don't buy a paring knife before reading these reviews.",
+      "image": "https://cdn.bestreviews.com/images/v4desktop/chubby/73288ea3c06cd7d6a529eb98e1910e59.jpg",
+      "url": "https://bestreviews.com/kitchen/knives/best-paring-knives"
+    },
+    "https://shop.americastestkitchen.com/shop-all-products/gear/wusthof-serrated-paring-knife.html": {
+      "title": "America's Test Kitchen",
+      "description": "",
+      "image": "",
+      "url": "https://shop.americastestkitchen.com/"
+    },
+    "https://www.foodnetwork.com/how-to/packages/shopping/product-reviews/best-paring-knife": {
+      "title": "4 Best Paring Knives of 2026, Tested and Reviewed",
+      "description": "These small-but-mighty knives are great for prepping produce and tedious kitchen tasks.",
+      "image": "https://food.fnr.sndimg.com/content/dam/images/food/fullset/2023/1/03/fn_best-paring-knife_s4x3.png.rend.hgtvcom.616.462.85.suffix/1672777675839.webp",
+      "url": "https://www.foodnetwork.com/how-to/packages/shopping/product-reviews/best-paring-knife"
+    },
+    "https://www.goodhousekeeping.com/cooking-tools/best-kitchen-knives/g44911389/best-paring-knives/": {
+      "title": "These Paring Knives Will Make Your Life So Much Easier",
+      "description": "Our best overall paring knife is lightweight, sharp and a good value!",
+      "image": "https://hips.hearstapps.com/hmg-prod/images/ghk-digital-index-paringknives-118-web-654298df10def.jpg?crop=1.00xw:0.752xh;0,0.125xh&resize=1200:*",
+      "url": "https://www.goodhousekeeping.com/cooking-tools/best-kitchen-knives/g44911389/best-paring-knives/"
+    }
+  }
+}

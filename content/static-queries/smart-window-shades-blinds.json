@@ -1,0 +1,101 @@
+{
+  "slug": "smart-window-shades-blinds",
+  "query": "best smart window shades & blinds",
+  "title": "Best smart window shades & blinds | Bin Diving",
+  "description": "AI-dug recommendations for best smart window shades & blinds. Compare options and find one that fits.",
+  "dugAt": "2026-03-18T22:01:04.968Z",
+  "recommendations": [
+    {
+      "product_name": "Lutron Serena Smart Roller Shades (Serena by Lutron)",
+      "pros": [
+        "Best-in-class reliability and integration",
+        "Excellent fabric/opacity options"
+      ],
+      "cons": [
+        "High cost",
+        "Usually sold through dealers (not DIY)"
+      ],
+      "price": null,
+      "amazon_id": "B07GHR3D5K",
+      "sources": [
+        "https://www.goodhousekeeping.com/home-products/g39764438/best-smart-blinds/",
+        "https://www.howtogeek.com/93096/the-6-best-smart-blinds-and-shades/"
+      ],
+      "amazon_url": "https://www.amazon.com/Lutron-CSV-YJ-B-LF-SH-I-31-Serena-Smart-Shades/dp/B07GHR3D5K",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/yyM62wx-cI4ee11sfi62TOgEhpP2vcjSjigI_ZFEaRE/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9kMzRt/dncxaWYzdWQwZy5j/bG91ZGZyb250Lm5l/dC81Nzg0Mi9MdXRy/b24tU2VyZW5hLVNt/YXJ0LVJvbGxlci1T/aGFkZXNfMjAyNTA0/MTgtMDUxOTAzX2Z1/bGwuanBlZw",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "SwitchBot Roller Shade / SwitchBot Blind Tilt (SwitchBot)",
+      "pros": [
+        "Affordable DIY motorized or retrofit options",
+        "Solar charging / long battery life (models)"
+      ],
+      "cons": [
+        "Installation/fit can be fiddly for some windows",
+        "Some features need SwitchBot Hub for full smart-home integration"
+      ],
+      "price": null,
+      "amazon_id": "B0BNHQJ95L",
+      "sources": [
+        "https://www.digitaltrends.com/home/switchbot-roller-shade-premium-design-difficult-installation/",
+        "https://www.howtogeek.com/best-smart-blinds/"
+      ],
+      "amazon_url": "https://www.amazon.com/SwitchBot-Smart-Motorized-Blinds-Kit/dp/B0BNHQJ95L",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/mxIJEaI7nu04W06Q1LofPXpfiZ7sRGwvimiC6A1uVIw/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly90aGUt/Z2FkZ2V0ZWVyLmNv/bS93cC1jb250ZW50/L3VwbG9hZHMvMjAy/NS8wOC9Td2l0Y2hC/b3QtUm9sbGVyLVNo/YWRlLTIzLmpwZw",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "SmartWings Motorized Roller Shades",
+      "pros": [
+        "Good value for custom motorized shades",
+        "Works with major voice assistants and hubs"
+      ],
+      "cons": [
+        "Quality and support vary by vendor",
+        "May require custom sizing and lead time"
+      ],
+      "price": null,
+      "amazon_id": "B09M5R2PCB",
+      "sources": [
+        "https://www.goodhousekeeping.com/home-products/g39764438/best-smart-blinds/",
+        "https://www.howtogeek.com/best-smart-blinds/"
+      ],
+      "amazon_url": "https://www.amazon.com/SmartWings-Motorized-Blackout-Essential-Customized/dp/B09M5R2PCB",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/HttgIpyF5ns1oU1spGO2zsBpcI7aO2NWe3BE6bRxAVs/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly93d3cu/c21hcnR3aW5nc2hv/bWUuY29tL2Nkbi9z/aG9wL3Byb2R1Y3Rz/L3NtLWJwLTAxLXdo/aXRlLV8tXy00Lmpw/Zz92PTE3NDgyNDM3/MjImd2lkdGg9MTUw/MA",
+      "resolver": "brave",
+      "valid": true
+    }
+  ],
+  "resolvedLinks": {
+    "https://www.goodhousekeeping.com/home-products/g39764438/best-smart-blinds/": {
+      "title": "I'm a Home Expert and Can't Imagine Living Without Smart Shades—These Are the 6 Best",
+      "description": "These smart window treatments can be programmed to open and close automatically.",
+      "image": "https://hips.hearstapps.com/hmg-prod/images/9be2b5d0-e71c-47f8-b492-22fde13b5cab.png?crop=0.998xw:1.00xh;0.00160xw,0&resize=1200:*",
+      "url": "https://www.goodhousekeeping.com/home-products/g39764438/best-smart-blinds/"
+    },
+    "https://www.howtogeek.com/93096/the-6-best-smart-blinds-and-shades/": {
+      "title": "The 6 Best Smart Blinds and Shades",
+      "description": "Smart blinds or shades are a great investment that'll polish off your smart home and really pull everything together.",
+      "image": "https://static0.howtogeekimages.com/wordpress/wp-content/uploads/2021/07/0eecabd5.png?w=1600&h=900&fit=crop",
+      "url": "https://www.howtogeek.com/93096/the-6-best-smart-blinds-and-shades/"
+    },
+    "https://www.digitaltrends.com/home/switchbot-roller-shade-premium-design-difficult-installation/": {
+      "title": "The SwitchBot Roller Shade is fantastic, but its installation is a chore",
+      "description": "The SwitchBot Roller Shade is a premium choice for your windows, but it's installation leaves much to be desired.",
+      "image": "https://www.digitaltrends.com/tachyon/2025/03/SwitchBot-Roller-Shade-Adjustable.jpg?resize=1200%2C630",
+      "url": "https://www.digitaltrends.com/home/switchbot-roller-shade-premium-design-difficult-installation/"
+    },
+    "https://www.howtogeek.com/best-smart-blinds/": {
+      "title": "The Best Smart Blinds of 2025",
+      "description": "Let the sunshine in.",
+      "image": "https://static0.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/06/charging-port-on-blindsmagic-smart-motorized-roller-shades.jpg?w=1600&h=900&fit=crop",
+      "url": "https://www.howtogeek.com/best-smart-blinds/"
+    }
+  }
+}

@@ -1,0 +1,93 @@
+{
+  "slug": "mens-buttonup-shirts",
+  "query": "best men’s button‑up shirts",
+  "title": "Best men’s button‑up shirts | Bin Diving",
+  "description": "AI-dug recommendations for best men’s button‑up shirts. Compare options and find one that fits.",
+  "dugAt": "2026-03-18T22:40:47.196Z",
+  "recommendations": [
+    {
+      "product_name": "Amazon Essentials Men's Regular-Fit Oxford Shirt",
+      "pros": [
+        "Affordable",
+        "Classic Oxford weave"
+      ],
+      "cons": [
+        "Basic construction",
+        "May run boxy for some"
+      ],
+      "price": null,
+      "amazon_id": "B0DFFLMVN6",
+      "sources": [
+        "https://www.essentialsactivewear.com/product/amazon-essentials-mens-long-sleeve-shirts-casual-regular-fit-pocket-oxfordblue/"
+      ],
+      "amazon_url": "https://www.amazon.com/Amazon-Essentials-Regular-Fit-Sleeve-Oxford/dp/B0DFFLMVN6",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/PQQyGNsWs9KG7zhhhSqkLw4PTLfR3CW9UMLTSnT146A/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9tLm1l/ZGlhLWFtYXpvbi5j/b20vaW1hZ2VzL0kv/NzE5UlZpKzVLR0wu/anBn",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "Calvin Klein Men's Slim Fit Non-Iron Stretch Dress Shirt",
+      "pros": [
+        "Non-iron finish",
+        "Slim, modern fit"
+      ],
+      "cons": [
+        "Can run slim for broader builds",
+        "Synthetic finish feel for some wearers"
+      ],
+      "price": null,
+      "amazon_id": "B07Q1CWGMM",
+      "sources": [
+        "https://www.yahoo.com/lifestyle/calvin-kleins-perfect-non-iron-233000791.html",
+        "https://azus.toca.store/Calvin-Klein-Dress-Shirts-Solid/dp/B0DLH5KVLG"
+      ],
+      "amazon_url": "https://www.amazon.com/Calvin-Klein-Dress-Shirt-Stretch/dp/B07Q1CWGMM",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/0jZ3AAtEdN87JpnG4VzNytoU0zsc7q5PtPl5m_dHktw/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9pLmVi/YXlpbWcuY29tL2lt/YWdlcy9nL0w3b0FB/ZVN3bDNScFN3OVgv/cy1sNDAwLndlYnA",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "Polo Ralph Lauren Classic Fit Oxford Shirt",
+      "pros": [
+        "Timeless styling",
+        "High-quality cotton Oxford"
+      ],
+      "cons": [
+        "Higher price point",
+        "Boxier classic cut for some"
+      ],
+      "price": null,
+      "amazon_id": "B0DDJMF9K4",
+      "sources": [
+        "https://www.ralphlauren.com/men-clothing-button-down-shirts/classic-fit-oxford-shirt/0079696480.html"
+      ],
+      "amazon_url": "https://www.amazon.com/POLO-RALPH-LAUREN-Classic-Sleeve/dp/B0DDJMF9K4",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/PMaxOFOBOREFfIGQnHS1VigHRJFJbczzgGpKwLQo2G4/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9jZG4u/bWFsbC5hZGVwdG1p/bmQuYWkvaHR0cHM6/Ly9zbGltYWdlcy5t/YWN5c2Fzc2V0cy5j/b20vaXMvaW1hZ2Uv/TUNZL3Byb2R1Y3Rz/Lzgvb3B0aW1pemVk/LzMxNjUzMDkzX2Zw/eC50aWY_d2lkPTEy/MDAmZm10PWpwZWcm/cWx0PTEwMF9tZWRp/dW0ud2VicA",
+      "resolver": "brave",
+      "valid": true
+    }
+  ],
+  "resolvedLinks": {
+    "https://www.essentialsactivewear.com/product/amazon-essentials-mens-long-sleeve-shirts-casual-regular-fit-pocket-oxfordblue/": {
+      "title": "Amazon Essentials Men’s Long Sleeve Shirts Casual – Regular-Fit Pocket Oxford(Blue) - Amazon Essentials",
+      "description": "Item model number ‏ : ‎ AE1812794 Department ‏ : ‎ mens Date First Available ‏ : ‎ May 9, 2024 Manufacturer ‏ : ‎ Amazon Essentials Best Sellers Rank: #911 in Our Brands (See Top 100 in Our Brands) #57 in Men's Button-Down Shirts Customer Reviews: 4.4 4.4 out of 5 stars 15,123 ratings",
+      "image": "https://cdn.essentialsactivewear.com/cdn/10203/2025/0919/4e32e0c419c8074e8ee80067bc748de9.webp",
+      "url": "https://www.essentialsactivewear.com/product/amazon-essentials-mens-long-sleeve-shirts-casual-regular-fit-pocket-oxfordblue/"
+    },
+    "https://www.yahoo.com/lifestyle/calvin-kleins-perfect-non-iron-233000791.html": {
+      "title": "Calvin Klein's 'Perfect' Non-Iron Dress Shirt That's 'Slim but Not Tight' Is Just $30 for a Limited Time",
+      "description": "\"Between the fit and the fabric, you will look and feel like a million bucks.\"",
+      "image": "https://s.yimg.com/os/en/men_s_journal_ecomm_550/4e48fc6a8fd400a3a4b6777963182fb3",
+      "url": "https://www.yahoo.com/lifestyle/calvin-kleins-perfect-non-iron-233000791.html"
+    },
+    "https://www.ralphlauren.com/men-clothing-button-down-shirts/classic-fit-oxford-shirt/0079696480.html": {
+      "title": "Classic Fit Oxford Shirt",
+      "description": "Ralph Lauren",
+      "image": "https://dtcralphlauren.scene7.com/is/image/PoloGSI/s7-AI710978987002_alternate10?$rl_4x5_zoom$",
+      "url": "https://www.ralphlauren.com/men-clothing-button-down-shirts/classic-fit-oxford-shirt/0079696480.html"
+    }
+  }
+}

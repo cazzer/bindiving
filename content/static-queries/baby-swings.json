@@ -1,0 +1,128 @@
+{
+  "slug": "baby-swings",
+  "query": "best baby swings",
+  "title": "Best baby swings | Bin Diving",
+  "description": "AI-dug recommendations for best baby swings. Compare options and find one that fits.",
+  "dugAt": "2026-03-18T22:21:09.783Z",
+  "recommendations": [
+    {
+      "product_name": "Graco Soothe 'N Sway LX Swing with Portable Bouncer",
+      "pros": [
+        "Multidirectional swing motion",
+        "Includes portable bouncer seat",
+        "Well-rated in hands-on tests"
+      ],
+      "cons": [
+        "Requires plug-in power",
+        "Larger footprint",
+        "Some users report assembly time"
+      ],
+      "price": null,
+      "amazon_id": "B08K2WNKJQ",
+      "sources": [
+        "https://www.forbes.com/sites/forbes-personal-shopper/article/graco-soothe-n-sway-lx-swing-review/",
+        "https://www.trulymama.com/baby-products/baby-swings/",
+        "https://www.consumervoice.org/best-baby-swings"
+      ],
+      "amazon_url": "https://www.amazon.com/Graco-Soothe-Swing-Portable-Bouncer/dp/B08K2WNKJQ",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/igpbKC9AqjlAonbJ7prTaX2V2bS0fvLtbvqxwOcaqyk/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9tLm1l/ZGlhLWFtYXpvbi5j/b20vaW1hZ2VzL0kv/NjFZMkdoM0h5V0wu/anBn",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "4moms mamaRoo Multi-Motion Baby Swing",
+      "pros": [
+        "Five unique, adjustable motion patterns",
+        "Bluetooth/smart controls and sounds",
+        "Premium build and highly customizable"
+      ],
+      "cons": [
+        "Higher price point",
+        "Has had limited recalls/older-model issues (check model)",
+        "Some babies dislike certain motion settings"
+      ],
+      "price": null,
+      "amazon_id": "B0B3F93NYT",
+      "sources": [
+        "https://www.4moms.com/products/mamaroo",
+        "https://dorizinn.com/wp-content/uploads/2024/12/The-3-Best-Baby-Swings-of-2024-Reviews-by-Wirecutter.pdf",
+        "https://needforthis.com/baby/4moms-mamaroo-multi-motion-baby-swing-bluetooth-review/"
+      ],
+      "amazon_url": "https://www.amazon.com/4moms-MamaRoo-Multi-Motion-Bluetooth-Motions/dp/B0B3F93NYT",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/ACQ4grDNrfXSY0EBYHote84uCov6N79uMq-ZR0qLLM8/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9pNS53/YWxtYXJ0aW1hZ2Vz/LmNvbS9zZW8vNG1v/bXMtbWFtYVJvby1t/dWx0aS1tb3Rpb24t/YmFieS1zd2luZ19i/MmEwNjAzMi1kMjMy/LTQ4NTItOTYzYS00/ZDk2MjdmNzA5NzEu/Y2Y0ZjRhNTk3MDZk/Njc1NWZkMDBkNDM1/MGNmMTk0OWIuanBl/Zz9vZG5IZWlnaHQ9/NTczJm9kbldpZHRo/PTU3MyZvZG5CZz1G/RkZGRkY",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "Graco Simple Sway Baby Swing",
+      "pros": [
+        "Affordable and simple to use",
+        "Gentle side-to-side sway many babies prefer",
+        "Widely available and easy to find replacement parts"
+      ],
+      "cons": [
+        "Fewer motion options than premium swings",
+        "Plug-in required (some models)",
+        "Basic feature set compared with high-end swings"
+      ],
+      "price": null,
+      "amazon_id": "B00PTL15D6",
+      "sources": [
+        "https://www.gracobaby.com/shop/home-and-gear/swings-and-jumpers/simple-sway-swing/SP_93765.html",
+        "https://www.babygearlab.com/reviews/activity-soothing/baby-swing/graco-slim-spaces",
+        "https://www.babyadvisor.org/best-baby-swing/"
+      ],
+      "amazon_url": "https://www.amazon.com/Graco-Simple-Sway-Swing-Abbington/dp/B00PTL15D6",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/rY671FCB8089KrChWKJsNrVlJ2oru2_iK4PThIYtLio/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly90YXJn/ZXQuc2NlbmU3LmNv/bS9pcy9pbWFnZS9U/YXJnZXQvR1VFU1Rf/YTFjODk0YzUtNDE1/My00ZjUwLTk3MWMt/YzQ1NzUwNzI4YmQx/P3dpZD04MDAmaGVp/PTgwMCZxbHQ9ODAm/Zm10PXBqcGVn",
+      "resolver": "brave",
+      "valid": true
+    }
+  ],
+  "resolvedLinks": {
+    "https://www.trulymama.com/baby-products/baby-swings/": {
+      "title": "Best Baby Swings of 2026 | Review | Truly Mama",
+      "description": "A good swing can soothe both a fussy baby and parent on a bad day. Here are our 2026 picks for best baby swings.",
+      "image": "https://www.trulymama.com/app/uploads/2020/08/baby-in-4moms-swing-e1627483837599.jpg",
+      "url": "https://www.trulymama.com/baby-products/baby-swings/"
+    },
+    "https://www.consumervoice.org/best-baby-swings": {
+      "title": "Best Baby Swings of 2026 - March 2026 Reviews & Comparison",
+      "description": "",
+      "image": "",
+      "url": "https://www.consumervoice.org/best-baby-swings"
+    },
+    "https://www.4moms.com/products/mamaroo": {
+      "title": "4moms",
+      "description": "",
+      "image": "https://back.uppababy.com/media/43/64/cb/1752514478/250624_4moms_Collections_Banner.webp",
+      "url": "https://uppababy.com/4-moms/"
+    },
+    "https://dorizinn.com/wp-content/uploads/2024/12/The-3-Best-Baby-Swings-of-2024-Reviews-by-Wirecutter.pdf": {
+      "title": "",
+      "description": "",
+      "image": "",
+      "url": "https://dorizinn.com/wp-content/uploads/2024/12/The-3-Best-Baby-Swings-of-2024-Reviews-by-Wirecutter.pdf"
+    },
+    "https://needforthis.com/baby/4moms-mamaroo-multi-motion-baby-swing-bluetooth-review/": {
+      "title": "4moms MamaRoo Multi-Motion Baby Swing Bluetooth Review: 75,000+ Review",
+      "description": "Read our in-depth 4moms MamaRoo Multi-Motion Baby Swing Bluetooth review. Rated 4.7/5 stars. Available for $80. Find out if this product is worth buying.",
+      "image": "https://needforthis.com/wp-content/uploads/2026/02/4moms-mamaroo-multi-motion-baby-swing-bluetooth-re-product-1-1-831x1024.jpg",
+      "url": "https://needforthis.com/baby/4moms-mamaroo-multi-motion-baby-swing-bluetooth-review/"
+    },
+    "https://www.babygearlab.com/reviews/activity-soothing/baby-swing/graco-slim-spaces": {
+      "title": "The Best Baby Swings",
+      "description": "We tested 10 swings from Graco, Ingenuity, 4moms, Maxi-Cosi, and more to find the best swings for soothing babies",
+      "image": "https://d1awg155xx98w6.cloudfront.net/photos/40/87/530243_30762_XXL.jpg",
+      "url": "https://www.babygearlab.com/topics/activity-soothing/best-baby-swing"
+    },
+    "https://www.babyadvisor.org/best-baby-swing/": {
+      "title": "10 Best Baby Swings of 2024 – A Mom's Guide and Reviews",
+      "description": "Detailed baby swing reviews and a list of the top ten baby swings on the market will help you find the best baby swing for your family!",
+      "image": "https://www.babyadvisor.org/wp-content/uploads/2018/09/Picks-the-Best-Baby-Swings.jpg",
+      "url": "https://www.babyadvisor.org/best-baby-swing/"
+    }
+  }
+}

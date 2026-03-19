@@ -1,0 +1,104 @@
+{
+  "slug": "bike-pumps",
+  "query": "best bike pumps",
+  "title": "Best bike pumps | Bin Diving",
+  "description": "AI-dug recommendations for best bike pumps. Compare options and find one that fits.",
+  "dugAt": "2026-03-18T17:33:26.662Z",
+  "recommendations": [
+    {
+      "product_name": "Topeak JoeBlow Sport III Floor Pump",
+      "pros": [
+        "Fast high-pressure pumping",
+        "Large, easy-to-read gauge",
+        "Sturdy wide base"
+      ],
+      "cons": [
+        "Locking lever head can leak air for some users",
+        "Mostly plastic fittings on some parts"
+      ],
+      "price": null,
+      "amazon_id": "B077KXQ995",
+      "sources": [
+        "https://www.cyclingnews.com/features/best-bike-pumps/",
+        "https://www.biketiresdirect.com/product/topeak-joeblow-sport-iii-floor-pump"
+      ],
+      "amazon_url": "https://www.amazon.com/Topeak-Blow-Sport-Pressure-Floor/dp/B077KXQ995",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/x4HZv0UJnHHnObUIkS-dI7LEoy4zFjPXDnUAEUAkV5o/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly93d3cu/bWFyYmxlaGVhZGN5/Y2xlLmNvbS9jZG4v/c2hvcC9maWxlcy90/ejQyNDQuanBnP3Y9/MTc1NjM1NTQ4OSZ3/aWR0aD0xMjE0",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "CYCPLUS AS2 Pro Electric Mini Pump",
+      "pros": [
+        "Extremely compact and portable",
+        "Auto-stop and precise digital control",
+        "Fast inflation for a mini pump"
+      ],
+      "cons": [
+        "Higher cost than basic mini pumps",
+        "Battery required/needs charging"
+      ],
+      "price": null,
+      "amazon_id": "B0DH21Y35K",
+      "sources": [
+        "https://www.cyclingweekly.com/products/cycplus-as2-pro-blew-away-the-competition-in-our-group-test-its-now-30-percent-off-and-one-not-to-be-missed-ahead-of-amazons-big-deal-days",
+        "https://www.bestreviews.guide/electric-pump-for-bike"
+      ],
+      "amazon_url": "https://www.amazon.com/CYCPLUS-Bicycle-Electric-Schrader-Updated/dp/B0DH21Y35K",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/Fdn7NZimNMwmXjukKrMiE4p_TJUxbwGkWq-Wrht2uv4/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly93d3cu/a29sb3Nob3AyNC5j/b20vbWVkaWEvNjAv/YWMvNjBhYzc4YTIw/Yzk5ODdhZC0xNjAw/LTEyMDAtd3otNjAu/d2VicA",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "Lezyne Alloy Digital Drive (floor pump)",
+      "pros": [
+        "Accurate digital gauge option",
+        "Durable alloy construction",
+        "Reliable long-term build quality"
+      ],
+      "cons": [
+        "Pricier than basic floor pumps",
+        "Some users report occasional gauge drift"
+      ],
+      "price": null,
+      "amazon_id": "B076T4ZN5M",
+      "sources": [
+        "https://gearjunkie.com/biking/best-bike-pump",
+        "https://www.modernbike.com/lezyne-alloy-hv-digital-drive-3.5--pump-gloss-silver"
+      ],
+      "amazon_url": "https://www.amazon.com/LEZYNE-Alloy-Digital-Drive-Floor/dp/B076T4ZN5M",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/IS3_-YJL4G24HCqzz2NkjqzTXFv9au-AglLr7oI8JRE/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9kdW5i/YXJjeWNsZXMuY29t/L2Nkbi9zaG9wL2Zp/bGVzL2xlenluZS1h/bGxveS1kaWdpdGFs/LWRyaXZlLWZsb29y/LXB1bXAtYWJzLTEt/cHJvLWNoX2NjY2E3/Y2Y3LTFiMTgtNDNi/Ny05MDBjLTg3Y2I4/ZTYyMTZmOS5wbmc_/dj0xNzE5NTg4NDUz/JndpZHRoPTk1MA",
+      "resolver": "brave",
+      "valid": true
+    }
+  ],
+  "resolvedLinks": {
+    "https://www.cyclingnews.com/features/best-bike-pumps/": {
+      "title": "Best bike pumps 2026: Keep your tyres inflated with our top 12 mini, electric and floor pumps",
+      "description": "Our pick of the best bike pumps for getting your tyres up to pressure at home and when out riding",
+      "image": "https://cdn.mos.cms.futurecdn.net/VWjChoNierdLEg6sanmXiT-600-80.jpg",
+      "url": "https://www.cyclingnews.com/features/best-bike-pumps/"
+    },
+    "https://www.biketiresdirect.com/product/topeak-joeblow-sport-iii-floor-pump": {
+      "title": "Topeak JoeBlow Sport III Floor Pump [TJB-S6]",
+      "description": "Designed to make short work of even the toughest tires at the highest pressure, this floor pump brings a host of upgrades for the benchmark-setting floor pump from Topeak.",
+      "image": "https://static.biketiresdirect.com/productimages/images650/TPJS31-1.jpg",
+      "url": "https://www.biketiresdirect.com/product/topeak-joeblow-sport-iii-floor-pump"
+    },
+    "https://www.bestreviews.guide/electric-pump-for-bike": {
+      "title": "10 Best Electric Pump For Bike 2026 in the US | There's One Clear Winner | BestReviews.guide",
+      "description": "BestReviews.guide analyzes thousands of articles and customer reviews to find the top-rated products at today's lowest prices. Best products, best offers.",
+      "image": "https://images-proxy.bestreviews.guide/0KlaQC9xJ1Po1VdxJF4UvCvIZKs=/0x300/https://m.media-amazon.com/images/I/51KL4r1CaDL._AC_CX679_.jpg",
+      "url": "https://www.bestreviews.guide/electric-pump-for-bike"
+    },
+    "https://gearjunkie.com/biking/best-bike-pump": {
+      "title": "The Best Bike Pumps of 2025",
+      "description": "We tested 16 models from top brands, including ToPeak, Blackburn, Silca, Bontrager, and more, to find the best bike pumps.",
+      "image": "https://s3.amazonaws.com/images.gearjunkie.com/uploads/2020/05/Blackburn-4-1-700x467.jpg",
+      "url": "https://gearjunkie.com/biking/best-bike-pump"
+    }
+  }
+}

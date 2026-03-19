@@ -1,0 +1,84 @@
+{
+  "slug": "flats",
+  "query": "best flats",
+  "title": "Best flats | Bin Diving",
+  "description": "AI-dug recommendations for best flats. Compare options and find one that fits.",
+  "dugAt": "2026-03-18T22:57:11.547Z",
+  "recommendations": [
+    {
+      "product_name": "Vionic Minna Ballet Flat",
+      "pros": [
+        "Strong arch support",
+        "Podiatrist-designed",
+        "Multiple colors/sizes"
+      ],
+      "cons": [
+        "Higher price point",
+        "Narrow toe for some"
+      ],
+      "price": "From $61",
+      "amazon_id": "B094YKNG3Q",
+      "sources": [
+        "https://www.purewow.com/fashion/comfortable-flats"
+      ],
+      "amazon_url": "https://www.amazon.com/Vionic-359MINNA-Womens-Minna/dp/B094YKNG3Q",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/K5mSpgnIjj52GtRc6g8kF4Wk9lonQ0VSx93aU5efgHI/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9kaTJw/b252MHY1b3R3LmNs/b3VkZnJvbnQubmV0/L3Bvc3RzLzIwMjIv/MTIvMjMvNjNhNWVi/OTU4ZDdhM2NhOTJi/MDFlMjE2L21fNjNh/NWViYjQwNDE2NmQ0/NWFlM2FjNzA1Lmpw/Zw",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "Frank Mully Round Toe Ballet Flat",
+      "pros": [
+        "Inexpensive and washable",
+        "Flexible knit, packable",
+        "Many color options"
+      ],
+      "cons": [
+        "Variable sole padding by color",
+        "May need aftermarket arch insert"
+      ],
+      "price": "From $39",
+      "amazon_id": "B08BP6WLC6",
+      "sources": [
+        "https://www.travelandleisure.com/style/shoes/most-comfortable-flats",
+        "https://www.purewow.com/fashion/comfortable-flats"
+      ],
+      "amazon_url": "https://www.amazon.com/Womens-Ballet-Classic-Ballerina-Walking/dp/B08BP6WLC6",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/-0gVH4EqvSKbhLJG9qcP__a_y3XCTvetOtSZgDj-hz8/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9pbWFn/ZXMtbmEuc3NsLWlt/YWdlcy1hbWF6b24u/Y29tL2ltYWdlcy9J/LzcxSTllcVF0SllM/LmpwZw",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "ECCO Anine Ballerina Flat",
+      "pros": [
+        "Leather construction",
+        "Good support for flat feet",
+        "Durable, stable heel cup"
+      ],
+      "cons": [
+        "More expensive than budget flats",
+        "Minimal cushioning for some users"
+      ],
+      "price": "Around $82",
+      "amazon_id": "B0819ZBWLJ",
+      "sources": [
+        "https://www.purewow.com/fashion/comfortable-flats"
+      ],
+      "amazon_url": "https://www.amazon.com/ECCO-Womens-Anine-Classic-Ballet/dp/B0819ZBWLJ",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/KENWZWrfmFgG26lb1ELPR2duWzVAO9ZdJdl5oHRcGO8/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9tLm1l/ZGlhLWFtYXpvbi5j/b20vaW1hZ2VzL0kv/NTFLLUVzckhYK0wu/anBn",
+      "resolver": "brave",
+      "valid": true
+    }
+  ],
+  "resolvedLinks": {
+    "https://www.purewow.com/fashion/comfortable-flats": {
+      "title": "13 of the Most Comfortable Flats You Can Find on Amazon",
+      "description": "The most comfortable flats on Amazon will support your arches and heels, be wide enough to fit your feet and look great—shop our top picks.",
+      "image": "https://publish.purewow.net/wp-content/uploads/sites/2/2021/09/comfortable-flats-fb.jpg",
+      "url": "https://www.purewow.com/fashion/comfortable-flats"
+    }
+  }
+}

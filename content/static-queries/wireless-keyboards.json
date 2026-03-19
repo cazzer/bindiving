@@ -1,0 +1,110 @@
+{
+  "slug": "wireless-keyboards",
+  "query": "best wireless keyboards",
+  "title": "Best wireless keyboards | Bin Diving",
+  "description": "AI-dug recommendations for best wireless keyboards. Compare options and find one that fits.",
+  "dugAt": "2026-03-18T19:37:02.958Z",
+  "recommendations": [
+    {
+      "product_name": "Logitech MX Keys S Wireless Keyboard",
+      "pros": [
+        "Comfortable low-profile typing",
+        "Smart illumination and multi-device pairing",
+        "Programmable keys via Logi Options+"
+      ],
+      "cons": [
+        "Higher price than basic keyboards",
+        "Some reports of long-term key reliability issues"
+      ],
+      "price": null,
+      "amazon_id": "B0BKW3LB2B",
+      "sources": [
+        "https://www.tomsguide.com/computing/peripherals/logitech-mx-keys-s-review",
+        "https://www.logitech.com/en-us/products/keyboards/mx-keys-s-wireless-keyboard.html"
+      ],
+      "amazon_url": "https://www.amazon.com/Logitech-Programmable-Backlighting-Bluetooth-Rechargeable/dp/B0BKW3LB2B",
+      "gpt_azn": "B0BKW3LB2B",
+      "image_url": "https://imgs.search.brave.com/aQdxqju_J1h3vCfmBoFHrZMbV7h-HpwUuC_fSwuoi90/rs:fit:0:180:1:0/g:ce/aHR0cHM6Ly9pLmVi/YXlpbWcuY29tL2lt/YWdlcy9nL1lzRUFB/ZVN3aU9OcGc0U2ov/cy1sMjI1LmpwZw",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "Keychron K8 (K8 Max / K8 QMK V2 variants) Wireless Mechanical Keyboard",
+      "pros": [
+        "Hot-swappable mechanical switches",
+        "Solid Bluetooth + 2.4GHz wireless support",
+        "Great value for a wireless mechanical TKL board"
+      ],
+      "cons": [
+        "Firmware/feature quirks reported by some users",
+        "Build/finish varies across batches"
+      ],
+      "price": null,
+      "amazon_id": "B0DNYQCKCV",
+      "sources": [
+        "https://www.tomsguide.com/computing/keyboards/keychron-k8-max-review",
+        "https://www.techpowerup.com/329708/keychron-announces-k8-qmk-v2-tkl-keyboard-with-improved-customization-and-new-switch-options"
+      ],
+      "amazon_url": "https://www.amazon.com/Keychron-Mechanical-Bluetooth-Shine-Through-Hot-swappable/dp/B0DNYQCKCV",
+      "gpt_azn": "B0DSGSZGK9",
+      "image_url": "https://imgs.search.brave.com/2ZfjFrMWyirnoOgbun9fGCBc9H4TJLAnZYIAo9wU7io/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9pbWFn/ZXMtbmEuc3NsLWlt/YWdlcy1hbWF6b24u/Y29tL2ltYWdlcy9J/LzcxMnE3c2YrTEFM/LmpwZw",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "Apple Magic Keyboard with Numeric Keypad (USB‑C / Touch ID variants)",
+      "pros": [
+        "Excellent low-profile scissor-switch feel",
+        "Seamless macOS/iPadOS integration",
+        "Premium build and compact design"
+      ],
+      "cons": [
+        "Expensive compared with third‑party options",
+        "Limited customization and key travel"
+      ],
+      "price": null,
+      "amazon_id": "B09BRDJBRT",
+      "sources": [
+        "https://www.techgearlab.com/reviews/small-and-home-office/wireless-keyboard/apple-magic-with-numeric-pad",
+        "https://www.apple.com/shop/product/mxcj3ll/a/magic-keyboard-with-numeric-keypad-us-english"
+      ],
+      "amazon_url": "https://www.amazon.com/Apple-Keyboard-Numeric-Computers-Silicon/dp/B09BRDJBRT",
+      "gpt_azn": "B09V3JTSMZ",
+      "image_url": "https://imgs.search.brave.com/3au9gNzTf4qbOiqtfwoYPTmZ8NyAjRgTMPRLAMf_654/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9pLnBj/bWFnLmNvbS9pbWFn/ZXJ5L3Jldmlld3Mv/MDBOQ2JuYUtKN1Iy/NklWUnRrT3JjcFMt/MS5maXRfc2NhbGUu/c2l6ZV80MDB4MjI1/LnYxNzMwNzM2NjU0/LmpwZw",
+      "resolver": "brave",
+      "valid": true
+    }
+  ],
+  "resolvedLinks": {
+    "https://www.tomsguide.com/computing/peripherals/logitech-mx-keys-s-review": {
+      "title": "Logitech MX Keys S review: The best Apple Magic Keyboard alternative",
+      "description": "Lovely to type on but it may leave you wanting more",
+      "image": "https://cdn.mos.cms.futurecdn.net/UqasvXfWTSLSG7o5S9M4i8-2520-80.jpg",
+      "url": "https://www.tomsguide.com/computing/peripherals/logitech-mx-keys-s-review"
+    },
+    "https://www.tomsguide.com/computing/keyboards/keychron-k8-max-review": {
+      "title": "Keychron K8 Max review",
+      "description": "Keychron keeps making my typing dreams come true",
+      "image": "https://cdn.mos.cms.futurecdn.net/NaCDjw4MBMhquSYpFE9QNN-2560-80.jpg",
+      "url": "https://www.tomsguide.com/computing/keyboards/keychron-k8-max-review"
+    },
+    "https://www.techpowerup.com/329708/keychron-announces-k8-qmk-v2-tkl-keyboard-with-improved-customization-and-new-switch-options": {
+      "title": "Keychron Announces K8 QMK V2 TKL Keyboard With Improved Customization and New Switch Options",
+      "description": "Keychron, known for its often reasonably priced, customizable mechanical keyboards, has announced the second iteration of the K8 QMK. The new TKL (80%) keyboard sports updated internal materials for added sound dampening. The new K8 QMK is available with the usual selection of mechanical switch type...",
+      "image": "https://www.techpowerup.com/img/I1f6TJpoI9ixoSEw.jpg",
+      "url": "https://www.techpowerup.com/329708/keychron-announces-k8-qmk-v2-tkl-keyboard-with-improved-customization-and-new-switch-options"
+    },
+    "https://www.techgearlab.com/reviews/small-and-home-office/wireless-keyboard/apple-magic-with-numeric-pad": {
+      "title": "Apple Magic with Numeric Pad Review",
+      "description": "The Apple Magic with Numeric Pad is a sleek and stylish low-profile keyboard that offers a peerless typing experience. It's our top pick among wireless...",
+      "image": "https://djd1xqjx2kdnv.cloudfront.net/photos/39/11/512670_14923_XXL.jpg",
+      "url": "https://www.techgearlab.com/reviews/small-and-home-office/wireless-keyboard/apple-magic-with-numeric-pad"
+    },
+    "https://www.apple.com/shop/product/mxcj3ll/a/magic-keyboard-with-numeric-keypad-us-english": {
+      "title": "Magic Keyboard with Numeric Keypad for Mac models",
+      "description": "The Magic Numeric Keyboard features a sleek new design and a rechargeable battery that powers it for a month between charges, and pairs automatically with your Mac.",
+      "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/MQ052?wid=1200&hei=630&fmt=jpeg&qlt=95&.v=1495129815011",
+      "url": "https://www.apple.com/shop/product/mxcj3ll/a/magic-keyboard-with-numeric-keypad-us-english"
+    }
+  }
+}

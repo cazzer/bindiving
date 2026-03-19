@@ -1,0 +1,128 @@
+{
+  "slug": "routers",
+  "query": "best routers",
+  "title": "Best routers | Bin Diving",
+  "description": "AI-dug recommendations for best routers. Compare options and find one that fits.",
+  "dugAt": "2026-03-18T19:11:55.191Z",
+  "recommendations": [
+    {
+      "product_name": "NETGEAR Orbi 970 Series (RBE972S/RBE973) Wi‑Fi 7 Mesh System",
+      "pros": [
+        "Top-tier Wi‑Fi 7 speeds",
+        "Excellent coverage for large homes"
+      ],
+      "cons": [
+        "Very expensive",
+        "Some users report stability/roaming issues"
+      ],
+      "price": null,
+      "amazon_id": "B0CGJGXFCS",
+      "sources": [
+        "https://www.tomshardware.com/reviews/netgear-orbi-970-wi-fi-7-mesh-router-review",
+        "https://www.wired.com/review/netgear-orbi-970-series/",
+        "https://www.tomsguide.com/sales-events/act-fast-the-excellent-orbi-970-router-is-on-sale-at-netgear"
+      ],
+      "amazon_url": "https://www.amazon.com/NETGEAR-Quad-Band-Satellite-Extenders-Internet/dp/B0CGJGXFCS",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/ISRnr6Z6EDaeepn_evH15LcJpcDId5AQZZSws2GjOVA/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9pNS53/YWxtYXJ0aW1hZ2Vz/LmNvbS9zZW8vTmV0/Z2Vhci1PcmJpLVJC/RTk3M1MtV2ktRmkt/Ny1JRUVFLTgwMi0x/MWEtSUVFRS04MDIt/MTFhYy1JRUVFLTgw/Mi0xMWF4LUlFRUUt/ODAyLTExYi1JRUVF/LTgwMi0xMWctSUVF/RS04MDItMTFuLUlF/RUUtODAyLTExYmUt/RXRoZXJuZXQtV2ly/ZWxlc3MtUm91dGVy/Xzk2MzRlN2I0LWYw/MTMtNDIwOS1hNjll/LTdmNTQ2YzNkZjM4/NC43NzVkODY0ZGY5/YjY1ZmE3ZmU4Zjlk/NjUzMTA5OTQ0YS5q/cGVnP29kbkhlaWdo/dD01NzMmb2RuV2lk/dGg9NTczJm9kbkJn/PUZGRkZGRg",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "ASUS ROG Rapture GT-AXE16000 Wi‑Fi 6E Quad‑Band Gaming Router",
+      "pros": [
+        "Extremely high throughput and gaming features",
+        "Rich firmware and customization"
+      ],
+      "cons": [
+        "Large and power-hungry",
+        "Premium price and limited stock at times"
+      ],
+      "price": null,
+      "amazon_id": "B09Z792WWF",
+      "sources": [
+        "https://www.techradar.com/reviews/asus-rog-rapture-gt-axe16000",
+        "https://rog.asus.com/us/networking/rog-rapture-gt-axe16000-model/",
+        "https://www.pcguide.com/deals/i-gave-this-asus-rog-router-an-excellent-review-and-now-its-at-its-lowest-price-on-amazon/"
+      ],
+      "amazon_url": "https://www.amazon.com/ASUS-Rapture-Gaming-Router-GT-AXE16000/dp/B09Z792WWF",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/K1dmphs5BF7WMv8MBm0UY-THxoEc3efhtCnIq7ZjwC8/rs:fit:0:180:1:0/g:ce/aHR0cHM6Ly9pLmVi/YXlpbWcuY29tL2lt/YWdlcy9nL0NMTUFB/T1N3ZFYxbjNnbWgv/cy1sMjI1LmpwZw",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "TP‑Link Archer AXE75 (AXE5400) Tri‑Band Wi‑Fi 6E Router",
+      "pros": [
+        "Good performance for price",
+        "Includes 6GHz band for compatible devices"
+      ],
+      "cons": [
+        "Some users report intermittent connection issues",
+        "Security/firmware advisories have appeared"
+      ],
+      "price": null,
+      "amazon_id": "B0B3SQK74L",
+      "sources": [
+        "https://www.tp-link.com/us/home-networking/wifi-router/archer-axe75/",
+        "https://www.rtings.com/router/reviews/tp-link/archer-axe75",
+        "https://www.gadgetreview.com/tp-link-archer-axe75-review"
+      ],
+      "amazon_url": "https://www.amazon.com/TP-Link-Tri-Band-Archer-AXE75-Wireless/dp/B0B3SQK74L",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/F45dIxBLU3g_4ce641C22KNqy-zJYR4wyPhf5JNM7bM/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly93d3cu/Y2Nsb25saW5lLmNv/bS9pbWFnZXMvYXZh/bnRlL0FyY2hlcl9B/WEU3NV9SX2xhcmdl/XzIwMjExMjI3MDgw/OTQ2aS5qcGc_d2lk/dGg9MzAwJmhlaWdo/dD0yMjUmc2NhbGU9/Y2FudmFzJnRyaW0u/dGhyZXNob2xkPTgw",
+      "resolver": "brave",
+      "valid": true
+    }
+  ],
+  "resolvedLinks": {
+    "https://www.wired.com/review/netgear-orbi-970-series/": {
+      "title": "Netgear’s Super-Fast Wi-Fi 7 System Is Excellent but Exorbitant",
+      "description": "This Wi-Fi 7 mesh is a great performer with handy extras, but it is overpriced overkill for most folks.",
+      "image": "https://media.wired.com/photos/665e255ad2320e648de29111/191:100/w_1280,c_limit/Netgear-Orbi-970-Series-collage-062024-SOURCE-Simon-Hill.jpg",
+      "url": "https://www.wired.com/review/netgear-orbi-970-series/"
+    },
+    "https://www.tomsguide.com/sales-events/act-fast-the-excellent-orbi-970-router-is-on-sale-at-netgear": {
+      "title": "Act fast! The excellent Orbi 970 router is on sale at Netgear",
+      "description": "Use this exclusive coupon to save big",
+      "image": "https://cdn.mos.cms.futurecdn.net/ocqtxqZLwG7a3hr6t7TCMP-2000-80.jpg",
+      "url": "https://www.tomsguide.com/sales-events/act-fast-the-excellent-orbi-970-router-is-on-sale-at-netgear"
+    },
+    "https://www.techradar.com/reviews/asus-rog-rapture-gt-axe16000": {
+      "title": "Asus ROG Rapture GT-AXE16000 review: the epitome of a powerful gaming router",
+      "description": "Asus has finally made the ultimate gaming router",
+      "image": "https://cdn.mos.cms.futurecdn.net/eQMGdzb9QVWajMm7T2ryXQ-2560-80.jpg",
+      "url": "https://www.techradar.com/reviews/asus-rog-rapture-gt-axe16000"
+    },
+    "https://rog.asus.com/us/networking/rog-rapture-gt-axe16000-model/": {
+      "title": "ROG Rapture GT-AXE16000 | Routers | ROG United States",
+      "description": "Quad-band WiFi 6E gaming router, new 6 GHz band, dual 10G ports, 2.5G WAN port, dual WAN, AiMesh support, VPN Fusion, Triple-level game acceleration and free network security",
+      "image": "https://dlcdnwebimgs.asus.com/gain/B950E11A-86CD-4723-884D-592C5F2A59D8",
+      "url": "https://rog.asus.com/us/networking/rog-rapture-gt-axe16000-model/"
+    },
+    "https://www.pcguide.com/deals/i-gave-this-asus-rog-router-an-excellent-review-and-now-its-at-its-lowest-price-on-amazon/": {
+      "title": "I gave this ASUS ROG router an excellent review, and now it's at its lowest price on Amazon",
+      "description": "Looking for a network upgrade? This powerful ROG Rapture GT-AXE16000 WiFi 6E router just fell to its lowest price in an Amazon deal.",
+      "image": "https://www.pcguide.com/wp-content/uploads/2025/10/I-gave-this-ASUS-ROG-router-an-excellent-review-and-now-its-at-its-lowest-price-on-Amazon.jpg",
+      "url": "https://www.pcguide.com/deals/i-gave-this-asus-rog-router-an-excellent-review-and-now-its-at-its-lowest-price-on-amazon/"
+    },
+    "https://www.tp-link.com/us/home-networking/wifi-router/archer-axe75/": {
+      "title": "AXE5400 Tri-Band Gigabit Wi-Fi 6E Router",
+      "description": "Enjoy Wi-Fi 6E connectivity for every device with the Archer AXE75 tri-band Wi-Fi 6E router.",
+      "image": "https://static.tp-link.com/upload/image-line/Archer_AXE75_EU_2.0_Overview_01_large_20260304073407j.jpg",
+      "url": "https://www.tp-link.com/us/home-networking/wifi-router/archer-axe75/"
+    },
+    "https://www.rtings.com/router/reviews/tp-link/archer-axe75": {
+      "title": "TP-Link Archer AXE75 Review",
+      "description": "The TP-Link Archer AXE75, also known as the TP-Link AXE5400, is a tri-band Wi-Fi 6E router with 2.4GHz, 5GHz, and 6GHz bands. It has five 1Gbps network ports and...",
+      "image": "https://i.rtings.com/assets/products/VB1qIF3n/tp-link-archer-axe75/design-medium.jpg?format=auto",
+      "url": "https://www.rtings.com/router/reviews/tp-link/archer-axe75"
+    },
+    "https://www.gadgetreview.com/tp-link-archer-axe75-review": {
+      "title": "TP-Link Archer AXE75 Review",
+      "description": "",
+      "image": "https://www.gadgetreview.com/wp-content/uploads/archer-axe75.jpg",
+      "url": "https://www.gadgetreview.com/tp-link-archer-axe75-review"
+    }
+  }
+}

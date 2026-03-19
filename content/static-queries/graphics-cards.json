@@ -1,0 +1,107 @@
+{
+  "slug": "graphics-cards",
+  "query": "best graphics cards",
+  "title": "Best graphics cards | Bin Diving",
+  "description": "AI-dug recommendations for best graphics cards. Compare options and find one that fits.",
+  "dugAt": "2026-03-18T18:59:40.692Z",
+  "recommendations": [
+    {
+      "product_name": "NVIDIA GeForce RTX 5090 (various partner models)",
+      "pros": [
+        "Top-tier gaming and AI performance",
+        "Great for 4K/8K and ray tracing"
+      ],
+      "cons": [
+        "Very high power draw",
+        "Expensive and occasionally out of stock"
+      ],
+      "price": null,
+      "amazon_id": "B0DT7GBNWQ",
+      "sources": [
+        "https://www.tomsguide.com/computing/gpus/best-graphics-cards",
+        "https://www.pcgamer.com/hardware/the-best-of-ces-2026/"
+      ],
+      "amazon_url": "https://www.amazon.com/GIGABYTE-Graphics-WINDFORCE-GV-N5090GAMING-OC-32GD/dp/B0DT7GBNWQ",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/VK6qUslq-l4jWujBxHcwrSyIY1VxunI4UQGeQQnY4l4/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly90aGVn/YW1lcG9zdC5jb20v/d3AtY29udGVudC91/cGxvYWRzLzIwMjUv/MDEvbnZpZGlhLWdl/Zm9yY2UtcnR4LTUw/OTAtYWxsLWxlYWtl/ZC1wcmljZXMtZ3B1/cy1hc3VzLW1zaS1n/aWdhYnl0ZS02Lndl/YnA",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "NVIDIA GeForce RTX 4090 (various partner / Founders Edition models)",
+      "pros": [
+        "Excellent 4K gaming performance",
+        "Mature driver support and broad software compatibility"
+      ],
+      "cons": [
+        "Large size and high power requirements",
+        "Less future‑proof than RTX 50‑series for AI workloads"
+      ],
+      "price": null,
+      "amazon_id": "B0BJFRT43X",
+      "sources": [
+        "https://www.tomsguide.com/computing/gpus/best-graphics-cards",
+        "https://www.nbcnews.com/select/shopping/best-graphics-cards-rcna163535"
+      ],
+      "amazon_url": "https://www.amazon.com/NVIDIA-GeForce-Founders-Graphics-GDDR6X/dp/B0BJFRT43X",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/Op6daGPujhgCfre6uG1I-UUg9PfNwgdedQE3_GAOZFY/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9jZG4u/d2NjZnRlY2guY29t/L3dwLWNvbnRlbnQv/dXBsb2Fkcy8yMDIy/LzA5L2dlZm9yY2Ut/cnR4LTQwLXNlcmll/cy1wYXJ0bmVyLWdy/YXBoaWNzLWNhcmRz/LTc0MHgyODIuanBn",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "AMD Radeon RX 9070 / RX 9070 XT (partner models)",
+      "pros": [
+        "Strong performance-per-dollar in many titles",
+        "Efficient RDNA 4 architecture with good ray‑tracing for value tier"
+      ],
+      "cons": [
+        "Ray tracing and AI features generally lag NVIDIA",
+        "Driver optimisations vary by title"
+      ],
+      "price": null,
+      "amazon_id": "B0DRRMZDH6",
+      "sources": [
+        "https://www.pcgamer.com/hardware/graphics-cards/graphics-card-price-watch-deals/",
+        "https://www.techradar.com/news/amd-graphics-cards"
+      ],
+      "amazon_url": "https://www.amazon.com/ASUS-RadeonTM-Graphics-2-5-Slot-axial-tech/dp/B0DRRMZDH6",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/3K_5tu5WmHBQPml1l8onuSzGnxTMqp9QUjWaCfqEMek/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9jZG4u/dGhlcGNlbnRodXNp/YXN0LmNvbS93cC1j/b250ZW50L3VwbG9h/ZHMvMjAyNS8xMC9Q/b3dlckNvbG9yLVJl/ZC1EZXZpbC1BTUQt/UmFkZW9uLVJYLTkw/NzAtWFQtc2lkZS5q/cGc",
+      "resolver": "brave",
+      "valid": true
+    }
+  ],
+  "resolvedLinks": {
+    "https://www.tomsguide.com/computing/gpus/best-graphics-cards": {
+      "title": "Best graphics cards in 2026: I've tested every GPU to find the best bang for your buck",
+      "description": "Maximize your PC gaming price-to-performance",
+      "image": "https://cdn.mos.cms.futurecdn.net/wq6kpi6958UKucbdDZc2i9-2560-80.jpg",
+      "url": "https://www.tomsguide.com/computing/gpus/best-graphics-cards"
+    },
+    "https://www.pcgamer.com/hardware/the-best-of-ces-2026/": {
+      "title": "Our nine Best of CES 2026 award winners prove this year's show wasn't all AI nonsense, even if it might feel that way",
+      "description": "It's not all doom and gloom, I promise.",
+      "image": "https://cdn.mos.cms.futurecdn.net/XErnPg6jTaeDASFVLQip3g-1920-80.jpg",
+      "url": "https://www.pcgamer.com/hardware/the-best-of-ces-2026/"
+    },
+    "https://www.nbcnews.com/select/shopping/best-graphics-cards-rcna163535": {
+      "title": "How to tell if you need a separate graphics card for gaming or editing video",
+      "description": "Graphics cards are a crucial part of any PC build, providing more realistic graphics for games, videos and VR.",
+      "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2024-07/240724-best-graphics-card-kb-main-d98dcb.jpg",
+      "url": "https://www.nbcnews.com/select/shopping/best-graphics-cards-rcna163535"
+    },
+    "https://www.pcgamer.com/hardware/graphics-cards/graphics-card-price-watch-deals/": {
+      "title": "Graphics card price watch: We're tracking the lowest prices and the best GPU deals for Nvidia, AMD, and Intel cards",
+      "description": "We've done the hard yards sourcing the best graphics card deals for the GPUs worth putting in your gaming PC.",
+      "image": "https://cdn.mos.cms.futurecdn.net/7a7KbaqQYtoAZhk2giMiJF-1920-80.jpg",
+      "url": "https://www.pcgamer.com/hardware/graphics-cards/graphics-card-price-watch-deals/"
+    },
+    "https://www.techradar.com/news/amd-graphics-cards": {
+      "title": "The best AMD graphics card in 2025: top GPUs from Team Red",
+      "description": "Our top picks for the best AMD graphics card are powerful and affordable",
+      "image": "https://cdn.mos.cms.futurecdn.net/xi87WRiufDvX8PeqqXbtF-2000-80.jpg",
+      "url": "https://www.techradar.com/news/amd-graphics-cards"
+    }
+  }
+}

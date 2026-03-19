@@ -1,0 +1,109 @@
+{
+  "slug": "gaming-keyboards",
+  "query": "best gaming keyboards",
+  "title": "Best gaming keyboards | Bin Diving",
+  "description": "AI-dug recommendations for best gaming keyboards. Compare options and find one that fits.",
+  "dugAt": "2026-03-18T20:04:42.994Z",
+  "recommendations": [
+    {
+      "product_name": "Keychron V1 Ultra 8K",
+      "pros": [
+        "8,000Hz polling for ultra-low latency",
+        "Very long battery life (claimed)",
+        "Gasket-mounted typing feel"
+      ],
+      "cons": [
+        "New model may have limited aftermarket support",
+        "Higher-end price bracket"
+      ],
+      "price": null,
+      "amazon_id": "B0DBZJWFDM",
+      "sources": [
+        "https://www.tomsguide.com/computing/keyboards/keychron-v1-ultra-8k-review"
+      ],
+      "amazon_url": "https://www.amazon.com/Keychron-Wireless-Bluetooth-Mechanical-Hot-swappable/dp/B0DBZJWFDM",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/6t2Ml5Z6ZywtHh8I0O12_jthcmr66sBP5chb2A1CaHU/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly93d3cu/a2V5Y2hyb24uY29t/L2Nkbi9zaG9wL2Zp/bGVzL0tleWNocm9u/LVYxMC1VbHRyYS04/Sy1BbGljZS1MYXlv/dXQuanBnP3Y9MTc3/MjA3Mzk2MCZ3aWR0/aD00NjA",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "SteelSeries Apex Pro Gen 3",
+      "pros": [
+        "Adjustable Hall-effect/OminPoint-style actuation",
+        "Praised for speed and build quality",
+        "Strong reviews from independent labs"
+      ],
+      "cons": [
+        "Premium price",
+        "Some users report software quirks"
+      ],
+      "price": null,
+      "amazon_id": "B0D4RKYZJ5",
+      "sources": [
+        "https://www.rtings.com/keyboard/reviews/steelseries/apex-pro-gen-3",
+        "https://www.pcworld.com/article/3015600/steelseries-apex-pro-gen-3-review.html"
+      ],
+      "amazon_url": "https://www.amazon.com/SteelSeries-Apex-OmniPoint-HyperMagnetic-Switches/dp/B0D4RKYZJ5",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/tl414TGagNh3xS8_fppCpvVWiI_f-jHsFAK2I1F0H0k/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9iMmMt/Y29udGVudGh1Yi5j/b20vd3AtY29udGVu/dC91cGxvYWRzLzIw/MjUvMTAvUkdCLUJl/bGV1Y2h0dW5nLWRl/ci1TdGVlbHNlcmll/cy1BcGV4LVByby1H/ZW4tMy5qcGc_cXVh/bGl0eT01MCZzdHJp/cD1hbGwmdz0xMjAw",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "Razer BlackWidow V4 Pro",
+      "pros": [
+        "Feature-packed (macro keys, command dial, hotswap)",
+        "Strong gaming performance and customization",
+        "Well-supported ecosystem"
+      ],
+      "cons": [
+        "Large footprint",
+        "Steep price for some buyers"
+      ],
+      "price": null,
+      "amazon_id": "B0BV4BC7LV",
+      "sources": [
+        "https://www.vividrepairs.co.uk/razer-blackwidow-v4-pro-review-uk-2025/",
+        "https://www.laptopmag.com/best-picks/best-gaming-keyboards"
+      ],
+      "amazon_url": "https://www.amazon.com/Razer-BlackWidow-Mechanical-Gaming-Keyboard/dp/B0BV4BC7LV",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/Ohp0sY96ccy7Tk3u7bHSDCRnq5UuNJQ0EcE582lhgBw/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9jZG4u/YXJzdGVjaG5pY2Eu/bmV0L3dwLWNvbnRl/bnQvdXBsb2Fkcy8y/MDIzLzAyL3NpZGUt/a2V5cy1zY2FsZWQu/anBn",
+      "resolver": "brave",
+      "valid": true
+    }
+  ],
+  "resolvedLinks": {
+    "https://www.tomsguide.com/computing/keyboards/keychron-v1-ultra-8k-review": {
+      "title": "Keychron upgraded my favorite mechanical keyboard and packed 8,000Hz polling and 660 hours of battery into it — here’s my verdict after a week of testing",
+      "description": "The future of mechanical keyboards is bright",
+      "image": "https://cdn.mos.cms.futurecdn.net/hgFUFPhY568pmgtRdpChfM-2048-80.jpg",
+      "url": "https://www.tomsguide.com/computing/keyboards/keychron-v1-ultra-8k-review"
+    },
+    "https://www.rtings.com/keyboard/reviews/steelseries/apex-pro-gen-3": {
+      "title": "SteelSeries Apex Pro Gen 3 Review",
+      "description": "The SteelSeries Apex Pro Gen 3 is a full-size gaming keyboard that continues SteelSeries' Apex Pro lineup. Like its predecessors, it uses SteelSeries OmniPoint H...",
+      "image": "https://i.rtings.com/assets/products/akP7exTE/steelseries-apex-pro-gen-3/design-medium.jpg?format=auto",
+      "url": "https://www.rtings.com/keyboard/reviews/steelseries/apex-pro-gen-3"
+    },
+    "https://www.pcworld.com/article/3015600/steelseries-apex-pro-gen-3-review.html": {
+      "title": "Could this SteelSeries keyboard be the fastest in the world?",
+      "description": "The SteelSeries Apex Pro Gen 3 is one of the most technically advanced gaming keyboards on the market, offering first-class build quality, typing feel, and customization.",
+      "image": "https://www.pcworld.com/wp-content/uploads/2026/01/Steelseries-Apex-Pro-Gen-3-im-Test.jpg?quality=50&strip=all&w=1024",
+      "url": "https://www.pcworld.com/article/3015600/steelseries-apex-pro-gen-3-review.html"
+    },
+    "https://www.vividrepairs.co.uk/razer-blackwidow-v4-pro-review-uk-2025/": {
+      "title": "Tested Razer BlackWidow V4 Pro Review UK 2025 - Worth £230?",
+      "description": "Tested the Razer BlackWidow V4 Pro for three weeks in my UK gaming setup. Here's whether this premium mechanical keyboard justifies £230 in 2025, warts and all.",
+      "image": "https://www.vividrepairs.co.uk/wp-content/uploads/2025/12/Vivid-OG.png",
+      "url": "https://www.vividrepairs.co.uk/razer-blackwidow-v4-pro-review-uk-2025/"
+    },
+    "https://www.laptopmag.com/best-picks/best-gaming-keyboards": {
+      "title": "Best gaming keyboards in 2025",
+      "description": "The best gaming keyboards in 2025 for esports, casual gamers, and more",
+      "image": "https://cdn.mos.cms.futurecdn.net/XvGU2vHkjZ2Xf6Amw4DVw3-2560-80.jpg",
+      "url": "https://www.laptopmag.com/best-picks/best-gaming-keyboards"
+    }
+  }
+}

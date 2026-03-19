@@ -1,0 +1,110 @@
+{
+  "slug": "immersion-blenders",
+  "query": "best immersion blenders",
+  "title": "Best immersion blenders | Bin Diving",
+  "description": "AI-dug recommendations for best immersion blenders. Compare options and find one that fits.",
+  "dugAt": "2026-03-18T16:48:36.343Z",
+  "recommendations": [
+    {
+      "product_name": "All-Clad Stainless Steel Corded Immersion Blender",
+      "pros": [
+        "Powerful 600W motor",
+        "Sturdy stainless‑steel build",
+        "Trusted cookware brand"
+      ],
+      "cons": [
+        "Attachments sold separately",
+        "Blade guard lacks protective rim"
+      ],
+      "price": "$189.99",
+      "amazon_id": "B007R2E47Y",
+      "sources": [
+        "https://www.all-clad.com/stainless-steel-immersion-hand-blender-600-watts.html",
+        "https://www.bonappetit.com/story/best-immersion-blenders"
+      ],
+      "amazon_url": "https://www.amazon.com/All-Clad-Stainless-Immersion-Detachable-600-Watts/dp/B007R2E47Y",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/XQNt0dS8eHp1raDrJ6sEm7JmrfAzRwYnrTtbMcmXU3I/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9jZG4u/c2hvdWxkaXQuY29t/L3Jldmlld3MvaW1h/Z2VzL2JsZW5kZXJz/L2NsYTNsdGF5dTAw/MTI2czg4Zm56Z2Vt/eDEuanBn",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "Vitamix 5-Speed Immersion Blender (625W)",
+      "pros": [
+        "Strong 625W motor",
+        "Five variable speeds for control",
+        "Designed to reduce suction/splashing"
+      ],
+      "cons": [
+        "Higher price than basic models",
+        "Optional attachments may cost extra"
+      ],
+      "price": "$169.95",
+      "amazon_id": "B08DDJMBZM",
+      "sources": [
+        "https://www.vitamix.com/us/en_us/shop/blenders/5-speed-immersion-blender",
+        "https://www.rtings.com/blender/reviews/vitamix/immersion-blender"
+      ],
+      "amazon_url": "https://www.amazon.com/Vitamix-Immersion-Blender-Stainless-inches/dp/B08DDJMBZM",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/W6mJOCJmKuxP86w4vRX_HsAJQIFnkiEVnPLKrlvI_Z0/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9xdmMu/c2NlbmU3LmNvbS9p/cy9pbWFnZS9RVkMv/ay8xMC9rNTEyMTAu/MDAxPyRhZW1wZHNt/YWxsJA",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "Braun MultiQuick 7 (MultiQuick 7 series)",
+      "pros": [
+        "SmartSpeed pressure‑sensitive control",
+        "ActiveBlade system reduces need to tilt pot",
+        "Well‑reviewed for reliability and performance"
+      ],
+      "cons": [
+        "Higher‑end model can be pricey",
+        "Availability/regions vary by model number"
+      ],
+      "price": null,
+      "amazon_id": "B085FRKBMF",
+      "sources": [
+        "https://vn.braunhousehold.com/multiquick-7/",
+        "https://www.lemonde.fr/guides-d-achat/article/2024/11/28/en-relecture-les-meilleurs-mixeurs-plongeants_6418762_5306571.html"
+      ],
+      "amazon_url": "https://www.amazon.com/Braun-Immersion-Stainless-Processor-MultiQuick/dp/B085FRKBMF",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/idnXiKDpv6E47Ca8Jg0T-3nvpguoW6FBwnXa3rBkcGg/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9jZG4u/c2hvdWxkaXQuY29t/L3Jldmlld3MvaW1h/Z2VzL2JsZW5kZXJz/L2NscjYxdzA4ZjAw/MXpxdzg4NXVyYTJ0/YnIuanBn",
+      "resolver": "brave",
+      "valid": true
+    }
+  ],
+  "resolvedLinks": {
+    "https://www.all-clad.com/stainless-steel-immersion-hand-blender-600-watts.html": {
+      "title": "Stainless Steel Immersion Hand Blender, 600 Watts",
+      "description": "High-performance hand blender: A 600W motor and variable-speed dial with turbo function, plus an ergonomic grip handle to make quick work of any food-prep tasks.Precise speed control: This hand blender features a variable-speed dial and turbo button to adjust the speed according to your needs.Extra-long driveshaft: The hand blender adapts to various containers with its extra-long 9 1/4\" driveshaft that reaches into deep bowls and pots.Easy cleaning: The hand blender's stainless steel shaft detaches for easy cleaning and storage.Large blending head: The hand blender features a large blending head that effectively reduces splatter during use, ensuring a cleaner and more enjoyable blending experience.",
+      "image": "https://www.all-clad.com/media/catalog/product/k/b/kb5ywewwxiead8ujym8d_8nar3lu1qy9hswfs.jpg?optimize=high&bg-color=255,255,255&fit=bounds&height=265&width=265&canvas=265:265",
+      "url": "https://www.all-clad.com/stainless-steel-immersion-hand-blender-600-watts.html"
+    },
+    "https://www.bonappetit.com/story/best-immersion-blenders": {
+      "title": "The Best Immersion Blenders Will Save You Money and Counterspace",
+      "description": "Maybe you don't need that bulky full-size blender after all.",
+      "image": "https://assets.bonappetit.com/photos/68adfa26fec8b0c32aea6cdf/16:9/w_1280,c_limit/8.22_BA_best-Immersion-blender-lede-image.jpg",
+      "url": "https://www.bonappetit.com/story/best-immersion-blenders"
+    },
+    "https://www.vitamix.com/us/en_us/shop/blenders/5-speed-immersion-blender": {
+      "title": "Vitamix Immersion Blender",
+      "description": "Vitamix - Blending Machines for the Home and Business.",
+      "image": "https://www.vitamix.com/us/en_us/products/media_4a90d4f2206c39c0f03c79458b46446e93bce7e3.jpg",
+      "url": "https://www.vitamix.com/us/en_us/products/5-speed-immersion-blender"
+    },
+    "https://www.rtings.com/blender/reviews/vitamix/immersion-blender": {
+      "title": "Vitamix 5-Speed Immersion Review",
+      "description": "The Vitamix 5-Speed Immersion is designed for blending hot ingredients into soups, purees, and more. Its long shaft can help you blend ingredients in deep Dutch ...",
+      "image": "https://i.rtings.com/assets/products/m1e5stp9/vitamix-immersion-blender/design-medium.jpg?format=auto",
+      "url": "https://www.rtings.com/blender/reviews/vitamix/immersion-blender"
+    },
+    "https://vn.braunhousehold.com/multiquick-7/": {
+      "title": "Máy xay Braun multiquick 7, máy xay cầm tay đa năng giá tốt",
+      "description": "Máy xay Braun multiquick 7 với Công nghệ PowerBell Plus nâng cấp tích hợp thêm một lưỡi dao xay, tăng cường khả năng cắt, giúp xay nhanh và mịn hơn 55%",
+      "image": "https://vn.braunhousehold.com/wp-content/uploads/2023/03/braun-MultiQuick-7-WH-cover.png",
+      "url": "https://vn.braunhousehold.com/multiquick-7/"
+    }
+  }
+}

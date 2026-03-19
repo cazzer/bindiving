@@ -1,0 +1,92 @@
+{
+  "slug": "slippers",
+  "query": "best slippers",
+  "title": "Best slippers | Bin Diving",
+  "description": "AI-dug recommendations for best slippers. Compare options and find one that fits.",
+  "dugAt": "2026-03-18T22:52:35.760Z",
+  "recommendations": [
+    {
+      "product_name": "L.L. Bean Wicked Good Moccasins",
+      "pros": [
+        "Warm shearling lining",
+        "Classic durable moccasin build"
+      ],
+      "cons": [
+        "Can run warm for hot feet",
+        "Some recent variability in longevity reported"
+      ],
+      "price": "$89 (reported)",
+      "amazon_id": "B0FHDYCGQH",
+      "sources": [
+        "https://www.architecturaldigest.com/story/best-slippers/"
+      ],
+      "amazon_url": "https://www.amazon.com/L-L-Bean-Wicked-Good-Moccasins/dp/B0FHDYCGQH",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/WAnA1rk4OV6oens9RmxLCKWVuGj36vKTS2Y9Holthks/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9pLmVi/YXlpbWcuY29tL2lt/YWdlcy9nL0tvMEFB/ZVN3aGxOb3p6a3ov/cy1sNDAwLndlYnA",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "glerups Model BR Slip‑On Slippers",
+      "pros": [
+        "Natural felted wool comfort",
+        "Flexible rubber sole for quick outdoor trips"
+      ],
+      "cons": [
+        "Premium price",
+        "Not ideal for extended outdoor wear"
+      ],
+      "price": "$139.95 (reported)",
+      "amazon_id": "B0F6DB41FZ",
+      "sources": [
+        "https://www.rei.com/learn/expert-advice/best-slippers.html"
+      ],
+      "amazon_url": "https://www.amazon.com/Glerups-quality-Slipper-leather-Slip/dp/B0F6DB41FZ",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/pZBbpx5av5bxjQaXzUhaOTwEGs4x_Gyy0avTuXsNC40/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9pNS53/YWxtYXJ0aW1hZ2Vz/LmNvbS9zZW8vR2xl/cnVwcy1VbmlzZXgt/QlItMDItRmVsdC1T/bGlwcGVycy1XaXRo/LVJ1YmJlci1Tb2xl/LTM3LU1fNGRkZjdj/ZDgtNGZjYS00YTRk/LTkyNzktZmFhMDQy/NWZiMWI5LjUwNTFh/ODcxZDA0MDRkMGVm/Zjg4YmZlYTI0ODMw/YjJjLmpwZWc_b2Ru/SGVpZ2h0PTg2NCZv/ZG5XaWR0aD01NzYm/b2RuQmc9RkZGRkZG",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "UGG Scuffette II Slipper",
+      "pros": [
+        "Iconic plush shearling collar",
+        "Widely popular with strong user ratings"
+      ],
+      "cons": [
+        "Can feel snug with socks",
+        "Higher price point vs basic slippers"
+      ],
+      "price": "~$94.75 (reported)",
+      "amazon_id": "B0CLTFJBJV",
+      "sources": [
+        "https://www.yahoo.com/lifestyle/bestselling-amazon-slippers-winter-favorites-180853942.html"
+      ],
+      "amazon_url": "https://www.amazon.com/UGG-Womens-Scuffette-II-Slipper/dp/B0CLTFJBJV",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/CNhb6uQ0GXXx8WSSU6wYuvEuDukoJM0X_djQQ0wFiaA/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9mb290/cHJpbnR1c2EuY28v/Y2RuL3Nob3AvZmls/ZXMvMTEwNjg3Mi1F/U1BfNS5qcGc_dj0x/NzM0OTMyOTIwJndp/ZHRoPTE3OTQ",
+      "resolver": "brave",
+      "valid": true
+    }
+  ],
+  "resolvedLinks": {
+    "https://www.architecturaldigest.com/story/best-slippers/": {
+      "title": "We Found the Best Slippers for Luxe Living",
+      "description": "Keep your toes toasty with shearling lining and breathable wool",
+      "image": "https://media.architecturaldigest.com/photos/69b170bd4a00e823607b0727/16:9/w_1280,c_limit/CN000011325.jpg",
+      "url": "https://www.architecturaldigest.com/story/best-stylish-slippers"
+    },
+    "https://www.rei.com/learn/expert-advice/best-slippers.html": {
+      "title": "The 7 Best Slippers of 2026: Staff Picks | REI Co-op",
+      "description": "Find the perfect pair of camp slides, mountaineering booties, travel kicks and house slippers among our staff's favorites.",
+      "image": "https://www.rei.com/dam/23671529_189337_082725_67929_web_med.jpeg",
+      "url": "https://www.rei.com/learn/expert-advice/best-slippers.html"
+    },
+    "https://www.yahoo.com/lifestyle/bestselling-amazon-slippers-winter-favorites-180853942.html": {
+      "title": "These Bestselling Amazon Slippers Are My Winter Favorites — Over 16,000 5-Star Reviews",
+      "description": "When it comes to clothing, for me, nothing beats ease and coziness. With most areas across the country experiencing a temperature drop currently, now is the time when I simply don’t want to leave my h...",
+      "image": "https://s.yimg.com/ny/api/res/1.2/.MBH4Xc7UDeDwvSCkMoKlA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA7Y2Y9d2VicA--/https://media.zenfs.com/en/us_magazine_e_commerce_884/cfda24e17c56471de9c1cd8c1f5c1d42",
+      "url": "https://www.yahoo.com/lifestyle/bestselling-amazon-slippers-winter-favorites-180853942.html"
+    }
+  }
+}

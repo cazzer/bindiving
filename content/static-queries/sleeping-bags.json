@@ -1,0 +1,124 @@
+{
+  "slug": "sleeping-bags",
+  "query": "best sleeping bags",
+  "title": "Best sleeping bags | Bin Diving",
+  "description": "AI-dug recommendations for best sleeping bags. Compare options and find one that fits.",
+  "dugAt": "2026-03-18T18:26:11.366Z",
+  "recommendations": [
+    {
+      "product_name": "Big Agnes Fly Creek UL 25° Sleeping Bag",
+      "pros": [
+        "Very lightweight",
+        "Excellent packability",
+        "Strong recent reviews"
+      ],
+      "cons": [
+        "Premium price",
+        "Narrower fit for some sleepers"
+      ],
+      "price": null,
+      "amazon_id": "B0DT7SJ5Z9",
+      "sources": [
+        "https://www.t3.com/active/camping/big-agnes-fly-creek-ul-25-down-sleeping-bag-review",
+        "https://www.rei.com/product/245985/big-agnes-fly-creek-ul-25-sleeping-bag",
+        "https://www.livefortheoutdoors.com/camping/sleep/big-agnes-fly-creek-ul25-sleeping-bag-review/"
+      ],
+      "amazon_url": "https://www.amazon.com/Big-Agnes-Fly-Creek-Backpacking/dp/B0DT7SJ5Z9",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/rhI8W-YK4RVLC5k6CGdw86qs7SrzYGzVNLN-e1U1nmE/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly93d3cu/b3B0aWNzcGxhbmV0/LmNvbS9pLzk3OC01/NTAtZmZmZmZmLW5v/LXVwc2NhbGUvb3Bw/bGFuZXQtYmlnLWFn/bmVzLWZseS1jcmVl/ay11bC16aXAtcXVp/bHQtNTAtc2xlZXBp/bmctYmFnLWFzcGhh/bHQtcm95YWwtcHVy/cGxlLWxvbmctYmZj/dWx6cWw1MDI1LWF2/LTQuanBn",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "Therm-a-Rest Boost 650 Sleeping Bag",
+      "pros": [
+        "Innovative design and roomy cut",
+        "Good warmth-to-weight",
+        "Received recent industry awards/reviews"
+      ],
+      "cons": [
+        "Heavier than ultralight quilts",
+        "Higher price point for insulated design"
+      ],
+      "price": null,
+      "amazon_id": "B0DSH2BHL2",
+      "sources": [
+        "https://outdoorindustry.org/press-release/therm-a-rest-boost-650-sleeping-bag-awarded-gearjunkie-best-in-show/",
+        "https://www.cleverhiker.com/camping/therm-a-rest-boost-650-review/",
+        "https://www.enwild.com/therm-a-rest-boost-650"
+      ],
+      "amazon_url": "https://www.amazon.com/Therm-Rest-Boost-Down-Sleeping/dp/B0DSH2BHL2",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/fKxfINg7ksYLLbFHBOO6_cRWzH1cGf7OO6opZuOHNRE/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9hbHNz/cG9ydHMudnRleGlt/Zy5jb20uYnIvYXJx/dWl2b3MvaWRzLzMw/MTE2NTkvMTA2MDUw/NDF4MTMwNjMzMl9h/bHQ2LmpwZz92PTYz/ODc0NTkxNTkxNjAz/MDAwMA",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "REI Co-op Magma 15 Sleeping Bag",
+      "pros": [
+        "Excellent warmth-to-weight",
+        "Small packed size",
+        "Consistently high expert and user ratings"
+      ],
+      "cons": [
+        "Occasionally low stock at retailers",
+        "Mummy cut may feel restrictive to side sleepers"
+      ],
+      "price": "$189.95",
+      "amazon_id": "B0CSPKCJZK",
+      "sources": [
+        "https://www.rei.com/product/228704/rei-co-op-magma-15-sleeping-bag",
+        "https://www.rei.com/learn/expert-advice/best-camping-sleeping-bags.html",
+        "https://www.theinertia.com/gear/backpacking-sleeping-bags/"
+      ],
+      "image_url": "https://images-na.ssl-images-amazon.com/images/G/01/x-locale/common/grey-pixel.gif",
+      "images": [
+        "https://images-na.ssl-images-amazon.com/images/G/01/x-locale/common/grey-pixel.gif"
+      ],
+      "amazon_url": "https://www.amazon.com/Kelty-Sleeping-Backpacking-Recycled-PFAS-free/dp/B0CSPKCJZK/ref=mp_s_a_1_2?dib=eyJ2IjoiMSJ9.ObVzwDohKo3gw5HWdc5Iz27I2DLb5LG-HrPcCbH0TGBJTS5USxShVUprFZkdC7yh8FcpYj-jnn6ME9fuB5Ma9rc6gVAc9dUw3Fll5C3I2ggMZktO96bNbCxTIOQ2b1JFIq-AwnvTiAGMOFFBgDTRl5oMlvA-HrpokhaHavRTs9UmdKb1z3QA2CzGmCcXyzrux8W0yedLy3zRs3b2Vq9NVQ.9WFxw3Swg6clqepZgZb2rfxcaOKTnb2Lh4Fv-f9-LlA&dib_tag=se&keywords=REI+Co-op+Magma+15+Sleeping+Bag&qid=1773858362&sr=8-2",
+      "brand": "Kelty Cosmic 20 Down Mummy Sleeping Bag for Backpacking, Campers, 550 Fill Power, Recycled Fabrics with PFAS-Free DWR, Designed in Sunny Colorado,",
+      "blackFriday": false,
+      "gpt_azn": null,
+      "resolver": "cheerio",
+      "valid": true
+    }
+  ],
+  "resolvedLinks": {
+    "https://www.t3.com/active/camping/big-agnes-fly-creek-ul-25-down-sleeping-bag-review": {
+      "title": "I thought Big Agnes' sleeping bag was too light to be warm – I'm happy I was wrong",
+      "description": "A high-performance featherweight 3-season sleeping bag for sub-zero backpacking",
+      "image": "https://cdn.mos.cms.futurecdn.net/RNmArbKMAcoCEjzHvP5jLP-1920-80.jpg",
+      "url": "https://www.t3.com/active/camping/big-agnes-fly-creek-ul-25-down-sleeping-bag-review"
+    },
+    "https://www.livefortheoutdoors.com/camping/sleep/big-agnes-fly-creek-ul25-sleeping-bag-review/": {
+      "title": "Big Agnes Fly Creek UL25 sleeping bag review: A dream for ultralight enthusiasts",
+      "description": "The Big Agnes Fly Creek UL25 is a super light three-season sleeping bag, but does it sacrifice too much for the low weight? Matt Jones finds out.",
+      "image": "https://images.bauerhosting.com/affiliates/sites/2/2025/04/big-agnes-fly-creek-ul-25.jpg?ar=16%3A9&fit=crop&crop=top&auto=format&w=undefined&q=80",
+      "url": "https://www.livefortheoutdoors.com/camping/sleep/big-agnes-fly-creek-ul25-sleeping-bag-review/"
+    },
+    "https://outdoorindustry.org/press-release/therm-a-rest-boost-650-sleeping-bag-awarded-gearjunkie-best-in-show/": {
+      "title": "Therm-a-Rest Boost 650™ sleeping bag awarded GearJunkie ‘Best in Show’ - Outdoor Industry Association",
+      "description": "",
+      "image": "",
+      "url": "https://outdoorindustry.org/press-release/therm-a-rest-boost-650-sleeping-bag-awarded-gearjunkie-best-in-show/"
+    },
+    "https://www.cleverhiker.com/camping/therm-a-rest-boost-650-review/": {
+      "title": "Therm-A-Rest Boost 650 Sleeping Bag Review | CleverHiker",
+      "description": "From snug nights on trail to sprawling out by the fire, the Therm-A-Rest Boost 650 has awesome features, soft fabric, and an inclusive fit.",
+      "image": "https://www.cleverhiker.com/wp-content/uploads/2025/02/IMG_6472-scaled.jpg",
+      "url": "https://www.cleverhiker.com/camping/therm-a-rest-boost-650-review/"
+    },
+    "https://www.rei.com/learn/expert-advice/best-camping-sleeping-bags.html": {
+      "title": "The 9 Best Sleeping Bags for Camping of 2025 | Staff Picks | REI Co-op",
+      "description": "Explore our top picks for camping sleeping bags of 2025. Our favorites include the sleeping bags for comfort, value, winter-camping, beginners and more.",
+      "image": "https://www.rei.com/dam/batz_012423_0655_web_med.jpeg",
+      "url": "https://www.rei.com/learn/expert-advice/best-camping-sleeping-bags.html"
+    },
+    "https://www.theinertia.com/gear/backpacking-sleeping-bags/": {
+      "title": "8 Best Backpacking Sleeping Bags of 2025 | The Inertia Tested",
+      "description": "",
+      "image": "http://www.theinertia.com/wp-content/uploads/2024/08/NPL4362-3.jpg",
+      "url": "https://www.theinertia.com/gear/backpacking-sleeping-bags/"
+    }
+  }
+}

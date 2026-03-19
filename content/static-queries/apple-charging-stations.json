@@ -1,0 +1,119 @@
+{
+  "slug": "apple-charging-stations",
+  "query": "best apple charging stations",
+  "title": "Best apple charging stations | Bin Diving",
+  "description": "AI-dug recommendations for best apple charging stations. Compare options and find one that fits.",
+  "dugAt": "2026-03-18T19:20:01.346Z",
+  "recommendations": [
+    {
+      "product_name": "Anker Prime 3-in-1 MagGo Wireless Charging Station",
+      "pros": [
+        "Qi2/MagSafe support",
+        "Active cooling for sustained fast charging",
+        "Includes high‑watt USB‑C power brick"
+      ],
+      "cons": [
+        "Premium price",
+        "Some users report inconsistent peak power"
+      ],
+      "price": "$169.99",
+      "amazon_id": "B0CF56WHV4",
+      "sources": [
+        "https://www.anker.com/products/a25x7-anker-prime-qi2-wireless-charging-station-25w-3-in-1-stand",
+        "https://www.macworld.com/article/3024250/ces-2026-the-best-mac-and-iphone-accessories-apple-fans-need-to-see.html",
+        "https://www.digitalcameraworld.com/tech/chargers-power-banks-and-batteries/anker-prime-3-in-1-charging-station-review"
+      ],
+      "amazon_url": "https://www.amazon.com/Compatible-Anker-Charging-Certified-Wireless/dp/B0CF56WHV4",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/Wt1kcqkffAN32EoGS2vuZeMpABQLRehvzmFws1jqOF8/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly85dG81/dG95cy5jb20vd3At/Y29udGVudC91cGxv/YWRzL3NpdGVzLzUv/MjAyNi8wMi9Bbmtl/ci1QcmltZS1XaXJl/bGVzcy1DaGFyZ2lu/Zy1TdGF0aW9uLTMt/aW4tMS1NYWdHby1B/aXJDb29sLUZvbGRh/YmxlLTAyLmpwZz9x/dWFsaXR5PTgyJnN0/cmlwPWFsbCZ3PTEw/MjQ",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "Belkin BoostCharge Pro (3‑in‑1) Magnetic Charging Stand",
+      "pros": [
+        "Official MagSafe-certified alignment",
+        "Well-known brand and broad compatibility",
+        "Front-facing, user‑friendly stand design"
+      ],
+      "cons": [
+        "Mixed user reports about long‑term reliability",
+        "Charges iPhone up to 15W (not the highest Qi2 spec)"
+      ],
+      "price": null,
+      "amazon_id": "B08MB1JGLW",
+      "sources": [
+        "https://www.apple.com/shop/product/HRGH2ZM/A/belkin-boostcharge-pro-3-in-1-magnetic-charging-stand",
+        "https://www.macworld.com/article/668468/best-apple-watch-chargers-stands-docks.html",
+        "https://appleinsider.com/articles/21/11/19/belkin-boostcharge-pro-3-in-1-review-magsafe-an-apple-watch-fast-charger"
+      ],
+      "amazon_url": "https://www.amazon.com/Belkin-BoostCharge-Wireless-Charger-Magnetically/dp/B08MB1JGLW",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/eu4b8SvBCQMJc9OZldDjmEZLtKzivo_1yZ9WbdS2xh8/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9hbGV4/cmV2aWV3c3RlY2gu/Y29tL3dwLWNvbnRl/bnQvdXBsb2Fkcy8y/MDI0LzA0L2JlbGtp/bjNpbjFfcWkyXzFf/NzAwLWpwZy53ZWJw",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "Satechi OntheGo 3‑in‑1 (Qi2 MagSafe‑compatible)",
+      "pros": [
+        "Compact, travel‑friendly foldable design",
+        "Qi2 / MagSafe compatibility for modern iPhones",
+        "Solid value for price"
+      ],
+      "cons": [
+        "Phone charging usually limited to Qi2 15–25W depending on model",
+        "Watch charging uses standard watch puck speed"
+      ],
+      "price": "~$99.00",
+      "amazon_id": "B0F49KPL7T",
+      "sources": [
+        "https://satechi.net/products/onthego-3-in-1-charger",
+        "https://www.androidcentral.com/accessories/power-charging/satechi-onthego-3-in-1-is-the-best-qi-2-travel-charger",
+        "https://www.bestbuy.com/product/satechi-onthego-3-in-1-wireless-charger-qi2-magsafe-compatible-charger-works-with-iphone-apple-watch-airpods-sand/J3GWC4CXXY"
+      ],
+      "amazon_url": "https://www.amazon.com/Satechi-OntheGoTM-Wireless-Portable-Charging/dp/B0F49KPL7T",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/BEfuYWfUb_bgrsOfTkuO9-MvIlWjiPSGiU1_Wfz0VF4/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9pbWFn/ZXMtbmEuc3NsLWlt/YWdlcy1hbWF6b24u/Y29tL2ltYWdlcy9J/LzcxTVVsS2w2ellM/LmpwZw",
+      "resolver": "brave",
+      "valid": true
+    }
+  ],
+  "resolvedLinks": {
+    "https://www.anker.com/products/a25x7-anker-prime-qi2-wireless-charging-station-25w-3-in-1-stand": {
+      "title": "Anker Prime Wireless Charging Station (3-in-1, MagGo, AirCool, Dock Stand)",
+      "description": "25W Ultra‑Fast Wireless Charging: Charge your iPhone 17 Pro to 50% in just 22 minutes—exceeding the limits of standard 25W wireless charging with TEC activ",
+      "image": "https://cdn.shopify.com/s/files/1/0493/9834/9974/files/Group2121236369.png?v=1759127939",
+      "url": "https://www.anker.com/products/a25x7-anker-prime-qi2-wireless-charging-station-25w-3-in-1-stand"
+    },
+    "https://www.macworld.com/article/3024250/ces-2026-the-best-mac-and-iphone-accessories-apple-fans-need-to-see.html": {
+      "title": "CES 2026: The best Mac and iPhone accessories Apple fans need to see",
+      "description": "iPhone chargers, Mac hubs, power stations, and more!",
+      "image": "https://www.macworld.com/wp-content/uploads/2026/01/CES-2026-in-person-logo-skewed-MW-7.jpg?quality=50&strip=all&w=1024",
+      "url": "https://www.macworld.com/article/3024250/ces-2026-the-best-mac-and-iphone-accessories-apple-fans-need-to-see.html"
+    },
+    "https://www.digitalcameraworld.com/tech/chargers-power-banks-and-batteries/anker-prime-3-in-1-charging-station-review": {
+      "title": "This might be the ultimate Apple charging station for power users",
+      "description": "The Anker Prime 3-in-1 Charging Station offers the fastest available charging speeds while keeping everything cool",
+      "image": "https://cdn.mos.cms.futurecdn.net/H5fKypawidjSbnoQEeSGcn-2560-80.jpg",
+      "url": "https://www.digitalcameraworld.com/tech/chargers-power-banks-and-batteries/anker-prime-3-in-1-charging-station-review"
+    },
+    "https://www.apple.com/shop/product/HRGH2ZM/A/belkin-boostcharge-pro-3-in-1-magnetic-charging-stand": {
+      "title": "Apple",
+      "description": "",
+      "image": "",
+      "url": "https://www.apple.com/us/search/Belkin-BoostCharge-Pro-3-in-1-Magnetic-Charging-Stand?rdt=redirectionFromProductPage&tab=accessories"
+    },
+    "https://satechi.net/products/onthego-3-in-1-charger": {
+      "title": "OntheGo™ 3-in-1 Charger",
+      "description": "Shop the Satechi OntheGo 3-in-1 Charger. Foldable Qi2 for iPhone, Apple Watch & AirPods on the go. Free US shipping $50+.",
+      "image": "http://satechi.com/cdn/shop/files/onthego-3-in-1-charger-wireless-chargers-satechi-black-224174.webp?v=1762441795&width=800",
+      "url": "https://satechi.com/products/onthego-3-in-1-charger"
+    },
+    "https://www.androidcentral.com/accessories/power-charging/satechi-onthego-3-in-1-is-the-best-qi-2-travel-charger": {
+      "title": "Satechi's OntheGo 3-in-1 is the best Qi 2 travel charger",
+      "description": "This 3-in-1 charger has a foldable design, great build quality, and it effortlessly charges all your devices.",
+      "image": "https://cdn.mos.cms.futurecdn.net/eVFFp4Ze9nDsaPkeX2sxHB-2560-80.jpg",
+      "url": "https://www.androidcentral.com/accessories/power-charging/satechi-onthego-3-in-1-is-the-best-qi-2-travel-charger"
+    }
+  }
+}

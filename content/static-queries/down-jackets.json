@@ -1,0 +1,116 @@
+{
+  "slug": "down-jackets",
+  "query": "best down jackets",
+  "title": "Best down jackets | Bin Diving",
+  "description": "AI-dug recommendations for best down jackets. Compare options and find one that fits.",
+  "dugAt": "2026-03-18T18:24:39.267Z",
+  "recommendations": [
+    {
+      "product_name": "Patagonia Down Sweater Hoody",
+      "pros": [
+        "Lightweight and packable",
+        "800-fill RDS down, good warmth-to-weight"
+      ],
+      "cons": [
+        "Not for extreme cold without layers",
+        "Higher price point"
+      ],
+      "price": null,
+      "amazon_id": "B0B7XRTY7D",
+      "sources": [
+        "https://www.rei.com/learn/expert-advice/best-down-jackets.html",
+        "https://www.advnture.com/news/youll-be-baffled-by-how-light-and-warm-this-patagonia-down-jacket-is-and-its-a-gigantic-40-percent-off-at-backcountry-right-now",
+        "https://www.mensjournal.com/shopping/patagonia-down-sweater-jacket-sale/"
+      ],
+      "amazon_url": "https://www.amazon.com/Patagonia-Mens-Down-Sweater-Hoody/dp/B0B7XRTY7D",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/NVWfU7MemVu4NN9aHNlphA-VGtzir2UXLDJqa8fyOj4/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9pLmVi/YXlpbWcuY29tL2lt/YWdlcy9nL3ZEOEFB/ZVN3NzA1cHExcE8v/cy1sNDAwLndlYnA",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "Arc'teryx Cerium LT Hoody",
+      "pros": [
+        "Very light with high-fill down (850)",
+        "Good for active use and layering"
+      ],
+      "cons": [
+        "Less warm at rest compared with heavier parkas",
+        "Premium price"
+      ],
+      "price": null,
+      "amazon_id": "B073PH8KV1",
+      "sources": [
+        "https://www.rei.com/product/183073/arcteryx-cerium-lt-down-hoodie-mens",
+        "https://www.outdoorgearlab.com/reviews/clothing-womens/down-jacket-womens/arcteryx-cerium-hoody-womens",
+        "https://www.thegreatoutdoorsmag.com/review/review-arcteryx-cerium-lt-hoody/"
+      ],
+      "amazon_url": "https://www.amazon.com/Arcteryx-Cerium-LT-Hoody-Mens/dp/B073PH8KV1",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/HTKfE_urj9JJnUrppCW9bv5EmS1APcYNQw08aakwybY/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9pLnl0/aW1nLmNvbS92aS9C/cElLRjlNc0FxYy9t/YXhyZXNkZWZhdWx0/LmpwZw",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "The North Face 1996 Retro Nuptse Jacket",
+      "pros": [
+        "Classic, very warm oversized baffles",
+        "Widely available and stylish for city wear"
+      ],
+      "cons": [
+        "Bulkier and less packable",
+        "PFAS-containing DWR concerns reported for some models"
+      ],
+      "price": null,
+      "amazon_id": "B0DZVZH9KX",
+      "sources": [
+        "https://www.thenorthface.com/en-us/p/mens/mens-jackets-and-vests/mens-insulated-and-down-300771/mens-1996-retro-nuptse-jacket-NF0A3C8D?color=NXL",
+        "https://www.rei.com/b/the-north-face/f/pl-nuptse",
+        "https://www.yahoo.com/entertainment/puffer-jackets-amazon-north-face-160000941.html"
+      ],
+      "amazon_url": "https://www.amazon.com/North-Face-Nuptse-Jacket-Little/dp/B0DZVZH9KX",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/aYuf_SA8pCGMcb8xAq9hvH55ZjJdEN8r_I2JYOyB_Is/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9pLmVi/YXlpbWcuY29tL2lt/YWdlcy9nL00wQUFB/ZVN3SmxscGxWSGgv/cy1sOTYwLndlYnA",
+      "resolver": "brave",
+      "valid": true
+    }
+  ],
+  "resolvedLinks": {
+    "https://www.rei.com/learn/expert-advice/best-down-jackets.html": {
+      "title": "The Best Insulated Jackets: Staff Picks | REI Co-op",
+      "description": "REI experts share their favorite down or synthetic insulated jackets for casual wear, hiking, snowsports and more. Read on for our top picks for down jackets and synthetic jackets from Arc'teryx, REI Co-op, Patagonia and more.",
+      "image": "https://www.rei.com/dam/19946385_chorski_20240808_187_web_med.jpeg",
+      "url": "https://www.rei.com/learn/expert-advice/best-down-jackets.html"
+    },
+    "https://www.advnture.com/news/youll-be-baffled-by-how-light-and-warm-this-patagonia-down-jacket-is-and-its-a-gigantic-40-percent-off-at-backcountry-right-now": {
+      "title": "You'll be \"baffled\" by how light and warm this Patagonia down jacket is – and it's a gigantic 40% off at Backcountry right now",
+      "description": "This awesome jacket is usually over $300, but right now you can pick it up for under $200",
+      "image": "https://cdn.mos.cms.futurecdn.net/7irgeYipNFvgdKuoLbp2oj-1366-80.jpg",
+      "url": "https://www.advnture.com/news/youll-be-baffled-by-how-light-and-warm-this-patagonia-down-jacket-is-and-its-a-gigantic-40-percent-off-at-backcountry-right-now"
+    },
+    "https://www.outdoorgearlab.com/reviews/clothing-womens/down-jacket-womens/arcteryx-cerium-hoody-womens": {
+      "title": "Arc'teryx Cerium Hoody - Women's Review",
+      "description": "This latest version of the Arc'teryx Cerium brings a suite of adaptable traits that make it a great all-around down jacket. It's a mid-weight jacket that's...",
+      "image": "https://d1i8d6ce8wwubf.cloudfront.net/photos/29/7/412268_18349_XXL.jpg",
+      "url": "https://www.outdoorgearlab.com/reviews/clothing-womens/down-jacket-womens/arcteryx-cerium-hoody-womens"
+    },
+    "https://www.thenorthface.com/en-us/p/mens/mens-jackets-and-vests/mens-insulated-and-down-300771/mens-1996-retro-nuptse-jacket-NF0A3C8D?color=NXL": {
+      "title": "",
+      "description": "",
+      "image": "",
+      "url": "https://www.thenorthface.com/en-us/p/mens/mens-jackets-and-vests/mens-insulated-and-down-300771/mens-1996-retro-nuptse-jacket-NF0A3C8D?color=NXL"
+    },
+    "https://www.rei.com/b/the-north-face/f/pl-nuptse": {
+      "title": "The North Face Nuptse | REI Co-op",
+      "description": "Shop for The North Face Nuptse at REI - Browse our extensive selection of trusted outdoor brands and high-quality recreation gear. Top quality, great selection and expert advice you can trust. 100% Satisfaction Guarantee",
+      "image": "https://www.rei.com/media/9d3dbcc3-0060-4c72-b54f-eb82568cda69",
+      "url": "https://www.rei.com/b/the-north-face/f/pl-nuptse"
+    },
+    "https://www.yahoo.com/entertainment/puffer-jackets-amazon-north-face-160000941.html": {
+      "title": "Puffer Jackets at Amazon, The North Face, Lululemon, and More Are Up to 71% Off Right Now",
+      "description": "Including faux fur-lined and faux leather styles starting at $29",
+      "image": "https://s.yimg.com/ny/api/res/1.2/jZcnVybVWdOZXVM04sHyrg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA7Y2Y9d2VicA--/https://media.zenfs.com/en/people_218/9e8bd760d4e204d4d1ae094816d8eeda",
+      "url": "https://www.yahoo.com/entertainment/puffer-jackets-amazon-north-face-160000941.html"
+    }
+  }
+}

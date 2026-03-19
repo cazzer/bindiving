@@ -1,0 +1,110 @@
+{
+  "slug": "tote-bags",
+  "query": "best tote bags",
+  "title": "Best tote bags | Bin Diving",
+  "description": "AI-dug recommendations for best tote bags. Compare options and find one that fits.",
+  "dugAt": "2026-03-18T23:00:51.049Z",
+  "recommendations": [
+    {
+      "product_name": "Madewell The Transport Tote (Zip-Top/Medium variants)",
+      "pros": [
+        "classic durable leather",
+        "roomy for daily/laptop use"
+      ],
+      "cons": [
+        "pricey for some budgets",
+        "limited color rotations sometimes"
+      ],
+      "price": "$168 (varies)",
+      "amazon_id": "B07Z43H456",
+      "sources": [
+        "https://www.goodhousekeeping.com/clothing/g70392370/best-purses-on-amazon-2026/",
+        "https://www.madewell.com/p/womens/accessories/bags/totes/the-transport-tote/B2427/",
+        "https://www.marieclaire.com/fashion/katie-holmes-madewell-tote-bag-amazon-prime-day-sale/"
+      ],
+      "amazon_url": "https://www.amazon.com/Madewell-Medium-Transport-Inset-Zipper/dp/B07Z43H456",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/ks3iM2zs_RqENRhdfA6LkAMCrslRwVnDHxiNa5efRLw/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9pbWFn/ZXMtbmEuc3NsLWlt/YWdlcy1hbWF6b24u/Y29tL2ltYWdlcy9J/LzcxUWROLXBLWi1M/LmpwZw",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "Longchamp Le Pliage Large Tote",
+      "pros": [
+        "lightweight and foldable",
+        "timeless, widely recommended"
+      ],
+      "cons": [
+        "nylon can feel less structured",
+        "many lookalikes sold online"
+      ],
+      "price": "$160–$200 (varies by size)",
+      "amazon_id": "B0043IY2V8",
+      "sources": [
+        "https://www.longchamp.com/us/en/le-pliage/003/le-pliage-original/003302/",
+        "https://www.whowhatwear.com/fashion/handbags/longchamp-le-pliage-bag-history",
+        "https://www.travelandleisure.com/longchamp-le-pliage-tote-bag-lookalikes-amazon-11895472"
+      ],
+      "amazon_url": "https://www.amazon.com/Longchamp-Pliage-Large-Shoulder-Tote/dp/B0043IY2V8",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/Qsseh5yJUFbFHxtgxb6AqrsF8SXjIn9-SIm8GD5NuqI/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9pLmVi/YXlpbWcuY29tL2lt/YWdlcy9nLzkzRUFB/ZVN3dW5GcG8xZlgv/cy1sNDAwLndlYnA",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "TOPDesign Puffer Tote Bag (quilted puffer tote)",
+      "pros": [
+        "affordable trend-forward style",
+        "lightweight with multiple compartments"
+      ],
+      "cons": [
+        "less premium materials than designer totes",
+        "may vary by seller quality"
+      ],
+      "price": "$27.99",
+      "amazon_id": "B0DXFBCVLC",
+      "sources": [
+        "https://www.thestreet.com/deals/topdesign-puffer-tote-bag-amazon-sale",
+        "https://www.aol.com/articles/amazon-selling-trendy-tote-bag-210300872.html",
+        "https://www.sellerratings.com/amazon/usa/topdesign--"
+      ],
+      "amazon_url": "https://www.amazon.com/TOPDesign-Lightweight-Handbag-Compartments-Shoulder/dp/B0DXFBCVLC",
+      "gpt_azn": "B0DQCTXTK5",
+      "image_url": "https://imgs.search.brave.com/dt4X3GP_2yvRweSg9S_MQW-25gs1eZZIe6YuCCdc22U/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9tLm1l/ZGlhLWFtYXpvbi5j/b20vaW1hZ2VzL0kv/NjFSWG9XQnpmTkwu/anBn",
+      "resolver": "brave",
+      "valid": true
+    }
+  ],
+  "resolvedLinks": {
+    "https://www.goodhousekeeping.com/clothing/g70392370/best-purses-on-amazon-2026/": {
+      "title": "I'm No Longer Gatekeeping—Amazon Secretly Has the Cutest Purses",
+      "description": "Including Coach, Kate Spade, Madewell, and even Oscar de la Renta.",
+      "image": "https://hips.hearstapps.com/hmg-prod/images/best-purses-on-amazon-1-699cceebef38f.png?crop=1xw:1xh;center,top&resize=1200:*",
+      "url": "https://www.goodhousekeeping.com/clothing/g70392370/best-purses-on-amazon-2026/"
+    },
+    "https://www.madewell.com/p/womens/accessories/bags/totes/the-transport-tote/B2427/": {
+      "title": "The Transport Tote",
+      "description": "What goes into our signature tote? Here it is by the numbers: 2 pieces of fine leather are used for the body. 8 inch strap drop: long enough to sling over your shoulder, but short enough to hold as a top handle. 1 interior side zip pocket to keep your keys, phone and wallet at the ready. 24: the number of hours in a day that this bag looks cool. How often you'll reach for it? 500 gazillion times.",
+      "image": "https://www.madewell.com/images/B2427_BK5229_ld?wid=700&hei=889&fmt=jpeg&fit=crop&qlt=75",
+      "url": "https://www.madewell.com/p/womens/accessories/bags/totes/the-transport-tote/B2427/"
+    },
+    "https://www.marieclaire.com/fashion/katie-holmes-madewell-tote-bag-amazon-prime-day-sale/": {
+      "title": "Katie Holmes's Favorite Tote Bag Is on Rare Sale for Amazon Prime Day",
+      "description": "Now's your chance to grab the celeb-approved style for under $150.",
+      "image": "https://cdn.mos.cms.futurecdn.net/fy6XgpCNDpMMeVBPbtzygi-1920-80.jpg",
+      "url": "https://www.marieclaire.com/fashion/katie-holmes-madewell-tote-bag-amazon-prime-day-sale/"
+    },
+    "https://www.whowhatwear.com/fashion/handbags/longchamp-le-pliage-bag-history": {
+      "title": "Icons Only: From Royalty to Gen Z, Longchamp's Le Pliage Is the Ultimate \"It\" Bag",
+      "description": "Let's debrief on a legend.",
+      "image": "https://cdn.mos.cms.futurecdn.net/jNSWLmhF2DBGWFqze4z5La-1200-80.jpg",
+      "url": "https://www.whowhatwear.com/fashion/handbags/longchamp-le-pliage-bag-history"
+    },
+    "https://www.sellerratings.com/amazon/usa/topdesign--": {
+      "title": "TOPDesign on Amazon.com Marketplace",
+      "description": "TOPDesign is a Top Rated seller trusted by more than six thousand Amazon.com customers in the US. They have been selling on the Amazon.com marketplace since 2019. They offer several dozen products. They are a Top 5000 Amazon.com seller, ranked 3,293rd overall. However, a month ago, they were ranked 2,738th. Seller rank is based on the number of positive reviews received during the last 30 days.",
+      "image": "https://m.media-amazon.com/images/I/61zzi+BDqZL._AC_UY218_.jpg",
+      "url": "https://www.sellerratings.com/amazon/usa/topdesign%3Ft%3D1773232948"
+    }
+  }
+}

@@ -1,0 +1,115 @@
+{
+  "slug": "rain-pants",
+  "query": "best rain pants",
+  "title": "Best rain pants | Bin Diving",
+  "description": "AI-dug recommendations for best rain pants. Compare options and find one that fits.",
+  "dugAt": "2026-03-18T22:46:43.646Z",
+  "recommendations": [
+    {
+      "product_name": "Patagonia Torrentshell 3L Pant",
+      "pros": [
+        "Durable 3-layer waterproof fabric",
+        "Good balance of breathability and protection"
+      ],
+      "cons": [
+        "Can feel stiff to some users",
+        "Higher price point"
+      ],
+      "price": "$210.00",
+      "amazon_id": "B0DBMM3VPF",
+      "sources": [
+        "https://www.switchbacktravel.com/best-rain-pants",
+        "https://www.cleverhiker.com/apparel/best-rain-pants",
+        "https://www.rei.com/learn/expert-advice/best-rain-pants.html"
+      ],
+      "image_url": "https://m.media-amazon.com/images/I/61Zr3GdluyL._AC_UL960_QL65_.jpg",
+      "images": [
+        "https://m.media-amazon.com/images/I/61Zr3GdluyL._AC_UL960_QL65_.jpg"
+      ],
+      "amazon_url": "https://www.amazon.com/RESEARCH-Waterproof-Windproof-Carabiner-Standard/dp/B0DBMM3VPF/ref=sr_1_1?dib=eyJ2IjoiMSJ9.__2gfZK-3qmOpFBOspgoAzeTJjQpsnohuxp0kteladHpj5B4iL9r5ntfokU9gU7P_AItg1ecvQqZdnmgblTFLnr8uNAchxKsLWnkcDczOLxmgFLko1MvnoyI6xxqa3v-v05biubH6KUwsS8n0uTI-SRmv1NowbkxsqYvxpG00O8o2h9J3775_qJrEhn1Y7kmiGHoMohFGcNKrlNlgzP9tZ7q1FC4lK__oVihLduG5ANqZP5WhrN73Fkf_HF6rpFdDUr5I5YCfU4BYc6DbhyHeC6ZPtXDMPvUEK_rTepd8uE.jwahc-e0P9IrBYXlv7_TPf1jK8CL08yPmIVGY_IL49w&dib_tag=se&keywords=Patagonia+Torrentshell+3L+Pant&qid=1773873998&sr=8-1",
+      "brand": "Outdoor Research",
+      "blackFriday": false,
+      "gpt_azn": null,
+      "resolver": "cheerio",
+      "valid": true
+    },
+    {
+      "product_name": "Marmot PreCip Eco Full-Zip Pant",
+      "pros": [
+        "Excellent value and packability",
+        "Full-length side zips for easy on/off"
+      ],
+      "cons": [
+        "Less breathable than premium 3L options",
+        "Hangs water on the surface in heavy, prolonged rain"
+      ],
+      "price": null,
+      "amazon_id": "B09TK1CZ5X",
+      "sources": [
+        "https://www.rei.com/learn/expert-advice/best-rain-pants.html",
+        "https://www.cleverhiker.com/apparel/marmot-precip-eco-rain-pants/",
+        "https://backpackers.com/gear/best/rain-pants/"
+      ],
+      "amazon_url": "https://www.amazon.com/MARMOT-Pants-Precip-Eco-Full/dp/B09TK1CZ5X",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/_El5sGbja6p4NEKbMBbTilrDe0zJPNZRLCZCtsJG-BQ/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9tLm1l/ZGlhLWFtYXpvbi5j/b20vaW1hZ2VzL0kv/NzFPelJMVUtYU0wu/anBn",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "Outdoor Research Foray Pant",
+      "pros": [
+        "High breathability with GORE-TEX construction",
+        "Lightweight and good fit for active use"
+      ],
+      "cons": [
+        "Premium price",
+        "Slimmer cut may not fit over heavy layers easily"
+      ],
+      "price": null,
+      "amazon_id": "B0DBXKWJP9",
+      "sources": [
+        "https://www.outdoorgearlab.com/reviews/clothing-mens/rain-pants/outdoor-research-foray-pants",
+        "https://www.rei.com/learn/expert-advice/best-rain-pants.html",
+        "https://www.switchbacktravel.com/best-rain-pants"
+      ],
+      "amazon_url": "https://www.amazon.com/Outdoor-Research-Mens-Foray-Pants/dp/B0DBXKWJP9",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/g0gDKkjKtbHhi2SiJGdcV76VMgS6kVNl6PtoxFEun8M/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly93d3cu/Z2Vhci11cC5jb20v/Y2RuL3Nob3AvZmls/ZXMvb3V0ZG9vci1y/ZXNlYXJjaC1tZW5z/LWZvcmF5LXBhbnQt/dXBkYXRlZG1lbnNy/YWlud2VhcmdvcmUt/cGFudG91dGRvb3It/cmVzZWFyY2hnZWFy/LXVwLWZvci1vdXRk/b29ycy0zMzA0Mzcw/N184MDB4LmpwZz92/PTE3MDk3NDQ0MzI",
+      "resolver": "brave",
+      "valid": true
+    }
+  ],
+  "resolvedLinks": {
+    "https://www.switchbacktravel.com/best-rain-pants": {
+      "title": "Switchback Travel | Best Rain Pants of 2026",
+      "description": "From breezy ultralight pants for fast thru-hikes to rugged hardshell models for backcountry bushwhacks, we break down the year’s best rain pants",
+      "image": "https://www.switchbacktravel.com/sites/default/files/images/articles/Rain%20Pants%20%28putting%20on%20rain%20pants%20in%20Patagonia%29.jpg",
+      "url": "https://www.switchbacktravel.com/best-rain-pants"
+    },
+    "https://www.cleverhiker.com/apparel/best-rain-pants": {
+      "title": "Best Rain Pants of 2026, Tested & Reviewed | CleverHiker",
+      "description": "We trail-tested dozens of rain pants in the wettest conditions across hundreds of miles to bring you this list of the best rain pants.",
+      "image": "https://www.cleverhiker.com/wp-content/uploads/2023/01/Rain-Pants-16x9-1.jpg",
+      "url": "https://www.cleverhiker.com/apparel/best-rain-pants/"
+    },
+    "https://www.rei.com/learn/expert-advice/best-rain-pants.html": {
+      "title": "The 5 Best Rain Pants of 2025: Staff Picks | REI Co-op",
+      "description": "These 5 waterproof pants will help you stay dry in wet weather—whether you're coaching a soccer game or scrambling above treeline.",
+      "image": "https://www.rei.com/dam/best_rain_pants_xerodry_gtx_hero_lg.jpeg",
+      "url": "https://www.rei.com/learn/expert-advice/best-rain-pants.html"
+    },
+    "https://www.cleverhiker.com/apparel/marmot-precip-eco-rain-pants/": {
+      "title": "Marmot PreCip Eco Rain Pants Review | CleverHiker",
+      "description": "Lightweight, eco-friendly, waterproof, and budget-friendly option for anyone who doesn't let a rain cloud ruin their outdoor adventures.",
+      "image": "https://www.cleverhiker.com/wp-content/uploads/2025/01/IMG_0843-scaled.jpeg",
+      "url": "https://www.cleverhiker.com/apparel/marmot-precip-eco-rain-pants/"
+    },
+    "https://www.outdoorgearlab.com/reviews/clothing-mens/rain-pants/outdoor-research-foray-pants": {
+      "title": "Outdoor Research Foray Pants Review",
+      "description": "Of the pants made with high-end brand-name fabric, these are easily among the lightest and most compact. The Outdoor Research Foray Pant offers the proven...",
+      "image": "https://d1i8d6ce8wwubf.cloudfront.net/photos/28/77/409272_150_XXL.jpg",
+      "url": "https://www.outdoorgearlab.com/reviews/clothing-mens/rain-pants/outdoor-research-foray-pants"
+    }
+  }
+}

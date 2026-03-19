@@ -1,0 +1,109 @@
+{
+  "slug": "diapers",
+  "query": "best diapers",
+  "title": "Best diapers | Bin Diving",
+  "description": "AI-dug recommendations for best diapers. Compare options and find one that fits.",
+  "dugAt": "2026-03-18T22:15:03.746Z",
+  "recommendations": [
+    {
+      "product_name": "Pampers Swaddlers Disposable Baby Diapers",
+      "pros": [
+        "Soft and widely recommended",
+        "Good wetness indicators",
+        "Trusted absorbency"
+      ],
+      "cons": [
+        "Some recent batches reported scent/texture changes by parents",
+        "Can be pricier than value brands"
+      ],
+      "price": null,
+      "amazon_id": "B07SVHLGV8",
+      "sources": [
+        "https://www.babylist.com/hello-baby/best-diapers-newborns",
+        "https://unitprice.org/diapers/B07LFQ9CXC/price-history"
+      ],
+      "amazon_url": "https://www.amazon.com/Pampers-Swaddlers-Absorbent-Comfortable-Disposable/dp/B07SVHLGV8",
+      "gpt_azn": "B07LFQ9CXC",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "Huggies Little Snugglers Baby Diapers",
+      "pros": [
+        "Gentle liner for newborn skin",
+        "Leak-lock system and wetness indicator",
+        "Widely available and affordable"
+      ],
+      "cons": [
+        "Some users report odor or fit issues with specific lots",
+        "May not fit every baby the same"
+      ],
+      "price": null,
+      "amazon_id": "B0CM4H9CSB",
+      "sources": [
+        "https://www.lucieslist.com/",
+        "https://www.thebump.com/a/best-disposable-diapers"
+      ],
+      "amazon_url": "https://www.amazon.com/Huggies-Newborn-Diapers-Little-Snugglers/dp/B0CM4H9CSB",
+      "gpt_azn": "B00HB0WGL8",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "Coterie The Diaper (Coterie)",
+      "pros": [
+        "Premium, hypoallergenic materials; good for sensitive skin",
+        "Strong third‑party testing and parent praise",
+        "Eco-minded materials and certifications noted by reviewers"
+      ],
+      "cons": [
+        "Higher cost than mainstream brands",
+        "Some reported variability and isolated quality complaints"
+      ],
+      "price": null,
+      "amazon_id": "B0C2DCB188",
+      "sources": [
+        "https://www.thebump.com/a/best-disposable-diapers",
+        "https://www.forbes.com/sites/forbes-personal-shopper/article/best-diaper/",
+        "https://mommyhood101.com/coterie-diapers-review"
+      ],
+      "amazon_url": "https://www.amazon.com/Coterie-Plant-Based-Hypoallergenic-Sensitive-Ingredients/dp/B0C2DCB188",
+      "gpt_azn": "B0D9MKBH5T",
+      "image_url": "https://imgs.search.brave.com/ShKSh_7uumHgIeQXXlylm7_Jxjig_iBGz75Xikb22QQ/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9pLmVi/YXlpbWcuY29tL2lt/YWdlcy9nL2xyb0FB/ZVN3STFob2hmU1Uv/cy1sNTAwLmpwZw",
+      "resolver": "brave",
+      "valid": true
+    }
+  ],
+  "resolvedLinks": {
+    "https://www.babylist.com/hello-baby/best-diapers-newborns": {
+      "title": "",
+      "description": "",
+      "image": "",
+      "url": "https://www.babylist.com/hello-baby/best-diapers-newborns"
+    },
+    "https://unitprice.org/diapers/B07LFQ9CXC/price-history": {
+      "title": "Pampers Swaddlers Active Baby Diaper Size 4 120 Count - Amazon Price History | UnitPrice.org",
+      "description": "The historical Amazon prices for Pampers Swaddlers Active Baby Diaper Size 4 120 Count.",
+      "image": "https://m.media-amazon.com/images/I/51J7VVA5ypL._SL160_.jpg",
+      "url": "https://unitprice.org/diapers/B07LFQ9CXC/price-history"
+    },
+    "https://www.lucieslist.com/": {
+      "title": "Lucie's List: A Survival Guide for New Parents",
+      "description": "We bring you the best of the best in baby gear the most current info on pregnancy and maternal health, and (most importantly!) real advice from real parents.",
+      "image": "https://www.lucieslist.com/wp-content/uploads/2019/11/Logo-WithTagline-FullColor-WhiteBG.jpg",
+      "url": "https://www.lucieslist.com/"
+    },
+    "https://www.thebump.com/a/best-disposable-diapers": {
+      "title": "8 Best Diapers, Tested by Moms and Babies",
+      "description": "Choosing the best baby diapers can be overwhelming, so we did the research for you. Check out the top diapers for every age and need, tested by parents and infants.",
+      "image": "https://images.ctfassets.net/6m9bd13t776q/4PfIiuFtosH5PlTjTWb0Ee/c845a0b1b48d06b0609e2aa2c290b1cf/diapers_hero.webp?q=75&w=660",
+      "url": "https://www.thebump.com/a/best-disposable-diapers"
+    },
+    "https://mommyhood101.com/coterie-diapers-review": {
+      "title": "Coterie Diapers Review: Are they Worth the Price?",
+      "description": "We put these premium Coterie Diapers to the test and found next-level softness, superior absorbency, and clean, non-irritating materials. But are they worth the price?",
+      "image": "https://mommyhood101.com/images/coterie-diaper-review-1200-800.webp",
+      "url": "https%3A%2F%2Fmommyhood101.com%2Fcoterie-diapers-review"
+    }
+  }
+}

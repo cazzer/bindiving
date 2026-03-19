@@ -1,0 +1,111 @@
+{
+  "slug": "pocket-knives",
+  "query": "best pocket knives",
+  "title": "Best pocket knives | Bin Diving",
+  "description": "AI-dug recommendations for best pocket knives. Compare options and find one that fits.",
+  "dugAt": "2026-03-18T18:33:46.711Z",
+  "recommendations": [
+    {
+      "product_name": "Benchmade Bugout 535",
+      "pros": [
+        "Ultra-lightweight for EDC",
+        "High-quality S30V/CPM steel options",
+        "Trusted AXIS® lock"
+      ],
+      "cons": [
+        "Premium price",
+        "Some reports of counterfeit listings on third-party sellers"
+      ],
+      "price": null,
+      "amazon_id": "B0BW9W6CCW",
+      "sources": [
+        "https://www.forbes.com/sites/forbes-personal-shopper/article/best-pocket-knives/",
+        "https://www.popularmechanics.com/a70532918/benchmade-bugout-sale-february-2026/",
+        "https://www.outdoorgearlab.com/reviews/camping-and-hiking/pocket-knife/benchmade-535-bugout"
+      ],
+      "amazon_url": "https://www.amazon.com/Benchmade-Lightweight-Drop-Point-CPM-S30V-Stainless/dp/B0BW9W6CCW",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/-ln5CLkug74k-fMb1ErsrYHIgDdZjhffHkpxz1LJ9vs/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9ibGFk/ZXJldmlld3MuY29t/L2ltYWdlcy9iZW5j/aG1hZGUvaW1nLWJl/bmNobWFkZS1idWdv/dXQtMDcuanBn",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "Spyderco Paramilitary 2 (PM2)",
+      "pros": [
+        "Excellent ergonomics and slicing performance",
+        "Robust build and dependable locking",
+        "Widely recommended by EDC community"
+      ],
+      "cons": [
+        "Heavier than ultralight options",
+        "Frequently counterfeited on some marketplaces"
+      ],
+      "price": null,
+      "amazon_id": "B000YFDJMM",
+      "sources": [
+        "https://reviewdetector.ai/product/B0144QJ8YO",
+        "https://archive.ph/2025.12.22-001002/https%3A/www.nytimes.com/wirecutter/reviews/best-pocket-knife/"
+      ],
+      "amazon_url": "https://www.amazon.com/Spyderco-C81GPBK2-ParaMilitary-Plain-Knife/dp/B000YFDJMM",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/9qMFhFwfEpOtb5_pAiZa410bRLAQxy5ToDSN4pdOcss/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9yaXBw/c2dhcmFnZXRlY2gu/Y29tL2Nkbi9zaG9w/L2ZpbGVzL0RTQzAw/MjBfNzE4NTJjN2Yt/YTlmNy00OWMzLThl/YjgtYzA3NmZkODI5/OTExLmpwZz92PTE3/MTI2ODk4MzYmd2lk/dGg9MTQ0NQ",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "Victorinox Classic SD (Swiss Army Knife)",
+      "pros": [
+        "Compact, multi-tool everyday carry",
+        "Very affordable and highly durable",
+        "Iconic, widely available model"
+      ],
+      "cons": [
+        "Not a dedicated folding knife blade (small blade)",
+        "Limited cutting power for heavy tasks"
+      ],
+      "price": null,
+      "amazon_id": "B00004YVB3",
+      "sources": [
+        "https://www.victorinox.com/en-US/Products/Swiss-Army-Knives/Small-Pocket-Knives/Classic-SD-Alox/p/0.6221.201G",
+        "https://www.slashgear.com/1805063/swiss-army-knives-top-rated-amazon/"
+      ],
+      "amazon_url": "https://www.amazon.com/Victorinox-Swiss-Classic-Pocket-Knife/dp/B00004YVB3",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/NBSJrzuEEMgNljc9hYHUM5vsg-5Qc26tiZtPOPcwoAo/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly93d3cu/c3dpc3NrbmlmZXNo/b3AuY29tL2Nkbi9z/aG9wL2ZpbGVzL1NB/Njc1NzUtVG95LUJv/eC1TaGllbGQtU2lk/ZS5qcGc_dj0xNzI3/MzAwNDk4JndpZHRo/PTE0NDU",
+      "resolver": "brave",
+      "valid": true
+    }
+  ],
+  "resolvedLinks": {
+    "https://www.popularmechanics.com/a70532918/benchmade-bugout-sale-february-2026/": {
+      "title": "We Didn’t Expect This—The Benchmade Bugout 535 Is Marked Down Right Now",
+      "description": "Save nearly 20% on this sleek and lightweight EDC knife on Amazon.",
+      "image": "https://hips.hearstapps.com/hmg-prod/images/pop-benchmade-sale-69a1d119c8f00.jpg?crop=1xw:1xh;center,top&resize=1200:*",
+      "url": "https://www.popularmechanics.com/adventure/outdoor-gear/a70532918/benchmade-bugout-sale-february-2026/"
+    },
+    "https://www.outdoorgearlab.com/reviews/camping-and-hiking/pocket-knife/benchmade-535-bugout": {
+      "title": "Benchmade 535 Bugout Review",
+      "description": "Benchmade brands the Bugout as \"[...] designed for the modern outdoor adventurer.\" We don't normally cite catalog copy, but we couldn't agree more with...",
+      "image": "https://d1i8d6ce8wwubf.cloudfront.net/photos/28/93/410861_3881_XXL.jpg",
+      "url": "https://www.outdoorgearlab.com/reviews/camping-and-hiking/pocket-knife/benchmade-535-bugout"
+    },
+    "https://reviewdetector.ai/product/B0144QJ8YO": {
+      "title": "Spyderco Para Military 2 Foldi... Trust Score: A (85%) | Review Detector",
+      "description": "Analyze 471 reviews, average rating 4.4. View Trust Score and fake review reports, spot fake Amazon reviews, get smart product picks and Reddit feedback.",
+      "image": "",
+      "url": "https://reviewdetector.ai/en/product/B0144QJ8YO"
+    },
+    "https://www.victorinox.com/en-US/Products/Swiss-Army-Knives/Small-Pocket-Knives/Classic-SD-Alox/p/0.6221.201G": {
+      "title": "Check this out: Classic SD Alox",
+      "description": "Victorinox Classic SD Alox - 0.6221.201G ++ Explore the world of perfect Swiss quality online ++ Home of the Original Swiss Army knife ++ Find a store close to you ++",
+      "image": "https://imageengine.victorinox.com/transform/0867f74f-a0ec-4f70-b72f-1392c3ba8dc0/SAK_0-6221-201_S1",
+      "url": "https://www.victorinox.com/en-US/Products/Swiss-Army-Knife%E2%84%A2-and-Tools/Essentials/Classic-SD-Alox/p/0.6221.201G?slug=en-US&slug=Products&slug=Swiss-Army-Knife%E2%84%A2-and-Tools&slug=Essentials&slug=Classic-SD-Alox&slug=p&slug=0.6221.201G/"
+    },
+    "https://www.slashgear.com/1805063/swiss-army-knives-top-rated-amazon/": {
+      "title": "6 Of The Top-Rated Swiss Army Knives You Can Buy On Amazon - SlashGear",
+      "description": "Swiss Army knives are versatile tools that can come in handy when you least expect it. Here are six of the highest-rated you can buy on Amazon.",
+      "image": "https://www.slashgear.com/img/gallery/6-of-the-top-rated-swiss-army-knives-you-can-buy-on-amazon/l-intro-1741271896.jpg",
+      "url": "https://www.slashgear.com/1805063/swiss-army-knives-top-rated-amazon/"
+    }
+  }
+}

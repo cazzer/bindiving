@@ -1,0 +1,125 @@
+{
+  "slug": "office-headsets",
+  "query": "best office headsets",
+  "title": "Best office headsets | Bin Diving",
+  "description": "AI-dug recommendations for best office headsets. Compare options and find one that fits.",
+  "dugAt": "2026-03-18T16:30:14.814Z",
+  "recommendations": [
+    {
+      "product_name": "Jabra Evolve2 65 Wireless Headset",
+      "pros": [
+        "Comfortable for long wear",
+        "Strong microphone clarity",
+        "Good battery life"
+      ],
+      "cons": [
+        "No full active ANC on some models",
+        "Some users report occasional mic/connectivity issues"
+      ],
+      "price": null,
+      "amazon_id": "B08K89FWNS",
+      "sources": [
+        "https://www.rtings.com/headphones/reviews/jabra/evolve2-65-wireless",
+        "https://www.jabra.com/business/%20office-headsets/jabra-evolve/jabra-evolve2-65",
+        "https://www.seriousinsights.net/jabra-evolve2-65-review/"
+      ],
+      "amazon_url": "https://www.amazon.com/Evolve2-Wireless-Certified-Bluetooth-Compatible/dp/B08K89FWNS",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/K9NVT2ZVQMjpfKC2VQ5fFi87y4kyLQbChd45uH7n1Qs/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly93d3cu/amFicmEuY29tLy0v/bWVkaWEvR2xvYmFs/L0Vjb20tUGFnZXMv/Q2Fyb3VzZWwvRXZv/bHZlMi02NS1GbGV4/L2phYnJhLWV2b2x2/ZTItNjUtZmxleC1j/aGFyZ2luZy1zdGF0/aW9uLWhlYWRzZXQu/anBnP2g9MTI4MCZp/YXI9MCZ3PTcyMCZo/YXNoPTFDMEQ0RjdE/ODFFNjI0RjM4ODc5/NUVBRDA5MDNGNEMx",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "Poly (Plantronics) Voyager Focus 2",
+      "pros": [
+        "Excellent conversation-focused noise reduction",
+        "Comfortable on-ear design with charging stand",
+        "Works with major UC platforms (Teams/Zoom)"
+      ],
+      "cons": [
+        "Some users report occasional audio mode limitations",
+        "Higher price point for full-featured bundles"
+      ],
+      "price": null,
+      "amazon_id": "B092TGXDSW",
+      "sources": [
+        "https://www.techrater.co.uk/computing/poly-voyager-focus-2-review/",
+        "https://www.hp.com/us-en/poly/headsets/bluetooth-headsets-and-earbuds/voyager-focus-2.html",
+        "https://www.bestbuy.com/site/poly-voyager-focus-2-wireless-hybrid-active-noise-cancelling-anc-on-ear-headset-with-charge-stand-usb-c-usb-a-black/6635533.p"
+      ],
+      "amazon_url": "https://www.amazon.com/Poly-USB-Plantronics-Bluetooth-Compatible/dp/B092TGXDSW",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/e5FVWv7hDUPKMOEhyFN_g9cZcFIPxJAasXK7RGX98v4/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly93ZWJv/YmplY3RzMi5jZHcu/Y29tL2lzL2ltYWdl/L0NEVy83NTk3MTEy/PyRwcm9kdWN0LWRl/dGFpbCQ",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "Logitech Zone Wireless 2",
+      "pros": [
+        "Designed for office use with Teams/UC certifications",
+        "Adaptive ANC and solid wireless features",
+        "Lightweight, comfortable fit for all-day use"
+      ],
+      "cons": [
+        "Some users report firmware/connection quirks",
+        "Premium features raise cost"
+      ],
+      "price": null,
+      "amazon_id": "B0CSQL6Y21",
+      "sources": [
+        "https://www.logitech.com/blog/2025/01/27/zone-wireless-2-becomes-first-headset-to-earn-microsoft-teams-certification-over-native-bluetooth-without-a-dongle/",
+        "https://www.logitech.com/en-us/products/headsets/zone-wireless-2-business-headset.html",
+        "https://www.techradar.com/audio/headphones/logitech-zone-wireless-2-review"
+      ],
+      "amazon_url": "https://www.amazon.com/Logitech-Wireless-Canceling-Bluetooth-Certified/dp/B0CSQL6Y21",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/pIiXvr8Hs0bSUY5mSxSQE7M-F0-JN-ijOzuz3q4QnVM/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9oZWFk/c2V0YWR2aXNvci5j/b20vY2RuL3Nob3Av/ZmlsZXMvbG9naXRl/Y2hfem9uZV8yX3dp/cmVsZXNzLmpwZz92/PTE3MjU0NjkyMzYm/d2lkdGg9NjAw",
+      "resolver": "brave",
+      "valid": true
+    }
+  ],
+  "resolvedLinks": {
+    "https://www.rtings.com/headphones/reviews/jabra/evolve2-65-wireless": {
+      "title": "Jabra Evolve2 65 Wireless Review",
+      "description": "The Jabra Evolve2 65 are okay professional headphones. On the plus side, they're well-built, comfortable, and offer amazing battery life. Their sound profile is ...",
+      "image": "https://i.rtings.com/assets/products/A9AOlZpA/jabra-evolve2-65-wireless/design-medium.jpg?format=auto",
+      "url": "https://www.rtings.com/headphones/reviews/jabra/evolve2-65-wireless"
+    },
+    "https://www.seriousinsights.net/jabra-evolve2-65-review/": {
+      "title": "Jabra Evolve2 65 Review: Welcome to the Business End of the Jabra Line with Superb Battery, Comfort & Voice Clarity - Serious Insights",
+      "description": "The Jabra Evolve2 65 represent the high-end of multi-purpose office headsets. A fine microphone, good speakers, & all-day memory foam.",
+      "image": "https://i0.wp.com/www.seriousinsights.net/wp-content/uploads/Battery-D.jpg",
+      "url": "https://www.seriousinsights.net/jabra-evolve2-65-review/"
+    },
+    "https://www.techrater.co.uk/computing/poly-voyager-focus-2-review/": {
+      "title": "Poly Voyager Focus 2 Review: Work In Silence Anywhere | TechRater UK",
+      "description": "Read our expert Poly Voyager Focus 2 review. We test the Hybrid ANC, in a busy airport, battery life, bluetooth range, pros, cons and more.",
+      "image": "https://www.techrater.co.uk/wp-content/uploads/poly-voyager-focus-2-uc-headset.png",
+      "url": "https://www.techrater.co.uk/computing/poly-voyager-focus-2-review/"
+    },
+    "https://www.hp.com/us-en/poly/headsets/bluetooth-headsets-and-earbuds/voyager-focus-2.html": {
+      "title": "HP Poly Voyager Focus 2 - Stereo Bluetooth Headset",
+      "description": "Meet the HP Poly Voyager Focus 2, our best noise reducing bluetooth headset yet. Crazy good stereo sound for calls, media and music, with an ultra-comfortable headband for all day use.",
+      "image": "https://www.hp.com/content/dam/sites/worldwide/poly/headsets/voyager-focus-2/new/voyager-focus-og-image.jpg",
+      "url": "https://www.hp.com/us-en/poly/headsets/bluetooth-headsets-and-earbuds/voyager-focus-2.html"
+    },
+    "https://www.logitech.com/blog/2025/01/27/zone-wireless-2-becomes-first-headset-to-earn-microsoft-teams-certification-over-native-bluetooth-without-a-dongle/": {
+      "title": "Zone Wireless 2 Becomes First Headset to Earn Microsoft Teams’ Certification over Native Bluetooth® without a Dongle",
+      "description": "Zone Wireless 2 has been lauded by customers and the media for its standout qualities that make it a compelling choice for advanced users and executives who value AI noise suppression*, noise-canceling mics, and hybrid ANC to deliver outstanding audio in a modern design. Adding to its impressive list of business certifications that include Certified [...]",
+      "image": "https://www.logitech.com/blog/wp-content/uploads/2025/01/Blog-featured-ZW2-1122x628.png",
+      "url": "https://www.logitech.com/blog/2025/01/27/zone-wireless-2-becomes-first-headset-to-earn-microsoft-teams-certification-over-native-bluetooth-without-a-dongle/"
+    },
+    "https://www.logitech.com/en-us/products/headsets/zone-wireless-2-business-headset.html": {
+      "title": "Zone Wireless 2 Business Headset Overview",
+      "description": "Premium business headset with AI noise suppression. Compatible with most video conferencing platforms like Microsoft Teams, Open office, Zoom, and Google",
+      "image": "https://resource.logitech.com/w_1200,h_630,c_limit,q_auto,f_auto,dpr_1.0/d_transparent.gif/content/dam/logitech/en/products/headsets/zone-wireless-2/zone-wireless-2-og-image.png?v=1",
+      "url": "https://www.logitech.com/en-us/products/headsets/zone-wireless-2-business-headset.html"
+    },
+    "https://www.techradar.com/audio/headphones/logitech-zone-wireless-2-review": {
+      "title": "Logitech Zone Wireless 2 review: AI and performance married to a somewhat perfect union",
+      "description": "The Logitech Zone Wireless 2's audio quality is great with AI tech that nearly matches it",
+      "image": "https://cdn.mos.cms.futurecdn.net/uPUft9HfPcTYB3kh8z68Pd-2560-80.jpg",
+      "url": "https://www.techradar.com/audio/headphones/logitech-zone-wireless-2-review"
+    }
+  }
+}

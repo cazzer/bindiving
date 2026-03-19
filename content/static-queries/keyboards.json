@@ -1,0 +1,107 @@
+{
+  "slug": "keyboards",
+  "query": "best keyboards",
+  "title": "Best keyboards | Bin Diving",
+  "description": "AI-dug recommendations for best keyboards. Compare options and find one that fits.",
+  "dugAt": "2026-03-18T19:36:38.582Z",
+  "recommendations": [
+    {
+      "product_name": "Keychron V6 Max",
+      "pros": [
+        "Full-size with hot-swappable switches",
+        "Strong build and long battery life (wireless options)"
+      ],
+      "cons": [
+        "Some users report quality-control issues",
+        "Larger footprint may not suit small desks"
+      ],
+      "price": null,
+      "amazon_id": "B0D14PSN3T",
+      "sources": [
+        "https://www.techradar.com/news/computing/the-2026-techradar-australian-pc-awards-all-the-winners-revealed",
+        "https://www.keychron.com/products/keychron-v6-max-qmk-via-wireless-custom-mechanical-keyboard"
+      ],
+      "amazon_url": "https://www.amazon.com/Keychron-Mechanical-Bluetooth-Hot-swappable-Compatible/dp/B0D14PSN3T",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/qREudkbUvbBUpN6QqMbE7t6u7l_Q93FZwLaL9HXS9Qo/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9pLmVi/YXlpbWcuY29tL2lt/YWdlcy9nL1MxTUFB/ZVN3VzJWcFMtSlUv/cy1sNTAwLmpwZw",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "Logitech MX Keys (MX Keys / MX Keys S)",
+      "pros": [
+        "Excellent typing comfort for productivity",
+        "Reliable multi-device wireless connectivity"
+      ],
+      "cons": [
+        "Not mechanical (may lack tactile feedback for some)",
+        "Occasional stock/availability issues reported"
+      ],
+      "price": null,
+      "amazon_id": "B0BKW3LB2B",
+      "sources": [
+        "https://www.rtings.com/keyboard/reviews/logitech/mx-keys",
+        "https://www.techgearlab.com/reviews/small-and-home-office/wireless-keyboard/logitech-mx-keys-s"
+      ],
+      "amazon_url": "https://www.amazon.com/Logitech-Programmable-Backlighting-Bluetooth-Rechargeable/dp/B0BKW3LB2B",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/EuWvhfpCR2aN3jGB6jG0NM_xgiSfXNB_oPBTH-i9EMk/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9kamQx/eHFqeDJrZG52LmNs/b3VkZnJvbnQubmV0/L3Bob3Rvcy8zNS8y/Ni80NzQxMjBfMTA0/MDdfTDIuanBn",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "SteelSeries Apex Pro TKL Gen 3",
+      "pros": [
+        "Adjustable OmniPoint actuation and analog features",
+        "Feature-rich for gaming (OLED, per-key customization)"
+      ],
+      "cons": [
+        "Premium price",
+        "Some users report inconsistent experiences buying through third-party sellers on marketplaces"
+      ],
+      "price": null,
+      "amazon_id": "B0DGZLHN8G",
+      "sources": [
+        "https://www.laptopmag.com/gaming/gaming-keyboards-mice/steelseries-apex-pro-gen-3-tkl-review",
+        "https://www.techradar.com/seasonal-sales/the-analog-switches-are-a-dream-why-nows-the-time-to-pick-up-one-of-the-best-gaming-keyboards-ive-ever-used"
+      ],
+      "amazon_url": "https://www.amazon.com/SteelSeries-Apex-Pro-TKL-Gen/dp/B0DGZLHN8G",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/M82266wjTItkmFjdmTOkA9wE3VBy0GAx5h-dD6U6QrA/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9tZWRp/YS5jdXJyeXMuYml6/L2kvY3VycnlzcHJv/ZC8xMDI3MDgwMl8w/MDg_JGwtbGFyZ2Uk/JmZtdD1hdXRv",
+      "resolver": "brave",
+      "valid": true
+    }
+  ],
+  "resolvedLinks": {
+    "https://www.keychron.com/products/keychron-v6-max-qmk-via-wireless-custom-mechanical-keyboard": {
+      "title": "Keychron V6 Max QMK/VIA Wireless Custom Mechanical Keyboard",
+      "description": "Keychron V6 Max is a fully customizable mechanical keyboard boasting 2.4 GHz wireless and Bluetooth 5.1 connectivity. Effortlessly Customize any key or create macro commands through VIA software. Compatible with Mac, Windows, and Linux.",
+      "image": "http://www.keychron.com/cdn/shop/files/V6-Max-Iconic-Features.jpg?crop=center&height=1200&v=1763084414&width=1200",
+      "url": "https://www.keychron.com/products/keychron-v6-max-qmk-via-wireless-custom-mechanical-keyboard"
+    },
+    "https://www.rtings.com/keyboard/reviews/logitech/mx-keys": {
+      "title": "Logitech MX Keys Review",
+      "description": "The Logitech MX Keys is a good productivity keyboard. Its wireless connectivity allows you to pair up to three devices over Bluetooth or its USB dongle, and you ...",
+      "image": "https://i.rtings.com/assets/products/O5lpmgG7/logitech-mx-keys/design-medium.jpg?format=auto",
+      "url": "https://www.rtings.com/keyboard/reviews/logitech/mx-keys"
+    },
+    "https://www.techgearlab.com/reviews/small-and-home-office/wireless-keyboard/logitech-mx-keys-s": {
+      "title": "Logitech MX Keys S Review",
+      "description": "The Logitech MX Keys S is a product built for the marathon and not the sprint. It earned our Editor's Choice as the Best Wireless Keyboard out of over a...",
+      "image": "https://djd1xqjx2kdnv.cloudfront.net/photos/37/38/495292_21875_XXL.jpg",
+      "url": "https://www.techgearlab.com/reviews/small-and-home-office/wireless-keyboard/logitech-mx-keys-s"
+    },
+    "https://www.laptopmag.com/gaming/gaming-keyboards-mice/steelseries-apex-pro-gen-3-tkl-review": {
+      "title": "SteelSeries Apex Pro Gen 3 TKL review: A near-perfect, feature-packed gaming beast",
+      "description": "SteelSeries took software and customization to a new level with this gaming keyboard",
+      "image": "https://cdn.mos.cms.futurecdn.net/dzjQ3sn84tbFfnFNJoP5Ed-2364-80.jpg",
+      "url": "https://www.laptopmag.com/gaming/gaming-keyboards-mice/steelseries-apex-pro-gen-3-tkl-review"
+    },
+    "https://www.techradar.com/seasonal-sales/the-analog-switches-are-a-dream-why-nows-the-time-to-pick-up-one-of-the-best-gaming-keyboards-ive-ever-used": {
+      "title": "'The analog switches are a dream' — why now's the time to pick up one of the best gaming keyboards I've ever used",
+      "description": "One aspect of your setup you should upgrade right now",
+      "image": "https://cdn.mos.cms.futurecdn.net/7g5Xb7moe7vu7DBUgridiZ-1920-80.jpg",
+      "url": "https://www.techradar.com/seasonal-sales/the-analog-switches-are-a-dream-why-nows-the-time-to-pick-up-one-of-the-best-gaming-keyboards-ive-ever-used"
+    }
+  }
+}

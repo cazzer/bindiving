@@ -1,0 +1,98 @@
+{
+  "slug": "board-games-for-kids-families",
+  "query": "best board games for kids & families",
+  "title": "Best board games for kids & families | Bin Diving",
+  "description": "AI-dug recommendations for best board games for kids & families. Compare options and find one that fits.",
+  "dugAt": "2026-03-18T23:10:13.270Z",
+  "recommendations": [
+    {
+      "product_name": "Ticket to Ride (Days of Wonder)",
+      "pros": [
+        "Easy-to-learn family rules",
+        "Good for wide age range (8+)",
+        "Short replayable sessions"
+      ],
+      "cons": [
+        "Can be lightly strategic for very young kids",
+        "Some editions vary in component quality"
+      ],
+      "price": null,
+      "amazon_id": "0975277324",
+      "sources": [
+        "https://www.theguardian.com/thefilter-us/2025/dec/22/best-family-board-games",
+        "https://www.gamesradar.com/best-board-games/"
+      ],
+      "amazon_url": "https://www.amazon.com/Days-Wonder-DO7201-Ticket-Ride/dp/0975277324",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/RcQ9yx4cH9MuRjHwOjyRIqazMHSJZIxCKEjxtjLICnw/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9pLmVi/YXlpbWcuY29tL2lt/YWdlcy9nL341QUFB/ZVN3QWNKcGwzbTAv/cy1sNTAwLnBuZw",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "Catan (Settlers of Catan)",
+      "pros": [
+        "Engaging resource-trading for older kids",
+        "Highly replayable with expansions",
+        "Great for teaching negotiation/strategy"
+      ],
+      "cons": [
+        "Best for slightly older children (10+)",
+        "Longer playtime for younger attention spans"
+      ],
+      "price": null,
+      "amazon_id": "B000W7JWUA",
+      "sources": [
+        "https://boardgamechoices.com/articles/best-board-games-play-your-family-2025",
+        "https://www.gamesradar.com/best-board-games/"
+      ],
+      "amazon_url": "https://www.amazon.com/Mayfair-Games-MFG3061-Settlers-Catan/dp/B000W7JWUA",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/2CU9LwNBI1I2e7d2YjQcL4vR8TiACsgOQrTcN_-e16E/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9tZWRp/YS1jZG4udHJpcGFk/dmlzb3IuY29tL21l/ZGlhL3Bob3RvLW8v/MDcvZTIvMGMvMTcv/Y2FydGEtbWFnaWNh/LXNwbGl0LmpwZw",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "Carcassonne (Z-Man/Asmodee)",
+      "pros": [
+        "Simple tile-laying rules kids pick up quickly",
+        "Scales well 2–5 players",
+        "Short playtime and high replayability"
+      ],
+      "cons": [
+        "Luck in tile draws can frustrate some players",
+        "Add-ons/editions can be confusing"
+      ],
+      "price": null,
+      "amazon_id": "B00NX627HW",
+      "sources": [
+        "https://www.gamesradar.com/best-board-games/",
+        "https://www.smoothiewars.com/blog/best-family-board-games-complete-guide-2026"
+      ],
+      "amazon_url": "https://www.amazon.com/Asmodee-Carcassonne-Board-Game-Tile-Laying/dp/B00NX627HW",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/CLillKmshvi1c4h1h6gd-2OrPie97NaR7cG_RnOeMR0/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9pNS53/YWxtYXJ0aW1hZ2Vz/LmNvbS9hc3IvN2Y1/NWI0NmQtN2Y3Yy00/NzkzLWEwMTktMWZl/ZWEzN2VlY2JiLmY5/M2Y2ZGEzNTI4NDJk/YzQwOTBkNDQyOGJm/ZGUwMzFiLmpwZWc_/b2RuSGVpZ2h0PTM3/MiZvZG5XaWR0aD0z/NzImb2RuQmc9RkZG/RkZG",
+      "resolver": "brave",
+      "valid": true
+    }
+  ],
+  "resolvedLinks": {
+    "https://www.theguardian.com/thefilter-us/2025/dec/22/best-family-board-games": {
+      "title": "The 21 best family board games in the US, according to experts",
+      "description": "Peel your family away from their screens this holiday season with games for every type of person – vetted by our panel of specialists",
+      "image": "https://i.guim.co.uk/img/media/f44a22cdcb4242a7700045877c88a7e33c65fa17/0_0_1799_1440/master/1799.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvZmlsdGVyLXVzLnBuZw&enable=upscale&s=6e0e89299384c6f4fb18a35e82c6c75c",
+      "url": "https://www.theguardian.com/thefilter-us/2025/dec/22/best-family-board-games"
+    },
+    "https://www.gamesradar.com/best-board-games/": {
+      "title": "The best board games in 2026, with over 25 recommendations tested and reviewed by experts",
+      "description": "These essential board games deserve a spot in your collection",
+      "image": "https://cdn.mos.cms.futurecdn.net/VP8NRAA3AjEiNBdjBvTUvW-1920-80.jpg",
+      "url": "https://www.gamesradar.com/best-board-games/"
+    },
+    "https://www.smoothiewars.com/blog/best-family-board-games-complete-guide-2026": {
+      "title": "Best Family Board Games 2026: 15 Games Tested by 150 Families (Real Results)",
+      "description": "Discover the best family board games of 2026 tested by 150 real families. From strategy to party games, find the perfect game for ages 5-75. Expert reviews &amp; buying guide included.",
+      "image": "https://www.smoothiewars.com/assets/blog/family-playing-board-games.jpg",
+      "url": "https://www.smoothiewars.com/blog/best-family-board-games-complete-guide-2026"
+    }
+  }
+}

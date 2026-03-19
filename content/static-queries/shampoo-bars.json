@@ -1,0 +1,103 @@
+{
+  "slug": "shampoo-bars",
+  "query": "best shampoo bars",
+  "title": "Best shampoo bars | Bin Diving",
+  "description": "AI-dug recommendations for best shampoo bars. Compare options and find one that fits.",
+  "dugAt": "2026-03-18T18:19:49.231Z",
+  "recommendations": [
+    {
+      "product_name": "LUSH Honey I Washed My Hair Shampoo Bar",
+      "pros": [
+        "Strong lather and cleansing",
+        "Pleasant honey/citrus scent",
+        "Packaging-free/long-lasting"
+      ],
+      "cons": [
+        "Contains sulfates (can be stripping)",
+        "May feel drying for some hair types"
+      ],
+      "price": "$8.99",
+      "amazon_id": "B0DBGYKP1Z",
+      "sources": [
+        "https://www.glamour.com/story/best-shampoo-bars",
+        "https://www.lush.com/us/en_us/p/honey-i-washed-my-hair-shampoo-bar-2021"
+      ],
+      "image_url": "https://m.media-amazon.com/images/I/71zQ13B-2yL._AC_UL960_QL65_.jpg",
+      "images": [
+        "https://m.media-amazon.com/images/I/71zQ13B-2yL._AC_UL960_QL65_.jpg"
+      ],
+      "amazon_url": "https://www.amazon.com/Rosemary-Cleansing-Refreshing-Hydrating-Valentines/dp/B0DBGYKP1Z/ref=sr_1_1?dib=eyJ2IjoiMSJ9.CkslnAtR1YmMy9fcMRuJp2dv15zKBMy1PDQskjjCgEJVRXiypsCv94aYrNqv4p5xt35uRlcCzcndQSpp7Muzu2XSblFWckk30ClOnsRxyK1ajwZmK-v4puKBoi93oSIQNAW7j95HQ17s-me-gt-hOlUf0cTHx-VC8x5U-Ltjb9cuwh8BisLzTTi_QJpTYQYInxE432HHyd1sxtpGtSTHfMHNSy-p6k3Y0HiGgn2gzgYJ-1U3gk8CBmRrChOlamPtYybGFWve7Y13q6JRKd8ZfOywWjwuXMoRa1t0Uvw22wo.FFpFvejDRboltGQbT7PrgVH2QHKoZcA2CBUErpx7kO8&dib_tag=se&keywords=LUSH+Honey+I+Washed+My+Hair+Shampoo+Bar&nsdOptOutParam=true&qid=1773857981&sr=8-1",
+      "brand": "2 Pack Rosemary Hair Shampoo Bar,Deep Cleansing for Scalp Hair Loss Shampoo Soap,Organic Hair Oil Control,Solid Shampoo for Hair Growth, Refreshing and Hydrating Soap for Stocking Stuffers Women Gifts",
+      "blackFriday": false,
+      "gpt_azn": null,
+      "resolver": "cheerio",
+      "valid": true
+    },
+    {
+      "product_name": "Ethique CLARIFYING Shampoo Bar",
+      "pros": [
+        "Highly rated by users (4.7/5)",
+        "Good for oily hair and buildup",
+        "Plastic-free, color-safe formula"
+      ],
+      "cons": [
+        "Use only 1–2x/week to avoid over-drying",
+        "Some users say it wears faster with heavy use"
+      ],
+      "price": "$14.00",
+      "amazon_id": "B0DHFRC7N3",
+      "sources": [
+        "https://ethique.com/products/clarifying-shampoo-bar",
+        "https://www.glamour.com/story/best-shampoo-bars"
+      ],
+      "amazon_url": "https://www.amazon.com/Ethique-Clarifying-Shampoo-oily-Castor/dp/B0DHFRC7N3",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/4TdcASJjCKGOupXJfsQpdBmlphhGpMbLsPFXX2SeJyM/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9nbGFt/b3VybGluZS5ibG9n/L3dwLWNvbnRlbnQv/cGx1Z2lucy9hYXdw/L3B1YmxpYy9pbWFn/ZS5waHA_dXJsPVlV/aFNNR05JVFRaTWVU/bDBURzB4YkZwSGJH/aE1WMFowV1Zod2Rt/SnBOV3BpTWpCMllW/Y3hhRm95Vm5wTU1H/dDJUa1JHU0U1SVJr/dE9ibFpNVkZWM2RX/RnVRbTU4TVRjM01U/azJOREU0TUE9",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "HiBAR Moisturize Shampoo Bar",
+      "pros": [
+        "Salon-quality, soap-free formula",
+        "Free of sulfates/parabens/silicones",
+        "Well-reviewed for hydration"
+      ],
+      "cons": [
+        "Unique shape may not fit all soap dishes",
+        "Can take longer to lather in very thick hair"
+      ],
+      "price": "$14.95 (REI)",
+      "amazon_id": "B07VQBRLMH",
+      "sources": [
+        "https://hellohibar.com/products/moisturize-shampoo-bar",
+        "https://www.rei.com/product/181338/hibar-moisturize-shampoo-bar"
+      ],
+      "amazon_url": "https://www.amazon.com/HIBAR-Friendly-Ingredients-Sustainable-Moisturize/dp/B07VQBRLMH",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/hAAq2eAh-vbDMMuBk_kMvThW9Bfc5cmBum_8XbDMQZQ/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9tLm1l/ZGlhLWFtYXpvbi5j/b20vaW1hZ2VzL0kv/NDEzbmFEVVJOQ0wu/anBn",
+      "resolver": "brave",
+      "valid": true
+    }
+  ],
+  "resolvedLinks": {
+    "https://www.glamour.com/story/best-shampoo-bars": {
+      "title": "This  Shampoo Bar Eliminated Waste in My Shower—and Gave Me Healthy, Shiny Hair",
+      "description": "These will take your hair care routine to the next level.",
+      "image": "https://media.glamour.com/photos/6978e1163b9745d705e1f644/16:9/w_1280,c_limit/01.26_GL_Best%20Shampoo%20Bars_v3.png",
+      "url": "https://www.glamour.com/story/best-shampoo-bars"
+    },
+    "https://ethique.com/products/clarifying-shampoo-bar": {
+      "title": "CLARIFYING Shampoo Bar",
+      "description": "Remove oils and buildup with our clarifying shampoo bar for oily hair. Powered by castor seed oil and ginseng, with 10x concentrated ingredients for a deep cleanse.",
+      "image": "http://ethique.com/cdn/shop/files/PDP_CLARIFYING-Shampoo_ETHIQUE_2000x2000_zoom_-_Compressed.jpg?v=1761927491",
+      "url": "https://ethique.com/products/clarifying-shampoo-bar"
+    },
+    "https://hellohibar.com/products/moisturize-shampoo-bar": {
+      "title": "Moisturizing Shampoo Bar | Dry Hair Hydrating Shampoo",
+      "description": "Hydrate dry, frizzy hair with HiBAR’s Moisturizing Shampoo Bar. Infused with natural ingredients for soft, manageable, and healthy-looking hair.",
+      "image": "http://hellohibar.com/cdn/shop/products/HiBAR_Moisturize-Shampoo_5215d0d1-7e68-4cd3-9380-ef6b15957b90.jpg?v=1762458576",
+      "url": "https://hellohibar.com/products/moisturize-shampoo-bar"
+    }
+  }
+}

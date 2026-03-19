@@ -1,0 +1,125 @@
+{
+  "slug": "womens-underwear",
+  "query": "best women’s underwear",
+  "title": "Best women’s underwear | Bin Diving",
+  "description": "AI-dug recommendations for best women’s underwear. Compare options and find one that fits.",
+  "dugAt": "2026-03-18T22:50:40.470Z",
+  "recommendations": [
+    {
+      "product_name": "Amazon Essentials Women's Cotton Bikini Brief (6-pack)",
+      "pros": [
+        "Affordable multipack",
+        "Soft cotton blend",
+        "Tag-free comfort"
+      ],
+      "cons": [
+        "Basic style",
+        "May show panty lines under tight clothes"
+      ],
+      "price": "$13.00",
+      "amazon_id": "B0DSLBQCNB",
+      "sources": [
+        "https://www.glamour.com/gallery/best-underwear-for-women-tested",
+        "https://us.amazon.com/Essentials-Underwear-Available-Multicolor-Heather/dp/B0F8P41C3Z",
+        "https://www.refinery29.com/en-us/shop/product/womens-6-pack-cotton-bikini-underwear-9038567"
+      ],
+      "amazon_url": "https://www.amazon.com/Amazon-Essentials-Underwear-Available-Multipacks/dp/B0DSLBQCNB",
+      "gpt_azn": "B0DSLBQCNB",
+      "image_url": "https://imgs.search.brave.com/wzUqnY5KgfCdOnc8fUp4T7mCXzpjC2l-MBzDlX69G7M/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9tLm1l/ZGlhLWFtYXpvbi5j/b20vaW1hZ2VzL0kv/MzFuQXpkYkVBa0wu/anBn",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "Calvin Klein Women's Modern Cotton Bikini Panty",
+      "pros": [
+        "Breathable cotton blend",
+        "Iconic logo waistband",
+        "Reliable everyday fit"
+      ],
+      "cons": [
+        "Higher price than basics",
+        "Logo waistband may show under some clothes"
+      ],
+      "price": "$28.00",
+      "amazon_id": "B0CKK8MKB9",
+      "sources": [
+        "https://www.refinery29.com/en-us/shop/product/modern-cotton-bikini-panty-10083623",
+        "https://www.asos.com/us/calvin-klein/calvin-klein-modern-cotton-bikini-style-briefs-in-black/prd/206834804",
+        "https://www.glamour.com/gallery/best-underwear-for-women-tested"
+      ],
+      "amazon_url": "https://www.amazon.com/Calvin-Klein-Womens-Modern-Stretch/dp/B0CKK8MKB9",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/sOyM6HA6bNOZABhKFNAWASgl1eb2UovG46jUEYvzl2A/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9pLmVi/YXlpbWcuY29tL2lt/YWdlcy9nL1VKY0FB/T1N3SEVkb0p2ZlMv/cy1sNDAwLndlYnA",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "Hanky Panky Signature Lace Original Rise Thong (3-pack)",
+      "pros": [
+        "Stretch lace, very comfortable",
+        "Low to mid rise fits many body types",
+        "Durable, long-lasting construction"
+      ],
+      "cons": [
+        "Higher price per pair",
+        "Lace may be delicate for some washes"
+      ],
+      "price": "$24.00",
+      "amazon_id": "B01GQ2DX4A",
+      "sources": [
+        "https://www.whowhatwear.com/best-underwear-and-bra-brands",
+        "https://www.vogue.com/slideshow/best-underwear-for-women",
+        "https://shopbop.cdn.amazon.com/signature-lace-original-rise-pack/vp/v%3D1/1567720521.htm"
+      ],
+      "amazon_url": "https://www.amazon.com/Hanky-Panky-Womens-Signature-Original/dp/B01GQ2DX4A",
+      "gpt_azn": "B0187Q0Q3E",
+      "image_url": "https://imgs.search.brave.com/tb8_CJKLX4mbql4KKQKpr-Yb6gkWRgttYXyXgJw6RS8/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9tLm1l/ZGlhLWFtYXpvbi5j/b20vaW1hZ2VzL0kv/NzFGN09Pc0pySkwu/anBn",
+      "resolver": "brave",
+      "valid": true
+    }
+  ],
+  "resolvedLinks": {
+    "https://www.glamour.com/gallery/best-underwear-for-women-tested": {
+      "title": "I Tried the Most Popular Underwear Brands—These Were My Favorites",
+      "description": "They’re so comfortable that I forget I’m wearing them at all.",
+      "image": "https://media.glamour.com/photos/68a3959132696fad1b81ac4e/16:9/w_1280,c_limit/7.30_GL_TK-Best-Underwear-for-Women.2%20(1).jpg",
+      "url": "https://www.glamour.com/gallery/best-underwear-for-women-tested"
+    },
+    "https://us.amazon.com/Essentials-Underwear-Available-Multicolor-Heather/dp/B0F8P41C3Z": {
+      "title": "Amazon Essentials Women's Cotton Bikini Brief Underwear (Available in Plus Size), Pack of 6, Multicolor/Heather/Stripe, Medium at Amazon Women’s Clothing store",
+      "description": "",
+      "image": "",
+      "url": "https://us.amazon.com/Essentials-Underwear-Available-Multicolor-Heather/dp/B0F8P41C3Z"
+    },
+    "https://www.refinery29.com/en-us/shop/product/womens-6-pack-cotton-bikini-underwear-9038567": {
+      "title": "Amazon Essentials + Women’s 6-Pack Cotton Bikini Underwear",
+      "description": "Women’s 6-Pack Cotton Bikini Underwear + 95% Cotton, 5% Spandex\nImported\nNo Closure closure\nMachine Wash\n0.7\" high\n14\" wide\nClassic bikini panties in cotton with a hint of stretch for a secure fit\n\nAn Amazon brand - This six-pack of classic bikini underwear offers medium coverage and tag-free comfort with a hint of stretch for a secure fit.\nAmazon Essentials is focused on creating affordable, high-quality, and long-lasting everyday clothing you can rely on. Our line of women’s intimate apparel includes sleepwear, underwear multi-packs, and more, including plus-size options. Our consistent sizing takes the guesswork out of shopping, and each piece is put to the test to maintain the highest standards in quality and comfort.",
+      "image": "https://www.refinery29.com/images/9038570.jpg",
+      "url": "https://www.refinery29.com/en-us/shop/product/womens-6-pack-cotton-bikini-underwear-9038567"
+    },
+    "https://www.refinery29.com/en-us/shop/product/modern-cotton-bikini-panty-10083623": {
+      "title": "Calvin Klein + Modern Cotton Bikini Panty",
+      "description": "Modern Cotton Bikini Panty + Stylish cotton bikini underwear featuring a modern design and repeating Calvin Klein logo waistband.",
+      "image": "https://www.refinery29.com/images/10083624.jpg",
+      "url": "https://www.refinery29.com/en-us/shop/product/modern-cotton-bikini-panty-10083623"
+    },
+    "https://www.asos.com/us/calvin-klein/calvin-klein-modern-cotton-bikini-style-briefs-in-black/prd/206834804": {
+      "title": "Calvin Klein Modern Cotton bikini style briefs in black | ASOS",
+      "description": "Browse online for the newest Calvin Klein Modern Cotton bikini style briefs in black styles. Shop easier with ASOS' multiple payments and return options (Ts&Cs apply).",
+      "image": "https://images.asos-media.com/products/calvin-klein-modern-cotton-bikini-style-briefs-in-black/206834804-1-black",
+      "url": "https://www.asos.com/us/calvin-klein/calvin-klein-modern-cotton-bikini-style-briefs-in-black/prd/206834804"
+    },
+    "https://www.whowhatwear.com/best-underwear-and-bra-brands": {
+      "title": "I Go to Reddit for Everything, and Anonymous Strangers Say These Are the Best Underwear and Bra Brands",
+      "description": "The foundation to any great look is great undergarments, and these picks are too good to pass up.",
+      "image": "https://cdn.mos.cms.futurecdn.net/pZ5BuJ6YBbfuzqGkvQw4s6-1200-80.jpg",
+      "url": "https://www.whowhatwear.com/best-underwear-and-bra-brands"
+    },
+    "https://www.vogue.com/slideshow/best-underwear-for-women": {
+      "title": "The Best Underwear for Women Isn’t Just Cute—It’s Comfy, Too",
+      "description": "The upgrade your top drawer needed.",
+      "image": "https://assets.vogue.com/photos/67c7cb629f65c3fc4ffb65fb/16:9/w_1280,c_limit/1727975382.726747395844.jpeg",
+      "url": "https://www.vogue.com/slideshow/best-underwear-for-women"
+    }
+  }
+}

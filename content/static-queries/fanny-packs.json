@@ -1,0 +1,109 @@
+{
+  "slug": "fanny-packs",
+  "query": "best fanny packs",
+  "title": "Best fanny packs | Bin Diving",
+  "description": "AI-dug recommendations for best fanny packs. Compare options and find one that fits.",
+  "dugAt": "2026-03-18T23:02:07.804Z",
+  "recommendations": [
+    {
+      "product_name": "Patagonia Ultralight Black Hole Mini Hip Pack",
+      "pros": [
+        "Lightweight, durable fabric",
+        "Comfortable strap and backside pad"
+      ],
+      "cons": [
+        "Small capacity (1L)",
+        "May be renamed/newer model available"
+      ],
+      "price": null,
+      "amazon_id": "B0BT1FN41K",
+      "sources": [
+        "https://www.outdoorgearlab.com/topics/camping-and-hiking/best-fanny-pack",
+        "https://www.rei.com/product/155781/patagonia-ultralight-black-hole-mini-hip-pack",
+        "https://www.cleverhiker.com/best-fanny-packs"
+      ],
+      "amazon_url": "https://www.amazon.com/Patagonia-Ultralight-Black-Hole-Mini/dp/B0BT1FN41K",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/MHqD1YCc-5c12DtXBUQz2R3jggQF92ZbqKrFX9bpWHs/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9zeW5l/cmd5c3BvcnRzd2Vh/ci5jb20vY2RuL3No/b3AvZmlsZXMvNDk0/NDctUFdHTl84MDB4/LnBuZz92PTE3MjM3/NTEyODU",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "lululemon Everywhere Belt Bag 1L",
+      "pros": [
+        "Stylish low-profile design",
+        "Works as waist pack or crossbody"
+      ],
+      "cons": [
+        "Limited capacity (1L)",
+        "Popular — can be out of stock or resold above MSRP"
+      ],
+      "price": null,
+      "amazon_id": "B09H1G1TLJ",
+      "sources": [
+        "https://www.sfgate.com/shopping/article/lululemon-belt-bag-amazon-lookalike-18175983.php",
+        "https://www.kendrafoundit.com/archive/best-lululemon-everywhere-belt-bag-dupes",
+        "https://www.cleverhiker.com/best-fanny-packs"
+      ],
+      "amazon_url": "https://www.amazon.com/Lululemon-Everywhere-Belt-Asphalt-Grey/dp/B09H1G1TLJ",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/C6hKNktWVCyQO-BLajqx3rR-qesbEXv0E4gVEvtBgvw/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9pLmVi/YXlpbWcuY29tL2lt/YWdlcy9nLzdmZ0FB/ZVN3UFdscFctVWgv/cy1sNDAwLndlYnA",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "REI Co-op Trail Waistpack (Trail 2/Trail 5 series)",
+      "pros": [
+        "Comfortable fit and good organization",
+        "Designed for active/outdoor use"
+      ],
+      "cons": [
+        "Some sizes have limited capacity",
+        "Strap length may be short for some users"
+      ],
+      "price": "$23.99",
+      "amazon_id": "B08BZDP5WX",
+      "sources": [
+        "https://www.outdoorgearlab.com/topics/camping-and-hiking/best-fanny-pack",
+        "https://www.travelandleisure.com/style/travel-bags/best-fanny-packs",
+        "https://www.cleverhiker.com/best-fanny-packs"
+      ],
+      "image_url": "https://m.media-amazon.com/images/I/81LbfwSWdfL._AC_UL960_QL65_.jpg",
+      "images": [
+        "https://m.media-amazon.com/images/I/81LbfwSWdfL._AC_UL960_QL65_.jpg"
+      ],
+      "amazon_url": "https://www.amazon.com/Bp-Vision-Outdoor-Camping-Fishing/dp/B08BZDP5WX/ref=sr_1_1?dib=eyJ2IjoiMSJ9._Ohawzvdpt19bH2FgslUXWbQ_r_di2CedWylxY5W-mz75xWyVgNcZgk4NQE9PmeS3x-S93diG6rnkrQbT8yJSho177EVLYR0Whh2_jiG2hlzjoFKUfEXAfXZRvLwBskm5UN7n75qCiQdO9Ng-m90qWFvvvyvTu1od5wUO15bysQHF8UpcCNoqiuocr-bNtaubsKAROhlM7SfYyz_xbv-hxIhZS8zJsFyXWHYR32scz4Rkq5-6dB1fy0KgwIPU1njmuJIRhhvhKbGy4gZ64NIsIGLN-jRR5BsYHZLokzAgps.GTLEvNMr-IFnpBOGME-DY3g6_WebbkrxyLdr7I31_Ds&dib_tag=se&keywords=REI+Co-op+Trail+Waistpack+%28Trail+2%2FTrail+5+series%29&nsdOptOutParam=true&qid=1773874924&sr=8-1",
+      "brand": "VISCNE Outdoor Fanny Pack Hiking Fishing Waist bag 2 Water Bottle Holder Lumbar Pack",
+      "blackFriday": false,
+      "gpt_azn": null,
+      "resolver": "cheerio",
+      "valid": true
+    }
+  ],
+  "resolvedLinks": {
+    "https://www.outdoorgearlab.com/topics/camping-and-hiking/best-fanny-pack": {
+      "title": "The Best Fanny Packs",
+      "description": "We are happy to report that fanny packs have come a long way since the 80s. Don't worry, you can still opt for vibrant and fun patterns, but you can also...",
+      "image": "https://d1i8d6ce8wwubf.cloudfront.net/photos/31/87/440218_4881_XXL.jpg",
+      "url": "https://www.outdoorgearlab.com/topics/camping-and-hiking/best-fanny-pack"
+    },
+    "https://www.cleverhiker.com/best-fanny-packs": {
+      "title": "Best Hiking Fanny Packs of 2026, Tested & Reviewed | CleverHiker",
+      "description": "We tested dozens of fanny packs over the past 13 years to help you find the absolute best option for your next outdoor adventure.",
+      "image": "https://www.cleverhiker.com/wp-content/uploads/2025/03/20241225_115653-edited-scaled.jpg",
+      "url": "https://www.cleverhiker.com/hiking/best-fanny-packs/"
+    },
+    "https://www.sfgate.com/shopping/article/lululemon-belt-bag-amazon-lookalike-18175983.php": {
+      "title": "The best belt bags that hold your essentials and look great doing it",
+      "description": "Jump on the belt bag bandwagon with these top-rated picks.",
+      "image": "https://s.hdnux.com/photos/01/33/40/45/23988571/3/rawImage.jpg",
+      "url": "https://www.sfgate.com/shopping/article/lululemon-belt-bag-amazon-lookalike-18175983.php"
+    },
+    "https://www.kendrafoundit.com/archive/best-lululemon-everywhere-belt-bag-dupes": {
+      "title": "THE BEST LULULEMON EVERYWHERE BELT BAG DUPES — KENDRA FOUND IT",
+      "description": "The best Lululemon Everywhere Belt Bag dupes that will get you the look for less. Walmart, Target, Amazon, crossbody or around your waist - I've got 'em.",
+      "image": "http://static1.squarespace.com/static/55c41255e4b0700d65dd29ca/55c4295de4b0c8f840707443/677430bb5745067224321483/1771990348602/LULULEMON+BELT+BAG+DUPES.png?format=1500w",
+      "url": "https://www.kendrafoundit.com/archive/best-lululemon-everywhere-belt-bag-dupes"
+    }
+  }
+}

@@ -1,0 +1,107 @@
+{
+  "slug": "dash-cams",
+  "query": "best dash cams",
+  "title": "Best dash cams | Bin Diving",
+  "description": "AI-dug recommendations for best dash cams. Compare options and find one that fits.",
+  "dugAt": "2026-03-18T21:58:08.298Z",
+  "recommendations": [
+    {
+      "product_name": "VIOFO A229 Pro (Dual 4K)",
+      "pros": [
+        "True 4K front recording",
+        "Excellent night/day clarity",
+        "Reliable parking mode options"
+      ],
+      "cons": [
+        "Requires careful hardwiring for 24/7 monitoring",
+        "Larger file sizes",
+        "No built-in cloud service"
+      ],
+      "price": null,
+      "amazon_id": "B0CKYFSKNN",
+      "sources": [
+        "https://vortexradar.com/best-dashcams/",
+        "https://dashcamtalk.com/best-dash-cams-of-2026/"
+      ],
+      "amazon_url": "https://www.amazon.com/VIOFO-A229-Pro-STARVIS-Channel/dp/B0CKYFSKNN",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/wAjl3mrjKQM3I9tdsX2Iiu29rUxR5IPRiIkTOXeng3E/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9pbWFn/ZXMtbmEuc3NsLWlt/YWdlcy1hbWF6b24u/Y29tL2ltYWdlcy9J/LzcxMTMtZTBmOEZM/LmpwZw",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "Nextbase IQ 4K (Nextbase 422GW / IQ 4K series)",
+      "pros": [
+        "4K front capture with strong app integration",
+        "Good crash-detection and GPS tagging",
+        "User-friendly interface"
+      ],
+      "cons": [
+        "Higher price tier",
+        "Some advanced features require add-ons",
+        "Variable accessory compatibility"
+      ],
+      "price": null,
+      "amazon_id": "B0CJWHSWSS",
+      "sources": [
+        "https://www.independent.co.uk/extras/indybest/gadgets-tech/best-dash-cam-b2878960.html",
+        "https://www.techradar.com/vehicle-tech/dash-cams/the-best-dash-cams"
+      ],
+      "amazon_url": "https://www.amazon.com/Nextbase-Bundle-Parking-Emergency-Roadwatch/dp/B0CJWHSWSS",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/jq2mPY4CpQWFm3T5XLSviiLqXsuUxljgAug5JstniI8/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9pbWFn/ZXMtbmEuc3NsLWlt/YWdlcy1hbWF6b24u/Y29tL2ltYWdlcy9J/LzcxM1ZOWHNESnhM/LmpwZw",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "BlackVue Elite 9 / DR970X-series",
+      "pros": [
+        "Cloud connectivity and remote monitoring",
+        "Robust parking/parking-mode features",
+        "Premium build and app ecosystem"
+      ],
+      "cons": [
+        "Premium price",
+        "Cloud subscription for full remote features",
+        "May need professional install for best results"
+      ],
+      "price": null,
+      "amazon_id": "B0G2VYG9Q6",
+      "sources": [
+        "https://vortexradar.com/best-dashcams/",
+        "https://getnexar.com/blog/how-to-choose-a-dash-cam"
+      ],
+      "amazon_url": "https://www.amazon.com/BlackVue-Ultra-Slim-Polarizing-Reflections-DR970X-2CH/dp/B0G2VYG9Q6",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/XEIrHvsbO01fJFWS5rEiOozsmrw3mVu6oXwz4cgFF3I/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9pbWFn/ZXMtbmEuc3NsLWlt/YWdlcy1hbWF6b24u/Y29tL2ltYWdlcy9J/LzcxYkRnRkRudzJM/LmpwZw",
+      "resolver": "brave",
+      "valid": true
+    }
+  ],
+  "resolvedLinks": {
+    "https://dashcamtalk.com/best-dash-cams-of-2026/": {
+      "title": "Best Dash Cams of 2026 - DashCamTalk",
+      "description": "For 2026, look for dash cams with Sony Starvis 2 sensors, either 2K if you are on a budget or 4K for a more premium camera. Also ensure you choose a camera",
+      "image": "",
+      "url": "https://dashcamtalk.com/best-dash-cams-of-2026/"
+    },
+    "https://www.independent.co.uk/extras/indybest/gadgets-tech/best-dash-cam-b2878960.html": {
+      "title": "Best dash cams, tried and tested to help protect your vehicle",
+      "description": "These in-car camera systems can help reduce your insurance premiums",
+      "image": "https://static.independent.co.uk/2025/12/09/16/07/best-dash-cam.png?width=1200&height=800&crop=1200:800",
+      "url": "https://www.independent.co.uk/extras/indybest/gadgets-tech/best-dash-cam-b2878960.html"
+    },
+    "https://www.techradar.com/vehicle-tech/dash-cams/the-best-dash-cams": {
+      "title": "I've tested the best dash cams by Garmin, Nextbase and more – here are my favorites",
+      "description": "From tiny yet powerful single channel units to smart multi-cam setups, we've rounded up the best dash cams you can buy today",
+      "image": "https://cdn.mos.cms.futurecdn.net/eDXzJagK8GhbmMmtnzFeNV-2000-80.jpg",
+      "url": "https://www.techradar.com/vehicle-tech/dash-cams/the-best-dash-cams"
+    },
+    "https://getnexar.com/blog/how-to-choose-a-dash-cam": {
+      "title": "How To Choose (The Best) Dash Cam: 2026 Buying Guide - Nexar",
+      "description": "What do you want to use your dash cam for? Depending on your needs and the type of driver you are, you might be interested in different features and models. Top features to consider include: number...",
+      "image": "https://cdn.shopify.com/s/files/1/2238/7021/articles/81CA9476-D30D-4E28-919E-8CEFDC8864E2_1_201_a_b9bc6120-1f43-4de5-b71c-c942974b2cb2.jpg?v=1772622367",
+      "url": "https://www.getnexar.com/blog/how-to-choose-a-dash-cam"
+    }
+  }
+}

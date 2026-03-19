@@ -1,0 +1,139 @@
+{
+  "slug": "travel-car-seats",
+  "query": "best travel car seats",
+  "title": "Best travel car seats | Bin Diving",
+  "description": "AI-dug recommendations for best travel car seats. Compare options and find one that fits.",
+  "dugAt": "2026-03-18T22:20:17.980Z",
+  "recommendations": [
+    {
+      "product_name": "Cosco Scenera NEXT Convertible Car Seat",
+      "pros": [
+        "Very lightweight/compact",
+        "Inexpensive option for air travel",
+        "FAA-approved in many listings"
+      ],
+      "cons": [
+        "Minimal padding (less comfortable)",
+        "Some users report difficult installs",
+        "Being phased out/discontinued in some regions"
+      ],
+      "price": "$99.99",
+      "amazon_id": "B0DXMFYHNV",
+      "sources": [
+        "https://tripswithtykes.com/cosco-scenera-next-review/",
+        "https://babybargains.com/convertible-car-seat-review-cosco-scenera-scenera-next/",
+        "https://feathersandstripes.com/cosco-scenera-next-review-honest-thoughts-on-this-travel-car-seat/"
+      ],
+      "image_url": "https://images-na.ssl-images-amazon.com/images/G/01/x-locale/common/grey-pixel.gif",
+      "images": [
+        "https://images-na.ssl-images-amazon.com/images/G/01/x-locale/common/grey-pixel.gif"
+      ],
+      "amazon_url": "https://www.amazon.com/Safety-1st-Forward-Facing-Travel-Friendly-Machine-Washable/dp/B0DXMFYHNV/ref=mp_s_a_1_1?dib=eyJ2IjoiMSJ9.41Bd7-NYPGZE6YqFKNr-AzDFi7TPNm59Z29blrabtj49Zd3H_-9I7SmVCav1evZovPnCyfgf1RLP0UHMpMoEs_gXn8pjI0R4XQ7mlmoISzdHL3mb-JD02nl0YiviCfmTdjfwufChGrtzFwlU690QU0ubbFRAG15taoFA8bAqftH4oQhMllDfV_kscGlry8iFcmFFHhBfbsUiFNF7jHJ4BA.uSxSOr1Y_0Mi9WTtgZ2G5WbQDzdazxeLmq6dy3oA7cs&dib_tag=se&keywords=Cosco+Scenera+NEXT+Convertible+Car+Seat&qid=1773872408&sr=8-1",
+      "brand": "Safety 1st",
+      "blackFriday": false,
+      "gpt_azn": "B072826XWD",
+      "resolver": "cheerio",
+      "valid": true
+    },
+    {
+      "product_name": "Graco Contender Slim Convertible Car Seat",
+      "pros": [
+        "Slim profile built for tight/back-seat travel",
+        "Lightweight for a convertible seat",
+        "Designed for easy transferring between vehicles"
+      ],
+      "cons": [
+        "Less plush than full-size convertibles",
+        "Some installs noted as fiddly in certain cars",
+        "Not the lightest option for long flights"
+      ],
+      "price": "$159.99",
+      "amazon_id": "B0FML1WG1Z",
+      "sources": [
+        "https://www.gracobaby.com/shop/car-seats/toddler-car-seats/convertible-car-seats/contender-slim-convertible-car-seat/SAP_2223684.html",
+        "https://carseatsadvice.com/product-reviews/car-seats/review-graco-contender-slim-convertible-car-seat-the-best-faa-approved-lightweight-travel-seat-5-65-lbs/",
+        "https://www.thebabyverse.org/graco-contender-slim-convertible-car-seat-review-the-ultimate-travel-and-compact-car-solution/"
+      ],
+      "amazon_url": "https://www.amazon.com/Graco-Convertible-Lightweight-Space-Saving-Forward-Facing/dp/B0FML1WG1Z",
+      "gpt_azn": "B09NPLTZLR",
+      "image_url": "https://imgs.search.brave.com/dmCS1Z68wN92b-1i93mgVZFf1zyi8wdTH2Ogz1sHGgU/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9pLmVi/YXlpbWcuY29tL2lt/YWdlcy9nL2VPOEFB/T1N3Skxsbk9ZM20v/cy1sNTAwLmpwZw",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "Diono Radian 3RXT Safe+ (4-in-1)",
+      "pros": [
+        "Slim, 3-across friendly design; folds flat for storage/travel",
+        "High safety features and long usable weight range",
+        "Sturdy steel-reinforced frame"
+      ],
+      "cons": [
+        "Heavier than other 'travel' seats",
+        "Higher price point",
+        "Some users report it’s bulky to carry despite folding capability"
+      ],
+      "price": "$329.99",
+      "amazon_id": "B0DMV374X1",
+      "sources": [
+        "https://store.diono.com/radian-3rxt-safeplus/",
+        "https://www.babygearlab.com/reviews/vehicle-safety/convertible-car-seat/diono-radian-3rxt-safe-plus",
+        "https://babygearabc.com/diono-radian-3rxt-review/"
+      ],
+      "amazon_url": "https://www.amazon.com/Diono-SafePlus-Convertible-Engineering-Protection/dp/B0DMV374X1",
+      "gpt_azn": "B09TW9QDJB",
+      "image_url": "https://imgs.search.brave.com/V8t8LHSAUF2uONBvJXLra7b50_8It5Oxh5m0P2KzitQ/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly90YXJn/ZXQuc2NlbmU3LmNv/bS9pcy9pbWFnZS9U/YXJnZXQvR1VFU1Rf/NzAzYTllNjUtYTZj/Ny00ZWFjLTgxYmEt/ZTc0ZTcwMjFiZjE3/P3dpZD04MDAmaGVp/PTgwMCZxbHQ9ODAm/Zm10PXBqcGVn",
+      "resolver": "brave",
+      "valid": true
+    }
+  ],
+  "resolvedLinks": {
+    "https://tripswithtykes.com/cosco-scenera-next-review/": {
+      "title": "Cosco Scenera NEXT Review: Why You Need this Car Seat for Air Travel",
+      "description": "Looking for an inexpensive, safe, and lightweight car seat for your next trip on an airplane? Find out why the Cosco Scenera NEXT is the right choice.",
+      "image": "https://tripswithtykes.com/wp-content/uploads/2015/10/Kids-in-Car-Cosco-Scenera-NEXT-Car-Seat.jpg",
+      "url": "https://tripswithtykes.com/cosco-scenera-next-review/"
+    },
+    "https://babybargains.com/convertible-car-seat-review-cosco-scenera-scenera-next/": {
+      "title": "Convertible Car Seat review: Cosco Scenera / Scenera Next - Baby Bargains",
+      "description": "Convertible Car Seat review: Cosco Scenera / Scenera Next. The Cosco Scenera is simple seat is our top pick for that occasionally-used second car or Grandma",
+      "image": "https://www.babybargains.com/wp-content/uploads/2016/11/scenera-next.jpeg",
+      "url": "https://www.babybargains.com/convertible-car-seat-review-cosco-scenera-scenera-next/"
+    },
+    "https://feathersandstripes.com/cosco-scenera-next-review-honest-thoughts-on-this-travel-car-seat/": {
+      "title": "Cosco Scenera Next Review: Honest Thoughts on This Travel Car Seat After Using for 6 Years | Feathers and Stripes",
+      "description": "Cosco Scenera Next Review: Honest Thoughts on This Travel Car Seat After Using for 6 Years",
+      "image": "https://feathersandstripes.com/wp-content/uploads/2022/03/car-seat-on-plane.jpg?v=1769474631",
+      "url": "https://feathersandstripes.com/cosco-scenera-next-review-honest-thoughts-on-this-travel-car-seat/"
+    },
+    "https://carseatsadvice.com/product-reviews/car-seats/review-graco-contender-slim-convertible-car-seat-the-best-faa-approved-lightweight-travel-seat-5-65-lbs/": {
+      "title": "Review: Graco Contender Slim Convertible Car Seat – The Best FAA Approved Lightweight Travel Seat (5-65 lbs) – Car Seats Advice",
+      "description": "",
+      "image": "",
+      "url": "https://carseatsadvice.com/product-reviews/car-seats/review-graco-contender-slim-convertible-car-seat-the-best-faa-approved-lightweight-travel-seat-5-65-lbs/"
+    },
+    "https://www.thebabyverse.org/graco-contender-slim-convertible-car-seat-review-the-ultimate-travel-and-compact-car-solution/": {
+      "title": "Graco Contender Slim Convertible Car Seat Review: The Ultimate Travel and Compact Car Solution? - The BabyVerse",
+      "description": "I still remember the feeling of bringing our first child home. The overwhelming joy was matched only by the overwhelming anxiety, particularly around car",
+      "image": "",
+      "url": "https://www.thebabyverse.org/graco-contender-slim-convertible-car-seat-review-the-ultimate-travel-and-compact-car-solution/"
+    },
+    "https://store.diono.com/radian-3rxt-safeplus/": {
+      "title": "Radian® 3RXT® SafePlus®",
+      "description": "Radian® 3RXT Safe+® All-in-One Convertible Car Seat",
+      "image": "https://cdn11.bigcommerce.com/s-nnd2r2nrxo/products/352/images/8360/50100_Cutout__09400.1732206141.386.513.png?c=1",
+      "url": "https://store.diono.com/radian-3rxt-safeplus/"
+    },
+    "https://www.babygearlab.com/reviews/vehicle-safety/convertible-car-seat/diono-radian-3rxt-safe-plus": {
+      "title": "Diono Radian 3RXT Safe+ Review",
+      "description": "The Diono Radian 3RXT Safe+ is one of the lowest-scoring options in our convertible car seat review. The Diono has one of the lowest crash test analysis...",
+      "image": "https://d1awg155xx98w6.cloudfront.net/photos/40/96/531149_13298_XXL.jpg",
+      "url": "https://www.babygearlab.com/reviews/vehicle-safety/convertible-car-seat/diono-radian-3rxt-safe-plus"
+    },
+    "https://babygearabc.com/diono-radian-3rxt-review/": {
+      "title": "Diono Radian 3RXT Review - BabyGearABC.com",
+      "description": "We’ll break down all the details in this Diono Radian 3RXT review to help you decide if it’s the best choice for your baby.",
+      "image": "https://babygearabc.com/wp-content/uploads/2022/10/Diono_Radian_3RXT.webp",
+      "url": "https://babygearabc.com/diono-radian-3rxt-review/"
+    }
+  }
+}

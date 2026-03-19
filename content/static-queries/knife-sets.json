@@ -1,0 +1,99 @@
+{
+  "slug": "knife-sets",
+  "query": "best knife sets",
+  "title": "Best knife sets | Bin Diving",
+  "description": "AI-dug recommendations for best knife sets. Compare options and find one that fits.",
+  "dugAt": "2026-03-18T17:05:54.875Z",
+  "recommendations": [
+    {
+      "product_name": "Wusthof Classic Ikon 7-Piece Knife Block Set",
+      "pros": [
+        "High-quality forged German steel",
+        "Comfortable full-tang handle",
+        "Trusted long-term durability"
+      ],
+      "cons": [
+        "Higher price bracket",
+        "Block takes counter space"
+      ],
+      "price": null,
+      "amazon_id": "B08NFB2LVC",
+      "sources": [
+        "https://www.knifebuzz.com/wusthof-knife-sets-guide/",
+        "https://www.rosler.sk/files/documents/nastiahnutie/verejne/wusthof_catalogue-complete.pdf"
+      ],
+      "amazon_url": "https://www.amazon.com/Wusthof-Classic-Piece-Knife-Acacia/dp/B08NFB2LVC",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/qSA60QcG0jWHcIgh5l4QJwOnWrxyLHb1WTx2wq6zggE/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9jdXRs/ZXJ5YW5kbW9yZS5j/b20vY2RuL3Nob3Av/cHJvZHVjdHMvNDc0/MDVfOTAweC5qcGc_/dj0xNzQxNzIxMDM1",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "ZWILLING Pro 10-Piece Knife Block Set",
+      "pros": [
+        "Well-balanced German-style blades",
+        "Comprehensive 10-piece set",
+        "Regularly recommended in recent buying guides"
+      ],
+      "cons": [
+        "Handle shape may feel bulky to some users",
+        "Can be expensive at MSRP"
+      ],
+      "price": null,
+      "amazon_id": "B07CX7B3W9",
+      "sources": [
+        "https://www.forbes.com/sites/forbes-personal-shopper/article/best-knife-set/",
+        "https://bibblet.com/blog/best-chefs-knife-sets-2025"
+      ],
+      "amazon_url": "https://www.amazon.com/ZWILLING-Pro-10-pc-Knife-Block/dp/B07CX7B3W9",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/avMeAcYax6OZTZBGPfn225quVcYXIMjPnIa6ZEEdVzA/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9pbWFn/ZXMtbmEuc3NsLWlt/YWdlcy1hbWF6b24u/Y29tL2ltYWdlcy9J/LzcxQXdpLWc1MHFM/LmpwZw",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "Shun Classic 5-Piece Starter Block Set",
+      "pros": [
+        "Sharp, thin Japanese-style blades",
+        "Attractive Damascus/finished blades",
+        "Good House & pro-cook recommendations"
+      ],
+      "cons": [
+        "Higher maintenance (sharpening/edge care)",
+        "Premium price for Japanese steel"
+      ],
+      "price": null,
+      "amazon_id": "B07DF9H3MS",
+      "sources": [
+        "https://www.bonappetit.com/story/best-knife-sets",
+        "https://www.foodnetwork.com/how-to/packages/shopping/product-reviews/best-knife-block-sets",
+        "https://shun.kaiusa.com/media/wysiwyg/svg/shun/catalog/ShunKai_Catalog2026_WEB.pdf"
+      ],
+      "amazon_url": "https://www.amazon.com/Shun-Classic-Piece-Slimline-Block/dp/B07DF9H3MS",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/etF2MeVAlGtCUbfDHUrkL1WP-rSzpVP6z1IUIq84ygk/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly93d3cu/a2l0Y2hlbi11bml2/ZXJzZS5jb20vY2Ru/L3Nob3AvcHJvZHVj/dHMvNTQtRE1TMDUz/MF9TaHVuX0NsYXNz/aWNfNV9QY19TdGFy/dGVyX0Jsb2NrX1Nl/dF8zXzQwMHgucG5n/P3Y9MTY2NTYyNzcy/NQ",
+      "resolver": "brave",
+      "valid": true
+    }
+  ],
+  "resolvedLinks": {
+    "https://www.knifebuzz.com/wusthof-knife-sets-guide/": {
+      "title": "Best Wusthof Knife Sets for Cooks and Chefs - Knife Buzz",
+      "description": "Wusthof knife sets have a reputation for sharpness, balance, and lasting performance. These knives will help you work faster, safer, and with more accuracy.",
+      "image": "https://www.knifebuzz.com/wp-content/uploads/2025/07/Wusthof-Ikon-chef-knife-set.jpg",
+      "url": "https://www.knifebuzz.com/wusthof-knife-sets-guide/"
+    },
+    "https://www.bonappetit.com/story/best-knife-sets": {
+      "title": "The Best Knife Set Contains Just Three Knives",
+      "description": "Please, please don’t get more knives than you need.",
+      "image": "https://assets.bonappetit.com/photos/68ded0dfa427ceaf06878bfa/16:9/w_1280,c_limit/10.02_BA_Best_knife_sets_lede_v3.jpg",
+      "url": "https://www.bonappetit.com/story/best-knife-sets"
+    },
+    "https://www.foodnetwork.com/how-to/packages/shopping/product-reviews/best-knife-block-sets": {
+      "title": "6 Best Kitchen Knife Sets of 2026, According to Experts",
+      "description": "These knife sets come with high-quality knives you'll actually use.",
+      "image": "https://food.fnr.sndimg.com/content/dam/images/food/products/2021/9/29/26-FN-ProductTestingImages-KnifeBlocks-v1.jpg.rend.hgtvcom.616.462.85.suffix/1632949287230.webp",
+      "url": "https://www.foodnetwork.com/how-to/packages/shopping/product-reviews/best-knife-block-sets"
+    }
+  }
+}

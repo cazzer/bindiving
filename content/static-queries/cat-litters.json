@@ -1,0 +1,94 @@
+{
+  "slug": "cat-litters",
+  "query": "best cat litters",
+  "title": "Best cat litters | Bin Diving",
+  "description": "AI-dug recommendations for best cat litters. Compare options and find one that fits.",
+  "dugAt": "2026-03-18T19:06:13.037Z",
+  "recommendations": [
+    {
+      "product_name": "Boxiecat Probiotic Clumping Clay Litter",
+      "pros": [
+        "Probiotic odor control",
+        "Fast, hard clumping"
+      ],
+      "cons": [
+        "Some users report formula/consistency changes",
+        "Can track with long-haired cats"
+      ],
+      "price": "$23.99",
+      "amazon_id": "B07DK2BQGD",
+      "sources": [
+        "https://cats.com/best-cat-litter",
+        "https://www.petmd.com/cat/vet-verified/best-cat-litter"
+      ],
+      "amazon_url": "https://www.amazon.com/Boxiecat-Clean-Probiotic-Clumping-Litter/dp/B07DK2BQGD",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/aXp_Ddv4Uw_VH_muQkpow5wtX2GkVDxTSrX07AAbg2Q/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9pbWFn/ZS5jaGV3eS5jb20v/aXMvaW1hZ2UvY2F0/YWxvZy8xNTE1NDVf/TUFJTi5fQUNfU1Mz/MDBfVjE2NDYxNTIy/OTlfLmpwZw",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "World’s Best Low-Tracking & Dust Control Multiple Cat Litter",
+      "pros": [
+        "All-natural corn-based (biodegradable)",
+        "Enlarged granules reduce tracking"
+      ],
+      "cons": [
+        "May not control very strong odors as well as some clay litters",
+        "Some variability reported between formulas"
+      ],
+      "price": "$19.15",
+      "amazon_id": "B0BB5XVQ9X",
+      "sources": [
+        "https://cats.com/best-cat-litter",
+        "https://www.petmd.com/cat/vet-verified/best-cat-litter"
+      ],
+      "image_url": "https://images-na.ssl-images-amazon.com/images/G/01/x-locale/common/grey-pixel.gif",
+      "images": [
+        "https://images-na.ssl-images-amazon.com/images/G/01/x-locale/common/grey-pixel.gif"
+      ],
+      "amazon_url": "https://www.amazon.com/Tracking-Control-Multiple-Cat-Unscented/dp/B0BB5XVQ9X/ref=mp_s_a_1_1?dib=eyJ2IjoiMSJ9.e5k1kauPmrDUbnwZgT02kVeaUwJ3nP_n4UJNwXfQVLD9wp2nPxy4r56Sb8cm0eAfepZxsGlbHF28Hvj9tw0XhrXox8rQacgfZTQnEhY8RIEyuUAAM2V2rFqhPWFgHO5OFNctQpvJiCD9m4RPWRIR4s35PmjmogUiPU6FVoLEkdcLv_Pqy0j_gnJ6RNSIOcyIg2itwPZxukVQysp8m6Ugbw.GrX5t557Bo2PBByvwxpnD2rOvCE1pbJrhFED5pxUHj4&dib_tag=se&keywords=World%E2%80%99s+Best+Low-Tracking&qid=1773860771&sr=8-1",
+      "brand": "World's Best Cat Litter",
+      "blackFriday": false,
+      "gpt_azn": null,
+      "resolver": "cheerio",
+      "valid": true
+    },
+    {
+      "product_name": "Dr. Elsey’s Precious Cat Ultra Unscented Clumping Clay Litter",
+      "pros": [
+        "Hypoallergenic, low-dust formulation",
+        "Very strong clumping and odor control"
+      ],
+      "cons": [
+        "Can cake/stick to paws or box sides when wet",
+        "Some users report formula changes affecting dust/clumping"
+      ],
+      "price": null,
+      "amazon_id": "B0009X0QSY",
+      "sources": [
+        "https://www.catster.com/lifestyle/dr-elseys-cat-litter-review/",
+        "https://www.petmd.com/cat/vet-verified/best-cat-litter"
+      ],
+      "amazon_url": "https://www.amazon.com/Dr-Elseys-Precious-Ultra-Litter/dp/B0009X0QSY",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/-8jmTtlIk6Td1KHR1zKgUhUS2PRU58EXzXeaMzY3cmA/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9pNS53/YWxtYXJ0aW1hZ2Vz/LmNvbS9zZW8vRHIt/RWxzZXktcy1VbHRy/YS1VbnNjZW50ZWQt/Q2F0LUxpdHRlci0z/NS1sYi1CYWctTm93/LXdpdGgtRWFzeS1D/YXJyeS1oYW5kbGVf/NGE2YTQ2MTQtNGY3/Ny00MmFmLWIyNzEt/ZTdlY2ExOWVlZWE1/LmU2M2YyZmQzMTAw/MzIxZWRjMTM2MTlk/YTA1MTliYmNlLmpw/ZWc_b2RuSGVpZ2h0/PTQ0OCZvZG5XaWR0/aD00NDgmb2RuQmc9/RkZGRkZG",
+      "resolver": "brave",
+      "valid": true
+    }
+  ],
+  "resolvedLinks": {
+    "https://cats.com/best-cat-litter": {
+      "title": "13 Best Cat Litters of 2026: Unbiased Review - Cats.com",
+      "description": "After researching the litter industry, reviewing over a dozen of the biggest brands on the market, and performing in-box tests on more than 50 products, we’ve chosen the following litters as the best cat litter you can buy.",
+      "image": "https://cats.com/wp-content/uploads/2026/03/best-cat-litter-of-2026-compressed.jpg",
+      "url": "https://cats.com/best-cat-litter"
+    },
+    "https://www.petmd.com/cat/vet-verified/best-cat-litter": {
+      "title": "9 Best Cat Litters in 2026, Recommended by Vets | PetMD",
+      "description": "",
+      "image": "https://pet-health-content-media.chewy.com/wp-content/uploads/2024/12/06174522/best-cat-litter-vets-scaled.jpg",
+      "url": "https://www.petmd.com/cat/vet-verified/best-cat-litter"
+    }
+  }
+}

@@ -1,0 +1,95 @@
+{
+  "slug": "baby-bottles",
+  "query": "best baby bottles",
+  "title": "Best baby bottles | Bin Diving",
+  "description": "AI-dug recommendations for best baby bottles. Compare options and find one that fits.",
+  "dugAt": "2026-03-18T22:09:13.402Z",
+  "recommendations": [
+    {
+      "product_name": "Comotomo Natural Feel Silicone Baby Bottle (8 oz)",
+      "pros": [
+        "breast-like silicone",
+        "wide-neck easy to clean"
+      ],
+      "cons": [
+        "higher price than basic plastic",
+        "limited nipple flow options"
+      ],
+      "price": null,
+      "amazon_id": "B00DI8GGOK",
+      "sources": [
+        "https://comotomo.com/products/baby-bottle",
+        "https://www.babygearlab.com/reviews/nursing-feeding/baby-bottle/comotomo"
+      ],
+      "amazon_url": "https://www.amazon.com/Comotomo-Natural-Feel-8oz-Bottle/dp/B00DI8GGOK",
+      "gpt_azn": "B009QXDE32",
+      "image_url": "https://imgs.search.brave.com/nkJO2icruBEqjx59BDYD1_P5SlIBkTSXKn2vTY_lE2Q/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9pNS53/YWxtYXJ0aW1hZ2Vz/LmNvbS9zZW8vY29t/b3RvbW8tTmF0dXJh/bC1GZWVsLTgtb3ot/QmFieS1Cb3R0bGUt/R3JlZW5fZDc3MjA1/MmItZTEwNi00ZmI0/LWE0MjEtNmMwNjI2/YzQ2ZTU0LjM3ZmY5/NmVhYTI2MTA5Njdk/YTAxOTMxZWEzNjE4/MTk1LmpwZWc_b2Ru/V2lkdGg9MzAwJm9k/bkhlaWdodD0zMDAm/b2RuRHByPTEmb2Ru/V2VicD0x",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "Philips Avent Natural Baby Bottle (Natural Response)",
+      "pros": [
+        "designed for breast-to-bottle transition",
+        "steady milk flow controlled by baby"
+      ],
+      "cons": [
+        "some babies dislike new nipple design",
+        "multiple bottle/nipple versions can confuse buyers"
+      ],
+      "price": null,
+      "amazon_id": "B0964CHD65",
+      "sources": [
+        "https://www.babylist.com/hello-baby/best-baby-bottles",
+        "https://documents.philips.com/assets/20240413/69e7237bb9cb4f428ec9b15101124b25.pdf"
+      ],
+      "amazon_url": "https://www.amazon.com/Philips-AVENT-Natural-Bottle-Response/dp/B0964CHD65",
+      "gpt_azn": "B0964F6J2S",
+      "image_url": "https://imgs.search.brave.com/BF-LXwoi1Onz7SE2Ih2jnKZ-GsXTUZ_NioNnGaEqIOs/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9jZG4u/c2hvcGxpZ2h0c3Bl/ZWQuY29tL3Nob3Bz/LzYwODk2OC9maWxl/cy80ODYwOTI1Mi82/NTB4NjUweDIvcGhp/bGlwcy1hdmVudC1u/YXR1cmFsLWJhYnkt/Ym90dGxlLXdpdGgt/bmF0dXJhbC1yZXMu/anBn",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "Dr. Brown's Options+ Anti-Colic Baby Bottle (8 oz)",
+      "pros": [
+        "removable internal vent for anti-colic option",
+        "widely recommended for reducing gas/spit-up"
+      ],
+      "cons": [
+        "more parts to clean",
+        "some users report leaking issues with certain sizes"
+      ],
+      "price": null,
+      "amazon_id": "B01845QH7M",
+      "sources": [
+        "https://brownsbottles.com/product-category/baby-bottles-accessories/anti-colic-options-narrow-baby-bottles/",
+        "https://www.babylist.com/hello-baby/best-baby-bottles"
+      ],
+      "amazon_url": "https://www.amazon.com/Dr-Browns-Options-Bottle-4-Pack/dp/B01845QH7M",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/8SOvo8zYZtDP7SHxQtLOVfEYwXr8XAsEhcqOIoyxe4U/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9pLmVi/YXlpbWcuY29tL2lt/YWdlcy9nL0xOa0FB/T1N3aFVWb1EyY2kv/cy1sMjI1LmpwZw",
+      "resolver": "brave",
+      "valid": true
+    }
+  ],
+  "resolvedLinks": {
+    "https://comotomo.com/products/baby-bottle": {
+      "title": "Comotomo | BETTER THAN GOOD",
+      "description": "Comotomo bottles are made of soft, hygienic silicone that closely mimics natural breastfeeding. No more bottle rejection!",
+      "image": "http://comotomo.com/cdn/shop/files/comotomo-social.png?v=1738485021",
+      "url": "https://comotomo.com/"
+    },
+    "https://www.babygearlab.com/reviews/nursing-feeding/baby-bottle/comotomo": {
+      "title": "The Best Baby Bottles",
+      "description": "Whether you plan to nurse or bottle feed, you'll likely need a baby bottle at some point in your feeding journey. Finding a baby bottle your baby will use...",
+      "image": "https://d1awg155xx98w6.cloudfront.net/photos/40/79/529389_27549_XXL.jpg",
+      "url": "https://www.babygearlab.com/topics/nursing-feeding/best-baby-bottle"
+    },
+    "https://www.babylist.com/hello-baby/best-baby-bottles": {
+      "title": "",
+      "description": "",
+      "image": "",
+      "url": "https://www.babylist.com/hello-baby/best-baby-bottles"
+    }
+  }
+}

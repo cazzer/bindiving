@@ -1,0 +1,115 @@
+{
+  "slug": "lube",
+  "query": "best lube",
+  "title": "Best lube | Bin Diving",
+  "description": "AI-dug recommendations for best lube. Compare options and find one that fits.",
+  "dugAt": "2026-03-18T18:08:40.509Z",
+  "recommendations": [
+    {
+      "product_name": "Sliquid H2O Water-Based Lubricant",
+      "pros": [
+        "pH-balanced and glycerin-free",
+        "gentle for sensitive skin"
+      ],
+      "cons": [
+        "may require reapplication vs silicone",
+        "more expensive than drugstore brands"
+      ],
+      "price": null,
+      "amazon_id": "B000C5KATO",
+      "sources": [
+        "https://sliquid.com/product/sliquid-naturals-h2o/",
+        "https://www.allure.com/gallery/best-water-based-lube",
+        "https://www.glamour.com/story/best-lubes"
+      ],
+      "amazon_url": "https://www.amazon.com/Sliquid-Original-Water-Based-Lubricant/dp/B000C5KATO",
+      "gpt_azn": "B00B7IBJUO",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "Überlube Premium Silicone Lubricant",
+      "pros": [
+        "long‑lasting, silky feel",
+        "low odor and non-staining"
+      ],
+      "cons": [
+        "not recommended for silicone sex toys",
+        "higher price point"
+      ],
+      "price": null,
+      "amazon_id": "B00KDHS8PO",
+      "sources": [
+        "https://uberlube.com/",
+        "https://www.cosmopolitan.com/style/grooming/g37502170/best-lubricants/",
+        "https://bedbible.com/best-lubes/"
+      ],
+      "amazon_url": "https://www.amazon.com/Uberlube-Silicone-Base-Lube-Lubrification/dp/B00KDHS8PO",
+      "gpt_azn": "B00KDHS8PO",
+      "image_url": "https://imgs.search.brave.com/CHt1QsUjh0dfNpDRA2jAEbeDJFagvF2isbum6PpatIQ/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly91bmlv/bmNvbmRvbXMuY29t/L2Nkbi9zaG9wL2Zp/bGVzL3ViZXJsdWJl/LTE1LW1sLWJvdHRs/ZS13aGl0ZS1ib3gt/MV8xMDI0eDEwMjQu/anBnP3Y9MTY5NjQ1/MDkwMQ",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "Astroglide Gel Water-Based Lubricant (Gel)",
+      "pros": [
+        "thicker gel texture stays in place",
+        "widely available and budget-friendly"
+      ],
+      "cons": [
+        "contains glycerin/parabens in some formulas",
+        "higher osmolality vs some specialty lubes"
+      ],
+      "price": null,
+      "amazon_id": "B01AW4D9TM",
+      "sources": [
+        "https://astroglide.com/products/astroglide-gel",
+        "https://www.asinsight.com/report/US/astroglide",
+        "https://bedbible.com/best-lubes/"
+      ],
+      "amazon_url": "https://www.amazon.com/Astroglide-Water-Based-Personal-Lubricant/dp/B01AW4D9TM",
+      "gpt_azn": "B00BLA1WY6",
+      "image_url": "https://imgs.search.brave.com/DjR4Hc6LefOaTfd1FINkk8k8pAOj3Y9RR24YVvLuzfs/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9kMmo2/ZGJxMGV1eDBiZy5j/bG91ZGZyb250Lm5l/dC9pbWFnZXMvODc2/MTEwNzQvMzc5NzIy/NzcxNy5qcGc",
+      "resolver": "brave",
+      "valid": true
+    }
+  ],
+  "resolvedLinks": {
+    "https://sliquid.com/product/sliquid-naturals-h2o/": {
+      "title": "H2O - Sliquid Naturals",
+      "description": "Experience pure & natural lubrication with Sliquid Naturals H2O. This original water-based, paraben-free, unscented & perfect for sensitive skin. Shop now!",
+      "image": "https://sliquid.com/wp-content/uploads/2025/03/H2OGroup-850x850-1.webp",
+      "url": "https://sliquid.com/product/sliquid-naturals-h2o/"
+    },
+    "https://www.allure.com/gallery/best-water-based-lube": {
+      "title": "The Best Water-Based Lubes for More Pleasurable Sex",
+      "description": "It's getting wet in here.",
+      "image": "https://media.allure.com/photos/65b7da57b694dd32125c7836/16:9/w_1280,c_limit/water_based_lubes_001.jpg",
+      "url": "https://www.allure.com/gallery/best-water-based-lube"
+    },
+    "https://uberlube.com/": {
+      "title": "Uberlube",
+      "description": "Excitement. Intimacy. Anticipation. Contentment. Überlube lets you feel all the things you want to feel.",
+      "image": "http://uberlube.com/cdn/shop/files/LOGO.svg?height=628&pad_color=fff&v=1690274892&width=1200",
+      "url": "https://uberlube.com/"
+    },
+    "https://bedbible.com/best-lubes/": {
+      "title": "The 6 Best Lubes",
+      "description": "",
+      "image": "https://wp.bedbible.com/wp-content/uploads/2023/06/Analdehner-29.png",
+      "url": "/best-lubes/"
+    },
+    "https://astroglide.com/products/astroglide-gel": {
+      "title": "Lubricant Gel for Precision and Comfort | Astroglide",
+      "description": "",
+      "image": "",
+      "url": "https://astroglide.com/products/astroglide-gel"
+    },
+    "https://www.asinsight.com/report/US/astroglide": {
+      "title": "2025 Amazon Best Selling astroglide: Latest Data & Rankings",
+      "description": "Updated list of the best-selling astroglide on Amazon, based on real sales data. See top brands, rankings, and market trends.",
+      "image": "https://www.asinsight.com/logo.svg",
+      "url": "https://www.asinsight.com/report/US/astroglide"
+    }
+  }
+}

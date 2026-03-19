@@ -1,0 +1,128 @@
+{
+  "slug": "food-recyclers",
+  "query": "best food recyclers",
+  "title": "Best food recyclers | Bin Diving",
+  "description": "AI-dug recommendations for best food recyclers. Compare options and find one that fits.",
+  "dugAt": "2026-03-18T17:26:13.955Z",
+  "recommendations": [
+    {
+      "product_name": "FoodCycler Eco 5 (by Vitamix)",
+      "pros": [
+        "Large 5L capacity",
+        "Quiet, odor-control carbon filter"
+      ],
+      "cons": [
+        "Relatively expensive",
+        "Some reports of jams"
+      ],
+      "price": "$599.95",
+      "amazon_id": "B0C67N36M1",
+      "sources": [
+        "https://www.vitamix.com/us/en_us/products/foodcycler-eco-5",
+        "https://foodcycler.com/products/eco-5",
+        "https://www.reviewed.com/products/vitamix-foodcycler-eco-5"
+      ],
+      "amazon_url": "https://www.amazon.com/FoodCycler-Vitamix-Odorless-Reducer-Liters/dp/B0C67N36M1",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/RiAyVgsqdbVpAABUYGNZ2kgfkT1uZb12_cmMi6bRkeM/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly93d3cu/dml0YW1peC5jb20v/Y29udGVudC9kYW0v/dml0YW1peC9ob21l/L3Byb2R1Y3QtbGF1/bmNoZXMvZm9vZGN5/Y2xlci1lY281L0Vj/bzVfQ29tcGFyaXNv/bl80NzB4NzUwX01v/ZHVsZTUucG5n",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "Vitamix FoodCycler FC-30",
+      "pros": [
+        "Proven model with multi-hour cycles",
+        "Backed by manufacturer warranty"
+      ],
+      "cons": [
+        "Smaller capacity than Eco 5",
+        "Users report occasional reliability issues"
+      ],
+      "price": null,
+      "amazon_id": "B08BQYXVNT",
+      "sources": [
+        "https://foodcycler.com/pages/warranty-policy",
+        "https://www.bobvila.com/reviews/best-countertop-compost-bins-2025/",
+        "https://www.ireviews.com/review/foodcycler-fc-30/"
+      ],
+      "amazon_url": "https://www.amazon.com/Food-Cycler-FC-30-Convenient-Alternative/dp/B08BQYXVNT",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/DybPcq2NMFJWQ23ofAZLSPPRVDUEahRKYEfGqJVLjUo/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9pLmVi/YXlpbWcuY29tL2lt/YWdlcy9nL2VZMEFB/ZVN3aGp4bzJhWTcv/cy1sMjI1LmpwZw",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "Lomi Countertop Composter (Pela Lomi)",
+      "pros": [
+        "Countertop-friendly, multiple compost modes",
+        "Well-reviewed for ease of use"
+      ],
+      "cons": [
+        "Longer cycle times for some modes",
+        "Mixed user reports on noise and reliability"
+      ],
+      "price": null,
+      "amazon_id": "B0B3FSQTRS",
+      "sources": [
+        "https://lomi.com/blogs/news/should-you-buy-lomi",
+        "https://homecrux.com/pela-lomi-kitchen-compost/153799/",
+        "https://www.reviewopedia.com/lomi-compost-bin-reviews"
+      ],
+      "amazon_url": "https://www.amazon.com/Kitchen-Composter-Compost-Electric-Countertop/dp/B0B3FSQTRS",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/1DGfYQbSkp8WnhVjj4WR6IjiPi8o-uBjj1Q_ZlXnSx0/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9pMC53/cC5jb20vcmFuZGl3/aXRoYW5pLmNvbS93/cC1jb250ZW50L3Vw/bG9hZHMvMjAyMy8w/My9wZWxhX2xvbWlf/Y291bnRlcnRvcF9j/b21wb3N0ZXItc2Nh/bGVkLmpwZWc_cmVz/aXplPTEwMDAsNzUw/JnNzbD0x",
+      "resolver": "brave",
+      "valid": true
+    }
+  ],
+  "resolvedLinks": {
+    "https://www.vitamix.com/us/en_us/products/foodcycler-eco-5": {
+      "title": "FoodCycler by Vitamix Eco 5",
+      "description": "FoodCycler by Vitamix Eco 5",
+      "image": "https://www.vitamix.com/us/en_us/products/media_2b31d4eb1ca1b12a7afc6a0c697e75ba5ab7d64d.jpg",
+      "url": "https://www.vitamix.com/us/en_us/products/foodcycler-eco-5"
+    },
+    "https://foodcycler.com/products/eco-5": {
+      "title": "FoodCycler® Eco 5™",
+      "description": "It's time to say goodbye to household food waste! The Eco 5™ is your clean, convenient kitchen helper, able to reduce 5 litres of food waste by up to 90%, in hours. The powerful Vortech™ Grinding System can break down almost any food waste into a fine, dry by-product while the unit runs quietly a...",
+      "image": "http://foodcycler.com/cdn/shop/files/Eco_-_5_-_White.png?v=1770058166",
+      "url": "https://foodcycler.com/products/eco-5"
+    },
+    "https://www.reviewed.com/products/vitamix-foodcycler-eco-5": {
+      "title": "Vitamix Foodcycler Eco 5 - Reviewed",
+      "description": "",
+      "image": "",
+      "url": "https://www.reviewed.com/products/vitamix-foodcycler-eco-5"
+    },
+    "https://foodcycler.com/pages/warranty-policy": {
+      "title": "Warranty Policy | FoodCycler",
+      "description": "FoodCycler® FC-30™ and Bucket: Protected by a Standard Three-Year Manufacturer's Warranty from the date of product delivery, based on the shipment confirmation email, inclusive of all manufacturer's defects or product malfunctions not caused by user error (product uses and treatment beyond recommended product use as de",
+      "image": "http://foodcycler.com/cdn/shop/files/FC_-_Favicon_-_Spinach_Fennel.png?v=1731549738",
+      "url": "https://foodcycler.com/pages/warranty-policy"
+    },
+    "https://www.bobvila.com/reviews/best-countertop-compost-bins-2025/": {
+      "title": "The Best Countertop Compost Bins for Your Kitchen",
+      "description": "Find the best countertop compost bins to reduce food waste. Our top picks control odors and store scraps until you're ready to compost.",
+      "image": "https://www.bobvila.com/wp-content/uploads/2021/03/The-Best-Countertop-Compost-Bin-Options.jpg?w=1200",
+      "url": "https://www.bobvila.com/reviews/best-countertop-compost-bins-2025/"
+    },
+    "https://www.ireviews.com/review/foodcycler-fc-30/": {
+      "title": "FoodCycler FC-30 | iReviews",
+      "description": "If you’re looking for a compact, clever device that will make fast work of daily food waste, the Foodcycler FC-30 could be ideal for you and we strongly suggest you give it a try.",
+      "image": "https://www.ireviews.com/wp-content/uploads/2022/06/foodcycler-fc-30.png",
+      "url": "https://www.ireviews.com/review/foodcycler-fc-30"
+    },
+    "https://lomi.com/blogs/news/should-you-buy-lomi": {
+      "title": "Should You Buy Lomi? 11 Things To Consider Before Buying One",
+      "description": "Should you buy Lomi? Traditional composting is ideal for reducing waste, but isn't always an option. If you're in any of these situations, you should get Lomi.",
+      "image": "http://lomi.com/cdn/shop/articles/lomi_538da5e3-a64c-46d4-a150-fba98b8d351a.jpg?crop=center&height=630&v=1652666830&width=1200",
+      "url": "https://lomi.com/blogs/news/should-you-buy-lomi"
+    },
+    "https://homecrux.com/pela-lomi-kitchen-compost/153799/": {
+      "title": "Pela Lomi Turns Kitchen Waste Into Compost Within Just 24 Hours",
+      "description": "Pela Lomi is a kitchen compost that turns waste into compost in 24 hours. It's currently for pre-order on Indiegogo for offer price of $379.",
+      "image": "https://cdn.homecrux.com/wp-content/uploads/2021/05/Lomi_by_pela_4.jpg",
+      "url": "https://www.homecrux.com/pela-lomi-kitchen-compost/153799/"
+    }
+  }
+}

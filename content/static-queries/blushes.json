@@ -1,0 +1,101 @@
+{
+  "slug": "blushes",
+  "query": "best blushes",
+  "title": "Best blushes | Bin Diving",
+  "description": "AI-dug recommendations for best blushes. Compare options and find one that fits.",
+  "dugAt": "2026-03-18T18:12:55.104Z",
+  "recommendations": [
+    {
+      "product_name": "ILIA Multi-Stick",
+      "pros": [
+        "multi‑use (cheeks & lips)",
+        "creamy, blendable finish"
+      ],
+      "cons": [
+        "can be dewy for oily skin",
+        "limited shade depth for very deep tones"
+      ],
+      "price": "$36",
+      "amazon_id": "B00II3QMQM",
+      "sources": [
+        "https://www.allure.com/story/best-blushes-of-all-time",
+        "https://www.olebella.com/products/ilia-multi-stick-a-fine-romance"
+      ],
+      "amazon_url": "https://www.amazon.com/ILIA-Beauty-Tenderly-Womens-Multi-Stick/dp/B00II3QMQM",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/uzK6YfaQKcAf00Y1xtkUOv66wUuGyVFpFPDxY8yYtkY/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly90aGVm/cmVzaGJlYXV0eWNv/LmNvbS9jZG4vc2hv/cC9wcm9kdWN0cy9G/QkNwd3ctYy05OTE3/LWF0LWxhc3RfNjAw/eC5wbmc_dj0xNjcw/OTEyMTE1",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "Giorgio Armani Luminous Silk Cheek Tint",
+      "pros": [
+        "lightweight, long‑wearing liquid finish",
+        "buildable, natural luminous glow"
+      ],
+      "cons": [
+        "can be pricey",
+        "may have limited shimmer‑free shades"
+      ],
+      "price": "$40",
+      "amazon_id": "B0D6Q2SY81",
+      "sources": [
+        "https://www.allure.com/story/best-blushes-of-all-time",
+        "https://www.selfridges.com/US/en/product/giorgio-armani-luminous-silk-cheek-tint-18ml_R04464785/"
+      ],
+      "amazon_url": "https://www.amazon.com/Giorgio-Armani-Luminous-Cheek-Liquid/dp/B0D6Q2SY81",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/PHo1wxNtjDqIPvqNbIn5oBmJYvlIRN7WtvzIDPoA8dM/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly93d3cu/YXJtYW5pYmVhdXR5/LmNvLnVrL29uL2Rl/bWFuZHdhcmUuc3Rh/dGljLy0vU2l0ZXMt/Z2FjLWVtZWEtd2Vz/dC1MaWJyYXJ5L2Rl/ZmF1bHQvZHdmNTQx/YTJlOS9pbWFnZXMv/cGRwL3d3LTAwODUy/LWFybS93dy0wMDg1/Mi1hcm0tYmVuZWZp/dHMtaW1hZ2UtY292/ZXJfdjIuanBn",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "Kosas Blush is Life",
+      "pros": [
+        "dimensional baked powder with hydrating ingredients",
+        "natural, glow‑forward finish"
+      ],
+      "cons": [
+        "baked formulas can feel slightly drier to some",
+        "moderate shade range"
+      ],
+      "price": "$29",
+      "amazon_id": "B0D8XMZFG4",
+      "sources": [
+        "https://www.allure.com/story/best-powder-blushes",
+        "https://lucemakeup.com/product/kosas-blush/"
+      ],
+      "amazon_url": "https://www.amazon.com/Kosas-Blush-Life-Dimensional-Butterflies/dp/B0D8XMZFG4",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/n2kg8ruQNCSRMDKWK2G6CO-zk8tHt6CcECgf9-b8Fzs/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9tLm1l/ZGlhLWFtYXpvbi5j/b20vaW1hZ2VzL0kv/NDFFWFJ3dllZN0wu/anBn",
+      "resolver": "brave",
+      "valid": true
+    }
+  ],
+  "resolvedLinks": {
+    "https://www.allure.com/story/best-blushes-of-all-time": {
+      "title": "These Are the Blushes We Actually Hit Pan On",
+      "description": "The limit of a healthy glow does not exist.",
+      "image": "https://media.allure.com/photos/68a628a837f4a18f60ddc3ea/16:9/w_1280,c_limit/8.20_ALL_best-blushes.jpg",
+      "url": "https://www.allure.com/story/best-blushes-of-all-time"
+    },
+    "https://www.olebella.com/products/ilia-multi-stick-a-fine-romance": {
+      "title": "Luxury Beauty & Fragrance Store | Olebella",
+      "description": "Shop Olebella for high-end beauty and luxury skincare. Free shipping over $250.",
+      "image": "https://www.olebella.com/images/social-preview.jpg",
+      "url": "https://www.olebella.com/"
+    },
+    "https://www.allure.com/story/best-powder-blushes": {
+      "title": "Powder Blushes Have Never Been Better",
+      "description": "Our picks leave the competition in the dust.",
+      "image": "https://media.allure.com/photos/685ac7ee38b92e7fc1951d7f/16:9/w_1280,c_limit/6.24_ALL_powder-blushes.jpg",
+      "url": "https://www.allure.com/story/best-powder-blushes"
+    },
+    "https://lucemakeup.com/product/kosas-blush/": {
+      "title": "KOSAS BLUSH – LuceMakeUp",
+      "description": "",
+      "image": "",
+      "url": "https://lucemakeup.com/product/kosas-blush/"
+    }
+  }
+}

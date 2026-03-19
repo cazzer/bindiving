@@ -1,0 +1,125 @@
+{
+  "slug": "woks",
+  "query": "best woks",
+  "title": "Best woks | Bin Diving",
+  "description": "AI-dug recommendations for best woks. Compare options and find one that fits.",
+  "dugAt": "2026-03-18T16:58:14.800Z",
+  "recommendations": [
+    {
+      "product_name": "YOSUKATA 13.5\" Carbon Steel Wok (flat bottom)",
+      "pros": [
+        "Pre‑seasoned, ready to use",
+        "Flat bottom works on gas, electric and induction",
+        "Good value for performance"
+      ],
+      "cons": [
+        "Some reports of uneven factory seasoning",
+        "Wood handle can be awkward for tossing"
+      ],
+      "price": "$59.99",
+      "amazon_id": "B084DQYNNM",
+      "sources": [
+        "https://yosukata.com/catalogue/13-5-black-carbon-steel-wok-pre-seasoned/",
+        "https://www.rosenberryrooms.com/best-wok/",
+        "https://www.epicurious.com/expert-advice/the-best-wok-for-stir-frying-at-home-article"
+      ],
+      "amazon_url": "https://www.amazon.com/Pre-Seasoned-Carbon-Steel-Wok-Pan/dp/B084DQYNNM",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/vVtPFI6JZ9l9bNQuY4OYQuwalcF_2FhWsrxt3blLPeU/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9tLm1l/ZGlhLWFtYXpvbi5j/b20vaW1hZ2VzL1Mv/YXBsdXMtbWVkaWEt/bGlicmFyeS1zZXJ2/aWNlLW1lZGlhLzhj/MzIxMzYyLWQ5NGQt/NDY4YS04NTgwLTYx/ZGJmMTBjODRjNS5f/X0NSMCwwLDMwMCwz/MDBfUFQwX1NYMzAw/X1YxX19fLmpwZw",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "Made In 13\" / 12–13\" Carbon Steel Wok (Made In Cookware)",
+      "pros": [
+        "Premium build quality",
+        "Works on induction and high heat; oven safe",
+        "Professional-grade materials and finish"
+      ],
+      "cons": [
+        "Heavier and more expensive than budget woks",
+        "Some users find handle geometry less suited to tossing"
+      ],
+      "price": "$109",
+      "amazon_id": "B0DXHKKR3M",
+      "sources": [
+        "https://madeincookware.com/products/carbon-steel-wok/13-inch",
+        "https://shopping.yahoo.com/home/kitchen/article/best-woks-224416677.html",
+        "https://prudentreviews.com/wp-content/uploads/Best-Frying-Pan-Comparison-Chart_Prudent-Reviews.pdf"
+      ],
+      "amazon_url": "https://www.amazon.com/Made-Cookware-Professional-Induction-Compatible/dp/B0DXHKKR3M",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/kXMKP6eKsvmHJE0-rfNqN-IHk0I2Jr-1p1wHIB-RIRQ/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9pLmVi/YXlpbWcuY29tL2lt/YWdlcy9nL0prb0FB/T1N3b3I1bFFxRUQv/cy1sNTAwLmpwZw",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "Craft Wok Traditional Hand‑Hammered Carbon Steel Wok (14\")",
+      "pros": [
+        "Authentic hand‑hammered construction",
+        "Excellent heat retention and ‘wok hei’ performance",
+        "Longstanding, widely recommended model"
+      ],
+      "cons": [
+        "Requires seasoning and maintenance",
+        "Heavier; round/flat options vary by stovetop compatibility"
+      ],
+      "price": null,
+      "amazon_id": "B00PUZT9MU",
+      "sources": [
+        "https://craftwok.com/products/craft-wok-traditional-hand-hammered-carbon-steel-pow-wok",
+        "https://www.popularmechanics.com/home/food-drink/g38541439/best-woks/",
+        "https://cookwarelab.com/craft-wok-traditional-hand-hammered-carbon-steel-pow-wok/"
+      ],
+      "amazon_url": "https://www.amazon.com/Craft-Wok-Traditional-Hammered-731W88/dp/B00PUZT9MU",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/Ra7GE99572aXrFRoIzr8qfM-uWhYwZFqPXtjWbdeYAk/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9pLmVi/YXlpbWcuY29tL2lt/YWdlcy9nL1RFMEFB/T1N3T29WZWFmfmQv/cy1sNTAwLnBuZw",
+      "resolver": "brave",
+      "valid": true
+    }
+  ],
+  "resolvedLinks": {
+    "https://yosukata.com/catalogue/13-5-black-carbon-steel-wok-pre-seasoned/": {
+      "title": "YOSUKATA – Chefs’ Approved Natural Cookware – Woks & Pans",
+      "description": "",
+      "image": "https://yosukata.com/wp-content/themes/yosukata/img/share_img.jpg",
+      "url": "https://yosukata.com/catalogue/13-5-black-carbon-steel-wok-pre-seasoned/"
+    },
+    "https://www.epicurious.com/expert-advice/the-best-wok-for-stir-frying-at-home-article": {
+      "title": "The Best Wok for Stir-Frying at Home, Tested and Reviewed",
+      "description": "Plus steaming! And deep-frying! A good wok should do it all, so we tested seven top-rated models to find the very best.",
+      "image": "https://assets.epicurious.com/photos/6089de0738200348b598649f/16:9/w_1280,c_limit/WoksReview_HERO_030321_9554_VOG_final_Badge.jpg",
+      "url": "https://www.epicurious.com/expert-advice/the-best-wok-for-stir-frying-at-home-article"
+    },
+    "https://madeincookware.com/products/carbon-steel-wok/13-inch": {
+      "title": "Carbon Steel Wok",
+      "description": "Our Carbon Steel Wok makes achieving wok hei easy thanks to its versatile flat base and carbon steel construction that enables high heat and rapid movement.",
+      "image": "https://cdn.sanity.io/images/fr9flhkd/main/506efd081a38ca3c59b93caaced4fe1df489b06d-1500x1500.jpg?q=75&w=1200&h=630",
+      "url": "https://madeincookware.com/products/carbon-steel-wok/13-inch"
+    },
+    "https://shopping.yahoo.com/home/kitchen/article/best-woks-224416677.html": {
+      "title": "5 best woks for 2026, chef-recommended and tested",
+      "description": "Discover versatile, durable woks from Made In, Sur La Table, Yosukata and more for taking your cooking to the next level.",
+      "image": "https://s.yimg.com/ny/api/res/1.2/VWXnb3hExdo0MFrJuI_0NQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://s.yimg.com/os/creatr-uploaded-images/2026-01/4068f7a0-eece-11f0-bde3-fbfe20dfb8c0",
+      "url": "https://shopping.yahoo.com/home-garden/kitchen/article/best-woks-224416677.html"
+    },
+    "https://prudentreviews.com/wp-content/uploads/Best-Frying-Pan-Comparison-Chart_Prudent-Reviews.pdf": {
+      "title": "",
+      "description": "",
+      "image": "",
+      "url": "https://prudentreviews.com/wp-content/uploads/Best-Frying-Pan-Comparison-Chart_Prudent-Reviews.pdf"
+    },
+    "https://www.popularmechanics.com/home/food-drink/g38541439/best-woks/": {
+      "title": "A Wok Can Do Way More Than Just Stir-Fry",
+      "description": "This iconic round, high-sided skillet is an essential pan for every cook’s kitchen.",
+      "image": "https://hips.hearstapps.com/hmg-prod/images/pop-best-woks-1639682768.jpg?crop=1.00xw:1.00xh;0,0&resize=1200:*",
+      "url": "https://www.popularmechanics.com/home/food-drink/g38541439/best-woks/"
+    },
+    "https://cookwarelab.com/craft-wok-traditional-hand-hammered-carbon-steel-pow-wok/": {
+      "title": "Craft Wok Traditional Hand Hammered Carbon Steel Pow Wok: Ultimate Stir-Fry Tool - CookWareLab",
+      "description": "Discover the craft wok traditional hand hammered carbon steel pow wok. This wok brings authentic asian cooking to your kitchen. The craft wok traditional hand hammered carbon steel pow wok…",
+      "image": "https://cookwarelab.com/wp-content/uploads/2024/11/craft-wok-traditional-hand-hammered-carbon-steel-pow-wok.jpg",
+      "url": "https://cookwarelab.com/craft-wok-traditional-hand-hammered-carbon-steel-pow-wok/"
+    }
+  }
+}

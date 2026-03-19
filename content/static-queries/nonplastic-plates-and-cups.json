@@ -1,0 +1,100 @@
+{
+  "slug": "nonplastic-plates-and-cups",
+  "query": "best nonplastic plates and cups",
+  "title": "Best nonplastic plates and cups | Bin Diving",
+  "description": "AI-dug recommendations for best nonplastic plates and cups. Compare options and find one that fits.",
+  "dugAt": "2026-03-18T22:28:04.684Z",
+  "recommendations": [
+    {
+      "product_name": "Corelle Vitrelle 18-Piece Dinnerware Set (service for 6)",
+      "pros": [
+        "Lightweight and chip-resistant",
+        "Microwave & dishwasher safe"
+      ],
+      "cons": [
+        "Can chip if dropped hard",
+        "Not ceramic heft some prefer"
+      ],
+      "price": "$99.99",
+      "amazon_id": "B00R790CLY",
+      "sources": [
+        "https://corelle.com/products/corelle%C2%AE-bella-faenza-12-piece-dinnerware-set-service-for-4-copy",
+        "https://corelle.com/products/corelle%C2%AE-darlington-18-piece-dinnerware-set-service-for-6-copy"
+      ],
+      "amazon_url": "https://www.amazon.com/Corelle-Winter-Dinnerware-18-Piece-Service/dp/B00R790CLY",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/qWhGaC6kKrcIvejDc8P2sX0OumD94LXgg8ntM9XPpwY/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9pbWFn/ZXMtbmEuc3NsLWlt/YWdlcy1hbWF6b24u/Y29tL2ltYWdlcy9J/LzgxSnVpV04xeGtM/LmpwZw",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "Le Creuset Stoneware Mugs (set of 4) / Stoneware pieces",
+      "pros": [
+        "High-fired, non-porous stoneware",
+        "Durable, oven/microwave/dishwasher safe"
+      ],
+      "cons": [
+        "Heavier than glass; can chip if dropped",
+        "Higher price than mass-market options"
+      ],
+      "price": "$96.00",
+      "amazon_id": "B082LMR82R",
+      "sources": [
+        "https://www.lecreuset.com/san-francisco-mugs-set-of-4/ST00849-SF.html",
+        "https://www.lecreuset.com/mugs-set-of-4-1/ST00852.html"
+      ],
+      "amazon_url": "https://www.amazon.com/Creuset-PG90433A-0067-Stoneware-Mug-Cerise/dp/B082LMR82R",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/OawLyhv6yeBB9AMGdX3pJ4EftK_CQpNTK_sPcaZ1x2M/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9jZG4x/MS5iaWdjb21tZXJj/ZS5jb20vcy01OXhn/NDNjajNhL2ltYWdl/cy9zdGVuY2lsLzUw/MHg2NTkvcHJvZHVj/dHMvMTQ0NjkvMTY2/MTYvUlMxOTYzMF9S/UzE4OTYxX1BHOTA0/MzNBVC0wMDY1LU5f/Xzc4NDQxLjE2ODE0/MjA5NDAuanBnP2M9/MQ",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "YETI Rambler 20 oz Tumbler (stainless steel)",
+      "pros": [
+        "Heavy-duty stainless steel; excellent insulation",
+        "Dishwasher-safe and durable for outdoor use"
+      ],
+      "cons": [
+        "Heavier than single-use cups",
+        "Higher cost than basic tumblers"
+      ],
+      "price": null,
+      "amazon_id": "B083TK6FXF",
+      "sources": [
+        "https://www.yeti.com/drinkware/tumblers/rambler-20oz.html"
+      ],
+      "amazon_url": "https://www.amazon.com/YETI-Stainless-Insulated-MagSlider-Chartreuse/dp/B083TK6FXF",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/_RfE3pqgEZAwCZch6jqRfvBxgrXlH2VOTN0squwCtJg/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9ldS55/ZXRpLmNvbS9jZG4v/c2hvcC9maWxlcy9z/aXRlX3N0dWRpb19E/cmlua3dhcmVfUmFt/Ymxlcl8yMG96X1R1/bWJsZXJfQ2hhcmNv/YWxfRnJvbnRfNDEx/M19QcmltYXJ5X0Jf/MjQwMHgyNDAwXzFm/MmU0N2NhLTRjNjAt/NGNlMy05ODQwLTNk/ZTUwZTdhY2Y3Mi5w/bmc_dj0xNzE4NjEy/MDE3JndpZHRoPTE1/MDA",
+      "resolver": "brave",
+      "valid": true
+    }
+  ],
+  "resolvedLinks": {
+    "https://corelle.com/products/corelle%C2%AE-bella-faenza-12-piece-dinnerware-set-service-for-4-copy": {
+      "title": "Corelle® Bella Faenza 18-piece Dinnerware Set, Service for 6",
+      "description": "Corelle's Winter Frost White 18-piece dinnerware set with plates and bowls for 4. This crisp, bright and classic white dinnerware set is as versatile as it is timeless.",
+      "image": "http://corelle.com/cdn/shop/files/CO_1114999_18Pc_Vitrelle-Embossed-Bella-Faenza_ATF-No-Text_Square_Tile1_39955acc-f383-425e-9acd-80f4c01b432f.jpg?crop=center&height=1200&v=1744389031&width=1200",
+      "url": "https://corelle.com/products/corelle%c2%ae-bella-faenza-18-piece-dinnerware-set-service-for-4"
+    },
+    "https://www.lecreuset.com/san-francisco-mugs-set-of-4/ST00849-SF.html": {
+      "title": "",
+      "description": "",
+      "image": "",
+      "url": "https://www.lecreuset.com/san-francisco-mugs-set-of-4/ST00849-SF.html"
+    },
+    "https://www.lecreuset.com/mugs-set-of-4-1/ST00852.html": {
+      "title": "",
+      "description": "",
+      "image": "",
+      "url": "https://www.lecreuset.com/mugs-set-of-4-1/ST00852.html"
+    },
+    "https://www.yeti.com/drinkware/tumblers/rambler-20oz.html": {
+      "title": "YETI Rambler 20 oz Tumbler with MagSlider Lid",
+      "description": "Our YETI Rambler 20 oz Tumbler is dishwasher safe and is made of kitchen-grade stainless steel. Double-wall vacuum insulated, choose from many colors.",
+      "image": "https://yeti-webmedia.imgix.net/asset/bafbce93-fef5-46af-8b6f-6cf34ed23683/W/Site_Studio_Drinkware_Rambler_Tumbler_20oz_Venom_Front_4113_Layers_F_B_2400x2400.png?bg=0fff&auto=format,compress&w=846&h=846",
+      "url": "https://www.yeti.com/drinkware/tumblers/rambler-20oz.html"
+    }
+  }
+}

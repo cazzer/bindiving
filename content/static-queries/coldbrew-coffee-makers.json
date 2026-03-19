@@ -1,0 +1,131 @@
+{
+  "slug": "coldbrew-coffee-makers",
+  "query": "best cold‑brew coffee makers",
+  "title": "Best cold‑brew coffee makers | Bin Diving",
+  "description": "AI-dug recommendations for best cold‑brew coffee makers. Compare options and find one that fits.",
+  "dugAt": "2026-03-18T17:11:17.176Z",
+  "recommendations": [
+    {
+      "product_name": "Toddy Cold Brew System (Home)",
+      "pros": [
+        "Smooth, low-acidity concentrate",
+        "Large batch capacity",
+        "Durable glass decanter included"
+      ],
+      "cons": [
+        "Takes 12–24 hour steep time",
+        "Requires felt/paper filter maintenance"
+      ],
+      "price": null,
+      "amazon_id": "B0006H0JVW",
+      "sources": [
+        "https://toddycafe.com/products/toddy-cold-brew-system",
+        "https://toddycafe.com/product/glass-decanter-with-lid",
+        "https://flavor365.com/brew-brilliance-discover-the-best-cold-brew-makers-of-2025/"
+      ],
+      "amazon_url": "https://www.amazon.com/Toddy-THM-Cold-Brew-System/dp/B0006H0JVW",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/lYGSPCb6RpP6P0MwIA7obvFnQdw4qvtM-I0HKLH2r84/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9jaGli/ZWFuc2NlbmUuY29t/L2Nkbi9zaG9wL3By/b2R1Y3RzL2ltYWdl/anBnXzI2M2IwNzNi/LWVjMGYtNGU4Yy05/MGRmLTBlZmNkYWVm/MTYxYl84MDB4Lmpw/Zz92PTE1NTgyMzMz/ODU",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "OXO Good Grips Cold Brew Coffee Maker (32 oz)",
+      "pros": [
+        "Even water distribution “rainmaker” lid",
+        "Compact, easy-to-clean design",
+        "Reusable fine mesh filter option"
+      ],
+      "cons": [
+        "Can be slow to drain with fines",
+        "Replacement filters sometimes needed"
+      ],
+      "price": null,
+      "amazon_id": "B00JVSVM36",
+      "sources": [
+        "https://www.oxo.com/cold-brew-coffee-maker.html",
+        "https://bestreviews.com/kitchen/coffee/oxo-good-grips-32-ounce-cold-brew-coffee-maker",
+        "https://www.popularmechanics.com/home/g36727477/best-cold-brew-coffee-makers/"
+      ],
+      "amazon_url": "https://www.amazon.com/OXO-Grips-Coffee-ounces-Filters/dp/B00JVSVM36",
+      "gpt_azn": "B00JVSVM36",
+      "image_url": "https://imgs.search.brave.com/hI-cVW2RwFT3LqlokdmySwJxxLyNi5Ps5VHNuguqwtQ/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9zdGF0/aWMuc2xpY2tkZWFs/c2Nkbi5jb20vYXR0/YWNobWVudC8yLzkv/Ny83LzkvNy8wLzIv/MTIxMjg0OTcuYXR0/YWNo",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "Takeya Patented Deluxe Cold Brew Coffee Maker (2 qt)",
+      "pros": [
+        "Airtight, leak‑resistant lid for storage",
+        "BPA‑free Tritan pitcher, lightweight",
+        "Highly rated for value and ease of use"
+      ],
+      "cons": [
+        "Plastic (not glass) for some buyers",
+        "May require paper filter for very clean cup"
+      ],
+      "price": null,
+      "amazon_id": "B07C36HVWK",
+      "sources": [
+        "https://takeyausa.com/products/takeya-deluxe-cold-brew-coffee-maker",
+        "https://amzchart.com/amazon-industry-analysis/cold-brew-coffee-makers-17807784011",
+        "https://bamiela.com/takeya-patented-deluxe-cold-brew-coffee-maker-review-is-it-worth-the-hype/"
+      ],
+      "amazon_url": "https://www.amazon.com/Takeya-10311-Patented-Airtight-Dishwasher-Safe/dp/B07C36HVWK",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/Pscsu1voyECtwm82Ps2MxXA03YEf_Yz42nCdD81cW00/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9pNS53/YWxtYXJ0aW1hZ2Vz/LmNvbS9zZW8vVGFr/ZXlhLVBhdGVudGVk/LURlbHV4ZS1Db2xk/LUJyZXctQ29mZmVl/LU1ha2VyLXdpdGgt/R3JleS1MaWQtQWly/dGlnaHQtUGl0Y2hl/ci0yLVF1YXJ0LVN0/b25lX2I3NjM2NzM2/LTBhMGUtNGU1ZS1i/YTA2LWM2ODlmNjNk/OWNkOC4yODEyMDJl/YjIwNzg0NTliYzY1/OGNkYzZiMzlkNzkx/ZS5qcGVnP29kbkhl/aWdodD01ODAmb2Ru/V2lkdGg9NTgwJm9k/bkJnPUZGRkZGRg",
+      "resolver": "brave",
+      "valid": true
+    }
+  ],
+  "resolvedLinks": {
+    "https://toddycafe.com/products/toddy-cold-brew-system": {
+      "title": "Toddy® Home Cold Brew System | Toddy Cold Brew Coffee",
+      "description": "Unlock the delicious flavors of your favorite coffees and teas with the Toddy® Home Cold Brew System.",
+      "image": "https://toddycafe.com/images/items/toddy-home-cold-brew-system.png",
+      "url": "https://toddycafe.com/products/toddy-cold-brew-system"
+    },
+    "https://toddycafe.com/product/glass-decanter-with-lid": {
+      "title": "Glass Decanter with Lid | Toddy Cold Brew Coffee",
+      "description": "Crafted exclusively for the Toddy® Cold Brew System, the Glass Decanter with Lid is molded to include ribbing up the neck to provide better grip and additional strength.",
+      "image": "https://toddycafe.com/images/items/toddy-cold-brew-system-decanter-with-lid_x528.png",
+      "url": "https://toddycafe.com/product/glass-decanter-with-lid"
+    },
+    "https://flavor365.com/brew-brilliance-discover-the-best-cold-brew-makers-of-2025/": {
+      "title": "Brew Brilliance: Discover The Best Cold Brew Makers of 2026",
+      "description": "Unlock perfect homemade cold brew! Silas reviews the 4 best cold brew makers of 2026, offering tested insights, expert tips, and FAQs for a delicious, low-acid brew.",
+      "image": "https://i0.wp.com/eathealthy365.com/wp-content/uploads/best-cold-brew-makers-2026.webp?w=1280&h=720&crop=1&quality=60&ssl=1",
+      "url": "https://eathealthy365.com/brew-brilliance-discover-the-best-cold-brew-makers-of-2026/"
+    },
+    "https://bestreviews.com/kitchen/coffee/oxo-good-grips-32-ounce-cold-brew-coffee-maker": {
+      "title": "OXO Good Grips 32-Ounce Cold Brew Coffee Maker",
+      "description": "",
+      "image": "",
+      "url": "https://bestreviews.com/kitchen/coffee/oxo-good-grips-32-ounce-cold-brew-coffee-maker"
+    },
+    "https://www.popularmechanics.com/home/g36727477/best-cold-brew-coffee-makers/": {
+      "title": "Make Refreshing, Ice-Cold Coffee at Home With the Best Cold-Brew Makers",
+      "description": "Wake up to a rich, refreshing, and potent cup of joe.",
+      "image": "https://hips.hearstapps.com/hmg-prod/images/pop-cold-brew-coffee-makers-1656430757.jpg?crop=1.00xw:1.00xh;0,0&resize=1200:*",
+      "url": "https://www.popularmechanics.com/home/g36727477/best-cold-brew-coffee-makers/"
+    },
+    "https://takeyausa.com/products/takeya-deluxe-cold-brew-coffee-maker": {
+      "title": "Cold Brew Coffee Maker",
+      "description": "Make, serve and store cold brew coffee in our patented 1 QT. and 2 QT. Cold Brew Coffee Makers. Taste the difference of the cold brew process, and enjoy the naturally delicious and smooth flavors of coffee without the undesirable acidity. Our fine-mesh coffee filter keeps coffee grounds out of your coffee. Once brewed, the concentrated cold brew coffee can be kept fresh for up to two weeks in our airtight Cold Brew Coffee Maker and used for both hot and iced coffees.",
+      "image": "http://takeyausa.com/cdn/shop/products/10310-ColdBrewCoffeeMaker-1qt-filled.png?v=1660803795",
+      "url": "https://takeyausa.com/products/takeya-cold-brew-coffee-maker"
+    },
+    "https://amzchart.com/amazon-industry-analysis/cold-brew-coffee-makers-17807784011": {
+      "title": "Amazon \"Cold Brew Coffee Makers\" Industry Analysis Under \"Coffee Makers\" for Stores & Suppliers & Keywords | AmzChart",
+      "description": "",
+      "image": "",
+      "url": "https://amzchart.com/amazon-industry-analysis/cold-brew-coffee-makers-17807784011"
+    },
+    "https://bamiela.com/takeya-patented-deluxe-cold-brew-coffee-maker-review-is-it-worth-the-hype/": {
+      "title": "Takeya Patented Deluxe Cold Brew Coffee Maker Review: Is It Worth The Hype? - Bamiela",
+      "description": "I’m a huge coffee fan, but I’m also a big believer in simplicity. I’ve always struggled with finding a way to make cold brew coffee that wasn’t overly complicated or messy. Using a French press is great, but it’s a bit of a pain to clean, and I’m not a fan of the sediment at",
+      "image": "https://bamiela.com/wp-content/uploads/2024/10/cropped-BAMIELA-1.png",
+      "url": "https://bamiela.com/takeya-patented-deluxe-cold-brew-coffee-maker-review-is-it-worth-the-hype/"
+    }
+  }
+}

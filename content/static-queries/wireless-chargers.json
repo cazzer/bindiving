@@ -1,0 +1,128 @@
+{
+  "slug": "wireless-chargers",
+  "query": "best wireless chargers",
+  "title": "Best wireless chargers | Bin Diving",
+  "description": "AI-dug recommendations for best wireless chargers. Compare options and find one that fits.",
+  "dugAt": "2026-03-18T19:19:05.138Z",
+  "recommendations": [
+    {
+      "product_name": "Anker Prime 3-in-1 MagGo 25W Wireless Charging Station",
+      "pros": [
+        "Qi2 25W fast charging for compatible phones",
+        "Built-in active cooling (AirCool) to reduce throttling",
+        "Foldable, includes power adapter in box"
+      ],
+      "cons": [
+        "Some users report not always hitting full 25W in real-world use",
+        "Higher price vs basic chargers",
+        "Strong magnetic hold can be finicky with some cases"
+      ],
+      "price": null,
+      "amazon_id": "B0F9L1PPPJ",
+      "sources": [
+        "https://www.anker.com/products/a25n1-anker-prime-qi2-25w-foldable-3-in-1-wireless-charger",
+        "https://www.macworld.com/article/2996349/anker-prime-3-in-1-maggo-25w-wireless-charging-station-review.html",
+        "https://www.macrumors.com/2026/03/09/ankers-prime-chargers-2/"
+      ],
+      "amazon_url": "https://www.amazon.com/Anker-Compatible-Charging-Certified-Wireless/dp/B0F9L1PPPJ",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/xXsKotbbToKFVj6KjNHfaSSW_GtCc7bUuIF5oGgYmp0/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9tLm1l/ZGlhLWFtYXpvbi5j/b20vaW1hZ2VzL0kv/NTFIaGFkTm5jV0wu/anBn",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "Belkin BoostCharge Pro 3‑in‑1 Wireless Charger (Qi2/MagSafe variant)",
+      "pros": [
+        "Well-engineered MagSafe alignment and included power adapter on many bundles",
+        "Reliable multi-device (phone + Watch + earbuds) layout",
+        "Widely tested and recommended by reviewers"
+      ],
+      "cons": [
+        "Mixed user reports about long-term reliability and AirPods charging speeds",
+        "Some older versions are limited to 15W vs newer Qi2 updates",
+        "Bulkier and heavier than minimalist pads"
+      ],
+      "price": null,
+      "amazon_id": "B08MB1JGLW",
+      "sources": [
+        "https://www.macrumors.com/review/belkin-boost-charge-pro-magsafe/",
+        "https://www.techradar.com/phones/phone-accessories/best-wireless-chargers",
+        "https://9to5toys.com/2025/07/08/belkin-boostcharge-pro-15w-magsafe-charging-station-prime-day-low/"
+      ],
+      "amazon_url": "https://www.amazon.com/Belkin-BoostCharge-Wireless-Charger-Magnetically/dp/B08MB1JGLW",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/qAhATlMkhGjAt339RCYZxSgN_AFw8GQi3k4x-MZ88N8/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly93d3cu/YmVsa2luLmNvbS9k/dy9pbWFnZS92Mi9C/R0JIX1BSRC9vbi9k/ZW1hbmR3YXJlLnN0/YXRpYy8tL0xpYnJh/cnktU2l0ZXMtQmVs/a2luLVNoYXJlZC1M/aWJyYXJ5L2RlZmF1/bHQvZHdkZTk2MzQz/OC9pbWcvUERQL1dJ/WjAyOS9XSVowMjl0/dEJLL1dJWjAyOUJL/LTMtaW4tMS1tYWdu/ZXRpYy1mb2xkYWJs/ZS1jaGFyZ2VyLXdp/dGgtcWkyLWFtYXpv/bi1BKys2LXYwMy1y/MDEtMTIwMHg5MDAt/dXMuanBnP3N3PTc2/OCZzZnJtPWpwZyZx/PTk1",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "Nomad Stand One Max (Qi2 25W)",
+      "pros": [
+        "Premium metal/glass build and clean design",
+        "Qi2 25W support for faster wireless charging on compatible phones",
+        "Dedicated Apple Watch puck and Qi spot for earbuds"
+      ],
+      "cons": [
+        "Pricey compared with plastic alternatives",
+        "Some users report occasional compatibility/positioning quirks",
+        "Heavier and less travel-friendly"
+      ],
+      "price": null,
+      "amazon_id": "B0CX53XM1R",
+      "sources": [
+        "https://nomadgoods.com/products/stand-one-max-4th-gen-silver",
+        "https://www.macworld.com/article/2996336/nomad-stand-one-max-25w-wireless-charging-station-review.html",
+        "https://9to5mac.com/2024/08/21/nomad-qi2-stand-one-max/"
+      ],
+      "amazon_url": "https://www.amazon.com/Nomad-Stand-Magnetic-Charger-Non-Mfi/dp/B0CX53XM1R",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/rgD-54Kd4eCvcXryXnPrJGCQ9V7ON0cfKdLV-XADq3g/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9tZWRp/YS53aXJlZC5jb20v/cGhvdG9zLzY5NGFl/YTIxYWY1ZjFlODA2/ZDBkM2M1NC80OjMv/d182NDAsY19saW1p/dC9Ob21hZC1TdGFu/ZC1PbmUtUWkyLTI1/Vy1zaWRlLVJldmll/d2VyLVBob3RvLVNP/VVJDRS1KdWxpYW4t/Q2hva2thdHR1Lmpw/Zw",
+      "resolver": "brave",
+      "valid": true
+    }
+  ],
+  "resolvedLinks": {
+    "https://www.anker.com/products/a25n1-anker-prime-qi2-25w-foldable-3-in-1-wireless-charger": {
+      "title": "Anker Prime Wireless Charging Station (3-in-1, MagGo, AirCool, Foldable)",
+      "description": "25W Ultra-Fast MagSafe Charging: Delivers magnetic wireless power up to 25W using Qi2 technology. Charges iPhone 17 Pro to 50% in just 26 minutes—five time",
+      "image": "https://cdn.shopify.com/s/files/1/0493/9834/9974/files/B25N1J11_Rich_image_TD01_US_V1.png?v=1769675802",
+      "url": "https://www.anker.com/products/a25n1-anker-prime-qi2-25w-foldable-3-in-1-wireless-charger"
+    },
+    "https://www.macworld.com/article/2996349/anker-prime-3-in-1-maggo-25w-wireless-charging-station-review.html": {
+      "title": "Anker Prime 3-in-1: The fastest wireless charger we've ever tested",
+      "description": "Fastest yet, but still compact and quiet 3-in-1 magnetic wireless charging stand.",
+      "image": "https://www.macworld.com/wp-content/uploads/2025/12/Anker-Prime-3-in-1-Wireless-Charging-Station-iPhone-Watch.jpg?quality=50&strip=all&w=1024",
+      "url": "https://www.macworld.com/article/2996349/anker-prime-3-in-1-maggo-25w-wireless-charging-station-review.html"
+    },
+    "https://www.macrumors.com/review/belkin-boost-charge-pro-magsafe/": {
+      "title": "Review: Belkin's 3-in-1 Boost Charge Pro Offers Hassle-Free 15W MagSafe Charging for iPhone 12",
+      "description": "When Apple announced the iPhone 12 models with MagSafe charging capabilities, the first third-party MagSafe accessories were shown off during the announcement. Shortly after, Belkin officially introduced the Boost Charge Pro 3-in-1 Wireless Charger with MagSafe, which is the first official third-party MagSafe charging option.",
+      "image": "https://images.macrumors.com/t/rQK64dXTd9CMamTx0KGqGlNxPu0=/1800x/article-new/2020/10/belkin_magsafe_3_in_1_charger.jpg",
+      "url": "https://www.macrumors.com/review/belkin-boost-charge-pro-magsafe/"
+    },
+    "https://www.techradar.com/phones/phone-accessories/best-wireless-chargers": {
+      "title": "I've chosen the best wireless chargers for different needs, after testing nearly 30 from all budget levels",
+      "description": "From cheap wireless charging pads to elite 3-in-1 charging stations for Apple users",
+      "image": "https://cdn.mos.cms.futurecdn.net/jPwW6hZjvdmXiwxewnB2nn-1536-80.png",
+      "url": "https://www.techradar.com/phones/phone-accessories/best-wireless-chargers"
+    },
+    "https://9to5toys.com/2025/07/08/belkin-boostcharge-pro-15w-magsafe-charging-station-prime-day-low/": {
+      "title": "Belkin BoostCharge Pro Qi2 3-in-1 15W MagSafe charging station is ready for your desk/bedside table at $86 Prime Day low",
+      "description": "This offer has expired! Be sure to follow us on Twitter for the latest deals and more. Sign-up for our...",
+      "image": "https://i0.wp.com/9to5toys.com/wp-content/uploads/sites/5/2025/07/Belkin-3-in-1-BoostCharge-Qi2-charging-station.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "url": "https://9to5toys.com/2025/07/08/belkin-boostcharge-pro-15w-magsafe-charging-station-prime-day-low/"
+    },
+    "https://nomadgoods.com/products/stand-one-max-4th-gen-silver": {
+      "title": "Stand One Max - Silver | Qi2.2 | 4th Gen | NOMAD®",
+      "description": "Power all your essentials with Stand One Max (Silver) — a Qi 2.2 4th-gen 3-in-1 wireless charger delivering up to 25 W for MagSafe and Qi2 devices. Supp...",
+      "image": "https://cdn.shopify.com/s/files/1/0384/6721/files/856504015619_A_0c8fb290-eac5-4e74-abf2-2ae94f67bba5.jpg?v=1762973205&width=1280&height=630",
+      "url": "https://nomadgoods.com/products/stand-one-max-4th-gen-silver"
+    },
+    "https://www.macworld.com/article/2996336/nomad-stand-one-max-25w-wireless-charging-station-review.html": {
+      "title": "Tested: Nomad 25W Stand One & Max is solid, fast and very classy",
+      "description": "This solid yet fast wireless iPhone charger boasts Apple-like design notes.",
+      "image": "https://www.macworld.com/wp-content/uploads/2025/12/Nomad-Stand-One-and-Stand-One-Max_2.jpg?quality=50&strip=all&w=1024",
+      "url": "https://www.macworld.com/article/2996336/nomad-stand-one-max-25w-wireless-charging-station-review.html"
+    }
+  }
+}

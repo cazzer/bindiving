@@ -1,0 +1,115 @@
+{
+  "slug": "hair-dryers",
+  "query": "best hair dryers",
+  "title": "Best hair dryers | Bin Diving",
+  "description": "AI-dug recommendations for best hair dryers. Compare options and find one that fits.",
+  "dugAt": "2026-03-18T18:18:19.552Z",
+  "recommendations": [
+    {
+      "product_name": "Dyson Supersonic Hair Dryer (Origin/Nural series)",
+      "pros": [
+        "Fast drying with heat control",
+        "Designed to reduce heat damage"
+      ],
+      "cons": [
+        "High price",
+        "Requires regular filter cleaning"
+      ],
+      "price": null,
+      "amazon_id": "B0CYXJR9ZN",
+      "sources": [
+        "https://www.techradar.com/best/best-hair-dryer-5-hair-dryers-for-smooth-and-shiny-styles",
+        "https://www.forbes.com/sites/forbes-personal-shopper/2025/07/08/dyson-hair-dryer-sale/",
+        "https://shopping.yahoo.com/beauty/hair/article/the-best-dyson-hair-products-153849944.html"
+      ],
+      "amazon_url": "https://www.amazon.com/Dyson-Supersonic-NuralTM-hair-dryer/dp/B0CYXJR9ZN",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/trOQrx8L-TR8VSh1EKUN5o64_fy-Hsw03SDtt-IRMbY/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9pbWFn/ZXMtbmEuc3NsLWlt/YWdlcy1hbWF6b24u/Y29tL2ltYWdlcy9J/LzYxaHBqdG1WQlpM/LmpwZw",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "Revlon One-Step Hair Dryer and Volumizer Hot Air Brush",
+      "pros": [
+        "Combines drying and styling in one step",
+        "Very popular and affordable"
+      ],
+      "cons": [
+        "Can be bulky for some users",
+        "Not as precise as a separate dryer + brush"
+      ],
+      "price": null,
+      "amazon_id": "B096SVJZSW",
+      "sources": [
+        "https://www.womanandhome.com/beauty/hair/best-hair-dryer-brushes/",
+        "https://www.womanandhome.com/beauty/hair/best-hair-dryers-for-fine-hair/"
+      ],
+      "amazon_url": "https://www.amazon.com/REVLON-One-Step-Dryer-Volumizer-Brush/dp/B096SVJZSW",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/F5lQAufdkcxUSG6q4-i4RPWwFKk3IseXZB1RIAX1Ung/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly90YXJn/ZXQuc2NlbmU3LmNv/bS9pcy9pbWFnZS9U/YXJnZXQvR1VFU1Rf/NzUyODA1YjktN2Fk/NC00MzYyLTgzY2Et/OTAzZDI3OTY0ZTA4/P3dpZD04MDAmaGVp/PTgwMCZxbHQ9ODAm/Zm10PXBqcGVn",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "T3 AireLuxe / Cura Luxe Professional Hair Dryer",
+      "pros": [
+        "Salon-grade power with multiple heat/speed settings",
+        "Lightweight and ergonomic"
+      ],
+      "cons": [
+        "Still a premium price (less than Dyson for some models)",
+        "Some users prefer different airflow profiles"
+      ],
+      "price": null,
+      "amazon_id": "B0CRG8Q9X7",
+      "sources": [
+        "https://www.cnn.com/cnn-underscored/reviews/best-hair-dryers",
+        "https://www.allure.com/review/t3-cura-luxe-dryer-review",
+        "https://www.forbes.com/sites/forbes-personal-shopper/article/t3-aireluxe-hair-dryer-review/"
+      ],
+      "amazon_url": "https://www.amazon.com/T3-AireLuxe-Professional-Settings-Generator/dp/B0CRG8Q9X7",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/Hg39bSV4dk-JfBomDr01fI6UlU7a-LNlHTdLXpkGE04/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9pLmVi/YXlpbWcuY29tL2lt/YWdlcy9nL3hQUUFB/ZVN3OVFkcGktan4v/cy1sNDAwLndlYnA",
+      "resolver": "brave",
+      "valid": true
+    }
+  ],
+  "resolvedLinks": {
+    "https://www.techradar.com/best/best-hair-dryer-5-hair-dryers-for-smooth-and-shiny-styles": {
+      "title": "The best hair dryer 2025: expert tested and approved",
+      "description": "Browse the best hair dryers for any hair type and budget",
+      "image": "https://cdn.mos.cms.futurecdn.net/ncvr56vee56GzEBTRREDbj-1920-80.jpg",
+      "url": "https://www.techradar.com/best/best-hair-dryer-5-hair-dryers-for-smooth-and-shiny-styles"
+    },
+    "https://shopping.yahoo.com/beauty/hair/article/the-best-dyson-hair-products-153849944.html": {
+      "title": "The best Dyson hair products of 2026: Airwrap to Supersonic and beyond",
+      "description": "Consider this your ultimate guide to figuring out which of these tools you won't regret splurging on.",
+      "image": "https://s.yimg.com/ny/api/res/1.2/POO9HP1ERRrus19GUchVAA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://s.yimg.com/os/creatr-uploaded-images/2025-12/f32529e0-e695-11f0-bdff-292a330ef6ef",
+      "url": "https://shopping.yahoo.com/beauty/hair/article/the-best-dyson-hair-products-153849944.html"
+    },
+    "https://www.womanandhome.com/beauty/hair/best-hair-dryer-brushes/": {
+      "title": "The 8 best hot brushes for a salon-like blow dry at home - tested by our team of beauty editors",
+      "description": "Streamline your hair styling routine with these hot brushes that have earned our beauty team's seal of approval",
+      "image": "https://cdn.mos.cms.futurecdn.net/evLpX54mRmWaP3fxaymKhe-1920-80.jpg",
+      "url": "https://www.womanandhome.com/beauty/hair/best-hair-dryer-brushes/"
+    },
+    "https://www.womanandhome.com/beauty/hair/best-hair-dryers-for-fine-hair/": {
+      "title": "Our team has spoken - these are the 8 best hair dryers for fine hair that deliver gentle, volume-boosting styles",
+      "description": "After lots of testing, these are the dryers that promise fast, smooth and polished salon-worthy results for your fine strands",
+      "image": "https://cdn.mos.cms.futurecdn.net/cKmJmR6WtWFGJsfZyYKjxK-1920-80.jpg",
+      "url": "https://www.womanandhome.com/beauty/hair/best-hair-dryers-for-fine-hair/"
+    },
+    "https://www.cnn.com/cnn-underscored/reviews/best-hair-dryers": {
+      "title": "The best hair dryers for bouncy blowouts in 2026, tried and tested | CNN Underscored",
+      "description": "From sleek, high-tech devices to budget-friendly workhorses, we tested 10 hair dryers to find the ones that delivered a salon-worthy blowout.",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/lead-best-hair-dryer-badged2026-cnnu.jpg?c=16x9&q=w_800,c_fill",
+      "url": "https://www.cnn.com/cnn-underscored/reviews/best-hair-dryers"
+    },
+    "https://www.allure.com/review/t3-cura-luxe-dryer-review": {
+      "title": "Here's Why This $250 Hair Dryer Might Actually Be Worth the Price Tag",
+      "description": "I've never used a dryer like this.",
+      "image": "https://media.allure.com/photos/5b1e9ea81c468613507b5b69/16:9/w_1280,c_limit/t3-social.jpg",
+      "url": "https://www.allure.com/review/t3-cura-luxe-dryer-review"
+    }
+  }
+}

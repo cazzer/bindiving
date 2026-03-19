@@ -1,0 +1,131 @@
+{
+  "slug": "drones",
+  "query": "best drones",
+  "title": "Best drones | Bin Diving",
+  "description": "AI-dug recommendations for best drones. Compare options and find one that fits.",
+  "dugAt": "2026-03-18T18:45:12.500Z",
+  "recommendations": [
+    {
+      "product_name": "DJI Mini 4 Pro",
+      "pros": [
+        "Sub-250g portability",
+        "High-quality 1-inch sensor 6K video",
+        "Good obstacle sensing for its class"
+      ],
+      "cons": [
+        "Occasional stock/third‑party listing issues",
+        "Limited pro-level features vs flagship models"
+      ],
+      "price": null,
+      "amazon_id": "B0CFF1SJ3P",
+      "sources": [
+        "https://www.engadget.com/cameras/best-drone-120046775.html/",
+        "https://www.popularmechanics.com/technology/gadgets/g2983/the-best-drones-review/",
+        "https://www.forbes.com/sites/forbes-personal-shopper/article/best-drones/"
+      ],
+      "amazon_url": "https://www.amazon.com/DJI-Mini-Drone-Transmission-Distance-Omnidirectional/dp/B0CFF1SJ3P",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/Us9YnTdaqZ9LO9zPdj2tVlTKt068lLCw_7wcJ2Jjshk/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9jZG4u/bW9zLmNtcy5mdXR1/cmVjZG4ubmV0L2Ru/bVpxUWM1NEZkQno2/WE0yaE1iU24uanBn",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "DJI Mavic 4 Pro",
+      "pros": [
+        "Top-tier image quality (Hasselblad/100MP multi-camera system)",
+        "Long flight time and professional features",
+        "Strong obstacle avoidance and transmission range"
+      ],
+      "cons": [
+        "High price",
+        "Larger/heavier than sub-250g models"
+      ],
+      "price": null,
+      "amazon_id": "B0DS2HDF1M",
+      "sources": [
+        "https://www.tomsguide.com/cameras-photography/drones/dji-mavic-4-pro-review",
+        "https://www.t3.com/features/best-drone",
+        "https://dronexl.co/2026/01/14/dji-mavic-4-pro-amazon-discount-buying-guide/"
+      ],
+      "amazon_url": "https://www.amazon.com/DJI-Tri-Camera-Hasselblad-Professionals-Transmission/dp/B0DS2HDF1M",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/gcWsy3xDzeV9fwzXYr68yxQrXC67REskmU4wyWynes0/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9iMjQ4/MDI0Ny5zbXVzaGNk/bi5jb20vMjQ4MDI0/Ny93cC1jb250ZW50/L3VwbG9hZHMvMjAy/NS8wOC9tYXZpYy1w/cm8tZGV2aWNlLWp2/bnBob3RvLTE5Lmpw/ZWc_bG9zc3k9MSZz/dHJpcD0xJmF2aWY9/MQ",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "Autel EVO II Pro (EVO II Pro V3 family)",
+      "pros": [
+        "Excellent 6K/Pro-level camera options",
+        "Robust flight performance and no-geofencing options on some SKUs",
+        "Favored by pros needing alternatives to DJI"
+      ],
+      "cons": [
+        "Larger and pricier than consumer minis",
+        "Mixed user support experiences reported"
+      ],
+      "price": null,
+      "amazon_id": "B0DGL5SX8N",
+      "sources": [
+        "https://the-tech-vortex.com/2025/06/13/the-autel-evo-ii-pro-review/",
+        "https://aerotimelapse.com/best-drones-for-photography-2026/",
+        "https://www.dronesxlex.com/pages/https-www-dronesxlex-com-complete-drone-buyers-guide-2025"
+      ],
+      "amazon_url": "https://www.amazon.com/Autel-Centimeter-Level-Positioning-Transmission-Photogrammetry/dp/B0DGL5SX8N",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/jaZNwewXIJyaLgk6BJMo6L35H3DedjkQJ8luHMLX1-Y/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly93d3cu/bWF2ZXJpY2tkcm9u/ZS5jb20vY2RuL3No/b3AvZmlsZXMvSU1H/XzE5NDUuanBnP3Y9/MTczNjc4NjgxMSZ3/aWR0aD03MjA",
+      "resolver": "brave",
+      "valid": true
+    }
+  ],
+  "resolvedLinks": {
+    "https://www.engadget.com/cameras/best-drone-120046775.html/": {
+      "title": "The best drone for 2026",
+      "description": "DJI still dominates, but HoverAir and Autel have some interesting alternatives.",
+      "image": "https://s.yimg.com/ny/api/res/1.2/0alLPw89DGPd7EeetossIQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03MjA-/https://s.yimg.com/os/creatr-uploaded-images/2026-02/389cb540-006f-11f1-91df-61a985e29b1a",
+      "url": "https://www.engadget.com/cameras/best-drone-120046775.html"
+    },
+    "https://www.popularmechanics.com/technology/gadgets/g2983/the-best-drones-review/": {
+      "title": "The 6 Best Drones For Filmmaking and Flying, Whether You're a Beginner or a Pro",
+      "description": "Take to the skies with our recommendations.",
+      "image": "https://hips.hearstapps.com/hmg-prod/images/potensic-atom-se-gps-drone-087-6877aeb5a6ca7.jpg?crop=0.881xw:0.660xh;0.0620xw,0.147xh&resize=1200:*",
+      "url": "https://www.popularmechanics.com/technology/gadgets/g2983/the-best-drones-review/"
+    },
+    "https://www.tomsguide.com/cameras-photography/drones/dji-mavic-4-pro-review": {
+      "title": "DJI Mavic 4 Pro review: A Hasselblad with wings",
+      "description": "The most powerful consumer drone yet",
+      "image": "https://cdn.mos.cms.futurecdn.net/5w6ydWcUfvYT73Kus96QhN-2520-80.jpg",
+      "url": "https://www.tomsguide.com/cameras-photography/drones/dji-mavic-4-pro-review"
+    },
+    "https://www.t3.com/features/best-drone": {
+      "title": "I tested the best drones, and these are the 6 I'd recommend in 2026",
+      "description": "Take to the skies with the best drones, offering stunning aerial photography, intuitive controls, and cutting-edge features for beginners and pros alike",
+      "image": "https://cdn.mos.cms.futurecdn.net/CrGp7jHxi2H7pPqTv9qVAR.gif",
+      "url": "https://www.t3.com/features/best-drone"
+    },
+    "https://dronexl.co/2026/01/14/dji-mavic-4-pro-amazon-discount-buying-guide/": {
+      "title": "DJI Mavic 4 Pro Hits Amazon With Up To 19% Discounts: Your Complete Buying Guide",
+      "description": "DJI Mavic 4 Pro now available on Amazon with Prime shipping and up to 19% off. Three packages from $2,199. Stock limited after FCC Covered List expansion.",
+      "image": "https://dronexl.co/wp-content/uploads/2025/05/DJI-Mavic-4-Pro-Review-This-Camera-Drone-Changes-EVERYTHING-0013.jpg",
+      "url": "https://dronexl.co/2026/01/14/dji-mavic-4-pro-amazon-discount-buying-guide/"
+    },
+    "https://the-tech-vortex.com/2025/06/13/the-autel-evo-ii-pro-review/": {
+      "title": "Private SiteWordPress.com",
+      "description": "",
+      "image": "",
+      "url": "https://thetechvortex.wordpress.com/2025/06/13/the-autel-evo-ii-pro-review/"
+    },
+    "https://aerotimelapse.com/best-drones-for-photography-2026/": {
+      "title": "Best Drones for Photography 2026 | Full Buyer’s Guide",
+      "description": "Discover the best drones for photography in 2026. Expert reviews, comparisons, and tips to pick the perfect model for your need.",
+      "image": "https://aerotimelapse.com/wp-content/uploads/2025/12/Hero-Image-1024x575.jpg",
+      "url": "https://aerotimelapse.com/best-drones-for-photography-2026/"
+    },
+    "https://www.dronesxlex.com/pages/https-www-dronesxlex-com-complete-drone-buyers-guide-2025": {
+      "title": "",
+      "description": "",
+      "image": "",
+      "url": "https://www.dronesxlex.com/pages/https-www-dronesxlex-com-complete-drone-buyers-guide-2025"
+    }
+  }
+}

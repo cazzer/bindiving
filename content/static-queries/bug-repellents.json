@@ -1,0 +1,111 @@
+{
+  "slug": "bug-repellents",
+  "query": "best bug repellents",
+  "title": "Best bug repellents | Bin Diving",
+  "description": "AI-dug recommendations for best bug repellents. Compare options and find one that fits.",
+  "dugAt": "2026-03-18T18:21:35.407Z",
+  "recommendations": [
+    {
+      "product_name": "Sawyer 20% Picaridin Insect Repellent (spray)",
+      "pros": [
+        "Long-lasting protection",
+        "Less skin irritation than DEET",
+        "Effective vs mosquitoes and ticks"
+      ],
+      "cons": [
+        "Not fully waterproof",
+        "Can feel slightly oily on some formulations"
+      ],
+      "price": null,
+      "amazon_id": "B0DW3RS3L3",
+      "sources": [
+        "https://www.sfgate.com/shopping/article/best-insect-repellents-20298956.php",
+        "https://www.wired.com/story/best-bug-sprays/",
+        "https://mosquitoreviews.com/mosquito-repellents/sprays"
+      ],
+      "amazon_url": "https://www.amazon.com/Sawyer-Products-Premium-Insect-Repellent/dp/B0DW3RS3L3",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/3w9_q6MSPQt41tOX_UsAteQVRZo29oTK2KFc8lGNHPc/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9hbnRp/Z3Jhdml0eWdlYXIu/Y29tL3dwLWNvbnRl/bnQvdXBsb2Fkcy8y/MDE2LzEyL1BpY2Fy/ZGluLTIwLXNwcmF5/LTRvei5wbmc",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "Cutter Backwoods Dry Insect Repellent (DEET)",
+      "pros": [
+        "Strong, proven protection against mosquitoes and ticks",
+        "Dry-feel formula reduces greasy residue",
+        "Recommended for heavy-bug areas"
+      ],
+      "cons": [
+        "Contains DEET (may bother some users)",
+        "Some formulations have strong odor"
+      ],
+      "price": null,
+      "amazon_id": "B00FQGS8HU",
+      "sources": [
+        "https://amp.cnn.com/cnn/cnn-underscored/reviews/best-bug-sprays",
+        "https://www.livestrong.com/article/13732257-best-mosquito-repellent/"
+      ],
+      "amazon_url": "https://www.amazon.com/Cutter-Backwoods-Repellent-Aerosol-4-ounce/dp/B00FQGS8HU",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/acZ7a664QfYV0WHBJEciMdv4eATVPkr7ETOILch00D8/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9pbWFn/ZXMub3JnaWxsLmNv/bS93ZWJsYXJnZS8x/MDAxOC83MzQ4NjAw/LWFsdDIuanBn",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "Cutter Lemon Eucalyptus Insect Repellent (oil of lemon eucalyptus)",
+      "pros": [
+        "Plant-based active ingredient (effective)",
+        "Good balance of protection and skin feel",
+        "EPA/CDC-recognized option"
+      ],
+      "cons": [
+        "Shorter duration vs high-concentration DEET/picaridin",
+        "Not suitable for children under 3 years"
+      ],
+      "price": null,
+      "amazon_id": "B00860Y3DQ",
+      "sources": [
+        "https://www.livestrong.com/article/13732257-best-mosquito-repellent/",
+        "https://www.wired.com/story/best-bug-sprays/"
+      ],
+      "amazon_url": "https://www.amazon.com/Cutter-Eucalyptus-Insect-Repellent-HG-96014/dp/B00860Y3DQ",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/4xy5hT7gooyLQ3_-bDa_cw2QSkq5irGny1Arksyy3E0/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9hcnRp/Y2xlLmltYWdlcy5j/b25zdW1lcnJlcG9y/dHMub3JnL2ltYWdl/L3VwbG9hZC93XzY1/MixmX2F1dG8scV9h/dXRvLGFyXzE2Ojks/Y19sZmlsbC92MTY1/NjM1MDA1NC9wcm9k/L2NvbnRlbnQvZGFt/L0NSTy1JbWFnZXMt/MjAyMi9IZWFsdGgv/MDZKdW5lL0NSLUhl/YWx0aC1JbmxpbmVI/ZXJvLVdoYXQtaXMt/dGhlLURlYWwtd2l0/aC1PaWwtb2YtTGVt/b24tRXVjYWx5cHR1/cy0wNi0yMg",
+      "resolver": "brave",
+      "valid": true
+    }
+  ],
+  "resolvedLinks": {
+    "https://www.sfgate.com/shopping/article/best-insect-repellents-20298956.php": {
+      "title": "The best insect repellents to keep bugs out of your business",
+      "description": "Best insect repellents for people who constantly get bitten—top mosquito sprays, DEET-free options, and long-lasting bug protection that works.",
+      "image": "https://s.hdnux.com/photos/01/50/45/63/27417826/3/rawImage.jpg",
+      "url": "https://www.sfgate.com/shopping/article/best-insect-repellents-20298956.php"
+    },
+    "https://www.wired.com/story/best-bug-sprays/": {
+      "title": "The Best Bug Sprays to Keep Bites at Bay",
+      "description": "Our writer tried some of the most popular insect repellents during runs, hikes, and evenings. These are the ones we recommend.",
+      "image": "https://media.wired.com/photos/682cf3cfad080eaa606616c4/191:100/w_1280,c_limit/Update--Best-Bug-Sprays-.png",
+      "url": "https://www.wired.com/story/best-bug-sprays/"
+    },
+    "https://mosquitoreviews.com/mosquito-repellents/sprays": {
+      "title": "THE BEST Mosquito Repellent Spray for 2026 [18 Tested]",
+      "description": "We tested the top insect repellents with powerful active ingredients & essential oils to protect yourself from mosquito bites & diseases like Zika virus.",
+      "image": "",
+      "url": "https://mosquitoreviews.com/mosquito-repellents/sprays/"
+    },
+    "https://amp.cnn.com/cnn/cnn-underscored/reviews/best-bug-sprays": {
+      "title": "The best bug sprays in 2026, tried and tested | CNN Underscored",
+      "description": "We tested 13 of the best bug sprays and found three quality options that are both safe and effective to use.",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/best-bug-sprays-ccnu-2026-badged.jpg?c=16x9&q=w_800,c_fill",
+      "url": "https://www.cnn.com/cnn-underscored/reviews/best-bug-sprays"
+    },
+    "https://www.livestrong.com/article/13732257-best-mosquito-repellent/": {
+      "title": "7 Natural Ways to Prevent Mosquito Bites Without Chemicals",
+      "description": "Mosquito bites don't just itch — they can also make you sick. Zap these pesky bumps with these holistic remedies.",
+      "image": "https://images.everydayhealth.com/images/2025/natural-ways-prevent-mosquito-bites-1440x810.jpg?sfvrsn=ba8d48a7_3",
+      "url": "https://www.everydayhealth.com/skin-and-beauty/natural-ways-to-prevent-mosquito-bites.aspx"
+    }
+  }
+}

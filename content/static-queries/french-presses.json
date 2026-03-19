@@ -1,0 +1,125 @@
+{
+  "slug": "french-presses",
+  "query": "best french presses",
+  "title": "Best french presses | Bin Diving",
+  "description": "AI-dug recommendations for best french presses. Compare options and find one that fits.",
+  "dugAt": "2026-03-18T17:13:35.532Z",
+  "recommendations": [
+    {
+      "product_name": "Espro P7 French Press (32 oz)",
+      "pros": [
+        "Double micro‑filter for minimal sediment",
+        "Double‑walled stainless steel keeps heat",
+        "Highly rated in recent expert tests"
+      ],
+      "cons": [
+        "Higher price than standard presses",
+        "Replacement filters can be pricier"
+      ],
+      "price": "$149 (approx.)",
+      "amazon_id": "B011WTMH4O",
+      "sources": [
+        "https://www.foodnetwork.com/how-to/packages/shopping/product-reviews/best-french-presses",
+        "https://www.homesandgardens.com/buying-guides/best-non-toxic-coffee-makers",
+        "https://www.tomsguide.com/home/espro-p7-french-press-review"
+      ],
+      "amazon_url": "https://www.amazon.com/Espro-Coffee-Insulated-Polished-Stainless/dp/B011WTMH4O",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/kgFDrQPL9iUTn5kcPmTWFzOE-XpFrnB6aCRZvZDey00/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9pNS53/YWxtYXJ0aW1hZ2Vz/LmNvbS9zZW8vRVNQ/Uk8tUDctMzItT3ot/RnJlbmNoLVByZXNz/LUNvZmZlZS1NYWtl/ci1Qb2xpc2hlZF82/NmI3YzA1NC0zNThi/LTRjZDktODdkNC0x/N2U2MjM2MWZiY2Yu/MTc3NmI4NWU3ZGY4/ODM0NWYwZTIwNGM5/YjM5NzkwZGMuanBl/Zz9vZG5IZWlnaHQ9/NjQwJm9kbldpZHRo/PTY0MCZvZG5CZz1G/RkZGRkY",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "Bodum Chambord French Press (34 oz)",
+      "pros": [
+        "Classic, iconic design",
+        "Affordably priced and widely available",
+        "Easy to clean, dishwasher‑safe parts"
+      ],
+      "cons": [
+        "Glass carafe is breakable",
+        "Some users report more sediment than premium multi‑filter models"
+      ],
+      "price": "$40 (approx.)",
+      "amazon_id": "B00008XEWG",
+      "sources": [
+        "https://www.wired.com/gallery/best-french-press/",
+        "https://best2buy.reviews/bodum-chambord-french-press-coffee-maker-1l-34oz-chrome-finish-idc9n3",
+        "https://www.wired.com/gallery/best-french-press-for-morning-brew/"
+      ],
+      "amazon_url": "https://www.amazon.com/Bodum-Chambord-French-Coffee-Chrome/dp/B00008XEWG",
+      "gpt_azn": "B00008XEWG",
+      "image_url": "https://imgs.search.brave.com/2RtHOOoLbyNQ5_3ECEwUUwiyFU8WIZaz5rrJYlZzVX4/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9vem9j/b2ZmZWUuY29tL2Nk/bi9zaG9wL2ZpbGVz/L2JvZHVtLTM0LnBu/Zz92PTE3NDA1NTMz/NDAmd2lkdGg9MTk0/Ng",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "Frieling Double‑Walled Stainless Steel French Press",
+      "pros": [
+        "Durable double‑wall stainless construction",
+        "Patented dual/screens for reduced grit",
+        "Keeps coffee hot longer than glass models"
+      ],
+      "cons": [
+        "More expensive than basic presses",
+        "Heavier and bulkier than glass/plastic options"
+      ],
+      "price": "$115–$160 (varies by size)",
+      "amazon_id": "B00009ADDR",
+      "sources": [
+        "https://www.cookshopplus.com/1986-12559/FRENCH-PRESS/TOOLS_COFFEE--TEA_FRENCH-PRESS/Frieling-36-oz-Double-Wall-Stainless-Steel-French-Press-.aspx",
+        "https://www.webstaurantstore.com/frieling-usa-26-oz-polished-stainless-steel-double-wall-commercial-french-press-0183-case/5480183.html",
+        "https://www.wired.com/gallery/best-french-press/"
+      ],
+      "amazon_url": "https://www.amazon.com/Frieling-Stainless-Patented-Polished-23-Ounce/dp/B00009ADDR",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/ARZkh3aQdk_ud31C_3qlEobimSjFTGgDwKGgf86vW6Q/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly93d3cu/c2VyaW91c2VhdHMu/Y29tL3RobWIvUkY1/dGZBSkRSWVhldks0/MmtsT0xDT3EySkVn/PS9maXQtaW4vMTUw/MHgyNjY3L2ZpbHRl/cnM6bm9fdXBzY2Fs/ZSgpOm1heF9ieXRl/cygxNTAwMDApOnN0/cmlwX2ljYygpOmZv/cm1hdCh3ZWJwKS9z/ZWEtdGllci0zLWZy/aWVsaW5nLWRvdWJs/ZS13YWxsZWQtZnJl/bmNoLXByZXNzLWFo/dWFuZy0wNTctMjVj/NTY2ZjI4MzVmNDFl/MmFhZTI2MmI2M2Qx/YWYyYTYuanBlZw",
+      "resolver": "brave",
+      "valid": true
+    }
+  ],
+  "resolvedLinks": {
+    "https://www.foodnetwork.com/how-to/packages/shopping/product-reviews/best-french-presses": {
+      "title": "8 Best French Presses of 2026, Tested and Reviewed",
+      "description": "We tested 13 top-rated glass, stainless and insulated French presses to determine which brewed the richest, smoothest pot of coffee.",
+      "image": "https://food.fnr.sndimg.com/content/dam/images/food/fullset/2024/08/12/Original_Taylor-Murray_French-Press-Test_Pouring.jpg.rend.hgtvcom.616.411.85.suffix/1723493994260.webp",
+      "url": "https://www.foodnetwork.com/how-to/packages/shopping/product-reviews/best-french-presses"
+    },
+    "https://www.homesandgardens.com/buying-guides/best-non-toxic-coffee-makers": {
+      "title": "The 9 Best Non-Toxic Coffee Makers in 2026 – For a Cleaner, Health-Conscious Kitchen",
+      "description": "BPA and PFAS free, for a healthier morning routine and great tasting coffee",
+      "image": "https://cdn.mos.cms.futurecdn.net/oXRQ3hnnWxN8PRkfipJocY-1600-80.jpg",
+      "url": "https://www.homesandgardens.com/buying-guides/best-non-toxic-coffee-makers"
+    },
+    "https://www.tomsguide.com/home/espro-p7-french-press-review": {
+      "title": "Espro P7 French press review: And to think I used to be a French press hater",
+      "description": "O’ French press, how I grovel to thee",
+      "image": "https://cdn.mos.cms.futurecdn.net/fESL8Krnu9CUNH3V97mUWT-2520-80.jpg",
+      "url": "https://www.tomsguide.com/home/espro-p7-french-press-review"
+    },
+    "https://www.wired.com/gallery/best-french-press/": {
+      "title": "The Best French Presses for a Full-Bodied Cup",
+      "description": "The humble French press is affordable, effective, and hard to mess up. Here are our favorites to make your morning cup of coffee.",
+      "image": "https://media.wired.com/photos/685f7ae3da7e3e9cf68b142d/191:100/w_1280,c_limit/The%20Best%20French%20Presses%20for%20Low-Stress%20Morning%20Brew.png",
+      "url": "https://www.wired.com/gallery/best-french-press-for-morning-brew/"
+    },
+    "https://best2buy.reviews/bodum-chambord-french-press-coffee-maker-1l-34oz-chrome-finish-idc9n3": {
+      "title": "Bodum Chambord French Press Coffee Maker - 1L, 34oz, Chrome Finish",
+      "description": "If you're looking for the perfect way to brew the best cup of coffee, then the Bodum 1928-16US4 Chambord French Press Coffee Maker is the ideal choice....",
+      "image": "https://m.media-amazon.com/images/I/31yLys5-G5L._SL500_.jpg",
+      "url": "https://best2buy.reviews/bodum-chambord-french-press-coffee-maker-1l-34oz-chrome-finish-idc9n3"
+    },
+    "https://www.wired.com/gallery/best-french-press-for-morning-brew/": {
+      "title": "The Best French Presses for a Full-Bodied Cup",
+      "description": "The humble French press is affordable, effective, and hard to mess up. Here are our favorites to make your morning cup of coffee.",
+      "image": "https://media.wired.com/photos/685f7ae3da7e3e9cf68b142d/191:100/w_1280,c_limit/The%20Best%20French%20Presses%20for%20Low-Stress%20Morning%20Brew.png",
+      "url": "https://www.wired.com/gallery/best-french-press-for-morning-brew/"
+    },
+    "https://www.webstaurantstore.com/frieling-usa-26-oz-polished-stainless-steel-double-wall-commercial-french-press-0183-case/5480183.html": {
+      "title": "Frieling USA 26 oz. Polished Stainless Steel Double Wall Commercial French Press 0183 - 2/Case",
+      "description": "Create deliciously smooth coffee for your guests with this Frieling USA 26 oz. polished stainless steel double wall commercial French press! Ideal for hotels, restaurants, cafes, and bistros, this French press helps deliver a memorable beverage experience for your guests. Constructed from 100% stainless steel, it's built for long-lasting use and designed to withstand the demands of daily service. The elegant polished finish adds a touch of sophistication, enhancing the ambiance of any operation.<br><br> This French press features a double-walled insulated body that retains heat 4 times longer than glass, keeping your coffee hot during service. The two-screen filter keeps sediment and grounds out of your brew, producing a smooth, rich cup that delights the senses. Plus, the no-drip spout allows for easy pouring, preventing drips and messes, while the lid with convenient top knob further adds functional ease. Elevate your beverage service with steaming, aromatic coffee with this Frieling USA French press. <br><br><b><u>Overall Dimensions: </b></u><br> Length: 6\" <br> Width: 4\"<br> Height: 8\" <br> Capacity: 26 oz.",
+      "image": "https://www.webstaurantstore.com/images/products/extra_large/874310/3055543.jpg",
+      "url": "https://www.webstaurantstore.com/frieling-usa-26-oz-polished-stainless-steel-double-wall-commercial-french-press-0183-case/5480183.html"
+    }
+  }
+}

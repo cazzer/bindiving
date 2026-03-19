@@ -1,0 +1,119 @@
+{
+  "slug": "mens-boots",
+  "query": "best men’s boots",
+  "title": "Best men’s boots | Bin Diving",
+  "description": "AI-dug recommendations for best men’s boots. Compare options and find one that fits.",
+  "dugAt": "2026-03-18T22:54:00.111Z",
+  "recommendations": [
+    {
+      "product_name": "Red Wing Iron Ranger Men's 6-Inch Boot",
+      "pros": [
+        "Durable full-grain leather",
+        "Iconic heritage styling",
+        "Long-lasting construction"
+      ],
+      "cons": [
+        "Lengthy break-in period",
+        "Premium price",
+        "Limited availability in some sizes"
+      ],
+      "price": "$284.95",
+      "amazon_id": "B0032UYNKI",
+      "sources": [
+        "https://redwingshoes.com/heritage/mens/iron-ranger/",
+        "https://www.themanual.com/deals/red-wing-iron-ranger-sale/"
+      ],
+      "amazon_url": "https://www.amazon.com/Red-Wing-Mens-Iron-Ranger/dp/B0032UYNKI",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/lgHqURJzKZKMC8O_fmMSKXlu4KTbItJYssx26uXMjYs/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9oaWxp/bmVzcG9ydC5jb20v/Y2RuL3Nob3AvcHJv/ZHVjdHMvcmVkLXdp/bmctbWVucy1pcm9u/LXJhbmdlci02LWlu/Y2gtbGVhdGhlci10/b2UtY2FwLWJvb3Qt/OTMxMjA5LmpwZz9j/cm9wPWNlbnRlciZo/ZWlnaHQ9MTMwMCZ2/PTE3MDYxNjA2NDIm/d2lkdGg9MjAwMA",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "Timberland Men's 6-Inch Premium Waterproof Boot",
+      "pros": [
+        "Waterproof construction",
+        "Padded collar for comfort",
+        "Classic, versatile look"
+      ],
+      "cons": [
+        "Can be pricey",
+        "Some users report sizing differences",
+        "Not the lightest option"
+      ],
+      "price": "$275.00",
+      "amazon_id": "B001AQVMDM",
+      "sources": [
+        "https://www.timberland.com/en-us/p/men/footwear-10039/mens-timberland-premium-6-inch-waterproof-boot-TB172066EBL",
+        "https://www.goodmorningamerica.com/shop/story/best-mens-boots-126595443"
+      ],
+      "amazon_url": "https://www.amazon.com/Timberland-Mens-Premium-Waterproof-Boot/dp/B001AQVMDM",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/nJaEr0V5ETPf79Q5ulv4W-f-WXtd-HRXGSIgrWslEIA/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9tLm1l/ZGlhLWFtYXpvbi5j/b20vaW1hZ2VzL0kv/NTF4VzNNaGl4LUwu/anBn",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "Merrell Moab Speed 2 (Men's)",
+      "pros": [
+        "Lightweight and comfortable",
+        "Strong traction for hiking",
+        "Good value for day hikes"
+      ],
+      "cons": [
+        "Not for extreme alpine use",
+        "Less supportive on heavy loads",
+        "Casual styling off-trail"
+      ],
+      "price": null,
+      "amazon_id": "B0DC1K3K1G",
+      "sources": [
+        "https://www.merrell.com/US/en/moab-speed-2/58711M.html",
+        "https://www.tomsguide.com/wellness/fitness/merrell-moab-speed-2-review"
+      ],
+      "amazon_url": "https://www.amazon.com/Merrell-Mens-Moab-Speed-Hiking/dp/B0DC1K3K1G",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/CPjbBGmzZXf4AlSCm700bSBmzeOjrkJGxpktW7acpZc/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9pbWFn/ZXMtbmEuc3NsLWlt/YWdlcy1hbWF6b24u/Y29tL2ltYWdlcy9J/Lzcxbm11YVduMk5M/LmpwZw",
+      "resolver": "brave",
+      "valid": true
+    }
+  ],
+  "resolvedLinks": {
+    "https://redwingshoes.com/heritage/mens/iron-ranger/": {
+      "title": "Men's Iron Ranger | Men | Heritage | Red Wing\n                                            Expand the Men menu\n                                        \n                                            Expand the Women menu\n                                        \n                                            Expand the Accessories menu\n                                        \n                                            Expand the Stories menu",
+      "description": "",
+      "image": "",
+      "url": "https://www.redwingshoes.com/mens/heritage/iron-ranger/"
+    },
+    "https://www.themanual.com/deals/red-wing-iron-ranger-sale/": {
+      "title": "A timeless boot at a better price: Red Wing Iron Ranger drops to $284.95",
+      "description": "Save 14% on the Red Wing Men’s Iron Ranger 6-inch boot, now $284.95 (was $329.99). A durable, heritage-style leather boot that develops a great patina over time and works with casual to smart-casual outfits.",
+      "image": "https://www.themanual.com/tachyon/sites/9/2026/01/trfvre.jpg?resize=1200%2C630",
+      "url": "https://www.themanual.com/deals/red-wing-iron-ranger-sale/"
+    },
+    "https://www.timberland.com/en-us/p/men/footwear-10039/mens-timberland-premium-6-inch-waterproof-boot-TB172066EBL": {
+      "title": "Men's Timberland® Premium 6-Inch Waterproof Boot",
+      "description": "",
+      "image": "",
+      "url": "https://www.timberland.com/en-us/p/men/footwear-10039/mens-timberland-premium-6-inch-waterproof-boot-TB172066EBL"
+    },
+    "https://www.goodmorningamerica.com/shop/story/best-mens-boots-126595443": {
+      "title": "Top men's boots for 2025: Work, waterproof and casual picks for winter",
+      "description": "Keep your feet warm, dry and stylish with our top men's winter boots picks.",
+      "image": "https://i.abcnewsfe.com/a/6f2b6d2c-7dd7-43ab-b07c-8478c6c84186/MainImage_MensBoots_102025_v01_1760970700250_hpMain_16x9.jpg?w=992",
+      "url": "https://www.goodmorningamerica.com/shop/story/best-mens-boots-126595443"
+    },
+    "https://www.merrell.com/US/en/moab-speed-2/58711M.html": {
+      "title": "Moab Speed 2",
+      "description": "Explore the Moab Speed 2, the latest in hiking innovation with trail insights. Shop Merrell men's shoes today!",
+      "image": "https://thekit.wolverineworldwide.com/match/media_lookup/MRLM-J00003607-022425-S26-000/?preset=dw-large",
+      "url": "https://www.merrell.com/US/en/moab-speed-2/58711M.html"
+    },
+    "https://www.tomsguide.com/wellness/fitness/merrell-moab-speed-2-review": {
+      "title": "I spent 6 months testing the Merrell Moab Speed 2s — and they’re the perfect lightweight boots for most hikers",
+      "description": "Speedy, grippy and stylish",
+      "image": "https://cdn.mos.cms.futurecdn.net/izqiFq7Y6Cx7wSbjigqFcZ-2520-80.jpg",
+      "url": "https://www.tomsguide.com/wellness/fitness/merrell-moab-speed-2-review"
+    }
+  }
+}

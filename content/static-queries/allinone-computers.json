@@ -1,0 +1,112 @@
+{
+  "slug": "allinone-computers",
+  "query": "best all‑in‑one computers",
+  "title": "Best all‑in‑one computers | Bin Diving",
+  "description": "AI-dug recommendations for best all‑in‑one computers. Compare options and find one that fits.",
+  "dugAt": "2026-03-18T19:33:15.617Z",
+  "recommendations": [
+    {
+      "product_name": "Apple iMac 24-inch (M4)",
+      "pros": [
+        "Excellent performance per watt",
+        "Vivid 4.5K Retina display",
+        "Tight macOS integration & accessories"
+      ],
+      "cons": [
+        "Limited internal upgradability",
+        "Fewer ports than desktops"
+      ],
+      "price": null,
+      "amazon_id": "B0DL76BQ5N",
+      "sources": [
+        "https://www.forbes.com/sites/forbes-personal-shopper/article/best-all-in-one-computers/",
+        "https://www.techradar.com/news/best-all-in-one-computer",
+        "https://www.macrumors.com/2025/01/22/175-off-apples-m4-imac/"
+      ],
+      "amazon_url": "https://www.amazon.com/Apple-2024-Desktop-Computer-8-core/dp/B0DL76BQ5N",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/1wZ75sFLkN6aoch-Yz1hJ6LEYW6eMXqEkLoCR8M_TUo/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9pLmVi/YXlpbWcuY29tL2lt/YWdlcy9nLzBnZ0FB/ZVN3T1RKcEUyM3Mv/cy1sNDAwLndlYnA",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "Lenovo Yoga AIO i Aura Edition",
+      "pros": [
+        "Large 4K OLED with immersive ambient lighting",
+        "High-end Intel Core Ultra options",
+        "Built-in AI features and Dolby Atmos audio"
+      ],
+      "cons": [
+        "Premium price",
+        "May be limited in US retail availability at launch"
+      ],
+      "price": null,
+      "amazon_id": "B0F9NY4H3Y",
+      "sources": [
+        "https://news.lenovo.com/pressroom/press-releases/lenovo-at-ces-2026-smarter-ai-for-more-intuitive-and-connected-pc-experiences/",
+        "https://ubos.tech/news/lenovo-unveils-yoga-aio-i-aura-edition-at-ces-2026/"
+      ],
+      "amazon_url": "https://www.amazon.com/Lenovo-Yoga-Aura-Copilot-Laptop/dp/B0F9NY4H3Y",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/b1HdtyiEPGh37fb1APVCCCCdkDDcTl3b6GIuTHJ8KFg/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9pbWct/Y2RuLnB1YmxpdmUu/b25saW5lL2ZpdC1p/bi8xMjgweDcyMC9m/aWx0ZXJzOmZvcm1h/dCh3ZWJwKS9pbmR1/c3RyeS13aXJlZC9t/ZWRpYS9tZWRpYV9m/aWxlcy8yMDI2LzAx/LzA4L2xlbm92by1s/YXVuY2hlcy15b2dh/LWFpby1pLWF1cmEt/ZWRpdGlvbi0yMDI2/LTAxLTA4LTEzLTA4/LTQ0LmpwZw",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "Dell Inspiron 27 (Inspiron 7730/7740 series)",
+      "pros": [
+        "Strong all‑round performance options",
+        "Touchscreen and larger 27″ displays available",
+        "Good port selection and value configurations"
+      ],
+      "cons": [
+        "Designs vary by model year",
+        "Higher-end configs can be costly"
+      ],
+      "price": null,
+      "amazon_id": "B0FCSGSL6K",
+      "sources": [
+        "https://www.forbes.com/sites/forbes-personal-shopper/article/best-all-in-one-computers/",
+        "https://www.microcenter.com/product/680502/dell-inspiron-27-7730-27-all-in-one-desktop-computer",
+        "https://tech.yahoo.com/computing/articles/best-one-computers-2026-210000883.html"
+      ],
+      "amazon_url": "https://www.amazon.com/Dell-Inspiron-Desktop-Touchscreen-Bluetooth/dp/B0FCSGSL6K",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/eNLIRQvcGymL6WckmtCUuJEg4eqaMeaC7TFDIFIG2kg/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9pbWFn/ZXMtbmEuc3NsLWlt/YWdlcy1hbWF6b24u/Y29tL2ltYWdlcy9J/LzcxVjlJcjJQMFlM/LmpwZw",
+      "resolver": "brave",
+      "valid": true
+    }
+  ],
+  "resolvedLinks": {
+    "https://www.techradar.com/news/best-all-in-one-computer": {
+      "title": "I've picked the best all-in-one PCs - and don't worry, they're not just iMacs",
+      "description": "Looking for the best all-in-one computers in 2026? We're here to bring you only the top picks.",
+      "image": "https://cdn.mos.cms.futurecdn.net/im58NJWNFjo2VuvPMegveV-2560-80.jpg",
+      "url": "https://www.techradar.com/news/best-all-in-one-computer"
+    },
+    "https://www.macrumors.com/2025/01/22/175-off-apples-m4-imac/": {
+      "title": "Get Up to $175 Off Apple's M4 iMac on Amazon",
+      "description": "Amazon today has up to $175 off a collection of Apple's M4 iMac computers, and it's matching a few all-time low prices on the higher-end models. The cheapest M4 iMac available is the 8-core/16GB RAM/256GB 24-inch iMac at $1,194.00, down from $1,299.00. Note: MacRumors is an affiliate partner with Amazon. When you click a link and make a purchase, we may receive a small payment, which helps us keep the site running.",
+      "image": "https://images.macrumors.com/t/MRLDVW2ExRH6dmGKL6UzdwluIig=/3840x/article-new/2024/10/Apple-iMac-M4-hero-feature.jpg",
+      "url": "https://www.macrumors.com/2025/01/22/175-off-apples-m4-imac/"
+    },
+    "https://news.lenovo.com/pressroom/press-releases/lenovo-at-ces-2026-smarter-ai-for-more-intuitive-and-connected-pc-experiences/": {
+      "title": "Lenovo at CES 2026: Smarter AI for More Intuitive and Connected PC Experiences - Lenovo StoryHub",
+      "description": "Lenovo announced its latest consumer-focused innovations, expanding its Windows 11-based Yoga™ and IdeaPad™ portfolios with new AI laptops, AI desktops, and peripherals.",
+      "image": "https://news.lenovo.com/wp-content/uploads/2026/01/Consumer1.png",
+      "url": "https://news.lenovo.com/pressroom/press-releases/lenovo-at-ces-2026-smarter-ai-for-more-intuitive-and-connected-pc-experiences/"
+    },
+    "https://ubos.tech/news/lenovo-unveils-yoga-aio-i-aura-edition-at-ces-2026/": {
+      "title": "Lenovo Unveils Yoga AIO i Aura Edition at CES 2026 - UBOS",
+      "description": "Lenovo Yoga AIO i Aura Edition: The 32‑inch 4K OLED All‑in‑One That Lights Up Your Workspace The Lenovo Yoga AIO i Aura Edition is a premium all‑in‑one PC unveiled at CES 2026, offering a 32‑inch 4K OLED display, up to an Intel Core Ultra X7 processor, and a groundbreaking transparent ambient‑lighting bar that syncs with notifications and",
+      "image": "https://ubos.tech/wp-content/uploads/2024/02/UBOS-coin-test-1.png",
+      "url": "https://ubos.tech/news/lenovo-unveils-yoga-aio-i-aura-edition-at-ces-2026/"
+    },
+    "https://tech.yahoo.com/computing/articles/best-one-computers-2026-210000883.html": {
+      "title": "The Best All-in-One Computers for 2026",
+      "description": "If you want space savings, power, and flexibility—all from a single desktop computer—you need an all-in-one (AIO) PC. We've got the advice, backed by our lab-based reviews, to help you find the right AIO.",
+      "image": "https://s.yimg.com/ny/api/res/1.2/h.70wAQAn0beBhFnolk0wQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/pc_mag_263/95014db51e6c9e013cc49f653ccdfabc",
+      "url": "https://www.pcmag.com/picks/the-best-all-in-one-computers"
+    }
+  }
+}

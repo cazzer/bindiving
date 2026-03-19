@@ -1,0 +1,128 @@
+{
+  "slug": "budget-projectors",
+  "query": "best budget projectors",
+  "title": "Best budget projectors | Bin Diving",
+  "description": "AI-dug recommendations for best budget projectors. Compare options and find one that fits.",
+  "dugAt": "2026-03-18T21:56:28.992Z",
+  "recommendations": [
+    {
+      "product_name": "Anker NEBULA Capsule II Mini Projector",
+      "pros": [
+        "Portable soda‑can size",
+        "Android TV with many apps",
+        "Good built‑in speaker for a pico projector"
+      ],
+      "cons": [
+        "Low brightness for daytime use",
+        "Not true 1080p (720p)",
+        "Some users report software/connectivity issues"
+      ],
+      "price": null,
+      "amazon_id": "B07Q2P5PH7",
+      "sources": [
+        "https://us.amazon.com/Nebula-Capsule-Projector-Lightweight-Adjustable/dp/B09JFP9JLK",
+        "https://www.whathifi.com/us/reviews/anker-nebula-capsule-ii",
+        "https://www.reviewed.com/smarthome/features/nebula-capsule-ii-by-anker-review-is-it-worth-it"
+      ],
+      "amazon_url": "https://www.amazon.com/Capsule-Projector-Anker-Palm-Sized-Portable/dp/B07Q2P5PH7",
+      "gpt_azn": "B09JFP9JLK",
+      "image_url": "https://imgs.search.brave.com/cpkv3lefgkI4CDI2kt7b9QtajdHriZfzuwqJ7tnrUtg/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9pbWFn/ZXMtbmEuc3NsLWlt/YWdlcy1hbWF6b24u/Y29tL2ltYWdlcy9J/LzYxTDRHUndZRTJM/LmpwZw",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "ViewSonic PA503S (PA503 series)",
+      "pros": [
+        "High ANSI lumen brightness for the price",
+        "Reliable brand and DLP contrast",
+        "Good for well‑lit rooms and presentations"
+      ],
+      "cons": [
+        "SVGA/low native resolution on some SKUs",
+        "Basic feature set (no smart OS)",
+        "Bulky compared with mini projectors"
+      ],
+      "price": null,
+      "amazon_id": "B071G5H5Q1",
+      "sources": [
+        "https://www.viewsonic.com/main/products/outlet/projectors/pa503s-4000-lumens-svga-home-with-hdmi-and-vertical-keystone-s.html",
+        "https://www.bestbuy.com/product/viewsonic-pa503s-svga-dlp-projector-white/J37H8Y356P/",
+        "https://www.rtings.com/projector/reviews/best/cheap"
+      ],
+      "amazon_url": "https://www.amazon.com/ViewSonic-Brightness-Projector-Vertical-PA503S/dp/B071G5H5Q1",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/NpiSHLxplHoJ6qCFHsXwNUn2Ff7H5gMgI4YpeheoFgA/rs:fit:0:180:1:0/g:ce/aHR0cHM6Ly93d3cu/dHZzYm9vay5jb20v/ZGF0YS9hdHRhY2ht/ZW50cy8yNC8yNDQ4/NC1lNDdjNGZkYjNh/MzcyMzFlMmE1Y2Uz/NGQzY2JhZmZjNS5q/cGc",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "VANKYO Leisure 3 (Leisure series)",
+      "pros": [
+        "Very affordable / strong value",
+        "Simple HDMI/USB inputs — works with Fire TV/Chromecast",
+        "Lightweight and widely available"
+      ],
+      "cons": [
+        "Low native resolution and low brightness",
+        "Mixed user reliability/review quality",
+        "Not great for daytime or large bright screens"
+      ],
+      "price": null,
+      "amazon_id": "B08M66L98K",
+      "sources": [
+        "https://www.rtings.com/projector/reviews/vankyo/leisure-3",
+        "https://www.walmart.com/ip/301593232",
+        "https://www.target.com/p/-/A-84773167"
+      ],
+      "amazon_url": "https://www.amazon.com/Projector-Adapter-Compatible-Leisure-Professional/dp/B08M66L98K",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/uVhvua2OsINJBJb80d4k2dgf99gnDZuaprKc5mqeQZU/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9pdmFu/a3lvLmNvbS9jZG4v/c2hvcC9wcm9kdWN0/cy8xXzRjOGJkOTNh/LTJhOGQtNDBhNy1h/YzFjLWFmN2M1NmUw/NWU0Y18xNjAweC5w/bmc_dj0xNjUxMTI3/NTI0",
+      "resolver": "brave",
+      "valid": true
+    }
+  ],
+  "resolvedLinks": {
+    "https://www.whathifi.com/us/reviews/anker-nebula-capsule-ii": {
+      "title": "Anker Nebula Capsule II review",
+      "description": "Portable projector convenience comes at a cost",
+      "image": "https://cdn.mos.cms.futurecdn.net/TdXXctGwViihJuT3JoAjZD-1920-80.jpg",
+      "url": "https://www.whathifi.com/reviews/anker-nebula-capsule-ii"
+    },
+    "https://www.reviewed.com/smarthome/features/nebula-capsule-ii-by-anker-review-is-it-worth-it": {
+      "title": "I tried a mini smart projector—is worth it?",
+      "description": "The projector offers a crisp and clear picture—and even works during the day.",
+      "image": "https://reviewed-com-res.cloudinary.com/image/fetch/s--KDIECpyn--/b_white,c_limit,cs_srgb,f_auto,fl_progressive.strip_profile,g_center,q_auto,w_1200/https://reviewed-production.s3.amazonaws.com/1572965277996/nebula-capsule-II.png",
+      "url": "https://www.reviewed.com/smarthome/features/nebula-capsule-ii-by-anker-review-is-it-worth-it"
+    },
+    "https://www.viewsonic.com/main/products/outlet/projectors/pa503s-4000-lumens-svga-home-with-hdmi-and-vertical-keystone-s.html": {
+      "title": "PA503S - 4000 Lumens SVGA Home with HDMI and Vertical Keystone (Refurbished)",
+      "description": "",
+      "image": "https://www.viewsonic.com/media/catalog/product/cache/2072e83f2e881a73b096e3b7091900a2/p/a/pa503s_front-01_hires_1.jpg",
+      "url": "https://www.viewsonic.com/main/pa503s-4000-lumens-svga-home-with-hdmi-and-vertical-keystone-s.html"
+    },
+    "https://www.rtings.com/projector/reviews/best/cheap": {
+      "title": "The 6 Best Budget And Cheap Projectors of 2026",
+      "description": "If you want the best budget projector, the Epson Lifestudio Flex Plus is the one we would go with. It's a well rounded projector in a way most projectors at this price are not.",
+      "image": "https://i.rtings.com/assets/pages/GdRBYROM/best-cheap-projectors-20240205-medium.jpg?format=auto",
+      "url": "https://www.rtings.com/projector/reviews/best/cheap"
+    },
+    "https://www.rtings.com/projector/reviews/vankyo/leisure-3": {
+      "title": "VANKYO Leisure 3 Review",
+      "description": "The VANKYO Leisure 3 is a very basic, entry-level projector. It's designed to quickly share media from your phone or mobile device over a wide selection of input...",
+      "image": "https://i.rtings.com/assets/products/1naFWAXB/vankyo-leisure-3/design-medium.jpg?format=auto",
+      "url": "https://www.rtings.com/projector/reviews/vankyo/leisure-3"
+    },
+    "https://www.walmart.com/ip/301593232": {
+      "title": "VANKYO Leisure 3 1080P Supported Mini Projector with 65000 Hours Lamp Life, LED Portable Projector Support 200'' Display, Compatible with TV Stick, PS4, HDMI, VGA, TF, AV and USB (White) - Walmart.com",
+      "description": "Buy VANKYO Leisure 3 1080P Supported Mini Projector with 65000 Hours Lamp Life, LED Portable Projector Support 200'' Display, Compatible with TV Stick, PS4, HDMI, VGA, TF, AV and USB (White) at Walmart.com",
+      "image": "https://i5.walmartimages.com/seo/VANKYO-Leisure-3-1080P-Supported-Mini-Projector-65000-Hours-Lamp-Life-LED-Portable-Projector-Support-200-Display-Compatible-TV-Stick-PS4-HDMI-VGA-TF_ad0496d5-6cad-4c71-983b-3e14b43c6e26.eaf3a2a228c9280243f1818498bbdf3e.png",
+      "url": "https://www.walmart.com/ip/VANKYO-Leisure-3-1080P-Supported-Mini-Projector-65000-Hours-Lamp-Life-LED-Portable-Projector-Support-200-Display-Compatible-TV-Stick-PS4-HDMI-VGA-TF/301593232"
+    },
+    "https://www.target.com/p/-/A-84773167": {
+      "title": "Vankyo Leisure3 480p Mini Projector - White: HDMI Portable Movie Device",
+      "description": "Read reviews and buy Vankyo Leisure3 480p Mini Projector - White: HDMI Portable Movie Device at Target. Choose from contactless Same Day Delivery, Drive Up and more.",
+      "image": "https://target.scene7.com/is/image/Target/GUEST_283ef704-262d-467d-be4f-484f57a5e29a",
+      "url": "https://www.target.com/p/vankyo-leisure-c3-480p-mini-projector-8211-white/-/A-84773167"
+    }
+  }
+}

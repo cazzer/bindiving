@@ -1,0 +1,116 @@
+{
+  "slug": "bike-locks",
+  "query": "best bike locks",
+  "title": "Best bike locks | Bin Diving",
+  "description": "AI-dug recommendations for best bike locks. Compare options and find one that fits.",
+  "dugAt": "2026-03-18T17:31:57.269Z",
+  "recommendations": [
+    {
+      "product_name": "Kryptonite New York FAHGETTABOUDIT Chain 1415 (chain + disc lock)",
+      "pros": [
+        "Very high cut resistance",
+        "Good for e‑bikes/scooters/motorbikes"
+      ],
+      "cons": [
+        "Very heavy",
+        "Less portable"
+      ],
+      "price": "$248.95",
+      "amazon_id": "B08Q9QQ3KG",
+      "sources": [
+        "https://www.kryptonitelock.com/en/products/product-information/current-key/999492.html",
+        "https://www.cyclingweekly.com/news/product-news/7-of-the-best-bike-locks-5221",
+        "https://www.kryptonitelock.com/content/dam/kryt-us/en/eComms/2025%20Kryptonite%20MAP%20Policy%20USD.V2.pdf"
+      ],
+      "amazon_url": "https://www.amazon.com/Kryptonite-York-Fahgettaboudit-Chain-1415/dp/B08Q9QQ3KG",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/riMCyYWdd4qhxv3Ot_8JxU27GuSVzAqbOnQVVNb2CHs/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9yYWN5/Y2xlcy5jb20vY2Ru/L3Nob3AvZmlsZXMv/a3J5cHRvbml0ZS1u/ZXcteW9yay1mYWhn/ZXR0YWJvdWRpdC1j/aGFpbi0xNDE1LWFu/ZC1kaXNjLWxvY2st/NjExNjk2NC5qcGc_/dj0xNzcxMzAwMTYz/JndpZHRoPTEyMTQ",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "ABUS BORDO GRANIT XPlus 6500 (folding lock)",
+      "pros": [
+        "High Sold‑Secure/ABUS XPlus security",
+        "Compact folding design for commuting"
+      ],
+      "cons": [
+        "Can be pricier than basic U‑locks",
+        "Folding joints are potential weak points vs heavy chains"
+      ],
+      "price": "$85 (typical Amazon price)",
+      "amazon_id": "B07NP61PZ2",
+      "sources": [
+        "https://www.abus.com/usa/Products/Bicycle-locks/Folding-Locks/BORDO-GRANIT-6500K",
+        "https://www.bikeradar.com/advice/buyers-guides/best-bike-lock",
+        "https://www.outsideonline.com/outdoor-gear/bikes-and-biking/the-best-bike-locks-of-2025"
+      ],
+      "amazon_url": "https://www.amazon.com/ABUS-Folding-Bordo-Granit-X-Plus/dp/B07NP61PZ2",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/9nSY1a3lLcjAe9Ddj4eTQd4EzKkCCQRHsVk-V_39bKA/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9tLm1l/ZGlhLWFtYXpvbi5j/b20vaW1hZ2VzL0kv/NTFSdG9NSURLMUwu/anBn",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "Kryptonite Evolution Mini-7 (U‑lock + KryptoFlex cable)",
+      "pros": [
+        "Good balance of security and portability",
+        "Includes cable for securing wheel"
+      ],
+      "cons": [
+        "Not as resistant as heavy chains for high‑risk areas",
+        "Limited internal shackle space"
+      ],
+      "price": null,
+      "amazon_id": "B09QXHYTFB",
+      "sources": [
+        "https://www.rei.com/product/188310/kryptonite-evolution-mini-u-lock-with-flex-cable",
+        "https://bikegrind.com/best-bike-lock-2026-ultimate-security-guide-reviews/",
+        "https://en.ecosmartriders.com/products/kryptonite-evolution-mini-7-flex"
+      ],
+      "amazon_url": "https://www.amazon.com/Kryptonite-Evolution-Kryptoflex-Cable-Combo/dp/B09QXHYTFB",
+      "gpt_azn": "B00GZ2D0JK",
+      "image_url": "https://imgs.search.brave.com/NJ7dFB5WzrdYiNtk1dMV-fp0ekchM-GsULgZwZNEfHU/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9jZG4x/MS5iaWdjb21tZXJj/ZS5jb20vcy10cHZ4/NGVzdmdrL2ltYWdl/cy9zdGVuY2lsLzU3/Mng3MTIvcHJvZHVj/dHMvMTI3MTM4LzMz/MjA4NC9rcnlwdG9u/aXRlLWV2b2x1dGlv/bi1taW5pLTctdS1s/b2NrLTguM2NtLXgt/MTcuOGNtLXdpdGgt/a3J5cHRvZmxleC1j/YWJsZS0xMjJjbS0w/MDIwNzktYm90dG9t/X18wNDQxNS4xNjk3/MDk3MTg2LmpwZz9j/PTE",
+      "resolver": "brave",
+      "valid": true
+    }
+  ],
+  "resolvedLinks": {
+    "https://www.cyclingweekly.com/news/product-news/7-of-the-best-bike-locks-5221": {
+      "title": "Best bike locks: heavy duty and portable locks for keeping your bike safe",
+      "description": "Our cycling experts put all the best bike locks through rigorous testing, ensuring you can leave your bike anywhere, secure in the knowledge that it's safe.",
+      "image": "https://cdn.mos.cms.futurecdn.net/KCedkz664zQZRBGbi7ihY-1920-80.jpg",
+      "url": "https://www.cyclingweekly.com/news/product-news/7-of-the-best-bike-locks-5221"
+    },
+    "https://www.abus.com/usa/Products/Bicycle-locks/Folding-Locks/BORDO-GRANIT-6500K": {
+      "title": "Bike lock | BORDO™ 6500K | flexible and strong | ABUS",
+      "description": "Bike locks from ABUS ✓ BORDO™ 6500K folding lock made of hardened steel ✓ High tamper protection ✓ Illuminated key ✓ Made in Germany → Discover now",
+      "image": "https://c1.abus.com/var/StorageStatic/assets-fb/fb-61498_BORDO6500K_90_BK_3.jpg",
+      "url": "https://www.abus.com/usa/Products/Bicycle-locks/Folding-Locks/BORDO-GRANIT-6500K"
+    },
+    "https://www.bikeradar.com/advice/buyers-guides/best-bike-lock": {
+      "title": "Best bike lock 2026: Strong, safe bike locks tested in lab conditions",
+      "description": "We headed to Abus's lab in Germany to find the best bike lock, where we put 12 D-locks, chain and folding locks through five gruelling tests.",
+      "image": "https://c02.purpledshub.com/uploads/sites/39/2024/08/Grinder10-scaled.jpg?w=1200",
+      "url": "https://www.bikeradar.com/advice/buyers-guides/best-bike-lock"
+    },
+    "https://www.outsideonline.com/outdoor-gear/bikes-and-biking/the-best-bike-locks-of-2025": {
+      "title": "We Got Out the Angle Grinder to Find the Best Bike Locks on the Market",
+      "description": "Make it harder than ever for thieves to steal your bike with these 6 locks, from U-locks to home storage.",
+      "image": "https://www.outsideonline.com/wp-content/uploads/2025/05/Bike-Locks_Colin-Meagher.jpg",
+      "url": "https://www.outsideonline.com/outdoor-gear/bikes-and-biking/the-best-bike-locks-of-2025/"
+    },
+    "https://bikegrind.com/best-bike-lock-2026-ultimate-security-guide-reviews/": {
+      "title": "Best Bike Lock 2026: Ultimate Security Guide & Reviews - BIKEGRIND",
+      "description": "Best Bike Lock 2026: Complete Guide to Protecting Your Bike From Theft Every cyclist’s worst nightmare: walking to where you locked your bike, only to find an empty space and severed lock remnants. According to bicycle theft statistics, over 2 million bicycles are stolen annually across the United States and Canada, with recovery rates hovering […]",
+      "image": "https://bikegrind.com/wp-content/uploads/2026/01/josh-bean-CjzEfZVYetI-unsplash-1024x683.jpg",
+      "url": "https://bikegrind.com/best-bike-lock-2026-ultimate-security-guide-reviews/"
+    },
+    "https://en.ecosmartriders.com/products/kryptonite-evolution-mini-7-flex": {
+      "title": "Candado en U Kryptonite® | Evolution Mini 7 Flex",
+      "description": "Candado en U Kryptonite® Evolution Mini 7 con Cable, para Bicicletas y Patinetes. Alto Nivel Seguridad (7/10). Mejor Precio, Envío y Devoluciones Gratis.",
+      "image": "http://www.ecosmartriders.com/cdn/shop/files/6_600x.jpg?v=1708714052",
+      "url": "https://www.ecosmartriders.com/products/kryptonite-evolution-mini-7-flex"
+    }
+  }
+}

@@ -1,0 +1,95 @@
+{
+  "slug": "sweatpants",
+  "query": "best sweatpants",
+  "title": "Best sweatpants | Bin Diving",
+  "description": "AI-dug recommendations for best sweatpants. Compare options and find one that fits.",
+  "dugAt": "2026-03-18T22:47:23.546Z",
+  "recommendations": [
+    {
+      "product_name": "Champion Powerblend Fleece Sweatpants",
+      "pros": [
+        "Affordable",
+        "Durable midweight fleece"
+      ],
+      "cons": [
+        "Can pill over time",
+        "Fit varies by style"
+      ],
+      "price": null,
+      "amazon_id": "B0CWC55GRV",
+      "sources": [
+        "https://www.gq.com/story/the-best-sweatpants",
+        "https://www.champion.com/pages/powerblend"
+      ],
+      "amazon_url": "https://www.amazon.com/Champion-Powerblend-Sweatpants-XX-Large-Regular/dp/B0CWC55GRV",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/92zuXT_LCizbb0oAM7snCeseg0VNWL92XHcEGy6S3wk/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9tLm1l/ZGlhLWFtYXpvbi5j/b20vaW1hZ2VzL0kv/NDFFWS1PMFNNdUwu/anBn",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "Nike Sportswear Club Fleece Pants",
+      "pros": [
+        "Soft brushed-back fleece",
+        "Classic fit and pockets"
+      ],
+      "cons": [
+        "Tapered fit may feel slimmer than older versions",
+        "Shows lint on dark colors"
+      ],
+      "price": null,
+      "amazon_id": "B0DNGPKW21",
+      "sources": [
+        "https://www.gq.com/story/the-best-sweatpants",
+        "https://www.nike.com/t/sportswear-club-fleece-womens-mid-rise-wide-leg-sweatpants-plus-size-TPk2F9w2/FB7262-499"
+      ],
+      "amazon_url": "https://www.amazon.com/Nike-Sportswear-Oversized-Sweatpants-DQ5800-019/dp/B0DNGPKW21",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/j4q0edMzjgApa-PA_9rQYWra2b61U6cj7-kaD-5EE24/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9pLmVi/YXlpbWcuY29tL3Ro/dW1icy9pbWFnZXMv/Zy85ZGtBQWVTd1FC/QnBNcHBtL3MtbDQw/MC53ZWJw",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "Hanes EcoSmart Fleece Sweatpants",
+      "pros": [
+        "Very budget-friendly",
+        "Wide size range"
+      ],
+      "cons": [
+        "Simpler construction / fewer premium details",
+        "Thinner fabric than heavyweight options"
+      ],
+      "price": null,
+      "amazon_id": "B09HHPSXDT",
+      "sources": [
+        "https://www.gq.com/story/the-best-sweatpants",
+        "https://www.fashionbeans.com/article/best-mens-sweatpants/"
+      ],
+      "amazon_url": "https://www.amazon.com/Hanes-ComfortSoft-EcoSmart-Fleece-Sweatpants-Discontinued/dp/B09HHPSXDT",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/83QUaI_SYvVsChQ2iudoBzFwk9dOhjn735hKPAtlrdY/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9pNS53/YWxtYXJ0aW1hZ2Vz/LmNvbS9zZW8vSGFu/ZXMtV29tZW4tcy1F/Y29TbWFydC1GbGVl/Y2UtU3dlYXRwYW50/cy13aXRoLU9wZW4t/Qm90dG9tLUxlZ3Mt/MzAtNS1JbnNlYW0t/U2l6ZXMtUy0yWExf/YWJhMTBjOTMtM2E5/OS00NWViLTk2ODMt/N2ZlYWU1NTE1MDM3/LmExOWI1MGM0NGVk/ODEwOTU4Y2Q2OGRl/MzI3OGI2NGY1Lmpw/ZWc_b2RuSGVpZ2h0/PTU3MyZvZG5XaWR0/aD01NzMmb2RuQmc9/RkZGRkZG",
+      "resolver": "brave",
+      "valid": true
+    }
+  ],
+  "resolvedLinks": {
+    "https://www.gq.com/story/the-best-sweatpants": {
+      "title": "The 15 Best Sweatpants on the Planet Right Now",
+      "description": "Peak fleece season is upon us. Here's how to swaddle up right on the couch, at the gym, en route to the bodega, and beyond.",
+      "image": "https://media.gq.com/photos/699f7d0231c2b681d8429a4c/16:9/w_1280,c_limit/GQR_Sweatpants-Lede.jpg",
+      "url": "https://www.gq.com/story/the-best-sweatpants"
+    },
+    "https://www.champion.com/pages/powerblend": {
+      "title": "Powerblend® | Midweight Fleece Men's & Women's Sweatshirts",
+      "description": "Champion's Powerblend collection combines soft fleece & reduced shrinkage for comfort & durability. These classic Champion hoodies, crewneck sweatshirts & other athletic styles are perfect for everyday wear.",
+      "image": "http://www.champion.com/cdn/shop/files/1200x628-1.jpg?v=1770045447&width=1024",
+      "url": "https://www.champion.com/pages/powerblend"
+    },
+    "https://www.nike.com/t/sportswear-club-fleece-womens-mid-rise-wide-leg-sweatpants-plus-size-TPk2F9w2/FB7262-499": {
+      "title": "Nike Sportswear Club Fleece Women's Mid-Rise Wide-Leg Sweatpants",
+      "description": "Find the Nike Sportswear Club Fleece Women's Mid-Rise Wide-Leg Sweatpants at Nike.com.  Free delivery and returns.",
+      "image": "https://static.nike.com/a/images/t_default/u_9ddf04c7-2a9a-4d76-add1-d15af8f0263d,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/550fecc6-5fe0-46a3-9110-6a75c9033c5b/W+NSW+CLUB+FLC+MR+PANT+WIDE.png",
+      "url": "https://www.nike.com/t/sportswear-club-fleece-womens-mid-rise-wide-leg-sweatpants-TPk2F9w2/FB2727-063"
+    }
+  }
+}

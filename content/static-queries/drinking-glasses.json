@@ -1,0 +1,134 @@
+{
+  "slug": "drinking-glasses",
+  "query": "best drinking glasses",
+  "title": "Best drinking glasses | Bin Diving",
+  "description": "AI-dug recommendations for best drinking glasses. Compare options and find one that fits.",
+  "dugAt": "2026-03-18T17:16:10.533Z",
+  "recommendations": [
+    {
+      "product_name": "Duralex Le Picardie Clear Tumbler (set)",
+      "pros": [
+        "Tempered, highly durable",
+        "Classic stackable café design"
+      ],
+      "cons": [
+        "Some reports of rare thermal breakage",
+        "Occasional counterfeit listings online"
+      ],
+      "price": "Varies (e.g. set of 6 from ~$18)",
+      "amazon_id": "B001CQEY3K",
+      "sources": [
+        "https://www.duralexusa.com/products/duralex-le-picardie-clear-tumbler",
+        "https://www.williams-sonoma.com/products/picardie-glass-tumbler/",
+        "https://www.walmart.com/c/kp/duralex-picardie"
+      ],
+      "amazon_url": "https://www.amazon.com/Duralex-France-Picardie-Clear-Tumbler/dp/B001CQEY3K",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/O0NLUsBdICg5SnWjlJeVjV-tA2Jx0B0quPrpEx-hgWs/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly93d3cu/ZHVyYWxleHVzYS5j/b20vY2RuL3Nob3Av/ZmlsZXMvRFVSQUxF/WF84MEFOU19QQUNL/NF8tX0ZMRVhfUkVB/TElTQVRJT04tNy5q/cGc_dj0xNzU4ODQz/NDA3JndpZHRoPTQ2/MzY",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "Libbey Gibraltar Tumbler/Glassware (Gibraltar series)",
+      "pros": [
+        "Restaurant-grade durability (DuraTuff)",
+        "Timeless, versatile faceted design"
+      ],
+      "cons": [
+        "Heavier, utilitarian look",
+        "Many third‑party sellers on marketplaces can cause price/quality variance"
+      ],
+      "price": "Examples from manufacturer $45–$55 (sets)",
+      "amazon_id": "B0000A4NC9",
+      "sources": [
+        "https://shop.libbey.com/products/libbey-gibraltar-duratuff-iced-tea-glasses-22-ounce-set-of-12-durable-restaurant-quality-glassware-dishwasher-safe",
+        "https://shop.libbey.com/collections/gibraltar",
+        "https://www.webstaurantstore.com/libbey-15654-gibraltar-12-oz-stackable-beverage-glass-36-case/55115654.html"
+      ],
+      "amazon_url": "https://www.amazon.com/Libbey-Gibraltar-Tumbler-Glasses-Set/dp/B0000A4NC9",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/to1mYDQRnxn10ZtuIXx1YLFL-hBwpKChYmvgRNphfdQ/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly93d3cu/YmFyc3R1ZmYuY29t/L21lZGlhLzE0LzMy/LzkwLzE2ODM1Mzc3/NjQvMTUyMzgtMTQx/NzktMjUyeDM3NC53/ZWJw",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "IKEA POKAL / STOCKHOLM Drinking Glasses (POKAL / STOCKHOLM series)",
+      "pros": [
+        "Extremely affordable and widely available",
+        "Simple, stackable everyday design"
+      ],
+      "cons": [
+        "Some users report occasional spontaneous breakage with tempered IKEA glass",
+        "Less premium finish than higher-end brands"
+      ],
+      "price": "POKAL examples: ~$4.99/6 pack; STOCKHOLM example: $19.99/4 pack (IKEA US listings)",
+      "amazon_id": "B0D59GJ6DB",
+      "sources": [
+        "https://www.ikea.com/us/en/catalog/products/10270478/",
+        "https://www.ikea.com/us/en/p/stockholm-2025-glass-20592440/",
+        "https://www.ikea.com/us/en/cat/drinkware-18868/"
+      ],
+      "amazon_url": "https://www.amazon.com/Ikea-Pokal-Glass-Light-Blue/dp/B0D59GJ6DB",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/lYN8euMkRN0c3IxAVI-E7N8-IS20TbikzVy3G1orUnk/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9pLmV0/c3lzdGF0aWMuY29t/LzI3Mzc0MjkxL3Iv/aWwvOWVhMWIxLzY5/NzQxMjAyMDgvaWxf/MzQweDI3MC42OTc0/MTIwMjA4X3NhZTUu/anBn",
+      "resolver": "brave",
+      "valid": true
+    }
+  ],
+  "resolvedLinks": {
+    "https://www.duralexusa.com/products/duralex-le-picardie-clear-tumbler": {
+      "title": "Picardie Tumbler Set of 6 - Durable Glasses",
+      "description": "Discover the Picardie tumbler set of 6 for hot and cold beverages. Stylish, stackable, and made of durable glass, perfect for any occasion.",
+      "image": "http://www.duralexusa.com/cdn/shop/files/1028A_79312162-43be-418e-b914-45f1584deb29.jpg?v=1758823395",
+      "url": "https://www.duralexusa.com/products/duralex-le-picardie-clear-tumbler"
+    },
+    "https://www.williams-sonoma.com/products/picardie-glass-tumbler/": {
+      "title": "Duralex Picardie Glassware Collection",
+      "description": "",
+      "image": "https://assets.wsimgs.com/wsimgs/ab/images/dp/wcm/202540/0006/duralex-picardie-glassware-collection-d.jpg",
+      "url": "/products/picardie-glass-tumbler/"
+    },
+    "https://www.walmart.com/c/kp/duralex-picardie": {
+      "title": "Duralex Picardie",
+      "description": "Shop for Duralex Picardie at Walmart.com. Save money. Live better",
+      "image": "https://i5.walmartimages.com/seo/Duralex-Picardie-12-5-8-Ounce-Clear-Stackable-Drinking-Glasses-Set-of-6_dbc66685-547c-446d-93ac-1a113081f620.1fd866214854573fbf1e7bcfee1d5985.jpeg?odnHeight=180&odnWidth=180&odnBg=FFFFFF",
+      "url": "https://www.walmart.com/c/kp/duralex-picardie"
+    },
+    "https://shop.libbey.com/products/libbey-gibraltar-duratuff-iced-tea-glasses-22-ounce-set-of-12-durable-restaurant-quality-glassware-dishwasher-safe": {
+      "title": "Libbey Gibraltar DuraTuff Iced Tea Glasses, 22 Ounce, Set of 12",
+      "description": "Serve drinks with confidence and style using the Libbey Gibraltar DuraTuff Iced Tea Glasses. This set of twelve 22-ounce glasses features the signature Gibraltar faceted pattern and heavy base for a timeless, functional design that provides a secure grip and a classic look. With a generous 22-ounce capacity, these glas",
+      "image": "http://shop.libbey.com/cdn/shop/files/54965c866540a330d47bf1af8c57beca7e869b2e.jpg?v=1770326862",
+      "url": "https://shop.libbey.com/products/libbey-gibraltar-duratuff-iced-tea-glasses-22-ounce-set-of-12-durable-restaurant-quality-glassware-dishwasher-safe"
+    },
+    "https://shop.libbey.com/collections/gibraltar": {
+      "title": "Gibraltar",
+      "description": "Our selection of glass and tabletop products is designed with sophistication, strength, and style in mind. Our premium wine, beer and all-purpose glassware are sure to bring a special touch to your next dinner party or gathering with friends.",
+      "image": "http://shop.libbey.com/cdn/shop/files/Social-Sharing_1ea40d0b-1f1d-4ba8-8a5c-2344e8092236.jpg?v=1594313975",
+      "url": "https://shop.libbey.com/collections/gibraltar"
+    },
+    "https://www.webstaurantstore.com/libbey-15654-gibraltar-12-oz-stackable-beverage-glass-36-case/55115654.html": {
+      "title": "Libbey Gibraltar 12 oz. Stackable Beverage Glass - 36/Case",
+      "description": "Tired of having to replace broken glassware? Upgrade to this Libbey Gibraltar stackable beverage glass and enjoy the benefits of a more substantial option. The Gibraltar line is sure to please with its durability and classic shape, which are great for high-volume restaurants and bars. It features an old-fashioned, straight-paneled design that looks great and adds grip for customer convenience. Plus, it's stackable for convenient space-saving storage!<br><br> Thanks to a special thermal after-process applied to the top portion of the glass, you can rest assured that it has exceptional durability to match its looks! This DuraTuff treatment is designed to increase the glass's resistance to mechanical and thermal shock while also making it safer to use. When a normal glass breaks, it typically shatters into tiny pieces that can cause harm to customers and staff, contaminate food, and create downtime as your staff cleans up every little piece. DuraTuff glasses, on the other hand, tend to break into larger pieces, shortening cleanup and making them a much safer alternative for everyone in your restaurant or bar.<br><br>For over 200 years, Libbey has been known for using artistry, innovation, and quality to craft some of the finest tableware. Designed with meal and drink makers in mind, Libbey creates not only stunning but thoughtful glassware and dinnerware for all your entertaining needs. From restaurants and bars to hotels and senior living, you can find Libbey tableware on any table where memories are made and creativity is celebrated. <br><br><b><u>Overall Dimensions:</b></u> <br>Top Diameter: 3 1/8\" <br>Bottom Diameter: 2 3/8\" <br>Height: 5\" <br>Capacity: 12 oz.",
+      "image": "https://www.webstaurantstore.com/images/products/extra_large/16845/1019445.jpg",
+      "url": "https://www.webstaurantstore.com/libbey-15654-gibraltar-12-oz-stackable-beverage-glass-case/55115654.html"
+    },
+    "https://www.ikea.com/us/en/catalog/products/10270478/": {
+      "title": "POKAL glass, clear glass, 12 oz  - IKEA",
+      "description": "POKAL glass, clear glass, 12 oz With their classic design and different sizes, POKAL glasses are sure to be favorites – great for water and soft drinks and can also hold warm beverages like coffee or tea. Made of tempered glass for added strength and durability.",
+      "image": "https://www.ikea.com/us/en/images/products/pokal-glass-clear-glass__0713251_pe729361_s5.jpg",
+      "url": "https://www.ikea.com/us/en/p/pokal-glass-clear-glass-10270478/"
+    },
+    "https://www.ikea.com/us/en/p/stockholm-2025-glass-20592440/": {
+      "title": "STOCKHOLM 2025 glass, 14 oz  - IKEA",
+      "description": "STOCKHOLM 2025 glass, 14 oz Sleek and modern glassware, mouth-blown with a sophisticated straight design. A part of the STOCKHOLM 2025 collection celebrating Scandinavian design. Thin and modern, these mouth-blown glasses with their clean, straight lines bring a touch of sophisticated craftsmanship.",
+      "image": "https://www.ikea.com/us/en/images/products/stockholm-2025-glass__1387461_pe964245_s5.jpg",
+      "url": "https://www.ikea.com/us/en/p/stockholm-2025-glass-20592440/"
+    },
+    "https://www.ikea.com/us/en/cat/drinkware-18868/": {
+      "title": "Glassware - Drinkware",
+      "description": "We offer dozens of cups and glasses in popular sizes and designs, from classic clear to radiant rainbow hues. Shop glassware at IKEA today!",
+      "image": "https://www.ikea.com/global/assets/range-categorisation/images/glassware-jugs-18868.jpeg",
+      "url": "https://www.ikea.com/us/en/cat/drinkware-18868/"
+    }
+  }
+}

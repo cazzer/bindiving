@@ -1,0 +1,111 @@
+{
+  "slug": "streaming-devices",
+  "query": "best streaming devices",
+  "title": "Best streaming devices | Bin Diving",
+  "description": "AI-dug recommendations for best streaming devices. Compare options and find one that fits.",
+  "dugAt": "2026-03-18T21:53:02.268Z",
+  "recommendations": [
+    {
+      "product_name": "Amazon Fire TV Stick 4K Max (2nd Gen)",
+      "pros": [
+        "Wi‑Fi 6E support",
+        "Strong app ecosystem",
+        "Good value for performance"
+      ],
+      "cons": [
+        "Amazon content promoted in UI",
+        "Privacy concerns for some users"
+      ],
+      "price": "$59.99",
+      "amazon_id": "B0BP9SNVH9",
+      "sources": [
+        "https://www.tomsguide.com/us/best-streaming-players%2Creview-2140.html",
+        "https://www.avforums.com/articles/best-streaming-devices-for-your-tv-in-2025.22554/",
+        "https://www.lowes.com/pd/Amazon-Fire-TV-Stick-4K-Max-Streaming-Device-Supports-Wi-Fi-6E-Ambient-Experience-Free-Live-TV-without-Cable-or-Satellite/5015278265?cm_mmc=psm-_-c-_-prd-_-elc-_-pin-_-%7Bcampaignid%7D-_-%7Bpromoted_product_group_id%7D-_-Amazon-_-shp-_-mix"
+      ],
+      "amazon_url": "https://www.amazon.com/all-new-amazon-fire-tv-stick-4k-max/dp/B0BP9SNVH9",
+      "gpt_azn": "B0BP9SNVH9",
+      "image_url": "https://imgs.search.brave.com/Qzi4Ib5aly2YsiNMMUEpD60HT_UM8h5f4hqFPKklbko/rs:fit:0:180:1:0/g:ce/aHR0cHM6Ly9pLmVi/YXlpbWcuY29tL2lt/YWdlcy9nL1RkTUFB/ZVN3YWZGcGw5ajcv/cy1sMjI1LmpwZw",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "Roku Streaming Stick 4K / Streaming Stick Plus (2025)",
+      "pros": [
+        "Very easy-to-use interface",
+        "Wide channel support and universal search"
+      ],
+      "cons": [
+        "Some models lack Dolby Vision",
+        "Fewer smart‑home features than competitors"
+      ],
+      "price": "$49.99",
+      "amazon_id": "B0DXY833HV",
+      "sources": [
+        "https://www.tomsguide.com/us/best-streaming-players%2Creview-2140.html",
+        "https://www.wired.com/story/roku-streaming-stick-plus-2025-deal/",
+        "https://www.roku.com/products/streaming-stick-plus"
+      ],
+      "amazon_url": "https://www.amazon.com/Roku-Streaming-Stick-Plus-2025/dp/B0DXY833HV",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/4-R5fr0XjrxrWr-NhgZ3rW-tdQ3UN8WO8B8ewacekQk/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly90YXJn/ZXQuc2NlbmU3LmNv/bS9pcy9pbWFnZS9U/YXJnZXQvR1VFU1Rf/ODRlMmE3MmUtNmFh/Yy00MzdlLTk5MGMt/MzgwYmU5NTM1ZWM2/P3dpZD04MDAmaGVp/PTgwMCZxbHQ9ODAm/Zm10PXBqcGVn",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "Apple TV 4K (Apple TV 4K set‑top)",
+      "pros": [
+        "Polished tvOS experience",
+        "Strong integration with Apple ecosystem"
+      ],
+      "cons": [
+        "Higher cost than sticks",
+        "Some services (availability/pricing) vary by platform"
+      ],
+      "price": null,
+      "amazon_id": "B096HRD9WP",
+      "sources": [
+        "https://www.tomsguide.com/us/best-streaming-players%2Creview-2140.html",
+        "https://www.techradar.com/news/apple-tv-4k-is-listed-on-amazon-after-set-top-boxs-two-year-banishment",
+        "https://en.wikipedia.org/wiki/TvOS"
+      ],
+      "amazon_url": "https://www.amazon.com/2021-Apple-TV-64GB-Renewed/dp/B096HRD9WP",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/cl5zIAyUzRrC1XQj9op3VYqSCRuX206YkAaFA7QSkVc/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9jZG4u/bW9zLmNtcy5mdXR1/cmVjZG4ubmV0L0pk/UlBpUUN4eWlCcFlt/WVhLdU5aNkouanBn",
+      "resolver": "brave",
+      "valid": true
+    }
+  ],
+  "resolvedLinks": {
+    "https://www.tomsguide.com/us/best-streaming-players%2Creview-2140.html": {
+      "title": "These are the 3 best streaming devices we've tested for your TV",
+      "description": "Get the most out of your TV using one of the best streaming devices",
+      "image": "https://cdn.mos.cms.futurecdn.net/MM9ZJYyWuyPWGy5hMSAucK-2000-80.jpg",
+      "url": "https://www.tomsguide.com/entertainment/streaming-devices/best-streaming-devices"
+    },
+    "https://www.wired.com/story/roku-streaming-stick-plus-2025-deal/": {
+      "title": "The Best Roku for Most People Is Under $30 on Sale",
+      "description": "Smarten up your sluggish TV with $11 off a Roku Streaming Stick Plus.",
+      "image": "https://media.wired.com/photos/68d2cf4ffd213139966ab5f5/191:100/w_1280,c_limit/Save%20$11%20on%20our%20Favorite%204K%20Streaming%20Device.png",
+      "url": "https://www.wired.com/story/roku-streaming-stick-plus-2025-deal/"
+    },
+    "https://www.roku.com/products/streaming-stick-plus": {
+      "title": "CloseArrowleftBlackArrowrightBlackStoreStorePlayBlackVolumeMutedFillArrowleftBlackArrowrightBlackArrowleftBlackArrowleftBlack",
+      "description": "",
+      "image": "",
+      "url": "https://www.roku.com/products/players/roku-streaming-stick-4k"
+    },
+    "https://www.techradar.com/news/apple-tv-4k-is-listed-on-amazon-after-set-top-boxs-two-year-banishment": {
+      "title": "Apple TV 4K is listed on Amazon after set-top box's two-year banishment [Update]",
+      "description": "The feud is finally over",
+      "image": "https://cdn.mos.cms.futurecdn.net/NPMiH3HBUBN64uHFruLrr7-2560-80.jpg",
+      "url": "https://www.techradar.com/news/apple-tv-4k-is-listed-on-amazon-after-set-top-boxs-two-year-banishment"
+    },
+    "https://en.wikipedia.org/wiki/TvOS": {
+      "title": "tvOS - Wikipedia",
+      "description": "",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Apple_tvOS_wordmark_2017.svg/1280px-Apple_tvOS_wordmark_2017.svg.png",
+      "url": "https://en.wikipedia.org/wiki/TvOS"
+    }
+  }
+}

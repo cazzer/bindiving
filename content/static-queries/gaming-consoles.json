@@ -1,0 +1,92 @@
+{
+  "slug": "gaming-consoles",
+  "query": "best gaming consoles",
+  "title": "Best gaming consoles | Bin Diving",
+  "description": "AI-dug recommendations for best gaming consoles. Compare options and find one that fits.",
+  "dugAt": "2026-03-18T18:55:52.217Z",
+  "recommendations": [
+    {
+      "product_name": "PlayStation 5 Slim (Digital Edition)",
+      "pros": [
+        "Strong exclusive games",
+        "Improved storage and slimmer design"
+      ],
+      "cons": [
+        "Can be occasionally out of stock",
+        "No physical-disc drive (digital model)"
+      ],
+      "price": null,
+      "amazon_id": "B0CL5KNB9M",
+      "sources": [
+        "https://www.tomsguide.com/gaming/playstation/dont-wait-the-ps5-slim-digital-edition-console-is-23-percent-off-at-amazon-right-now"
+      ],
+      "amazon_url": "https://www.amazon.com/PlayStation%C2%AE5-Digital-slim-PlayStation-5/dp/B0CL5KNB9M",
+      "gpt_azn": "B0CL5KNB9M",
+      "image_url": "https://imgs.search.brave.com/--bD2t8nuxFudA7eIZgrIoCveJgO8AkLujJLUNkBPpU/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9zbnBp/LmRlbGwuY29tL3Nu/cC9pbWFnZXMvcHJv/ZHVjdHMvbGFyZ2Uv/QUQ1MjA0MTdfTVZJ/NC5qcGc",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "Xbox Series X",
+      "pros": [
+        "Most powerful 4K performance",
+        "Excellent Game Pass library and backward compatibility"
+      ],
+      "cons": [
+        "Larger footprint",
+        "Subscription required for best value (Game Pass)"
+      ],
+      "price": null,
+      "amazon_id": "B08H75RTZ8",
+      "sources": [
+        "https://www.tomsguide.com/reviews/xbox-series-x/"
+      ],
+      "amazon_url": "https://www.amazon.com/Microsoft-Xbox-Gaming-Console-video-game/dp/B08H75RTZ8",
+      "gpt_azn": "B09DP86ZDH",
+      "image_url": "https://imgs.search.brave.com/bxUeWWE14Fygu3NfMdQN7Cnm59Pp87J0JGXon0lRNQs/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9hc3Nl/dHMueGJveHNlcnZp/Y2VzLmNvbS9hc3Nl/dHMvMDQvNzIvMDQ3/MjdmMDMtNjM1ZC00/NmNhLWFlNDItNGMx/ODRjM2RkNDBiLmpw/Zz9uPTM1ODgwMF9Q/YWdlLUhlcm8tMTA4/NF8xOTIweDc3Ny5q/cGc",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "Nintendo Switch (OLED model)",
+      "pros": [
+        "Best hybrid/portable experience",
+        "Brighter OLED screen and improved dock audio"
+      ],
+      "cons": [
+        "Less powerful than PS5/Xbox Series X",
+        "Higher price than base Switch"
+      ],
+      "price": null,
+      "amazon_id": "B098RKWHHZ",
+      "sources": [
+        "https://www.techradar.com/reviews/nintendo-switch-oled-review"
+      ],
+      "amazon_url": "https://www.amazon.com/Nintendo-Switch-OLED-Model-White-Joy/dp/B098RKWHHZ",
+      "gpt_azn": "B098RKWHHZ",
+      "image_url": "https://imgs.search.brave.com/T4vjy5VmmWcP_gCVxJsBRy8EyOEG5F9ZCspvI2vkl_8/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9hc3Nl/dHMubmludGVuZG8u/Y29tL2ltYWdlL3Vw/bG9hZC9mX2F1dG8v/cV9hdXRvL2NfZmls/bCx3XzMwMC9uY29t/L2VuX1VTL3N3aXRj/aC9zaXRlLWRlc2ln/bi11cGRhdGUvaGFy/ZHdhcmUtaGVyby1j/b21ibw",
+      "resolver": "brave",
+      "valid": true
+    }
+  ],
+  "resolvedLinks": {
+    "https://www.tomsguide.com/gaming/playstation/dont-wait-the-ps5-slim-digital-edition-console-is-23-percent-off-at-amazon-right-now": {
+      "title": "Don't wait: the PS5 Slim Digital Edition console is 23% off at Amazon right now",
+      "description": "Amazon's slashed the price of the PS5 Slim ahead of Prime Big Deal Days",
+      "image": "https://cdn.mos.cms.futurecdn.net/XTer9DwF4rd9ZzdWEqnjQP-2000-80.jpg",
+      "url": "https://www.tomsguide.com/gaming/playstation/dont-wait-the-ps5-slim-digital-edition-console-is-23-percent-off-at-amazon-right-now"
+    },
+    "https://www.tomsguide.com/reviews/xbox-series-x/": {
+      "title": "Xbox Series X review",
+      "description": "The Xbox Series X is the pinnacle of Microsoft's gaming efforts",
+      "image": "https://cdn.mos.cms.futurecdn.net/czREVeq2fyoSufJXy2Ryma-1886-80.jpg",
+      "url": "https://www.tomsguide.com/reviews/xbox-series-x"
+    },
+    "https://www.techradar.com/reviews/nintendo-switch-oled-review": {
+      "title": "Nintendo Switch OLED review",
+      "description": "Nintendo Switch OLED is a fantastic upgrade for portable players",
+      "image": "https://cdn.mos.cms.futurecdn.net/Aou3FDUT23yNKm5WyGrsGX-1920-80.jpg",
+      "url": "https://www.techradar.com/reviews/nintendo-switch-oled-review"
+    }
+  }
+}

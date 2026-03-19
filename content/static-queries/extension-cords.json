@@ -1,0 +1,95 @@
+{
+  "slug": "extension-cords",
+  "query": "best extension cords",
+  "title": "Best extension cords | Bin Diving",
+  "description": "AI-dug recommendations for best extension cords. Compare options and find one that fits.",
+  "dugAt": "2026-03-18T16:17:21.590Z",
+  "recommendations": [
+    {
+      "product_name": "Iron Forge Cable 12-Gauge Heavy Duty Extension Cord",
+      "pros": [
+        "12 AWG heavy-duty",
+        "Weather-resistant jacket",
+        "Good for power tools"
+      ],
+      "cons": [
+        "Bulkier/heavier",
+        "More expensive than 16 AWG options"
+      ],
+      "price": null,
+      "amazon_id": "B081HCT4KH",
+      "sources": [
+        "https://www.popsci.com/gear/best-extension-cords/"
+      ],
+      "amazon_url": "https://www.amazon.com/Black-Resistant-Extension-Farms-Ranches/dp/B081HCT4KH",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/TocfCdGieF1Vfg2TsdtU2EvMt0Av91Cp6gKwi8Hza64/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9tLm1l/ZGlhLWFtYXpvbi5j/b20vaW1hZ2VzL0kv/NDFTT2dwNjgxTkwu/anBn",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "Southwire 12/3 or 10/3 Heavy Duty Outdoor Extension Cord",
+      "pros": [
+        "Trusted industrial brand",
+        "Available in long lengths and multiple gauges",
+        "Durable SJTW/SJEOOW jackets"
+      ],
+      "cons": [
+        "Higher cost for longer/ thicker gauges",
+        "Stiff at low temperatures depending on model"
+      ],
+      "price": null,
+      "amazon_id": "B00004SQF4",
+      "sources": [
+        "https://www.bestreviews.guide/extension-cords"
+      ],
+      "amazon_url": "https://www.amazon.com/Southwire-2588SW0002-Extension-Commercial-Appliances/dp/B00004SQF4",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/rSdwhUMNkYcC5rea2JfgmK60de-7tF9qOUr4iz-hRqI/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9tb2Jp/bGVpbWFnZXMubG93/ZXMuY29tL3Byb2R1/Y3RpbWFnZXMvOWM1/MDJjZWYtYzg2My00/NDJlLWI3MzYtM2Fi/MTllMmYyM2IyLzEy/NDgxNDAwLmpwZz9z/aXplPXBkaGlzbQ",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "Amazon Basics Indoor/Outdoor Extension Cord (various lengths)",
+      "pros": [
+        "Affordable and widely available",
+        "Multiple lengths and gauges",
+        "Good value for light–medium duty use"
+      ],
+      "cons": [
+        "Not for heavy-duty/high-amp applications",
+        "Build quality varies by model"
+      ],
+      "price": null,
+      "amazon_id": "B00OS7ELK6",
+      "sources": [
+        "https://bestreviews.com/electronics/chargers/best-extension-cords"
+      ],
+      "amazon_url": "https://www.amazon.com/Amazon-Basics-100-Foot-3-Prong-Extension/dp/B00OS7ELK6",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/uR03SP89obh8ek51S8vllM-1hc3vqfhDXk27LNvHjfk/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9tLm1l/ZGlhLWFtYXpvbi5j/b20vaW1hZ2VzL0kv/ODFuWEZXTTA3aUwu/anBn",
+      "resolver": "brave",
+      "valid": true
+    }
+  ],
+  "resolvedLinks": {
+    "https://www.popsci.com/gear/best-extension-cords/": {
+      "title": "The best extension cords",
+      "description": "Getting power with limited outlets can be a challenge. The best extension cords allow you to connect to electricity indoors and out.",
+      "image": "https://www.popsci.com/wp-content/uploads/2023/02/06/best-extension-cords.jpg?quality=85&w=1200",
+      "url": "https://www.popsci.com/gear/best-extension-cords/"
+    },
+    "https://www.bestreviews.guide/extension-cords": {
+      "title": "10 Best Extension Cords 2026 in the US | There's One Clear Winner | BestReviews.guide",
+      "description": "BestReviews.guide analyzes thousands of articles and customer reviews to find the top-rated products at today's lowest prices. Best products, best offers.",
+      "image": "https://images-proxy.bestreviews.guide/oAL7y0uZgiv4p2rfDe6v92MBPis=/0x150/https://m.media-amazon.com/images/I/41Hrd9QQMjL._AC_CX679_.jpg",
+      "url": "https://www.bestreviews.guide/extension-cords"
+    },
+    "https://bestreviews.com/electronics/chargers/best-extension-cords": {
+      "title": "5 Best Extension Cords - Mar. 2026 - BestReviews",
+      "description": "Our team of experts has selected the best extension cords out of hundreds of models. Don't buy a extension cords before reading these reviews.",
+      "image": "https://cdn.bestreviews.com/images/v4desktop/chubby/f088b5b1e4a4255399e2647e7fb599b6.jpg",
+      "url": "https://bestreviews.com/electronics/chargers/best-extension-cords"
+    }
+  }
+}

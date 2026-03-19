@@ -1,0 +1,104 @@
+{
+  "slug": "travel-mugs",
+  "query": "best travel mugs",
+  "title": "Best travel mugs | Bin Diving",
+  "description": "AI-dug recommendations for best travel mugs. Compare options and find one that fits.",
+  "dugAt": "2026-03-18T18:41:59.338Z",
+  "recommendations": [
+    {
+      "product_name": "Zojirushi Stainless Steel Travel Mug (SM-KHE/SM-SA series)",
+      "pros": [
+        "Excellent heat retention",
+        "Easy-to-clean lid",
+        "Compact, cupholder-friendly"
+      ],
+      "cons": [
+        "Some models have narrow openings",
+        "Not fully dishwasher-safe"
+      ],
+      "price": null,
+      "amazon_id": "B005PO9T44",
+      "sources": [
+        "https://www.reviewed.com/home-outdoors/features/the-best-travel-mugs",
+        "https://www.americastestkitchen.com/shop/products/zojirushi-stainless-mug"
+      ],
+      "amazon_url": "https://www.amazon.com/Zojirushi-SM-KHE48AG-Stainless-Steel-16-Ounce/dp/B005PO9T44",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/UCnBTrBbU6eV64I_ZvSMfhBr4_-Y-yxT81bPzx_DmkM/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly93d3cu/cGljY2xpY2tpbWcu/Y29tL2pVWUFBT1N3/RS1aazlaVU0vWm9q/aXJ1c2hpLVRyYXZl/bC1UdW1ibGVyLUJv/dHRsZS1NdWctU00t/U2VyaWVzLTA0OEwu/d2VicA",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "YETI Rambler 20 oz Travel Mug",
+      "pros": [
+        "Durable stainless steel construction",
+        "Strong vacuum insulation",
+        "Widely available color/size options"
+      ],
+      "cons": [
+        "Lid not fully leakproof when tipped",
+        "Taller/wider shape may not fit all Keurigs"
+      ],
+      "price": null,
+      "amazon_id": "B0DS6LQ3LD",
+      "sources": [
+        "https://www.foodnetwork.com/how-to/packages/shopping/product-reviews/best-travel-coffee-mug",
+        "https://www.tomsguide.com/best-picks/best-travel-coffee-mugs"
+      ],
+      "amazon_url": "https://www.amazon.com/YETI-Rambler-Stainless-Insulated-Stronghold/dp/B0DS6LQ3LD",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/Rndm0Ef9SWd7V7zX8O4iakkDH29LkgfN5j-Ys2x7z_8/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9zdG9u/ZXNib2F0eWFyZC5j/by51ay9jZG4vc2hv/cC9maWxlcy93ZWJp/bWFnZS1GRTVGQThD/RS01MEQwLTQ3Rjct/ODg2MzM5ODk3ODZE/RTM0Ny5wbmc_dj0x/NzYyNzc5MjkwJndp/ZHRoPTE0NDU",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "Contigo West Loop Travel Mug",
+      "pros": [
+        "Auto-seal, one-handed drinking",
+        "Good balance of price and performance",
+        "Popular commuter choice"
+      ],
+      "cons": [
+        "Some users report lids trap residue",
+        "Not completely leakproof under pressure"
+      ],
+      "price": null,
+      "amazon_id": "B00HZI5XNO",
+      "sources": [
+        "https://www.wired.com/gallery/best-travel-mugs/",
+        "https://www.tomsguide.com/best-picks/best-travel-coffee-mugs"
+      ],
+      "amazon_url": "https://www.amazon.com/Contigo-AUTOSEAL-Vaccuum-Insulated-Stainless-Travel/dp/B00HZI5XNO",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/63_dI6LLBJOy6NvC-ZjPLZgJt8vwTDT9i5aG7WytPK4/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9pNS53/YWxtYXJ0aW1hZ2Vz/LmNvbS9zZW8vQ29u/dGlnby1XZXN0LUxv/b3AtQXV0b3NlYWwt/VHJhdmVsLU11Zy1T/dGFpbmxlc3MtU3Rl/ZWwtVGhlcm1hbC1N/dWctVmFjdXVtLUZs/YXNrLUxlYWtwcm9v/Zi1UdW1ibGVyLUNv/ZmZlZS1NdWctV2l0/aC1CcGEtZnJlZS1F/YXN5LWNsZWFuLUxp/ZF8zMmExN2M4MS00/MTVjLTQyMmMtOGNi/Ny04N2Q1N2QxZDQ1/MTQuOGY0MGQzM2E3/MmNiYTdmYWEyOTcx/YmY3NTZjNGIyYjYu/anBlZz9vZG5IZWln/aHQ9NTczJm9kbldp/ZHRoPTU3MyZvZG5C/Zz1GRkZGRkY",
+      "resolver": "brave",
+      "valid": true
+    }
+  ],
+  "resolvedLinks": {
+    "https://www.reviewed.com/home-outdoors/features/the-best-travel-mugs": {
+      "title": "The Best Travel Mugs of 2026",
+      "description": "Because everyone deserves to enjoy a drink on the go",
+      "image": "https://reviewed-com-res.cloudinary.com/image/fetch/s--m9jZyjpQ--/b_white,c_limit,cs_srgb,f_auto,fl_progressive.strip_profile,g_center,q_auto,w_1200/https://reviewed-production.s3.amazonaws.com/1702401106786/thermosTBRNupdateHERO.png",
+      "url": "https://www.reviewed.com/home-outdoors/best-right-now/the-best-travel-mugs"
+    },
+    "https://www.foodnetwork.com/how-to/packages/shopping/product-reviews/best-travel-coffee-mug": {
+      "title": "7 Best Travel Mugs of 2026, Tested and Reviewed",
+      "description": "We brewed and sipped many cups of coffee to find the best travel mugs for your needs.",
+      "image": "https://food.fnr.sndimg.com/content/dam/images/food/fullset/2022/04/20/FN-ProductTestingImages-12-TRAVEL%20COFFEE%20MUG-v1.png.rend.hgtvcom.616.462.85.suffix/1650570446622.webp",
+      "url": "https://www.foodnetwork.com/how-to/packages/shopping/product-reviews/best-travel-coffee-mug"
+    },
+    "https://www.tomsguide.com/best-picks/best-travel-coffee-mugs": {
+      "title": "Best travel coffee mugs in 2025 — tested and rated",
+      "description": "We’ve tested a range of models to find the best travel coffee mugs",
+      "image": "https://cdn.mos.cms.futurecdn.net/Mk324Qb4AktMsHVncVkm8c-2000-80.jpg",
+      "url": "https://www.tomsguide.com/best-picks/best-travel-coffee-mugs"
+    },
+    "https://www.wired.com/gallery/best-travel-mugs/": {
+      "title": "The Best Travel Mugs That Keep Your Coffee Hot and You Happy",
+      "description": "These top picks are built to last, keeping your coffee (or tea) at the perfect temp and your mornings smooth—no leaks, no lukewarm lattes, no stress.",
+      "image": "https://media.wired.com/photos/67b782f4bbd46f6a544a1a29/191:100/w_1280,c_limit/Best%20Travel%20Mugs%20Reviewer%20Collage%20022025%20SOURCE%20Boutayna%20Chokrane.jpg",
+      "url": "https://www.wired.com/gallery/best-travel-mugs/"
+    }
+  }
+}

@@ -1,0 +1,107 @@
+{
+  "slug": "pillows",
+  "query": "best pillows",
+  "title": "Best pillows | Bin Diving",
+  "description": "AI-dug recommendations for best pillows. Compare options and find one that fits.",
+  "dugAt": "2026-03-18T16:37:10.412Z",
+  "recommendations": [
+    {
+      "product_name": "Beckham Hotel Collection Bed Pillows (Down Alternative, 2-Pack)",
+      "pros": [
+        "Very popular on Amazon",
+        "Budget-friendly hotel-like feel"
+      ],
+      "cons": [
+        "May flatten over long term",
+        "Not true down (synthetic fill)"
+      ],
+      "price": null,
+      "amazon_id": "B01LYNW421",
+      "sources": [
+        "https://www.tomsguide.com/mattresses/pillows-bedding/beckham-hotel-collection-pillow-review",
+        "https://www.goodhousekeeping.com/home-products/pillow-reviews/a61575545/beckham-hotel-collection-pillow-review/"
+      ],
+      "amazon_url": "https://www.amazon.com/Pillows-for-Sleeping-2-Pack/dp/B01LYNW421",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/KgMM0P146yzZ9Zn1NFfKOcfvrwySIhl9NlcH9_3jn0Q/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9ob3Rl/bGNvbGxlY3Rpb25w/aWxsb3dzLmNvbS9j/ZG4vc2hvcC9maWxl/cy9CZWNraGFtX0hv/dGVsX0NvbGxlY3Rp/b25fR2VsX0Nvb2xp/bmdfRG93bl9BbHRl/cm5hdGl2ZV9QaWxs/b3dzXzItUGFjay53/ZWJwP3Y9MTc2ODk3/OTY1NSZ3aWR0aD01/MzM",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "Coop Home Goods Original Adjustable Pillow",
+      "pros": [
+        "Fully adjustable fill for custom loft",
+        "Works for all sleep positions"
+      ],
+      "cons": [
+        "Higher price than basic pillows",
+        "Some find memory foam scent on arrival"
+      ],
+      "price": null,
+      "amazon_id": "B00EINBSEW",
+      "sources": [
+        "https://www.goodhousekeeping.com/home-products/pillow-reviews/a40242731/coop-home-goods-original-pillow-review/",
+        "https://www.forbes.com/sites/forbes-personal-shopper/article/best-pillow-on-amazon/"
+      ],
+      "amazon_url": "https://www.amazon.com/Coop-Home-Goods-Memory-Foam-Pillow-For-Side-Back-Stomach-Sleeper/dp/B00EINBSEW",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/KAE7JTxHU2Tgp5J3-XfSZtE-mMmzDlBYcCV_yBm-8TI/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9pLmVi/YXlpbWcuY29tL2lt/YWdlcy9nL1JzY0FB/ZVN3QldscFBRV34v/cy1sNDAwLndlYnA",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "Purple Harmony Pillow",
+      "pros": [
+        "Good shape retention and support",
+        "Designed to stay cool"
+      ],
+      "cons": [
+        "Premium price",
+        "May feel firm to some sleepers"
+      ],
+      "price": null,
+      "amazon_id": "B07ZWHGZBK",
+      "sources": [
+        "https://www.tomsguide.com/mattresses/pillows-bedding/purple-harmony-vs-coop-adjustable-latex-pillow",
+        "https://www.sfgate.com/shopping/article/best-pillows-20225618.php"
+      ],
+      "amazon_url": "https://www.amazon.com/Purple-Harmony-Pillow-Grid-Standard/dp/B07ZWHGZBK",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/u0p5RVO6PeR1FpLNF_XEOMVYJswyOCYE7Ec7mqwySxg/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9hc3Nl/dHMucm9vbXN0b2dv/LmNvbS9wcm9kdWN0/L3F1ZWVuLXB1cnBs/ZS1oYXJtb255LXBp/bGxvd181OTkxMDMy/NV9hbHQtaW1hZ2Ut/Mj9jYWNoZS1pZD04/MTBkMTYzYzBlMzAz/ZWM0MWJiYzg2MWI2/OGI1ZjZkMyZ3PTE5/MjAmcT04MA",
+      "resolver": "brave",
+      "valid": true
+    }
+  ],
+  "resolvedLinks": {
+    "https://www.tomsguide.com/mattresses/pillows-bedding/beckham-hotel-collection-pillow-review": {
+      "title": "\"I instantly found it plush and comfy.\" My Beckham Hotel Collection Pillow review",
+      "description": "The Beckham Hotel Collection Original Down Alternative is still the best pillow for smaller budgets, but it's not the most durable",
+      "image": "https://cdn.mos.cms.futurecdn.net/3LJzq5E6VqDxLaUC7PZvin-2100-80.png",
+      "url": "https://www.tomsguide.com/mattresses/pillows-bedding/beckham-hotel-collection-pillow-review"
+    },
+    "https://www.goodhousekeeping.com/home-products/pillow-reviews/a61575545/beckham-hotel-collection-pillow-review/": {
+      "title": "Is Amazon's Best-Selling Pillow Worth the Hype? I Tested It to Find Out",
+      "description": "Spoiler alert: It might just help you get a good night's sleep, and it won't break the bank.",
+      "image": "https://hips.hearstapps.com/hmg-prod/images/ghk0624-beddingdigital-pillows-beckham-042-web-preview-6661c934dd6ab.jpg?crop=1.00xw:0.748xh;0,0.252xh&resize=1200:*",
+      "url": "https://www.goodhousekeeping.com/home-products/pillow-reviews/a61575545/beckham-hotel-collection-pillow-review/"
+    },
+    "https://www.goodhousekeeping.com/home-products/pillow-reviews/a40242731/coop-home-goods-original-pillow-review/": {
+      "title": "This Pillow Beat Hundreds of Other Pillows for the #1 Spot on Our List",
+      "description": "Plush and supportive, perfect for every sleeping position.",
+      "image": "https://hips.hearstapps.com/hmg-prod/images/coop-home-goods-original-pillow-review-1657734282.jpg?crop=1.00xw:1.00xh;0,0&resize=1200:*",
+      "url": "https://www.goodhousekeeping.com/home-products/pillow-reviews/a40242731/coop-home-goods-original-pillow-review/"
+    },
+    "https://www.tomsguide.com/mattresses/pillows-bedding/purple-harmony-vs-coop-adjustable-latex-pillow": {
+      "title": "I slept on the Purple Harmony and the Coop Adjustable Latex Pillow as a side sleeper with sore shoulders — for me, there's a clear winner",
+      "description": "These are two very different latex pillows — which one reigns supreme?",
+      "image": "https://cdn.mos.cms.futurecdn.net/MmF7kLK9P6HwBju8ienVjR-1920-80.jpg",
+      "url": "https://www.tomsguide.com/mattresses/pillows-bedding/purple-harmony-vs-coop-adjustable-latex-pillow"
+    },
+    "https://www.sfgate.com/shopping/article/best-pillows-20225618.php": {
+      "title": "The best pillows to get the sleep of your dreams night after night",
+      "description": "The best pillows are supportive, comfortable, breathable, and contour to your body to ensure your neck and spine stay aligned as you sleep. These are our picks.",
+      "image": "https://s.hdnux.com/photos/01/47/56/43/27191519/5/rawImage.jpg",
+      "url": "https://www.sfgate.com/shopping/article/best-pillows-20225618.php"
+    }
+  }
+}

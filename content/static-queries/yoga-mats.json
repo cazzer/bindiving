@@ -1,0 +1,119 @@
+{
+  "slug": "yoga-mats",
+  "query": "best yoga mats",
+  "title": "Best yoga mats | Bin Diving",
+  "description": "AI-dug recommendations for best yoga mats. Compare options and find one that fits.",
+  "dugAt": "2026-03-18T17:27:50.872Z",
+  "recommendations": [
+    {
+      "product_name": "Manduka PRO Yoga Mat (6mm)",
+      "pros": [
+        "Dense cushioning",
+        "Durable lifetime guarantee"
+      ],
+      "cons": [
+        "Heavy",
+        "Can be slippery when very sweaty"
+      ],
+      "price": "$138",
+      "amazon_id": "B0D2SJBVKZ",
+      "sources": [
+        "https://www.tomsguide.com/best-picks/best-yoga-mats",
+        "https://www.yogajournal.com/accessories/yoga-mats/best-yoga-mats//",
+        "https://m.media-amazon.com/images/I/81Rr-f-CXfS.pdf"
+      ],
+      "amazon_url": "https://www.amazon.com/Manduka-PRO-Yoga-Mat/dp/B0D2SJBVKZ",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/npw54yZNwt5bs08omapv_OXOuqh_4Unck7JaxUT8rrI/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly91cy55/b2dhc3R1ZGlvc3Rv/cmUuY29tL2Nkbi9z/aG9wL2ZpbGVzL2J5/dGJqcmprMGgwLmpw/Zz92PTE3NzEzMjUx/OTI",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "Lululemon The Mat",
+      "pros": [
+        "Excellent dry grip in sweaty practice",
+        "Easy to clean"
+      ],
+      "cons": [
+        "Premium price",
+        "Less cushioned than thicker mats"
+      ],
+      "price": "$119.99",
+      "amazon_id": "B005NZ7PEQ",
+      "sources": [
+        "https://www.tomsguide.com/best-picks/best-yoga-mats",
+        "https://www.livescience.com/best-workout-equipment-for-home"
+      ],
+      "image_url": "https://images-na.ssl-images-amazon.com/images/G/01/x-locale/common/grey-pixel.gif",
+      "images": [
+        "https://images-na.ssl-images-amazon.com/images/G/01/x-locale/common/grey-pixel.gif"
+      ],
+      "amazon_url": "https://www.amazon.com/Manduka-Yoga-Pilates-Black-Sage/dp/B005NZ7PEQ/ref=mp_s_a_1_1?dib=eyJ2IjoiMSJ9.vpOKS7z6fuVWTKvVCXe0Ns7jqoLUX42d_VtmcNue8qdgbefSzWipEanC4RSIfpr0L2YX91n3B8LJN9Lq1qoolbcRFK_-M6BCFA3sux08BVsvAW8qTWqelD4ZmGGjGXcw6-HPeoYYvMZIbuCgDHxmm3J4vto8aa5q6ypwhMEWPa7fgKdHij5tR7RohuE8b0xgPSxTOeZSQWB4uzjP2jfghQ.aTO-M0E_a9YBmX9A-Eu1nDCDRWojmTd-FJlPDaLyolM&dib_tag=se&keywords=Lululemon+The+Mat&qid=1773854866&sr=8-1",
+      "brand": "Manduka",
+      "blackFriday": false,
+      "gpt_azn": null,
+      "resolver": "cheerio",
+      "valid": true
+    },
+    {
+      "product_name": "Liforme Original Yoga Mat",
+      "pros": [
+        "Outstanding grip and alignment markers",
+        "Eco-conscious materials"
+      ],
+      "cons": [
+        "Expensive",
+        "Contains latex in base layer"
+      ],
+      "price": "$149.95",
+      "amazon_id": "B06XDNL1BL",
+      "sources": [
+        "https://www.outdoorgearlab.com/reviews/fitness/yoga-mat/liforme-original",
+        "https://www.hunker.com/13767906/best-yoga-mats-on-amazon"
+      ],
+      "amazon_url": "https://www.amazon.com/Liforme-Yoga-Mat-Eco-Friendly-Biodegradable/dp/B06XDNL1BL",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/8lxrgMnHB_tgWZcGXotB2EkXov2jqq1BPM666fhtZSI/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly93d3cu/eW9nYWxpbmVzaG9w/LmNvbS9tZWRpYS93/eXNpd3lnL3ZzZWJp/bmEvbGlmb3JtZV93/aGl0ZV9tYWdpY195/b2dhX21hdC5qcGc",
+      "resolver": "brave",
+      "valid": true
+    }
+  ],
+  "resolvedLinks": {
+    "https://www.tomsguide.com/best-picks/best-yoga-mats": {
+      "title": "We test yoga mats for a living — these are the 6 we'd buy",
+      "description": "These are our top picks",
+      "image": "https://cdn.mos.cms.futurecdn.net/CSamZHFiPELCJtSsr2HLaG-1920-80.jpg",
+      "url": "https://www.tomsguide.com/best-picks/best-yoga-mats"
+    },
+    "https://www.yogajournal.com/accessories/yoga-mats/best-yoga-mats//": {
+      "title": "I've Been Practicing Yoga for More Than 20 Years. These Are the Only Mats I Recommend.",
+      "description": "Finding the right mat for me didn't change my entire practice. But it changed a lot.",
+      "image": "https://www.yogajournal.com/wp-content/uploads/2026/02/best-yoga-mats_getty.png",
+      "url": "https://www.yogajournal.com/lifestyle/best-yoga-mats-guide/"
+    },
+    "https://m.media-amazon.com/images/I/81Rr-f-CXfS.pdf": {
+      "title": "",
+      "description": "",
+      "image": "",
+      "url": "https://m.media-amazon.com/images/I/81Rr-f-CXfS.pdf"
+    },
+    "https://www.livescience.com/best-workout-equipment-for-home": {
+      "title": "No need to splash out on a gym membership, this kit will keep you fit in the comfort of your own home",
+      "description": "Smash your New Year's exercise goals with the best workout equipment for home gyms, tried and tested by our fitness experts.",
+      "image": "https://cdn.mos.cms.futurecdn.net/qZQ3X4awDKGr4KH9CdpeXT-1920-80.jpg",
+      "url": "https://www.livescience.com/best-workout-equipment-for-home"
+    },
+    "https://www.outdoorgearlab.com/reviews/fitness/yoga-mat/liforme-original": {
+      "title": "Liforme Original Review",
+      "description": "The Liforme Original is a grippy, comfortable, and eco-friendly mat that is a favorite of traveling yoga teachers. It balances a smooth surface that is...",
+      "image": "https://d1i8d6ce8wwubf.cloudfront.net/photos/28/55/406981_15452_XXL.jpg",
+      "url": "https://www.outdoorgearlab.com/reviews/fitness/yoga-mat/liforme-original"
+    },
+    "https://www.hunker.com/13767906/best-yoga-mats-on-amazon": {
+      "title": "The Best Yoga Mats To Buy On Amazon - Hunker",
+      "description": "Finding the perfect yoga mat online doesn't have to be hard. From budget-friendly finds to options for joint pain, here are the best yoga mats you can buy on Amazon.",
+      "image": "https://www.hunker.com/hunker/best-yoga-mats-on-amazon/5838c65c839c464892133500bc0caa4c.jpg",
+      "url": "https://www.hunker.com/13767906/best-yoga-mats-on-amazon/"
+    }
+  }
+}

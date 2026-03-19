@@ -1,0 +1,94 @@
+{
+  "slug": "hair-ties-clips",
+  "query": "best hair ties & clips",
+  "title": "Best hair ties & clips | Bin Diving",
+  "description": "AI-dug recommendations for best hair ties & clips. Compare options and find one that fits.",
+  "dugAt": "2026-03-18T23:06:48.008Z",
+  "recommendations": [
+    {
+      "product_name": "TELETIES Spiral Hair Ties (Large)",
+      "pros": [
+        "no-pull coil design",
+        "different sizes for hair types"
+      ],
+      "cons": [
+        "can stretch over long use",
+        "higher-priced than basic elastics"
+      ],
+      "price": null,
+      "amazon_id": "B0CLHQH7DT",
+      "sources": [
+        "https://www.teleties.com/collections/spiral-hair-ties"
+      ],
+      "amazon_url": "https://www.amazon.com/TELETIES-Spiral-Collection-Ponytail-Resistant/dp/B0CLHQH7DT",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/Mc7M6ipZHtXGpRjVPVS90mDxU9nK-7YxzJrGi1kGmE4/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9tLm1l/ZGlhLWFtYXpvbi5j/b20vaW1hZ2VzL0kv/MzFzVms3Mk14YUwu/anBn",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "invisibobble Original Traceless Spiral Hair Ties",
+      "pros": [
+        "holds without creasing",
+        "widely recommended for gentle hold"
+      ],
+      "cons": [
+        "can lose shape after extended use",
+        "some knockoffs on market"
+      ],
+      "price": null,
+      "amazon_id": "B00F23MMF6",
+      "sources": [
+        "https://www.influenster.com/reviews/invisibobble-original-57",
+        "https://www.reviewmeta.com/brand/invisibobble"
+      ],
+      "amazon_url": "https://www.amazon.com/invisibobble-Original-Traceless-Non-Soaking-Accessories/dp/B00F23MMF6",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/xHxNcCvPgtqYeLKoQgpGelCPPNds_PLEei4hUamXZgo/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9iZWF1/dHlzaGlwdG95b3Uu/Y29tL2Nkbi9zaG9w/L2ZpbGVzL2ludmlz/aWJvYmJsZV8tX09y/aWdpbmFsX1RyYWNl/bGVzc19TcGlyYWxf/SGFpcl9UaWVzXy1f/UGFja19vZl84X2Ns/ZWFyX3ByZXR6ZWxf/YnJvd24uanBnP2Ny/b3A9Y2VudGVyJmhl/aWdodD01Mzcmdj0x/NzQ1NTgyNzUxJndp/ZHRoPTQzMA",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "scünci No-Slip Grip Jumbo Claw/ Jaw Clip (Extra Large)",
+      "pros": [
+        "strong hold for thick/long hair",
+        "no-slip grip design"
+      ],
+      "cons": [
+        "plastic can break if dropped",
+        "may feel bulky for fine hair"
+      ],
+      "price": null,
+      "amazon_id": "B09R3KZ9HC",
+      "sources": [
+        "https://www.today.com/shop/best-claw-clips-rcna118034",
+        "https://www.allure.com/gallery/best-claw-clips"
+      ],
+      "amazon_url": "https://www.amazon.com/Scunci-Conair-No-Slip-Thick-Packaging/dp/B09R3KZ9HC",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/ybnlC45NZssYNClIgF7-u1S5XoJy3051FzpxA2qETAI/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9pbWFn/ZXMtbmEuc3NsLWlt/YWdlcy1hbWF6b24u/Y29tL2ltYWdlcy9J/LzcxVDZlbVU2b1RM/LmpwZw",
+      "resolver": "brave",
+      "valid": true
+    }
+  ],
+  "resolvedLinks": {
+    "https://www.teleties.com/collections/spiral-hair-ties": {
+      "title": "Spiral Hair Ties: No-Pull, No-Damage for All Hair Types",
+      "description": "Shop Spiral hair ties from TELETIES that slide on and off without slipping, snagging or tugging. Choose a free gift when you spend $35!",
+      "image": "http://www.teleties.com/cdn/shop/files/TELETIES_REGISTERED.png?v=1745867383",
+      "url": "https://www.teleties.com/collections/spiral-hair-ties"
+    },
+    "https://www.today.com/shop/best-claw-clips-rcna118034": {
+      "title": "Are claw clips better for your hair? We asked a hairstylist",
+      "description": "An expert shares why she \"always recommends\" claw clips over hair ties.",
+      "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_social_share_1200x630_center,f_auto,q_auto:best/rockcms/2023-09/230929-claw-clips-bd-main-7112be.jpg",
+      "url": "https://www.today.com/shop/best-claw-clips-rcna118034"
+    },
+    "https://www.allure.com/gallery/best-claw-clips": {
+      "title": "Our Favorite Claw Clips for Split-Second Styling",
+      "description": "The hair-wrangling accessories we're obsessed with.",
+      "image": "https://media.allure.com/photos/6661f68c8a3a5f9e3aeb77a4/16:9/w_1280,c_limit/claw-clips-EDITORS-062024.jpg",
+      "url": "https://www.allure.com/gallery/best-claw-clips"
+    }
+  }
+}

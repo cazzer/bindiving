@@ -1,0 +1,101 @@
+{
+  "slug": "facial-cleansers",
+  "query": "best facial cleansers",
+  "title": "Best facial cleansers | Bin Diving",
+  "description": "AI-dug recommendations for best facial cleansers. Compare options and find one that fits.",
+  "dugAt": "2026-03-18T18:03:08.323Z",
+  "recommendations": [
+    {
+      "product_name": "CeraVe Hydrating Facial Cleanser",
+      "pros": [
+        "Gentle, non-foaming",
+        "Contains ceramides + hyaluronic acid"
+      ],
+      "cons": [
+        "Some users report breakouts or film on skin",
+        "Varied experiences with different batches"
+      ],
+      "price": null,
+      "amazon_id": "B01MSSDEPK",
+      "sources": [
+        "https://www.cerave.com/our-products-cleansers-hydrating-cleanser",
+        "https://www.whowhatwear.com/best-drugstore-face-washes"
+      ],
+      "amazon_url": "https://www.amazon.com/CeraVe-Hydrating-Facial-Cleanser-Fragrance/dp/B01MSSDEPK",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/88gWerDX91-Gx6BfKUT0pvwm3EsNIEBT-Nh4J1sHHGY/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9pNS53/YWxtYXJ0aW1hZ2Vz/LmNvbS9zZW8vQ2Vy/YVZlLUh5ZHJhdGlu/Zy1GYWNpYWwtQ2xl/YW5zZXItRGFpbHkt/RmFjZS1XYXNoLWZv/ci1Ob3JtYWwtdG8t/RHJ5LVNraW4tVmFs/dWUtUGFjay0xNi1v/ei1QdW1wLTMtb3ot/VHJhdmVsLVNpemVf/NmI4MzdkOTItMTBi/NC00YzlmLWIyMTUt/NmRiZDNmODIxM2Vh/LmNjNTc4MzFiMzc4/OTg0NzI1MWQ2MDdk/OGJmZDFiZmJjLmpw/ZWc_b2RuSGVpZ2h0/PTU3MyZvZG5XaWR0/aD01NzMmb2RuQmc9/RkZGRkZG",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "La Roche-Posay Toleriane Hydrating Gentle Cleanser",
+      "pros": [
+        "Dermatologist-recommended formula",
+        "Designed for sensitive, dry to normal skin"
+      ],
+      "cons": [
+        "Some reports of sensitivity with certain batches/refill packaging",
+        "Can be difficult to find at times"
+      ],
+      "price": null,
+      "amazon_id": "B01N7T7JKJ",
+      "sources": [
+        "https://www.laroche-posay.us/our-products/face/face-wash/toleriane-hydrating-gentle-facial-cleanser-tolerianehydratinggentlefacialcleanser.html",
+        "https://www.homewisereview.com/la-roche-posay-toleriane-hydrating-gentle-cleanser-review-calm-simple-reliable/"
+      ],
+      "amazon_url": "https://www.amazon.com/Roche-Posay-Toleriane-Hydrating-Gentle-Cleanser/dp/B01N7T7JKJ",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/G6--NPqKIjVlPS5cljRjQ7CnLyuxBVTtBQAsUmoRDiU/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly93d3cu/bGFyb2NoZS1wb3Nh/eS51cy9kdy9pbWFn/ZS92Mi9BQU5HX1BS/RC9vbi9kZW1hbmR3/YXJlLnN0YXRpYy8t/L1NpdGVzLWFjZC1s/YXJvY2hlLXBvc2F5/LW1hc3Rlci1jYXRh/bG9nL2RlZmF1bHQv/ZHdhYWE3NTRmZi9p/bWcvdG9sZXJpYW5l/aHlkcmF0aW5nZ2Vu/dGxlZmFjaWFsY2xl/YW5zZXIvMDA3JTIw/VXBkYXRlL0xhUm9j/aGVQb3NheS1Qcm9k/dWN0LVRvbGVyaWFu/ZS1HZW50bGUtQ2xl/YW5zZXItQVRGQ2xp/bmljYWwuanBnP3N3/PTI1OCZzZnJtPWpw/ZyZxPTcw",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "Cetaphil Gentle Skin Cleanser",
+      "pros": [
+        "Longtime dermatologist staple",
+        "Very mild and widely recommended for sensitive skin"
+      ],
+      "cons": [
+        "Recent reformulation has caused irritation for some users",
+        "Texture/feel not preferred by everyone"
+      ],
+      "price": null,
+      "amazon_id": "B099N3NM61",
+      "sources": [
+        "https://safecosmetics.review/articles/1044/cetaphil-cetaphil-gentle-skin-cleanser",
+        "https://needforthis.com/beauty-personal-care/cetaphil-gentle-skin-cleanser-16oz-review/"
+      ],
+      "amazon_url": "https://www.amazon.com/CETAPHIL-Hydrating-Sensitive-Fragrance-Non-Foaming/dp/B099N3NM61",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/soKbdzNDHwmTIQCPBZtE4u-pyorpLZBK8_hQlYTgj8Q/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly93d3cu/Y2V0YXBoaWwuY29t/LmF1L2R3L2ltYWdl/L3YyL0JHR05fUFJE/L29uL2RlbWFuZHdh/cmUuc3RhdGljLy0v/U2l0ZXMtZ2FsZGVy/bWEtYXUtbS1jYXRh/bG9nL2RlZmF1bHQv/ZHdhYWQ3MWRhYi9Q/RFBfUE5HL0NFVEFQ/SElMX1BEUF9QUk9E/VUNUX0lNQUdFU19D/T1JFX0dlbnRsZV9T/a2luX0NsZWFuc2Vy/XzUwMG1MLnBuZz9z/dz05MDAmc2g9OTAw/JnNtPWZpdCZxPTg1",
+      "resolver": "brave",
+      "valid": true
+    }
+  ],
+  "resolvedLinks": {
+    "https://www.cerave.com/our-products-cleansers-hydrating-cleanser": {
+      "title": "Hydrating Facial Cleanser: Skin Refresh | CeraVe",
+      "description": "",
+      "image": "",
+      "url": "https://www.cerave.com/skincare/cleansers/hydrating-facial-cleanser"
+    },
+    "https://www.whowhatwear.com/best-drugstore-face-washes": {
+      "title": "10 Face Washes from $2 We Tell Our Friends to Buy at Walmart, Amazon, and CVS",
+      "description": "They rival luxury formulas.",
+      "image": "https://cdn.mos.cms.futurecdn.net/z5usLosgfuVnnfAsBdGhWZ-1200-80.jpg",
+      "url": "https://www.whowhatwear.com/best-drugstore-face-washes"
+    },
+    "https://safecosmetics.review/articles/1044/cetaphil-cetaphil-gentle-skin-cleanser": {
+      "title": "Cetaphil Gentle Skin Cleanser Review 2026: Yuka Score 100/100",
+      "description": "Is Cetaphil Gentle Skin Cleanser safe? Our 2026 review analyzes its 100/100 Yuka score, gentle formula, and face care benefits for all skin types. Read more now.",
+      "image": "https://res.cloudinary.com/dv92qtbhz/image/upload/f_auto,q_auto,w_1200/safe-cosmetics/cetaphil-cetaphil-gentle-skin-cleanser",
+      "url": "https://safecosmetics.review/articles/1044/cetaphil-cetaphil-gentle-skin-cleanser"
+    },
+    "https://needforthis.com/beauty-personal-care/cetaphil-gentle-skin-cleanser-16oz-review/": {
+      "title": "Cetaphil Gentle Skin Cleanser 16oz Review: Why 61,000+ Amazon Buyers C",
+      "description": "Read our in-depth Cetaphil Gentle Skin Cleanser 16oz review. Rated 4.7/5 stars. Available for $13.49. Find out if this product is worth buying.",
+      "image": "https://needforthis.com/wp-content/uploads/2026/02/cetaphil-gentle-skin-cleanser-16oz-review-the-61-product-1-1024x1024.jpg",
+      "url": "https://needforthis.com/beauty-personal-care/cetaphil-gentle-skin-cleanser-16oz-review/"
+    }
+  }
+}

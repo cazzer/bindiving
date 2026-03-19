@@ -1,0 +1,115 @@
+{
+  "slug": "litter-boxes",
+  "query": "best litter boxes",
+  "title": "Best litter boxes | Bin Diving",
+  "description": "AI-dug recommendations for best litter boxes. Compare options and find one that fits.",
+  "dugAt": "2026-03-18T19:06:56.487Z",
+  "recommendations": [
+    {
+      "product_name": "Whisker Litter-Robot 5 Pro",
+      "pros": [
+        "Advanced AI cat recognition",
+        "Large waste drawer, less frequent emptying"
+      ],
+      "cons": [
+        "High price",
+        "Early software/firmware reports from some users"
+      ],
+      "price": "$749.00",
+      "amazon_id": "B0FFDNZSHT",
+      "sources": [
+        "https://www.whisker.com/litter-robot-5-pro/",
+        "https://cats.com/reviews/best-self-cleaning-litter-box",
+        "https://www.forbes.com/sites/anthonykarcz/2025/10/21/whisker-litter-robot-5-pro-uses-ai-to-identify-your-cat-and-its-poop/"
+      ],
+      "image_url": "https://images-na.ssl-images-amazon.com/images/G/01/x-locale/common/grey-pixel.gif",
+      "images": [
+        "https://images-na.ssl-images-amazon.com/images/G/01/x-locale/common/grey-pixel.gif"
+      ],
+      "amazon_url": "https://www.amazon.com/Litter-Robot-Supply-Bundle-Whisker-Black/dp/B0FFDNZSHT/ref=mp_s_a_1_3?dib=eyJ2IjoiMSJ9.ZraTmI1fWMsXbzWdENGEcHwYbJNuD7M5ROURFs9fxnaK4GgT11CIKWuUxINpONuB47CpX4dXMM5m7qEGkoUwQbUhMMtFV54sPYUYboScmhGYuC8snVLdjdbWYiEhmIoEQTPFozvtqKYB7XK5qqRVAhO5cKjJQUkVeM20iyUaoB-sE1khfMrWR0Gh7UQSf6ebAGRq7xTn0ADsWjJQ0qNIhQ.mDDTZQ3cl8tl7oZvT6JvpmrRFHUSEyIcM-9uLqULrXg&dib_tag=se&keywords=Whisker+Litter-Robot+5+Pro&qid=1773860811&sr=8-3",
+      "brand": "Litter-Robot 4 Supply Bundle by Whisker, Black - Automatic, Self-Cleaning Cat Litter Box, Includes Litter-Robot 4, 3 OdorTrap Refills, 10 Liners, 30 Cleaner Wipes, & 2 Carbon Filters",
+      "blackFriday": false,
+      "gpt_azn": null,
+      "resolver": "cheerio",
+      "valid": true
+    },
+    {
+      "product_name": "PETKIT PUROBOT ULTRA Automatic Litter Box",
+      "pros": [
+        "AI camera and multi-cat recognition",
+        "Auto waste packing and hands-off maintenance"
+      ],
+      "cons": [
+        "Large footprint and subscription for advanced features",
+        "Some users report occasional sensor/recognition issues"
+      ],
+      "price": null,
+      "amazon_id": "B0FLY4L3H6",
+      "sources": [
+        "https://www.catster.com/lifestyle/petkit-purobot-ultra-automatic-litter-box-review/",
+        "https://petkit.com/products/purobot-ultra",
+        "https://tech.yahoo.com/ai/articles/purobot-ultra-review-ai-powered-162124422.html"
+      ],
+      "amazon_url": "https://www.amazon.com/PETKIT-Automatic-Self-Cleaning-Recognition-LiveStreaming/dp/B0FLY4L3H6",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/Znab8UBoxJcKjqPI_HRSs_NIGewR0H9ovPabdNLDU_E/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly93d3cu/cGV0a2l0Z2xvYmFs/LmNvbS9jZG4vc2hv/cC9maWxlcy9QZXRr/aXRfUHVyb2JvdF9V/bHRyYV9hdXRvbWF0/aWNfbGl0dGVyX2Jv/eF9leGNlbGxlbnRf/b2RvdXJfY29udHJv/bF9hbmRfQXV0b21h/dGljX3dhc3RlX3Bh/Y2tpbmcud2VicD92/PTE3NDUzODI2NDMm/d2lkdGg9MTk0Ng",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "PetSafe ScoopFree Self-Cleaning Litter Box",
+      "pros": [
+        "Proven, budget-friendly automatic option",
+        "Uses crystal trays to reduce daily scooping"
+      ],
+      "cons": [
+        "Requires proprietary crystal trays (ongoing cost)",
+        "Some users report odor/coverage issues with crystals"
+      ],
+      "price": null,
+      "amazon_id": "B07WZPJ2LW",
+      "sources": [
+        "https://www.tomsguide.com/home/smart-home/my-cats-have-tested-these-robotic-litter-boxes-for-months-heres-the-one-they-use-the-most",
+        "https://www.nationalgeographic.com/lifestyle/article/best-self-cleaning-litter-box",
+        "https://www.petco.com/shop/en/petcostore/product/petsafe-scoopfree-covered-self-cleaning-second-generation-cat-litter-box"
+      ],
+      "amazon_url": "https://www.amazon.com/PetSafe-ScoopFree-Automatic-Self-Cleaning-Litter/dp/B07WZPJ2LW",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/HDvVIhUz99dqdoMj9KPQTmFBdQvo0dGX2Wj2g0KcOFw/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9jZG4u/c2hvcGlmeS5jb20v/cy9maWxlcy8xLzAz/MzkvNjY1NS81Mjc1/L2ZpbGVzL1BBTDAw/LTE2OTY1X1AwMC5w/bmc_dj0xNzA4NjI4/NjE1JndpZHRoPTcy/MA",
+      "resolver": "brave",
+      "valid": true
+    }
+  ],
+  "resolvedLinks": {
+    "https://www.whisker.com/litter-robot-5-pro/": {
+      "title": "Litter-Robot® 5 Pro",
+      "description": "The latest and greatest Litter-Robot automatic litter box. With AI cat recognition and dual cameras, Litter-Robot 5 Pro provides individualized cat insights.",
+      "image": "https://images.litter-robot.com/media/catalog/product/cache/6517c62f5899ad6aa0ba23ceb3eeff97/l/r/lr5_pro_black_gallery_cat_gh.png",
+      "url": "https://www.whisker.com/litter-robot-5-pro"
+    },
+    "https://cats.com/reviews/best-self-cleaning-litter-box": {
+      "title": "7 Best Automatic Litter Boxes in 2026 (We Tested Over 30 Models) - Cats.com",
+      "description": "Looking for the Best automatic self cleaning litter boxes For Odor Control & Small Apartments? We went out and did the research for you. Click here to read more",
+      "image": "https://cats.com/wp-content/uploads/2026/02/AutomaticLitterBoxes1.jpg",
+      "url": "https://cats.com/reviews/best-self-cleaning-litter-box"
+    },
+    "https://petkit.com/products/purobot-ultra": {
+      "title": "Purobot Ultra Automatic Litter Box",
+      "description": "Monitors your cat’s urinary health with an AI camera, tracking litter-box behavior and recognizing each pet. Automatically cleans, seals every trash bag, and refills a new one. Ideal for multi-cat homes, offering a hygienic, hands-free, and low-maintenance litter experience.",
+      "image": "http://petkit.com/cdn/shop/files/purobot-ultra-automatic-cat-litter-box-app-control-2-year-warranty.png?v=1773384298&width=2048",
+      "url": "https://petkit.com/products/purobot-ultra"
+    },
+    "https://tech.yahoo.com/ai/articles/purobot-ultra-review-ai-powered-162124422.html": {
+      "title": "PUROBOT ULTRA Review: Is this AI-powered auto litter box worth the hype?",
+      "description": "TAMPA BAY, Fla (BLOOM) – In a world where AI technology is enhancing every facet of our lives, PETKIT has brought the future of pet care to our homes with its PUROBOT ULTRA. Designed with convenience and health tracking in mind, this smart cat litter box promises to ease the lives of cat owners while […]",
+      "image": "https://s.yimg.com/lo/mysterio/api/1AA452742D4F7EF4FD9DDCAD360C2FAB3405BE5D7DF5D251A4A98F44905F1DBB/subgraphmysterio/resizefit_w1200;quality_90;format_webp/https:%2F%2Fs.yimg.com%2Fos%2Fen%2Fwfla_article_174%2Fed97f3fe435ed4e1d972ce626b06e647",
+      "url": "https://www.wfla.com/bloom-tampa-bay/bloom-pets/purobot-ultra-review-is-this-ai-powered-auto-litter-box-worth-the-hype/"
+    },
+    "https://www.tomsguide.com/home/smart-home/my-cats-have-tested-these-robotic-litter-boxes-for-months-heres-the-one-they-use-the-most": {
+      "title": "I asked cats to test these robotic litter boxes — here's the ones they think are best",
+      "description": "You'll forget about scooping ever again",
+      "image": "https://cdn.mos.cms.futurecdn.net/sSbZUxWkBJmmkmkUTJ9nNj-2000-80.jpg",
+      "url": "https://www.tomsguide.com/home/smart-home/my-cats-have-tested-these-robotic-litter-boxes-for-months-heres-the-one-they-use-the-most"
+    }
+  }
+}

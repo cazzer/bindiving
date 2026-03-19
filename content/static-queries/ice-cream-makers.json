@@ -1,0 +1,122 @@
+{
+  "slug": "ice-cream-makers",
+  "query": "best ice cream makers",
+  "title": "Best ice cream makers | Bin Diving",
+  "description": "AI-dug recommendations for best ice cream makers. Compare options and find one that fits.",
+  "dugAt": "2026-03-18T16:49:31.405Z",
+  "recommendations": [
+    {
+      "product_name": "Cuisinart ICE-21 1.5-Quart Ice Cream Maker",
+      "pros": [
+        "Affordable",
+        "Makes creamy results in ~20–30 minutes"
+      ],
+      "cons": [
+        "Small 1.5‑quart capacity",
+        "Requires pre-freezing the bowl"
+      ],
+      "price": "$69.00–$79.00",
+      "amazon_id": "B003KYSLMW",
+      "sources": [
+        "https://www.bonappetit.com/story/best-ice-cream-maker",
+        "https://www.yahoo.com/lifestyle/favorite-ice-cream-maker-only-125728760.html",
+        "https://bitgree.com/p/e/amazon-com/110979-cuisinart-ice-cream-maker-machine-1-5-quart-double-insulated-machine-sorbet-and-frozen-yogurt-maker-ready-in-20-minutes-ice-21p1-white"
+      ],
+      "amazon_url": "https://www.amazon.com/Cuisinart-ICE-21-Quart-Frozen-Yogurt-Ice/dp/B003KYSLMW",
+      "gpt_azn": "B003KYSLMW",
+      "image_url": "https://imgs.search.brave.com/k6pPhRda8Mg092r93K0SQ5-rNbifbA6rVyIGQkcqgUM/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9pLmVi/YXlpbWcuY29tL2lt/YWdlcy9nL05zOEFB/ZVN3ODF4bzdlTTYv/cy1sMjI1LmpwZw",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "Breville The Smart Scoop (BCI600/BCI600XL)",
+      "pros": [
+        "Automatic hardness settings for consistent texture",
+        "1.5‑quart capacity with built‑in compressor (no pre-freezing)"
+      ],
+      "cons": [
+        "Expensive",
+        "Some reports of reliability issues over long term"
+      ],
+      "price": "$479.99–$499.99",
+      "amazon_id": "B009OZ62IG",
+      "sources": [
+        "https://www.forbes.com/sites/forbes-personal-shopper/2023/05/26/breville-the-smart-scoop-ice-cream-maker-review-the-best-upgrade-model-on-the-market/",
+        "https://bestreviews.com/kitchen/ice-cream-makers/breville-smart-scoop-ice-cream-maker",
+        "https://breville-production-aem-assets.s3.us-west-2.amazonaws.com/Instruction-Booklets/USCM/BCI600_Instruction_Manual.pdf"
+      ],
+      "amazon_url": "https://www.amazon.com/Breville-BCI600XL-Smart-Scoop-Cream/dp/B009OZ62IG",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/LGTBEjTXfjVZs7QPnFd3B2rDW9sGchy_W7ZXr62RgtM/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9jb250/ZW50LmFidC5jb20v/aW1hZ2UucGhwL2U2/M2IxY2Q1NWVkNDhm/ZDIyNTllNWRkNTE3/YjhmM2YwP2ltYWdl/PS9tZWRpYS9pbWFn/ZXMvdmlkZW8vdGh1/bWJuYWlsL0FWLTIz/YzJiNGE5MTE0ZGVi/N2JhMjA3NzJlNWYx/MGVhNDM0LTE2LTku/anBnJndpZHRoPTY0/MCZoZWlnaHQ9MzYw/JmNhbnZhcw",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "KitchenAid Ice Cream Maker Attachment (KSMICM)",
+      "pros": [
+        "Uses existing KitchenAid stand mixer motor",
+        "Makes up to 2.0 quarts; good for occasional use"
+      ],
+      "cons": [
+        "Requires compatible KitchenAid stand mixer",
+        "Bowl must be pre-frozen and can be bulky to store"
+      ],
+      "price": "$109.99–$119.99",
+      "amazon_id": "B09Q6YX6CW",
+      "sources": [
+        "https://www.kitchenaid.com/attachments/p.pdpv5.ice-cream-maker-attachment.KSMICM.html",
+        "https://www.homesandgardens.com/reviews/kitchenaid-ice-cream-maker-attachment",
+        "https://www.bestbuy.com/product/kitchenaid-ice-cream-maker-attachment-ksmicm-white/J3KHV8FV7T"
+      ],
+      "amazon_url": "https://www.amazon.com/KitchenAid-Cream-Maker-Stand-Attachment/dp/B09Q6YX6CW",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/0tMf_1HhB2aikYI27v_U3waVoDRpFjuhidL6zBADZAw/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly90YXJn/ZXQuc2NlbmU3LmNv/bS9pcy9pbWFnZS9U/YXJnZXQvR1VFU1Rf/YzE2MzNhMzgtNjRh/ZC00ZDk5LWFmZjgt/N2EzNTQ0NTc1Mjg3/P3dpZD04MDAmaGVp/PTgwMCZxbHQ9ODAm/Zm10PXBqcGVn",
+      "resolver": "brave",
+      "valid": true
+    }
+  ],
+  "resolvedLinks": {
+    "https://www.bonappetit.com/story/best-ice-cream-maker": {
+      "title": "With the Right Ice Cream Maker, You're Only 20 Minutes Away From a Homemade Frozen Treat",
+      "description": "We churned out dozens of pints to find the cream of the crop.",
+      "image": "https://assets.bonappetit.com/photos/687fd511790e57bfe32c9d44/16:9/w_1280,c_limit/BA-Webart-Icecream-Makers_2000x1125.jpg.jpg",
+      "url": "https://www.bonappetit.com/story/best-ice-cream-maker"
+    },
+    "https://www.yahoo.com/lifestyle/favorite-ice-cream-maker-only-125728760.html": {
+      "title": "Our Favorite Ice Cream Maker is Only $70—Less Than Half the Price of Other Models",
+      "description": "The Cuisinart ICE-21 1.5-Quart Ice Cream Maker makes wonderfully creamy ice cream, frozen yogurt, and sorbet.",
+      "image": "https://s.yimg.com/ny/api/res/1.2/4l7HbkDzhL0jHSCZxdR_cA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD05MDA7Y2Y9d2VicA--/https://media.zenfs.com/en/serious_eats_articles_450/22a3a470aea6cfa0b76867a8c7416d04",
+      "url": "https://www.yahoo.com/lifestyle/favorite-ice-cream-maker-only-125728760.html"
+    },
+    "https://bitgree.com/p/e/amazon-com/110979-cuisinart-ice-cream-maker-machine-1-5-quart-double-insulated-machine-sorbet-and-frozen-yogurt-maker-ready-in-20-minutes-ice-21p1-white": {
+      "title": "Cuisinart Ice Cream Maker, 1.5 Quart Double Insulated, Sorbet and Frozen Yogurt Maker, Ready in 20 Minutes, ICE-21P1, White - Bitgree",
+      "description": "",
+      "image": "https://www.bitgree.com/p/110979/img/RzHmDGdxDTAkFrzuTXxeVo3qckAXcpim.jpg",
+      "url": "https://www.bitgree.com/p/e/amazon-com/110979-cuisinart-ice-cream-maker-15-quart-double-insulated-sorbet-and-frozen-yogurt-maker-ready-in-20-minutes-ice-21p1-white"
+    },
+    "https://bestreviews.com/kitchen/ice-cream-makers/breville-smart-scoop-ice-cream-maker": {
+      "title": "Breville Smart Scoop Ice Cream Maker",
+      "description": "",
+      "image": "",
+      "url": "https://bestreviews.com/kitchen/ice-cream-makers/breville-smart-scoop-ice-cream-maker"
+    },
+    "https://breville-production-aem-assets.s3.us-west-2.amazonaws.com/Instruction-Booklets/USCM/BCI600_Instruction_Manual.pdf": {
+      "title": "",
+      "description": "",
+      "image": "",
+      "url": "https://breville-production-aem-assets.s3.us-west-2.amazonaws.com/Instruction-Booklets/USCM/BCI600_Instruction_Manual.pdf"
+    },
+    "https://www.kitchenaid.com/attachments/p.pdpv5.ice-cream-maker-attachment.KSMICM.html": {
+      "title": "Ice Cream Maker Attachment KSMICM | KitchenAid",
+      "description": "KitchenAid Ice Cream Maker Attachment (KSMICM). Shop now.",
+      "image": "https://www.kitchenaid.com/is/image/content/dam/kitchenaid/en_us/nav/kitchenaid-logo-largev2.png?wid=1200&fmt=webp",
+      "url": "https://www.kitchenaid.com/attachments/p.ice-cream-maker-attachment.KSMICM.html"
+    },
+    "https://www.homesandgardens.com/reviews/kitchenaid-ice-cream-maker-attachment": {
+      "title": "KitchenAid Ice Cream Maker Attachment: churning perfection",
+      "description": "The KitchenAid Ice Cream Maker Attachment is mesmerizing. It churns the perfect soft scoop in under twenty-five minutes and I could hardly take my eyes off it",
+      "image": "https://cdn.mos.cms.futurecdn.net/qbk9A7G7eC3BsVrVoLa7s3-1600-80.jpg",
+      "url": "https://www.homesandgardens.com/reviews/kitchenaid-ice-cream-maker-attachment"
+    }
+  }
+}

@@ -1,0 +1,107 @@
+{
+  "slug": "led-light-bulbs",
+  "query": "best led light bulbs",
+  "title": "Best led light bulbs | Bin Diving",
+  "description": "AI-dug recommendations for best led light bulbs. Compare options and find one that fits.",
+  "dugAt": "2026-03-18T16:16:24.257Z",
+  "recommendations": [
+    {
+      "product_name": "Philips Hue White and Color Ambiance A19 (smart)",
+      "pros": [
+        "Wide color range and high ecosystem compatibility",
+        "Excellent app and voice assistant support"
+      ],
+      "cons": [
+        "Higher price than non‑smart bulbs",
+        "Requires bridge for full features (unless Bluetooth models)"
+      ],
+      "price": null,
+      "amazon_id": "B08D9N7RJ4",
+      "sources": [
+        "https://www.bobvila.com/articles/best-led-light-bulbs/",
+        "https://www.popsci.com/gear/best-led-light-bulbs/"
+      ],
+      "amazon_url": "https://www.amazon.com/Philips-Hue-Bluetooth-Compatible-Assistant/dp/B08D9N7RJ4",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/mgjULskP3GExDZk4o1gbkzNBQo7NmyrdOqL_MVh1xm8/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9tLm1l/ZGlhLWFtYXpvbi5j/b20vaW1hZ2VzL0kv/NjFvTlZrRHNuZEwu/anBn",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "Amazon Basics 60W Equivalent A19 LED (soft white)",
+      "pros": [
+        "Very affordable multi‑pack option",
+        "Good balance of brightness and efficiency for everyday use"
+      ],
+      "cons": [
+        "Basic feature set (non‑smart)",
+        "CRI and dimming performance vary by SKU"
+      ],
+      "price": null,
+      "amazon_id": "B07JMX65V9",
+      "sources": [
+        "https://www.findthisbest.com/best-led-bulbs",
+        "https://northshorecrafts.com/reviews/best-led-light-bulbs-for-home/"
+      ],
+      "amazon_url": "https://www.amazon.com/Amazon-Basics-Equivalent-Efficient-Standard/dp/B07JMX65V9",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/esB2y9eLXbp4-9EuyKe7b3xSlYFczl0cEz7y-HEodeg/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9tLm1l/ZGlhLWFtYXpvbi5j/b20vaW1hZ2VzL0kv/NzFDbFV6Ui1oNkwu/anBn",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "GE Lighting Cync / GE Cync Smart LED (various A19 options)",
+      "pros": [
+        "Good smart‑bulb features and color/white options",
+        "Strong performance in flood and specialty bulbs"
+      ],
+      "cons": [
+        "App and ecosystem less mature than Philips Hue",
+        "Some models brighter but more expensive"
+      ],
+      "price": null,
+      "amazon_id": "B09489MQG5",
+      "sources": [
+        "https://tech.yahoo.com/home/articles/best-led-floodlight-bulbs-2025-170300532.html",
+        "https://rank1one.com/best-led-light-bulbs/"
+      ],
+      "amazon_url": "https://www.amazon.com/GE-Lighting-Bluetooth-Replacement-Compatible/dp/B09489MQG5",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/3gOxtQSj0N3oYFQFv1yM8JdrXiY5LnZVhvxC3xAcpAE/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9tLm1l/ZGlhLWFtYXpvbi5j/b20vaW1hZ2VzL0kv/NTF2eG9LLWs1MUwu/anBn",
+      "resolver": "brave",
+      "valid": true
+    }
+  ],
+  "resolvedLinks": {
+    "https://www.bobvila.com/articles/best-led-light-bulbs/": {
+      "title": "We Tested 7 Popular LED Light Bulbs—This is the Best One for Everyday Use",
+      "description": "Many homeowners are making the switch to LEDs. Before you do so, get to know the best LED light bulbs available based on our tests.",
+      "image": "https://www.bobvila.com/wp-content/uploads/2020/01/Best-Light-Bulbs-1.jpg?quality=85&w=1200",
+      "url": "https://www.bobvila.com/articles/best-led-light-bulbs/"
+    },
+    "https://www.popsci.com/gear/best-led-light-bulbs/": {
+      "title": "The best LED light bulbs",
+      "description": "The best LED light bulbs are eco-friendly, long-lasting, and come in all kinds of color temperatures. Talk about a bright idea.",
+      "image": "https://www.popsci.com/wp-content/uploads/2024/03/22/best-led-light-bulbs-header.jpg?quality=85&w=1200",
+      "url": "https://www.popsci.com/gear/best-led-light-bulbs/"
+    },
+    "https://northshorecrafts.com/reviews/best-led-light-bulbs-for-home/": {
+      "title": "5 Best LED Light Bulbs for Home 2026 - Tested & Reviewed",
+      "description": "After testing the most popular LED light bulbs in real home environments, I've compiled this definitive guide to help you find the perfect lighting",
+      "image": "https://northshorecrafts.com/wp-content/uploads/images/B07JLZN1RM.webp",
+      "url": "https://northshorecrafts.com/reviews/best-led-light-bulbs-for-home/"
+    },
+    "https://tech.yahoo.com/home/articles/best-led-floodlight-bulbs-2025-170300532.html": {
+      "title": "Best LED Floodlight Bulbs of 2025: Get Top-Tier Illumination",
+      "description": "I've tested LED floodlights from every brand. Here are the smartest and most useful inside or outside of your home.",
+      "image": "https://s.yimg.com/ny/api/res/1.2/ywnHh7rbYXQdl3L4e_YLCg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/cnet_articles_178/594ee78f05f77903e4f227d5954054f0",
+      "url": "https://www.cnet.com/home/kitchen-and-household/best-led-floodlight/?pageview_type=RSS-yahoo-feed"
+    },
+    "https://rank1one.com/best-led-light-bulbs/": {
+      "title": "The 5 Best LED Light Bulbs 2026 | Rank1one",
+      "description": "LED light bulbs have come a long way since they first hit the market. Today, they offer outstanding energy efficiency, longer lifespans, and better brightness",
+      "image": "https://rank1one.com/wp-content/uploads/2025/06/image-103.png",
+      "url": "https://rank1one.com/best-led-light-bulbs/"
+    }
+  }
+}

@@ -1,0 +1,124 @@
+{
+  "slug": "smart-garage-door-openers",
+  "query": "best smart garage door openers",
+  "title": "Best smart garage door openers | Bin Diving",
+  "description": "AI-dug recommendations for best smart garage door openers. Compare options and find one that fits.",
+  "dugAt": "2026-03-18T22:04:02.667Z",
+  "recommendations": [
+    {
+      "product_name": "Chamberlain myQ Smart Garage Control (MYQ-G0401)",
+      "pros": [
+        "Easy add-on hub",
+        "myQ app and Amazon Key support",
+        "No hub wiring required"
+      ],
+      "cons": [
+        "Cloud-dependent integrations",
+        "Occasional connectivity/setup issues reported"
+      ],
+      "price": null,
+      "amazon_id": "B08GD3D9YJ",
+      "sources": [
+        "https://amp.cnn.com/amp/cnn-underscored/reviews/best-smart-garage-door-opener-controller",
+        "https://www.chamberlain.com/smart-garage-control/p/MYQ-G0401-ESMC",
+        "https://www.tomsguide.com/reviews/chamberlain-myq-smart-garage-door-opener"
+      ],
+      "amazon_url": "https://www.amazon.com/Smart-Garage-Opener-Chamberlain-myQ-G0401/dp/B08GD3D9YJ",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/1sTSz_r7Pz26wMD9w2fGM57aoqf9kyry_zxiHeERLQw/rs:fit:0:180:1:0/g:ce/aHR0cHM6Ly9pLmVi/YXlpbWcuY29tL2lt/YWdlcy9nL2k1MEFB/ZVN3YkpCb25sbmkv/cy1sMjI1LmpwZw",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "Chamberlain B6753T Smart Garage Door Opener (myQ, built-in camera)",
+      "pros": [
+        "Integrated camera and two-way audio",
+        "Quiet belt-drive motor with battery backup",
+        "Robust myQ app features"
+      ],
+      "cons": [
+        "Higher price than add-on hubs",
+        "Ties you into Chamberlain/myQ ecosystem"
+      ],
+      "price": null,
+      "amazon_id": "B09B2T2XVD",
+      "sources": [
+        "https://www.androidpolice.com/best-smart-garage-door-openers/",
+        "https://a1garage.com/best-garage-door-openers-2026/",
+        "https://progaragegear.com/best-smart-garage-door-opener/"
+      ],
+      "amazon_url": "https://www.amazon.com/Chamberlain-B6753T-Lighting-myQ-Smartphone-Controlled-Ultra/dp/B09B2T2XVD",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/QyaHKrVz3h9gQEUvddQFx41dzEpHWLMHsLzlTUY1-3A/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9tLm1l/ZGlhLWFtYXpvbi5j/b20vaW1hZ2VzL0kv/MzFIeW5ONVA3eUwu/anBn",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "Meross Smart Wi‑Fi Garage Door Opener (MSG series)",
+      "pros": [
+        "Native HomeKit, Alexa & Google support (no extra hub)",
+        "Budget-friendly integrated smart opener option"
+      ],
+      "cons": [
+        "Mixed reliability reports in some user threads",
+        "Occasional Wi‑Fi reconnect/setup problems reported"
+      ],
+      "price": null,
+      "amazon_id": "B07L5DPK8P",
+      "sources": [
+        "https://progaragegear.com/best-smart-garage-door-opener/",
+        "https://topconsumerrank.com/the-8-best-smart-garage-door-solutions-i-tried-in-2025/",
+        "https://www.reddit.com/r/HomeKit/comments/1lggjhb/experience_with_the_meross_msg150_garage_door/"
+      ],
+      "amazon_url": "https://www.amazon.com/meross-Smart-Control-Compatible-Assistant/dp/B07L5DPK8P",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/ulvt9xDULK3u34efmhmo8tiNlmqUdt73Gz9EpUODSCk/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9pLmVi/YXlpbWcuY29tL2lt/YWdlcy9nL354NEFB/T1N3RDRWbmpVcU4v/cy1sMjI1LmpwZw",
+      "resolver": "brave",
+      "valid": true
+    }
+  ],
+  "resolvedLinks": {
+    "https://amp.cnn.com/amp/cnn-underscored/reviews/best-smart-garage-door-opener-controller": {
+      "title": "The best smart garage door opener controllers of 2026 | CNN Underscored",
+      "description": "Smart garage controllers let you control your existing garage door opener via your smartphone or smart home setup. We installed the most popular garage controllers and extensively tested each model to find the best smart garage door controllers.",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/best-smart-garage-door-opener-2026-bage-cnnu.jpg?c=16x9&q=w_800,c_fill",
+      "url": "https://www.cnn.com/cnn-underscored/reviews/best-smart-garage-door-opener-controller"
+    },
+    "https://www.chamberlain.com/smart-garage-control/p/MYQ-G0401-ESMC": {
+      "title": "Smart Garage Control Device for Secure Access | Chamberlain",
+      "description": "Control your garage door from anywhere with the MyQ Smart Garage Control. Easy setup, Bluetooth integration, and compatible with most openers. Secure delivery options available!",
+      "image": "https://embed.widencdn.net/img/cgi/0vshcvg4zp/420px/MYQG0401_hero_1.png",
+      "url": "https://www.chamberlain.com/smart-garage-control/p/MYQ-G0401-ESMC"
+    },
+    "https://www.tomsguide.com/reviews/chamberlain-myq-smart-garage-door-opener": {
+      "title": "Chamberlain myQ (G0401) Smart Garage Door Opener review",
+      "description": "An inexpensive, intuitive, and easy-to-use smart garage door opener — but it doesn’t work with Amazon Alexa",
+      "image": "https://cdn.mos.cms.futurecdn.net/CZRBtczTtiWmJHMxDHCCtP-2000-80.jpg",
+      "url": "https://www.tomsguide.com/reviews/chamberlain-myq-smart-garage-door-opener"
+    },
+    "https://www.androidpolice.com/best-smart-garage-door-openers/": {
+      "title": "Best smart garage door openers in 2025",
+      "description": "Up your home's security by nabbing one of these smart garage door openers",
+      "image": "https://static0.anpoimages.com/wordpress/wp-content/uploads/2025/01/best-smart-garage-door-openers-header-2025.jpg?w=1600&h=900&fit=crop",
+      "url": "https://www.androidpolice.com/best-smart-garage-door-openers/"
+    },
+    "https://progaragegear.com/best-smart-garage-door-opener/": {
+      "title": "Best Smart Garage Door Openers 2026: The \"Silent\" Upgrade Guide - Pro Garage Gear",
+      "description": "Stop the rattle. We review the Best Smart Garage Door Openers of 2026 (Chamberlain vs. Genie). Discover why Belt Drive beats Chain and how to avoid the costly '7-Foot Rail Trap' before you install.",
+      "image": "",
+      "url": "https://progaragegear.com/best-smart-garage-door-opener/"
+    },
+    "https://topconsumerrank.com/the-8-best-smart-garage-door-solutions-i-tried-in-2025/": {
+      "title": "The 8 Best Smart Garage Door Solutions I Tried in 2025 – topconsumerrank",
+      "description": "",
+      "image": "",
+      "url": "https://topconsumerrank.com/the-8-best-smart-garage-door-solutions-i-tried-in-2025/"
+    },
+    "https://www.reddit.com/r/HomeKit/comments/1lggjhb/experience_with_the_meross_msg150_garage_door/": {
+      "title": "Reddit - The heart of the internet",
+      "description": "",
+      "image": "",
+      "url": "https://www.reddit.com/r/HomeKit/comments/1lggjhb/experience_with_the_meross_msg150_garage_door/"
+    }
+  }
+}

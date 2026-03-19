@@ -1,0 +1,140 @@
+{
+  "slug": "sleeping-pads",
+  "query": "best sleeping pads",
+  "title": "Best sleeping pads | Bin Diving",
+  "description": "AI-dug recommendations for best sleeping pads. Compare options and find one that fits.",
+  "dugAt": "2026-03-18T18:27:03.175Z",
+  "recommendations": [
+    {
+      "product_name": "NEMO Tensor All-Season Ultralight Insulated Sleeping Pad",
+      "pros": [
+        "Excellent warmth-to-weight ratio",
+        "High comfort/loft for side sleepers",
+        "Very lightweight and packable"
+      ],
+      "cons": [
+        "Thin 20D top fabric can feel fragile",
+        "Some users report occasional leaks",
+        "Premium price"
+      ],
+      "price": null,
+      "amazon_id": "B0CS68N5B2",
+      "sources": [
+        "https://www.outdoorgearlab.com/reviews/camping-and-hiking/sleeping-pad/nemo-tensor-all-season-ultralight-insulated",
+        "https://www.wired.com/gallery/best-camping-sleeping-pads/",
+        "https://www.cleverhiker.com/backpacking/nemo-tensor-all-season-review/"
+      ],
+      "amazon_url": "https://www.amazon.com/NEMO-All-Season-Ultralight-Insulated-Sleeping/dp/B0CS68N5B2",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/RnkZ1Mf9QpwYvvA0ErgA59cD7wmgG1CR-0rSsceDkUM/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly93d3cu/a2F2aXNvLmNvbS9j/ZG4vc2hvcC9maWxl/cy90ZW5zb3ItYXMt/cmVndWxhci1tYWlu/LndlYnA_dj0xNzEw/ODgwODU4JndpZHRo/PTcyMA",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "Therm-a-Rest NeoAir XLite NXT Ultralight Sleeping Pad",
+      "pros": [
+        "Outstanding packability and low weight",
+        "Proven comfort and quietness improvements over older models",
+        "Strong warmth-to-weight performance for 3-season use"
+      ],
+      "cons": [
+        "Lightweight construction can be less durable",
+        "Some users report quality-control/leak issues",
+        "Higher cost than budget pads"
+      ],
+      "price": null,
+      "amazon_id": "B0D92WP6Y4",
+      "sources": [
+        "https://www.outdoorgearlab.com/reviews/camping-and-hiking/sleeping-pad/therm-a-rest-neoair-xlite-nxt",
+        "https://www.cleverhiker.com/backpacking/therm-a-rest-neoair-xlite-nxt-review/",
+        "https://www.bestreviews.guide/ultralight-sleeping-pad"
+      ],
+      "amazon_url": "https://www.amazon.com/Therm-Rest-Ultralight-Backpacking-Sleeping/dp/B0D92WP6Y4",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/SprqUJ9zWeU-W1PEeu6Et8DrMiXjfGDpUlVtTeb_-fc/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9tLm1l/ZGlhLWFtYXpvbi5j/b20vaW1hZ2VzL0kv/NDFXSTI1NmcrUEwu/anBn",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "Sea to Summit Ether Light XT Insulated Sleeping Pad",
+      "pros": [
+        "Very comfortable and stable (good for side sleepers)",
+        "Strong insulation-to-weight ratio in many sizes",
+        "Generally quiet and supportive surface"
+      ],
+      "cons": [
+        "Some reports of seam/dimple leaks over long-term use",
+        "Heavier and bulkier than the very lightest pads",
+        "Premium price point"
+      ],
+      "price": null,
+      "amazon_id": "B0987F37V4",
+      "sources": [
+        "https://www.ultralighthike.com/sea-to-summit-ether-light-xt-review/",
+        "https://www.outdoorgearlab.com/reviews/camping-and-hiking/sleeping-pad-womens/sea-to-summit-ether-light-xt-extreme-womens",
+        "https://backpacker-life.com/blogs/infos/best-sleeping-pads-for-bivouacking-in-2025"
+      ],
+      "amazon_url": "https://www.amazon.com/Sea-Summit-Extra-Thick-Insulated-Mattress/dp/B0987F37V4",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/on45x1RP2ORb4NvP54DJAh1v68c2MI0MuqETmQlhBoI/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9tLm1l/ZGlhLWFtYXpvbi5j/b20vaW1hZ2VzL0kv/MzFHSUlDUnMyVEwu/anBn",
+      "resolver": "brave",
+      "valid": true
+    }
+  ],
+  "resolvedLinks": {
+    "https://www.outdoorgearlab.com/reviews/camping-and-hiking/sleeping-pad/nemo-tensor-all-season-ultralight-insulated": {
+      "title": "Nemo Tensor All-Season Ultralight Insulated Review",
+      "description": "The Nemo Tensor All-Season Ultralight Insulated sleeping pad is downright cozy, very light, and warm enough for all but sub-zero conditions. It checks...",
+      "image": "https://d1i8d6ce8wwubf.cloudfront.net/photos/30/54/426917_8072_XXL.jpg",
+      "url": "https://www.outdoorgearlab.com/reviews/camping-and-hiking/sleeping-pad/nemo-tensor-all-season-ultralight-insulated"
+    },
+    "https://www.wired.com/gallery/best-camping-sleeping-pads/": {
+      "title": "The Best Sleeping Pads For Campgrounds—Our Comfiest Picks",
+      "description": "Whether you’re snoozing in a campground or have family visiting for the holidays, these are the best sleeping pads and camping mats we’ve found to rest your weary bones.",
+      "image": "https://media.wired.com/photos/682e60e163ccbe8a6a0681a7/191:100/w_1280,c_limit/The%20Best%20Sleeping%20Pads%20For%20Campgrounds%E2%80%94Our%20Comfiest%20Picks.png",
+      "url": "https://www.wired.com/gallery/best-camping-sleeping-pads/"
+    },
+    "https://www.cleverhiker.com/backpacking/nemo-tensor-all-season-review/": {
+      "title": "NEMO Tensor All-Season Sleeping Pad Review | CleverHiker",
+      "description": "Looking for the ideal backpacking sleeping pad? Check out our review of the NEMO Tensor All-Season. Lightweight, warm, and comfortable.",
+      "image": "https://www.cleverhiker.com/wp-content/uploads/2024/11/IMG_1077-1024x683.jpeg",
+      "url": "https://www.cleverhiker.com/backpacking/nemo-tensor-all-season-review/"
+    },
+    "https://www.outdoorgearlab.com/reviews/camping-and-hiking/sleeping-pad/therm-a-rest-neoair-xlite-nxt": {
+      "title": "Therm-a-Rest NeoAir XLite NXT Review",
+      "description": "The Therm-a-Rest NeoAir XLite NXT is the best option for anyone wanting to reduce the weight of their overnight kit without compromising warmth or comfort...",
+      "image": "https://d1i8d6ce8wwubf.cloudfront.net/photos/32/63/447814_11571_XXL.jpg",
+      "url": "https://www.outdoorgearlab.com/reviews/camping-and-hiking/sleeping-pad/therm-a-rest-neoair-xlite-nxt"
+    },
+    "https://www.cleverhiker.com/backpacking/therm-a-rest-neoair-xlite-nxt-review/": {
+      "title": "Therm-a-Rest NeoAir XLite NXT Review | CleverHiker",
+      "description": "Experience the comfort and durability of the Therm-a-Rest NeoAir XLite NXT backpacking sleeping pad. Read our long-term testing review now.",
+      "image": "https://www.cleverhiker.com/wp-content/uploads/2024/09/IMG_6587-scaled.jpg",
+      "url": "https://www.cleverhiker.com/backpacking/therm-a-rest-neoair-xlite-nxt-review/"
+    },
+    "https://www.bestreviews.guide/ultralight-sleeping-pad": {
+      "title": "10 Best Ultralight Sleeping Pad 2026 in the US | There's One Clear Winner | BestReviews.guide",
+      "description": "BestReviews.guide analyzes thousands of articles and customer reviews to find the top-rated products at today's lowest prices. Best products, best offers.",
+      "image": "https://images-proxy.bestreviews.guide/b_JQ-0GC50AOObytXVu_dtBdLYM=/0x150/https://m.media-amazon.com/images/I/51v-b8lyqGL._AC_CX679_.jpg",
+      "url": "https://www.bestreviews.guide/ultralight-sleeping-pad"
+    },
+    "https://www.ultralighthike.com/sea-to-summit-ether-light-xt-review/": {
+      "title": "Sea to Summit Ether Light XT Review - Ultra Light Hike",
+      "description": "Sea to Summit Ether Light XT review for UK hiking. 10.2cm thick, R-value 3.2, 490g. Compare vs Therm-a-Rest & NEMO. Real UK 3-season performance tests.",
+      "image": "https://www.ultralighthike.com/wp-content/uploads/2025/11/comfortable_lightweight_sleeping_pad_7p0vj.jpg",
+      "url": "https://www.ultralighthike.com/sea-to-summit-ether-light-xt-review/"
+    },
+    "https://www.outdoorgearlab.com/reviews/camping-and-hiking/sleeping-pad-womens/sea-to-summit-ether-light-xt-extreme-womens": {
+      "title": "Sea to Summit Ether Light XT Extreme - Women's Review",
+      "description": "The Sea to Summit Ether Light XT Extreme is the warmest women's-specific sleeping pad in our lineup. The high 6.3 R-value makes it a great choice for cold...",
+      "image": "https://d1i8d6ce8wwubf.cloudfront.net/photos/24/35/365001_2473_XXL.jpg",
+      "url": "https://www.outdoorgearlab.com/reviews/camping-and-hiking/sleeping-pad-womens/sea-to-summit-ether-light-xt-extreme-womens"
+    },
+    "https://backpacker-life.com/blogs/infos/best-sleeping-pads-for-bivouacking-in-2025": {
+      "title": "Best Sleeping Pads for Bivouacking in 2025",
+      "description": "When we think of bivouacking, we often picture the tent, the sleeping bag, the campfire… but we sometimes forget the key to a good night outdoors: the sleeping pad. In 2025, pads have come a long way—lighter, more compact, better insulated. And trust us, the right sleeping pad can turn a freezing night into a cozy nest",
+      "image": "http://backpacker-life.com/cdn/shop/articles/Baroudeurcamp_Blog_62.png?crop=center&height=1200&v=1746514968&width=1200",
+      "url": "https://backpacker-life.com/en-us/blogs/infos/best-sleeping-pads-for-bivouacking-in-2025"
+    }
+  }
+}

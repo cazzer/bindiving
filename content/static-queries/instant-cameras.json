@@ -1,0 +1,110 @@
+{
+  "slug": "instant-cameras",
+  "query": "best instant cameras",
+  "title": "Best instant cameras | Bin Diving",
+  "description": "AI-dug recommendations for best instant cameras. Compare options and find one that fits.",
+  "dugAt": "2026-03-18T18:50:32.467Z",
+  "recommendations": [
+    {
+      "product_name": "Fujifilm instax mini Evo",
+      "pros": [
+        "Hybrid digital-to-print control",
+        "High-quality Instax mini prints",
+        "Creative filters and exposure control"
+      ],
+      "cons": [
+        "Higher price than basic Instax minis",
+        "Not pocketable as smaller minis",
+        "Film ongoing cost"
+      ],
+      "price": null,
+      "amazon_id": "B09M4DKBQ9",
+      "sources": [
+        "https://www.tomsguide.com/best-picks/best-instant-cameras",
+        "https://www.techradar.com/news/best-instant-camera",
+        "https://www.digitalcameraworld.com/cameras/instant-cameras/instax-mini-evo-cinema-review"
+      ],
+      "amazon_url": "https://www.amazon.com/Fujifilm-Instax-Mini-Instant-Camera/dp/B09M4DKBQ9",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/OyRlcn9OAKltTYG6rjbTt8A3Mwbcwg1gUOjrG90g-9A/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9jZG4u/bW9zLmNtcy5mdXR1/cmVjZG4ubmV0L0ZO/d1lNaXRMOUx4VnVv/d3hnQTJIeUouanBn",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "Fujifilm instax mini 12",
+      "pros": [
+        "Affordable and easy to use",
+        "Good battery/film availability",
+        "Improved selfie and exposure controls"
+      ],
+      "cons": [
+        "Small print size (Instax Mini)",
+        "Limited manual controls",
+        "Film cost adds up"
+      ],
+      "price": null,
+      "amazon_id": "B0BWNYPCT1",
+      "sources": [
+        "https://www.techradar.com/news/best-instant-camera",
+        "https://www.imaging-resource.com/news/2025/08/27/buyers-guide-best-instant-film-cameras",
+        "https://www.howtogeek.com/best-instant-cameras/"
+      ],
+      "amazon_url": "https://www.amazon.com/Fujifilm-Instax-Mini-Instant-Camera/dp/B0BWNYPCT1",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/93y-v1FDnibEBUdWFpMPlisV7zGuVPQZt2VZPfWqfoo/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9jZG4u/bW9zLmNtcy5mdXR1/cmVjZG4ubmV0L1pS/ellHOGhKa3d6WUxQ/b3hnbTVha2ouanBn",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "Polaroid Now (Generation 3)",
+      "pros": [
+        "Classic Polaroid larger prints",
+        "Improved autofocus and reliability",
+        "Simple dedicated instant experience"
+      ],
+      "cons": [
+        "Larger, bulkier than mini Instax",
+        "Film is relatively expensive",
+        "Fewer creative digital features than hybrids"
+      ],
+      "price": null,
+      "amazon_id": "B0FC4VQ966",
+      "sources": [
+        "https://www.polaroid.com/en_us/products/polaroid-now",
+        "https://www.imaging-resource.com/news/2025/08/27/buyers-guide-best-instant-film-cameras",
+        "https://www.howtogeek.com/best-instant-cameras/"
+      ],
+      "amazon_url": "https://www.amazon.com/Polaroid-Generation-Instant-Exposures-Protective/dp/B0FC4VQ966",
+      "gpt_azn": "B0DTTPR5T3",
+      "image_url": "https://imgs.search.brave.com/EaHr6hIdC1QfDBmxnAD085hu_6MYJdQclr77lzeMcHg/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly93d3cu/cG9sYXJvaWQuY29t/L19uZXh0L2ltYWdl/P3VybD1odHRwczov/L2Nkbi5zaG9waWZ5/LmNvbS9zL2ZpbGVz/LzEvMTEzNS83OTE0/L2ZpbGVzL05vd19H/ZW4zX1doaXRlX1No/YWRvd18yMjAwcHhf/MTIwMHgucG5nLndl/YnA_dj0xNzY1ODkz/NDk3Jnc9Mzg0MCZx/PTkw",
+      "resolver": "brave",
+      "valid": true
+    }
+  ],
+  "resolvedLinks": {
+    "https://www.tomsguide.com/best-picks/best-instant-cameras": {
+      "title": "Best instant cameras in 2026",
+      "description": "Here are the best instant cameras based on our testing",
+      "image": "https://cdn.mos.cms.futurecdn.net/jrTZ9MW3YXkKqMgo2t5QeX-1920-80.jpg",
+      "url": "https://www.tomsguide.com/best-picks/best-instant-cameras"
+    },
+    "https://www.techradar.com/news/best-instant-camera": {
+      "title": "The best instant camera: we've tested the top retro cams from Polaroid, Instax and more",
+      "description": "From all-out analog models to digital hybrids, we've tested all of the major instant cameras spanning the last 15 years",
+      "image": "https://cdn.mos.cms.futurecdn.net/cDyqwZC4e7GPbU59yqLaRW-1920-80.jpg",
+      "url": "https://www.techradar.com/news/best-instant-camera"
+    },
+    "https://www.howtogeek.com/best-instant-cameras/": {
+      "title": "The Best Instant Cameras of 2025",
+      "description": "Instant cameras turn fleeting moments into lasting prints and offer nostalgia and simplicity to anyone seeking a break from digital overload.",
+      "image": "https://static0.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/05/fujifilm-instax-mini-99-camera-laying-on-top-of-instant-photos.JPG?w=1600&h=900&fit=crop",
+      "url": "https://www.howtogeek.com/best-instant-cameras/"
+    },
+    "https://www.polaroid.com/en_us/products/polaroid-now": {
+      "title": "Polaroid Now Instant Camera Generation 3 | Polaroid US",
+      "description": "The Polaroid Now Instant Camera Generation 3 is the classic analog instant camera, optimized for sharper pictures in more lighting conditions. Featuring a better light meter position, improved ranging sensor, upgraded two-lens autofocus system, built-in tripod mount, filter compatibility and even self-timer and double-exposure modes. All in a classic Polaroid look made with 40% recycled materials. Available in six new colors, rechargeable with USB-C and compatible with Polaroid i-Type Film to capture real life in iconic, full-sized Polaroid pictures.",
+      "image": "https://cdn.shopify.com/s/files/1/1135/7914/files/NowGen3_Pink_Shadow_2200px_1200x.png.webp?v=1772540718",
+      "url": "https://www.polaroid.com/en_us/products/polaroid-now"
+    }
+  }
+}

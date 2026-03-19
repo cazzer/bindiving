@@ -1,0 +1,113 @@
+{
+  "slug": "waffle-makers",
+  "query": "best waffle makers",
+  "title": "Best waffle makers | Bin Diving",
+  "description": "AI-dug recommendations for best waffle makers. Compare options and find one that fits.",
+  "dugAt": "2026-03-18T16:50:44.187Z",
+  "recommendations": [
+    {
+      "product_name": "Breville Smart Waffle Pro 4-Slice (BWM640XL)",
+      "pros": [
+        "No‑mess moat catches overflow",
+        "Multiple waffle variety and shade settings",
+        "Removable plates for easy cleaning"
+      ],
+      "cons": [
+        "Premium price",
+        "Large and heavier than basic models"
+      ],
+      "price": "$249.95",
+      "amazon_id": "B00F5C1QK6",
+      "sources": [
+        "https://www.foodnetwork.com/how-to/packages/shopping/product-reviews/best-waffle-makers",
+        "https://www.breville.com/content/dam/breville/us/en/assets/miscellaneous/pdfs/BWM640-instruction-manual.pdf",
+        "https://www.forbes.com/sites/forbes-personal-shopper/article/breville-smart-waffle-pro-review/"
+      ],
+      "amazon_url": "https://www.amazon.com/Breville-BWM640XL-4-Slice-Waffle-Silver/dp/B00F5C1QK6",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/oFp1MbaHEwdm7RGrMkPoY3xMnyfkKLzSKlm5zGLjvOQ/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9pLmVi/YXlpbWcuY29tL2lt/YWdlcy9nL3ZWa0FB/T1N3S3Voa0NkZnMv/cy1sNTAwLmpwZw",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "Cuisinart Double Belgian Waffle Maker (WAF-F20P1)",
+      "pros": [
+        "Makes two extra‑deep Belgian waffles at once",
+        "Stainless‑steel build and consistent results",
+        "Good mid‑range value for families"
+      ],
+      "cons": [
+        "Can take more countertop space",
+        "Some reviewers note learning curve for batter amount"
+      ],
+      "price": null,
+      "amazon_id": "B01IA3HJGG",
+      "sources": [
+        "https://assetserver.net/_assets/cuisinart/pdf/waff20p1-spec.pdf",
+        "https://shouldit.com/waffle-makers/reviews/cuisinart/cuisinart-waf-f20p1-double/",
+        "https://www.goodhousekeeping.com/appliances/waffle-maker-reviews/a33196/krups-4-slice-belgian-waffle-maker-f65475/"
+      ],
+      "amazon_url": "https://www.amazon.com/Cuisinart-WAF-F20-Double-Belgian-Stainless/dp/B01IA3HJGG",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/a3A5m16HPVXHGhtE6_3QkOu5jU-AvA8pUxWpnKEOtAk/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9tLm1l/ZGlhLWFtYXpvbi5j/b20vaW1hZ2VzL0kv/NjFyWFZEK1R1ZUwu/anBn",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "Hamilton Beach Mess Free Belgian Waffle Maker (model 26040)",
+      "pros": [
+        "Mess‑free moat design for overflow control",
+        "Affordable and widely available",
+        "Simple controls and easy cleanup"
+      ],
+      "cons": [
+        "Fewer advanced settings than premium models",
+        "Build and longevity not as robust as higher‑end brands"
+      ],
+      "price": null,
+      "amazon_id": "B0097D2SVU",
+      "sources": [
+        "https://hamiltonbeach.com/hamilton-beach-mess-free-belgian-waffle-maker-26040-and-26041.pdf",
+        "https://www.newegg.com/hamilton-beach-mess-belgian-style-waffle-maker-26040/p/09W-0025-00032",
+        "https://www.kitchendepot.org/best-waffle-makers/"
+      ],
+      "amazon_url": "https://www.amazon.com/Hamilton-Beach-Belgian-Waffle-26040/dp/B0097D2SVU",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/y8wB0XhtjOXbiia2jzMLaB49jerNYe7dH27Ud1EZOQY/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9tLm1l/ZGlhLWFtYXpvbi5j/b20vaW1hZ2VzL0kv/NDE3MStlenV6Tkwu/anBn",
+      "resolver": "brave",
+      "valid": true
+    }
+  ],
+  "resolvedLinks": {
+    "https://www.foodnetwork.com/how-to/packages/shopping/product-reviews/best-waffle-makers": {
+      "title": "7 Best Waffle Makers of 2025, Tested and Reviewed",
+      "description": "We made dozens of waffles to find the best of the best.",
+      "image": "https://food.fnr.sndimg.com/content/dam/images/food/products/2021/9/29/48-FN-ProductTestingImages-WaffleMakers-v1.jpg.rend.hgtvcom.616.462.85.suffix/1632949305856.webp",
+      "url": "https://www.foodnetwork.com/how-to/packages/shopping/product-reviews/best-waffle-makers"
+    },
+    "https://shouldit.com/waffle-makers/reviews/cuisinart/cuisinart-waf-f20p1-double/": {
+      "title": "Cuisinart Double Belgian Waffle Maker In-depth Review",
+      "description": "For large families, the Cuisinart Double Waffle Maker can help you prep breakfast quicker. Here’s our hands-on review of this waffle maker.",
+      "image": "https://cdn.shouldit.com/reviews/images/waffle-makers/cluqrohej000lsv8809j0aoy5.jpg",
+      "url": "https://shouldit.com/waffle-makers/reviews/cuisinart/cuisinart-waf-f20p1-double/"
+    },
+    "https://www.goodhousekeeping.com/appliances/waffle-maker-reviews/a33196/krups-4-slice-belgian-waffle-maker-f65475/": {
+      "title": "Hundreds of Waffles Later, These Are the Machines Our Experts Recommend",
+      "description": "Whether you prefer classic or Belgian waffles, you'll find a model to upgrade your favorite breakfast.",
+      "image": "https://hips.hearstapps.com/hmg-prod/images/ghk-082525-index-wafflemakers-193-68ae25a439170.jpg?crop=1.00xw:0.752xh;0,0.111xh&resize=1200:*",
+      "url": "https://www.goodhousekeeping.com/appliances/g504/best-waffle-makers/"
+    },
+    "https://www.newegg.com/hamilton-beach-mess-belgian-style-waffle-maker-26040/p/09W-0025-00032": {
+      "title": "Hamilton Beach 26040 Mess Free Belgian Style Waffle Maker - Newegg.com",
+      "description": "",
+      "image": "https://c1.neweggimages.com/productimage/nb640/A1CS_1_20140321483872961.jpg",
+      "url": "https://www.newegg.com/hamilton-beach-mess-belgian-style-waffle-maker-26040/p/09W-0025-00032"
+    },
+    "https://www.kitchendepot.org/best-waffle-makers/": {
+      "title": "Kitchen Depot",
+      "description": "",
+      "image": "",
+      "url": "https://kitchendepot.org/"
+    }
+  }
+}

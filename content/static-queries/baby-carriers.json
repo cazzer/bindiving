@@ -1,0 +1,107 @@
+{
+  "slug": "baby-carriers",
+  "query": "best baby carriers",
+  "title": "Best baby carriers | Bin Diving",
+  "description": "AI-dug recommendations for best baby carriers. Compare options and find one that fits.",
+  "dugAt": "2026-03-18T22:13:54.787Z",
+  "recommendations": [
+    {
+      "product_name": "Ergobaby Omni 360 (Omni Classic) All-Position Carrier",
+      "pros": [
+        "All-position versatility",
+        "Good lumbar support",
+        "Newborn-to-toddler sizing"
+      ],
+      "cons": [
+        "Can feel bulky for smaller caregivers",
+        "Some reports of fit variability",
+        "Higher price point"
+      ],
+      "price": null,
+      "amazon_id": "B07B41952V",
+      "sources": [
+        "https://www.thebump.com/a/best-baby-carriers",
+        "https://ergobaby.com/the-omni-360-baby-carrier"
+      ],
+      "amazon_url": "https://www.amazon.com/Ergobaby-Ergonomic-Carrier-Positions-Midnight/dp/B07B41952V",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/m1FXM87Tg-TPQm4vuL6Ld2NwNWOh73wPdElfBr3YhxY/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9tLm1l/ZGlhLWFtYXpvbi5j/b20vaW1hZ2VzL0kv/NDFDR0tzbSt1MEwu/anBn",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "LÍLLÉbaby Complete All Seasons 6-in-1 Baby Carrier",
+      "pros": [
+        "Six carry positions and adjustable seat",
+        "Zip-down mesh panel for breathability",
+        "Strong back support/lumbar pad"
+      ],
+      "cons": [
+        "Can be warm in non-mesh versions",
+        "Multiple adjustments can be fiddly",
+        "Seat width fit concerns for some body types"
+      ],
+      "price": null,
+      "amazon_id": "B00KC4VPNU",
+      "sources": [
+        "https://www.forbes.com/sites/forbes-personal-shopper/article/best-baby-carrier/",
+        "https://www.lillebaby.com/products/lillebaby-complete-all-seasons-in-black"
+      ],
+      "amazon_url": "https://www.amazon.com/LILLEbaby-SIX-Position-Ergonomic-Child-Carrier/dp/B00KC4VPNU",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/-hszyN4T4CmoPC5OHFsWOCBJrq0BMEHjus8J5cstQGY/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly93d3cu/bGlsbGViYWJ5LmNv/bS9jZG4vc2hvcC9w/cm9kdWN0cy84X0Fs/bFNlYXNvbnNfU3Rv/bmVfMjMzM183MjB4/XzQ1NGVmNmVmLWUy/ZTItNDQ4OS1iZTUw/LTEwODc5NDU1YzRk/MC5qcGc_dj0xNzEy/OTUzNDY1",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "BABYBJÖRN Baby Carrier Mini (3D Mesh / Woven options)",
+      "pros": [
+        "Lightweight and simple to use",
+        "Great for newborns and short trips",
+        "Well-known, long-standing brand"
+      ],
+      "cons": [
+        "Less supportive for prolonged wear",
+        "Smaller seat as baby grows",
+        "Not ideal for older/heavier infants for hip comfort"
+      ],
+      "price": null,
+      "amazon_id": "B07DY3QXS7",
+      "sources": [
+        "https://www.babybjorn.com/products/baby-carriers/baby-carrier-mini/",
+        "https://www.babygearlab.com/reviews/getting-around/baby-carrier/lillebaby-complete-all-seasons"
+      ],
+      "amazon_url": "https://www.amazon.com/BABYBJORN-Baby-Carrier-Jersey-Light/dp/B07DY3QXS7",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/uWUWObXL9CaKVvGqMk8w4u2ASGfKh-tjK_9AacQ_Gi8/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly93d3cu/bGl0dGxlc3Bhcmts/ZS5nci9wdWIvbWVk/aWEvY2F0YWxvZy9w/cm9kdWN0L2NhY2hl/L2MxNDFkZmJkMDNh/Y2EyMzdjMDQ5MmUx/NmIyNTYwYWNlL2Uv/bi9lbi1nYi1iYWJ5/Ympvcm4tYmFieS1j/YXJyaWVyLW1pbmkt/Z3JheS1iZWlnZS0z/ZC1tZXNoXzEuanBn",
+      "resolver": "brave",
+      "valid": true
+    }
+  ],
+  "resolvedLinks": {
+    "https://www.thebump.com/a/best-baby-carriers": {
+      "title": "9 Best Baby Carriers, Tested by Parents",
+      "description": "Looking for the best baby carrier? Here, check out our top picks, from newborn carriers to toddler hip carriers and everything in between, all used and approved by our parent product testers.",
+      "image": "https://images.ctfassets.net/6m9bd13t776q/2NGHWdipeP3maB9nndAWpE/045cd18f53132e8dfa09925472c49596/BOTB-carriers-hero-Stocksy-5541049-updated-2025.png?q=75&w=660",
+      "url": "https://www.thebump.com/a/best-baby-carriers"
+    },
+    "https://www.lillebaby.com/products/lillebaby-complete-all-seasons-in-black": {
+      "title": "Complete 6-in-1 All Seasons - Black",
+      "description": "Our flagship carrier started comfort revolution with 6 ergonomic positions, lumbar support, and near-limitless adjustability. Now in Black.",
+      "image": "http://www.lillebaby.com/cdn/shop/files/complete-pr-black.webp?v=1762462759",
+      "url": "https://www.lillebaby.com/products/lillebaby-complete-all-seasons-in-black"
+    },
+    "https://www.babybjorn.com/products/baby-carriers/baby-carrier-mini/": {
+      "title": "Baby Carrier Mini—perfect for a newborn | BabyBjörn",
+      "description": "Discover our small, soft & simple Baby Carrier Mini. Easy to put on & take off and perfect for cuddling with your newborn in the early days. For ages 0–1.",
+      "image": "https://a.storyblok.com/f/187315/1500x2100/9e1b958b14/021088-baby-carrier-mini-cream-mesh-lifestyle-babybjorn-004501-1.jpg",
+      "url": "https://www.babybjorn.com/products/baby-carriers/baby-carrier-mini/"
+    },
+    "https://www.babygearlab.com/reviews/getting-around/baby-carrier/lillebaby-complete-all-seasons": {
+      "title": "The Best Baby Carriers",
+      "description": "We bought and tested the top 12 baby carriers from BabyBjorn, Ergobaby, Boba, Tula, WildBird, and more to find the best for bonding and toting little ones",
+      "image": "https://d1awg155xx98w6.cloudfront.net/photos/41/53/536833_502_XXL.jpg",
+      "url": "https://www.babygearlab.com/topics/getting-around/best-baby-carrier"
+    }
+  }
+}

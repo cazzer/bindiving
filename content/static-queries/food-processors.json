@@ -1,0 +1,116 @@
+{
+  "slug": "food-processors",
+  "query": "best food processors",
+  "title": "Best food processors | Bin Diving",
+  "description": "AI-dug recommendations for best food processors. Compare options and find one that fits.",
+  "dugAt": "2026-03-18T16:42:13.486Z",
+  "recommendations": [
+    {
+      "product_name": "Breville Sous Chef 12-Cup Food Processor (Sous Chef 12)",
+      "pros": [
+        "Powerful 1,000W motor",
+        "Adjustable 24-setting slicer",
+        "Consistent, easy-to-use controls"
+      ],
+      "cons": [
+        "Bulky/heavy",
+        "Higher price point"
+      ],
+      "price": null,
+      "amazon_id": "B00PHNFML2",
+      "sources": [
+        "https://www.foodnetwork.com/how-to/packages/shopping/product-reviews/best-food-processors",
+        "https://www.tomsguide.com/reviews/breville-sous-chef-12-cup-food-processor"
+      ],
+      "amazon_url": "https://www.amazon.com/Breville-BFP660SIL-Sous-Processor-Silver/dp/B00PHNFML2",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/Rvnwtw48x10VgTdQzHBfGfb-3SrIqvuOqqsftgsxqwk/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9hc3Nl/dHMud3NpbWdzLmNv/bS93c2ltZ3Mvcmsv/aW1hZ2VzL2RwL3dj/bS8yMDI1NDAvMDAx/NS9icmV2aWxsZS1z/b3VzLWNoZWYtZm9v/ZC1wcm9jZXNzb3It/MTItY3VwLWouanBn",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "Cuisinart Custom 14-Cup Food Processor (DFP-14 / DFP-14BCNY)",
+      "pros": [
+        "Large 14‑cup capacity",
+        "Robust 720W motor",
+        "Trusted, long-standing model with many accessories"
+      ],
+      "cons": [
+        "Takes counter/storage space",
+        "Some users report long-term part wear"
+      ],
+      "price": null,
+      "amazon_id": "B01AXM4WV2",
+      "sources": [
+        "https://www.reviewed.com/cooking/features/cuisinart-14-cup-food-processor-dfp-14bcny-review",
+        "https://www.cuisinart.com/custom-14-14-cup-food-processor/DFP-14.html"
+      ],
+      "amazon_url": "https://www.amazon.com/Cuisinart-DFP-14BCNY-Processor-Brushed-Stainless/dp/B01AXM4WV2",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/k2XayWz7Z4HYqfHBURcVhLn1QYeah46xHMbXvTisoqY/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9pLmVi/YXlpbWcuY29tL2lt/YWdlcy9nL0YxY0FB/ZVN3flg1cG5kMmgv/cy1sNDAwLndlYnA",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "Hamilton Beach Stack & Snap (12‑cup / 10‑cup Stack & Snap series)",
+      "pros": [
+        "Very affordable / budget friendly",
+        "Easy assembly with Stack & Snap lid",
+        "Dishwasher‑safe parts"
+      ],
+      "cons": [
+        "Less powerful motor than premium models",
+        "Not for heavy dough-kneading"
+      ],
+      "price": null,
+      "amazon_id": "B00KHLN7K2",
+      "sources": [
+        "https://www.delish.com/cooking/g4446/best-food-processor/",
+        "https://tonytantillo.com/best-food-processor-under-150/"
+      ],
+      "amazon_url": "https://www.amazon.com/Hamilton-Beach-70725A-FBA_70725-Processor/dp/B00KHLN7K2",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/gorX_Ox5Xux6RMZExjFIPMsfjnBdaJzltBDHEST2Unk/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9tZWRp/YS5rb2hsc2ltZy5j/b20vaXMvaW1hZ2Uv/a29obHMvNzAyOTY2/OF9BTFQyP3dpZD0z/OTAmaGVpPTM5MCZv/cF9zaGFycGVuPTE",
+      "resolver": "brave",
+      "valid": true
+    }
+  ],
+  "resolvedLinks": {
+    "https://www.foodnetwork.com/how-to/packages/shopping/product-reviews/best-food-processors": {
+      "title": "6 Best Food Processors of 2026, Tested and Reviewed",
+      "description": "We sliced, diced, shredded and blended to find the best one to suit your needs.",
+      "image": "https://food.fnr.sndimg.com/content/dam/images/food/products/2022/12/8/FN-ProductTestingImages-24-FOOD-PROCESSORS-v1.png.rend.hgtvcom.616.462.85.suffix/1670600593762.webp",
+      "url": "https://www.foodnetwork.com/how-to/packages/shopping/product-reviews/best-food-processors"
+    },
+    "https://www.tomsguide.com/reviews/breville-sous-chef-12-cup-food-processor": {
+      "title": "Breville Sous Chef 12 Cup Food Processor review",
+      "description": "The Breville Sous Chef 12 Cup Food Processor is easy to use with adjustable slicing thickness",
+      "image": "https://cdn.mos.cms.futurecdn.net/TyMDzwSuExxVU8NBM3yibU-2000-80.jpg",
+      "url": "https://www.tomsguide.com/reviews/breville-sous-chef-12-cup-food-processor"
+    },
+    "https://www.reviewed.com/cooking/features/cuisinart-14-cup-food-processor-dfp-14bcny-review": {
+      "title": "This food processor slices better than a chef's knife",
+      "description": "Cut down on prep time with a machine that will do the work for you.",
+      "image": "https://reviewed-com-res.cloudinary.com/image/fetch/s--MKjjZaNC--/b_white,c_limit,cs_srgb,f_auto,fl_progressive.strip_profile,g_center,q_auto,w_1200/https://reviewed-production.s3.amazonaws.com/1570815313307/Cuisinart-foodprocesser_hero.png",
+      "url": "https://www.reviewed.com/cooking/features/cuisinart-14-cup-food-processor-dfp-14bcny-review"
+    },
+    "https://www.cuisinart.com/custom-14-14-cup-food-processor/DFP-14.html": {
+      "title": "Custom 14® 14-Cup Food Processor (DFP-14BCNY) - Cuisinart",
+      "description": "",
+      "image": "https://www.cuisinart.com/on/demandware.static/-/Sites-master-us/default/dw15cdf826/images/large/US_DFP14BCNY_3QtrRight_Silo_0001.jpg",
+      "url": "https://www.cuisinart.com/custom-14-cup-food-processor/DFP-14BCNY.html"
+    },
+    "https://www.delish.com/cooking/g4446/best-food-processor/": {
+      "title": "Hate Chopping Vegetables? This Food Processor Will Do All Your Slicing For You",
+      "description": "Some reviewers have even called them \"life changing.\"",
+      "image": "https://hips.hearstapps.com/hmg-prod/images/51db5paxhjl-ac-sl1024-1664208968.jpg?crop=1.00xw:0.646xh;0,0.184xh&resize=1200:*",
+      "url": "https://www.delish.com/cooking/g4446/best-food-processor/"
+    },
+    "https://tonytantillo.com/best-food-processor-under-150/": {
+      "title": "7 Best Food Processors Under $150 (2026 Guide)",
+      "description": "Chopping vegetables, shredding cheese, or making dough shouldn’t require a kitchen full of gadgets or endless prep time. Many home cooks struggle with",
+      "image": "https://tonytantillo.com/wp-content/uploads/2025/10/best-food-processor-under-150.jpg",
+      "url": "https://tonytantillo.com/best-food-processor-under-150/"
+    }
+  }
+}

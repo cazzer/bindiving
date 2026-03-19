@@ -1,0 +1,117 @@
+{
+  "slug": "board-games",
+  "query": "best board games",
+  "title": "Best board games | Bin Diving",
+  "description": "AI-dug recommendations for best board games. Compare options and find one that fits.",
+  "dugAt": "2026-03-18T18:52:14.402Z",
+  "recommendations": [
+    {
+      "product_name": "CATAN (6th Edition)",
+      "pros": [
+        "Great gateway strategy",
+        "High replayability with trading/negotiation"
+      ],
+      "cons": [
+        "Can be swingy due to dice",
+        "Some expansions have compatibility issues"
+      ],
+      "price": null,
+      "amazon_id": "B0DYK1ZH2D",
+      "sources": [
+        "https://www.gamesradar.com/best-board-games/",
+        "https://bestreviews.com/best-board-games",
+        "https://en.wikipedia.org/wiki/Catan",
+        "https://www.amazon.com/CATAN-Classic-Strategy-Players-Playtime/dp/B0DYK1ZH2D"
+      ],
+      "amazon_url": "https://www.amazon.com/CATAN-Classic-Strategy-Players-Playtime/dp/B0DYK1ZH2D",
+      "gpt_azn": "B0DYK1ZH2D",
+      "image_url": "https://imgs.search.brave.com/z7gnsBsHJTaTR0w3xXypvN6Sw5EwJUhORSArV5W9RpM/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly93d3cu/Y2F0YW4uY29tL3Np/dGVzL2RlZmF1bHQv/ZmlsZXMvMjAyNS0w/NC8zREJveF9DQVRB/Tl9CYXNlR2FtZV9O/RS5wbmc",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "Ticket to Ride (2025 refresh)",
+      "pros": [
+        "Easy to learn — great for families",
+        "Fast, satisfying gameplay"
+      ],
+      "cons": [
+        "Limited player interaction for some groups",
+        "Card luck can influence outcomes"
+      ],
+      "price": null,
+      "amazon_id": "B0FRFVZBTJ",
+      "sources": [
+        "https://www.gamesradar.com/best-board-games/",
+        "https://bestreviews.com/best-board-games",
+        "https://en.wikipedia.org/wiki/Ticket_to_Ride_%28board_game%29"
+      ],
+      "amazon_url": "https://www.amazon.com/Ticket-to-Ride/dp/B0FRFVZBTJ",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/BEreT7vk_o_5RuSw4v_GiLuCrX5epfDt4W3fVSm9Ans/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly93d3cu/YXNkZXNqZXV4LmNv/bS9jZG4vc2hvcC9m/aWxlcy90aWNrZXQt/dG8tcmlkZS1yZWZy/ZXNoLTIwMjUtZW4t/amV1eC1mYW1pbGxl/LTEyMDA0OTc2OTUu/anBnP3Y9MTc2MjQw/NDA2MyZ3aWR0aD0x/MDgw",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "Gloomhaven: Jaws of the Lion",
+      "pros": [
+        "Deep campaign-driven gameplay",
+        "Excellent solo/co-op experience"
+      ],
+      "cons": [
+        "Long playtime and campaign commitment",
+        "Higher complexity for new players"
+      ],
+      "price": null,
+      "amazon_id": "B088QSDB7S",
+      "sources": [
+        "https://www.gamesradar.com/best-board-games/",
+        "https://bestreviews.com/best-board-games",
+        "https://en.wikipedia.org/wiki/Gloomhaven"
+      ],
+      "amazon_url": "https://www.amazon.com/Cephalofair-Games-Gloomhaven-Strategy-Boxed/dp/B088QSDB7S",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/HbycRkx9tGuksl617iPNCxDyDKXOnQxwSrBC95EBYrE/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9jZXBo/YWxvZmFpci5jb20v/Y2RuL3Nob3AvcHJv/ZHVjdHMvamF3cy1v/Zi10aGUtbGlvbi1j/cmVhdGl2ZS00XzIw/NDh4LmpwZz92PTE3/NTIyNzUyOTA",
+      "resolver": "brave",
+      "valid": true
+    }
+  ],
+  "resolvedLinks": {
+    "https://www.gamesradar.com/best-board-games/": {
+      "title": "The best board games in 2026, with over 25 recommendations tested and reviewed by experts",
+      "description": "These essential board games deserve a spot in your collection",
+      "image": "https://cdn.mos.cms.futurecdn.net/VP8NRAA3AjEiNBdjBvTUvW-1920-80.jpg",
+      "url": "https://www.gamesradar.com/best-board-games/"
+    },
+    "https://bestreviews.com/best-board-games": {
+      "title": "Best Board Games",
+      "description": "Think board games are just for kids? Think again—these classics are a fun way to connect at any age.",
+      "image": "https://cdn.bestreviews.com/images/v4desktop/chubby/_b7a8285-3a034e.jpg",
+      "url": "https://bestreviews.com/toys-and-games/board-games/best-board-games"
+    },
+    "https://en.wikipedia.org/wiki/Catan": {
+      "title": "Catan - Wikipedia",
+      "description": "",
+      "image": "https://upload.wikimedia.org/wikipedia/en/a/a3/Catan-2015-boxart.jpg",
+      "url": "https://en.wikipedia.org/wiki/Catan"
+    },
+    "https://www.amazon.com/CATAN-Classic-Strategy-Players-Playtime/dp/B0DYK1ZH2D": {
+      "title": "Amazon.com: CATAN Board Game (6th Edition) Trade, Build & Settle in the Classic Strategy Game for Family, Kids & Adults, Ages 10+, 3-4 Players, 60-90 Min Playtime : Toys & Games",
+      "description": "",
+      "image": "",
+      "url": "https://www.amazon.com/CATAN-Classic-Strategy-Players-Playtime/dp/B0DYK1ZH2D"
+    },
+    "https://en.wikipedia.org/wiki/Ticket_to_Ride_%28board_game%29": {
+      "title": "Ticket to Ride (board game) - Wikipedia",
+      "description": "",
+      "image": "https://upload.wikimedia.org/wikipedia/en/9/92/Ticket_to_Ride_Board_Game_Box_EN.jpg",
+      "url": "https://en.wikipedia.org/wiki/Ticket_to_Ride_%28board_game%29"
+    },
+    "https://en.wikipedia.org/wiki/Gloomhaven": {
+      "title": "Gloomhaven - Wikipedia",
+      "description": "",
+      "image": "https://upload.wikimedia.org/wikipedia/en/thumb/e/ee/Gloomhaven_Cover_Art.jpg/330px-Gloomhaven_Cover_Art.jpg",
+      "url": "https://en.wikipedia.org/wiki/Gloomhaven"
+    }
+  }
+}

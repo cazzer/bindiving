@@ -1,0 +1,102 @@
+{
+  "slug": "sleep-headphones",
+  "query": "best sleep headphones",
+  "title": "Best sleep headphones | Bin Diving",
+  "description": "AI-dug recommendations for best sleep headphones. Compare options and find one that fits.",
+  "dugAt": "2026-03-18T21:43:39.529Z",
+  "recommendations": [
+    {
+      "product_name": "DUBSLABS Bedphones Sleep Headphones",
+      "pros": [
+        "Ultra-thin for side sleepers",
+        "Decent audio for sleep audio",
+        "Affordable sleep-specific design"
+      ],
+      "cons": [
+        "Not full ANC",
+        "Limited app/features",
+        "May not isolate loud noises"
+      ],
+      "price": "$89",
+      "amazon_id": "B017GLFGUE",
+      "sources": [
+        "https://www.sleepfoundation.org/best-sleep-products/best-headphones-for-sleeping",
+        "https://www.livescience.com/technology/best-sleep-headphones"
+      ],
+      "amazon_url": "https://www.amazon.com/Bedphones-Gen-Ear-Sleep-Headphones/dp/B017GLFGUE",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/qc6XrJs0GYFITWm0DQzFsVwwr2eOjAJ_mwGR1vggbDE/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9pLnBp/bmltZy5jb20vb3Jp/Z2luYWxzLzNhL2M1/LzQwLzNhYzU0MDBl/YzI3MmYwYTdhNmI0/YzE0MTUwODdmNWRh/LmpwZw",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "soundcore Sleep A30 (Soundcore Sleep Series)",
+      "pros": [
+        "Active noise-canceling and snore-masking",
+        "Designed for side-sleeper comfort",
+        "Strong review coverage from tech outlets"
+      ],
+      "cons": [
+        "Higher price than basic sleep buds",
+        "Some users report firmware/app issues",
+        "May be over-featured if you only want simple masking"
+      ],
+      "price": null,
+      "amazon_id": "B0FCLJD9M4",
+      "sources": [
+        "https://www.tomsguide.com/audio/earbuds/soundcore-sleep-a30-review",
+        "https://www.soundguys.com/best-headphones-for-sleeping-85068/"
+      ],
+      "amazon_url": "https://www.amazon.com/soundcore-Cancelling-Headphones-Snore-Masking-Ultra-Comfort/dp/B0FCLJD9M4",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/wDVjCqEeDKqp5bz-ojzSmhUnYXV7xPhClBRuC5tnsrQ/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly90aHVy/cm90dC1hc3NldHMu/bnljMy5kaWdpdGFs/b2NlYW5zcGFjZXMu/Y29tL3dlYi93cC1j/b250ZW50L3VwbG9h/ZHMvc2l0ZXMvMi8y/MDI2LzAxL3NjYTMw/LWluLWNhc2UuanBn",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "Ozlo Sleepbuds",
+      "pros": [
+        "Very low-profile for side sleepers",
+        "Built-in sleep sounds and snore-blocking features",
+        "Well-reviewed by sleep-product guides"
+      ],
+      "cons": [
+        "Premium price",
+        "Some users report connectivity/battery quirks",
+        "Requires companion app for full features"
+      ],
+      "price": "$349",
+      "amazon_id": "B0DJB1ZL8V",
+      "sources": [
+        "https://www.sleepfoundation.org/best-sleep-products/best-headphones-for-sleeping",
+        "https://www.livescience.com/technology/best-sleep-headphones",
+        "https://www.soundguys.com/best-headphones-for-sleeping-85068/"
+      ],
+      "amazon_url": "https://www.amazon.com/Ozlo-Sleepbuds%C2%AE-Comfortable-Headphones-Science-Backed/dp/B0DJB1ZL8V",
+      "gpt_azn": "B0DJB1ZL8V",
+      "image_url": "https://imgs.search.brave.com/g-EXkxKzH4eNBcc3B7Go64hIH19ZaRY6r93rydg4Apw/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly93d3cu/bm9zbGVlcGxlc3Nu/aWdodHMuY29tL3dw/LWNvbnRlbnQvdXBs/b2Fkcy8yMDI1LzAx/L096bG8tU2xlZXBi/dWRzLTEuanBn",
+      "resolver": "brave",
+      "valid": true
+    }
+  ],
+  "resolvedLinks": {
+    "https://www.sleepfoundation.org/best-sleep-products/best-headphones-for-sleeping": {
+      "title": "Best Headphones for Sleeping of 2026",
+      "description": "The best headphones for sleeping help block out noise, allowing you to rest easy. This guide will share our picks and tell you what to look for while you shop.",
+      "image": "https://www.sleepfoundation.org/wp-content/uploads/2020/11/DubsLabs-Bedphones-Sleep-Headphones-1.jpg",
+      "url": "https://www.sleepfoundation.org/best-sleep-products/best-headphones-for-sleeping"
+    },
+    "https://www.livescience.com/technology/best-sleep-headphones": {
+      "title": "We tested the best sleep headphones, and these improved our sleep the most",
+      "description": "Lull yourself into a peaceful slumber with our favorite sleep headphones, whether you are looking for tiny earbuds, cozy headbands or open-ear pillow speakers.",
+      "image": "https://cdn.mos.cms.futurecdn.net/JLpEiCiW2EhgaitzoeXcqf-2131-80.jpg",
+      "url": "https://www.livescience.com/technology/best-sleep-headphones"
+    },
+    "https://www.tomsguide.com/audio/earbuds/soundcore-sleep-a30-review": {
+      "title": "Soundcore Sleep A30 review: I have insomnia and these are the only sleep earbuds I'll be using from now on",
+      "description": "Sleep, solved",
+      "image": "https://cdn.mos.cms.futurecdn.net/wi2sMFuTbUqcjrRDHhaDz4-2520-80.jpg",
+      "url": "https://www.tomsguide.com/audio/earbuds/soundcore-sleep-a30-review"
+    }
+  }
+}

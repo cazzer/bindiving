@@ -1,0 +1,127 @@
+{
+  "slug": "wireless-earbuds",
+  "query": "best wireless earbuds",
+  "title": "Best wireless earbuds | Bin Diving",
+  "description": "AI-dug recommendations for best wireless earbuds. Compare options and find one that fits.",
+  "dugAt": "2026-03-18T21:44:46.910Z",
+  "recommendations": [
+    {
+      "product_name": "Sony WF-1000XM5",
+      "pros": [
+        "Excellent ANC",
+        "Detailed sound quality"
+      ],
+      "cons": [
+        "Premium price",
+        "Case size larger than some rivals"
+      ],
+      "price": null,
+      "amazon_id": "B0C33XXS56",
+      "sources": [
+        "https://www.tomsguide.com/us/best-wireless-earbuds%2Creview-6160.html",
+        "https://www.rtings.com/headphones/reviews/best/by-type/truly-wireless-earbuds",
+        "https://www.phonearena.com/news/sony-wf-1000xm5-second-best-price-amazon_id169681"
+      ],
+      "amazon_url": "https://www.amazon.com/Sony-WF-1000XM5-Bluetooth-Canceling-Headphones/dp/B0C33XXS56",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/1L3yEh5xXforJvmeDj0j7qD4kbTEUekF8QLw7IB-iYQ/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9pLmd1/aW0uY28udWsvaW1n/L21lZGlhL2FiYzU3/YjVkNWY5NWMzNGRi/OGU3MzY2Y2FmNGU4/Yjg0YzE1MmI4NzUv/NzgyXzQyMV8zOTAy/XzIzNDEvbWFzdGVy/LzM5MDIuanBnP3dp/ZHRoPTQ0NSZkcHI9/MSZzPW5vbmUmY3Jv/cD1ub25l",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "Apple AirPods Pro (2nd generation)",
+      "pros": [
+        "Seamless Apple integration",
+        "Strong ANC and Transparency mode"
+      ],
+      "cons": [
+        "Best features for Apple devices",
+        "Can be pricey without deals"
+      ],
+      "price": null,
+      "amazon_id": "B0BDHWDR12",
+      "sources": [
+        "https://www.macworld.com/article/2766134/the-amazing-airpods-pro-2-just-hit-the-lowest-price-of-2025.html",
+        "https://www.techradar.com/audio/earbuds-airpods/airpods-pro-2-are-back-down-to-a-bargain-price-while-they-last-for-this-cheap-you-might-prefer-them-over-airpods-pro-3"
+      ],
+      "amazon_url": "https://www.amazon.com/Apple-Generation-Cancelling-Transparency-Personalized/dp/B0BDHWDR12",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/HiXZUrVYPgKlMdBK1rowyMCourTrhfuG1cofrQlPAl4/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9pLmVi/YXlpbWcuY29tL2lt/YWdlcy9nL1p4QUFB/ZVN3QnhkcHNUMGgv/cy1sNDAwLndlYnA",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "Bose QuietComfort Earbuds II",
+      "pros": [
+        "Top-tier noise cancellation",
+        "Comfortable fit for long wear"
+      ],
+      "cons": [
+        "Some reported connectivity/issues",
+        "Limited codec options (SBC/AAC)"
+      ],
+      "price": null,
+      "amazon_id": "B0B7838HH6",
+      "sources": [
+        "https://www.tomsguide.com/reviews/bose-quietcomfort-earbuds-2/",
+        "https://www.techradar.com/reviews/bose-quietcomfort-earbuds-ii",
+        "https://www.wired.com/review/bose-quietcomfort-earbuds-ii-review/"
+      ],
+      "amazon_url": "https://www.amazon.com/Bose-QuietComfort-Cancelling-Personalized-Cancellation/dp/B0B7838HH6",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/dtiw6D267Mjv0S8CrzxVHZWQ9XCjUPprbsBQFzB1tTA/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9jZG4u/bm9pc3l3b3JsZC5v/cmcvd3AtY29udGVu/dC91cGxvYWRzLzIw/MjIvMTEvQm9zZS1R/dWlldENvbWZvcnQt/RWFyYnVkcy1JSS1S/ZXZpZXctYW5kLUFO/Qy1UZXN0LmpwZw",
+      "resolver": "brave",
+      "valid": true
+    }
+  ],
+  "resolvedLinks": {
+    "https://www.tomsguide.com/us/best-wireless-earbuds%2Creview-6160.html": {
+      "title": "Best wireless earbuds 2026 — tested and rated",
+      "description": "These are the best wireless earbuds you can buy today",
+      "image": "https://cdn.mos.cms.futurecdn.net/GkwkCUFEjJbCdXnsgx9nrN-2560-80.jpg",
+      "url": "https://www.tomsguide.com/us/best-wireless-earbuds,review-6160.html"
+    },
+    "https://www.rtings.com/headphones/reviews/best/by-type/truly-wireless-earbuds": {
+      "title": "The 6 Best True Wireless Earbuds of 2026",
+      "description": "The Technics EAH-AZ100 are the best true wireless earbuds we've tested. These high-end buds have excellent noise isolation and a warm sound profile.",
+      "image": "https://i.rtings.com/assets/pages/QnKwCNI6/best-true-wireless-earbuds-20240708-medium.jpg?format=auto",
+      "url": "https://www.rtings.com/headphones/reviews/best/by-type/truly-wireless-earbuds"
+    },
+    "https://www.phonearena.com/news/sony-wf-1000xm5-second-best-price-amazon_id169681": {
+      "title": "Amazon's latest deal knocks the Sony WF-1000XM5 down to their second-best price",
+      "description": "At 34% off, the Sony WF-1000XM5 are irresistible for music lovers. The earbuds offer superior ANC and excellent sound quality, plus they're cheaper than usual right now.",
+      "image": "https://m-cdn.phonearena.com/images/article/169681-wide-two_1200/Amazons-latest-deal-knocks-the-Sony-WF-1000XM5-down-to-their-second-best-price.jpg",
+      "url": "https://www.phonearena.com/news/sony-wf-1000xm5-second-best-price-amazon_id169681"
+    },
+    "https://www.macworld.com/article/2766134/the-amazing-airpods-pro-2-just-hit-the-lowest-price-of-2025.html": {
+      "title": "The amazing AirPods Pro 2 just hit the lowest price of 2025",
+      "description": "Apple's AirPods Pro 2 earbuds are down to $169 at Amazon today.",
+      "image": "https://www.macworld.com/wp-content/uploads/2025/04/airpods-pro2-hero-1.jpg?quality=50&strip=all&w=1024",
+      "url": "https://www.macworld.com/article/2766134/the-amazing-airpods-pro-2-just-hit-the-lowest-price-of-2025.html"
+    },
+    "https://www.techradar.com/audio/earbuds-airpods/airpods-pro-2-are-back-down-to-a-bargain-price-while-they-last-for-this-cheap-you-might-prefer-them-over-airpods-pro-3": {
+      "title": "This AirPods Pro 2 deal is a good reason not to get the latest model – it's the cheapest they've been in a while",
+      "description": "Amazon's offering the second-gen AirPods Pro for a very sweet price",
+      "image": "https://cdn.mos.cms.futurecdn.net/FHXrGdBsuARXYjjc4jByqJ-2000-80.jpg",
+      "url": "https://www.techradar.com/audio/earbuds-airpods/airpods-pro-2-are-back-down-to-a-bargain-price-while-they-last-for-this-cheap-you-might-prefer-them-over-airpods-pro-3"
+    },
+    "https://www.tomsguide.com/reviews/bose-quietcomfort-earbuds-2/": {
+      "title": "Bose QuietComfort Earbuds 2 review",
+      "description": "Adaptive sound, smarter ANC, and a refreshed design",
+      "image": "https://cdn.mos.cms.futurecdn.net/GbQoTKvCwKcS6VP2UvPaAW-2000-80.jpg",
+      "url": "https://www.tomsguide.com/reviews/bose-quietcomfort-earbuds-2"
+    },
+    "https://www.techradar.com/reviews/bose-quietcomfort-earbuds-ii": {
+      "title": "Bose QuietComfort Earbuds 2 review: fantastic noise cancellation and sound",
+      "description": "The master of ANC is back on top",
+      "image": "https://cdn.mos.cms.futurecdn.net/upamJmUWQ55M4Nx7rfHabP-2560-80.jpg",
+      "url": "https://www.techradar.com/reviews/bose-quietcomfort-earbuds-ii"
+    },
+    "https://www.wired.com/review/bose-quietcomfort-earbuds-ii-review/": {
+      "title": "Bose’s QuietComfort Earbuds II Boast the Best Noise-Canceling",
+      "description": "Just as Apple announces its new AirPods, here comes the granddaddy of ANC to show everyone how it's really done.",
+      "image": "https://media.wired.com/photos/6322407974ce5b82a68ef20e/191:100/w_1280,c_limit/Bose-QuietComfort-Buds-II-Gear.jpg",
+      "url": "https://www.wired.com/review/bose-quietcomfort-earbuds-ii-review/"
+    }
+  }
+}

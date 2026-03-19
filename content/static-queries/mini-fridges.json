@@ -1,0 +1,113 @@
+{
+  "slug": "mini-fridges",
+  "query": "best mini fridges",
+  "title": "Best mini fridges | Bin Diving",
+  "description": "AI-dug recommendations for best mini fridges. Compare options and find one that fits.",
+  "dugAt": "2026-03-18T16:44:55.412Z",
+  "recommendations": [
+    {
+      "product_name": "Frigidaire EFR176 Retro Compact Refrigerator, 1.6 cu. ft.",
+      "pros": [
+        "Compact retro styling",
+        "Built-in bottle opener",
+        "Energy-efficient model options"
+      ],
+      "cons": [
+        "Limited interior capacity",
+        "Can be noisier than full-size units",
+        "Small freezer space"
+      ],
+      "price": null,
+      "amazon_id": "B07LDVXK4Q",
+      "sources": [
+        "https://www.bestreviews.guide/fridges/frigidaire-efr176-retro-compact-fridge-bottle-opener-b073s1gjw4",
+        "https://kitchencritics.com/products/frigidaire-16-cu-ft-retro-mini-fridge-with-side"
+      ],
+      "amazon_url": "https://www.amazon.com/Frigidaire-EFR176-BLUE-Fridge-Bottle-Opener/dp/B07LDVXK4Q",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/NnNdcqHHidm1ST64AUCybye0wUoqa6EOEdMLGXS-MG8/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9pNS53/YWxtYXJ0aW1hZ2Vz/LmNvbS9zZW8vRnJp/Z2lkYWlyZS0xLTYt/Q3UtRnQtUmV0cm8t/Q29tcGFjdC1SZWZy/aWdlcmF0b3Itd2l0/aC1TaWRlLUJvdHRs/ZS1PcGVuZXItRUZS/MTc2LUJsdWVfYjNm/NTg4NzItYjE4Mi00/YWFmLThkZDUtOTVl/OWJhZjBkMWFhLmM1/NmZkNzcyOTY4MDIx/YjRiODVkNDI0ZGZj/MmY4ZDY1LmpwZWc_/b2RuSGVpZ2h0PTU3/MyZvZG5XaWR0aD01/NzMmb2RuQmc9RkZG/RkZG",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "Midea WHD-113FSS1 Double Door Compact Refrigerator, 3.1 cu. ft.",
+      "pros": [
+        "Separate freezer compartment",
+        "Reversible door and adjustable shelves",
+        "Good capacity for its footprint"
+      ],
+      "cons": [
+        "Mixed long-term reliability reports",
+        "Plastic interior components feel thin",
+        "May need occasional defrosting"
+      ],
+      "price": null,
+      "amazon_id": "B00MWXSFM8",
+      "sources": [
+        "https://www.midea.com/us/store/Compact-Refrigerators/compact-refrigerators/3-1-cu-ft-double-door-compact-refrigerator.WHD-113FSS1.mobile",
+        "https://reviewkitchens.com/midea-whd-113fss1-3-1-cu-ft-compact-refrigerator-review/"
+      ],
+      "amazon_url": "https://www.amazon.com/WHD-113FSS1-Freezer-Adjustable-Refrigerator-Stainless/dp/B00MWXSFM8",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/5HRo_UrUV_9ued570MW7bNif1mHaVWiADCygGaga7eg/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9tLm1l/ZGlhLWFtYXpvbi5j/b20vaW1hZ2VzL0kv/NDFtVDdQMFdUWEwu/anBn",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "hOmeLabs Beverage Refrigerator & Cooler (approx. 3.2 cu. ft., glass-door)",
+      "pros": [
+        "Large can/bottle capacity for size",
+        "Attractive glass-door design",
+        "Adjustable/removable shelves for organization"
+      ],
+      "cons": [
+        "Designed for beverages (not optimal for mixed food)",
+        "Glass door can be less insulating than solid door",
+        "Some models vary in temperature uniformity"
+      ],
+      "price": null,
+      "amazon_id": "B0786TJC33",
+      "sources": [
+        "https://www.homeapplianceadvisor.com/homelabs-120-can-beverage-refrigerator-review/",
+        "https://www.homesandgardens.com/buying-guides/best-mini-fridges"
+      ],
+      "amazon_url": "https://www.amazon.com/hOmeLabs-Beverage-Refrigerator-Cooler-Adjustable/dp/B0786TJC33",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/JVw76_rkHad1FfBz-WZQadvnWUb37WNm5PT2wNbnrXw/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9iZWVy/Y29ubm9pc3NldXJz/dG9yZS5jb20vY2Ru/L3Nob3AvcHJvZHVj/dHMvaG9tZWxhYnMt/YmV2ZXJhZ2UtcmVm/cmlnZXJhdG9yLWFu/ZC1jb29sZXItMTIw/LWNhbi1taW5pLWZy/aWRnZS13aXRoLWds/YXNzLWRvb3ItZm9y/LXNvZGEtYmVlci1v/ci13aW5lLXNtYWxs/LWRyaW5rLWRpc3Bl/bnNlci1tYWNoaW5l/LWZvci1vZmZpY2Ut/b3ItYmFyLXdpdGgt/YWRqdXN0YS00MzQ1/MzZfNDQ3eDUwMC5q/cGc_dj0xNjY2MTgy/ODE0",
+      "resolver": "brave",
+      "valid": true
+    }
+  ],
+  "resolvedLinks": {
+    "https://www.bestreviews.guide/fridges/frigidaire-efr176-retro-compact-fridge-bottle-opener-b073s1gjw4": {
+      "title": "Frigidaire efr176 retro compact fridge bottle opener Review | BestReviews.guide",
+      "description": "BestReviews.guide analyzes thousands of articles and customer reviews to find the top-rated products at today's lowest prices. Best products, best offers.",
+      "image": "https://images-proxy.bestreviews.guide/TdHD_GrIF6cDcG9BJaj8-tx_zws=/0x300/https://m.media-amazon.com/images/I/31fk+JrTzvL._AC_CX679_.jpg",
+      "url": "https://www.bestreviews.guide/fridges/frigidaire-efr176-retro-compact-fridge-bottle-opener-b073s1gjw4"
+    },
+    "https://kitchencritics.com/products/frigidaire-16-cu-ft-retro-mini-fridge-with-side": {
+      "title": "Frigidaire (EFR176-MOONBM) 1.6 Cu Ft Retro Mini Fridge Reviews, Problems & Guides",
+      "description": "Frigidaire brings you the best retro compact refrigerators for any budget. The 1.6 cu. ft. retro design refrigerator with built-in side bottle opener has enough room...",
+      "image": "https://kitchencritics.com/assets/products/7694/thumbnails/main-image-frigidaire-16-cu-ft-retro-mini-fridge-with-side-460-460.jpg",
+      "url": "https://kitchencritics.com/products/frigidaire-16-cu-ft-retro-mini-fridge-with-side"
+    },
+    "https://reviewkitchens.com/midea-whd-113fss1-3-1-cu-ft-compact-refrigerator-review/": {
+      "title": "Review Kitchens",
+      "description": "",
+      "image": "",
+      "url": "https://reviewkitchens.com/"
+    },
+    "https://www.homeapplianceadvisor.com/homelabs-120-can-beverage-refrigerator-review/": {
+      "title": "hOmeLabs 120 Can Beverage Refrigerator Review",
+      "description": "The hOmeLabs Beverage Refrigerator combines midrange design touches with some typical entry-level features. The verdict? Find out here.",
+      "image": "https://m.media-amazon.com/images/I/41frLdkbpPL._SL500_.jpg",
+      "url": "https://www.homeapplianceadvisor.com/homelabs-120-can-beverage-refrigerator-review/"
+    },
+    "https://www.homesandgardens.com/buying-guides/best-mini-fridges": {
+      "title": "Best mini fridges – selected by an expert",
+      "description": "The best mini fridges are a luxurious extra, perfect for keeping snacks and drinks cool. I've looked through thousands and these are the ones you need.",
+      "image": "https://cdn.mos.cms.futurecdn.net/MvTVeBM2JXhFdZKbQ5fGHZ-1600-80.jpg",
+      "url": "https://www.homesandgardens.com/buying-guides/best-mini-fridges"
+    }
+  }
+}

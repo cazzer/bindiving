@@ -1,0 +1,92 @@
+{
+  "slug": "drugstore-hair-products",
+  "query": "best drugstore hair products",
+  "title": "Best drugstore hair products | Bin Diving",
+  "description": "AI-dug recommendations for best drugstore hair products. Compare options and find one that fits.",
+  "dugAt": "2026-03-18T18:21:09.647Z",
+  "recommendations": [
+    {
+      "product_name": "Pantene Miracle Rescue 10-in-1 Multitasking Spray + Keratin",
+      "pros": [
+        "multi-use leave-in treatment",
+        "widely available, budget-friendly"
+      ],
+      "cons": [
+        "scent divisive",
+        "some users report formula changes"
+      ],
+      "price": null,
+      "amazon_id": "B08T2WP81T",
+      "sources": [
+        "https://www.allure.com/story/best-of-beauty-drugstore-product-winners-2025"
+      ],
+      "amazon_url": "https://www.amazon.com/Pantene-Miracle-Rescue-Multitasking-Conditioner/dp/B08T2WP81T",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/uAjRENLtsX7rHWZ8qqUdxEpSFVyrX2ohRwqaPTIjKZI/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9lZGl0/b3JpYWxpc3QuY29t/L3RodW1ibmFpbHMv/NjAwLzIwMjQvMTIv/MDMzLzk3MS80MzIv/MzM5NzE0MzJ-b25l/LWNvbG9yXzE3MzU0/NTg1OTQ1OTJfMC53/ZWJw",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "Kristin Ess Hair Instant Lift Thickening Spray",
+      "pros": [
+        "adds volume for fine hair",
+        "affordable drugstore pick"
+      ],
+      "cons": [
+        "may build up if overused",
+        "some brand availability concerns online"
+      ],
+      "price": null,
+      "amazon_id": "B071DBNWMP",
+      "sources": [
+        "https://www.whowhatwear.com/beauty/hair/best-hair-volumizing-sprays"
+      ],
+      "amazon_url": "https://www.amazon.com/Kristin-Instant-Lift-Thickening-Spray/dp/B071DBNWMP",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/0LP3Kg-Lczw2YI2v_2FBtagq8nm3XseKRahxCENyTL0/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9sdXhw/bHVzLmltZ2l4Lm5l/dC9jb250ZW50L3By/b2R1Y3QvaW1hZ2Uv/MTI0NDkwLTk0OTk0/LTE3MDI0NTk3NjYu/anBnP2F1dG89Zm9y/bWF0LGNvbXByZXNz/Jnc9ODAwJmg9ODAw/JmZpbGwtY29sb3I9/RkZGRkZGJmZpbGw9/c29saWQmZml0PWZp/bGxtYXg",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "OGX Quenching+ Coconut Curls Shampoo",
+      "pros": [
+        "curl-defining, hydrating for curls",
+        "easy to find at drugstores"
+      ],
+      "cons": [
+        "scent and formula changes reported by some users",
+        "may not suit very damaged hair"
+      ],
+      "price": null,
+      "amazon_id": "B01APTZQWW",
+      "sources": [
+        "https://www.nbcnews.com/select/shopping/best-drugstore-shampoos-ncna1299320"
+      ],
+      "amazon_url": "https://www.amazon.com/OGX-Curl-Defining-Nourishing-Sulfate-Free-Surfactants/dp/B01APTZQWW",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/cVZXyt3i9cUomCZ8PoD68X62fuEi8EBcgAWhIMXAs68/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9waG9y/Y3lzLXN0YXRpYy5l/d2cub3JnL2Nkbi1j/Z2kvaW1hZ2Uvd2lk/dGg9MjgwLGhlaWdo/dD00MDAscXVhbGl0/eT02MC9odHRwczov/L3Bob3JjeXMtc3Rh/dGljLmV3Zy5vcmcv/aW1hZ2UvY29udGVu/dHMvNzU1MzI3L29y/aWdpbmFsLg",
+      "resolver": "brave",
+      "valid": true
+    }
+  ],
+  "resolvedLinks": {
+    "https://www.allure.com/story/best-of-beauty-drugstore-product-winners-2025": {
+      "title": "Shop the 2025 Best of Beauty Winners That Are All Under $24",
+      "description": "These 33 products all cost less than $24, but they make us look like a million bucks.",
+      "image": "https://media.allure.com/photos/689f8d7a4d0a16945555d3e1/16:9/w_1280,c_limit/Anok-Alex_BOB_Zhong_Lin_2025_03.jpg",
+      "url": "https://www.allure.com/story/best-of-beauty-drugstore-product-winners-2025"
+    },
+    "https://www.whowhatwear.com/beauty/hair/best-hair-volumizing-sprays": {
+      "title": "I Have Fine Hair, But These 13 Volumizing Sprays Gave Me Blowout-Level Body",
+      "description": "The higher the hair…",
+      "image": "https://cdn.mos.cms.futurecdn.net/Sfog2Pjrzg3RhvDS7Nw8P-1200-80.jpg",
+      "url": "https://www.whowhatwear.com/beauty/hair/best-hair-volumizing-sprays"
+    },
+    "https://www.nbcnews.com/select/shopping/best-drugstore-shampoos-ncna1299320": {
+      "title": "These are the ‘filler ingredients’ to avoid in drugstore shampoos",
+      "description": "Dermatologists and hair experts recommended these drugstore shampoos that won’t break the bank.",
+      "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2025-01/drugstoreshampoosocial-65bea2.png",
+      "url": "https://www.nbcnews.com/select/shopping/best-drugstore-shampoos-ncna1299320"
+    }
+  }
+}

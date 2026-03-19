@@ -1,0 +1,89 @@
+{
+  "slug": "womens-button-ups",
+  "query": "best women’s button ups",
+  "title": "Best women’s button ups | Bin Diving",
+  "description": "AI-dug recommendations for best women’s button ups. Compare options and find one that fits.",
+  "dugAt": "2026-03-18T22:41:57.890Z",
+  "recommendations": [
+    {
+      "product_name": "Seidensticker Women’s Slim Fit Button-Down",
+      "pros": [
+        "Flattering slim fit",
+        "Classic white button-down look",
+        "Works for office or casual wear"
+      ],
+      "cons": [
+        "Higher price than fast-fashion options",
+        "Limited color/pattern choices"
+      ],
+      "price": null,
+      "amazon_id": "B0B4PH6ZQL",
+      "sources": [
+        "https://amp.cnn.com/cnn/cnn-underscored/fashion/best-womens-tops-on-amazon"
+      ],
+      "amazon_url": "https://www.amazon.com/Seidensticker-Womens-Slim-Fit/dp/B0B4PH6ZQL",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/QRj1E927xjhcqZVcPIdvUzYTPmVdpNCZv92i9ob2Fc4/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9tZWRp/YS5jbm4uY29tL2Fw/aS92MS9pbWFnZXMv/c3RlbGxhci9wcm9k/L3NlaWRlbnN0aWNr/ZXItd29tZW4tcy1z/bGltLWZpdC1idXR0/b24tZG93bi5qcGc_/Yz0xNng5JnE9aF83/MjAsd18xMjgwLGNf/ZmlsbA",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "The Drop Women’s Kendra Loose Fit Long Shirt",
+      "pros": [
+        "Loose, comfortable silhouette",
+        "Crisp look that tucks or wears untucked",
+        "Affordable Amazon fashion line"
+      ],
+      "cons": [
+        "May be boxy on smaller frames",
+        "Limited seasonal color runs"
+      ],
+      "price": null,
+      "amazon_id": "B09NJS2DPF",
+      "sources": [
+        "https://amp.cnn.com/cnn/cnn-underscored/fashion/best-womens-tops-on-amazon"
+      ],
+      "amazon_url": "https://www.amazon.com/Drop-Womens-Kendra-Loose-Shirt/dp/B09NJS2DPF",
+      "gpt_azn": null,
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "Amazon Essentials Women’s Relaxed-Fit Short-Sleeve Woven Blouse",
+      "pros": [
+        "Very budget-friendly",
+        "Relaxed, versatile fit",
+        "Many colors/patterns and large size range"
+      ],
+      "cons": [
+        "Requires ironing (viscose fabric)",
+        "Not as structured as higher-end poplin shirts"
+      ],
+      "price": null,
+      "amazon_id": "B07XZVJH28",
+      "sources": [
+        "https://www.essentialsactivewear.com/product/amazon-essentials-womens-relaxed-fit-short-sleeve-woven-blouse/",
+        "https://amp.cnn.com/cnn/cnn-underscored/fashion/best-womens-tops-on-amazon"
+      ],
+      "amazon_url": "https://www.amazon.com/Amazon-Essentials-Womens-Short-Sleeve-Blouse/dp/B07XZVJH28",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/dhrdbdtx9dUecgxmswWdFjJH_xJ7O-83yE2JoVGX13M/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9tLm1l/ZGlhLWFtYXpvbi5j/b20vaW1hZ2VzL0kv/NzFzM3dzdk55b0wu/anBn",
+      "resolver": "brave",
+      "valid": true
+    }
+  ],
+  "resolvedLinks": {
+    "https://amp.cnn.com/cnn/cnn-underscored/fashion/best-womens-tops-on-amazon": {
+      "title": "The best women’s tops you can find on Amazon, according to stylists | CNN Underscored",
+      "description": "From classic tees to chic bodysuits, these stylish tops — all under $100 at Amazon and expert recommended — are just what your wardrobe needs.",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/amazon-tops-cnnu-20251117171425670.jpg?c=16x9&q=w_800,c_fill",
+      "url": "https://www.cnn.com/cnn-underscored/fashion/best-womens-tops-on-amazon"
+    },
+    "https://www.essentialsactivewear.com/product/amazon-essentials-womens-relaxed-fit-short-sleeve-woven-blouse/": {
+      "title": "Amazon Essentials Women’s Relaxed-Fit Short-Sleeve Woven Blouse(Aqua Blue Poppy) - Amazon Essentials",
+      "description": "Package Dimensions ‏ : ‎ 1 x 1 x 1 inches; 8 ounces Item model number ‏ : ‎ AE18913398 Department ‏ : ‎ womens Date First Available ‏ : ‎ October 18, 2020 Manufacturer ‏ : ‎ Amazon Essentials Best Sellers Rank: #1,082 in Our Brands (See Top 100 in Our Brands) #35 in",
+      "image": "https://cdn.essentialsactivewear.com/cdn/10203/2025/0919/4e32e0c419c8074e8ee80067bc748de9.webp",
+      "url": "https://www.essentialsactivewear.com/product/amazon-essentials-womens-relaxed-fit-short-sleeve-woven-blouseaqua-blue-poppy/"
+    }
+  }
+}

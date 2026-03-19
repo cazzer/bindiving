@@ -1,0 +1,95 @@
+{
+  "slug": "multitools",
+  "query": "best multi‑tools",
+  "title": "Best multi‑tools | Bin Diving",
+  "description": "AI-dug recommendations for best multi‑tools. Compare options and find one that fits.",
+  "dugAt": "2026-03-18T16:11:49.203Z",
+  "recommendations": [
+    {
+      "product_name": "Leatherman Wave Alpha",
+      "pros": [
+        "Updated blade steel (MagnaCut)",
+        "Solid pliers and wire cutters",
+        "Good all‑around toolset"
+      ],
+      "cons": [
+        "Heavier than minimalist options",
+        "Higher price tier"
+      ],
+      "price": null,
+      "amazon_id": "B0FS481M84",
+      "sources": [
+        "https://www.t3.com/active/outdoors/leatherman-wave-alpha-launch-1025"
+      ],
+      "amazon_url": "https://www.amazon.com/LEATHERMAN-Wave-Alpha-16-Multi-Tool/dp/B0FS481M84",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/lyNhoSr-4roMXY835kJtdJXt6MJdUJnw5RILsj3SvvY/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9pLnJl/ZGQuaXQvdHB4eWs1/ODV2cnFmMS5qcGVn",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "Leatherman FREE P4",
+      "pros": [
+        "Smooth one‑handed access (FREE system)",
+        "Robust tool selection for heavy use",
+        "Comfortable ergonomic handles"
+      ],
+      "cons": [
+        "More expensive than basic models",
+        "FREE magnetic mechanism may collect dirt"
+      ],
+      "price": null,
+      "amazon_id": "B07P5H9T41",
+      "sources": [
+        "https://modernwarriorproject.com/preppers-choice-multi-tools-you-cant-afford-to-ignore-in-2025/"
+      ],
+      "amazon_url": "https://www.amazon.com/LEATHERMAN-Multitool-Magnetic-Locking-Accessible/dp/B07P5H9T41",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/R-WwFV0S1bEj8T3KgTXdqH-SI_Wqaqhw8-5RLzrFrdo/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly96YXB3/aXphcmQuY29tL2Nk/bi9zaG9wL3Byb2R1/Y3RzL1JlbmRlcl9M/ZWF0aGVybWFuRnJl/ZVA0LkZsYXQuanBn/P3Y9MTYxODI2NTMx/MSZ3aWR0aD0xMDgw",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "Victorinox SwissTool Spirit X (SwissTool line)",
+      "pros": [
+        "Swiss‑made durability and finish",
+        "Excellent pliers and tool fitment",
+        "Lifetime warranty from Victorinox"
+      ],
+      "cons": [
+        "Polished finish shows scratches",
+        "Fewer locking‑blade options than some Leathermans"
+      ],
+      "price": null,
+      "amazon_id": "B08ZNPT2CH",
+      "sources": [
+        "https://reviews.oneclearwinner.com/product/victorinox-multitools/"
+      ],
+      "amazon_url": "https://www.amazon.com/Victorinox-Spirit-Function-Multitool-Pliers/dp/B08ZNPT2CH",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/coahsTu1a_5OVVqhqUPZzHyum-ISbdKXPn-5cpN8ui4/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9pLmVi/YXlpbWcuY29tL3Ro/dW1icy9pbWFnZXMv/Zy9vMG9BQWVTd0NJ/eHBFTFRoL3MtbDQw/MC53ZWJw",
+      "resolver": "brave",
+      "valid": true
+    }
+  ],
+  "resolvedLinks": {
+    "https://www.t3.com/active/outdoors/leatherman-wave-alpha-launch-1025": {
+      "title": "Leatherman’s latest multitool is a subtle evolution of a classic",
+      "description": "The updated model builds on the Wave+ formula with MagnaCut steel and design upgrades",
+      "image": "https://cdn.mos.cms.futurecdn.net/vLie2EKzoJTcoRcGrq2vqc-1920-80.jpg",
+      "url": "https://www.t3.com/active/outdoors/leatherman-wave-alpha-launch-1025"
+    },
+    "https://modernwarriorproject.com/preppers-choice-multi-tools-you-cant-afford-to-ignore-in-2025/": {
+      "title": "Prepper's Choice: Multi-Tools You Can't Afford to Ignore in 2025 | Modern Warrior Project",
+      "description": "",
+      "image": "",
+      "url": "https://modernwarriorproject.com/preppers-choice-multi-tools-you-cant-afford-to-ignore-in-2025/"
+    },
+    "https://reviews.oneclearwinner.com/product/victorinox-multitools/": {
+      "title": "Our 10 Best Victorinox Multitools for 2026 [US] | OneClearWinner.com",
+      "description": "",
+      "image": "",
+      "url": "https://reviews.oneclearwinner.com/product/victorinox-multitools/"
+    }
+  }
+}

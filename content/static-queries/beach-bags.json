@@ -1,0 +1,88 @@
+{
+  "slug": "beach-bags",
+  "query": "best beach bags",
+  "title": "Best beach bags | Bin Diving",
+  "description": "AI-dug recommendations for best beach bags. Compare options and find one that fits.",
+  "dugAt": "2026-03-18T18:31:39.966Z",
+  "recommendations": [
+    {
+      "product_name": "ALOHA Collection Day Tripper Tote",
+      "pros": [
+        "Lightweight and roomy",
+        "Splash‑proof, zippered top"
+      ],
+      "cons": [
+        "Not fully waterproof",
+        "Limited interior pockets"
+      ],
+      "price": null,
+      "amazon_id": "B07Z89VHL4",
+      "sources": [
+        "https://www.nationalgeographic.com/lifestyle/article/best-beach-bags"
+      ],
+      "amazon_url": "https://www.amazon.com/ALOHA-Collection-Totes/dp/B07Z89VHL4",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/VIx5NjpYSBJPgwdZZxD7eKIurzEF12e7ukeU464-mSM/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9oaWdo/Y291bnRyeW91dGZp/dHRlcnMuY29tL2Nk/bi9zaG9wL2ZpbGVz/L2Fsb2hhLWNvbGxl/Y3Rpb24tZGF5LXRy/aXBwZXItdG90ZS0w/OS1wYWNrcy1sdWdn/YWdlLXBhY2stY2Fz/dWFsLTc3NC5qcGc_/Y3JvcD1jZW50ZXIm/aGVpZ2h0PTE1MDAm/dj0xNzY4OTIyNTU4/JndpZHRoPTE1MDA",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "BOGG BAG Original Extra Large Tote",
+      "pros": [
+        "Waterproof, easy‑to‑clean EVA construction",
+        "Stands upright; non‑slip bottom"
+      ],
+      "cons": [
+        "No top zipper",
+        "Higher price point vs dupes"
+      ],
+      "price": null,
+      "amazon_id": "B0DN5MMSBZ",
+      "sources": [
+        "https://www.nationalgeographic.com/lifestyle/article/best-beach-bags",
+        "https://www.sfgate.com/shopping/article/best-beach-bags-21030845.php"
+      ],
+      "amazon_url": "https://www.amazon.com/BOGG-BAG-Bogg-Bag-Original/dp/B0DN5MMSBZ",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/9DCd1WR64hWD_TLS-Lo1pNGfmyG4lc7hdN6OtGr8OKo/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9pbWFn/ZXMtbmEuc3NsLWlt/YWdlcy1hbWF6b24u/Y29tL2ltYWdlcy9J/LzYxS29Gd3Q0SnJM/LmpwZw",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "YETI Camino 35 Carryall (Camino Carryall)",
+      "pros": [
+        "Durable, waterproof ThickSkin shell",
+        "Rugged, tip‑resistant construction"
+      ],
+      "cons": [
+        "Bulkier/heavier than soft totes",
+        "Can sell out in popular colors"
+      ],
+      "price": null,
+      "amazon_id": "B0BDBG7Q98",
+      "sources": [
+        "https://www.t3.com/active/outdoors/yeti-camino-35-caryall-alpenglow-colour-valentines-day",
+        "https://www.sfgate.com/shopping/article/best-beach-bags-21030845.php"
+      ],
+      "amazon_url": "https://www.amazon.com/YETI-Carryall-Internal-All-Purpose-Waterproof/dp/B0BDBG7Q98",
+      "gpt_azn": "B0B9T6Q6MG",
+      "image_url": "https://imgs.search.brave.com/sSMmRjCgSIe7aOKYJEtNRLk3xVSqvlN3xI4tVc8Mm9I/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9tLm1l/ZGlhLWFtYXpvbi5j/b20vaW1hZ2VzL0kv/NDFKM0NWdGxScEwu/anBn",
+      "resolver": "brave",
+      "valid": true
+    }
+  ],
+  "resolvedLinks": {
+    "https://www.sfgate.com/shopping/article/best-beach-bags-21030845.php": {
+      "title": "The best beach bags for waterproof, sand-proof durability",
+      "description": "The best beach bags for families who pack everything. Tested by parents, these spacious, wipeable totes hold towels, snacks, toys and more.",
+      "image": "https://s.hdnux.com/photos/01/54/35/77/28434384/3/rawImage.jpg",
+      "url": "https://www.sfgate.com/shopping/article/best-beach-bags-21030845.php"
+    },
+    "https://www.t3.com/active/outdoors/yeti-camino-35-caryall-alpenglow-colour-valentines-day": {
+      "title": "One of YETI’s most viral bags just landed in a bold new colour drop",
+      "description": "YETI’s cult Camino 35 gets a Valentine-ready refresh",
+      "image": "https://cdn.mos.cms.futurecdn.net/UGqhjdNjGjoRyzadvJMsx9-1920-80.jpg",
+      "url": "https://www.t3.com/active/outdoors/yeti-camino-35-caryall-alpenglow-colour-valentines-day"
+    }
+  }
+}

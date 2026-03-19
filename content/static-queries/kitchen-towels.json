@@ -1,0 +1,104 @@
+{
+  "slug": "kitchen-towels",
+  "query": "best kitchen towels",
+  "title": "Best kitchen towels | Bin Diving",
+  "description": "AI-dug recommendations for best kitchen towels. Compare options and find one that fits.",
+  "dugAt": "2026-03-18T17:23:24.939Z",
+  "recommendations": [
+    {
+      "product_name": "Coyuchi Organic Waffle Dish Cloth (set)",
+      "pros": [
+        "GOTS-certified organic cotton",
+        "Lightweight, quick-drying waffle weave",
+        "Lint-free, attractive for display"
+      ],
+      "cons": [
+        "Not as 'spongy' as terry cloth for heavy spills",
+        "Higher price point"
+      ],
+      "price": "$58 (reported)",
+      "amazon_id": "B07XG549VF",
+      "sources": [
+        "https://www.hgtv.com/shopping/product-reviews/best-kitchen-towels",
+        "https://www.coyuchi.com/products/organic-waffle-kitchen-towels-set-of-6-shoreline"
+      ],
+      "amazon_url": "https://www.amazon.com/Coyuchi-Weight-Organic-Cloth-French/dp/B07XG549VF",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/hyeBNDJBcJDq5jE-mc1KqqzUi4BUYv1f1XYJADDsVeQ/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9zb2Fy/aW5naGVhcnQuY29t/L2Nkbi9zaG9wL2Zp/bGVzL0tpdGNoZW5E/ZXNlcnRfMjAwMHgu/d2VicD92PTE3NDE4/MDQ4MjY",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "Hedley & Bennett Chef's Towel (3-pack)",
+      "pros": [
+        "Durable, chef-grade cotton",
+        "Available in multiple colors; fits apron loop",
+        "Lifetime guarantee from brand"
+      ],
+      "cons": [
+        "Requires gentle wash and lay-flat drying",
+        "Cannot be bleached"
+      ],
+      "price": "$25 (reported)",
+      "amazon_id": "B0GFCBM8CJ",
+      "sources": [
+        "https://www.culinaryhill.com/best-kitchen-towels/",
+        "https://www.hedleyandbennett.com/products/oat-white-chefs-towel"
+      ],
+      "amazon_url": "https://www.amazon.com/Hedley-Bennet-Essential-Market-Bundle/dp/B0GFCBM8CJ",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/c-sMP-x7O-By1KRRhn-7Zn0No9rm9kR3Do8k6xiKJD0/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9hcmRl/bnRoZWF0cmUub3Jn/L3dwLWNvbnRlbnQv/c211c2gtd2VicC8y/MDI0LzA1L0hFRExF/WV8wNS00MDB4Mjg0/LmpwZy53ZWJw",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "Fecido Premium Kitchen Towels",
+      "pros": [
+        "Highly absorbent terry/loop construction",
+        "Large size; holds up well after washing",
+        "Available in multiple colors and pack sizes"
+      ],
+      "cons": [
+        "Higher cost per towel vs budget options",
+        "Can be thicker to dry slowly when hung wet"
+      ],
+      "price": null,
+      "amazon_id": "B0776LDMPF",
+      "sources": [
+        "https://www.yourbestdigs.com/reviews/kitchen-towels/",
+        "https://www.amazon.com/dp/B00JZ1XK8M"
+      ],
+      "amazon_url": "https://www.amazon.com/Fecido-Classic-Kitchen-Towels-Hanging/dp/B0776LDMPF",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/U7GKNGmOgl1hTJe9G05Xz2O-YsVjKhBu1q1L_KJ16-c/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9pbWFn/ZXMtbmEuc3NsLWlt/YWdlcy1hbWF6b24u/Y29tL2ltYWdlcy9J/LzgxeDJ4Um83RTZM/LmpwZw",
+      "resolver": "brave",
+      "valid": true
+    }
+  ],
+  "resolvedLinks": {
+    "https://www.hgtv.com/shopping/product-reviews/best-kitchen-towels": {
+      "title": "10 Best Kitchen Towels of 2026, Tested and Reviewed",
+      "description": "We tested 23 top-rated kitchen towels to find the best ones for every budget and style.",
+      "image": "https://hgtvhome.sndimg.com/content/dam/images/hgtv/products/2023/4/10/rx_food52_utilitykitchentowels.jpg.rend.hgtvcom.616.616.85.suffix/1681165873463.webp",
+      "url": "https://www.hgtv.com/shopping/product-reviews/best-kitchen-towels"
+    },
+    "https://www.coyuchi.com/products/organic-waffle-kitchen-towels-set-of-6-shoreline": {
+      "title": "Organic Waffle Kitchen Towels, Set of 6",
+      "description": "The first time you wash these towels, something beautiful happens: the smooth basket weave puckers into a high performance waffle texture. This means more surface area per square inch, drinking in water like no flat-weave towel can. Loomed from pure, yarn-dyed organic cotton crossed with white, each towel’s soft color",
+      "image": "http://www.coyuchi.com/cdn/shop/files/pdp_waffle_kitchentowel_shoreline_a_sp21_745b114c-0116-4211-9478-10bd7edde294.jpg?v=1760127952",
+      "url": "https://www.coyuchi.com/products/organic-waffle-kitchen-towels-set-of-6-shoreline"
+    },
+    "https://www.hedleyandbennett.com/products/oat-white-chefs-towel": {
+      "title": "Oat White Chef's Towel - Premium Kitchen Gear | Hedley & Bennett",
+      "description": "Upgrade your kitchen game with the Oat White Chef's Towel by Hedley & Bennett – designed for home cooks and professional chefs alike with a passion for quality and style.",
+      "image": "https://www.hedleyandbennett.com/products/[object%20Object]",
+      "url": "https://www.hedleyandbennett.com/products/oat-white-chefs-towel"
+    },
+    "https://www.yourbestdigs.com/reviews/kitchen-towels/": {
+      "title": "The 9 Best Kitchen Towels of 2026 - Reviews by Your Best Digs",
+      "description": "We washed and dried dozens of pots, dishes, and glasses to find the most absorbent and durable kitchen towels.",
+      "image": "https://www.yourbestdigs.com/wp-content/uploads/2022/09/best-kitchen-towels.jpg",
+      "url": "https://www.yourbestdigs.com/reviews/kitchen-towels/"
+    }
+  }
+}

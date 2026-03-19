@@ -1,0 +1,104 @@
+{
+  "slug": "kitchen-scales",
+  "query": "best kitchen scales",
+  "title": "Best kitchen scales | Bin Diving",
+  "description": "AI-dug recommendations for best kitchen scales. Compare options and find one that fits.",
+  "dugAt": "2026-03-18T17:01:32.835Z",
+  "recommendations": [
+    {
+      "product_name": "Escali Primo Digital Kitchen Scale",
+      "pros": [
+        "Very accurate down to 1 g",
+        "Easy to clean, compact",
+        "Affordably priced"
+      ],
+      "cons": [
+        "Basic design, few extra features",
+        "Not waterproof"
+      ],
+      "price": null,
+      "amazon_id": "B0007GAWRS",
+      "sources": [
+        "https://www.tomsguide.com/home/kitchen-dining/dont-judge-a-kitchen-scale-by-looks-alone-the-usd26-escali-primo-digital-scale-is-a-good-bet",
+        "https://www.tomsguide.com/home/home-appliances/best-kitchen-scales"
+      ],
+      "amazon_url": "https://www.amazon.com/Escali-Digital-Multi-Functional-Kitchen-Measuring/dp/B0007GAWRS",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/fxNTpYXvnqZTHS02ZNzeSBnqE0BVMBlA5609qaAs8Eg/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly93d3cu/YXRiYnEuY29tL2Nk/bi9zaG9wL2ZpbGVz/L2VzY2FsaS1wcmlt/by1wMTE1LXByZWNp/c2lvbi1kaWdpdGFs/LWtpdGNoZW4tZm9v/ZC1zY2FsZS1tZXRh/bGxpYy1tZWFzdXJp/bmctc2NhbGVzLTU1/MDM5MzQzMTMyOTQ5/LndlYnA_dj0xNzYy/MTk4MzQwJndpZHRo/PTQ0NzI",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "OXO Good Grips 11-Pound Stainless Steel Food Scale with Pull-Out Display",
+      "pros": [
+        "Pull-out display stays visible with large bowls",
+        "Stainless-steel platform resists fingerprints",
+        "Reliable accuracy and build quality"
+      ],
+      "cons": [
+        "Higher price than basic models",
+        "Platform is hand-wash only"
+      ],
+      "price": null,
+      "amazon_id": "B079D9B82W",
+      "sources": [
+        "https://www.foodnetwork.com/how-to/packages/shopping/product-reviews/best-kitchen-scale",
+        "https://www.goodhousekeeping.com/cooking-tools/g39111517/best-kitchen-scales/"
+      ],
+      "amazon_url": "https://www.amazon.com/OXO-Grips-Stainless-Pull-Out-Display/dp/B079D9B82W",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/7YxJuBKB3qgPdXPrtFkMuqwUbasUUqHqT5p6dmHlihY/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9jZG4u/YXBhcnRtZW50dGhl/cmFweS5pbmZvL2lt/YWdlL3VwbG9hZC9m/X2F1dG8scV9hdXRv/OmVjbyx3XzczMC9j/b21tZXJjZS9veG8t/Zm9vZC1zY2FsZQ",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "Etekcity Digital Kitchen Food Scale",
+      "pros": [
+        "Excellent value for money",
+        "Multiple units and tare function",
+        "Thin profile for easy storage"
+      ],
+      "cons": [
+        "Build feels less premium than top brands",
+        "Some models vary in long-term durability"
+      ],
+      "price": null,
+      "amazon_id": "B0113UZJE2",
+      "sources": [
+        "https://www.foodnetwork.com/how-to/packages/shopping/product-reviews/best-kitchen-scale",
+        "https://www.tomsguide.com/home/home-appliances/best-kitchen-scales"
+      ],
+      "amazon_url": "https://www.amazon.com/Etekcity-Multifunction-Stainless-Batteries-Included/dp/B0113UZJE2",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/P1FRPHy8uR_6sGl4sOQcceUvnxudTivpWqyRv4F-2AE/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9pbWFn/ZXMtbmEuc3NsLWlt/YWdlcy1hbWF6b24u/Y29tL2ltYWdlcy9J/LzYxQWZUZCtoTEJM/LmpwZw",
+      "resolver": "brave",
+      "valid": true
+    }
+  ],
+  "resolvedLinks": {
+    "https://www.tomsguide.com/home/kitchen-dining/dont-judge-a-kitchen-scale-by-looks-alone-the-usd26-escali-primo-digital-scale-is-a-good-bet": {
+      "title": "Don't judge a kitchen scale by looks alone: The $26 Escali Primo digital scale is a good bet",
+      "description": "Precision without a high price tag",
+      "image": "https://cdn.mos.cms.futurecdn.net/HVMkm2LHAFRwfaGx8Wbw23-2000-80.jpg",
+      "url": "https://www.tomsguide.com/home/kitchen-dining/dont-judge-a-kitchen-scale-by-looks-alone-the-usd26-escali-primo-digital-scale-is-a-good-bet"
+    },
+    "https://www.tomsguide.com/home/home-appliances/best-kitchen-scales": {
+      "title": "I spent hundreds of hours cooking to test the best kitchen scales — these are the 7 scales I recommend",
+      "description": "Weighing up the best",
+      "image": "https://cdn.mos.cms.futurecdn.net/66wvYxbQt42wXJgRjL5Wx8-2000-80.jpg",
+      "url": "https://www.tomsguide.com/home/home-appliances/best-kitchen-scales"
+    },
+    "https://www.foodnetwork.com/how-to/packages/shopping/product-reviews/best-kitchen-scale": {
+      "title": "5 Best Kitchen Scales of 2026, Tested and Reviewed",
+      "description": "For the most accurate measurements, you need a top-notch digital kitchen scale.",
+      "image": "https://food.fnr.sndimg.com/content/dam/images/food/fullset/2023/2/24/FN-ProductTestingImages-15-KITCHEN%20SCALE-v1.png.rend.hgtvcom.616.462.85.suffix/1677257069877.webp",
+      "url": "https://www.foodnetwork.com/how-to/packages/shopping/product-reviews/best-kitchen-scale"
+    },
+    "https://www.goodhousekeeping.com/cooking-tools/g39111517/best-kitchen-scales/": {
+      "title": "The Most Accurate Food Scales According to Our Testing",
+      "description": "Whether you need a kitchen scale for baking sourdough bread or weighing coffee beans, we've got you covered.",
+      "image": "https://hips.hearstapps.com/hmg-prod/images/gh-022522-best-kitchen-scales-1645805121.png?crop=1.00xw:0.771xh;0.00160xw,0.106xh&resize=1200:*",
+      "url": "https://www.goodhousekeeping.com/cooking-tools/g39111517/best-kitchen-scales/"
+    }
+  }
+}

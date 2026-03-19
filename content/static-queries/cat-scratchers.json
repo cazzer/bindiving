@@ -1,0 +1,115 @@
+{
+  "slug": "cat-scratchers",
+  "query": "best cat scratchers",
+  "title": "Best cat scratchers | Bin Diving",
+  "description": "AI-dug recommendations for best cat scratchers. Compare options and find one that fits.",
+  "dugAt": "2026-03-18T19:08:46.757Z",
+  "recommendations": [
+    {
+      "product_name": "SmartCat Pioneer Pet Ultimate Scratching Post",
+      "pros": [
+        "Tall and stable",
+        "Durable sisal surface"
+      ],
+      "cons": [
+        "Single-post design (less climbing)",
+        "Not padded base"
+      ],
+      "price": null,
+      "amazon_id": "B000634MH8",
+      "sources": [
+        "https://manuals.plus/asin/B000634MH8.pdf",
+        "https://www.cats.com/best-cat-scratching-post",
+        "https://www.thecattitudecentral.com/best-cat-scratching-post/"
+      ],
+      "amazon_url": "https://www.amazon.com/SmartCat-3832-Ultimate-Scratching-Post/dp/B000634MH8",
+      "gpt_azn": "B000634MH8",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "PetFusion Ultimate Cat Scratcher Lounge",
+      "pros": [
+        "Sturdy, long-lasting corrugated cardboard",
+        "Doubles as lounge/bed"
+      ],
+      "cons": [
+        "Cardboard can be messy for some homes",
+        "May not suit heavy chewers"
+      ],
+      "price": null,
+      "amazon_id": "B01NC0A463",
+      "sources": [
+        "https://pet-fusion.com/products/ultimate-cat-scratcher-lounge/index.html",
+        "https://www.catster.com/lifestyle/review-petfusion-ultimate-cat-scratcher-lounge/",
+        "https://www.chewy.com/petfusion-ultimate-cat-scratcher/product-reviews/48343"
+      ],
+      "amazon_url": "https://www.amazon.com/PetFusion-Ultimate-Scratcher-Lounge-Large/dp/B01NC0A463",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/5fT5La7K16kxjEgv6dMgO7FzH-2X7aevAh931c9GIkI/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9pLmVi/YXlpbWcuY29tL2lt/YWdlcy9nL2pDMEFB/ZVN3SzRSb0Y5emkv/cy1sMjI1LmpwZw",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "Amazon Basics Large Premium Tall Cat Scratching Post",
+      "pros": [
+        "Tall and affordable",
+        "Weighted base for stability"
+      ],
+      "cons": [
+        "Basic single-post design",
+        "Carpet/faux-fur surfaces less preferred than sisal for some cats"
+      ],
+      "price": null,
+      "amazon_id": "B07G3SLKQ8",
+      "sources": [
+        "https://www.ubuy.com.br/en/product/327F2F4-amazon-basics-large-premium-tall-cat-scratching-post",
+        "https://petfindings.com/product/amazon-basics-cat-tree-indoor-cat-kittens-multi-level-climbing-activity-tower-with-scratching-posts-large-45-9h-beige/",
+        "https://www.theconsumers.guide/reviews/best-cat-trees-scratching-posts-2025"
+      ],
+      "amazon_url": "https://www.amazon.com/AmazonBasics-Premium-Cat-Scratching-Post/dp/B07G3SLKQ8",
+      "gpt_azn": "B07G3SLKQ8",
+      "image_url": "https://imgs.search.brave.com/RkpH54AC2JIjj401qMO1MZ9yZKA3C9U9biiyC9G2QNk/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9hc3Nl/dHMzLnRocmlsbGlz/dC5jb20vdjEvaW1h/Z2UvMjkzMjk3NS8z/ODJ4MzgyL2ZsYXR0/ZW47c2NhbGU7bWF0/dGU9ZmZmZmZmPWNl/bnRlcjt3ZWJwPWF1/dG87anBlZ19xdWFs/aXR5PTYwLmpwZw",
+      "resolver": "brave",
+      "valid": true
+    }
+  ],
+  "resolvedLinks": {
+    "https://manuals.plus/asin/B000634MH8.pdf": {
+      "title": "",
+      "description": "",
+      "image": "",
+      "url": "https://manuals.plus/asin/B000634MH8.pdf"
+    },
+    "https://www.cats.com/best-cat-scratching-post": {
+      "title": "15 Best Scratching Posts for 2026—We Tested Them All - Cats.com",
+      "description": "Scratching posts provide enrichment and stop your cat from scratching furniture. Discover our top 15 scratching post picks.",
+      "image": "https://cats.com/wp-content/uploads/2024/12/best-cat-scratcher-featured-image.jpg",
+      "url": "https://cats.com/best-cat-scratching-post"
+    },
+    "https://www.thecattitudecentral.com/best-cat-scratching-post/": {
+      "title": "Best Cat Scratching Post 2025: Ultimate Guide & Top Picks",
+      "description": "Discover the best cat scratching post for your home. Our 2025 guide compares all types, shares vet-approved tips, and reveals top-rated picks for every budget.",
+      "image": "https://thecattitudecentral.com/wp-content/uploads/2025/11/Best-Cat-Scratching-Post.webp",
+      "url": "https://thecattitudecentral.com/best-cat-scratching-post/"
+    },
+    "https://pet-fusion.com/products/ultimate-cat-scratcher-lounge/index.html": {
+      "title": "Best Online Casinos Canada February 2026",
+      "description": "Compare the Best Canadian Online Casinos in 2026 With Top Features, Secure Banking, Fast Payouts, and Thousands of Games.",
+      "image": "https://www.ykfilmfest.com/wp-content/uploads/2020/10/social-share-cards.png",
+      "url": "https://www.ykfilmfest.com/"
+    },
+    "https://petfindings.com/product/amazon-basics-cat-tree-indoor-cat-kittens-multi-level-climbing-activity-tower-with-scratching-posts-large-45-9h-beige/": {
+      "title": "Amazon Basics Cat Tree – Indoor Cat & Kittens Multi-Level Climbing Activity Tower with Scratching Posts, Large (45.9″H) – Beige – Petfindings.com",
+      "description": "An Amazon Model. Product Dimensions ‏ : ‎ 17.72 x 17.72 x 45.88 inches; 23.74 Kilos Merchandise mannequin quantity ‏ : ‎ ZJS-17211-4 Date First Out there ‏ : ‎",
+      "image": "https://m.media-amazon.com/images/I/71oeawcwU7L._AC_SL1500_.jpg",
+      "url": "https://petfindings.com/product/amazon-basics-cat-tree-indoor-cat-kittens-multi-level-climbing-activity-tower-with-scratching-posts-large-45-9h-beige/"
+    },
+    "https://www.theconsumers.guide/reviews/best-cat-trees-scratching-posts-2025": {
+      "title": "The 10 Best Cat Trees and Scratching Posts of 2026",
+      "description": "Discover the top cat trees and scratching posts that provide perfect scratching surfaces, climbing adventures, and cozy hideouts for cats of all sizes and personalities.",
+      "image": "https://res.cloudinary.com/jeffadmin/image/upload/v1756771785/Articles/Pet/cat-trees_eqdnzb.png",
+      "url": "https://www.theconsumers.guide/reviews/best-cat-trees-scratching-posts-2025"
+    }
+  }
+}

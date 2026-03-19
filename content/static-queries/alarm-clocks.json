@@ -1,0 +1,128 @@
+{
+  "slug": "alarm-clocks",
+  "query": "best alarm clocks",
+  "title": "Best alarm clocks | Bin Diving",
+  "description": "AI-dug recommendations for best alarm clocks. Compare options and find one that fits.",
+  "dugAt": "2026-03-18T16:40:56.767Z",
+  "recommendations": [
+    {
+      "product_name": "Hatch Restore 3 Sunrise Alarm Clock",
+      "pros": [
+        "Versatile sunrise simulation",
+        "Built-in sound machine and wind-down routines"
+      ],
+      "cons": [
+        "Requires app/subscription for full features",
+        "Some users report connectivity issues"
+      ],
+      "price": "$169.99 (MSRP; often on sale)",
+      "amazon_id": "B0DLLSCVZW",
+      "sources": [
+        "https://www.tomsguide.com/wellness/sleep-tech/hatch-restore-3-sunrise-alarm-clock-review",
+        "https://www.wired.com/review/hatch-restore-3/",
+        "https://www.techradar.com/seasonal-sales/the-best-selling-hatch-restore-3-can-help-you-survive-daylight-saving-and-its-currently-on-sale-at-amazon"
+      ],
+      "amazon_url": "https://www.amazon.com/Hatch-Restore-Sunrise-Alarm-Machine/dp/B0DLLSCVZW",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/nR9tSGu0QX9Yu_NZDwg-y9g0TTExM6kVkCn-7bhbkdM/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly90aHJl/YWQ4MS5jb20vY2Ru/L3Nob3AvZmlsZXMv/NjExVkNfNzA4U0wu/anBnP3Y9MTcyODQx/MTM3MyZ3aWR0aD0x/NDQ1",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "Philips SmartSleep Wake‑Up Light (HF3520/60)",
+      "pros": [
+        "Clinically studied sunrise simulation",
+        "Simple controls with natural sounds"
+      ],
+      "cons": [
+        "Some reported reliability/power-adapter issues",
+        "No full smartphone-free advanced features"
+      ],
+      "price": "Approximately $179.99 (varies by seller)",
+      "amazon_id": "B0093162RM",
+      "sources": [
+        "https://www.usa.philips.com/c-p/HF3520_60/-",
+        "https://smartrestlab.com/philips-smartsleep-wake-up-light-hf3520-review-is-this-100-sunrise-alarm-still-worth-it-in-2025/",
+        "https://www.tomsguide.com/wellness/sleep-tech/i-test-sleep-tech-the-sunrise-alarm-clock-i-tell-all-my-friends-to-buy"
+      ],
+      "amazon_url": "https://www.amazon.com/Philips-Simulation-Headspace-Subscription-HF3520/dp/B0093162RM",
+      "gpt_azn": "B0093162RM",
+      "image_url": "https://imgs.search.brave.com/Y0XB_AZ8gx0Qqtjgm9xoaQKbQastlgnBfnmBA_kwhB4/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9pLmVi/YXlpbWcuY29tL2lt/YWdlcy9nL2pETUFB/ZVN3dkxacGFZV1ov/cy1sNDAwLndlYnA",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "Loftie Smart Alarm Clock",
+      "pros": [
+        "Designed for gentle wake-ups and wind‑down routines",
+        "Stylish, all‑in‑one bedside design with soundscapes"
+      ],
+      "cons": [
+        "Higher price; some users report firmware/app reliability issues",
+        "Premium features behind optional subscription"
+      ],
+      "price": "Around $169.99 (varies)",
+      "amazon_id": "B09253XYX3",
+      "sources": [
+        "https://www.wired.com/review/loftie-clock/",
+        "https://www.goodhousekeeping.com/electronics/a43049331/loftie-alarm-clock-review/",
+        "https://www.self.com/review/loftie-alarm-clock"
+      ],
+      "amazon_url": "https://www.amazon.com/Loftie-Smart-Alarm-Clock-Nightlight/dp/B09253XYX3",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/pzpFQSfILksrT6MrwbjqQ3ql6tMUeq-EgTHMHGRpfGs/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9jZG4x/Ny5iZXN0cmV2aWV3/cy5jb20vaW1hZ2Vz/L3Y0ZGVza3RvcC9p/bWFnZS1mdWxsLXBh/Z2UtY2IvMS1sb2Z0/aWUtc21hcnQtYWxh/cm0tY2xvY2stbG9m/dGllLWJyYW5kLXJl/dmlldy5qcGc_cD13/MTIyOA",
+      "resolver": "brave",
+      "valid": true
+    }
+  ],
+  "resolvedLinks": {
+    "https://www.tomsguide.com/wellness/sleep-tech/hatch-restore-3-sunrise-alarm-clock-review": {
+      "title": "'Bravo, Hatch' — the upgraded sunrise alarm clock is my new favorite sleep gadget that does it all",
+      "description": "The new and upgraded Hatch Restore 3 sunrise alarm clock might be my new favorite sleep gadget",
+      "image": "https://cdn.mos.cms.futurecdn.net/yxrPLawjvGCTqzLG92DW6D-2560-80.jpg",
+      "url": "https://www.tomsguide.com/wellness/sleep-tech/hatch-restore-3-sunrise-alarm-clock-review"
+    },
+    "https://www.wired.com/review/hatch-restore-3/": {
+      "title": "The Hatch Restore 3 Alarm Clock Is a Worthy Upgrade",
+      "description": "Hatch’s latest sunrise alarm clock and sound machine is bigger and brighter and has more physical controls, making it easier to use without grabbing your phone.",
+      "image": "https://media.wired.com/photos/67a17837b0c8cf3068739655/191:100/w_1280,c_limit/Hatch-Restore-3-Abstract-Background-022025-SOURCE-Hatch.jpg",
+      "url": "https://www.wired.com/review/hatch-restore-3/"
+    },
+    "https://www.techradar.com/seasonal-sales/the-best-selling-hatch-restore-3-can-help-you-survive-daylight-saving-and-its-currently-on-sale-at-amazon": {
+      "title": "Struggling with daylight saving? The best-selling Hatch Restore 3 can help, and it's currently on sale at Amazon",
+      "description": "Wake up and go to bed with the popular Hatch alarm clock",
+      "image": "https://cdn.mos.cms.futurecdn.net/tbR2zfCXk78UJXPRHnNoGU-2000-80.png",
+      "url": "https://www.techradar.com/seasonal-sales/the-best-selling-hatch-restore-3-can-help-you-survive-daylight-saving-and-its-currently-on-sale-at-amazon"
+    },
+    "https://www.usa.philips.com/c-p/HF3520_60/-": {
+      "title": "Buy the Philips SmartSleep Wake-up Light HF3520/60 Wake-up Light",
+      "description": "Inspired by nature’s sunrise, the Philips Wake-up Light uses a unique combination of light and sound to wake you in a more natural way, so you feel more refreshed. The relaxing sunset simulation helps you wind down for bedtime. Developed with Philips’ clinical Sleep & Respironics healthcare knowledge and our 100+ years of Lighting expertise. Only Philips Wake-up lights are clinically proven and backed by our 90 Day No Hassle Money Back Guarantee.",
+      "image": "https://images.philips.com/is/image/philipsconsumer/7ad5c3ce215848ff8a6dadb80115d6bd?wid=700&hei=375&$pnglarge$",
+      "url": "https://www.usa.philips.com/c-p/HF3520_60/smartsleep"
+    },
+    "https://smartrestlab.com/philips-smartsleep-wake-up-light-hf3520-review-is-this-100-sunrise-alarm-still-worth-it-in-2025/": {
+      "title": "Smart Rest Lab - Sleep Tech & Biohacking",
+      "description": "",
+      "image": "",
+      "url": "https://smartrestlab.com/philips-smartsleep-wake-up-light-hf3520-review-is-this-100-sunrise-alarm-still-worth-it-in-2025"
+    },
+    "https://www.wired.com/review/loftie-clock/": {
+      "title": "This Alarm Clock Lulls You to Sleep With an AI-Generated Bedtime Story",
+      "description": "This smart alarm clock has a huge library of soundscapes, but the AI-powered Magic Story Maker might be the best part.",
+      "image": "https://media.wired.com/photos/650c9e1c48783fe1e1a01615/191:100/w_1280,c_limit/Loftie-Clock-Review-Gear.jpg",
+      "url": "https://www.wired.com/review/loftie-clock/"
+    },
+    "https://www.goodhousekeeping.com/electronics/a43049331/loftie-alarm-clock-review/": {
+      "title": "Loftie Alarm Clock Review: How My Mornings Became Way More Pleasant Than Ever",
+      "description": "Finally, an excuse to keep your smartphone away from your bed.",
+      "image": "https://hips.hearstapps.com/hmg-prod/images/ghk-testing-2032023-023-webres-1677190383.jpg?crop=1xw:0.749003984063745xh;center,top&resize=1200:*",
+      "url": "https://www.goodhousekeeping.com/electronics/a43049331/loftie-alarm-clock-review/"
+    },
+    "https://www.self.com/review/loftie-alarm-clock": {
+      "title": "This Alarm Clock Helped Me Ditch My Phone at Night and Get Better Sleep",
+      "description": "I traded likes and comments for sound baths and guided meditations.",
+      "image": "https://media.self.com/photos/66df14575a4ae1f9da775fdc/2:1/w_1280,c_limit/Loftie%20Clock%20Review%20092024%20Social.jpg",
+      "url": "https://www.self.com/review/loftie-alarm-clock"
+    }
+  }
+}

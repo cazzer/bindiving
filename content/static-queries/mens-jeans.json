@@ -1,0 +1,111 @@
+{
+  "slug": "mens-jeans",
+  "query": "best men’s jeans",
+  "title": "Best men’s jeans | Bin Diving",
+  "description": "AI-dug recommendations for best men’s jeans. Compare options and find one that fits.",
+  "dugAt": "2026-03-18T22:43:45.614Z",
+  "recommendations": [
+    {
+      "product_name": "Levi's Men's 501 Original Fit Jeans",
+      "pros": [
+        "Classic timeless fit",
+        "Durable full‑cut denim",
+        "Widely available in many washes"
+      ],
+      "cons": [
+        "Minimal stretch",
+        "May require sizing up for shrink-to-fit versions"
+      ],
+      "price": null,
+      "amazon_id": "B09KPF7KDB",
+      "sources": [
+        "https://www.menshealth.com/style/a19546067/25-best-jeans-for-men//",
+        "https://www.whowhatwear.com/fashion/denim/best-jeans-of-2025",
+        "https://www.menshealth.com/style/a62246721/amazon-levis-501-jeans-sale-september-2024/"
+      ],
+      "amazon_url": "https://www.amazon.com/Levis-Mens-Young-Vintage-Straight/dp/B09KPF7KDB",
+      "gpt_azn": "B001H0FWUK",
+      "image_url": "https://imgs.search.brave.com/KZwmAh8TeIebSU3zsxkUgWxAnSq5Nq5L0SaijjGcryk/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9pNS53/YWxtYXJ0aW1hZ2Vz/LmNvbS9zZW8vTGV2/aS1zLU1lbi1zLTUw/MS1PcmlnaW5hbC1G/aXQtSmVhbnNfYzFj/ZDg0NzUtN2NiMy00/NWJmLWJkY2MtYzI0/NmZiZmRlNmQ2LjBk/MmJhM2M0NWZkZDVh/MGNlNTQxY2ZmYTY1/NTFiODA2LmpwZWc",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "Lee Men's Regular Fit Straight Leg Jean",
+      "pros": [
+        "Reliable, comfortable straight fit",
+        "Good value for price",
+        "Available in many sizes and washes"
+      ],
+      "cons": [
+        "Less premium denim than specialty brands",
+        "Cuts may vary by color/style"
+      ],
+      "price": null,
+      "amazon_id": "B09QT41YRH",
+      "sources": [
+        "https://www.esquire.com/style/mens-fashion/g62278487/best-jeans-on-amazon-for-men//",
+        "https://www.lee.com/shop/denim-men-jeans-regular"
+      ],
+      "amazon_url": "https://www.amazon.com/Lee-Mens-Regular-Straight-Jean/dp/B09QT41YRH",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/_PqEKoQWRAY6KHG2PvrRrQGA7wn4aNXgH4Cz22KgmRA/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9tLm1l/ZGlhLWFtYXpvbi5j/b20vaW1hZ2VzL0kv/NDF3UDNrREhzOUwu/anBn",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "Wrangler Authentics Men's Classic 5-Pocket Regular Fit Flex Jean",
+      "pros": [
+        "Comfort stretch fabric for ease of movement",
+        "Classic workwear-inspired cut",
+        "Affordable and durable"
+      ],
+      "cons": [
+        "Less fashion-forward fit for trend styles",
+        "Quality can vary by seller on marketplaces"
+      ],
+      "price": null,
+      "amazon_id": "B08M7CGGZB",
+      "sources": [
+        "https://bestviewsreviews.com/mens-jeans/wrangler-authentics-mens-classic-5-pocket-regular-fit-flex-jean-visit-the-wrangler-authentics-store/",
+        "https://www.wereview.com/best-mens-jeans-11819891"
+      ],
+      "amazon_url": "https://www.amazon.com/Wrangler-Authentics-Classic-5-Pocket-Regular/dp/B08M7CGGZB",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/wKTo8PJnNzycuJQHXB746RSI8AwDEgCkpMureeMNNtg/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9pNS53/YWxtYXJ0aW1hZ2Vz/LmNvbS9zZW8vV3Jh/bmdsZXItQXV0aGVu/dGljcy01LVBvY2tl/dC1SZWxheGVkLUZp/dC1KZWFucy1NZW4t/c182YzhkOTIzNS1i/ZmE4LTQ4NzUtOWNj/NC0yOTBlYTZjZGNm/MmMuMzU5M2Y4MDQ3/Mjc0NmMyNWNmZThm/N2YwZmE4YmNmMTEu/anBlZz9vZG5IZWln/aHQ9NTczJm9kbldp/ZHRoPTU3MyZvZG5C/Zz1GRkZGRkY",
+      "resolver": "brave",
+      "valid": true
+    }
+  ],
+  "resolvedLinks": {
+    "https://www.menshealth.com/style/a19546067/25-best-jeans-for-men//": {
+      "title": "Style Experts Say These Are the Best Jeans to Wear with Sneakers, Boots, and Loafers",
+      "description": "And they'll easily pair with just about all of your fits.",
+      "image": "https://hips.hearstapps.com/hmg-prod/images/mhl-052324-jean-opener-2076-66acf6900d29d.jpg?crop=0.862xw:0.862xh;0.0641xw,0.138xh&resize=1200:*",
+      "url": "https://www.menshealth.com/style/g44870251/best-jeans-for-men/"
+    },
+    "https://www.whowhatwear.com/fashion/denim/best-jeans-of-2025": {
+      "title": "I Tried On Hundreds of Jeans in 2025—Here Are My Top 10 Pairs",
+      "description": "Denim expert Jane Herman shares her top 10 list of jeans she tried and loved in 2025.",
+      "image": "https://cdn.mos.cms.futurecdn.net/bufcZdj9FehHibNf6ZEBYT-1200-80.jpg",
+      "url": "https://www.whowhatwear.com/fashion/denim/best-jeans-of-2025"
+    },
+    "https://www.menshealth.com/style/a62246721/amazon-levis-501-jeans-sale-september-2024/": {
+      "title": "Our Favorite Levi's Jeans Are Up to 56% Off on Amazon—And Sizes Are Going Fast",
+      "description": "Our go-to wash included.",
+      "image": "https://hips.hearstapps.com/hmg-prod/images/levi-s-men-s-501-original-fit-jeans-66e9efd243522.png?crop=1.00xw:0.717xh;0,0.260xh&resize=1200:*",
+      "url": "https://www.menshealth.com/style/a62246721/amazon-levis-501-jeans-sale-september-2024/"
+    },
+    "https://www.esquire.com/style/mens-fashion/g62278487/best-jeans-on-amazon-for-men//": {
+      "title": "The 10 Best Jeans You Can Buy On Amazon",
+      "description": "From straight-legged Calvin Kleins to baggy Carhartts, they're all right here.",
+      "image": "https://hips.hearstapps.com/hmg-prod/images/jeans-67112d0747f1e.png?crop=1.00xw:1.00xh;0,0&resize=1200:*",
+      "url": "https://www.esquire.com/style/mens-fashion/g62278487/best-jeans-on-amazon-for-men/"
+    },
+    "https://bestviewsreviews.com/mens-jeans/wrangler-authentics-mens-classic-5-pocket-regular-fit-flex-jean-visit-the-wrangler-authentics-store/": {
+      "title": "Reviews for Wrangler Authentics Mens Classic 5-Pocket Regular Fit Flex Jean \" ; Visit the Wrangler Authentics Store: Sep 20, 2024 - Bestviewsreviews",
+      "description": "Wrangler Authentics Mens Classic 5-Pocket Regular Fit Flex Jean \" ; Visit the Wrangler Authentics Store. Best Men's Jeans based on Color Range, Easy to Maintain, Giftable, Comfort;",
+      "image": "https://m.media-amazon.com/images/I/41uNITpQXUL._SL500_.jpg",
+      "url": "https://bestviewsreviews.com/mens-jeans/wrangler-authentics-mens-classic-5-pocket-regular-fit-flex-jean-visit-the-wrangler-authentics-store/"
+    }
+  }
+}

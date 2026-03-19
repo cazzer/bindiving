@@ -1,0 +1,103 @@
+{
+  "slug": "leggings",
+  "query": "best leggings",
+  "title": "Best leggings | Bin Diving",
+  "description": "AI-dug recommendations for best leggings. Compare options and find one that fits.",
+  "dugAt": "2026-03-18T22:46:15.854Z",
+  "recommendations": [
+    {
+      "product_name": "Colorfulkoala Women's High-Waisted 7/8 Leggings",
+      "pros": [
+        "Soft, Lululemon‑style feel",
+        "High waist with pockets",
+        "Very budget‑friendly"
+      ],
+      "cons": [
+        "Can run small for some",
+        "Limited fabric compression"
+      ],
+      "price": null,
+      "amazon_id": "B07G554VLP",
+      "sources": [
+        "https://www.glamour.com/gallery/best-leggings-on-amazon",
+        "https://www.prevention.com/fitness/workout-clothes-gear/a46536287/colorfulkoala-high-waisted-leggings-with-pockets-amazon/"
+      ],
+      "amazon_url": "https://www.amazon.com/Colorfulkoala-Womens-Waisted-Leggings-Pockets/dp/B07G554VLP",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/EMKzkSPcIQ5CJnpljxjlZJjcbdeUvklSSnob-6UdvuY/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly93d3cu/dG9wb2ZzdHlsZS5j/b20vaW1hZ2UvMS8w/MC81Zy9hNC8xMDA1/Z2E0LWNvbG9yZnVs/a29hbGEtd29tZW4t/cy1wbHVzLXNpemUt/aGlnaC13YWlzdGVk/LXlvZ2EtcGFudHMt/Ny04XzI1MHgzMzBf/MC5qcGc",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "CRZ YOGA Women's Naked Feeling High-Rise Leggings",
+      "pros": [
+        "Buttery, ‘Align’‑style fabric",
+        "Lightweight and breathable",
+        "Many reviewers call them Lululemon dupes"
+      ],
+      "cons": [
+        "Some inconsistency in long‑term durability reported",
+        "Mixed sizing/fit comments"
+      ],
+      "price": null,
+      "amazon_id": "B07ZVCW6HK",
+      "sources": [
+        "https://www.whowhatwear.com/best-leggings-on-amazon",
+        "https://www.self.com/story/best-amazon-leggings"
+      ],
+      "amazon_url": "https://www.amazon.com/CRZ-YOGA-Waisted-Leggings-Pants-28/dp/B07ZVCW6HK",
+      "gpt_azn": null,
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "Nike Pro 365 Tights",
+      "pros": [
+        "High‑quality performance fabric",
+        "Breathable and sweat‑wicking",
+        "Trusted athletic brand"
+      ],
+      "cons": [
+        "Waistband criticized by some users",
+        "Can be pricier than Amazon fast‑fashion options"
+      ],
+      "price": null,
+      "amazon_id": "B0BLTDMPC8",
+      "sources": [
+        "https://www.shape.com/best-leggings-for-working-out-8713228",
+        "https://www.whowhatwear.com/best-leggings-on-amazon"
+      ],
+      "amazon_url": "https://www.amazon.com/Nike-Womens-Pro-Tights-Leggings/dp/B0BLTDMPC8",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/NnLQkx6ACMWeyZEdS5lb89cwjRxbkG12qVEbtZDAf6g/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly93d3cu/bWlzdGVycnVubmlu/Zy5jb20vbWVkaWEv/cHJvZHVjdHMvMjAy/NS1tZWRpYS0wOS9j/ejk3NzktMzkwLUQt/NjAweDYwMC5qcGc",
+      "resolver": "brave",
+      "valid": true
+    }
+  ],
+  "resolvedLinks": {
+    "https://www.glamour.com/gallery/best-leggings-on-amazon": {
+      "title": "We Tested 20 Amazon Leggings—These Are Our 7 Favorite Pairs",
+      "description": "They’re compressive, squat-proof, and editor-approved.",
+      "image": "https://media.glamour.com/photos/69ab6a6eb7171cb64c0c3617/16:9/w_1280,c_limit/2251926762",
+      "url": "https://www.glamour.com/gallery/best-leggings-on-amazon"
+    },
+    "https://www.prevention.com/fitness/workout-clothes-gear/a46536287/colorfulkoala-high-waisted-leggings-with-pockets-amazon/": {
+      "title": "Shoppers Are ‘Obsessed’ With These $20 ‘Buttery Soft’ Leggings",
+      "description": "They “beat Lululemon by a long shot,” according to one reviewer.",
+      "image": "https://hips.hearstapps.com/hmg-prod/images/colorfulkoala-leggings-65b2bd6fcd37e.jpg?crop=1xw:1xh;center,top&resize=1200:*",
+      "url": "https://www.prevention.com/fitness/workout-clothes-gear/a46536287/colorfulkoala-high-waisted-leggings-with-pockets-amazon/"
+    },
+    "https://www.whowhatwear.com/best-leggings-on-amazon": {
+      "title": "The Reviews Don't Lie—These Are the Best Leggings on Amazon",
+      "description": "Hands down.",
+      "image": "https://cdn.mos.cms.futurecdn.net/whowhatwear/posts/273804/best-leggings-on-amazon-273804-1589383174971-fb-1200-80.jpg",
+      "url": "https://www.whowhatwear.com/best-leggings-on-amazon"
+    },
+    "https://www.self.com/story/best-amazon-leggings": {
+      "title": "Stop Scrolling—We Found the Best Leggings on Amazon",
+      "description": "Editor-approved pairs, highly convincing dupes, and more.",
+      "image": "https://media.self.com/photos/6849b98841b6adafba811bf0/2:1/w_1280,c_limit/6.6_SELF_Best-leggings-on-Amazon_social.jpg",
+      "url": "https://www.self.com/story/best-leggings-from-amazon"
+    }
+  }
+}

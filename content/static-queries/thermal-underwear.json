@@ -1,0 +1,107 @@
+{
+  "slug": "thermal-underwear",
+  "query": "best thermal underwear",
+  "title": "Best thermal underwear | Bin Diving",
+  "description": "AI-dug recommendations for best thermal underwear. Compare options and find one that fits.",
+  "dugAt": "2026-03-18T22:43:12.274Z",
+  "recommendations": [
+    {
+      "product_name": "Smartwool Classic Thermal Merino Base Layer (crew/1/4 zip)",
+      "pros": [
+        "Excellent warmth-to-weight",
+        "Natural odor resistance (merino)",
+        "Good fit for layering"
+      ],
+      "cons": [
+        "Higher price than synthetics",
+        "Can be delicate—follow wash care"
+      ],
+      "price": null,
+      "amazon_id": "B08DW4TSVN",
+      "sources": [
+        "https://www.treelinereview.com/gearreviews/best-base-layers",
+        "https://www.outdoorgearlab.com/topics/clothing-mens/best-base-layer-men",
+        "https://nationalparkshops.com/base-layers-for-men-and-women/"
+      ],
+      "amazon_url": "https://www.amazon.com/Smartwool-Merino-Base-Layer-Pattern/dp/B08DW4TSVN",
+      "gpt_azn": "B0B1937J29",
+      "image_url": "https://imgs.search.brave.com/kYysxpLHdxXP66V2d5_ZlgbS4p3V0nBZ4Fy1-bVT_no/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9tLm1l/ZGlhLWFtYXpvbi5j/b20vaW1hZ2VzL0kv/NzF4Vms3LUo0MUwu/anBn",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "Icebreaker 260/200 Merino Base Layer (tops & bottoms)",
+      "pros": [
+        "Very warm merino for cold conditions",
+        "Breathable and comfortable next-to-skin",
+        "Durable merino knit options available"
+      ],
+      "cons": [
+        "Premium cost",
+        "Heavier options can be too warm for high-output activities"
+      ],
+      "price": null,
+      "amazon_id": "B078W722P4",
+      "sources": [
+        "https://www.forbes.com/sites/forbes-personal-shopper/article/the-best-thermal-underwear//",
+        "https://www.treelinereview.com/gearreviews/best-base-layers",
+        "https://www.heureka.cz/?h%5Bfraze%5D=icebreaker+merino"
+      ],
+      "amazon_url": "https://www.amazon.com/Icebreaker-Merino-Womens-Sleeve-Midnight/dp/B078W722P4",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/iY0F9qbMo9SAjtuKyaQastfPqUSt9qnn5AF50nvYX1k/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9tLm1l/ZGlhLWFtYXpvbi5j/b20vaW1hZ2VzL0kv/MzFwV2ptdW1rQ1Mu/anBn",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "Patagonia Capilene Thermal Weight Crew/Zip-Neck",
+      "pros": [
+        "Synthetic grid fabric traps heat while wicking",
+        "Good balance of warmth and breathability",
+        "Durable, ethically made (Patagonia)"
+      ],
+      "cons": [
+        "Can be see-through in some colors/weights",
+        "Less natural odor control than merino"
+      ],
+      "price": null,
+      "amazon_id": "0992638100",
+      "sources": [
+        "https://www.patagonia.com/product/womens-capilene-thermal-weight-baselayer-crewneck-shirt/195699712638.html",
+        "https://www.rei.com/product/884923/patagonia-capilene-thermal-weight-zip-neck-top-mens",
+        "https://www.outdoorgearlab.com/reviews/clothing-womens/base-layer-womens/patagonia-capilene-thermal-weight-zip-neck-womens"
+      ],
+      "amazon_url": "https://www.amazon.com/Patagonia-Capilene-Thermal-Weight-Zip-Neck/dp/0992638100",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/Gkk-xeBqZ1A6QEUcVYPoysJ9coPGidanYu-MRs8vqHs/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9jZG4x/MS5iaWdjb21tZXJj/ZS5jb20vcy1ldTRn/dzhjNGZvL2ltYWdl/cy9zdGVuY2lsLzgw/MHg4MDAvcHJvZHVj/dHMvMTUxOTE1LzIy/MzM1NC9wYXRhZ29u/aWEtbWVucy1jYXBp/bGVuZS10aGVybWFs/LXdlaWdodC1jcmV3/X18yOTcxNy4xNzM0/NjMyMzY2LmpwZz9j/PTE",
+      "resolver": "brave",
+      "valid": true
+    }
+  ],
+  "resolvedLinks": {
+    "https://www.treelinereview.com/gearreviews/best-base-layers": {
+      "title": "9 Best Base Layers of 2026 (Tested and Reviewed)",
+      "description": "We tested 50 lightweight, midweight, and heavyweight men’s and women’s base layer tops over four years. We put these base layers to work, and came out with the best base layers for warmth, durability, comfort, and ability to wick away sweat and odor over time.",
+      "image": "http://static1.squarespace.com/static/5b4544e485ede17941bc95fc/t/68d30107d5b303299943b014/1758658823645/base-layer-tops.jpg?format=1500w",
+      "url": "https://www.treelinereview.com/gearreviews/best-base-layers"
+    },
+    "https://www.outdoorgearlab.com/topics/clothing-mens/best-base-layer-men": {
+      "title": "The Best Base Layers for Men",
+      "description": "We ran 21 of the best men's base layers through the wringer to find the warmest and most comfortable options for cold winter days outdoors.",
+      "image": "https://d1i8d6ce8wwubf.cloudfront.net/photos/29/8/412363_23705_XXL.jpg",
+      "url": "https://www.outdoorgearlab.com/topics/clothing-mens/best-base-layer-men"
+    },
+    "https://www.patagonia.com/product/womens-capilene-thermal-weight-baselayer-crewneck-shirt/195699712638.html": {
+      "title": "Patagonia Women's Capilene® Thermal Weight Baselayer Crewneck",
+      "description": "",
+      "image": "https://www.patagonia.com/dw/image/v2/BDJB_PRD/on/demandware.static/-/Sites-patagonia-master/default/dwd086da4a/images/hi-res/43650_BLK.jpg?sw=256&sh=256&sfrm=png&q=95&bgcolor=f3f4ef",
+      "url": "https://www.patagonia.com/product/womens-capilene-thermal-weight-baselayer-crewneck/43650.html"
+    },
+    "https://www.outdoorgearlab.com/reviews/clothing-womens/base-layer-womens/patagonia-capilene-thermal-weight-zip-neck-womens": {
+      "title": "Patagonia Capilene Thermal Weight Zip-Neck - Women's Review",
+      "description": "The Patagonia Capilene Thermal Weight Zip-Neck is an excellent layer for maintaining warmth when temperatures drop. While our testing team disagree that...",
+      "image": "https://d1i8d6ce8wwubf.cloudfront.net/photos/27/1/391609_26554_XXL.jpg",
+      "url": "https://www.outdoorgearlab.com/reviews/clothing-womens/base-layer-womens/patagonia-capilene-thermal-weight-zip-neck-womens"
+    }
+  }
+}

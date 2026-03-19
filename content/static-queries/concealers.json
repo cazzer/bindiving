@@ -1,0 +1,116 @@
+{
+  "slug": "concealers",
+  "query": "best concealers",
+  "title": "Best concealers | Bin Diving",
+  "description": "AI-dug recommendations for best concealers. Compare options and find one that fits.",
+  "dugAt": "2026-03-18T18:12:29.276Z",
+  "recommendations": [
+    {
+      "product_name": "NARS Radiant Creamy Concealer",
+      "pros": [
+        "Luminous finish",
+        "Longwearing coverage"
+      ],
+      "cons": [
+        "Can be creasing for some",
+        "Higher-end price"
+      ],
+      "price": null,
+      "amazon_id": "B00BM1WKT0",
+      "sources": [
+        "https://www.narscosmetics.com/default/amande-radiant-creamy-concealer/0607845012382.html",
+        "https://www.glamour.com/gallery/best-concealers",
+        "https://www.allure.com/gallery/the-10-best-under-eye-concealers"
+      ],
+      "amazon_url": "https://www.amazon.com/NARS-Radiant-Creamy-Concealer-Vanilla/dp/B00BM1WKT0",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/Llh92lXmGhVOOP5a4w8WTl1kPA6ljSOjmOXCrZ81mdY/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9pbWFn/ZXMtbmEuc3NsLWlt/YWdlcy1hbWF6b24u/Y29tL2ltYWdlcy9J/LzUxTVJ2Wmo1OHhM/LmpwZw",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "Tarte Shape Tape Concealer",
+      "pros": [
+        "Full coverage",
+        "Widely praised for coverage and longevity"
+      ],
+      "cons": [
+        "Can feel drying for some skin types",
+        "Packaging complaints reported by users"
+      ],
+      "price": null,
+      "amazon_id": "B07GZ34GTV",
+      "sources": [
+        "https://www.glamour.com/gallery/best-concealers",
+        "https://www.reddit.com/r/Sephora/comments/1neet1g",
+        "https://www.allure.com/gallery/the-10-best-under-eye-concealers"
+      ],
+      "amazon_url": "https://www.amazon.com/Tarte-Shape-Tape-Contour-Concealer/dp/B07GZ34GTV",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/bhnyGLbJ5DpK4KgvhW4-YjF44mL7PkaiFtuN9vz3Yng/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9tLm1l/ZGlhLWFtYXpvbi5j/b20vaW1hZ2VzL0kv/MzExVWQtK3g4R0wu/anBn",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "Maybelline Instant Age Rewind Eraser Concealer",
+      "pros": [
+        "Affordable",
+        "Favorable for under-eye brightening"
+      ],
+      "cons": [
+        "Some shade/availability concerns reported",
+        "May not provide full coverage for all needs"
+      ],
+      "price": null,
+      "amazon_id": "B0DN24B7WB",
+      "sources": [
+        "https://www.maybelline.com/face-makeup/concealer/instant-age-rewind-eraser-color-correcting-concealer",
+        "https://www.glamour.com/gallery/best-concealers",
+        "https://www.glamour.com/gallery/glamour-beauty-all-star-awards-2025"
+      ],
+      "amazon_url": "https://www.amazon.com/Maybelline-Multi-Use-Concealer-Crease-Resistant-Moisturizing/dp/B0DN24B7WB",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/fR-eRoDRDkJwGnbkKMoPwUZk6Prk0k3xET-zl96bdLU/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9zdG9y/YWdlLnNraW5zb3J0/LmNvbS9yb3A0eGZp/dmsycHM0MmUzMmlo/dDVuM29xNTZ2",
+      "resolver": "brave",
+      "valid": true
+    }
+  ],
+  "resolvedLinks": {
+    "https://www.narscosmetics.com/default/amande-radiant-creamy-concealer/0607845012382.html": {
+      "title": "NARS Radiant Creamy Concealer | NARS Cosmetics",
+      "description": "The #1 selling concealer in the U.S.* This multi-purpose must-have brightens, corrects, and perfects.",
+      "image": "https://www.narscosmetics.com/dw/image/v2/BBSK_PRD/on/demandware.static/-/Sites-itemmaster_NARS/default/dwa9ccbf7c/2025/January/Concealer/NARS_SP25_RadiantCreamyConcealer_PDPCrop_Soldier_AllureBeautySeal_25_Amande_GLBL.jpg?sw=856&sh=750&sm=fit",
+      "url": "https://www.narscosmetics.com/USA/amande-radiant-creamy-concealer/0607845012382.html"
+    },
+    "https://www.glamour.com/gallery/best-concealers": {
+      "title": "I’m a Beauty Writer—This Concealer Is Always in My Makeup Bag",
+      "description": "We polled makeup artists to share their faves too.",
+      "image": "https://media.glamour.com/photos/67a3900ebb4c26fe4b8bc341/16:9/w_1280,c_limit/1.31_GL_Best-Concealers%20(2).jpg",
+      "url": "https://www.glamour.com/gallery/best-concealer"
+    },
+    "https://www.allure.com/gallery/the-10-best-under-eye-concealers": {
+      "title": "These Time-Tested Concealers Are Masterminds of Disguise",
+      "description": "Our undereyes have never looked brighter.",
+      "image": "https://media.allure.com/photos/6659f76e39295f01b51f565e/16:9/w_1280,c_limit/undereye-concealers-EDITORS-052024.jpg",
+      "url": "https://www.allure.com/story/best-undereye-concealer"
+    },
+    "https://www.reddit.com/r/Sephora/comments/1neet1g": {
+      "title": "Reddit - The heart of the internet",
+      "description": "",
+      "image": "",
+      "url": "https://www.reddit.com/r/Sephora/comments/1neet1g/"
+    },
+    "https://www.maybelline.com/face-makeup/concealer/instant-age-rewind-eraser-color-correcting-concealer": {
+      "title": "Instant Age Rewind Color Correcting Concealer - Maybelline",
+      "description": "Neutralize and conceal with Maybelline's Instant Eraser Color Correcting Concealer. From green to pink, shop color correctors for dark circles, redness, & more!",
+      "image": "https://www.maybelline.com/-/media/project/loreal/brand-sites/mny/americas/us/global/seo-image/maybelline-logo.jpg?rev=5c1a69c210ee4a42a8ee84dc03620d90",
+      "url": "https://www.maybelline.com/face-makeup/concealer/instant-age-rewind-eraser-color-correcting-concealer"
+    },
+    "https://www.glamour.com/gallery/glamour-beauty-all-star-awards-2025": {
+      "title": "The 50 Best Beauty Products of All Time, According to ‘Glamour’ Readers",
+      "description": "Ahead of the 2026 Beauty & Wellness Awards, we’re crowning the repeat winners of our Readers’ Choice category and granting them Hall of Fame status.",
+      "image": "https://media.glamour.com/photos/691b444ce2cf93339ffa4243/16:9/w_1280,c_limit/All-Stars_Resized_03.jpg",
+      "url": "https://www.glamour.com/gallery/glamour-beauty-all-star-awards-2025"
+    }
+  }
+}

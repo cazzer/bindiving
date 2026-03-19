@@ -1,0 +1,134 @@
+{
+  "slug": "headlamps",
+  "query": "best headlamps",
+  "title": "Best headlamps | Bin Diving",
+  "description": "AI-dug recommendations for best headlamps. Compare options and find one that fits.",
+  "dugAt": "2026-03-18T21:37:51.502Z",
+  "recommendations": [
+    {
+      "product_name": "Petzl ACTIK CORE Headlamp",
+      "pros": [
+        "Hybrid (rechargeable CORE or 3×AAA)",
+        "Good balance of brightness and runtime",
+        "Reliable build from established brand"
+      ],
+      "cons": [
+        "Core battery sold separately sometimes",
+        "Buttons/strap reported as fiddly by some users",
+        "Not the brightest for technical work"
+      ],
+      "price": null,
+      "amazon_id": "B07W7CTBGT",
+      "sources": [
+        "https://www.cleverhiker.com/headlamps",
+        "https://www.livefortheoutdoors.com/hiking/accessories/petzl-actik-core-headlamp-review/",
+        "https://bestviewsreviews.com/headlamps/petzl-actik-core-headlamp-visit-the-petzl-store/"
+      ],
+      "amazon_url": "https://www.amazon.com/PETZL-ACTIK-CORE-Headlamp/dp/B07W7CTBGT",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/DRl3cFqBca5x3ITv6PutFKLecewv2ayw33p8ABs2-RQ/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9yZXMu/Y2xvdWRpbmFyeS5j/b20vY2FtcG1hbi9p/bWFnZS9mZXRjaC9m/X2F1dG8vaHR0cHM6/Ly9jZG4xMS5iaWdj/b21tZXJjZS5jb20v/cy1iNzI5My9pbWFn/ZXMvc3RlbmNpbC8y/MjB4MjIwL3Byb2R1/Y3RzLzE0NTUzLzg2/MDExL0UwNjVBQjAw/LUFDVElLLUNPUkVf/TG93UmVzX18zMzc5/My4xNzU3NjA1MjQ0/LmpwZz9jPTI",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "NITECORE NU25 (NU25 UL) Headlamp",
+      "pros": [
+        "Extremely lightweight and compact",
+        "USB‑C rechargeable (newer models)",
+        "Well-liked by ultralight hikers/runners"
+      ],
+      "cons": [
+        "Small control UI can be confusing",
+        "Less powerful beam for long‑distance throw",
+        "Headband fit reported inconsistent by some users"
+      ],
+      "price": null,
+      "amazon_id": "B0BGVLBVB7",
+      "sources": [
+        "https://www.treelinereview.com/gearreviews/best-headlamps",
+        "https://www.cleverhiker.com/headlamps",
+        "https://nitecorestore.com/products/nitecore-nu25-s-ultralight-rechargeable-headlamp"
+      ],
+      "amazon_url": "https://www.amazon.com/Nitecore-Lightweight-Headlamp-Rechargeable-Organizer/dp/B0BGVLBVB7",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/nCI6mZBZzinFOQA44nkR0SXwiMET54kt-0QoRMuAsZI/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9tLm1l/ZGlhLWFtYXpvbi5j/b20vaW1hZ2VzL0kv/NzF3TFN3U0RvZ0wu/anBn",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "BioLite HeadLamp 330",
+      "pros": [
+        "Balanced, low‑bounce beam and comfortable fit",
+        "Rechargeable with solid runtime",
+        "Strong recent positive user reviews"
+      ],
+      "cons": [
+        "Battery and some parts not easily user‑replaceable",
+        "Lower max lumen compared with high‑output models",
+        "Some users reported tilt/hinge annoyances"
+      ],
+      "price": null,
+      "amazon_id": "B07FM9CW4B",
+      "sources": [
+        "https://www.bioliteenergy.com/blogs/gear-guides/review-roundup-biolite-headlamp",
+        "https://www.trailspace.com/gear/biolite/headlamp-330/",
+        "https://adaytrip.com/best-headlamp-for-backpacking/"
+      ],
+      "amazon_url": "https://www.amazon.com/BioLite-HPA1001-HeadLamp-330-Yellow/dp/B07FM9CW4B",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/MY1dertz7pyMAFbDPd7oWBrHxQ8FOAz5VKcmVYVG-Uc/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly93d3cu/Y2FtcGluZ3dvcmxk/LmNvbS9kdy9pbWFn/ZS92Mi9CQ0pLX1BS/RC9vbi9kZW1hbmR3/YXJlLnN0YXRpYy8t/L1NpdGVzLWdsb2Jh/bC1tYXN0ZXItY2F0/YWxvZy9kZWZhdWx0/L2R3NTIxOTQ3NGYv/aW1hZ2VzL2xhcmdl/LzEyODA2MF9zcnls/d18xLmpwZz9zdz04/MDAmc2g9ODAw",
+      "resolver": "brave",
+      "valid": true
+    }
+  ],
+  "resolvedLinks": {
+    "https://www.cleverhiker.com/headlamps": {
+      "title": "Best Headlamps of 2025, Tested & Reviewed | CleverHiker",
+      "description": "We tested dozens of headlamps in harsh conditions across hundreds of miles to bring you this list of the best headlamps on the market.",
+      "image": "https://www.cleverhiker.com/wp-content/uploads/2019/05/Headlamps-3x2-1.jpg",
+      "url": "https://www.cleverhiker.com/backpacking/best-hiking-backpacking-camping-headlamps/"
+    },
+    "https://www.livefortheoutdoors.com/hiking/accessories/petzl-actik-core-headlamp-review/": {
+      "title": "Petzl Actik CORE Headlamp review: A welcome update for a tried-and-true model",
+      "description": "A compact, lightweight and powerful Petzl headlamp that balances useability with solid all-round performance. Great for hiking, camping and general outdoor use",
+      "image": "https://images.bauerhosting.com/affiliates/sites/2/2025/07/Petzl-Actik-CORE-Headlampwith-4-stars-for-review.jpg?ar=16%3A9&fit=crop&crop=top&auto=format&w=undefined&q=80",
+      "url": "https://www.livefortheoutdoors.com/hiking/accessories/petzl-actik-core-headlamp-review/"
+    },
+    "https://bestviewsreviews.com/headlamps/petzl-actik-core-headlamp-visit-the-petzl-store/": {
+      "title": "Reviews for PETZL - ACTIK CORE Headlamp ; Visit the PETZL Store: Dec 26, 2024 - Bestviewsreviews",
+      "description": "PETZL - ACTIK CORE Headlamp ; Visit the PETZL Store. Best Headlamps based on red light mode, switching modes, water resistance, adjustability;",
+      "image": "https://m.media-amazon.com/images/I/41p3VPp7iYL._SL500_.jpg",
+      "url": "https://bestviewsreviews.com/headlamps/petzl-actik-core-headlamp-visit-the-petzl-store/"
+    },
+    "https://www.treelinereview.com/gearreviews/best-headlamps": {
+      "title": "7 Best Headlamps of 2026 (Tested and Reviewed)",
+      "description": "We spent 400+ nights testing the best headlamps for brightness, battery life, comfort, and ease of use for backpacking, hiking, running, climbing, and camping.",
+      "image": "http://static1.squarespace.com/static/5b4544e485ede17941bc95fc/5b74c14c6d2a730c2a3ebf04/67f7238618068843658fbfff/1769031325893/Woman+with+headlamp+and+biker.jpg?format=1500w",
+      "url": "https://www.treelinereview.com/gearreviews/best-headlamps"
+    },
+    "https://nitecorestore.com/products/nitecore-nu25-s-ultralight-rechargeable-headlamp": {
+      "title": "NITECORE NU25 400 Lumens Ultralight Rechargeable Headlamp",
+      "description": "Triple Output Headlamp The NU25 is back lighter and more powerful than before with a dual beam spotlight and floodlight for a combined 400-lumen max that can reach out to 70 yards. Equipped with an upgraded unibody optical lens system switch freely between a primary spot LED, offering three brightness settings, to the",
+      "image": "http://nitecorestore.com/cdn/shop/files/FL-NITE-NU25-400-BK.png?crop=center&height=1200&v=1723483570&width=1200",
+      "url": "https://nitecorestore.com/products/nitecore-nu25-s-ultralight-rechargeable-headlamp"
+    },
+    "https://www.bioliteenergy.com/blogs/gear-guides/review-roundup-biolite-headlamp": {
+      "title": "Review Roundup: BioLite HeadLamp 330",
+      "description": "Beta-Tester, Jet, using the HeadLamp while guiding a kayak trip through Point Reyes National Seashore. Does HeadLamp 330 meet the hype? You don&#39;t have to take our word for it. Read on for reviews from editors, gear experts, and BioLite customers, all based on actual interactions with HeadLamp 330. While the adventure",
+      "image": "http://cdn.shopify.com/s/files/1/2521/8294/files/GOPR1570_1024x1024.JPG?v=1551740198",
+      "url": "https://www.bioliteenergy.com/blogs/gear-guides/review-roundup-biolite-headlamp"
+    },
+    "https://www.trailspace.com/gear/biolite/headlamp-330/": {
+      "title": "BioLite HeadLamp 330 Reviews - Trailspace",
+      "description": "",
+      "image": "https://assets.trailspace.com/assets/2/8/1/11272833/biolite-headlamp-330-.jpg",
+      "url": "https://www.trailspace.com/gear/biolite/headlamp-330/"
+    },
+    "https://adaytrip.com/best-headlamp-for-backpacking/": {
+      "title": "Best Headlamp For Backpacking - 2026 Reviews - A Day Trip",
+      "description": "Searching for the perfect headlamp for your backpacking trips? Our 2025 guide reviews top-rated models for ultralight comfort, long battery life, and reliable performance in all conditions.",
+      "image": "https://adaytrip.com/wp-content/uploads/images/B0FGFQM41T.webp",
+      "url": "https://adaytrip.com/best-headlamp-for-backpacking/"
+    }
+  }
+}

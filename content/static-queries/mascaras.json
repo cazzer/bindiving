@@ -1,0 +1,134 @@
+{
+  "slug": "mascaras",
+  "query": "best mascaras",
+  "title": "Best mascaras | Bin Diving",
+  "description": "AI-dug recommendations for best mascaras. Compare options and find one that fits.",
+  "dugAt": "2026-03-18T18:11:31.778Z",
+  "recommendations": [
+    {
+      "product_name": "Maybelline Lash Sensational Sky High Mascara",
+      "pros": [
+        "Lengthening",
+        "Buildable volume"
+      ],
+      "cons": [
+        "Formula changes reported by some users",
+        "Waterproof can be hard to remove"
+      ],
+      "price": null,
+      "amazon_id": "B08H3JPH74",
+      "sources": [
+        "https://www.maybelline.com/eye-makeup/mascara/lash-sensational-sky-high-washable-mascara-makeup",
+        "https://elpais.com/escaparate/belleza/2025-02-11/mascara-de-pestanas-waterproof-maybelline.html",
+        "https://www.the-independent.com/extras/indybest/amazon-prime-day/maybelline-lash-sensational-sky-high-mascara-prime-day-deal-b2840737.html"
+      ],
+      "amazon_url": "https://www.amazon.com/Maybelline-Volumizing-Buildable-Lengthening-Multiplying/dp/B08H3JPH74",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/UsPznFKhVMkZ8EQaNGEnL3ZiroPHEN0ypr1y7cnlWoQ/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9pNS53/YWxtYXJ0aW1hZ2Vz/LmNvbS9zZW8vTWF5/YmVsbGluZS1MYXNo/LVNlbnNhdGlvbmFs/LVNreS1IaWdoLVdh/dGVycHJvb2YtTWFz/Y2FyYS1NYWtldXAt/QnJvd25pc2gtQmxh/Y2stMC0yLWZsLW96/XzI2MGI2NjRkLTZi/NGMtNDdkZi04MzEz/LWYwYTBjZDc5N2Vj/Yi4zOGVhYjMxOGY5/ZGUzZmI1NzRhOGY1/ZmQ5YWMwMTRlZi5q/cGVnP29kbkhlaWdo/dD01NzMmb2RuV2lk/dGg9NTczJm9kbkJn/PUZGRkZGRg",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "Too Faced Better Than Sex Volumizing Mascara",
+      "pros": [
+        "Dramatic volume",
+        "Widely recommended/popular"
+      ],
+      "cons": [
+        "Can flake or smudge for some users",
+        "Not everyone prefers heavy volumizing finish"
+      ],
+      "price": null,
+      "amazon_id": "B00P0Q0T28",
+      "sources": [
+        "https://www.toofaced.com/product/23484/59115/eye-makeup/mascara/better-than-sex-volumizing-mascara/",
+        "https://www.yahoo.com/lifestyle/too-faced-cosmetics-now-amazon-181434868.html",
+        "https://beautymag.com/best-dupes-for-better-than-sex-mascara/"
+      ],
+      "amazon_url": "https://www.amazon.com/Too-Faced-Volumizing-Mascara-Dramatic/dp/B00P0Q0T28",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/V8Yk2mHY4ufs7iAU_8AhDSR-uWo48Xjo29sb8plh6aU/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9tLm1l/ZGlhLWFtYXpvbi5j/b20vaW1hZ2VzL0kv/MzF6M2g1ejlTLUwu/anBn",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "L'Oréal Paris Voluminous Lash Paradise Mascara",
+      "pros": [
+        "Volumizing and lengthening",
+        "Affordable drugstore favorite"
+      ],
+      "cons": [
+        "Some users report sensitivity or formula inconsistency",
+        "May dry out faster for some shoppers"
+      ],
+      "price": null,
+      "amazon_id": "B06XF2TR11",
+      "sources": [
+        "https://www.lorealparisusa.com/makeup/eye/mascara/voluminous-lash-paradise-washable-mascara",
+        "https://www.lorealparisusa.com/makeup/eye/mascara/voluminous-lash-paradise-waterproof-mascara",
+        "https://www.whowhatwear.com/best-tubing-mascaras"
+      ],
+      "amazon_url": "https://www.amazon.com/LOreal-Paris-Voluminous-Paradise-Washable/dp/B06XF2TR11",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/v_Tp0AvhnSFc7uUCl89sknCdDk84Xnlduxhut9tgVrw/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9pNS53/YWxtYXJ0aW1hZ2Vz/LmNvbS9zZW8vTC1P/cmVhbC1QYXJpcy1W/b2x1bWlub3VzLU1h/a2V1cC1MYXNoLVBh/cmFkaXNlLVZvbHVt/ZS1NYXNjYXJhLUJs/YWNrX2VmNTJjZjM0/LTVhNjMtNDA5ZS04/NjRkLWI3NzI4ZTQz/NTIxNC5mOGQzZGFl/MTEzMmFmZmMwOGY3/YWFjYzQ1ZDM3M2Ix/Zi5wbmc_b2RuSGVp/Z2h0PTY0MCZvZG5X/aWR0aD02NDAmb2Ru/Qmc9RkZGRkZG",
+      "resolver": "brave",
+      "valid": true
+    }
+  ],
+  "resolvedLinks": {
+    "https://www.maybelline.com/eye-makeup/mascara/lash-sensational-sky-high-washable-mascara-makeup": {
+      "title": "Lash Sensational Sky High® Washable Mascara - Maybelline",
+      "description": "Elevate lashes with Lash Sensational Sky High® Washable Mascara, a bamboo infused, volumizing & lengthening mascara for full volume and length from root to tip.",
+      "image": "https://www.maybelline.com/-/media/project/loreal/brand-sites/mny/americas/us/global/seo-image/maybelline-logo.jpg?rev=5c1a69c210ee4a42a8ee84dc03620d90",
+      "url": "https://www.maybelline.com/eye-makeup/mascara/lash-sensational-sky-high-washable-mascara-makeup"
+    },
+    "https://elpais.com/escaparate/belleza/2025-02-11/mascara-de-pestanas-waterproof-maybelline.html": {
+      "title": "Así es la máscara de pestañas ‘waterproof’ más vendida de Amazon: promete un efecto ‘lifting’",
+      "description": "Se trata del modelo ‘Lash Sensational Sky High Waterproof’ de Maybelline New York, un fenómeno viral que lo resiste todo y ofrece un efecto XL",
+      "image": "https://imagenes.elpais.com/resizer/v2/4LPE4C2VUVENBJUWR4GVMZ3B6U.png?auth=53d7d6f1476732b7321194a7c185f385f143355af3e47f0e2d80dcb7a8095651&width=1200",
+      "url": "https://elpais.com/escaparate/belleza/2025-02-11/mascara-de-pestanas-waterproof-maybelline.html"
+    },
+    "https://www.the-independent.com/extras/indybest/amazon-prime-day/maybelline-lash-sensational-sky-high-mascara-prime-day-deal-b2840737.html": {
+      "title": "This celeb-loved tubing mascara is down to £6.39 in the Amazon Prime Day sales",
+      "description": "I’m making sure to stock up on this hero beauty buy while it’s reduced",
+      "image": "https://static.the-independent.com/2025/10/07/8/23/maybelline-lash-sensational-sky-high-mascara-indybest.jpeg?trim=0,0,0,0&width=1200&height=800&crop=1200:800",
+      "url": "https://www.the-independent.com/extras/indybest/amazon-prime-day/maybelline-lash-sensational-sky-high-mascara-prime-day-deal-b2840737.html"
+    },
+    "https://www.toofaced.com/product/23484/59115/eye-makeup/mascara/better-than-sex-volumizing-mascara/": {
+      "title": "Better Than Sex Mascara | Too Faced",
+      "description": "Dramatically Fuller, Longer Lashes",
+      "image": "https://m.toofaced.com/media/export/cms/products/1000x1000/2f_sku_94240_1000x1000_0.jpg",
+      "url": "https://www.toofaced.com/product/23484/59115/eye-makeup/mascara/better-than-sex-volumizing-mascara"
+    },
+    "https://www.yahoo.com/lifestyle/too-faced-cosmetics-now-amazon-181434868.html": {
+      "title": "Too Faced Cosmetics Is Now on Amazon: Shop These 11 Bestsellers Starting at Just $18",
+      "description": "Get your hands on high-quality and affordable makeup online.",
+      "image": "https://s.yimg.com/ny/api/res/1.2/J9hBRvbKKjDmUYczH9LVnQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA7Y2Y9d2VicA--/https://media.zenfs.com/en/billboard_ecomm_884/d901b88fd6ac39151b78fed678d9b180",
+      "url": "https://www.yahoo.com/lifestyle/too-faced-cosmetics-now-amazon-181434868.html"
+    },
+    "https://beautymag.com/best-dupes-for-better-than-sex-mascara/": {
+      "title": "The Best 5 Dupes for Too Faced Better Than Sex Mascara",
+      "description": "Too Faced’s Better Than Sex mascara is a crowd favorite and one of the...",
+      "image": "https://beautymag.com/wp-content/uploads/2021/05/a-set-of-different-mascara-brushes.jpg",
+      "url": "https://beautymag.com/best-dupes-for-better-than-sex-mascara/"
+    },
+    "https://www.lorealparisusa.com/makeup/eye/mascara/voluminous-lash-paradise-washable-mascara": {
+      "title": "Eye Makeup Lash Paradise Washable Mascara - L'Oréal Paris",
+      "description": "Discover Eye Makeup Lash Paradise Washable Mascara at L'Oréal Paris. Improve your beauty routine and shop online our Makeup Products.",
+      "image": "https://www.lorealparisusa.com/-/media/project/loreal/brand-sites/oap/americas/us/products/makeup/eye/mascara/voluminous-lash-paradise-washable-mascara/200-blackest-black/new-images/071249343265-t1-new.png",
+      "url": "https://www.lorealparisusa.com/makeup/eye/mascara/voluminous-lash-paradise-washable-mascara"
+    },
+    "https://www.lorealparisusa.com/makeup/eye/mascara/voluminous-lash-paradise-waterproof-mascara": {
+      "title": "Eye Makeup Lash Paradise™ Waterproof Mascara - L'Oréal Paris",
+      "description": "Discover Eye Makeup Lash Paradise™ Waterproof Mascara at L'Oréal Paris. Improve your beauty routine and shop online our Makeup Products.",
+      "image": "https://www.lorealparisusa.com/-/media/project/loreal/brand-sites/oap/americas/us/products/makeup/eye/mascara/voluminous-lash-paradise-waterproof-mascara/203-black/new-17-7-24/071249343319-t1-new.png",
+      "url": "https://www.lorealparisusa.com/makeup/eye/mascara/voluminous-lash-paradise-waterproof-mascara"
+    },
+    "https://www.whowhatwear.com/best-tubing-mascaras": {
+      "title": "Short Lashes? Editors Say These Tubing Mascaras Will Quite Literally Transform Them",
+      "description": "If you're looking for a lengthening mascara that won't smudge or flake, meet tubing mascaras. Click in to shop the best tubing mascaras on the market.",
+      "image": "https://cdn.mos.cms.futurecdn.net/whowhatwear/posts/284047/best-tubing-mascaras-284047-1691526313831-fb-1200-80.jpg",
+      "url": "https://www.whowhatwear.com/best-tubing-mascaras"
+    }
+  }
+}

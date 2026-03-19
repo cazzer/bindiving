@@ -1,0 +1,125 @@
+{
+  "slug": "baby-monitors",
+  "query": "best baby monitors",
+  "title": "Best baby monitors | Bin Diving",
+  "description": "AI-dug recommendations for best baby monitors. Compare options and find one that fits.",
+  "dugAt": "2026-03-18T22:13:00.913Z",
+  "recommendations": [
+    {
+      "product_name": "Nanit Pro Smart Baby Monitor",
+      "pros": [
+        "High-resolution overhead view",
+        "Sleep tracking & insights",
+        "Strong app integration"
+      ],
+      "cons": [
+        "Subscription for advanced features",
+        "Some users report connectivity issues"
+      ],
+      "price": null,
+      "amazon_id": "B0FTSL4FXJ",
+      "sources": [
+        "https://www.nanit.com/products/nanit-pro-camera",
+        "https://www.forbes.com/sites/forbes-personal-shopper/article/best-baby-monitor/",
+        "https://www.safewise.com/nanit-baby-monitor-review/"
+      ],
+      "amazon_url": "https://www.amazon.com/Nanit-Smart-Baby-Monitor-Notifications/dp/B0FTSL4FXJ",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/3aVtjjRrPceXoqFgJ6lVrgdwt2KAmcHZI2ly0LOQjmk/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly90YXJn/ZXQuc2NlbmU3LmNv/bS9pcy9pbWFnZS9U/YXJnZXQvR1VFU1Rf/MDU0NTAyZjgtMDZj/ZS00YzIxLTk2MjEt/ODZhNzZkODFkYmY0/P3dpZD04MDAmaGVp/PTgwMCZxbHQ9ODAm/Zm10PXBqcGVn",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "Infant Optics DXR-8 PRO Video Baby Monitor",
+      "pros": [
+        "Dedicated secure monitor (no Wi‑Fi required)",
+        "Interchangeable/optical zoom lens",
+        "Large local display option"
+      ],
+      "cons": [
+        "Battery life can vary",
+        "Some models have reported hardware longevity issues"
+      ],
+      "price": null,
+      "amazon_id": "B08FF4GV5C",
+      "sources": [
+        "https://www.bestbuy.com/product/infant-optics-dxr-8-pro-white/6464555",
+        "https://milk-drunk.com/11-best-baby-monitors/",
+        "https://www.honestbrandreviews.com/best/baby-monitors/"
+      ],
+      "amazon_url": "https://www.amazon.com/Infant-Optics-Monitor-Screen-Resolution/dp/B08FF4GV5C",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/gzQbEFHIjUtfE13I0Dz2fEb9mfgfOGVz_RoE7CA7W2g/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9tb21t/eWhvb2QxMDEuY29t/L2ltYWdlcy9pbmZh/bnQtb3B0aWNzLWR4/ci04LXByby1iYWJ5/LW1vbml0b3ItcmV2/aWV3LXVuYm94aW5n/LTk4Ni03NTUuanBn",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "Eufy Baby Monitor (SpaceView / E210 series)",
+      "pros": [
+        "Good non‑WiFi video clarity",
+        "Competitive price for features",
+        "Reliable local display and long range"
+      ],
+      "cons": [
+        "Fewer smart/tracking features than app‑based systems",
+        "Limited cloud features"
+      ],
+      "price": null,
+      "amazon_id": "B08G8MBWZ8",
+      "sources": [
+        "https://us.eufy.com/blogs/baby/best-baby-monitors",
+        "https://www.tomsguide.com/us/best-baby-monitors%2Creview-3296.html",
+        "https://mommyhood101.com/best-baby-monitor"
+      ],
+      "amazon_url": "https://www.amazon.com/eufy-Security-BabyCare-SpaceView-Ultra-Long/dp/B08G8MBWZ8",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/JiPgSW-n8AO97j5K04jrPC8yH-8WsJ5U7KVRp4hQyos/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9iYWJ5/Z2VhcmVzc2VudGlh/bHMuczMuYW1hem9u/YXdzLmNvbS9pbWFn/ZXMvMjAyMzAzMDYx/OTE2MjkvRXVmeS0y/LnBuZw",
+      "resolver": "brave",
+      "valid": true
+    }
+  ],
+  "resolvedLinks": {
+    "https://www.nanit.com/products/nanit-pro-camera": {
+      "title": "Smart Baby Monitor System",
+      "description": "The Nanit Smart Baby Monitor delivers HD video, sleep and breathing tracking, and smart insights—designed for safer, more confident parenting.",
+      "image": "http://www.nanit.com/cdn/shop/files/PDP_-_NANIT_HOME_FLOOR_STAND.jpg?v=1768400883",
+      "url": "https://www.nanit.com/products/smart-baby-monitor"
+    },
+    "https://www.safewise.com/nanit-baby-monitor-review/": {
+      "title": "Nanit Pro Smart Baby Monitor Review | SafeWise",
+      "description": "The Nanit Pro smart baby monitor tracks sleep, breathing, and growth, but the cost of its accessories adds up quickly.",
+      "image": "https://www.safewise.com/app/uploads/child-safety-kit.jpg",
+      "url": "https://www.safewise.com/nanit-baby-monitor-review/"
+    },
+    "https://milk-drunk.com/11-best-baby-monitors/": {
+      "title": "11 Best Baby Monitors 2026 - Milk Drunk",
+      "description": "Choosing the best baby monitor for your newborn can be tricky. Our expert mom will help you decide.",
+      "image": "https://emh5334n65w.exactdn.com/wp-content/uploads/2023/02/iStock-1367706464.jpg?strip=all",
+      "url": "https://milk-drunk.com/11-best-baby-monitors/"
+    },
+    "https://www.honestbrandreviews.com/best/baby-monitors/": {
+      "title": "The Best Baby Monitors for Peace of Mind in 2026 - Must Read This Before Buying",
+      "description": "Get a detailed honest The Best Baby Monitors for Peace of Mind in 2026. Here's what you need to know before you buy. Get full customer ratings, coupons,",
+      "image": "https://www.honestbrandreviews.com/wp-content/uploads/2025/11/The-Best-Baby-Monitors-for-Peace-of-Mind-in-2025-1.jpg",
+      "url": "https://www.honestbrandreviews.com/best/baby-monitors/"
+    },
+    "https://us.eufy.com/blogs/baby/best-baby-monitors": {
+      "title": "The Ultimate Guide to Finding the Best Baby Monitor in 2026",
+      "description": "Discover the best baby monitor in 2026 for peace of mind. Explore our expert reviews of 9 top models and get tips on choosing the right one for your needs.",
+      "image": "http://us.eufy.com/cdn/shop/articles/eufy-baby-monitor_600x.jpg?v=1714357071",
+      "url": "https://us.eufy.com/blogs/baby/best-baby-monitors"
+    },
+    "https://www.tomsguide.com/us/best-baby-monitors%2Creview-3296.html": {
+      "title": "I just turned an old phone into a portable baby monitor — here's how",
+      "description": "Checking in on my sleeping baby while traveling has never been easier",
+      "image": "https://cdn.mos.cms.futurecdn.net/bdUVuB4VDXu3hEfDUNxxgX-2000-80.jpg",
+      "url": "https://www.tomsguide.com/opinion/i-turned-an-old-phone-into-a-portable-baby-monitor-and-its-perfect-for-travel"
+    },
+    "https://mommyhood101.com/best-baby-monitor": {
+      "title": "The Best Baby Monitors of 2026, Tested & Reviewed",
+      "description": "Over the past 10 years, we have put over 100 baby monitors through our hands-on testing to find you the best options for your nursery. Check out our full r",
+      "image": "https://mommyhood101.com/images/best-baby-monitors-metapic-1200-800.jpg",
+      "url": "https%3A%2F%2Fmommyhood101.com%2Fbest-baby-monitor"
+    }
+  }
+}

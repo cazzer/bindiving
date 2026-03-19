@@ -1,0 +1,113 @@
+{
+  "slug": "laptops-for-college-students",
+  "query": "best laptops for college students",
+  "title": "Best laptops for college students | Bin Diving",
+  "description": "AI-dug recommendations for best laptops for college students. Compare options and find one that fits.",
+  "dugAt": "2026-03-18T19:32:17.832Z",
+  "recommendations": [
+    {
+      "product_name": "Apple MacBook Air (M4, 13-inch)",
+      "pros": [
+        "Lightweight and highly portable",
+        "Excellent battery life and performance",
+        "Best-in-class display and trackpad"
+      ],
+      "cons": [
+        "Higher price than budget Windows laptops",
+        "Limited to macOS app ecosystem"
+      ],
+      "price": null,
+      "amazon_id": "B0DZDC3WW5",
+      "sources": [
+        "https://www.tomsguide.com/best-picks/best-laptops",
+        "https://global.techradar.com/nl-nl/computing/macbooks/macbook-air-m4-13-inch-review-nl",
+        "https://www.reviewed.com/laptops/content/apple-macbook-air-13-m4-2025-review"
+      ],
+      "amazon_url": "https://www.amazon.com/Apple-2025-MacBook-13-inch-Laptop/dp/B0DZDC3WW5",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/X2WdnrlXK-ZBkVK5_wUhf6U8Rxi7rwZQSk8i63WnY_E/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9tZWRp/YS53aXJlZC5jb20v/cGhvdG9zLzY3ZDA0/ZDc5OWEwMzJlMTJl/NWU1M2NkMC9tYXN0/ZXIvd18xNjAwLGNf/bGltaXQvQXBwbGUt/TWFjQm9vay1BaXIt/MTMtSW5jaC1NNC0y/MDI1LShrZXlib2Fy/ZCktUmV2aWV3ZXIt/UGhvdG8tU09VUkNF/LUJyZW5kYS1TdG9s/eWFyLmpwZw",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "Dell XPS 14 (XPS series ultraportable)",
+      "pros": [
+        "Premium build and compact 14-inch display",
+        "Strong performance for productivity",
+        "Good balance of portability and screen size"
+      ],
+      "cons": [
+        "Can be expensive in higher specs",
+        "Some configs limited by fewer port options"
+      ],
+      "price": null,
+      "amazon_id": "B00HK8V4PU",
+      "sources": [
+        "https://www.tomsguide.com/best-picks/best-laptops",
+        "https://www.tomsguide.com/best-picks/best-13-inch-laptops",
+        "https://www.techradar.com/computing/laptops/best-laptops-at-ces-2026"
+      ],
+      "amazon_url": "https://www.amazon.com/Dell-XPS14-7272sLV-XPS-14-0-Inch-Ultrabook/dp/B00HK8V4PU",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/9-_wcNbrsVeZk9dSAcmBrq3yXYEVXYhkE_BI5IB-g1Y/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9pbWFn/ZXMuaG90aGFyZHdh/cmUuY29tL2NvbnRl/bnRpbWFnZXMvYXJ0/aWNsZS8zNTg5L2Nv/bnRlbnQvc21hbGxf/ZGVsbC14cHMtMTQt/MjAyNi1zaWRlLWxl/ZnQtZWRnZS5qcGc",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "Lenovo IdeaPad Slim 3X (or IdeaPad student-friendly models)",
+      "pros": [
+        "Budget-friendly value",
+        "Sufficient performance for essays, browsing, and light media",
+        "Often strong battery life for the price"
+      ],
+      "cons": [
+        "Build and screen quality not as premium as flagship ultrabooks",
+        "Not ideal for heavy creative or 3D workloads"
+      ],
+      "price": null,
+      "amazon_id": "B0DTBPC46X",
+      "sources": [
+        "https://www.tomsguide.com/best-picks/best-laptops",
+        "https://www.tomsguide.com/computing/laptops/is-the-macbook-neo-as-good-as-a-budget-windows-laptop-here-are-our-lab-tested-results",
+        "https://www.reviewatlas.co/which-to-buy/which-laptop-to-buy-for-students-2026"
+      ],
+      "amazon_url": "https://www.amazon.com/Lenovo-IdeaPad-Slim-Qualcomm%C2%AE-Snapdragon%C2%AE/dp/B0DTBPC46X",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/wGMIXyrJSHE165RZv1i9zvz0h7bOFaIZ9aWLvsVx-zk/rs:fit:0:180:1:0/g:ce/aHR0cHM6Ly93d3cu/YWR3YWl0eC5jb20v/d3AtY29udGVudC91/cGxvYWRzLzIwMjYv/MDEvZGVsbC1pbnNw/aXJvbi0zNTMwLWk1/LTEzdGgtZ2VuLTE2/Z2ItMTIwaHotcmV2/aWV3LTEtMzAweDE2/OS53ZWJw",
+      "resolver": "brave",
+      "valid": true
+    }
+  ],
+  "resolvedLinks": {
+    "https://www.tomsguide.com/best-picks/best-laptops": {
+      "title": "I test laptops year-round and these are the best laptops you can buy in 2026",
+      "description": "Here are the best laptops my team and I recommend based on our lab testing and hands-on reviews",
+      "image": "https://cdn.mos.cms.futurecdn.net/E7uSABSyBBWTGXMzRoXmn3-2560-80.jpg",
+      "url": "https://www.tomsguide.com/computing/laptops/best-laptops"
+    },
+    "https://www.reviewed.com/laptops/content/apple-macbook-air-13-m4-2025-review": {
+      "title": "Apple delivers a near-perfect ultraportable laptop with the 13-inch MacBook Air M4",
+      "description": "The powerful M4 chip and killer battery life make the latest MacBook Air a top-tier ultraportable laptop.",
+      "image": "https://reviewed-com-res.cloudinary.com/image/fetch/s--u408q6bd--/b_white,c_limit,cs_srgb,f_auto,fl_progressive.strip_profile,g_center,q_auto,w_1200/https://reviewed-production.s3.amazonaws.com/1744235586662/apple-macbook-air-13-m4-hero.png",
+      "url": "https://www.reviewed.com/laptops/content/apple-macbook-air-13-m4-2025-review"
+    },
+    "https://www.tomsguide.com/best-picks/best-13-inch-laptops": {
+      "title": "The best 13-inch laptops in 2026 — top picks worth your money",
+      "description": "Looking for portability? These are the best 13-inch laptops right now",
+      "image": "https://cdn.mos.cms.futurecdn.net/9WewLFGGuEX6mfwAKBrohk-2560-80.jpg",
+      "url": "https://www.tomsguide.com/best-picks/best-13-inch-laptops"
+    },
+    "https://www.tomsguide.com/computing/laptops/is-the-macbook-neo-as-good-as-a-budget-windows-laptop-here-are-our-lab-tested-results": {
+      "title": "We benchmarked the MacBook Neo vs budget Windows laptops — here's the truth",
+      "description": "The MacBook Neo is a budget laptop that punches above its weight",
+      "image": "https://cdn.mos.cms.futurecdn.net/xvJgTcuknLbUZo9QawcVzi-2560-80.jpg",
+      "url": "https://www.tomsguide.com/computing/laptops/is-the-macbook-neo-as-good-as-a-budget-windows-laptop-here-are-our-lab-tested-results"
+    },
+    "https://www.reviewatlas.co/which-to-buy/which-laptop-to-buy-for-students-2026": {
+      "title": "Review Atlas - Expert Product Reviews & Buying Guides",
+      "description": "Trusted product reviews, comparisons, and buying guides to help you make informed decisions.",
+      "image": "https://www.reviewatlas.co/og-image.jpg",
+      "url": "https://www.reviewatlas.co"
+    }
+  }
+}

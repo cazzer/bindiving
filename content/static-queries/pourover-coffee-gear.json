@@ -1,0 +1,107 @@
+{
+  "slug": "pourover-coffee-gear",
+  "query": "best pour‑over coffee gear",
+  "title": "Best pour‑over coffee gear | Bin Diving",
+  "description": "AI-dug recommendations for best pour‑over coffee gear. Compare options and find one that fits.",
+  "dugAt": "2026-03-18T17:14:05.336Z",
+  "recommendations": [
+    {
+      "product_name": "Hario V60 (Size 02)",
+      "pros": [
+        "Maximum brew control",
+        "Wide community resources/tutorials"
+      ],
+      "cons": [
+        "Requires technique to master",
+        "Can be sensitive to grind/water variations"
+      ],
+      "price": null,
+      "amazon_id": "B01L6OCXAS",
+      "sources": [
+        "https://rodlamoon.com/hario-v60-review-beginners-2025/",
+        "https://www.driproast.com/the-best-pour-over-coffee-makers/"
+      ],
+      "amazon_url": "https://www.amazon.com/Hario-V60-Ceramic-Dripper-Filters/dp/B01L6OCXAS",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/a5LC5dzXYYNw02-_gVbAV1_cfe9k6NJmEtdFkp3cLUM/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly93d3cu/aGFyaW8uY28udWsv/Y2RuL3Nob3AvZmls/ZXMvU1NEQy0yMDAt/V18zODR4Mzg0Lmpw/Zz92PTE3MTIyODE2/ODM",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "Kalita Wave (155 or 185)",
+      "pros": [
+        "Very forgiving/consistent extraction",
+        "Great for beginners"
+      ],
+      "cons": [
+        "Flat-bottom style may be less lively than conical",
+        "Requires specific Wave filters"
+      ],
+      "price": null,
+      "amazon_id": "B000X1AM0Y",
+      "sources": [
+        "https://rodlamoon.com/kalita-wave-review-beginners-2025/",
+        "https://honestcoffeereviews.com/kalita-wave-dripper-155-review-perfect-for-small-brews/"
+      ],
+      "amazon_url": "https://www.amazon.com/Kalita-5033-Wave-185-Drippers/dp/B000X1AM0Y",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/Z4P62otbwR72FvVhptMhr9hUH18pMyygeITRZHhwBA0/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9saXRl/Y29tcGFyaXNvbi5j/b20vd3AtY29udGVu/dC91cGxvYWRzLzIw/MjIvMDgva2FsaXRh/LXdhdmUtMTU1LXZz/LTE4NS03Njh4NDMy/LnBuZw",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "CHEMEX Classic Series (6-cup)",
+      "pros": [
+        "Clean, bright cup; great for multiple servings",
+        "Stylish, non-porous borosilicate glass"
+      ],
+      "cons": [
+        "Larger paper filters can be more expensive",
+        "Better for batch brewing than single cup control"
+      ],
+      "price": null,
+      "amazon_id": "B0000YWF5E",
+      "sources": [
+        "https://www.homesandgardens.com/kitchens/appliances/chemex-classic-coffee-maker-review",
+        "https://chemexcoffeemaker.com/collections/classic-series-nav/products/six-cup-classic-chemex"
+      ],
+      "amazon_url": "https://www.amazon.com/Chemex-Classic-Pour-over-Glass-Coffeemaker/dp/B0000YWF5E",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/fWxmYhUdBAn2drIWwe8nX5gAvPO3Qs_4aTQ7ZrKD3EQ/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly93d3cu/ZGVuaW1jb2ZmZWVj/b21wYW55LmNvbS9j/ZG4vc2hvcC9wcm9k/dWN0cy9zaXhfY3Vw/XzEyODB4MTI4MC5w/bmc_dj0xNTQ0NjQ4/OTcw",
+      "resolver": "brave",
+      "valid": true
+    }
+  ],
+  "resolvedLinks": {
+    "https://rodlamoon.com/hario-v60-review-beginners-2025/": {
+      "title": "Hario V60 Review 2025 - Rodlamoon",
+      "description": "But is the V60 still a good choice for beginners in 2025? Let’s explore what makes it special, its pros and cons,",
+      "image": "https://rodlamoon.com/wp-content/uploads/2025/09/Brewing-Coffee_-Art-of-Pour-Over.png",
+      "url": "https://rodlamoon.com/hario-v60-review-beginners-2025/"
+    },
+    "https://www.driproast.com/the-best-pour-over-coffee-makers/": {
+      "title": "The Best Pour-Over Coffee Makers of 2026: Tested for Every Skill Level - Drip Roast",
+      "description": "Pour-over coffee is a unique case. The gear is inexpensive, and the technique is free to learn. Despite this, people are still making bad coffee. Most guides",
+      "image": "https://www.driproast.com/wp-content/uploads/2026/01/best_pour_over_cover.webp",
+      "url": "https://www.driproast.com/the-best-pour-over-coffee-makers/"
+    },
+    "https://rodlamoon.com/kalita-wave-review-beginners-2025/": {
+      "title": "Kalita Wave Review 2025: The Most Beginner-Friendly Coffee Dripper - Rodlamoon",
+      "description": "The Kalita Wave is still one of the most beginner-friendly drippers in 2025. With its forgiving design and smooth, balanced results,",
+      "image": "https://rodlamoon.com/wp-content/uploads/2025/09/Brewing-Perfection_-Kalita-Wave-Coffee.png",
+      "url": "https://rodlamoon.com/kalita-wave-review-beginners-2025/"
+    },
+    "https://www.homesandgardens.com/kitchens/appliances/chemex-classic-coffee-maker-review": {
+      "title": "I Tested the Chic Classic CHEMEX Coffee Maker and Loved Its Simplicity – Plus, It's Non-Toxic and So Easy to Use Every Morning",
+      "description": "Making my daily coffee doesn't get much easier than this glass pour-over coffee maker",
+      "image": "https://cdn.mos.cms.futurecdn.net/MbFs7F6TcPJpjv4xx6oP7U-1600-80.jpg",
+      "url": "https://www.homesandgardens.com/kitchens/appliances/chemex-classic-coffee-maker-review"
+    },
+    "https://chemexcoffeemaker.com/collections/classic-series-nav/products/six-cup-classic-chemex": {
+      "title": "Six Cup Classic CHEMEX®",
+      "description": "Since 1941, generations of coffee lovers all over the world have been brewing perfect coffee with CHEMEX®. Each coffeemaker is inspected, polished and hand tied by one of our team, before getting boxed up for shipping. Used along with the scientifically designed CHEMEX Bonded™ filters, our pour over system will remove",
+      "image": "http://chemexcoffeemaker.com/cdn/shop/files/cm-6a.jpg?v=1724186506",
+      "url": "https://chemexcoffeemaker.com/products/six-cup-classic-chemex"
+    }
+  }
+}

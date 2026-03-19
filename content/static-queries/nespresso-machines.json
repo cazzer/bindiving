@@ -1,0 +1,92 @@
+{
+  "slug": "nespresso-machines",
+  "query": "best nespresso machines",
+  "title": "Best nespresso machines | Bin Diving",
+  "description": "AI-dug recommendations for best nespresso machines. Compare options and find one that fits.",
+  "dugAt": "2026-03-18T17:11:58.923Z",
+  "recommendations": [
+    {
+      "product_name": "Nespresso VertuoPlus (Vertuo Line)",
+      "pros": [
+        "Great crema for larger cups",
+        "Multiple cup sizes including mug/alto",
+        "Easy one-touch operation"
+      ],
+      "cons": [
+        "Uses Vertuo-only pods",
+        "Larger footprint than Original line"
+      ],
+      "price": null,
+      "amazon_id": "B01N7GO468",
+      "sources": [
+        "https://www.tomsguide.com/best-picks/best-nespresso-machine",
+        "https://www.t3.com/features/best-pod-coffee-machine"
+      ],
+      "amazon_url": "https://www.amazon.com/Nespresso-VertuoPlus-Coffee-Espresso-DeLonghi/dp/B01N7GO468",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/GP6tWDiYZetBBCWnlQ81DPo6EOL6uWu8EogVPKbIkxI/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly93d3cu/dGFzdGluZ3RhYmxl/LmNvbS9pbWcvZ2Fs/bGVyeS9uZXNwcmVz/c28tdmVydHVvLXBs/dXMtdnMtZGVsdXhl/LXdoYXRzLXRoZS1k/aWZmZXJlbmNlL3do/YXQtaXMtdGhlLW5l/c3ByZXNzby12ZXJ0/dW9wbHVzLTE3MjQx/OTU2NDEuanBn",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "Breville/Nespresso Creatista Plus (Creatista Series)",
+      "pros": [
+        "Integrated steam wand for latte art",
+        "Fast heat-up and consistent milk texture",
+        "Barista-level milk controls"
+      ],
+      "cons": [
+        "Higher price point",
+        "More features to learn than basic models"
+      ],
+      "price": null,
+      "amazon_id": "B01LYTP2SG",
+      "sources": [
+        "https://www.tomsguide.com/best-picks/best-nespresso-machine",
+        "https://www.forbes.com/sites/forbes-personal-shopper/article/best-nespresso-machines/"
+      ],
+      "amazon_url": "https://www.amazon.com/Nespresso-Creatista-Espresso-Breville-Stainless/dp/B01LYTP2SG",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/Qw8qs_FbZ9SYI1UApcZLZ3xw3_tLXHYrmWgMGDW8-hQ/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9pLmVi/YXlpbWcuY29tL2lt/YWdlcy9nL0hRa0FB/T1N3U1VWbi1teGkv/cy1sNTAwLmpwZw",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "Nespresso Essenza Mini (Original Line)",
+      "pros": [
+        "Compact and budget-friendly",
+        "Fast heat-up and simple controls",
+        "Fits small kitchens or dorms"
+      ],
+      "cons": [
+        "No built-in milk frother",
+        "Smaller water tank requires frequent refills"
+      ],
+      "price": null,
+      "amazon_id": "B06ZYSM2GR",
+      "sources": [
+        "https://www.tomsguide.com/best-picks/best-nespresso-machine",
+        "https://www.forbes.com/sites/forbes-personal-shopper/article/best-nespresso-machines/"
+      ],
+      "amazon_url": "https://www.amazon.com/Nespresso-Essenza-Machine-DeLonghi-Black/dp/B06ZYSM2GR",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/eFRnczDbQB8z9f8cNcvUEdaLdfSRK2TjOeB0oCTjnOA/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9jYWZm/ZWluYXRlZHBrLmNv/bS9jZG4vc2hvcC9m/aWxlcy9rcnVwcy5w/bmc_dj0xNzI3OTU2/ODgwJndpZHRoPTE0/NDU",
+      "resolver": "brave",
+      "valid": true
+    }
+  ],
+  "resolvedLinks": {
+    "https://www.tomsguide.com/best-picks/best-nespresso-machine": {
+      "title": "Best Nespresso machine 2025",
+      "description": "Nespresso machines come in all shapes and sizes, but which is right for you?",
+      "image": "https://cdn.mos.cms.futurecdn.net/3Q9WojZ645gaRhF56CmMHj-1600-80.jpg",
+      "url": "https://www.tomsguide.com/best-picks/best-nespresso-machine"
+    },
+    "https://www.t3.com/features/best-pod-coffee-machine": {
+      "title": "Best pod coffee machine 2026: great coffee flavour with no fuss",
+      "description": "Find the best pod and capsule coffee machines from Nespresso, Lavazza, Illy and more",
+      "image": "https://cdn.mos.cms.futurecdn.net/h4sbovWDyvfQM42BuFmim7-1920-80.jpg",
+      "url": "https://www.t3.com/features/best-pod-coffee-machine"
+    }
+  }
+}

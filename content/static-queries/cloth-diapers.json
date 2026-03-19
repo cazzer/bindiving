@@ -1,0 +1,114 @@
+{
+  "slug": "cloth-diapers",
+  "query": "best cloth diapers",
+  "title": "Best cloth diapers | Bin Diving",
+  "description": "AI-dug recommendations for best cloth diapers. Compare options and find one that fits.",
+  "dugAt": "2026-03-18T22:15:28.569Z",
+  "recommendations": [
+    {
+      "product_name": "Rumparooz G3 One Size Pocket Cloth Diaper",
+      "pros": [
+        "Top lab-tested absorbency",
+        "Adjustable fit 6–55+ lbs"
+      ],
+      "cons": [
+        "Can be bulky with extra inserts",
+        "Slower dry time"
+      ],
+      "price": null,
+      "amazon_id": "B07TXR84JD",
+      "sources": [
+        "https://www.babygearlab.com/topics/diapering-potty/best-cloth-diaper",
+        "https://diaperlab.com/products/rumparooz-g3-one-size-stay-dry-pocket-diaper"
+      ],
+      "amazon_url": "https://www.amazon.com/Kanga-Care-Rumparooz-Pocket-Diaper/dp/B07TXR84JD",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/3hoadG01iA5d8LCaubFYscw557GMQ3AKPTrj7_XnD5Q/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly93d3cu/a2FuZ2FjYXJlLmNv/bS9jZG4vc2hvcC9m/aWxlcy8xMTYtUnVt/cGFyb296LUczLUFX/Si1Td2VldF8xMTB4/MTEwQDJ4LmpwZz92/PTE3NzMzODc1Mjc",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "Thirsties Natural One-Size All-in-One Diaper (Snap)",
+      "pros": [
+        "Natural-fiber absorbency",
+        "Highly rated by cloth-diaper community"
+      ],
+      "cons": [
+        "Not waterproof on outer layer if using fitted style",
+        "Longer dry time than synthetics"
+      ],
+      "price": null,
+      "amazon_id": "B01M7WWPCJ",
+      "sources": [
+        "https://clothdiapersforbeginners.com/reviews/2025-cloth-diaper-community-choice-awards/",
+        "https://beantreebaby.com/products/thirsties-natural-one-size-all-in-one-diaper",
+        "https://www.forbes.com/sites/forbes-personal-shopper/article/best-cloth-diapers/"
+      ],
+      "amazon_url": "https://www.amazon.com/Thirsties-Natural-Diaper-Closure-Adventure/dp/B01M7WWPCJ",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/DJi96gB1zWpnaFdN1GBdxHpnF4F9fc7eB5A8KKJ-qmE/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly93d3cu/Z3JlZW5tb3VudGFp/bmRpYXBlcnMuY29t/L2Nkbi9zaG9wL2Zp/bGVzL0JsdWViZXJy/eS1UaGlyc3RpZXNf/T25lX1NpemVfQUlP/X1NuYXAuanBnP3Y9/MTc2NDk2NTY5MSZ3/aWR0aD03MjA",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "bumGenius Freetime All-in-One Cloth Diaper",
+      "pros": [
+        "Easy AIO convenience",
+        "Stretchy, comfortable fit for active babies"
+      ],
+      "cons": [
+        "Some users report fit variability",
+        "Higher price than basic pockets/prefolds"
+      ],
+      "price": null,
+      "amazon_id": "B0072FRFTU",
+      "sources": [
+        "https://www.babygearlab.com/reviews/diapering-potty/cloth-diaper/bumgenius-freetime",
+        "https://www.consumerreports.org/babies-kids/top-picks-for-baby-a5254650876/"
+      ],
+      "amazon_url": "https://www.amazon.com/BumGenius-Freetime-All-Cloth-Diaper/dp/B0072FRFTU",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/wfJ6DsANp6MaxJ_ViJy95Z_z7af_NDMbmfaHVna2qAw/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly93d3cu/YnVtZ2VuaXVzLmNv/bS9jZG4vc2hvcC9w/cm9kdWN0cy9iZ19m/cmVldGltZV9taXJy/b3JfNDYxeDQ2MS5q/cGc_dj0xNjg3MzY2/NTAx",
+      "resolver": "brave",
+      "valid": true
+    }
+  ],
+  "resolvedLinks": {
+    "https://www.babygearlab.com/topics/diapering-potty/best-cloth-diaper": {
+      "title": "The Best Cloth Diapers",
+      "description": "Cloth diapers are an appealing alternative to disposable diapers for environmental, health, and financial reasons. If you're new to the systems and styles...",
+      "image": "https://d1awg155xx98w6.cloudfront.net/photos/41/60/537526_31743_XXL.jpg",
+      "url": "https://www.babygearlab.com/topics/diapering-potty/best-cloth-diaper"
+    },
+    "https://diaperlab.com/products/rumparooz-g3-one-size-stay-dry-pocket-diaper": {
+      "title": "Rumparooz G3 One Size Stay Dry Pocket Diaper - Solids",
+      "description": "The Rumparooz G2 Delivered, the Rumparooz G3 is Redefining. NEW! Now you can purchase *just the diaper shell* and pair with an insert you already own, or purchase Rumparooz micro-fiber, hemp or bamboo inserts separately! Keeping all the beloved features that have made Rumparooz the award-winning #1 cloth diaper for ove",
+      "image": "http://diaperlab.com/cdn/shop/files/114-Rumparooz-G3-MF-Fluff_110x110_2x_ae1cdcc7-bb8c-459e-9bf8-a46142b9eb16.webp?v=1732810698",
+      "url": "https://diaperlab.com/products/rumparooz-g3-one-size-stay-dry-pocket-diaper"
+    },
+    "https://clothdiapersforbeginners.com/reviews/2025-cloth-diaper-community-choice-awards/": {
+      "title": "2025 Cloth Diaper Community Choice Awards - Cloth Diapers for Beginners",
+      "description": "Voting for the 2025 Cloth Diaper Community Choice Awards has closed and the winners have been chosen!",
+      "image": "https://clothdiapersforbeginners.com/wp-content/uploads/2025/03/2025-winners.jpg",
+      "url": "https://clothdiapersforbeginners.com/reviews/2025-cloth-diaper-community-choice-awards/"
+    },
+    "https://beantreebaby.com/products/thirsties-natural-one-size-all-in-one-diaper": {
+      "title": "Thirsties Natural One Size All-in-One Diaper (Snap Closure)",
+      "description": "Product Details Interior consists of 11 thirsty layers of natural fibers : 3 layers of organic cotton in the body and 2 soaker pads with 8 total layers of hemp/organic cotton  Integrated waterproof outer (100% polyester with waterproof TPU laminate)- no separate cover needed Gentle elastic around legs and waist provide",
+      "image": "http://beantreebaby.com/cdn/shop/products/thirsties-natural-one-size-all-in-one-snap-adventure-trail_grande.jpg?v=1711847456",
+      "url": "https://beantreebaby.com/products/thirsties-natural-one-size-all-in-one-diaper"
+    },
+    "https://www.babygearlab.com/reviews/diapering-potty/cloth-diaper/bumgenius-freetime": {
+      "title": "bumGenius Freetime Review",
+      "description": "The bumGenius Freetime is one of the easiest-to-use diapers in our cloth diaper review. If you are hesitating to dive into cloth, this could be the perfect...",
+      "image": "https://d1awg155xx98w6.cloudfront.net/photos/40/0/521487_30834_XXL.jpg",
+      "url": "https://www.babygearlab.com/reviews/diapering-potty/cloth-diaper/bumgenius-freetime"
+    },
+    "https://www.consumerreports.org/babies-kids/top-picks-for-baby-a5254650876/": {
+      "title": "CR's Top Picks for Baby in 2025 - Consumer Reports",
+      "description": "Consumer Reports tested thousands of baby products for safety, performance, and comfort. Here’s what impressed our test experts.",
+      "image": "https://article.images.consumerreports.org/image/upload/t_article_tout/v1746470192/prod/content/dam/CRO-Images-2025/Babies/CR-Babies-InlineHero-Top-Picks-0525",
+      "url": "https://www.consumerreports.org/babies-kids/top-picks-for-baby-a5254650876/"
+    }
+  }
+}

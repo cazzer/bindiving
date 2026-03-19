@@ -1,0 +1,131 @@
+{
+  "slug": "indoor-security-cameras",
+  "query": "best indoor security cameras",
+  "title": "Best indoor security cameras | Bin Diving",
+  "description": "AI-dug recommendations for best indoor security cameras. Compare options and find one that fits.",
+  "dugAt": "2026-03-18T16:21:02.663Z",
+  "recommendations": [
+    {
+      "product_name": "Google Nest Cam (indoor, wired) — 3rd Gen",
+      "pros": [
+        "Excellent software/AI integration",
+        "Good image and night vision",
+        "Works with Google Home ecosystem"
+      ],
+      "cons": [
+        "Subscription needed for extended cloud history",
+        "Recent firmware/migration complaints from some users"
+      ],
+      "price": null,
+      "amazon_id": "B0FN7GF1ZC",
+      "sources": [
+        "https://www.security.org/security-cameras/best/indoor/",
+        "https://www.digitalcameraworld.com/buying-guides/best-outdoor-security-camera",
+        "https://www.security.org/security-cameras/nest/review/iq-indoor/"
+      ],
+      "amazon_url": "https://www.amazon.com/Google-Nest-Cam-Indoor-Wired/dp/B0FN7GF1ZC",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/v0D4ksHFBh-CnJUqBbSyJfZpEOdsO3RU2GH30ighWnY/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly93d3cu/Z2VuaXVzcGxhbmV0/LmNvbS9jZG4vc2hv/cC9maWxlcy81MWt0/S1BFS1BUTC5fQUNf/U0wxNTAwLmpwZz92/PTE3NzI0Njc2NDYm/d2lkdGg9MTIxNA",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "Arlo Essential Indoor Camera (3rd Gen)",
+      "pros": [
+        "Reliable 2K video and clear night vision",
+        "Simple setup and app",
+        "Strong recent hardware refresh (2025)"
+      ],
+      "cons": [
+        "Some features behind Arlo Secure subscription",
+        "Wired model may limit placement"
+      ],
+      "price": null,
+      "amazon_id": "B0FLLQPV2D",
+      "sources": [
+        "https://us.arlo.com/collections/new-releases",
+        "https://blog.arlo.com/arlo-innovations/new-arlo-cameras/",
+        "https://homesecurely.com/security/arlo-security-cameras-review-2025/"
+      ],
+      "amazon_url": "https://www.amazon.com/Arlo-Essential-Indoor-Security-Camera/dp/B0FLLQPV2D",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/f6N8dnPKg2xhakmcM1Zgvn3fc7sW2upFB_p9n_z2PAM/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly91cy5h/cmxvLmNvbS9jZG4v/c2hvcC9maWxlcy9F/c3NlbnRpYWxfT3Zl/cnZpZXctYi5wbmc_/dj0xNzU4NzMwMjAx/JndpZHRoPTEyMDA",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "eufy Indoor Cam (C120 / popular indoor models)",
+      "pros": [
+        "Good value with strong local-storage options",
+        "No/low subscription model for many features",
+        "Consistently recommended for indoor use"
+      ],
+      "cons": [
+        "Some users report occasional app/recording quirks",
+        "Higher-end eufy models are pricier"
+      ],
+      "price": null,
+      "amazon_id": "B08571VZ3Q",
+      "sources": [
+        "https://www.trustedreviews.com/best/best-indoor-security-camera-4040642",
+        "https://money.com/best-security-cameras-for-homes/",
+        "https://www.eufy.com/blogs/security-camera/best-indoor-wireless-camera"
+      ],
+      "amazon_url": "https://www.amazon.com/eufy-Security-Assistants-HomeBase-Required/dp/B08571VZ3Q",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/r_5C94QBU4m53_RwxFSfw7eAj0-Eg3CgMg7tGF1mPmM/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9lLWNh/dGFsb2cuY29tL2pw/Zy8yNjAwMzI4Lmpw/Zw",
+      "resolver": "brave",
+      "valid": true
+    }
+  ],
+  "resolvedLinks": {
+    "https://www.security.org/security-cameras/best/indoor/": {
+      "title": "The Best Indoor Home Security Cameras of 2026 | Security.org",
+      "description": "The best indoor home security cameras can perform double duty: While guarding against strangers, they also help loved ones stay in touch. For instance, with",
+      "image": "https://www.security.org/app/uploads/2021/09/Nest-Camera-and-box.jpg",
+      "url": "https://www.security.org/security-cameras/best/indoor/"
+    },
+    "https://www.digitalcameraworld.com/buying-guides/best-outdoor-security-camera": {
+      "title": "The best outdoor security cameras in 2026: protect your home with smart, weatherproof surveillance",
+      "description": "With the best outdoor security camera you can keep an eye on your property from your smartphone, from anywhere",
+      "image": "https://cdn.mos.cms.futurecdn.net/s6YjFBKGZrastuWFfhJrBY-2560-80.jpg",
+      "url": "https://www.digitalcameraworld.com/buying-guides/best-outdoor-security-camera"
+    },
+    "https://www.security.org/security-cameras/nest/review/iq-indoor/": {
+      "title": "Nest Indoor Home Security Camera Review 2026",
+      "description": "Note: While Google still sells the Nest Cam Indoor, they have removed Nest Secure from availability for purchase.The Nest Cam Indoor is Nest’s original indoor",
+      "image": "https://www.security.org/app/uploads/2020/03/Nest-Cam-Indoor.jpg",
+      "url": "https://www.security.org/security-cameras/nest/review/indoor/"
+    },
+    "https://us.arlo.com/collections/new-releases": {
+      "title": "New Arlo Cameras 2025 – Essential, Pro & Ultra Smart Security | Arlo",
+      "description": "Explore Arlo’s 2025 camera lineup. New Essential, Pro, and Ultra models with 2K–4K HDR, dual-band Wi-Fi, and advanced motion tracking. Shop new releases now.",
+      "image": "http://us.arlo.com/cdn/shop/collections/new-release-collection-banner.jpg?v=1759438950",
+      "url": "https://www.arlo.com"
+    },
+    "https://blog.arlo.com/arlo-innovations/new-arlo-cameras/": {
+      "title": "What Are the New Arlo Cameras? | Arlo",
+      "description": "Check out new 2025 Arlo security cameras. These new-release and next-gen 2025 security cameras keep raising the bar to bring you wider range and smarter AI security features.",
+      "image": "https://blog.arlo.com/wp-content/uploads/2025/12/Arlo-In-Article-Image-980-x-800-3-1.png",
+      "url": "https://blog.arlo.com/arlo-innovations/new-arlo-cameras/"
+    },
+    "https://homesecurely.com/security/arlo-security-cameras-review-2025/": {
+      "title": "Arlo Security Cameras Review 2025: Smarter Surveillance, Wire-Free Freedom - HomeSecurely",
+      "description": "Arlo security cameras is a leading smart home brand specializing in wireless. Designed to be easy to install, highly configurable, and packed with features, Arlo cameras are ideal for both home and small business use.",
+      "image": "https://i0.wp.com/homesecurely.com/wp-content/uploads/2025/04/Arlo-Security-Cameras.jpg",
+      "url": "https://homesecurely.com/security/arlo-security-cameras-review-2025/"
+    },
+    "https://money.com/best-security-cameras-for-homes/": {
+      "title": "Best Security Cameras for Homes",
+      "description": "The best security cameras for homes include Ring (best doorbell camera), Nest (best for Google ecosystem) and Eufy (best indoor camera).",
+      "image": "https://img.money.com/2024/06/Best-Security-Camera.jpg?quality=85",
+      "url": "https://money.com/best-security-cameras-for-homes/"
+    },
+    "https://www.eufy.com/blogs/security-camera/best-indoor-wireless-camera": {
+      "title": "Best Indoor Wireless Cameras 2026: Ultimate Guide",
+      "description": "Discover the best indoor wireless cameras of 2026 with our expert reviews. Learn about essential buying tips and smart home integration to secure your space.",
+      "image": "https://cdn.shopify.com/s/files/1/0504/7094/4954/articles/eufy-wireless-camera-e220_dcc3ec87-0974-4aea-8af5-56e20c1ffc23.jpg?v=1745232078",
+      "url": "https://www.eufy.com/blogs/security-camera/best-indoor-wireless-camera"
+    }
+  }
+}

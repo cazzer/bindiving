@@ -1,0 +1,95 @@
+{
+  "slug": "twoplayer-board-games",
+  "query": "best two‑player board games",
+  "title": "Best two‑player board games | Bin Diving",
+  "description": "AI-dug recommendations for best two‑player board games. Compare options and find one that fits.",
+  "dugAt": "2026-03-18T18:52:46.429Z",
+  "recommendations": [
+    {
+      "product_name": "7 Wonders Duel",
+      "pros": [
+        "Tight two-player drafting",
+        "Multiple victory paths"
+      ],
+      "cons": [
+        "Limited to two players",
+        "Steep learning curve for newcomers"
+      ],
+      "price": null,
+      "amazon_id": "B014DMSTXK",
+      "sources": [
+        "https://www.gamesradar.com/board-games-for-2-players/",
+        "https://b2b-media-production-ana.s3.amazonaws.com/filer_public/c6/20/c6209d2b-3af8-496c-9607-2bf5afddeba4/ausa-mapcatalog-09222025.pdf"
+      ],
+      "amazon_url": "https://www.amazon.com/Wonders-Duel-Board-Game-BASE/dp/B014DMSTXK",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/G29MCWQi5xIWWn-Vn0Zk5ntuJ2G9wj0AT7IQLvkKGJI/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9tLm1l/ZGlhLWFtYXpvbi5j/b20vaW1hZ2VzL1Mv/YXBsdXMtbWVkaWEv/dmMvZjM0MjM5Zjct/ODU0OS00MzUxLTlj/OWQtYzJiOGUzZDdm/MzlmLl9DUjAsMCwy/MjAsMjIwX1BUMF9T/WDIyMF9fLmpwZw",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "Jaipur",
+      "pros": [
+        "Fast, highly replayable 2-player card game",
+        "Easy to learn and travel-friendly"
+      ],
+      "cons": [
+        "Strictly two-player",
+        "Not extremely deep for heavy strategists"
+      ],
+      "price": null,
+      "amazon_id": "B07SRMXRZB",
+      "sources": [
+        "https://www.gamesradar.com/tabletop-gaming/jaipur-review/",
+        "https://www.gamesradar.com/board-games-for-2-players/"
+      ],
+      "amazon_url": "https://www.amazon.com/Jaipur-Board-Game-New-Fast-Paced/dp/B07SRMXRZB",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/N0Sz4KctpxBPfY-59Pfxjhh54rYAmfr29wDiAoIiWIk/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9tZWRp/YS50YWNkbi5jb20v/bWVkaWEvYXR0cmFj/dGlvbnMtc3BsaWNl/LXNwcC0zNjB4MjQw/LzE1LzcwLzAzLzg2/LmpwZw",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "Patchwork",
+      "pros": [
+        "Elegant spatial puzzle for two",
+        "Short playtime and great component quality"
+      ],
+      "cons": [
+        "Limited player count",
+        "Replay variety is modest"
+      ],
+      "price": null,
+      "amazon_id": "B09TSD62XR",
+      "sources": [
+        "https://manuals.plus/asin/B00RCCAPPE",
+        "https://en.wikipedia.org/wiki/Patchwork_(board_game)"
+      ],
+      "amazon_url": "https://www.amazon.com/Patchwork-Reversible-Bedspread-Microfiber-Lightweight/dp/B09TSD62XR",
+      "gpt_azn": "B00RCCAPPE",
+      "image_url": "https://imgs.search.brave.com/pN0A7ZIu0cswPv6YgFkdSwgW0xUeQAMAAUX2InNRN-Q/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9tZWRp/YS5nZXR0eWltYWdl/cy5jb20vaWQvMjE5/OTgwNTU3Ny9waG90/by9wYXRjaHdvcmst/YXJ0LXRoZS1jaGFy/bS1vZi12aW50YWdl/LWhhbmRpY3JhZnRz/LmpwZz9zPTYxMng2/MTImdz0wJms9MjAm/Yz1pX05rdzdLRjFp/c2JCUy1qa0xGZF9Y/Vk9NNHFLNE9RNmpC/UHpacnk1bGVZPQ",
+      "resolver": "brave",
+      "valid": true
+    }
+  ],
+  "resolvedLinks": {
+    "https://www.gamesradar.com/board-games-for-2-players/": {
+      "title": "The 6 best 2-player board games in 2026 for date night and more, hand-picked by experts",
+      "description": "With recommendations tested by the GamesRadar+ team",
+      "image": "https://cdn.mos.cms.futurecdn.net/tLeCoEmTBLwZc3iq9aUeM-1920-80.jpg",
+      "url": "https://www.gamesradar.com/board-games-for-2-players/"
+    },
+    "https://www.gamesradar.com/tabletop-gaming/jaipur-review/": {
+      "title": "Jaipur review: \"Lightning in a bottle\"",
+      "description": "",
+      "image": "https://cdn.mos.cms.futurecdn.net/vjgihvb7ocapMiwDJtRM26-1920-80.jpg",
+      "url": "https://www.gamesradar.com/tabletop-gaming/jaipur-review/"
+    },
+    "https://en.wikipedia.org/wiki/Patchwork_(board_game)": {
+      "title": "Patchwork (board game) - Wikipedia",
+      "description": "",
+      "image": "",
+      "url": "https://en.wikipedia.org/wiki/Patchwork_(board_game)"
+    }
+  }
+}

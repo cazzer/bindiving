@@ -1,0 +1,116 @@
+{
+  "slug": "portable-generators",
+  "query": "best portable generators",
+  "title": "Best portable generators | Bin Diving",
+  "description": "AI-dug recommendations for best portable generators. Compare options and find one that fits.",
+  "dugAt": "2026-03-18T18:33:07.273Z",
+  "recommendations": [
+    {
+      "product_name": "Honda EU2200i 2200-Watt Portable Inverter Generator",
+      "pros": [
+        "Very quiet operation",
+        "Excellent fuel efficiency",
+        "Reliable brand and long service life"
+      ],
+      "cons": [
+        "Higher price than competitors",
+        "Limited heavy-load capacity"
+      ],
+      "price": null,
+      "amazon_id": "B079YF1HF6",
+      "sources": [
+        "https://www.popularmechanics.com/home/tools/a39528638/best-portable-generators//",
+        "https://bestreviews.com/home/generators/best-honda-generators"
+      ],
+      "amazon_url": "https://www.amazon.com/Honda-2200-Watt-120-Volt-Portable-Generator/dp/B079YF1HF6",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/-ILnma6XeOeDVo-z1itiKwKtwYmUF6XO0pX13p6R8wg/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly93d3cu/Y2FtcGluZ3dvcmxk/LmNvbS9kdy9pbWFn/ZS92Mi9CQ0pLX1BS/RC9vbi9kZW1hbmR3/YXJlLnN0YXRpYy8t/L1NpdGVzLWdsb2Jh/bC1tYXN0ZXItY2F0/YWxvZy9kZWZhdWx0/L2R3Y2YyYWI0YzIv/aW1hZ2VzL2xhcmdl/LzEyNDYxMF80Lmpw/Zz9zdz04MDAmc2g9/ODAw",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "Westinghouse WGen7500 Portable Gas Generator",
+      "pros": [
+        "High continuous and peak wattage",
+        "Good value for home backup",
+        "Durable construction for extended use"
+      ],
+      "cons": [
+        "Heavier and less portable than inverter units",
+        "Louder operation than inverter models"
+      ],
+      "price": null,
+      "amazon_id": "B01N80F68E",
+      "sources": [
+        "https://www.ourgeneratorworld.com/archives/2391",
+        "https://www.generatortools.com/westinghouse-wgen7500-7500-watt/"
+      ],
+      "amazon_url": "https://www.amazon.com/Westinghouse-WGen7500-Portable-Generator-Electric/dp/B01N80F68E",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/kpBN4PxxmhlLTCUg673dgUWc_pq3CzmEc0Th10WdSGs/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly93d3cu/Y2hhaW5zYXdqb3Vy/bmFsLmNvbS93cC1j/b250ZW50L3VwbG9h/ZHMvMjAxOC8xMS9X/ZXN0aW5naG91c2Ut/V0dlbjc1MDAtZ2Vu/ZXJhdG9yLXVwZGF0/ZWQtMy5qcGc",
+      "resolver": "brave",
+      "valid": true
+    },
+    {
+      "product_name": "Champion 3800–4500 Watt (popular 3–4 kW portable models)",
+      "pros": [
+        "Strong mid-range power for most home needs",
+        "Often includes electric start and multiple outlets",
+        "Competitive price and wide availability"
+      ],
+      "cons": [
+        "Noise higher than inverter generators",
+        "Build quality varies by model"
+      ],
+      "price": null,
+      "amazon_id": "B00VFDJGCE",
+      "sources": [
+        "https://www.reviewed.com/home-outdoors/best-right-now/best-portable-generators",
+        "https://bestreviews.com/home/generators/best-portable-generators"
+      ],
+      "amazon_url": "https://www.amazon.com/Champion-3800-Watt-Portable-Generator-Electric/dp/B00VFDJGCE",
+      "gpt_azn": null,
+      "image_url": "https://imgs.search.brave.com/xWx5rBKA4cECDPgCc8n6bmgnP7q4rfQVwVfS6yyqdH8/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9tb2Jp/bGVpbWFnZXMubG93/ZXMuY29tL3Byb2R1/Y3RpbWFnZXMvYTc3/ODA3ZmItNDJhMy00/MmE0LTg4M2UtODYy/YmQzMmRkZDQ1LzY5/OTUzMTgxLmpwZWc_/c2l6ZT14bA",
+      "resolver": "brave",
+      "valid": true
+    }
+  ],
+  "resolvedLinks": {
+    "https://www.popularmechanics.com/home/tools/a39528638/best-portable-generators//": {
+      "title": "Our Editors’ Favorite Portable Generators Give You Reliable Power Whenever and Wherever You Need It",
+      "description": "These editor-tested models are ideal for camping, tailgating, or powering tools when you’re too far from an outlet.",
+      "image": "https://hips.hearstapps.com/hmg-prod/images/generator-testing-0419-preview-693c5812301a9.jpg?crop=0.912xw:0.683xh;0.0689xw,0.231xh&resize=1200:*",
+      "url": "https://www.popularmechanics.com/home/tools/a39528638/best-portable-generators/"
+    },
+    "https://bestreviews.com/home/generators/best-honda-generators": {
+      "title": "5 Best Honda Generators - Mar. 2026 - BestReviews",
+      "description": "Our team of experts has selected the best Honda generators out of hundreds of models. Don't buy a Honda generator before reading these reviews.",
+      "image": "https://cdn.bestreviews.com/images/v4desktop/chubby/b90a8dd9e9a0a0979bc701fd0b8f9ed1.jpg",
+      "url": "https://bestreviews.com/home/generators/best-honda-generators"
+    },
+    "https://www.ourgeneratorworld.com/archives/2391": {
+      "title": "Comprehensive Review Of Westinghouse WGen7500 - Ourgeneratorworld.com",
+      "description": "When it comes to dependable power solutions, the Westinghouse WGen7500 is a standout contender in the generator market. Known for its blend of performance,",
+      "image": "https://www.ourgeneratorworld.com/wp-content/uploads/2024/07/Westinghouse-WGen7500.webp",
+      "url": "https://www.ourgeneratorworld.com/archives/2391"
+    },
+    "https://www.generatortools.com/westinghouse-wgen7500-7500-watt/": {
+      "title": "Westinghouse WGen7500 Portable Gas Generator Review",
+      "description": "We review the Westinghouse WGen7500 Portable Gas Generator Review and help you understand why a backup generator is important.",
+      "image": "https://www.generatortools.com/wp-content/uploads/2021/12/Westinghouse-Outdoor-Power-Equipment-WGen7500-a.jpeg",
+      "url": "https://www.generatortools.com/westinghouse-wgen7500-7500-watt/"
+    },
+    "https://www.reviewed.com/home-outdoors/best-right-now/best-portable-generators": {
+      "title": "The Best Portable Generators of 2026",
+      "description": "Here's how to keep the lights on when the power goes out",
+      "image": "https://reviewed-com-res.cloudinary.com/image/fetch/s--U2i51Deo--/b_white,c_limit,cs_srgb,f_auto,fl_progressive.strip_profile,g_center,q_auto,w_1200/https://reviewed-production.s3.amazonaws.com/1703793595370/the-best-generators.jpg",
+      "url": "https://www.reviewed.com/home-outdoors/best-right-now/best-portable-generators"
+    },
+    "https://bestreviews.com/home/generators/best-portable-generators": {
+      "title": "5 Best Portable Generators - Mar. 2026 - BestReviews",
+      "description": "Our team of experts has selected the best portable generators out of hundreds of models. Don't buy a portable generator before reading these reviews.",
+      "image": "https://cdn.bestreviews.com/images/v4desktop/chubby/2b75bbabd6ab3213c3a63f88028cb088.jpeg",
+      "url": "https://bestreviews.com/home/generators/best-portable-generators"
+    }
+  }
+}
