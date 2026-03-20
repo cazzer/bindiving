@@ -34,7 +34,20 @@ export default function RootLayout({ children }) {
   return (
     <html lang="en" suppressHydrationWarning>
       <head>
-        <link rel="icon" href="/favicon.svg" sizes="any" />
+        <link
+          rel="icon"
+          href="/images/bin-diving.svg"
+          sizes="any"
+          type="image/svg+xml"
+          media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+        />
+        <link
+          rel="icon"
+          href="/images/bin-diving-white.svg"
+          sizes="any"
+          type="image/svg+xml"
+          media="(prefers-color-scheme: dark)"
+        />
         <meta name="llm-manifest" content="https://bindiving.com/llm.txt" />
         <script
           dangerouslySetInnerHTML={{

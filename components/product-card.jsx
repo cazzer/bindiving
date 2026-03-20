@@ -187,11 +187,7 @@ export default function ProductCard({ product: item, resolvedLinks }) {
         <h2 className="card-title break-words">{product.product_name}</h2>
         {product.brand && <h3>Sold by: {product.brand}</h3>}
         <h3>
-          {product.price != null && product.price !== '' ? (
-            product.price
-          ) : (
-            <em className="text-neutral-500">We could not estimate the price</em>
-          )}{' '}
+          {product.price != null && product.price !== '' ? product.price : null}{' '}
           {product.blackFriday && <em>Black Friday deal!</em>}
           {product.resolver === 'brave' && product.price != null && product.price !== '' ? <em>(estimate)</em> : null}
         </h3>
