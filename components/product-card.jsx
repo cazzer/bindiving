@@ -1,5 +1,5 @@
 import { sendGAEvent } from '@next/third-parties/google'
-import posthog from 'posthog-js'
+import { captureImmediate } from '../lib/posthog-capture'
 import { useImage } from 'react-image'
 import 'react-responsive-carousel/lib/styles/carousel.min.css' // requires a loader
 import { Carousel } from 'react-responsive-carousel'
@@ -137,7 +137,7 @@ export default function ProductCard({ product: item, resolvedLinks }) {
 
   function onLinkClick() {
     sendGAEvent({ event: 'amazon_link_clicked', value: product })
-    posthog.capture('product_link_clicked', {
+    captureImmediate('product_link_clicked', {
       product_name: product.product_name,
       amazon_id: product.amazon_id,
       brand: product.brand,

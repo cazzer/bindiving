@@ -3,7 +3,7 @@
 import { useEffect, useRef, useState } from 'react'
 import { useRouter } from 'next/navigation'
 import Link from 'next/link'
-import posthog from 'posthog-js'
+import { captureImmediate } from '../lib/posthog-capture'
 
 import ProductCard from '../components/product-card'
 import PillSearchBar from '../components/pill-search-bar'
@@ -139,7 +139,7 @@ export default function HomeClient({ initialTeasers = [], suggestedBestPages = [
                       key={item.slug}
                       href={`/best/${item.slug}`}
                       onClick={() => {
-                        posthog.capture('suggested_best_clicked', { slug: item.slug, term: item.label })
+                        captureImmediate('suggested_best_clicked', { slug: item.slug, term: item.label })
                       }}
                       className="no-underline hover:no-underline px-4 py-2 rounded-lg text-sm font-medium border-2 border-[var(--retro-border)] bg-base-100 hover:bg-base-200 transition-colors font-display"
                     >
@@ -205,12 +205,12 @@ export default function HomeClient({ initialTeasers = [], suggestedBestPages = [
                   return
                 }
                 const url = `${typeof window !== 'undefined' ? window.location.origin : ''}/results/${result.slug}`
+                captureImmediate('result_shared', { slug: result.slug })
                 router.replace(`/results/${result.slug}`)
                 try {
                   await navigator.clipboard?.writeText(url)
                 } catch (_) {}
                 setShareStatus('copied')
-                posthog.capture('result_shared', { slug: result.slug })
                 setTimeout(() => setShareStatus('idle'), 2000)
               }}
               disabled={shareStatus === 'saving' || isSearching}
