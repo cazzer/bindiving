@@ -23,6 +23,17 @@
   path = "/api/stream-search"
   function = "stream-search"
 
+# Security headers for all pages
+[[headers]]
+  for = "/*"
+  [headers.values]
+    X-Frame-Options = "DENY"
+    X-Content-Type-Options = "nosniff"
+    Referrer-Policy = "strict-origin-when-cross-origin"
+    Strict-Transport-Security = "max-age=63072000; includeSubDomains; preload"
+    Permissions-Policy = "camera=(), microphone=(), geolocation=()"
+    Content-Security-Policy = "default-src 'self'; script-src 'self' 'unsafe-inline' 'unsafe-eval' https://www.google.com https://www.gstatic.com https://www.googletagmanager.com https://us.i.posthog.com; style-src 'self' 'unsafe-inline' https://fonts.googleapis.com; img-src 'self' https: data:; connect-src 'self' https://www.google.com https://us.i.posthog.com https://*.sentry.io https://www.google-analytics.com; frame-src https://www.google.com; font-src 'self' https://fonts.gstatic.com data:;"
+
 # Route /api/* to Netlify Functions (needed for netlify dev and production)
 [[redirects]]
   from = "/api/*"

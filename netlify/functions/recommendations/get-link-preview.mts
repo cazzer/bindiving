@@ -4,6 +4,7 @@
  */
 import * as cheerio from 'cheerio'
 import UserAgent from 'user-agents'
+import { assertPublicUrl } from '../../shared/validate-url.ts'
 
 export type LinkPreviewMeta = {
   title: string
@@ -36,6 +37,7 @@ export async function getLinkPreview(targetUrl: string): Promise<LinkPreviewMeta
   if (!targetUrl?.startsWith('http://') && !targetUrl?.startsWith('https://')) {
     throw new Error('Valid url required')
   }
+  await assertPublicUrl(targetUrl)
   const ua = new UserAgent()
   const res = await fetch(targetUrl, {
     headers: { 'User-Agent': ua.toString() },

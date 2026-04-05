@@ -1,8 +1,9 @@
 const CAPTCHA_SECRET_KEY = process.env.SITE_RECAPTCHA_SECRET
 
 export async function processCaptcha(token) {
+  const params = new URLSearchParams({ secret: CAPTCHA_SECRET_KEY, response: token })
   const captchaResponse = await fetch(
-    `https://www.google.com/recaptcha/api/siteverify?secret=${CAPTCHA_SECRET_KEY}&response=${token}`,
+    `https://www.google.com/recaptcha/api/siteverify?${params}`,
     {
       method: 'POST'
     }

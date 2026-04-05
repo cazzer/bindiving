@@ -283,11 +283,15 @@ export function RecommendationsProvider({ children }) {
     if (!query?.trim() || resolved.length === 0) {
       return { error: 'No results to share' }
     }
+    if (!executeRecaptcha) {
+      return { error: 'reCAPTCHA not ready' }
+    }
     try {
+      const recaptchaToken = await executeRecaptcha('save_result')
       const res = await fetch('/api/save-result', {
         method: 'POST',
         headers: { 'Content-Type': 'application/json' },
-        body: JSON.stringify({ query: query.trim(), recommendations: resolved, resolvedLinks: {} })
+        body: JSON.stringify({ query: query.trim(), recommendations: resolved, resolvedLinks: {}, recaptcha: recaptchaToken })
       })
       const data = await res.json().catch(() => ({}))
       if (!res.ok) return { error: data?.error || res.statusText || 'Failed to save' }
@@ -295,7 +299,7 @@ export function RecommendationsProvider({ children }) {
     } catch (err) {
       return { error: err?.message || 'Failed to save' }
     }
-  }, [query, recommendations])
+  }, [query, recommendations, executeRecaptcha])
 
   // Set search props (for header integration)
   const setSearchProps = useCallback((props) => {

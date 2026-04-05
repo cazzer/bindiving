@@ -76,7 +76,7 @@ export default async function linkPreviewHandler(req: Request, context: Context)
       ok: false,
       state: 'unreachable',
       data: emptyData(target),
-      error: { code: 'FETCH_FAILED', message: err instanceof Error ? err.message : 'Failed to fetch URL' }
+      error: { code: 'FETCH_FAILED', message: 'Could not fetch preview for this URL' }
     }
     return new Response(
       JSON.stringify(body),

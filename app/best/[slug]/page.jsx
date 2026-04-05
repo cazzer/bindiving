@@ -15,7 +15,10 @@ function getSlugs() {
   return files.filter((f) => f.isFile() && f.name.endsWith('.json')).map((f) => f.name.replace(/\.json$/, ''))
 }
 
+const SAFE_SLUG = /^[a-z0-9][a-z0-9-]*$/i
+
 function loadPayload(slug) {
+  if (!SAFE_SLUG.test(slug)) return null
   const path = join(CONTENT_DIR, `${slug}.json`)
   if (!existsSync(path)) return null
   const raw = readFileSync(path, 'utf-8')

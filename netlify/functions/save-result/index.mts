@@ -1,6 +1,7 @@
 import { Config } from '@netlify/functions'
 import { getStore } from '@netlify/blobs'
 import { nanoid } from 'nanoid'
+import { processCaptcha } from '../recommendations/recatpcha.mts'
 
 const STORE_NAME = 'search-results'
 const SLUG_LENGTH = 8
@@ -9,6 +10,7 @@ type SaveBody = {
   query?: string
   recommendations?: unknown[]
   resolvedLinks?: Record<string, { title?: string; description?: string; image?: string; url?: string }>
+  recaptcha?: string
 }
 
 export default async function saveResultHandler(req: Request) {
@@ -21,6 +23,15 @@ export default async function saveResultHandler(req: Request) {
     body = await req.json()
   } catch {
     return new Response(JSON.stringify({ error: 'Invalid JSON' }), { status: 400, headers: { 'Content-Type': 'application/json' } })
+  }
+
+  const recaptchaToken = body?.recaptcha
+  if (!recaptchaToken) {
+    return new Response(JSON.stringify({ error: 'recaptcha required' }), { status: 400, headers: { 'Content-Type': 'application/json' } })
+  }
+  const captchaResult = await processCaptcha(recaptchaToken)
+  if (!captchaResult?.success) {
+    return new Response(JSON.stringify({ error: 'Invalid reCAPTCHA' }), { status: 403, headers: { 'Content-Type': 'application/json' } })
   }
 
   const query = typeof body?.query === 'string' ? body.query.trim() : ''

@@ -27,8 +27,9 @@ export default async (request: Request) => {
 
   if (!openaiRes.ok) {
     const text = await openaiRes.text()
-    return new Response(JSON.stringify({ error: 'OpenAI request failed', detail: text }), {
-      status: openaiRes.status
+    console.error('OpenAI stream-response failed:', openaiRes.status, text)
+    return new Response(JSON.stringify({ error: 'Could not retrieve results. Please try again.' }), {
+      status: 502
     })
   }
 
