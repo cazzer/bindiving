@@ -46,7 +46,7 @@ const evaluateProduct = async (request: Request) => {
     })
   }
 
-  let body: { product_name?: string; price?: string; category?: string; asin?: string }
+  let body: { product_name?: string; price?: string; category?: string; asin?: string; exclude_products?: string[] }
   try {
     body = await request.json()
   } catch {
@@ -78,6 +78,7 @@ const evaluateProduct = async (request: Request) => {
           price: body.price,
           category: body.category,
           asin: body.asin,
+          exclude_products: body.exclude_products,
         }),
       },
     ],

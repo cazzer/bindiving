@@ -2,25 +2,26 @@ import { defineConfig } from 'vite'
 import { resolve } from 'path'
 
 // Chrome extension scripts cannot use ES modules.
-// We build content script and popup script separately as IIFE bundles,
-// then copy static assets (popup.html, manifest, icons) via build.sh.
+// We build each entry point separately as IIFE.
+// BUILD_TARGET selects which entry: content | background
 
-const target = process.env.BUILD_TARGET || 'popup'
+const target = process.env.BUILD_TARGET || 'content'
 
 export default defineConfig(({ mode }) => {
   const apiHost = mode === 'development' ? 'http://localhost:8888' : 'https://bindiving.com'
 
-  const entry = target === 'content'
-    ? resolve(__dirname, 'src/content.ts')
-    : resolve(__dirname, 'src/popup.ts')
+  const entries: Record<string, { entry: string; name: string }> = {
+    content: { entry: resolve(__dirname, 'src/content.ts'), name: 'BinDivingContent' },
+    background: { entry: resolve(__dirname, 'src/background.ts'), name: 'BinDivingBG' },
+  }
 
-  const name = target === 'content' ? 'BinDivingContent' : 'BinDivingPopup'
+  const { entry, name } = entries[target] || entries.content
 
   return {
     define: { 'import.meta.env.API_HOST': JSON.stringify(apiHost) },
     build: {
       outDir: 'dist',
-      emptyOutDir: target === 'popup', // only first build clears dist
+      emptyOutDir: target === 'content', // first build clears dist
       lib: {
         entry,
         formats: ['iife'],

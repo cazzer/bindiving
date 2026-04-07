@@ -9,28 +9,51 @@
     "https://www.bindiving.com/api/*",
     "http://localhost:8888/api/*"
   ],
+  "background": {
+    "service_worker": "background.js"
+  },
   "content_scripts": [
     {
       "matches": [
-        "*://*.amazon.com/*",
-        "*://*.amazon.co.uk/*",
-        "*://*.amazon.ca/*",
-        "*://*.amazon.de/*",
-        "*://*.amazon.fr/*",
-        "*://*.amazon.it/*",
-        "*://*.amazon.es/*",
-        "*://*.amazon.co.jp/*",
-        "*://*.amazon.com.au/*",
-        "*://*.amazon.in/*",
-        "*://*.amazon.com.br/*",
-        "*://*.amazon.com.mx/*"
+        "*://www.amazon.com/*",
+        "*://www.amazon.co.uk/*",
+        "*://www.amazon.ca/*",
+        "*://www.amazon.de/*",
+        "*://www.amazon.fr/*",
+        "*://www.amazon.it/*",
+        "*://www.amazon.es/*",
+        "*://www.amazon.co.jp/*",
+        "*://www.amazon.com.au/*",
+        "*://www.amazon.in/*",
+        "*://www.amazon.com.br/*",
+        "*://www.amazon.com.mx/*",
+        "*://smile.amazon.com/*"
       ],
       "js": ["content.js"],
       "run_at": "document_idle"
     }
   ],
+  "web_accessible_resources": [
+    {
+      "resources": ["icons/favicon.svg"],
+      "matches": [
+        "*://www.amazon.com/*",
+        "*://www.amazon.co.uk/*",
+        "*://www.amazon.ca/*",
+        "*://www.amazon.de/*",
+        "*://www.amazon.fr/*",
+        "*://www.amazon.it/*",
+        "*://www.amazon.es/*",
+        "*://www.amazon.co.jp/*",
+        "*://www.amazon.com.au/*",
+        "*://www.amazon.in/*",
+        "*://www.amazon.com.br/*",
+        "*://www.amazon.com.mx/*",
+        "*://smile.amazon.com/*"
+      ]
+    }
+  ],
   "action": {
-    "default_popup": "popup.html",
     "default_icon": {
       "16": "icons/icon16.png",
       "48": "icons/icon48.png",
