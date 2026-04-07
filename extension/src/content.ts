@@ -117,7 +117,7 @@ function getPanel(): { root: ShadowRoot; container: HTMLElement } {
   panel.innerHTML = `
     <div class="bd-header">
       <img class="bd-logo" src="${LOGO_URL}" alt="">
-      <span class="bd-title">Bin Diving</span>
+      <a class="bd-title" href="https://bindiving.com" target="_blank" rel="noopener">Bin Diving</a>
       <span class="bd-mini-verdict"></span>
       <button class="bd-btn bd-redive" title="Re-dive">${REFRESH_ICON}</button>
       <button class="bd-btn bd-minimize" title="Minimize">${MINIMIZE_ICON}</button>

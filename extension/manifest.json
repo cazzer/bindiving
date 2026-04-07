@@ -4,11 +4,6 @@
   "description": "Instantly evaluate Amazon products and find better alternatives.",
   "version": "0.1.0",
   "permissions": ["activeTab", "storage"],
-  "host_permissions": [
-    "https://bindiving.com/api/*",
-    "https://www.bindiving.com/api/*",
-    "http://localhost:8888/api/*"
-  ],
   "background": {
     "service_worker": "background.js"
   },

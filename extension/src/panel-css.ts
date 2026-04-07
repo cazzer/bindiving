@@ -71,7 +71,10 @@ export const PANEL_CSS = `
   font-size: 14px;
   font-weight: 700;
   flex: 1;
+  color: #e8e4dc;
+  text-decoration: none;
 }
+.bd-title:hover { color: #2bdcd2; }
 
 .bd-btn {
   background: none;
