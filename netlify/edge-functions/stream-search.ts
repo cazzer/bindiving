@@ -47,7 +47,8 @@ const streamSearch = async (request: Request) => {
   const openaiBody = isMoreOptions
     ? {
         stream: true,
-        model: 'gpt-4o',
+        model: 'gpt-5-mini',
+        reasoning: { effort: 'low' },
         tools: [{ type: 'web_search' }],
         previous_response_id: previousResponseId,
         input: MORE_OPTIONS_INPUT

@@ -3,7 +3,7 @@ import { useEffect, useLayoutEffect, useRef, useState } from 'react'
 export default function Digging({ streamStatus }) {
   const [fallbackInfo, setFallbackInfo] = useState('Digging...')
   const [currentStatus, setCurrentStatus] = useState(null)
-  const [history, setHistory] = useState([]) // newest first: [{ id, text }]
+  const [history, setHistory] = useState([]) // oldest first: [{ id, text }]
   const prevStatusRef = useRef(null)
   const currentStatusRef = useRef(null)
 
@@ -39,11 +39,9 @@ export default function Digging({ streamStatus }) {
     currentStatusRef.current = normalized
 
     // Push the previous live line into history unless it *was* the special web-digging message.
-    // This keeps "Digging through the web" as a replace-in-place live line (never stored in history),
-    // while still letting other messages slide down into the stack.
     if (prevLive && prevLive !== normalized && !wasWebDigging) {
       const id = `${Date.now()}-${Math.random().toString(16).slice(2)}`
-      setHistory((prev) => [{ id, text: prevLive }, ...prev].slice(0, 8))
+      setHistory((prev) => [...prev, { id, text: prevLive }].slice(-8))
     }
   }, [streamStatus])
 
@@ -103,9 +101,9 @@ export default function Digging({ streamStatus }) {
       prevContainerHeightRef.current = nextHeight
     }
 
-    // Fade-in-down for the live line.
+    // Fade-in-up for the live line (enters from below).
     if (liveEl) {
-      liveEl.style.transform = 'translateY(-6px)'
+      liveEl.style.transform = 'translateY(6px)'
       liveEl.style.opacity = '0'
       liveEl.style.transition = 'transform 220ms ease, opacity 220ms ease'
       liveEl.getBoundingClientRect() // force reflow
@@ -138,7 +136,7 @@ export default function Digging({ streamStatus }) {
       const prev = prevRects.get(h.id)
 
       if (isNew) {
-        el.style.transform = 'translateY(-6px)'
+        el.style.transform = 'translateY(6px)'
         el.style.opacity = '0'
         el.style.transition = 'transform 220ms ease, opacity 220ms ease'
         el.getBoundingClientRect() // force reflow
@@ -180,10 +178,7 @@ export default function Digging({ streamStatus }) {
         ref={containerRef}
         className="mx-auto max-w-2xl flex flex-col gap-2 items-center text-center"
       >
-        <p ref={liveRef} className="text-lg sm:text-xl font-display font-medium text-base-content">
-          {live}
-        </p>
-
+        {/* History: oldest at top, newest at bottom */}
         {history.length > 0 && (
           <div className="w-full max-w-xl text-center">
             <ul className="space-y-1">
@@ -194,7 +189,7 @@ export default function Digging({ streamStatus }) {
                     if (el) historyItemRefs.current.set(h.id, el)
                     else historyItemRefs.current.delete(h.id)
                   }}
-                  className="text-lg sm:text-xl font-display font-medium text-base-content"
+                  className="text-lg sm:text-xl font-display font-medium text-base-content/40"
                 >
                   {h.text}
                 </li>
@@ -202,6 +197,11 @@ export default function Digging({ streamStatus }) {
             </ul>
           </div>
         )}
+
+        {/* Live line: always at the bottom */}
+        <p ref={liveRef} className="text-lg sm:text-xl font-display font-medium text-base-content">
+          {live}
+        </p>
       </div>
     </div>
   )
