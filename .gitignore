@@ -41,6 +41,7 @@ yarn-error.log*
 
 # Chrome extension build output
 extension/dist
+extension/*.zip
 
 # Sentry Config File
 .env.sentry-build-plugin

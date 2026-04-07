@@ -119,6 +119,7 @@ function getPanel(): { root: ShadowRoot; container: HTMLElement } {
       <img class="bd-logo" src="${LOGO_URL}" alt="">
       <a class="bd-title" href="https://bindiving.com" target="_blank" rel="noopener">Bin Diving</a>
       <span class="bd-mini-verdict"></span>
+      <span class="bd-title-spacer"></span>
       <button class="bd-btn bd-redive" title="Re-dive">${REFRESH_ICON}</button>
       <button class="bd-btn bd-minimize" title="Minimize">${MINIMIZE_ICON}</button>
       <button class="bd-btn bd-close" title="Close">${CLOSE_ICON}</button>
@@ -167,7 +168,7 @@ function getPanel(): { root: ShadowRoot; container: HTMLElement } {
 
   const header = shadow.querySelector('.bd-header')! as HTMLElement
   header.addEventListener('pointerdown', (e: PointerEvent) => {
-    if ((e.target as HTMLElement).closest('.bd-btn')) return
+    if ((e.target as HTMLElement).closest('.bd-btn, .bd-title')) return
     dragging = true
     dragStartX = e.clientX
     dragStartY = e.clientY

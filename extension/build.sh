@@ -5,15 +5,21 @@ DIR="$(cd "$(dirname "$0")" && pwd)"
 cd "$DIR"
 
 MODE="${1:-production}"
+VARIANT="${2:-overlay}"  # "overlay" (content script) or "popup" (iframe)
 
-# 1. Build content script (IIFE) — clears dist/
-BUILD_TARGET=content npx vite build --mode "$MODE"
+if [ "$VARIANT" = "popup" ]; then
+  # Popup build: popup + background only
+  BUILD_TARGET=popup npx vite build --mode "$MODE"
+  BUILD_TARGET=background npx vite build --mode "$MODE"
+  cp manifest.popup.json dist/manifest.json
+  cp popup.html dist/
+else
+  # Overlay build: content script + background
+  BUILD_TARGET=content npx vite build --mode "$MODE"
+  BUILD_TARGET=background npx vite build --mode "$MODE"
+  cp manifest.json dist/
+fi
 
-# 2. Build background service worker (IIFE) — appends to dist/
-BUILD_TARGET=background npx vite build --mode "$MODE"
-
-# 3. Copy static assets into dist/
-cp manifest.json dist/
 cp -r icons dist/
 
-echo "Extension built in $DIR/dist/"
+echo "Extension built ($VARIANT) in $DIR/dist/"

@@ -66,11 +66,12 @@ export const PANEL_CSS = `
   filter: brightness(0) invert(1);
 }
 
+.bd-title-spacer { flex: 1; }
+
 .bd-title {
   font-family: 'Fraunces', Georgia, serif;
   font-size: 14px;
   font-weight: 700;
-  flex: 1;
   color: #e8e4dc;
   text-decoration: none;
 }

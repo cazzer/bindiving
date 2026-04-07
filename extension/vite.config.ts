@@ -13,6 +13,7 @@ export default defineConfig(({ mode }) => {
   const entries: Record<string, { entry: string; name: string }> = {
     content: { entry: resolve(__dirname, 'src/content.ts'), name: 'BinDivingContent' },
     background: { entry: resolve(__dirname, 'src/background.ts'), name: 'BinDivingBG' },
+    popup: { entry: resolve(__dirname, 'src/popup.ts'), name: 'BinDivingPopup' },
   }
 
   const { entry, name } = entries[target] || entries.content
@@ -21,7 +22,7 @@ export default defineConfig(({ mode }) => {
     define: { 'import.meta.env.API_HOST': JSON.stringify(apiHost) },
     build: {
       outDir: 'dist',
-      emptyOutDir: target === 'content', // first build clears dist
+      emptyOutDir: target === 'content' || target === 'popup', // first build clears dist
       lib: {
         entry,
         formats: ['iife'],

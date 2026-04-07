@@ -14,8 +14,12 @@
     "test:watch": "vitest",
     "start-all": "netlify dev",
     "prebake": "tsx scripts/prebake.mts",
-    "build:extension": "bash extension/build.sh production",
-    "dev:extension": "bash extension/build.sh development && echo 'Load extension/dist as unpacked in chrome://extensions'"
+    "build:extension": "bash extension/build.sh production overlay",
+    "build:extension:popup": "bash extension/build.sh production popup",
+    "zip:extension": "bash extension/build.sh production overlay && cd extension/dist && zip -r ../bindiving-extension.zip .",
+    "zip:extension:popup": "bash extension/build.sh production popup && cd extension/dist && zip -r ../bindiving-extension.zip .",
+    "dev:extension": "bash extension/build.sh development overlay && echo 'Load extension/dist as unpacked in chrome://extensions'",
+    "dev:extension:popup": "bash extension/build.sh development popup && echo 'Load extension/dist as unpacked in chrome://extensions'"
   },
   "dependencies": {
     "@netlify/blobs": "^10.0.11",
