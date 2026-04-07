@@ -39,6 +39,9 @@ yarn-error.log*
 # Local Netlify folder
 .netlify
 
+# Chrome extension build output
+extension/dist
+
 # Sentry Config File
 .env.sentry-build-plugin
 .env.local

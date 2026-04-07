@@ -207,6 +207,7 @@
         "npm:tsx@^4.19.2",
         "npm:unique-names-generator@^4.7.1",
         "npm:user-agents@^1.1.668",
+        "npm:vite@^5.4.21",
         "npm:vitest@^2.1.0"
       ]
     }

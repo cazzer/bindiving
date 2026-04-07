@@ -1,0 +1,44 @@
+name: Build & Publish Chrome Extension
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'extension/**'
+      - 'app/lib/stream-recommendations.js'
+
+jobs:
+  build-and-publish:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '24'
+          cache: 'npm'
+
+      - run: npm ci
+
+      - run: npm run build:extension
+
+      # Zip the dist for Chrome Web Store upload
+      - run: cd extension/dist && zip -r ../bindiving-extension.zip .
+
+      # Upload as build artifact (always available for download)
+      - uses: actions/upload-artifact@v4
+        with:
+          name: bindiving-extension
+          path: extension/bindiving-extension.zip
+
+      # Publish to Chrome Web Store
+      # To set up: https://developer.chrome.com/docs/webstore/using-api
+      # Required secrets: CHROME_EXTENSION_ID, CHROME_CLIENT_ID, CHROME_CLIENT_SECRET, CHROME_REFRESH_TOKEN
+      - uses: mnao305/chrome-extension-upload@v5
+        if: ${{ vars.CHROME_PUBLISH_ENABLED == 'true' }}
+        with:
+          file-path: extension/bindiving-extension.zip
+          extension-id: ${{ secrets.CHROME_EXTENSION_ID }}
+          client-id: ${{ secrets.CHROME_CLIENT_ID }}
+          client-secret: ${{ secrets.CHROME_CLIENT_SECRET }}
+          refresh-token: ${{ secrets.CHROME_REFRESH_TOKEN }}
